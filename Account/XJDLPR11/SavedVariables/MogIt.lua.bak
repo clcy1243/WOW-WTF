@@ -1,0 +1,27 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["落天一箭 - 瓦拉斯塔兹"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.6.5",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["y"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["global"] = {
+		["version"] = 70000,
+	},
+	["profileKeys"] = {
+		["落天一箭 - 瓦拉斯塔兹"] = "落天一箭 - 瓦拉斯塔兹",
+	},
+	["profiles"] = {
+		["落天一箭 - 瓦拉斯塔兹"] = {
+		},
+	},
+}

@@ -1,0 +1,6 @@
+VER 3 0100000000000001 "冰箱反制" "SPELL_FROST_FROST"
+#showtooltip
+/stopcasting
+/cancelAura 寒冰屏障
+/Cast [modifier:shift,target=focus,harm,nodead]法术反制;[target=mouseover,harm,nodead]法术反制;法术反制
+END

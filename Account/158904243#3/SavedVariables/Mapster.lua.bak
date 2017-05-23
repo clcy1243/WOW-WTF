@@ -1,0 +1,25 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["GroupIcons"] = {
+		},
+		["Coords"] = {
+		},
+		["FogClear"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 2,
+				},
+			},
+		},
+		["BattleMap"] = {
+		},
+	},
+	["profileKeys"] = {
+		["谁是蓝猫呢 - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,35 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ffdamagedone"] = 0,
+		["overhealing"] = 0,
+		["interrupts"] = 0,
+		["ccbreaks"] = 0,
+		["auras"] = {
+		},
+		["damage"] = 0,
+		["players"] = {
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+		},
+		["power"] = {
+		},
+		["difficultyname"] = "Normal",
+		["healing"] = 0,
+		["healingRequired"] = 0,
+		["time"] = 0,
+		["mobtaken"] = 0,
+		["starttime"] = 1495432506,
+		["name"] = "总计",
+		["damagetaken"] = 0,
+		["shielding"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1495432506,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+	},
+}

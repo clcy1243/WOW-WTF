@@ -1,0 +1,10 @@
+VER 3 0000000000000022 "1" "INV_MISC_QUESTIONMARK"
+/run for k, v in pairs({ ["炮舰"] = 32098, ["怒之煞"] = 32099, ["纳拉克"] = 32518, ["乌达斯塔"] = 32519}) do print(format("%s: %s", k, IsQuestFlaggedCompleted(v) and "\124cff00ff00已杀\124r" or "\124cffff0000未杀\124r")) end
+END
+VER 3 000000000000001B "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 驱散魔法;  [@mouseover,exists,mod:ctrl] 纯净术; [@mouseover,exists,mod:shift] 驱散魔法
+END
+VER 3 0000000000000018 "DS" "SPELL_SHADOW_ANTIMAGICSHELL"
+/click ExtraActionButton1
+END

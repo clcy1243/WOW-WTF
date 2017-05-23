@@ -1,0 +1,3246 @@
+
+_detalhes_database = {
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["active_profile"] = "離退休小蘿莉-主宰之剑",
+	["last_day"] = "17",
+	["ignore_nicktag"] = false,
+	["combat_counter"] = 58,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
+			["lasttry"] = {
+			},
+			["annouce"] = true,
+			["dpshistory"] = {
+			},
+			["dps"] = 0,
+			["author"] = "Details! Team",
+			["level"] = 1,
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_DEATH_GRAPHICS"] = {
+			["last_boss"] = false,
+			["v1"] = true,
+			["captures"] = {
+				false, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+			},
+			["first_run"] = false,
+			["endurance_threshold"] = 3,
+			["max_deaths_for_timeline"] = 5,
+			["deaths_threshold"] = 10,
+			["show_icon"] = 1,
+			["max_segments_for_current"] = 2,
+			["max_deaths_for_current"] = 15,
+			["last_player"] = false,
+			["InstalledAt"] = 1481915851,
+			["last_encounter_hash"] = false,
+			["showing_type"] = 4,
+			["timeline_cutoff_time"] = 3,
+			["last_segment"] = false,
+			["last_combat_id"] = 0,
+			["timeline_cutoff_delete_time"] = 3,
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_TIME_ATTACK"] = {
+			["enabled"] = true,
+			["realm_last_shown"] = 40,
+			["saved_as_anonymous"] = true,
+			["recently_as_anonymous"] = true,
+			["dps"] = 0,
+			["disable_sharing"] = false,
+			["history"] = {
+			},
+			["time"] = 40,
+			["history_lastindex"] = 0,
+			["realm_lastamt"] = 0,
+			["realm_history"] = {
+			},
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_CHART_VIEWER"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["tabs"] = {
+				{
+					["name"] = "Your Damage",
+					["segment_type"] = 2,
+					["version"] = "v2.0",
+					["data"] = "Player Damage Done",
+					["texture"] = "line",
+				}, -- [1]
+				["last_selected"] = 1,
+			},
+			["options"] = {
+				["auto_create"] = true,
+				["show_method"] = 4,
+				["window_scale"] = 1,
+			},
+		},
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["useclasscolors"] = false,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["showamount"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_TIME_LINE"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_RAID_POWER_BARS"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_TARGET_CALLER"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.000030517578, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 160,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["scale"] = 1,
+			["point"] = "CENTER",
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["y"] = 4.577636718750e-005,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["row_height"] = 20,
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 3.05175781250e-005,
+				["x"] = 3.05175781250e-005,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+				["attribute_type"] = 1,
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+	},
+	["savedbuffs"] = {
+	},
+	["character_data"] = {
+		["logons"] = 1,
+	},
+	["last_instance_time"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 27,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["被驱逐的诺曼提斯"] = true,
+							},
+							["targets"] = {
+								["被驱逐的诺曼提斯"] = 3267837,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 3267837.006974,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1481918818,
+							["friendlyfire_total"] = 0,
+							["spec"] = 62,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[157980] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 152647,
+										["targets"] = {
+											["被驱逐的诺曼提斯"] = 152647,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 152647,
+										["n_min"] = 152647,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 152647,
+										["c_max"] = 0,
+										["id"] = 157980,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[30451] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 2076873,
+										["g_amt"] = 0,
+										["n_max"] = 305726,
+										["targets"] = {
+											["被驱逐的诺曼提斯"] = 2639808,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 562935,
+										["n_min"] = 86561,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 2639808,
+										["c_max"] = 791393,
+										["id"] = 30451,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 505946,
+									},
+									[7268] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 97373,
+										["targets"] = {
+											["被驱逐的诺曼提斯"] = 475382,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 475382,
+										["n_min"] = 92739,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 475382,
+										["c_max"] = 0,
+										["id"] = 7268,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["total"] = 3267837.006974,
+							["serial"] = "Player-1955-01ABC308",
+							["last_dps"] = 204061.259334014,
+							["custom"] = 0,
+							["last_event"] = 1481918818,
+							["damage_taken"] = 361466.006974,
+							["start_time"] = 1481918802,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 27,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.008632,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["離退休小蘿莉"] = true,
+							},
+							["targets"] = {
+								["離退休小蘿莉"] = 422133,
+							},
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["targets_absorbs"] = {
+							},
+							["classe"] = "MAGE",
+							["totalover"] = 0.008632,
+							["total_without_pet"] = 422133.008632,
+							["totalover_without_pet"] = 0.008632,
+							["heal_enemy_amt"] = 0,
+							["fight_component"] = true,
+							["total"] = 422133.008632,
+							["healing_taken"] = 422133.008632,
+							["end_time"] = 1481918818,
+							["nome"] = "離退休小蘿莉",
+							["spec"] = 62,
+							["grupo"] = true,
+							["last_event"] = 1481918818,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 17526,
+										["targets"] = {
+											["離退休小蘿莉"] = 60667,
+										},
+										["n_min"] = 1608,
+										["counter"] = 9,
+										["overheal"] = 0,
+										["total"] = 60667,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 60667,
+										["m_healed"] = 0,
+										["n_amt"] = 9,
+										["absorbed"] = 0,
+									},
+									[11426] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 183178,
+										["targets"] = {
+											["離退休小蘿莉"] = 361466,
+										},
+										["n_min"] = 178288,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 361466,
+										["c_max"] = 0,
+										["id"] = 11426,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 361466,
+										["m_healed"] = 0,
+										["n_amt"] = 2,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1481918803,
+							["serial"] = "Player-1955-01ABC308",
+							["delay"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 27,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["resource"] = 6.006902,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "MAGE",
+							["fight_component"] = true,
+							["total"] = 0.006902,
+							["nome"] = "離退休小蘿莉",
+							["spec"] = 62,
+							["grupo"] = true,
+							["resource_type"] = 16,
+							["tipo"] = 3,
+							["received"] = 0.006902,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["serial"] = "Player-1955-01ABC308",
+							["last_event"] = 1481918818,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 27,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["cooldowns_defensive"] = 1.004626,
+							["pets"] = {
+							},
+							["last_cooldown"] = {
+								1481919001.265, -- [1]
+								45438, -- [2]
+							},
+							["classe"] = "MAGE",
+							["cooldowns_defensive_targets"] = {
+								["離退休小蘿莉"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[215632] = {
+										["actived_at"] = 1481918802,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 215632,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["咒术洪流"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "咒术洪流",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[156150] = {
+										["uptime"] = 9,
+										["activedamt"] = 2,
+										["id"] = 156150,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["战士的印记"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "战士的印记",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[79683] = {
+										["actived_at"] = 1481918806,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 79683,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["寒冰护体"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "寒冰护体",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["加速"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "加速",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["奥术飞弹！"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "奥术飞弹！",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["专注闪电"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "专注闪电",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["魔力探测石"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "魔力探测石",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "離退休小蘿莉",
+							["spec"] = 62,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[157980] = 1,
+								[30451] = 5,
+								[7268] = 5,
+							},
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[45438] = {
+										["id"] = 45438,
+										["targets"] = {
+											["離退休小蘿莉"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 9,
+							["serial"] = "Player-1955-01ABC308",
+							["last_event"] = 1481919000,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 27,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["離退休小蘿莉"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "被驱逐的诺曼提斯",
+				["combat_counter"] = 56,
+				["totals"] = {
+					3267836.840971, -- [1]
+					422133, -- [2]
+					{
+						-0.00742800000000088, -- [1]
+						[0] = -0.00430900001083501,
+						[6] = 0,
+						[3] = -0.0084149999999994,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = -0.0069570000000001,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["離退休小蘿莉"] = {
+						{
+							1, -- [1]
+							45438, -- [2]
+							1, -- [3]
+							1481919001.265, -- [4]
+							1080780, -- [5]
+							"離退休小蘿莉", -- [6]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["離退休小蘿莉"] = 422133.008632,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["離退休小蘿莉"] = 3267837.014504,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 62912.687,
+				["combat_id"] = 27,
+				["instance_type"] = "none",
+				["resincked"] = true,
+				["frags"] = {
+					["被驱逐的诺曼提斯"] = 1,
+				},
+				["data_fim"] = "04:06:59",
+				["data_inicio"] = "04:06:43",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					3267837, -- [1]
+					422133, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 62896.673,
+				["contra"] = "被驱逐的诺曼提斯",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 26,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["环境伤害 (高处坠落)"] = true,
+								["迷失的工人"] = true,
+							},
+							["targets"] = {
+								["迷失的工人"] = 15279,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 15279.007255,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1481918794,
+							["friendlyfire_total"] = 0,
+							["spec"] = 62,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[234108] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 15279,
+										["targets"] = {
+											["迷失的工人"] = 15279,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 15279,
+										["n_min"] = 15279,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 15279,
+										["c_max"] = 0,
+										["id"] = 234108,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["total"] = 15279.007255,
+							["serial"] = "Player-1955-01ABC308",
+							["last_dps"] = 954.818601112337,
+							["custom"] = 0,
+							["last_event"] = 1481918778,
+							["damage_taken"] = 738409.007255,
+							["start_time"] = 1481918793,
+							["delay"] = 1481918778,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 26,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.006739,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["離退休小蘿莉"] = true,
+							},
+							["targets"] = {
+								["離退休小蘿莉"] = 284,
+							},
+							["last_event"] = 1481918778,
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.006739,
+							["targets_overheal"] = {
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.006739,
+							["total_without_pet"] = 284.006739,
+							["iniciar_hps"] = false,
+							["classe"] = "MAGE",
+							["fight_component"] = true,
+							["total"] = 284.006739,
+							["serial"] = "Player-1955-01ABC308",
+							["healing_taken"] = 284.006739,
+							["nome"] = "離退休小蘿莉",
+							["spec"] = 62,
+							["grupo"] = true,
+							["end_time"] = 1481918794,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 284,
+										["targets"] = {
+											["離退休小蘿莉"] = 284,
+										},
+										["n_min"] = 284,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 284,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 284,
+										["m_healed"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1481918793,
+							["delay"] = 1481918778,
+							["targets_absorbs"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 26,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["resource"] = 1.005863,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "MAGE",
+							["total"] = 0.005863,
+							["nome"] = "離退休小蘿莉",
+							["spec"] = 62,
+							["grupo"] = true,
+							["resource_type"] = 16,
+							["tipo"] = 3,
+							["received"] = 0.005863,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["serial"] = "Player-1955-01ABC308",
+							["last_event"] = 1481918802,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 26,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 62,
+							["grupo"] = true,
+							["flag_original"] = 1047,
+							["buff_uptime"] = 4,
+							["nome"] = "離退休小蘿莉",
+							["pets"] = {
+							},
+							["last_event"] = 1481918794,
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["actived_at"] = 1481918778,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["魔力探测石"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "魔力探测石",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["奥利瑟拉佐尔的烈焰之爪"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "奥利瑟拉佐尔的烈焰之爪",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[156150] = {
+										["uptime"] = 4,
+										["activedamt"] = 1,
+										["id"] = 156150,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["战士的印记"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "战士的印记",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[227723] = {
+										["actived_at"] = 1481918778,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[101542] = {
+										["actived_at"] = 1481918778,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 101542,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["咒术洪流"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "咒术洪流",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[116267] = {
+										["actived_at"] = 1481918778,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 116267,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1955-01ABC308",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 26,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["離退休小蘿莉"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "迷失的工人",
+				["combat_counter"] = 55,
+				["totals"] = {
+					15278.982509, -- [1]
+					283.992833, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["離退休小蘿莉"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							367749, -- [3]
+							1481918795.176, -- [4]
+							1813059, -- [5]
+							"环境伤害 (高处坠落)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["離退休小蘿莉"] = 284.006739,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["離退休小蘿莉"] = 15279.007255,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 62887.866,
+				["combat_id"] = 26,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "04:06:34",
+				["data_inicio"] = "04:06:18",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					15279, -- [1]
+					284, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 62871.864,
+				["contra"] = "迷失的工人",
+				["TimeData"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["combatId"] = 25,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["凋零者吉姆"] = true,
+								["永夜能量 <凋零者吉姆>"] = true,
+							},
+							["targets"] = {
+								["凋零者吉姆"] = 181114,
+							},
+							["pets"] = {
+							},
+							["total"] = 181114.005904,
+							["friendlyfire"] = {
+							},
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 181114.005904,
+							["spec"] = 62,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["end_time"] = 1481918607,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[30451] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 40624,
+										["targets"] = {
+											["凋零者吉姆"] = 89901,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 89901,
+										["n_min"] = 7729,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 89901,
+										["c_max"] = 0,
+										["id"] = 30451,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[7268] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 17989,
+										["g_amt"] = 0,
+										["n_max"] = 9088,
+										["targets"] = {
+											["凋零者吉姆"] = 91213,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 73224,
+										["n_min"] = 7421,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 91213,
+										["c_max"] = 17989,
+										["id"] = 7268,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["r_amt"] = 0,
+										["c_min"] = 17989,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1955-01ABC308",
+							["last_dps"] = 8624.47647161905,
+							["custom"] = 0,
+							["last_event"] = 1481918598,
+							["damage_taken"] = 2779035.005904,
+							["start_time"] = 1481918586,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 25,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.008726,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["離退休小蘿莉"] = true,
+							},
+							["targets"] = {
+								["離退休小蘿莉"] = 1330067,
+							},
+							["targets_absorbs"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.008726,
+							["targets_overheal"] = {
+								["離退休小蘿莉"] = 90218,
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 90218.008726,
+							["total_without_pet"] = 1330067.008726,
+							["spec"] = 62,
+							["iniciar_hps"] = false,
+							["fight_component"] = true,
+							["total"] = 1330067.008726,
+							["classe"] = "MAGE",
+							["healing_taken"] = 1330067.008726,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["離退休小蘿莉"] = 2611,
+										},
+										["n_max"] = 754,
+										["targets"] = {
+											["離退休小蘿莉"] = 754,
+										},
+										["n_min"] = 754,
+										["counter"] = 7,
+										["overheal"] = 2611,
+										["total"] = 754,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 754,
+										["m_healed"] = 0,
+										["n_amt"] = 7,
+										["absorbed"] = 0,
+									},
+									[11426] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["離退休小蘿莉"] = 87607,
+										},
+										["n_max"] = 663548,
+										["targets"] = {
+											["離退休小蘿莉"] = 1241706,
+										},
+										["n_min"] = 44911,
+										["counter"] = 5,
+										["overheal"] = 87607,
+										["total"] = 1241706,
+										["c_max"] = 0,
+										["id"] = 11426,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = -87607,
+										["m_amt"] = 0,
+										["c_min"] = -87606,
+										["n_curado"] = 1329313,
+										["m_healed"] = 0,
+										["n_amt"] = 3,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["end_time"] = 1481918607,
+							["heal_enemy"] = {
+							},
+							["last_event"] = 1481918598,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1481918586,
+							["serial"] = "Player-1955-01ABC308",
+							["delay"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 25,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["resource"] = 5.008138,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "MAGE",
+							["fight_component"] = true,
+							["resource_type"] = 16,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 62,
+							["tipo"] = 3,
+							["received"] = 0.008138,
+							["total"] = 0.008138,
+							["serial"] = "Player-1955-01ABC308",
+							["last_event"] = 1481918598,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 25,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["fight_component"] = true,
+							["flag_original"] = 1047,
+							["nome"] = "離退休小蘿莉",
+							["spec"] = 62,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 36,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[212653] = 2,
+								[7268] = 10,
+								[30451] = 3,
+								[11426] = 1,
+							},
+							["tipo"] = 4,
+							["last_event"] = 1481918607,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[215632] = {
+										["uptime"] = 20,
+										["activedamt"] = 1,
+										["id"] = 215632,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["魔力探测石"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "魔力探测石",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[212653] = {
+										["uptime"] = 1,
+										["activedamt"] = 2,
+										["id"] = 212653,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[156150] = {
+										["uptime"] = 8,
+										["activedamt"] = 2,
+										["id"] = 156150,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["战士的印记"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "战士的印记",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[79683] = {
+										["uptime"] = 4,
+										["activedamt"] = 1,
+										["id"] = 79683,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["闪回信标"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "闪回信标",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["寒冰护体"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "寒冰护体",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[212799] = {
+										["actived_at"] = 1481918600,
+										["uptime"] = 1,
+										["activedamt"] = 1,
+										["id"] = 212799,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["咒术洪流"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "咒术洪流",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[198924] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = 198924,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["加速"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "加速",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[11426] = {
+										["uptime"] = 1,
+										["activedamt"] = 0,
+										["id"] = 11426,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[207283] = {
+										["actived_at"] = 1481918600,
+										["uptime"] = 1,
+										["activedamt"] = 1,
+										["id"] = 207283,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["贝洛瓦尔的最后一搏"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "贝洛瓦尔的最后一搏",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1955-01ABC308",
+							["classe"] = "MAGE",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 25,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["離退休小蘿莉"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "凋零者吉姆",
+				["combat_counter"] = 54,
+				["totals"] = {
+					181113.975863, -- [1]
+					1330067, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["離退休小蘿莉"] = 1330067.008726,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["離退休小蘿莉"] = 181114.005904,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 62700.994,
+				["combat_id"] = 25,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "04:03:28",
+				["data_inicio"] = "04:03:07",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					181114, -- [1]
+					1242460, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 62679.994,
+				["contra"] = "凋零者吉姆",
+				["TimeData"] = {
+				},
+			}, -- [3]
+			{
+				{
+					["combatId"] = 24,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["黑火魔翼蝠"] = true,
+								["恶毒漫步者"] = true,
+								["掠行者"] = true,
+								["魔血蛆虫"] = true,
+								["环境伤害 (高处坠落)"] = true,
+							},
+							["targets"] = {
+								["掠行者"] = 30558,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 30558.005638,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1481918470,
+							["friendlyfire_total"] = 0,
+							["spec"] = 62,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[234108] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 15279,
+										["targets"] = {
+											["掠行者"] = 30558,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 30558,
+										["n_min"] = 15279,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 30558,
+										["c_max"] = 0,
+										["id"] = 234108,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["total"] = 30558.005638,
+							["serial"] = "Player-1955-01ABC308",
+							["last_dps"] = 6105.49563197123,
+							["custom"] = 0,
+							["last_event"] = 1481918467,
+							["damage_taken"] = 2839576.005638,
+							["start_time"] = 1481918467,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 24,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.005388,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["離退休小蘿莉"] = true,
+							},
+							["targets"] = {
+								["離退休小蘿莉"] = 273677,
+							},
+							["last_event"] = 1481918468,
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.005388,
+							["targets_overheal"] = {
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.005388,
+							["total_without_pet"] = 273677.005388,
+							["iniciar_hps"] = false,
+							["classe"] = "MAGE",
+							["fight_component"] = true,
+							["total"] = 273677.005388,
+							["serial"] = "Player-1955-01ABC308",
+							["healing_taken"] = 273677.005388,
+							["nome"] = "離退休小蘿莉",
+							["spec"] = 62,
+							["grupo"] = true,
+							["end_time"] = 1481918470,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[207283] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 213170,
+										["targets"] = {
+											["離退休小蘿莉"] = 273110,
+										},
+										["n_min"] = 28548,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 273110,
+										["c_max"] = 0,
+										["id"] = 207283,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 273110,
+										["m_healed"] = 0,
+										["n_amt"] = 3,
+										["absorbed"] = 0,
+									},
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 567,
+										["targets"] = {
+											["離退休小蘿莉"] = 567,
+										},
+										["n_min"] = 567,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 567,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 567,
+										["m_healed"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1481918467,
+							["delay"] = 0,
+							["targets_absorbs"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 24,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["resource"] = 1.00841,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "MAGE",
+							["resource_type"] = 16,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 62,
+							["tipo"] = 3,
+							["received"] = 0.00841,
+							["total"] = 0.00841,
+							["serial"] = "Player-1955-01ABC308",
+							["last_event"] = 1481918586,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 24,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["cooldowns_defensive"] = 1.004621,
+							["pets"] = {
+							},
+							["last_cooldown"] = {
+								1481918470.357, -- [1]
+								110960, -- [2]
+							},
+							["classe"] = "MAGE",
+							["cooldowns_defensive_targets"] = {
+								["離退休小蘿莉"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[113862] = {
+										["actived_at"] = 1481918469,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 113862,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[212799] = {
+										["actived_at"] = 1481918468,
+										["uptime"] = 2,
+										["activedamt"] = 1,
+										["id"] = 212799,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[212653] = {
+										["uptime"] = 1,
+										["activedamt"] = 2,
+										["id"] = 212653,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[156150] = {
+										["actived_at"] = 1481918467,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 156150,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["战士的印记"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "战士的印记",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["闪回信标"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "闪回信标",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[110960] = {
+										["actived_at"] = 1481918469,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 110960,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["白色原始迅猛龙"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "白色原始迅猛龙",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["强化隐形术"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "强化隐形术",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[207283] = {
+										["actived_at"] = 1481918468,
+										["uptime"] = 2,
+										["activedamt"] = 1,
+										["id"] = 207283,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["咒术洪流"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "咒术洪流",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["魔力探测石"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "魔力探测石",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["贝洛瓦尔的最后一搏"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "贝洛瓦尔的最后一搏",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 62,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[212653] = 2,
+								[110959] = 1,
+								[110960] = 1,
+							},
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[110960] = {
+										["id"] = 110960,
+										["targets"] = {
+											["離退休小蘿莉"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["last_event"] = 1481918470,
+							["buff_uptime"] = 5,
+							["nome"] = "離退休小蘿莉",
+							["serial"] = "Player-1955-01ABC308",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 24,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["離退休小蘿莉"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "魔血蛆虫",
+				["combat_counter"] = 53,
+				["totals"] = {
+					30557.9705039997, -- [1]
+					273677, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["離退休小蘿莉"] = {
+						{
+							true, -- [1]
+							222487, -- [2]
+							65061, -- [3]
+							1481918508.712, -- [4]
+							1420060, -- [5]
+							"恶毒漫步者", -- [6]
+							nil, -- [7]
+							32, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							222487, -- [2]
+							65061, -- [3]
+							1481918511.842, -- [4]
+							1376972, -- [5]
+							"恶毒漫步者", -- [6]
+							nil, -- [7]
+							32, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [2]
+						{
+							true, -- [1]
+							3, -- [2]
+							2151863, -- [3]
+							1481918530.607, -- [4]
+							1465111, -- [5]
+							"环境伤害 (高处坠落)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [3]
+						{
+							true, -- [1]
+							3, -- [2]
+							268657, -- [3]
+							1481918552.258, -- [4]
+							1080780, -- [5]
+							"环境伤害 (高处坠落)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 5,
+					},
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["離退休小蘿莉"] = 273677.005388,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["離退休小蘿莉"] = 30558.005638,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 62563.731,
+				["combat_id"] = 24,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "04:01:10",
+				["data_inicio"] = "04:01:05",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					30558, -- [1]
+					273677, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 62558.726,
+				["contra"] = "魔血蛆虫",
+				["TimeData"] = {
+				},
+			}, -- [4]
+			{
+				{
+					["combatId"] = 23,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["托伦提斯"] = true,
+								["积怨飓语者"] = true,
+							},
+							["targets"] = {
+								["托伦提斯"] = 45836,
+								["积怨飓语者"] = 4708336,
+							},
+							["pets"] = {
+							},
+							["total"] = 4754172.003463,
+							["friendlyfire"] = {
+							},
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 4754172.003463,
+							["spec"] = 62,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["end_time"] = 1481918345,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[7268] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 166858,
+										["g_amt"] = 0,
+										["n_max"] = 90271,
+										["targets"] = {
+											["积怨飓语者"] = 1462795,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1295937,
+										["n_min"] = 80450,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 1462795,
+										["c_max"] = 166858,
+										["id"] = 7268,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 15,
+										["r_amt"] = 0,
+										["c_min"] = 166858,
+									},
+									[30451] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 817535,
+										["g_amt"] = 0,
+										["n_max"] = 382339,
+										["targets"] = {
+											["积怨飓语者"] = 2518708,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1701173,
+										["n_min"] = 92744,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 2518708,
+										["c_max"] = 817535,
+										["id"] = 30451,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 817535,
+									},
+									[157980] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 152647,
+										["targets"] = {
+											["积怨飓语者"] = 152647,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 152647,
+										["n_min"] = 152647,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 152647,
+										["c_max"] = 0,
+										["id"] = 157980,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[234108] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 91672,
+										["g_amt"] = 0,
+										["n_max"] = 15279,
+										["targets"] = {
+											["托伦提斯"] = 45836,
+											["积怨飓语者"] = 106951,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 61115,
+										["n_min"] = 15278,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 152787,
+										["c_max"] = 30558,
+										["id"] = 234108,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 30557,
+									},
+									[44425] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 467235,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["积怨飓语者"] = 467235,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 467235,
+										["c_max"] = 467235,
+										["id"] = 44425,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 467235,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1955-01ABC308",
+							["last_dps"] = 125060.42360813,
+							["custom"] = 0,
+							["last_event"] = 1481918344,
+							["damage_taken"] = 2789746.003463,
+							["start_time"] = 1481918323,
+							["delay"] = 1481918307,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 23,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.008127,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["離退休小蘿莉"] = true,
+							},
+							["targets"] = {
+								["離退休小蘿莉"] = 1233361,
+							},
+							["targets_absorbs"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.008127,
+							["targets_overheal"] = {
+								["離退休小蘿莉"] = 1,
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 1.008127,
+							["total_without_pet"] = 1233361.008127,
+							["spec"] = 62,
+							["iniciar_hps"] = false,
+							["fight_component"] = true,
+							["total"] = 1233361.008127,
+							["classe"] = "MAGE",
+							["healing_taken"] = 1233361.008127,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[207283] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 142803,
+										["targets"] = {
+											["離退休小蘿莉"] = 437206,
+										},
+										["n_min"] = 94990,
+										["counter"] = 4,
+										["overheal"] = 0,
+										["total"] = 437206,
+										["c_max"] = 0,
+										["id"] = 207283,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 437206,
+										["m_healed"] = 0,
+										["n_amt"] = 4,
+										["absorbed"] = 0,
+									},
+									[11426] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["離退休小蘿莉"] = 1,
+										},
+										["n_max"] = 191343,
+										["targets"] = {
+											["離退休小蘿莉"] = 708458,
+										},
+										["n_min"] = 97592,
+										["counter"] = 6,
+										["overheal"] = 1,
+										["total"] = 708458,
+										["c_max"] = 0,
+										["id"] = 11426,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = -1,
+										["m_amt"] = 0,
+										["c_min"] = -1,
+										["n_curado"] = 708459,
+										["m_healed"] = 0,
+										["n_amt"] = 5,
+										["absorbed"] = 0,
+									},
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 18493,
+										["targets"] = {
+											["離退休小蘿莉"] = 87696,
+										},
+										["n_min"] = 567,
+										["counter"] = 14,
+										["overheal"] = 0,
+										["total"] = 87696,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 87696,
+										["m_healed"] = 0,
+										["n_amt"] = 14,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["end_time"] = 1481918345,
+							["heal_enemy"] = {
+							},
+							["last_event"] = 1481918344,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1481918320,
+							["serial"] = "Player-1955-01ABC308",
+							["delay"] = 1481918307,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 23,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["resource"] = 8.008858,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "MAGE",
+							["fight_component"] = true,
+							["resource_type"] = 16,
+							["nome"] = "離退休小蘿莉",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 62,
+							["tipo"] = 3,
+							["received"] = 0.008858,
+							["total"] = 0.008858,
+							["serial"] = "Player-1955-01ABC308",
+							["last_event"] = 1481918343,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 23,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["cooldowns_defensive"] = 1.002253,
+							["pets"] = {
+							},
+							["last_cooldown"] = {
+								1481918345.937, -- [1]
+								110960, -- [2]
+							},
+							["classe"] = "MAGE",
+							["cooldowns_defensive_targets"] = {
+								["離退休小蘿莉"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									["专注闪电"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "专注闪电",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[110960] = {
+										["actived_at"] = 1481918345,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 110960,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[79683] = {
+										["uptime"] = 2,
+										["activedamt"] = 1,
+										["id"] = 79683,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[156150] = {
+										["uptime"] = 22,
+										["activedamt"] = 4,
+										["id"] = 156150,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["加速"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "加速",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[215632] = {
+										["actived_at"] = 1481918331,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 215632,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["咒术洪流"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "咒术洪流",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["强化隐形术"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "强化隐形术",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[11426] = {
+										["uptime"] = 8,
+										["activedamt"] = 1,
+										["id"] = 11426,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[198924] = {
+										["actived_at"] = 1481918341,
+										["uptime"] = 15,
+										["activedamt"] = 2,
+										["id"] = 198924,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["魔力探测石"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "魔力探测石",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[212653] = {
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 212653,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["战士的印记"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "战士的印记",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[207283] = {
+										["uptime"] = 15,
+										["activedamt"] = 1,
+										["id"] = 207283,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[212799] = {
+										["uptime"] = 12,
+										["activedamt"] = 1,
+										["id"] = 212799,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[113862] = {
+										["actived_at"] = 1481918345,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 113862,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									["奥术飞弹！"] = {
+										["uptime"] = 0,
+										["activedamt"] = 0,
+										["id"] = "奥术飞弹！",
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "離退休小蘿莉",
+							["spec"] = 62,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[11426] = 1,
+								[30451] = 6,
+								[157980] = 1,
+								[110959] = 1,
+								[110960] = 1,
+								[212653] = 1,
+								[44425] = 1,
+								[7268] = 16,
+							},
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[110960] = {
+										["id"] = 110960,
+										["targets"] = {
+											["離退休小蘿莉"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["last_event"] = 1481918345,
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["serial"] = "Player-1955-01ABC308",
+							["buff_uptime"] = 74,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 23,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["離退休小蘿莉"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "积怨飓语者",
+				["combat_counter"] = 52,
+				["totals"] = {
+					4754171.92940101, -- [1]
+					1233360.978674, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.010053,
+						[6] = -0.007907000000003,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["離退休小蘿莉"] = 1233361.008127,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["離退休小蘿莉"] = 4754172.003463,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 62439.127,
+				["combat_id"] = 23,
+				["instance_type"] = "none",
+				["frags"] = {
+					["力一卜"] = 1,
+					["上海炒面"] = 2,
+				},
+				["data_fim"] = "03:59:06",
+				["data_inicio"] = "03:58:28",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					4754172, -- [1]
+					1233360, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 62401.112,
+				["contra"] = "积怨飓语者",
+				["TimeData"] = {
+				},
+			}, -- [5]
+		},
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1483211851,
+		["last_version"] = 8,
+	},
+	["tabela_instancias"] = {
+	},
+	["combat_id"] = 27,
+	["savedStyles"] = {
+	},
+	["last_version"] = "v7.1.0.3231",
+	["cached_talents"] = {
+		["Player-741-0455FAB3"] = {
+			22505, -- [1]
+			22324, -- [2]
+			22508, -- [3]
+			22768, -- [4]
+			22503, -- [5]
+			22511, -- [6]
+			22543, -- [7]
+		},
+		["Player-1955-01ABC308"] = {
+			22442, -- [1]
+			22464, -- [2]
+			21144, -- [3]
+			22453, -- [4]
+			22447, -- [5]
+			22455, -- [6]
+			22446, -- [7]
+		},
+		["Player-1687-01DC6B2E"] = {
+			18571, -- [1]
+			21778, -- [2]
+			21653, -- [3]
+			22158, -- [4]
+			21705, -- [5]
+			22364, -- [6]
+			21714, -- [7]
+		},
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 0,
+		["data_inicio"] = 0,
+		["combat_counter"] = 3,
+		["last_events_tables"] = {
+		},
+		["raid_roster"] = {
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["CombatSkillCache"] = {
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["TimeData"] = {
+			["Player Damage Done"] = {
+			},
+			["Raid Damage Done"] = {
+			},
+		},
+		["__call"] = {
+		},
+	},
+	["last_realversion"] = 115,
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = 34.5001220703125,
+					["x"] = -761.749893188477,
+					["w"] = 320,
+					["h"] = 129.999984741211,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_instance_id"] = 0,
+	["cached_specs"] = {
+		["Player-1955-01ABC308"] = 62,
+		["Player-1955-01C1452F"] = 260,
+		["Player-1955-018609C6"] = 70,
+		["Player-1955-017D642F"] = 72,
+		["Player-1955-01C1C47D"] = 265,
+		["Player-1955-01C01179"] = 66,
+	},
+}

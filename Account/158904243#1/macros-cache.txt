@@ -1,0 +1,274 @@
+VER 3 000000000000002D "1" "INV_Misc_QuestionMark"
+#showtooltip 神圣震击
+/use [@mouseover,harm] [@target,harm] [@targettarget,harm] [@targettargettarget,harm] [@boss1,harm] [@boss2,harm] [@boss3,harm] 神圣震击
+END
+VER 3 000000000000002E "1" "INV_Misc_QuestionMark"
+#showtooltip 审判
+/use [@mouseover,harm] [@target,harm] [@targettarget,harm] [@targettargettarget,harm] [@boss1,harm] [@boss2,harm] [@boss3,harm] 审判
+END
+VER 3 000000000000002F "3" "INV_MISC_QUESTIONMARK"
+/click PVPReadyDialogEnterBattleButton
+/click StaticPopup1Button2
+/click ConquestJoinButton
+END
+VER 3 0000000000000030 "a1" "INV_MISC_QUESTIONMARK"
+/run LeaveBattlefield()
+END
+VER 3 0000000000000031 "AM" "ABILITY_MELEEDAMAGE"
+/run SetCVar("Sound_EnableSFX","0")
+/use [nochanneling] 13
+/use [nochanneling] 14
+/run SetCVar("Sound_EnableSFX","1")
+/castsequence [nochanneling] reset=target/4 暗言术：痛,吸血鬼之触,心灵震爆,精神鞭笞,精神鞭笞,精神鞭笞,心灵震爆,噬灵疫病,精神鞭笞,精神鞭笞
+END
+VER 3 0000000000000032 "BB 冰环" "SPELL_FROST_FROSTNOVA"
+/cast 冰冻术
+END
+VER 3 0000000000000033 "BF_Mount" "ABILITY_MAGE_FIRESTARTER"
+/cancelform
+/bfmount
+END
+VER 3 0000000000000025 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 000000000000002A "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 0000000000000034 "BIU" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [help] 解除诅咒
+/cast 冰枪术
+/petattack
+END
+VER 3 0000000000000035 "BX" "INV_Misc_QuestionMark"
+#showtooltip 寒冰屏障
+/stopcasting
+/cancelAura 寒冰屏障
+/cast 寒冰屏障
+END
+VER 3 000000000000001F "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 牺牲之手;  [@mouseover,exists,mod:ctrl] 清洁术; [@mouseover,exists,mod:shift] 牺牲之手
+END
+VER 3 0000000000000036 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 净化灵魂;  [@mouseover,exists,mod:ctrl] 妖术; [@mouseover,exists,mod:shift] 净化灵魂
+END
+VER 3 0000000000000037 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 清洁术;  [@mouseover,exists,mod:ctrl] 清洁术; [@mouseover,exists,mod:shift] 清洁术
+END
+VER 3 0000000000000038 "FishingBuddy" "INV_Misc_QuestionMark"
+#showtooltip Fishing
+/fb fishing start
+/stopcasting
+/cast 钓鱼
+END
+VER 3 0000000000000014 "FM宏" "Spell_Misc_ConjureManaJewel"
+/y |cffffd000|Htrade:51313:460:460:980000001CE893F:4/u//6a8f5Z728ynvrZPJBmA2fW5T+0473/i/27/+b3/v////vT|h[附魔]|h|r~手工10G~！需要的M！
+/2 {喊}|cffffd000|Htrade:51313:460:460:980000001CE893F:4/u//6a8f5Z728ynvrZPJBmA2fW5T+0473/i/27/+b3/v////vT|h[附魔]|h|r~手工10G~！需要的M！
+END
+VER 3 0000000000000028 "ICC" "INV_AXE_113"
+/2 {大笑}25HICC   无敌队伍    全部打H     包括HLK    前面的全部H速推  每周一刷   不刻意做PT成就    出无敌RRRRRR  ！！！！  CF片不分    来的MMMMM！！！！！18=7！！！来远程DPS 和治疗！
+/6 {大笑}25HICC   无敌队伍    全部打H     包括HLK    前面的全部H速推  每周一刷   不刻意做PT成就    出无敌RRRRRR  ！！！！  CF片不分    来的MMMMM！！！！！18=7！！来远程DPS 治疗
+END
+VER 3 0000000000000013 "上马" "Ability_Mount_Undeadhorse"
+/cast 紫色骷髅战马
+/e 默默翻身上马  然后鄙视着那些上马还要大喊大叫的无知人们.........
+END
+VER 3 0000000000000039 "下面闷" "ABILITY_SAP"
+#show 潜行
+/dismount
+/cast [stance:0] !潜行
+/targetenemy [harm][nodead]
+/cast 闷棍
+END
+VER 3 000000000000003A "仇杀" "ABILITY_ROGUE_DEADLINESS"
+/use 10
+/use 14
+/cast 仇杀
+END
+VER 3 000000000000003B "伏击" "ABILITY_ROGUE_AMBUSH"
+#show 先祖迅捷
+/cast 先祖迅捷
+/cast 强效治疗波
+END
+VER 3 000000000000003C "佯攻" "ABILITY_ROGUE_FEINT"
+/castsequence reset=1 佯攻,x 
+END
+VER 3 000000000000003D "偷" "INV_Misc_QuestionMark"
+#showtooltip 法力宝石
+/cast 法术吸取
+/use 法力宝石
+/use 闪耀法力宝石
+END
+VER 3 000000000000003E "光环倒数" "INV_Misc_QuestionMark"
+#showtooltip 虔诚光环
+/施放 虔诚光环
+/in 1 /y 光环掌握还有5秒
+/in 2 /y 光环掌握还有4秒
+/in 3 /y 光环掌握还有3秒
+/in 4 /y 光环掌握还有2秒
+/in 5 /y 光环掌握还有1秒
+/in 6 /y 光环掌握以结束
+END
+VER 3 000000000000003F "军旗" "SPELL_SHADOW_DEMONICFORTITUDE"
+/use 部落军旗
+/大喊 我已插上军旗，GOGOGO~
+END
+VER 3 0000000000000040 "出售铭文" "ACHIEVEMENT_GUILDPERK_GMAIL"
+收幽冥铁块
+END
+VER 3 0000000000000041 "凿击" "ABILITY_GOUGE"
+/Cast [target=focus,harm,exists,modifier:alt]凿击; [target=mouseover, harm, exists]凿击; 凿击
+END
+VER 3 0000000000000042 "分身爆发" "SPELL_FROST_ARCTICWINDS"
+/cast 冰冷血脉
+/cast 镜像
+END
+VER 3 0000000000000043 "刷怪" "ABILITY_ROGUE_QUICKRECOVERY"
+/目标 苏里克夏
+/cast 飞镖投掷
+END
+VER 3 0000000000000044 "反制" "INV_Misc_QuestionMark"
+#showtooltip 法术反制
+/stopcasting
+/cast [modifier:alt,target=focus] 法术反制;法术反制
+END
+VER 3 0000000000000045 "唤醒" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nochanneling:唤醒] 唤醒
+END
+VER 3 0000000000000046 "圣光普照" "SPELL_PALADIN_DIVINECIRCLE"
+/cast [target=mouseover,exists,help]圣光普照;
+/cast [target=target,help]圣光普照; [target=targettarget,help]圣光普照; [target=player]圣光普照
+END
+VER 3 0000000000000047 "圣光术" "SPELL_HOLY_SURGEOFLIGHT"
+/cast [target=mouseover,exists,help]圣光术;
+/cast [target=target,help]圣光术; [target=targettarget,help]圣光术; [target=player]圣光术
+END
+VER 3 0000000000000048 "圣光闪现" "SPELL_HOLY_FLASHHEAL"
+/cast [target=mouseover,exists,help]圣光闪现;
+/cast [target=target,help]圣光闪现; [target=targettarget,help]圣光闪现; [target=player]圣光闪现
+END
+VER 3 0000000000000023 "圣疗" "Spell_Holy_LayOnHands"
+#showtooltip 圣疗术
+/stopcasting
+/施放 圣疗术
+END
+VER 3 0000000000000049 "圣闪" "ABILITY_PALADIN_BEACONOFLIGHT"
+/castsequence reset=2.5 圣光道标,圣光闪现
+/cast 圣光闪现
+END
+VER 3 0000000000000026 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 000000000000002B "基建" "INV_ENCHANT_SHARDGLIMMERINGLARGE"
+/目标 装甲板连接束
+/cast 远古列王守卫
+/cast 复仇之怒
+/cast 狂热
+END
+VER 3 000000000000004A "嫁祸" "INV_Misc_QuestionMark"
+#showtooltip 嫁祸诀窍 
+/cast [help] [target=focus, help] [target=targettarget, help] 嫁祸诀窍
+END
+VER 3 000000000000004B "宠物" "ABILITY_HUNTER_MISDIRECTION"
+/cast [target=ggss]误导
+END
+VER 3 000000000000004C "审判" "SPELL_HOLY_RIGHTEOUSFURY"
+showtooltip
+/cast [target=target,harm][target=targettarget,harm]审判
+/startattack
+END
+VER 3 000000000000002C "寻人" "ABILITY_AMBUSH"
+/target 马顿
+END
+VER 3 000000000000004D "意志" "SPELL_NATURE_SWIFTNESS"
+/click ExtraActionButton1
+END
+VER 3 000000000000004E "手套" "INV_GLOVE_PLATE_PVPWARRIOR_C_02"
+/use 10
+END
+VER 3 000000000000004F "抓贼" "INV_Misc_QuestionMark"
+#showtooltips
+/console Sound_EnableSFX 0
+/cleartarget [stealth]
+/targetenemy [stealth]
+/cast [nostealth,nocombat]!潜行;[mod:shift,@focus,nohelp,exists][@mouseover,nohelp,exists][]闷棍
+/console Sound_EnableSFX 1
+/script UIErrorsFrame:Clear()
+END
+VER 3 0000000000000050 "披风" "SPELL_SHAMAN_STORMEARTHFIRE"
+/use 15
+END
+VER 3 0000000000000051 "拆卸" "INV_Misc_QuestionMark"
+#showtooltip 拆卸
+/Cast [target=focus,exists] 拆卸
+END
+VER 3 0000000000000052 "操控" "INV_Misc_QuestionMark"
+#showtooltip 操控时间
+/use 气定神闲
+/use 10
+/castsequence reset=1 操控时间,0
+END
+VER 3 0000000000000053 "收东西" "INV_MISC_QUESTIONMARK"
+收君王的遗赠 配方，血魂3500/个，要8 个支持邮寄
+END
+VER 3 0000000000000016 "收宝石" "Spell_Shadow_Brainwash"
+/2 {微笑}小猫收宝石 单色80  双色55！龙眼石55！绿色品质石头30G一组！卖的M！长期收购~支持邮寄~！
+/y {微笑}小猫收宝石 单色80  双色55！龙眼石55！绿色品质石头30G一组！卖的M！长期收购~支持邮寄~！
+END
+VER 3 0000000000000054 "救命" "SPELL_NATURE_RAVENFORM"
+/cast 自然迅捷
+/cast 治疗之触
+END
+VER 3 0000000000000055 "无敌" "SPELL_HOLY_SEALOFPROTECTION"
+/cast [target=mouseover,exists,help]保护之手;
+/cast [target=target,help]保护之手; [target=targettarget,help]保护之手; [target=player]保护之手
+END
+VER 3 000000000000000A "无敌牺牲" "Spell_Holy_PowerWordBarrier"
+/cast 圣盾术
+/cast 神圣牺牲
+END
+VER 3 0000000000000056 "无脑" "ABILITY_ROGUE_GARROTE"
+/cast 锁喉
+/cast 切割
+/cast 伏击
+/cast 偷袭
+END
+VER 3 0000000000000018 "暴击" "Ability_Creature_Cursed_04"
+/script DEFAULT_CHAT_FRAME:AddMessage("距离暴击上限还差: "..100-(27-(GetCombatRatingBonus(6)+5))-(24)-(GetCritChance()+3))
+END
+VER 3 0000000000000057 "棱镜" "INV_Misc_QuestionMark"
+#showtooltip 神圣棱镜
+/cast [@target,harm][@targettarget,harm][@targettargettarget,harm] 神圣棱镜
+END
+VER 3 000000000000001D "牺牲" "Spell_Holy_PrayerOfHealing02"
+#showtooltip 神圣牺牲
+/stopcasting 
+/cancelAura 神圣 
+/cast 神圣牺牲
+END
+VER 3 0000000000000024 "神恩恳求" "Spell_Holy_DivineIllumination"
+/cast 神圣恳求
+/cast 神恩术
+END
+VER 3 000000000000001A "翅膀恳求" "SPELL_HOLY_AVENGINEWRATH"
+/cast 神圣恳求
+/cast 复仇之怒
+END
+VER 3 0000000000000029 "肌腱目标" "Achievement_BG_killingblow_berserker"
+/tar boss2
+END
+VER 3 0000000000000027 "跪" "SPELL_NATURE_SWIFTNESS"
+/下跪
+END
+VER 3 0000000000000058 "震击" "INV_Misc_QuestionMark"
+#showtooltip 神圣震击
+/cast [target=mouseover,help][target=target,help,exists][target=player]神圣震击
+END
+VER 3 0000000000000059 "驱散" "INV_Misc_QuestionMark"
+#showtooltip 清洁术
+/cast [target=mouseover,help][target=target,help,exists][target=player]清洁术
+END

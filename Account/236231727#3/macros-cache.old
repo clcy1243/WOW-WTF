@@ -1,0 +1,39 @@
+VER 3 0000000000000001 "1" "INV_MISC_QUESTIONMARK"
+/click PVPReadyDialogEnterBattleButton
+/run LFDReadyCheckPopup.YesButton:Click()
+END
+VER 3 000000000000000E "1" "INV_SWORD_04"
+/run local _,_,_,a, b = GetAchievementCriteriaInfo(11152,1) local _,_,_,c, d = GetAchievementCriteriaInfo(11153,1) local _,_,_,e, f = GetAchievementCriteriaInfo(11154,1) print("Dungeons: "..a.."/"..b) print("WQs: "..c.."/"..d) print("Kills: "..e.."/"..f)
+END
+VER 3 0000000000000002 "2" "INV_MISC_QUESTIONMARK"
+/run LeaveBattlefield()
+END
+VER 3 000000000000000F "伤害" "INV_MISC_QUESTIONMARK"
+/floatingCombatTextCombatDamage 0
+END
+VER 3 000000000000000D "坐下" "644389"
+/坐下
+END
+VER 3 0000000000000009 "复活" "SPELL_MISC_PETHEAL"
+/施放 终极版侏儒军刀
+/y 勃起吧 我的儿子！
+END
+VER 3 0000000000000005 "挂" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript ("OnUpdate",X)
+END
+VER 3 0000000000000010 "治疗" "INV_MISC_QUESTIONMARK"
+/floatingCombatTextCombatHealing 0
+END
+VER 3 0000000000000007 "焦点宏" "1476625"
+#showtooltip
+/cast [@focus,harm,nodead,mod:ctrl][]致盲
+END
+VER 3 0000000000000006 "马" "ACHIEVEMENT_GUILDPERK_MOUNTUP"
+#showtooltips 混乱打击
+/dismount [mouted]
+/castrandom [noharm] 秘魔刃豹
+/cast [harm] 混乱打击
+END
+VER 3 0000000000000008 "鼠标焦点" "1487014"
+/focus [target=mouseover]
+END

@@ -1,0 +1,15 @@
+
+AucScanData = {
+	["Version"] = 1.4,
+	["scans"] = {
+		["天空之墙"] = {
+			["scanstats"] = {
+				["ImageUpdated"] = 1472927699,
+			},
+			["image"] = "rope",
+			["ropes"] = {
+				"return {}", -- [1]
+			},
+		},
+	},
+}

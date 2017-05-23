@@ -1,0 +1,92 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["爱是氧气 - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["AlertTutorialStep"] = 5,
+			["GotTutorial"] = true,
+			["quests_tracked"] = {
+				["Player-1955-0194D6EB"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-1955-0194D6EB"] = {
+					[41624] = {
+						["expireAt"] = 1479337277,
+						["rewardAmount"] = "17",
+						["rewardTexture"] = 413584,
+					},
+					[43943] = {
+						["expireAt"] = 1479337217,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1409002,
+					},
+					[41896] = {
+						["expireAt"] = 1479337217,
+						["rewardAmount"] = 5900,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43959] = {
+						["expireAt"] = 1479337277,
+						["rewardAmount"] = 11150,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43451] = {
+						["expireAt"] = 1479358877,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1417744,
+					},
+					[42241] = {
+						["expireAt"] = 1479423617,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[44801] = {
+						["expireAt"] = 1479337217,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = 1130508,
+					},
+					[42154] = {
+						["expireAt"] = 1479337277,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 667493,
+					},
+					[43767] = {
+						["expireAt"] = 1479402077,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1417744,
+					},
+					[41555] = {
+						["expireAt"] = 1479337217,
+						["rewardAmount"] = "10",
+						["rewardTexture"] = 1387639,
+					},
+					[41487] = {
+						["expireAt"] = 1479337277,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1394959,
+					},
+					[42111] = {
+						["expireAt"] = 1479380477,
+						["rewardAmount"] = 4100,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41318] = {
+						["expireAt"] = 1479358877,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+				},
+			},
+			["player_names"] = {
+				["Player-1955-0194D6EB"] = {
+					["class"] = "ROGUE",
+					["name"] = "爱是氧气",
+					["realm"] = "主宰之剑",
+				},
+			},
+		},
+	},
+}

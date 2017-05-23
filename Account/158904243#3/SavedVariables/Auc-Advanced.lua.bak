@@ -1,0 +1,41 @@
+
+AucAdvancedConfig = {
+	["users.主宰之剑.谁是蓝猫呢"] = "Default",
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["upgraded32"] = true,
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["uierrormsg"] = 1,
+				["SavedMailButtons"] = {
+				},
+			},
+		},
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["Stats"] = {
+	},
+}
+AucAdvancedServers = {
+	["ConnectedRealmTables"] = {
+		["#主宰之剑"] = {
+			"主宰之剑", -- [1]
+			"霍格", -- [2]
+		},
+	},
+	["Version"] = 1,
+	["KnownRealms"] = {
+		["主宰之剑"] = "#主宰之剑",
+	},
+	["Timestamp"] = 1477404866,
+	["KnownServerKeys"] = {
+		["#主宰之剑"] = 1477404884,
+	},
+}

@@ -1,0 +1,7 @@
+Bagnon: disabled
+Bagnon_Config: disabled
+Bagnon_GuildBank: disabled
+Bagnon_VoidStorage: disabled
+MogIt: disabled
+ShadowedUF_Options: disabled
+ShadowedUnitFrames: disabled

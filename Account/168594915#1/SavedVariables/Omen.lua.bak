@@ -1,0 +1,13 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["疯子的迷恋 - 巨龙之吼"] = "疯子的迷恋 - 巨龙之吼",
+	},
+	["profiles"] = {
+		["疯子的迷恋 - 巨龙之吼"] = {
+			["Shown"] = true,
+			["PositionY"] = 639,
+			["PositionX"] = 847.5,
+		},
+	},
+}

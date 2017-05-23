@@ -1,0 +1,9 @@
+VER 3 0000000000000001 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 0000000000000003 "挂机宏" "ABILITY_SHOOTWAND"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript ("OnUpdate",X)
+END
+VER 3 0000000000000002 "收人宏" "INV_MISC_NOTE_05"
+/5 ———满级2480成就公会   →【星陨】←休闲娱乐有爱公会欢迎各种休闲玩家入驻  气氛和谐友爱———欢迎PVP爱好者加入———【要求满级】
+END

@@ -1,0 +1,24 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["锦在天堂 - 太阳之井"] = "Default",
+		["倾城丨奶僧 - 摩摩尔"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
+		["倾城丨奶僧 - 摩摩尔"] = "倾城丨奶僧 - 摩摩尔",
+	},
+	["profiles"] = {
+		["锦在天堂 - 太阳之井"] = {
+		},
+		["倾城丨奶僧 - 摩摩尔"] = {
+		},
+	},
+}

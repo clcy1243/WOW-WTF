@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["斯特莱夫 - 瓦拉斯塔兹"] = "斯特莱夫 - 瓦拉斯塔兹",
+	},
+	["profiles"] = {
+		["斯特莱夫 - 瓦拉斯塔兹"] = {
+		},
+	},
+}

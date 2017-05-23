@@ -1,0 +1,12 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0115,
+	["LastPlayerFullName"] = "Insomnium-主宰之剑",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}

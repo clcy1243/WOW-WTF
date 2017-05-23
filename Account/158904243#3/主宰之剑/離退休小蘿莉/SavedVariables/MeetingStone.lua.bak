@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["離退休小蘿莉 - 主宰之剑"] = "離退休小蘿莉 - 主宰之剑",
+	},
+	["profiles"] = {
+		["離退休小蘿莉 - 主宰之剑"] = {
+		},
+	},
+}

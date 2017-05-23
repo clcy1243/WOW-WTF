@@ -1,0 +1,74 @@
+VER 3 0100000000000021 " 灵魂护壳" "INV_MISC_QUESTIONMARK"
+#showtooltip 灵魂护壳
+/cast 天使长
+/cast 灵魂护壳
+END
+VER 3 0100000000000028 "dot输出" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click dot输出
+END
+VER 3 0100000000000020 "回蓝" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@targettarget,harm][]摧心魔
+END
+VER 3 010000000000000F "强效" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 强效治疗术
+END
+VER 3 0100000000000010 "快速" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 快速治疗
+END
+VER 3 0100000000000014 "恢复" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 恢复
+END
+VER 3 0100000000000029 "惩击" "INV_MISC_QUESTIONMARK"
+#showtooltip 惩击
+/cast [@targettarget,harm][]惩击
+END
+VER 3 0100000000000026 "愈合" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 愈合祷言
+END
+VER 3 0100000000000024 "攻击" "SPELL_HOLY_PENANCE"
+#showtooltip
+/castsequence [@target,harm,nodead][@targettarget,harm,nodead][@targettargettarget,harm,nodead] reset=10 神圣之火,惩击,惩击,惩击,惩击,惩击;[help] 治疗术;治疗术
+END
+VER 3 0100000000000011 "治疗" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 治疗术
+END
+VER 3 0100000000000022 "消失宏" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura 幽灵伪装
+/cast 幽灵伪装
+END
+VER 3 0100000000000019 "焦点盾" "INV_MISC_QUESTIONMARK"
+#showtooltip 真言术：盾
+/cast [@mouseover,help][]真言术：盾
+END
+VER 3 0100000000000013 "环" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 治疗之环
+END
+VER 3 010000000000001F "神火" "INV_MISC_QUESTIONMARK"
+#showtooltip 神圣之火
+/cast [@targettarget,harm][]神圣之火
+END
+VER 3 0100000000000012 "群疗" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 治疗祷言
+END
+VER 3 0100000000000018 "联结" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 联结治疗
+END
+VER 3 010000000000001A "苦修" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 苦修
+END
+VER 3 0100000000000016 "驱散" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead]驱散魔法;[@mouseover,help,nodead]纯净术;[@target,harm,nodead]驱散魔法;[]纯净术
+END

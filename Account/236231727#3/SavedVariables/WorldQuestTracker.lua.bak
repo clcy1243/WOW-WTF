@@ -1,0 +1,149 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["微醺的哈士奇 - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["AlertTutorialStep"] = 5,
+			["GotTutorial"] = true,
+			["quests_tracked"] = {
+				["Player-1955-01B7E6CA"] = {
+					{
+						["mapID"] = 1033,
+						["index"] = 0,
+						["timeFraction"] = 10823.41,
+						["isDisabled"] = true,
+						["questID"] = 45032,
+						["questType"] = 8,
+						["mapIDSynthetic"] = 5,
+						["expireAt"] = 1480438863,
+						["numObjectives"] = 1,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+						["LastDistance"] = 0.996420433827767,
+						["rewardAmount"] = 9300,
+						["timeLeft"] = 3158,
+						["timeAdded"] = 1480249383,
+					}, -- [1]
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-1955-01B7E6CA"] = {
+					[42830] = {
+						["expireAt"] = 1480330852,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[45032] = {
+						["expireAt"] = 1480438912,
+						["rewardAmount"] = 9300,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[44044] = {
+						["expireAt"] = 1480374052,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[41844] = {
+						["expireAt"] = 1480287652,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[43583] = {
+						["expireAt"] = 1480287652,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[41011] = {
+						["expireAt"] = 1480309252,
+						["rewardAmount"] = 9750,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[44856] = {
+						["expireAt"] = 1480287652,
+						["rewardAmount"] = 9550,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41295] = {
+						["expireAt"] = 1480266112,
+						["rewardAmount"] = "30",
+						["rewardTexture"] = 1387613,
+					},
+					[43807] = {
+						["expireAt"] = 1480330852,
+						["rewardAmount"] = 8600,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[44893] = {
+						["expireAt"] = 1480503712,
+						["rewardAmount"] = 16300,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41701] = {
+						["expireAt"] = 1480266052,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
+					},
+					[42105] = {
+						["expireAt"] = 1480309252,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = 1130508,
+					},
+					[40278] = {
+						["expireAt"] = 1480287652,
+						["rewardAmount"] = "13",
+						["rewardTexture"] = 413584,
+					},
+					[42108] = {
+						["expireAt"] = 1480266052,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = 1130508,
+					},
+					[42076] = {
+						["expireAt"] = 1480309252,
+						["rewardAmount"] = 8150,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41552] = {
+						["expireAt"] = 1480374052,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1387639,
+					},
+					[40282] = {
+						["expireAt"] = 1480287652,
+						["rewardAmount"] = "13",
+						["rewardTexture"] = 413584,
+					},
+					[41516] = {
+						["expireAt"] = 1480374052,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1387614,
+					},
+					[42764] = {
+						["expireAt"] = 1480287712,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
+					},
+					[42021] = {
+						["expireAt"] = 1480287652,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[43964] = {
+						["expireAt"] = 1480253092,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+				},
+			},
+			["TutorialTaxyMap"] = true,
+			["player_names"] = {
+				["Player-1955-01B7E6CA"] = {
+					["class"] = "DEMONHUNTER",
+					["name"] = "微醺的哈士奇",
+					["realm"] = "主宰之剑",
+				},
+			},
+		},
+	},
+}

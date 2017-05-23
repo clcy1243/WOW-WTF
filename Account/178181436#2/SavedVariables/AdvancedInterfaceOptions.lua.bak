@@ -1,0 +1,38 @@
+
+AdvancedInterfaceOptionsSaved = {
+	["CustomVars"] = {
+	},
+	["ModifiedCVars"] = {
+		["activecufprofile"] = "...rd_CUFProfiles\\Blizzard_CompactUnitFrameProfiles.lua:264",
+		["sound_mastervolume"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+		["camerapitchmovespeed"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["sound_ambiencevolume"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+		["threatwarning"] = "Interface\\AddOns\\TidyPlatesHub\\functions\\Color.lua:557",
+		["chatmusicvolume"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+		["sound_dialogvolume"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+		["spellactivationoverlayopacity"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["voiceactivationsensitivity"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+		["displayspellactivationoverlays"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["mousespeed"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["camerayawsmoothspeed"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["profanityfilter"] = "...ngStone\\Libs\\NetEaseSocket-2.0\\SocketHandler-2.0.lua:437",
+		["chatambiencevolume"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+		["advjournallastopened"] = "Interface\\FrameXML\\MainMenuBarMicroButtons.lua:574",
+		["camerayawmovespeed"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["chatsoundvolume"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+	},
+	["CharVars"] = {
+	},
+	["AccountVars"] = {
+		["Sound_DialogVolume"] = "0.69999998807907",
+		["profanityFilter"] = "0",
+		["mouseSpeed"] = "1",
+		["Sound_MasterVolume"] = "0.27700001001358",
+		["Sound_AmbienceVolume"] = "0.20000000298023",
+		["VoiceActivationSensitivity"] = "0.14000000059605",
+		["ChatSoundVolume"] = "0.39999997615814",
+		["ChatAmbienceVolume"] = "0.29999998211861",
+		["ChatMusicVolume"] = "0.29999998211861",
+	},
+	["EnforceSettings"] = false,
+}

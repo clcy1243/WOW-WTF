@@ -1,0 +1,14 @@
+
+Healers_Have_To_Die = {
+	["namespaces"] = {
+		["Announcer"] = {
+		},
+		["CM"] = {
+		},
+		["NPH"] = {
+		},
+	},
+	["profileKeys"] = {
+		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
+	},
+}

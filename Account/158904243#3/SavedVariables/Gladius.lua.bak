@@ -1,0 +1,12 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["離退休小蘿莉 - 主宰之剑"] = "離退休小蘿莉 - 主宰之剑",
+	},
+	["profiles"] = {
+		["離退休小蘿莉 - 主宰之剑"] = {
+			["tagsVersion"] = 4,
+			["auraVersion"] = 1,
+		},
+	},
+}

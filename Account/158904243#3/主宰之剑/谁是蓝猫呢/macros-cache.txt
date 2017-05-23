@@ -1,0 +1,9 @@
+VER 3 0100000000000001 "冰箱反制" "SPELL_FROST_FROST"
+#showtooltip
+/stopcasting
+/cancelAura 寒冰屏障
+/Cast [modifier:shift,target=focus,harm,nodead]法术反制;[target=mouseover,harm,nodead]法术反制;法术反制
+END
+VER 3 0100000000000002 "收人" "INV_MISC_NOTE_05"
+/2   2700成就公会 →【星陨】←休闲娱乐有爱公会欢迎各种休闲玩家入驻  气氛和谐友爱———欢迎PVP爱好者加入———
+END

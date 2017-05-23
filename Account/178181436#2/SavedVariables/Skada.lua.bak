@@ -1,0 +1,35 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["锦在天堂 - 太阳之井"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["scroll"] = {
+				["button"] = "MiddleButton",
+				["kspeed"] = 3,
+				["icon"] = true,
+				["speed"] = 2,
+			},
+			["windows"] = {
+				{
+					["y"] = -138.25,
+					["mode"] = "受到伤害",
+					["point"] = "TOP",
+					["x"] = 249.749572753906,
+				}, -- [1]
+			},
+			["versions"] = {
+				["1.6.3"] = true,
+				["1.6.4"] = true,
+			},
+			["modeclicks"] = {
+				["受到伤害"] = 1,
+			},
+			["ffoptions"] = {
+				["ignoredefensive"] = true,
+				["ignoreability"] = false,
+			},
+		},
+	},
+}

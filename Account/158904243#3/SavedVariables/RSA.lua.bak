@@ -1,0 +1,24 @@
+
+RSADB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["global"] = {
+		["version"] = "3.274",
+	},
+	["profileKeys"] = {
+		["谁是蓝猫呢 - 主宰之剑"] = "谁是蓝猫呢 - 主宰之剑",
+	},
+	["profiles"] = {
+		["谁是蓝猫呢 - 主宰之剑"] = {
+			["General"] = {
+				["Race"] = "Human",
+				["Class"] = "MAGE",
+			},
+			["Modules"] = {
+				["Mage"] = true,
+			},
+		},
+	},
+}

@@ -1,0 +1,27 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["雪丶小喵 - 太阳之井"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.6.5",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["y"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["global"] = {
+		["version"] = 70100,
+	},
+	["profileKeys"] = {
+		["雪丶小喵 - 太阳之井"] = "雪丶小喵 - 太阳之井",
+	},
+	["profiles"] = {
+		["雪丶小喵 - 太阳之井"] = {
+		},
+	},
+}

@@ -1,0 +1,26 @@
+VER 3 0000000000000001 "BF_Mount" "Ability_Mount_Charger"
+/bfmount
+END
+VER 3 0000000000000002 "Decursive" "INV_Misc_QuestionMark"
+/stopcasting
+/cast [target=mouseover,nomod,exists] 驱散魔法;  [target=mouseover,exists,mod:ctrl] 驱除疾病; [target=mouseover,exists,mod:shift] 驱散魔法
+END
+VER 3 0000000000000007 "tab宏" "INV_SWORD_04"
+/run SetCVar("Targetnearestuseold", 1)
+END
+VER 3 0000000000000008 "坐骑CD" "ABILITY_RACIAL_ULTRAVISION"
+/w 英雄求搞基-阿古斯 1
+END
+VER 3 0000000000000003 "挂机宏" "SPELL_HOLY_ELUNESGRACE"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript ("OnUpdate",X)
+END
+VER 3 0000000000000004 "收人宏" "INV_MISC_NOTE_05"
+/5 {微笑}2700成就满级公会 →【星陨】←活动M开荒中！~休闲娱乐有爱 气氛和谐 公会欢迎【满级】休闲玩家入驻———欢迎副本爱好者 休闲玩家加入———
+END
+VER 3 0000000000000006 "焦点嫁祸" "ABILITY_ROGUE_TRICKSOFTHETRADE"
+/施放 [@focus, exists]嫁祸诀窍
+END
+VER 3 0000000000000005 "还击" "ABILITY_PARRY"
+/cast 还击
+/大喊 我已开启还击！MT靠边站！目前感觉良好，请祖国人民放心！
+END

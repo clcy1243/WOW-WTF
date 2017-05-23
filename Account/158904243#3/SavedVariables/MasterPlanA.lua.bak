@@ -1,0 +1,9 @@
+
+MasterPlanAG = {
+	["主宰之剑"] = {
+		["谁是蓝猫呢"] = {
+			["class"] = "MAGE",
+			["faction"] = "Alliance",
+		},
+	},
+}

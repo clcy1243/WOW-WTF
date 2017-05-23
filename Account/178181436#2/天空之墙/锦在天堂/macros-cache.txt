@@ -1,0 +1,18 @@
+VER 3 0100000000000001 "坐骑" "INV_MISC_QUESTIONMARK"
+/cast [flyable]黑锋骸骨狮鹫;阿彻鲁斯死亡战马
+END
+VER 3 0100000000000004 "格挡" "INV_MISC_QUESTIONMARK"
+#showtooltip 符文刃舞
+/cast 符文刃舞
+/s  >>>格挡已开<<<
+END
+VER 3 0100000000000003 "盾墙" "INV_MISC_QUESTIONMARK"
+#showtooltip 冰封之韧
+/cast 冰封之韧
+/s  >>>盾墙已开<<<
+END
+VER 3 0100000000000002 "血族" "INV_MISC_QUESTIONMARK"
+#showtooltip 吸血鬼之血
+/cast 吸血鬼之血
+/s  >>>血族已开<<<
+END

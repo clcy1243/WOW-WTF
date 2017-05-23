@@ -1,0 +1,24 @@
+
+RSADB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["global"] = {
+		["version"] = "3.275",
+	},
+	["profileKeys"] = {
+		["露易十八岁 - 瓦拉斯塔兹"] = "露易十八岁 - 瓦拉斯塔兹",
+	},
+	["profiles"] = {
+		["露易十八岁 - 瓦拉斯塔兹"] = {
+			["General"] = {
+				["Race"] = "BloodElf",
+				["Class"] = "MAGE",
+			},
+			["Modules"] = {
+				["Mage"] = true,
+			},
+		},
+	},
+}

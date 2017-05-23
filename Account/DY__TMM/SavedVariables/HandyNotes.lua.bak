@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
+	},
+	["profiles"] = {
+		["募落葒顔 - 太阳之井"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
+	},
+	["profiles"] = {
+		["募落葒顔 - 太阳之井"] = {
+		},
+	},
+}

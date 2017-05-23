@@ -1,0 +1,31 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["爱是氧气 - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["ffoptions"] = {
+				["ignoredefensive"] = true,
+				["ignoreability"] = false,
+			},
+			["scroll"] = {
+				["button"] = "MiddleButton",
+				["kspeed"] = 3,
+				["icon"] = true,
+				["speed"] = 2,
+			},
+			["windows"] = {
+				{
+					["y"] = -101.75,
+					["point"] = "TOPLEFT",
+					["x"] = 102.000015258789,
+				}, -- [1]
+			},
+			["versions"] = {
+				["1.6.3"] = true,
+				["1.6.4"] = true,
+			},
+		},
+	},
+}

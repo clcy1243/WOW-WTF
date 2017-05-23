@@ -1,0 +1,34 @@
+
+RSADB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
+		["倾城丨奶僧 - 摩摩尔"] = "倾城丨奶僧 - 摩摩尔",
+	},
+	["global"] = {
+		["version"] = "3.2752",
+	},
+	["profiles"] = {
+		["锦在天堂 - 太阳之井"] = {
+			["General"] = {
+				["Race"] = "BloodElf",
+				["Class"] = "DEATHKNIGHT",
+			},
+			["Modules"] = {
+				["DeathKnight"] = true,
+			},
+		},
+		["倾城丨奶僧 - 摩摩尔"] = {
+			["General"] = {
+				["Class"] = "MONK",
+				["Race"] = "Pandaren",
+			},
+			["Modules"] = {
+				["Monk"] = true,
+			},
+		},
+	},
+}

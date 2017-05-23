@@ -1,0 +1,71 @@
+VER 3 010000000000000B "DB_bear1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_bear1
+END
+VER 3 010000000000000C "DB_bear2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_bear2
+END
+VER 3 0100000000000009 "DB_Boomer" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Boomer
+END
+VER 3 010000000000000A "DB_druid_bala_st" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_druid_bala_st
+END
+VER 3 0100000000000005 "DB_Feral-AoE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Feral-AoE
+END
+VER 3 0100000000000007 "DB_Feral-ST" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Feral-ST
+END
+VER 3 0100000000000008 "DB_feralaoe" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_feralaoe
+END
+VER 3 0100000000000006 "DB_feralsingle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_feralsingle
+END
+VER 3 0100000000000001 "DB_KTNDRUAOEHEALS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_KTNDRUAOEHEALS
+END
+VER 3 0100000000000003 "DB_KTNDRUHEALS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_KTNDRUHEALS
+END
+VER 3 0100000000000002 "DB_KTNRestoBoom" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_KTNRestoBoom
+END
+VER 3 0100000000000004 "DB_RestoBoomer" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_RestoBoomer
+END
+VER 3 0100000000000011 "Guardian_MT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click Guardian_MT
+END
+VER 3 0100000000000010 "Moonkin_MT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click Moonkin_MT
+END
+VER 3 010000000000000F "Moonkin_ST" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click Moonkin_ST
+END
+VER 3 010000000000000E "Restoration_Group" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click Restoration_Group
+END
+VER 3 010000000000000D "Restoration_Tank" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click Restoration_Tank
+END
+VER 3 0100000000000012 "VuhDoDCShieldData" "Ability_Repair"
+R1PT1PT1NM1PT1NM2PM2EM2EM3HR3PH3MR3MR[x]4SH4HR4IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]4DH[x][x][x][x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

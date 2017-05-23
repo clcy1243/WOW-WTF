@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["露易十八岁 - 瓦拉斯塔兹"] = "露易十八岁 - 瓦拉斯塔兹",
+	},
+	["profiles"] = {
+		["露易十八岁 - 瓦拉斯塔兹"] = {
+		},
+	},
+}

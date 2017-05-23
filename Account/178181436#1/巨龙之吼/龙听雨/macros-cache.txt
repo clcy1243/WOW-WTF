@@ -1,0 +1,44 @@
+VER 3 010000000000000A "3+1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/targetenemy[nodead]
+/startattack
+/castsequence [nochanneling] reset=10/combat 猛虎掌,猛虎掌,猛虎掌,幻灭踢
+END
+VER 3 0100000000000007 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000008 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙听雨[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000013 "WwSingle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click WwSingle
+END
+VER 3 0100000000000004 "嘲讽" "INV_MISC_QUESTIONMARK"
+#showtooltips 嚎镇八方
+/target [talent:4/2] 玄牛雕像
+/cast 嚎镇八方
+/targetlasttarget [talent:4/2]
+END
+VER 3 0100000000000002 "氤氲" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,help,nodead][help,nodead][noexists] 氤氲之雾;幻灭踢
+END
+VER 3 0100000000000001 "活血" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,help,nodead][help,nodead][noexists] 活血术;猛虎掌
+END
+VER 3 0100000000000003 "真气" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,help,nodead][help,nodead][noexists] 真气贯通;旭日东升踢
+END
+VER 3 010000000000000B "酒桶" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [@player] 爆炸酒桶
+END
+VER 3 0100000000000006 "酒桶火息" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy[nodead]
+/startattack
+/castsequence [nochanneling] reset=3/combat Keg Smash,Breath of Fire
+END

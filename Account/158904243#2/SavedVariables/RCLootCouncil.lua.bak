@@ -1,0 +1,105 @@
+
+RCLootCouncilDB = {
+	["namespaces"] = {
+		["ExtraUtilities"] = {
+		},
+	},
+	["global"] = {
+		["localizedSubTypes"] = {
+			["战刃"] = "Warglaives",
+			["双手斧"] = "Two-Handed Axes",
+			["弩"] = "Crossbows",
+			["双手锤"] = "Two-Handed Maces",
+			["皮甲"] = "Leather",
+			["单手斧"] = "One-Handed Axes",
+			["弓"] = "Bows",
+			["created"] = true,
+			["神器圣物"] = "Artifact Relic",
+			["魔杖"] = "Wands",
+			["长柄武器"] = "Polearms",
+			["法杖"] = "Staves",
+			["布甲"] = "Cloth",
+			["单手锤"] = "One-Handed Maces",
+			["拳套"] = "Fist Weapons",
+			["锁甲"] = "Mail",
+			["枪械"] = "Guns",
+			["匕首"] = "Daggers",
+			["单手剑"] = "One-Handed Swords",
+			["盾牌"] = "Shields",
+			["双手剑"] = "Two-Handed Swords",
+			["板甲"] = "Plate",
+		},
+		["verTestCandidates"] = {
+			["醉梦若歌-主宰之剑"] = "2.2.5-nil: - 爱是氧气-主宰之剑",
+			["三枼-主宰之剑"] = "2.1.0-Alpha.1: - 爱是氧气-主宰之剑",
+			["机器猫的兜儿-主宰之剑"] = "2.2.5-nil: - 爱是氧气-主宰之剑",
+			["萨克穆斯-主宰之剑"] = "2.2.5-nil: - 爱是氧气-主宰之剑",
+			["灬澄橙橙-主宰之剑"] = "2.2.5-nil: - 爱是氧气-主宰之剑",
+			["龙轻雪-主宰之剑"] = "2.2.5-nil: - 爱是氧气-主宰之剑",
+		},
+		["version"] = "2.2.5",
+		["log"] = {
+			"02/24/17", -- [1]
+			"19:41:25 - Logged In", -- [2]
+			"19:41:25 - ML initialized!", -- [3]
+			"19:41:25 - Using ExtraUtilities (0.3.0)", -- [4]
+			"19:41:25 - GroupGear (1.2.2) (enabled)", -- [5]
+			"19:41:43 - 爱是氧气-主宰之剑 (2.2.5) (nil)", -- [6]
+			"19:41:43 - We didn't find: (One-Handed Axes) (128196)", -- [7]
+			"19:41:44 - Event: (PLAYER_ENTERING_WORLD)", -- [8]
+			"19:41:44 - GetML()", -- [9]
+			"19:41:44 - LootMethod =  (personalloot)", -- [10]
+			"19:41:45 - GetPlayersGuildRank()", -- [11]
+			"19:41:45 - Found Guild Rank: 许诺『副会长』", -- [12]
+			"19:41:45 - Comm received:^1^SverTest^T^N1^S2.2.5^t^^ (from:) (爱是氧气) (distri:) (GUILD)", -- [13]
+			"19:41:45 - Timer LocalizeSubTypes passed", -- [14]
+			"19:41:45 - Found One-Handed Axes localized as: 单手斧", -- [15]
+			"19:41:45 - Found Artifact Relic localized as: 神器圣物", -- [16]
+			"19:41:45 - Found One-Handed Swords localized as: 单手剑", -- [17]
+			"19:41:45 - Found Staves localized as: 法杖", -- [18]
+			"19:41:45 - Found Crossbows localized as: 弩", -- [19]
+			"19:41:45 - Found Plate localized as: 板甲", -- [20]
+			"19:41:45 - Found One-Handed Maces localized as: 单手锤", -- [21]
+			"19:41:45 - Found Warglaives localized as: 战刃", -- [22]
+			"19:41:45 - Found Shields localized as: 盾牌", -- [23]
+			"19:41:45 - Found Polearms localized as: 长柄武器", -- [24]
+			"19:41:45 - Found Bows localized as: 弓", -- [25]
+			"19:41:45 - Found Two-Handed Swords localized as: 双手剑", -- [26]
+			"19:41:45 - Found Two-Handed Maces localized as: 双手锤", -- [27]
+			"19:41:45 - Found Leather localized as: 皮甲", -- [28]
+			"19:41:45 - Found Mail localized as: 锁甲", -- [29]
+			"19:41:45 - Found Guns localized as: 枪械", -- [30]
+			"19:41:45 - Found Fist Weapons localized as: 拳套", -- [31]
+			"19:41:45 - Found Cloth localized as: 布甲", -- [32]
+			"19:41:45 - Found Wands localized as: 魔杖", -- [33]
+			"19:41:45 - Found Daggers localized as: 匕首", -- [34]
+			"19:41:45 - Found Two-Handed Axes localized as: 双手斧", -- [35]
+			"19:42:03 - Event: (PARTY_LOOT_METHOD_CHANGED)", -- [36]
+			"19:42:03 - GetML()", -- [37]
+			"19:42:03 - LootMethod =  (master)", -- [38]
+			"19:42:03 - MasterLooter =  (灬澄橙橙-主宰之剑)", -- [39]
+			"19:42:03 - Resetting council as we have a new ML!", -- [40]
+			"19:42:08 - Timer MLdb_check passed", -- [41]
+			"19:42:08 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N30^SselfVote^B^Sobserve^b^Sresponses^T^t^ShideVotes^b^SmultiVote^B^Sbuttons^T^t^SnumButtons^N3^SanonymousVoting^b^t^t^^ (from:) (灬澄橙橙) (distri:) (RAID)", -- [42]
+			"19:42:08 - Comm received:^1^Scouncil^T^N1^T^t^t^^ (from:) (灬澄橙橙) (distri:) (RAID)", -- [43]
+			"19:42:08 - nil = (IsCouncil) (爱是氧气-主宰之剑)", -- [44]
+			"19:42:23 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (灬澄橙橙) (distri:) (WHISPER)", -- [45]
+			"19:42:23 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N30^SselfVote^B^Sobserve^b^Sresponses^T^t^ShideVotes^b^SmultiVote^B^Sbuttons^T^t^SnumButtons^N3^SanonymousVoting^b^t^t^^ (from:) (灬澄橙橙) (distri:) (WHISPER)", -- [46]
+			"19:42:23 - Comm received:^1^Scandidates^T^N1^T^S呕不习惯-主宰之剑^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^S最爱浆果-主宰之剑^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^S灬澄橙橙-主宰之剑^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^S许诺『副会长』^t^S机器猫的兜儿-主宰之剑^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^S允诺『官员管理』^t^S蹦跶的蜗牛-主宰之剑^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^S爱是氧气-主宰之剑^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^S难得糊涂闲-主宰之剑^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^S醉梦若歌-主宰之剑^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SDEATHKNIGHT^Srank^S允诺『官员管理』^t^S幻彩泡泡糖-主宰之剑^T^Srole^STANK^Sclass^SPALADIN^Srank^S^t^S番茄炸蛋-主宰之剑^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^S艾克斯战警-主宰之剑^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^S萨克穆斯-主宰之剑^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SDRUID^Srank^S守诺『PVE烽火团』^t^S三枼-主宰之剑^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^S龙轻雪-主宰之剑^T^Srole^STANK^Senchant_lvl^N0^Sclass^SDRUID^Srank^S允诺『官员管理』^t^t^t^^ (from:) (灬澄橙橙) (distri:) (RAID)", -- [47]
+			"19:42:25 - Comm received:^1^Scouncil^T^N1^T^t^t^^ (from:) (灬澄橙橙) (distri:) (RAID)", -- [48]
+			"19:42:25 - nil = (IsCouncil) (爱是氧气-主宰之剑)", -- [49]
+		},
+	},
+	["profileKeys"] = {
+		["爱是氧气 - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+RCLootCouncilLootDB = {
+	["profileKeys"] = {
+		["爱是氧气 - 主宰之剑"] = "爱是氧气 - 主宰之剑",
+	},
+}

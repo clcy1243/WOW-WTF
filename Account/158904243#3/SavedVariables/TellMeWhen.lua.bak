@@ -1,0 +1,34 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["谁是蓝猫呢 - 主宰之剑"] = "谁是蓝猫呢 - 主宰之剑",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+		},
+	},
+	["Version"] = 81209,
+	["profiles"] = {
+		["谁是蓝猫呢 - 主宰之剑"] = {
+			["Version"] = 81209,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1O3sZKPfp3DX",
+				}, -- [1]
+			},
+			["Locked"] = true,
+		},
+	},
+}

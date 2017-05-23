@@ -1,0 +1,27 @@
+VER 3 0100000000000004 "打断" "ABILITY_DEMONHUNTER_CONSUMEMAGIC"
+#showtooltips 吞噬魔法
+/dismount [mouted]
+/castrandom [noharm] 猩红水黾
+/cast [harm] 吞噬魔法
+END
+VER 3 0100000000000001 "混乱" "ABILITY_DEMONHUNTER_CHAOSSTRIKE"
+#showtooltips 混乱打击
+/dismount [mouted]
+/castrandom [noharm] 声威青铜骏马
+/cast [harm] 混乱打击
+END
+VER 3 0100000000000003 "爆发" "INV_GLAIVE_1H_ARTIFACTALDROCHI_D_03DUAL"
+/cast 混乱之刃
+/cast 涅墨西斯
+/use 13
+END
+VER 3 0100000000000005 "裂魂" "ABILITY_DEMONHUNTER_HATEFULSTRIKE"
+#showtooltips 裂魂
+/dismount [mouted]
+/castrandom [noharm] 高山马
+/cast [harm] 裂魂
+END
+VER 3 0100000000000002 "跳" "ABILITY_DEMONHUNTER_VENGEFULRETREAT2"
+/cast 复仇回避
+/cast 混乱打击
+END

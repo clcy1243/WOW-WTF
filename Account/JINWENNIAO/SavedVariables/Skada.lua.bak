@@ -1,0 +1,31 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Insomnium - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["ffoptions"] = {
+				["ignoredefensive"] = true,
+				["ignoreability"] = false,
+			},
+			["scroll"] = {
+				["button"] = "MiddleButton",
+				["kspeed"] = 3,
+				["icon"] = true,
+				["speed"] = 2,
+			},
+			["windows"] = {
+				{
+					["y"] = 6.1035156250e-005,
+					["point"] = "CENTER",
+					["x"] = 3.05175781250e-005,
+				}, -- [1]
+			},
+			["versions"] = {
+				["1.6.3"] = true,
+				["1.6.4"] = true,
+			},
+		},
+	},
+}

@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["露易十八岁 - 瓦拉斯塔兹"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-727-034339D2"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-727-034339D2"] = {
+					["class"] = "MAGE",
+					["name"] = "露易十八岁",
+					["realm"] = "瓦拉斯塔兹",
+				},
+			},
+		},
+	},
+}

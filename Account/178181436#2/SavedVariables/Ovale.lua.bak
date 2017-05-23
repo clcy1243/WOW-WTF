@@ -1,0 +1,14 @@
+
+OvaleDB = {
+	["profileKeys"] = {
+		["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
+	},
+	["profiles"] = {
+		["锦在天堂 - 太阳之井"] = {
+			["check"] = {
+				["opt_deathknight_unholy_aoe"] = true,
+				["opt_interrupt"] = true,
+			},
+		},
+	},
+}

@@ -1,0 +1,36 @@
+VER 3 0000000000000079 "1" "INV_MISC_QUESTIONMARK"
+/target 邪能涌动图腾
+/cast 真气波
+END
+VER 3 0000000000000005 "DS" "SPELL_SHADOW_ANTIMAGICSHELL"
+/click ExtraActionButton1
+END
+VER 3 0000000000000075 "取消保护" "135964"
+/cancelaura 保护祝福
+END
+VER 3 0000000000000078 "啊" "INV_MISC_QUESTIONMARK"
+/tar 老鼠
+END
+VER 3 0000000000000010 "开怪宏" "INV_MISC_QUESTIONMARK"
+/pull 10
+END
+VER 3 000000000000000B "挂机" "INV_MISC_QUESTIONMARK"
+/run local c=C_PetBattles;local a,c,d=c.UseAbility,c.ChangePet,c.IsInBattle;if d() and not PetBattleUtil_PetHasAura(2,1,918) then a(2)end;a(1)a(3)c(1)c(2)c(3)a(2)
+/tar 幸运的小艺
+/cast 复活战斗宠物 
+END
+VER 3 0000000000000077 "收人" "INV_MISC_QUESTIONMARK"
+/4 —————25满级公会（2700成就)   →【星陨】←来满级PVE精英PVP达人  ，公会H暗夜要塞开荒阶段中.招收新人工会全力培养————欢迎来到无基友不魔兽的大型娱乐公会————
+END
+VER 3 0000000000000076 "标记宏" "INV_MISC_QUESTIONMARK"
+/script SetRaidTarget("mouseover",2)
+/click ExtraActionButton1
+END
+VER 3 000000000000000D "火箭靴" "132307"
+#showtooltip 6
+/use 6
+END
+VER 3 000000000000000E "降落伞" "135992"
+#showtooltip 15
+/use 15
+END

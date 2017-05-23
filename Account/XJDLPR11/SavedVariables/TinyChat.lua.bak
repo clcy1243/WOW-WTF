@@ -1,0 +1,26 @@
+
+TinyChatDB = {
+	["HideDockManager"] = false,
+	["HideSwitchBackdrop"] = false,
+	["HideSwitch"] = false,
+	["FirstWord"] = true,
+	["EditBoxPos"] = "TOP",
+}
+TinyChatLevelDB = {
+	["闪烁江-洛肯"] = {
+		["t"] = 0,
+		["l"] = 110,
+	},
+	["矫情的面容-阿拉希"] = {
+		["t"] = 0,
+		["l"] = 110,
+	},
+	["村长爱美丽-海克泰尔"] = {
+		["t"] = 0,
+		["l"] = 110,
+	},
+	["灰黄非黄-红云台地"] = {
+		["t"] = 0,
+		["l"] = 110,
+	},
+}

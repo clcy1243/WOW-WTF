@@ -1,0 +1,335 @@
+
+IGAS_UI_DB_Char = {
+	["RaidPanel"] = {
+		{
+			["ClassFilter"] = {
+			},
+			["DeadClassFilter"] = {
+			},
+			["ElementUseDebuffColor"] = true,
+			["ElementHeight"] = 32,
+			["PowerHeight"] = 3,
+			["ClassBuffPanelSet"] = {
+				["TopToBottom"] = false,
+				["RowCount"] = 2,
+				["LeftToRight"] = true,
+				["ElementSize"] = 16,
+				["ShowTooltip"] = false,
+				["Orientation"] = "HORIZONTAL",
+				["ColumnCount"] = 3,
+				["Location"] = {
+					{
+						["relativeTo"] = "iHealthBar",
+						["point"] = "BOTTOM",
+						["xOffset"] = 0,
+						["yOffset"] = 0,
+					}, -- [1]
+				},
+				["ShowOnPlayer"] = true,
+			},
+			["RaidUnitWatchSet"] = {
+				["Orientation"] = "HORIZONTAL",
+				["UnitList"] = {
+					"target", -- [1]
+					"tank", -- [2]
+					"tanktarget", -- [3]
+				},
+				["AutoLayout"] = true,
+			},
+			["RaidDeadPanelActivated"] = false,
+			["RaidDeadPanelSet"] = {
+				["ShowSolo"] = false,
+				["ShowRaid"] = true,
+				["GroupBy"] = "GROUP",
+				["Orientation"] = "HORIZONTAL",
+				["SortBy"] = "INDEX",
+				["ShowPlayer"] = false,
+				["ShowParty"] = false,
+			},
+			["RaidPetPanelDeactivateInRaid"] = true,
+			["ElementUseSmoothColor"] = true,
+			["ElementWidth"] = 80,
+			["SpellBindings"] = {
+			},
+			["PetPanelLocation"] = "RIGHT",
+			["ElementUseClassColor"] = true,
+			["BuffPanelSet"] = {
+				["TopToBottom"] = true,
+				["RowCount"] = 2,
+				["LeftToRight"] = true,
+				["ElementSize"] = 16,
+				["ShowTooltip"] = true,
+				["Orientation"] = "HORIZONTAL",
+				["ColumnCount"] = 3,
+				["Location"] = {
+					{
+						["relativeTo"] = "iHealthBar",
+						["point"] = "TOPLEFT",
+						["xOffset"] = 0,
+						["yOffset"] = 0,
+					}, -- [1]
+				},
+				["RightRemove"] = true,
+			},
+			["RaidPanelActivated"] = true,
+			["DisableElement"] = {
+			},
+			["RoleFilter"] = {
+			},
+			["RaidPanelSet"] = {
+				["ShowSolo"] = true,
+				["ShowRaid"] = true,
+				["GroupBy"] = "GROUP",
+				["Orientation"] = "VERTICAL",
+				["SortBy"] = "INDEX",
+				["ShowPlayer"] = true,
+				["ShowParty"] = true,
+			},
+			["RaidPetPanelSet"] = {
+				["ShowSolo"] = true,
+				["ShowRaid"] = true,
+				["GroupBy"] = "GROUP",
+				["Orientation"] = "VERTICAL",
+				["SortBy"] = "INDEX",
+				["ShowPlayer"] = true,
+				["ShowParty"] = true,
+			},
+			["RaidPetPanelActivated"] = true,
+			["DebuffPanelSet"] = {
+				["TopToBottom"] = false,
+				["RowCount"] = 2,
+				["LeftToRight"] = false,
+				["ElementSize"] = 16,
+				["ShowTooltip"] = true,
+				["Orientation"] = "VERTICAL",
+				["ColumnCount"] = 3,
+				["Location"] = {
+					{
+						["relativeTo"] = "iHealthBar",
+						["point"] = "BOTTOMRIGHT",
+						["xOffset"] = 0,
+						["yOffset"] = 0,
+					}, -- [1]
+				},
+				["RightRemove"] = true,
+			},
+			["GroupFilter"] = {
+			},
+			["DeadGroupFilter"] = {
+			},
+			["DeadRoleFilter"] = {
+			},
+		}, -- [1]
+		["Version"] = 1,
+		[4] = {
+			["ClassFilter"] = {
+			},
+			["DeadClassFilter"] = {
+			},
+			["BuffPanelSet"] = {
+				["TopToBottom"] = true,
+				["RowCount"] = 2,
+				["LeftToRight"] = true,
+				["ElementSize"] = 16,
+				["ShowTooltip"] = true,
+				["Orientation"] = "HORIZONTAL",
+				["ColumnCount"] = 3,
+				["Location"] = {
+					{
+						["relativeTo"] = "iHealthBar",
+						["point"] = "TOPLEFT",
+						["xOffset"] = 0,
+						["yOffset"] = 0,
+					}, -- [1]
+				},
+				["RightRemove"] = true,
+			},
+			["ElementUseDebuffColor"] = true,
+			["Location"] = {
+				{
+					["xOffset"] = 837,
+					["point"] = "TOPLEFT",
+					["yOffset"] = -615.750122070313,
+				}, -- [1]
+			},
+			["ElementHeight"] = 32,
+			["PowerHeight"] = 3,
+			["ClassBuffPanelSet"] = {
+				["TopToBottom"] = false,
+				["RowCount"] = 2,
+				["LeftToRight"] = true,
+				["ElementSize"] = 16,
+				["ShowTooltip"] = false,
+				["Orientation"] = "HORIZONTAL",
+				["ColumnCount"] = 3,
+				["Location"] = {
+					{
+						["relativeTo"] = "iHealthBar",
+						["point"] = "BOTTOM",
+						["xOffset"] = 0,
+						["yOffset"] = 0,
+					}, -- [1]
+				},
+				["ShowOnPlayer"] = false,
+			},
+			["RaidUnitWatchSet"] = {
+				["Orientation"] = "HORIZONTAL",
+				["UnitList"] = {
+				},
+				["AutoLayout"] = true,
+			},
+			["RaidDeadPanelSet"] = {
+				["ShowSolo"] = false,
+				["ShowRaid"] = true,
+				["GroupBy"] = "GROUP",
+				["Orientation"] = "HORIZONTAL",
+				["SortBy"] = "INDEX",
+				["ShowPlayer"] = false,
+				["ShowParty"] = false,
+			},
+			["RaidPetPanelDeactivateInRaid"] = true,
+			["ElementUseSmoothColor"] = true,
+			["ElementWidth"] = 80,
+			["PetPanelLocation"] = "RIGHT",
+			["ElementUseClassColor"] = true,
+			["GroupFilter"] = {
+			},
+			["RaidPanelActivated"] = false,
+			["RaidDeadPanelActivated"] = false,
+			["RoleFilter"] = {
+			},
+			["DebuffPanelSet"] = {
+				["TopToBottom"] = false,
+				["RowCount"] = 2,
+				["LeftToRight"] = false,
+				["ElementSize"] = 16,
+				["ShowTooltip"] = true,
+				["Orientation"] = "VERTICAL",
+				["ColumnCount"] = 3,
+				["Location"] = {
+					{
+						["relativeTo"] = "iHealthBar",
+						["point"] = "BOTTOMRIGHT",
+						["xOffset"] = 0,
+						["yOffset"] = 0,
+					}, -- [1]
+				},
+				["RightRemove"] = true,
+			},
+			["RaidPetPanelSet"] = {
+				["ShowSolo"] = true,
+				["ShowRaid"] = true,
+				["GroupBy"] = "GROUP",
+				["Orientation"] = "VERTICAL",
+				["SortBy"] = "INDEX",
+				["ShowPlayer"] = true,
+				["ShowParty"] = true,
+			},
+			["RaidPetPanelActivated"] = false,
+			["RaidPanelSet"] = {
+				["ShowSolo"] = true,
+				["ShowRaid"] = true,
+				["GroupBy"] = "GROUP",
+				["Orientation"] = "VERTICAL",
+				["SortBy"] = "INDEX",
+				["ShowPlayer"] = true,
+				["ShowParty"] = true,
+			},
+			["DisableElement"] = {
+			},
+			["DeadGroupFilter"] = {
+			},
+			["DeadRoleFilter"] = {
+			},
+		},
+	},
+	["UpdateForNewVersion"] = 70000,
+	["ChatFramePos"] = {
+	},
+	["SpellCooldownLine"] = {
+		["ItemCooldownList"] = {
+		},
+		["SpellCooldownList"] = {
+		},
+		["BuffCooldownList"] = {
+		},
+		["BuffBlackCooldownList"] = {
+		},
+	},
+	["Manager"] = {
+		["Position"] = {
+			["y"] = 507.250061035156,
+			["x"] = 253.499969482422,
+		},
+	},
+	["InfoBar"] = {
+	},
+	["ActionBar"] = {
+		{
+			{
+				{
+					["BranchCount"] = 0,
+					["Expansion"] = false,
+					["FlyoutDirection"] = "UP",
+				}, -- [1]
+				["MarginY"] = 2,
+				["AutoSwapRoot"] = false,
+				["FreeMode"] = false,
+				["Scale"] = 1,
+				["ReplaceBlzMainAction"] = false,
+				["RowCount"] = 1,
+				["ColCount"] = 1,
+				["AutoFadeOut"] = false,
+				["LockMode"] = false,
+				["Location"] = {
+					{
+						["xOffset"] = 0,
+						["point"] = "CENTER",
+						["yOffset"] = 0,
+					}, -- [1]
+				},
+				["MainBar"] = false,
+				["AlwaysShowGrid"] = false,
+				["StanceBar"] = false,
+				["PetBar"] = false,
+				["MarginX"] = 2,
+			}, -- [1]
+			["PopupDuration"] = 0.25,
+		}, -- [1]
+		["ActionSet"] = {
+		},
+		[4] = {
+			{
+				{
+					["BranchCount"] = 0,
+					["Expansion"] = false,
+					["FlyoutDirection"] = "UP",
+				}, -- [1]
+				["MarginY"] = 2,
+				["AutoSwapRoot"] = false,
+				["FreeMode"] = false,
+				["Scale"] = 1,
+				["ReplaceBlzMainAction"] = false,
+				["RowCount"] = 1,
+				["ColCount"] = 1,
+				["AutoFadeOut"] = false,
+				["LockMode"] = false,
+				["Location"] = {
+					{
+						["xOffset"] = 0,
+						["point"] = "CENTER",
+						["yOffset"] = 0,
+					}, -- [1]
+				},
+				["MainBar"] = false,
+				["AlwaysShowGrid"] = false,
+				["StanceBar"] = false,
+				["PetBar"] = false,
+				["MarginX"] = 2,
+			}, -- [1]
+			["PopupDuration"] = 0.25,
+		},
+		["AutoGenItemBlackList"] = {
+		},
+	},
+}

@@ -1,0 +1,15 @@
+
+GuildSkadaHighScoreDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["锦在天堂 - 太阳之井"] = "Default",
+	},
+	["realm"] = {
+		["太阳之井"] = {
+			["dbVersion"] = 11,
+		},
+	},
+}

@@ -1,0 +1,27 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["募落葒顔 - 太阳之井"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.5.11",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["y"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["global"] = {
+		["version"] = 60200,
+	},
+	["profileKeys"] = {
+		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
+	},
+	["profiles"] = {
+		["募落葒顔 - 太阳之井"] = {
+		},
+	},
+}

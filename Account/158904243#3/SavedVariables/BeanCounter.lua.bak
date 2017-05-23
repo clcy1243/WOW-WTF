@@ -1,0 +1,52 @@
+
+BeanCounterDB = {
+	["主宰之剑"] = {
+		["谁是蓝猫呢"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["configator.left"] = 510.222290039063,
+	["主宰之剑"] = {
+		["谁是蓝猫呢"] = {
+			["tasks.sortArray"] = 1477735872,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1477735872,
+			["wealth"] = 61346335,
+			["tasks.prunePostedDB"] = 1477735872,
+			["mailbox"] = {
+			},
+		},
+	},
+	["configator.top"] = 736.999938964844,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil
+BeanCounterMailPatch = nil

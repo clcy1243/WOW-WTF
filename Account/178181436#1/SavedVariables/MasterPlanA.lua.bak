@@ -1,0 +1,78 @@
+
+MasterPlanAG = {
+	["太阳之井"] = {
+		["倾城丨猫爷"] = {
+			["class"] = "PALADIN",
+			["faction"] = "Horde",
+		},
+	},
+	["破碎岭"] = {
+		["徳馨"] = {
+			["class"] = "DRUID",
+			["faction"] = "Alliance",
+		},
+	},
+	["摩摩尔"] = {
+		["地狱丨灬繁花"] = {
+			["class"] = "DEATHKNIGHT",
+			["faction"] = "Horde",
+		},
+		["倾城丨烟雨"] = {
+			["faction"] = "Horde",
+			["class"] = "DRUID",
+		},
+		["信仰丶圣光"] = {
+			["faction"] = "Horde",
+			["class"] = "PALADIN",
+		},
+	},
+	["瓦拉斯塔兹"] = {
+		["斯特莱夫"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Horde",
+		},
+		["看你洗澡"] = {
+			["class"] = "ROGUE",
+			["faction"] = "Horde",
+		},
+		["星界旅行者"] = {
+			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+		},
+	},
+	["IgnoreRewards"] = {
+	},
+	["主宰之剑"] = {
+		["龙轻雪"] = {
+			["class"] = "DRUID",
+			["lastCacheTime"] = 1483728307,
+			["curRes"] = 1813,
+			["faction"] = "Alliance",
+		},
+		["龙听雨"] = {
+			["class"] = "MONK",
+			["lastCacheTime"] = 1479635313,
+			["curRes"] = 1396,
+			["faction"] = "Horde",
+		},
+		["龙剑曦"] = {
+			["lastCacheTime"] = 1480874756,
+			["class"] = "DEMONHUNTER",
+			["faction"] = "Alliance",
+		},
+	},
+	["天空之墙"] = {
+	},
+	["卡拉赞"] = {
+		["蓝箭"] = {
+			["class"] = "HUNTER",
+			["faction"] = "Horde",
+		},
+	},
+	["巨龙之吼"] = {
+		["龙听雨"] = {
+			["faction"] = "Horde",
+			["class"] = "MONK",
+		},
+	},
+}

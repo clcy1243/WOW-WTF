@@ -1,0 +1,25 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["GroupIcons"] = {
+		},
+		["Coords"] = {
+		},
+		["FogClear"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 2,
+				},
+			},
+		},
+		["BattleMap"] = {
+		},
+	},
+	["profileKeys"] = {
+		["妹子你坑我 - 太阳之井"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,57 @@
+VER 3 000000000000000D "11" "Ability_Creature_Cursed_01"
+/PITY
+END
+VER 3 000000000000000E "BF_Mount" "Ability_Mount_Charger"
+/bfmount
+END
+VER 3 000000000000000F "CD" "Ability_Creature_Disease_02"
+/cast 圣光术
+/script local sp = "圣光术";local s, d, e = GetSpellCooldown(sp); DEFAULT_CHAT_FRAME:AddMessage(sp..":"..d);
+END
+VER 3 0000000000000010 "Cryo3" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [button:1] 黑色灵翼幼龙; 炉石
+END
+VER 3 0000000000000011 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 清洁术;  [@mouseover,exists,mod:ctrl] 清洁术; [@mouseover,exists,mod:shift] 清洁术
+END
+VER 3 0000000000000012 "免打断沉默" "Spell_Misc_EmotionHappy"
+/cast 专注光环
+/cast 光环掌握
+END
+VER 3 0000000000000013 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 0000000000000014 "查询" "SPELL_MISC_PETHEAL"
+/atlasloot
+END
+VER 3 0000000000000015 "谴责" "SPELL_HOLY_PURIFYINGPOWER"
+#showtooltip 谴责
+/cast [harm]谴责
+/cast [help,target=targettarget]谴责
+/cast [target=targettarget]谴责
+END
+VER 3 0000000000000016 "责难给豆" "INV_SWORD_136"
+#showtooltip 责难
+/cast 责难
+/cast 十字军打击
+END
+VER 3 0000000000000017 "道标圣光" "463898"
+#showtooltip 圣光术
+/castsequence [@mouseover,help,nodead,exists][@target,help,nodead,exists][] reset=3 !圣光道标,null
+/cast [@mouseover,help,nodead,exists][@target,help,nodead,exists][] 圣光术
+END
+VER 3 0000000000000018 "道标圣闪" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+#showtooltip 圣光闪现
+/castsequence reset=3 !圣光道标,null
+/cast 圣光闪现
+END
+VER 3 0000000000000019 "道标神光" "ACHIEVEMENT_GUILD_DOCTORISIN"
+#showtooltip 圣光术
+/castsequence reset=3 !圣光道标,null
+/cast 圣光术
+END
+VER 3 000000000000001A "鞠躬" "SPELL_SHADOW_TELEPORT"
+/鞠躬
+END

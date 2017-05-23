@@ -1,0 +1,12 @@
+Auc-Advanced: disabled
+Altoholic: disabled
+NPCScan: disabled
+MogIt: disabled
+frenzyregen: disabled
+DataStore: disabled
+Bagnon: disabled
+Enchantrix: disabled
+Enchantrix-Barker: disabled
+BeanCounter: disabled
+BagBrother: disabled
+Informant: disabled

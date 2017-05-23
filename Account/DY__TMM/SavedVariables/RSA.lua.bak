@@ -1,0 +1,24 @@
+
+RSADB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["global"] = {
+		["version"] = "3.275",
+	},
+	["profileKeys"] = {
+		["妹子你坑我 - 太阳之井"] = "妹子你坑我 - 太阳之井",
+	},
+	["profiles"] = {
+		["妹子你坑我 - 太阳之井"] = {
+			["General"] = {
+				["Race"] = "Goblin",
+				["Class"] = "DEATHKNIGHT",
+			},
+			["Modules"] = {
+				["DeathKnight"] = true,
+			},
+		},
+	},
+}

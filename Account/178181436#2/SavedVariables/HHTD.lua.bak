@@ -1,0 +1,23 @@
+
+HHTD_SavedVariables = {
+	["namespaces"] = {
+		["Announcer"] = {
+		},
+		["CM"] = {
+		},
+		["NPH"] = {
+		},
+	},
+	["char"] = {
+		["锦在天堂 - 太阳之井"] = {
+			["settingsMigrated"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
+	},
+	["global"] = {
+		["settingsMigrated"] = true,
+		["oldNameEnableState"] = 2,
+	},
+}

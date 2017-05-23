@@ -1,0 +1,17 @@
+
+iKeystonesDB = {
+	["Player-1955-0194D6EB"] = {
+		["name"] = "爱是氧气",
+		["maxCompleted"] = 0,
+		["class"] = "ROGUE",
+		["key"] = {
+			["map"] = 1458,
+			["affix4"] = 5,
+			["affix10"] = 1,
+			["level"] = 9,
+			["affix7"] = 4,
+			["depleted"] = 6160384,
+		},
+		["server"] = "主宰之剑",
+	},
+}

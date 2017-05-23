@@ -1,0 +1,4 @@
+VER 3 0100000000000005 "冰环" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]冰冻术;冰霜新星
+END

@@ -1,0 +1,49 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["军团再临"] = {
+		},
+		["Bound"] = {
+		},
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemCategory"] = {
+		},
+		["MoneyFrame"] = {
+		},
+		["NewItem"] = {
+		},
+		["Garrison"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Legion"] = {
+		},
+		["Equipment"] = {
+		},
+		["ItemSets"] = {
+		},
+		["CurrencyFrame"] = {
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
+		},
+		["Hearthstones"] = {
+		},
+	},
+	["profileKeys"] = {
+		["爱是氧气 - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

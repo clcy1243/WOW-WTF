@@ -1,0 +1,15 @@
+Version: 1
+Frame: HardYards
+FrameLevel: 1
+Anchor: BOTTOM
+X: -3
+Y: 95
+W: 85
+H: 26
+Frame: DBMMinimapButton
+FrameLevel: 3
+Anchor: TOPRIGHT
+X: -136
+Y: -115
+W: 32
+H: 32

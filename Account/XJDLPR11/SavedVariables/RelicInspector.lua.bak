@@ -1,0 +1,10 @@
+
+RelicInspectorDB = {
+	["profileKeys"] = {
+		["露易十八岁 - 瓦拉斯塔兹"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

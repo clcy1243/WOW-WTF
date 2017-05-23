@@ -1,0 +1,52 @@
+
+BeanCounterDB = {
+	["巨龙之吼"] = {
+		["疯子的迷恋"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["configator.left"] = 560.000061035156,
+	["巨龙之吼"] = {
+		["疯子的迷恋"] = {
+			["tasks.sortArray"] = 1492997803,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1492997803,
+			["wealth"] = 235638416,
+			["tasks.prunePostedDB"] = 1492997803,
+			["mailbox"] = {
+			},
+		},
+	},
+	["configator.top"] = 769,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil
+BeanCounterMailPatch = nil

@@ -1,0 +1,172 @@
+
+BeanCounterDB = {
+	["摩摩尔"] = {
+		["倾城丨奶僧"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+	},
+	["太阳之井"] = {
+		["锦在天堂"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+	},
+	["海克泰尔"] = {
+		["龙听雨"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+	},
+	["天空之墙"] = {
+		["锦在天堂"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["configator.left"] = 560.000061035156,
+	["太阳之井"] = {
+		["锦在天堂"] = {
+			["tasks.sortArray"] = 1486165480,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1486165480,
+			["wealth"] = 100531110,
+			["tasks.prunePostedDB"] = 1486165480,
+			["mailbox"] = {
+			},
+		},
+	},
+	["天空之墙"] = {
+		["锦在天堂"] = {
+			["tasks.sortArray"] = 1486383641,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1486383641,
+			["wealth"] = 63689627,
+			["tasks.prunePostedDB"] = 1486383641,
+			["mailbox"] = {
+			},
+		},
+	},
+	["摩摩尔"] = {
+		["倾城丨奶僧"] = {
+			["tasks.sortArray"] = 1486293176,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1486293176,
+			["wealth"] = 492959,
+			["tasks.prunePostedDB"] = 1486293176,
+			["mailbox"] = {
+			},
+		},
+	},
+	["util.beancounter.ButtonuseDateCheck"] = false,
+	["海克泰尔"] = {
+		["龙听雨"] = {
+			["tasks.sortArray"] = 1486218714,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1486218714,
+			["wealth"] = 3151494,
+			["tasks.prunePostedDB"] = 1486218714,
+			["mailbox"] = {
+			},
+		},
+	},
+	["configator.top"] = 908.999755859375,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil
+BeanCounterMailPatch = nil

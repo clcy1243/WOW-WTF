@@ -1,0 +1,34 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["落天一箭 - 瓦拉斯塔兹"] = "落天一箭 - 瓦拉斯塔兹",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+		},
+	},
+	["Version"] = 81209,
+	["profiles"] = {
+		["落天一箭 - 瓦拉斯塔兹"] = {
+			["Version"] = 81209,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1O3TjeRANKbd",
+				}, -- [1]
+			},
+			["Locked"] = true,
+		},
+	},
+}

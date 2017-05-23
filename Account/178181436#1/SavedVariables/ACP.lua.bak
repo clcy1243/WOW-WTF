@@ -1,0 +1,31 @@
+
+ACP_Data = {
+	["sorter"] = "按名称分组",
+	["NoRecurse"] = false,
+	["NoChildren"] = true,
+	["collapsed"] = {
+		["RSA"] = true,
+		["GladiatorlosSA"] = true,
+		["GatherMate"] = true,
+		["Blizzard Addons"] = true,
+		["DBM"] = true,
+		["LookingForGroup"] = true,
+		["LegionInvasionTimer"] = true,
+		["AtlasLoot"] = true,
+		["Auctioneer"] = true,
+		["TellMeWhen"] = true,
+		["AdiBags"] = true,
+		["Libraries"] = true,
+		["Details"] = true,
+		["GarrisonMissionManager"] = true,
+		["HandyNotes"] = true,
+		["MogIt"] = true,
+		["TidyPlates"] = true,
+		["MikScrollingBattleText"] = true,
+		["Skada"] = true,
+		["RaidAchievement"] = true,
+	},
+	["ProtectedAddons"] = {
+		["ACP"] = true,
+	},
+}

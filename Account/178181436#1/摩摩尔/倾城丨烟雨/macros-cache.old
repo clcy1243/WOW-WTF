@@ -1,0 +1,60 @@
+VER 3 0100000000000013 "VuhDoDCShieldData" "Ability_Repair"
+P1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000014 "VuhDoDCShieldNames" "Ability_Repair"
+N萌[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]倾水[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000011 "变形" "INV_MISC_QUESTIONMARK"
+/cast [nostance:1]熊形态(变形);[nostance:3]猎豹形态(变形)
+END
+VER 3 0100000000000001 "变身" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomounted,swimming]旅行形态;[indoors]猎豹形态;[nomounted,flyable,nocombat]旅行形态;旅行形态
+ 
+END
+VER 3 0100000000000004 "回春" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]回春术
+END
+VER 3 0100000000000003 "愈合" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]愈合
+END
+VER 3 010000000000000F "毁伤" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [nocombat,nostealth]潜行;[stealth] 毁灭; [nostealth]裂伤
+END
+VER 3 0100000000000005 "滋养" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]滋养
+END
+VER 3 0100000000000012 "激活" "INV_MISC_QUESTIONMARK"
+#showtooltip 激活
+/cast [@player]激活
+/use 14
+END
+VER 3 0100000000000010 "狂暴" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/施放 狂暴
+/施放 狂暴(种族特长)
+END
+VER 3 010000000000000E "绽放" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@focus,help,nodead][]生命绽放
+END
+VER 3 0100000000000006 "触" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]治疗之触
+END
+VER 3 0100000000000007 "迅捷" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]迅捷治愈
+END
+VER 3 0100000000000008 "野性" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]野性成长
+END
+VER 3 0100000000000009 "驱散" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]自然之愈
+END

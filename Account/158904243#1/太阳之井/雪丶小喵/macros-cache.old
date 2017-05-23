@@ -1,0 +1,72 @@
+VER 3 0100000000000003 "1" "INV_Misc_QuestionMark"
+#showtooltip 神圣棱镜
+/use [@mouseover,harm] [@target,harm] [@targettarget,harm] [@targettargettarget,harm] [@boss1,harm] [@boss2,harm] [@boss3,harm] 神圣棱镜
+END
+VER 3 0100000000000004 "eam" "SPELL_MISC_PETHEAL"
+/eam opt
+END
+VER 3 0100000000000005 "TMW" "SPELL_MISC_PETHEAL"
+/tmw
+END
+VER 3 0100000000000006 "保护" "INV_Misc_QuestionMark"
+#showtooltip 保护之手
+/cast [target=mouseover,help][target=target,help,exists][target=player]保护之手
+END
+VER 3 0100000000000001 "公会收人" "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
+/2 {微笑}25级公会【Fate Zero】  新鲜落成  宅！腐！基！之家！和谐友爱小公会！欢迎各种休闲 PVP PVE 幻化 成就党 总之是WOW爱好者~！每周组织5.1副本 带小号！各种10人团！周末组织25人团  有意者MMM~~~ 刷屏见谅
+END
+VER 3 0100000000000007 "圣光术" "INV_Misc_QuestionMark"
+#showtooltip 圣光术
+/cast [target=mouseover,help][target=target,help,exists][target=player]圣光术
+END
+VER 3 0100000000000008 "圣疗" "INV_Misc_QuestionMark"
+#showtooltip 圣疗术
+/cast [target=mouseover,help][target=target,help,exists][target=player]圣疗术
+END
+VER 3 0100000000000002 "复仇者" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 复仇之怒
+/use 好战争斗者的胜利徽章
+END
+VER 3 0100000000000009 "审判" "INV_Misc_QuestionMark"
+#showtooltip 审判
+/cast [target=target,harm] 审判
+/cast [target=targettarget,harm] 审判
+END
+VER 3 010000000000000A "普照" "INV_Misc_QuestionMark"
+#showtooltip 圣光普照
+/cast [target=mouseover,help][target=target,help,exists][target=player]圣光普照
+END
+VER 3 010000000000000B "棱镜" "INV_Misc_QuestionMark"
+#showtooltip 神圣棱镜
+/cast [target=target,harm] 神圣棱镜
+/cast [target=targettarget,harm] 神圣棱镜
+END
+VER 3 010000000000000C "牺牲" "INV_Misc_QuestionMark"
+#showtooltip 牺牲之手
+/cast [target=mouseover,help][target=target,help,exists][target=player]牺牲之手
+END
+VER 3 010000000000000D "纯净" "INV_Misc_QuestionMark"
+#showtooltip 纯净之手
+/cast [target=mouseover,help][target=target,help,exists][target=player]纯净之手
+END
+VER 3 010000000000000E "自由" "INV_Misc_QuestionMark"
+#showtooltip 自由之手
+/cast [target=mouseover,help][target=target,help,exists][target=player]自由之手
+END
+VER 3 010000000000000F "荣耀" "INV_Misc_QuestionMark"
+#showtooltip 荣耀圣令
+/cast [target=mouseover,help][target=target,help,exists][target=player]荣耀圣令
+END
+VER 3 0100000000000010 "道标" "INV_Misc_QuestionMark"
+#showtooltip 圣光道标
+/cast [target=mouseover,help][target=target,help,exists][target=player]圣光道标
+END
+VER 3 0100000000000011 "道标2" "INV_Misc_QuestionMark"
+#showtooltip 信仰道标
+/cast [target=mouseover,help][target=target,help,exists][target=player]信仰道标
+END
+VER 3 0100000000000012 "闪现" "INV_Misc_QuestionMark"
+#showtooltip 圣光闪现
+/cast [target=mouseover,help][target=target,help,exists][target=player]圣光闪现
+END

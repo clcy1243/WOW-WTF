@@ -1,0 +1,150 @@
+VER 3 0000000000000017 "1" "616692"
+/g 大量收各种合剂，500g/瓶，支持邮寄
+/1 大量收各种合剂，500g/瓶，支持邮寄
+/施放 雄壮远足牦牛
+END
+VER 3 0000000000000018 "1" "134400"
+/target 邪能涌动图腾
+/cast 真气波
+END
+VER 3 0000000000000019 "2" "616692"
+/g 大量收各种草药，支持邮寄
+/g 伊瑟拉莱之种  800/组
+/g 安瑟瑞尔花  3000/组
+/g 入梦叶  3000/组
+/g 狐尾花  6000/组
+/g 夏斯卡格草  6000/组
+/g 星光玫瑰  12000/组
+/施放 雄壮远足牦牛
+END
+VER 3 000000000000001A "3" "134400"
+/1 大量收各种草药，支持邮寄.[伊瑟拉莱之种]  800/组,[安瑟瑞尔花] 3000/组, [入梦叶]  3000/组, [狐尾花] 5000/组,[夏斯卡格草]  5000/组, [星光玫瑰] 13000/组
+END
+VER 3 000000000000001B "4" "134400"
+/1 大量收草药，支持邮寄.[伊瑟拉莱之种]  800/组,[安瑟瑞尔花] 3000/组, [入梦叶]  3000/组, [星光玫瑰] 13000/组
+END
+VER 3 0000000000000012 "a1" "INV_MISC_QUESTIONMARK"
+/click PVPReadyDialogEnterBattleButton
+END
+VER 3 0000000000000013 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000014 "BF_Pet" "achievement_worldevent_brewmaster"
+/cancelform
+/BFPET
+END
+VER 3 0000000000000015 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 自然之愈;  [@mouseover,exists,mod:ctrl] 自然之愈; [@mouseover,exists,mod:shift] 自然之愈
+END
+VER 3 000000000000001C "DS" "136120"
+/click ExtraActionButton1
+END
+VER 3 0000000000000025 "VuhDoDCShieldData" "132281"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000036 "VuhDoDCShieldData" "132281"
+R1PT1PT1NM1PT1NM2PM2EM2EM3HR3PH3MR3MR[x]4SH4HR4IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]4DH[x][x][x][x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000026 "VuhDoDCShieldNames" "132281"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙轻雪[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000000001D "取消保护" "135964"
+/cancelaura 保护祝福
+END
+VER 3 000000000000001E "啊" "134400"
+/tar 老鼠
+END
+VER 3 0000000000000027 "回春" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [mod:alt,@focus,harm][@mouseover,exists,harm][harm]月火术;[@mouseover,exists,help][]回春术
+END
+VER 3 0000000000000016 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 000000000000001F "开怪宏" "134400"
+/pull 10
+END
+VER 3 0000000000000028 "愈合" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists,help][]愈合
+END
+VER 3 0000000000000029 "愈合不变形" "INV_Misc_QuestionMark"
+#showtooltip 愈合
+/console autounshift 0 
+/cast 愈合
+/console autounshift 1
+END
+VER 3 000000000000002A "成长" "INV_Misc_QuestionMark"
+#showtooltip 野性成长
+/cast [mod:alt,@focus,harm][@mouseover,exists,harm][harm]阳炎术;[@mouseover,exists,help][]野性成长
+END
+VER 3 0000000000000020 "挂机" "644389"
+/run local c=C_PetBattles;local a,c,d=c.UseAbility,c.ChangePet,c.IsInBattle;if d() and not PetBattleUtil_PetHasAura(2,1,918) then a(2)end;a(1)a(3)c(1)c(2)c(3)a(2)
+/tar 幸运的小艺
+/cast 复活战斗宠物 
+END
+VER 3 000000000000002B "振翅666" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 振翅
+/p 666
+END
+VER 3 0000000000000021 "收人" "134400"
+/4 —————25满级公会（2700成就)   →【星陨】←来满级PVE精英PVP达人  ，公会H暗夜要塞开荒阶段中.招收新人工会全力培养————欢迎来到无基友不魔兽的大型娱乐公会————
+END
+VER 3 000000000000002C "斜掠不出潜" "INV_Misc_QuestionMark"
+#showtooltip 斜掠
+/stopattack [stealth] 
+/cast [stance:2] 斜掠
+/stopattack [stealth]
+END
+VER 3 0000000000000022 "标记宏" "134400"
+/script SetRaidTarget("mouseover",2)
+/click ExtraActionButton1
+END
+VER 3 000000000000002D "滋养" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [mod:alt,@focus,harm][@mouseover,exists,harm][harm]阳炎之怒;[@mouseover,exists,help][]治疗之触
+END
+VER 3 000000000000002E "潜行" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nocombat]潜行; [combat,nostance:3]猎豹形态
+END
+VER 3 000000000000002F "激活" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@player] 激活
+END
+VER 3 0000000000000023 "火箭靴" "INV_Misc_QuestionMark"
+#showtooltip 6
+/use 6
+END
+VER 3 0000000000000030 "狂暴回复" "INV_Misc_QuestionMark"
+#showtooltip 狂暴回复
+/cast [stance:1] 狂暴回复
+/cast [nostance:1] 熊形态
+END
+VER 3 0000000000000031 "猫闪猫跳" "INV_Misc_QuestionMark"
+#showtooltip [talent:2/2] 野性位移;[talent:2/3] 野性冲锋
+/cast [talent:2/2] 野性位移
+/cast [talent:2/3] 野性冲锋
+END
+VER 3 0000000000000032 "结界" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists,help][]塞纳里奥结界
+END
+VER 3 0000000000000033 "绽放" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists,help][]生命绽放
+END
+VER 3 0000000000000034 "迅捷" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists,help][]迅捷治愈
+END
+VER 3 0000000000000035 "野性蘑菇" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@cursor] 百花齐放
+END
+VER 3 0000000000000024 "降落伞" "INV_Misc_QuestionMark"
+#showtooltip 15
+/use 15
+END

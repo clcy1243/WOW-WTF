@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["募落葒顔 - 太阳之井"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-1514-021D5AC4"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-1514-021D5AC4"] = {
+					["class"] = "PRIEST",
+					["name"] = "募落葒顔",
+					["realm"] = "太阳之井",
+				},
+			},
+		},
+	},
+}

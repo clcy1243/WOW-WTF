@@ -1,0 +1,50 @@
+VER 3 0100000000000001 "DB_HolyDeeps" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_HolyDeeps
+END
+VER 3 0100000000000004 "DB_Palla_Sera" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Palla_Sera
+END
+VER 3 0100000000000003 "DB_Prot_AOE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Prot_AOE
+END
+VER 3 0100000000000002 "DB_Prot_ST" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Prot_ST
+END
+VER 3 0100000000000006 "DB_Prot_ST2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Prot_ST2
+END
+VER 3 010000000000000A "DB_Ret" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Ret
+END
+VER 3 0100000000000008 "DB_Ret_Raid" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Ret_Raid
+END
+VER 3 0100000000000009 "DB_RetAoE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_RetAoE
+END
+VER 3 0100000000000007 "DB_RetAoE_Raid" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_RetAoE_Raid
+END
+VER 3 0100000000000005 "DB_Tank_Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Tank_Heal
+END
+VER 3 010000000000000B "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000C "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ins[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000D "吸收盾" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] 赋予信仰
+END

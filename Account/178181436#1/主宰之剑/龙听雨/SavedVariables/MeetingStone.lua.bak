@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["龙听雨 - 主宰之剑"] = "龙听雨 - 主宰之剑",
+	},
+	["profiles"] = {
+		["龙听雨 - 主宰之剑"] = {
+		},
+	},
+}

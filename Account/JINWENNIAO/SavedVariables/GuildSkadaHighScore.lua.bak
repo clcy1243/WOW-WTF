@@ -1,0 +1,15 @@
+
+GuildSkadaHighScoreDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Insomnium - 主宰之剑"] = "Default",
+	},
+	["realm"] = {
+		["主宰之剑"] = {
+			["dbVersion"] = 11,
+		},
+	},
+}

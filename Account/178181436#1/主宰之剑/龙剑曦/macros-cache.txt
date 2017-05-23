@@ -1,0 +1,60 @@
+VER 3 010000000000000C "DeathDealer" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click [button:2] DeathDealer RightButton; [button:3] DeathDealer MiddleButton; [button:4] DeathDealer Button4; [button:5] DeathDealer Button5; DeathDealer
+END
+VER 3 0100000000000005 "DH_Havoc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click [button:2] DH_Havoc RightButton; [button:3] DH_Havoc MiddleButton; [button:4] DH_Havoc Button4; [button:5] DH_Havoc Button5; DH_Havoc
+END
+VER 3 010000000000000F "Neon_HVK" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click [button:2] Neon_HVK RightButton; [button:3] Neon_HVK MiddleButton; [button:4] Neon_HVK Button4; [button:5] Neon_HVK Button5; Neon_HVK
+END
+VER 3 0100000000000006 "SBNevTank" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click SBNevTank
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙剑曦[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000E "原地跳" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] 地狱火撞击
+END
+VER 3 010000000000000B "大跳" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 地狱火撞击
+END
+VER 3 0100000000000009 "沉默" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 沉默咒符
+END
+VER 3 0100000000000010 "混打刃舞" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click [button:2] 混打刃舞 RightButton; [button:3] 混打刃舞 MiddleButton; [button:4] 混打刃舞 Button4; [button:5] 混打刃舞 Button5; 混打刃舞
+END
+VER 3 0100000000000008 "火符" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 烈焰咒符
+END
+VER 3 010000000000000D "爆发" "INV_MISC_QUESTIONMARK"
+#showtooltip 恶魔变形
+/cast 涅墨西斯
+/cast 混乱之刃
+/cast [@player] 恶魔变形
+END
+VER 3 0100000000000007 "群拉" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 锁链咒符
+END
+VER 3 010000000000000A "迷惑" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 悲苦咒符
+END
+VER 3 0100000000000011 "邪刃飞刀" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click [button:2] 邪刃飞刀 RightButton; [button:3] 邪刃飞刀 MiddleButton; [button:4] 邪刃飞刀 Button4; [button:5] 邪刃飞刀 Button5; 邪刃飞刀
+END

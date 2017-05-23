@@ -1,0 +1,14 @@
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+R1HR1HM1MR1HR1DT2NM2LR2NM2DM2NM3NM3PT3EM[x]3SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]3RM[x][x][x]0__[x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+N灬澄橙最爱浆番茄炸艾克斯龙轻雪呕不习三枼难得糊萨克穆机器猫蹦跶的幻彩泡醉梦若[x]哆啦依[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]爱是氧[x][x][x]魁麟[x][x]莱兹瑞[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "消失潜行" "ABILITY_VANISH"
+#showtooltip
+/cancelaura [nocombat, stealth] 潜行
+/cast [combat]消失; 潜行
+END
+VER 3 0100000000000001 "退组宏" "GARRISON_BUILDING_LUMBERMILL"
+/script LeaveParty() 
+END

@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["谁是蓝猫呢 - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-1955-01ABC308"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-1955-01ABC308"] = {
+					["class"] = "MAGE",
+					["name"] = "谁是蓝猫呢",
+					["realm"] = "主宰之剑",
+				},
+			},
+		},
+	},
+}

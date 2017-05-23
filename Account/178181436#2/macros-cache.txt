@@ -1,0 +1,4 @@
+VER 3 0000000000000001 "虚弱宏" "INV_MISC_QUESTIONMARK"
+/run RepopMe() RetrieveCorpse() 
+/run RepopMe() AcceptResurrect() AcceptXPLoss()
+END
