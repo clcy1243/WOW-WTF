@@ -5,35 +5,35 @@ Omen3DB = {
 		["信仰丶圣光 - 摩摩尔"] = "信仰丶圣光 - 摩摩尔",
 		["龙轻雪 - 主宰之剑"] = "龙轻雪 - 主宰之剑",
 		["斯特莱夫 - 瓦拉斯塔兹"] = "斯特莱夫 - 瓦拉斯塔兹",
-		["倾城丨烟雨 - 摩摩尔"] = "倾城丨烟雨 - 摩摩尔",
-		["倾城丨猫爷 - 太阳之井"] = "倾城丨猫爷 - 太阳之井",
+		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
+		["星界旅行者 - 瓦拉斯塔兹"] = "星界旅行者 - 瓦拉斯塔兹",
 		["看你洗澡 - 瓦拉斯塔兹"] = "看你洗澡 - 瓦拉斯塔兹",
 		["龙听雨 - 主宰之剑"] = "龙听雨 - 主宰之剑",
 		["蓝箭 - 卡拉赞"] = "蓝箭 - 卡拉赞",
 		["徳馨 - 破碎岭"] = "徳馨 - 破碎岭",
 		["地狱丨灬繁花 - 摩摩尔"] = "地狱丨灬繁花 - 摩摩尔",
-		["星界旅行者 - 瓦拉斯塔兹"] = "星界旅行者 - 瓦拉斯塔兹",
-		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
+		["倾城丨猫爷 - 太阳之井"] = "倾城丨猫爷 - 太阳之井",
+		["倾城丨烟雨 - 摩摩尔"] = "倾城丨烟雨 - 摩摩尔",
 	},
 	["profiles"] = {
 		["龙剑曦 - 主宰之剑"] = {
-			["PositionW"] = 199.999984741211,
-			["PositionH"] = 82.0000152587891,
-			["PositionY"] = 506.999725341797,
-			["Background"] = {
-				["Texture"] = "Blizzard Dialog Background Dark",
-			},
-			["Shown"] = false,
 			["MinimapIcon"] = {
 				["hide"] = true,
 			},
-			["ShowWith"] = {
-				["UseShowWith"] = false,
-			},
+			["PositionW"] = 199.999984741211,
+			["Shown"] = false,
+			["PositionH"] = 82.0000152587891,
+			["PositionY"] = 506.999725341797,
 			["PositionX"] = 49.5000495910645,
 			["Warnings"] = {
-				["Flash"] = false,
 				["Sound"] = false,
+				["Flash"] = false,
+			},
+			["Background"] = {
+				["Texture"] = "Blizzard Dialog Background Dark",
+			},
+			["ShowWith"] = {
+				["UseShowWith"] = false,
 			},
 		},
 		["信仰丶圣光 - 摩摩尔"] = {
@@ -42,36 +42,42 @@ Omen3DB = {
 			["PositionX"] = 847.5,
 		},
 		["龙轻雪 - 主宰之剑"] = {
+			["PositionW"] = 164.000061035156,
+			["PositionH"] = 116.500030517578,
 			["VGrip2"] = 94.3000247421284,
 			["PositionY"] = 334.000122070313,
-			["PositionW"] = 164.000061035156,
-			["PositionX"] = 407.950927734375,
 			["Shown"] = false,
-			["VGrip1"] = 69.7000182876601,
 			["MinimapIcon"] = {
 				["minimapPos"] = 149.153406891088,
 			},
-			["PositionH"] = 116.500030517578,
+			["VGrip1"] = 69.7000182876601,
+			["PositionX"] = 407.950927734375,
 		},
 		["斯特莱夫 - 瓦拉斯塔兹"] = {
-			["PositionX"] = 274.499938964844,
-			["PositionY"] = 507.750122070313,
 			["PositionW"] = 199.999984741211,
+			["PositionY"] = 507.750122070313,
+			["PositionX"] = 274.499938964844,
+			["Shown"] = false,
+			["IgnorePlayerPets"] = false,
+			["ClampToScreen"] = false,
 			["MinimapIcon"] = {
 				["minimapPos"] = 231.614614842906,
 				["hide"] = true,
 			},
-			["Shown"] = false,
-			["ClampToScreen"] = false,
-			["IgnorePlayerPets"] = false,
 			["PositionH"] = 82.0000152587891,
 		},
-		["倾城丨烟雨 - 摩摩尔"] = {
+		["龙听雨 - 巨龙之吼"] = {
+			["PositionY"] = 194.999542236328,
+			["PositionW"] = 199.999908447266,
+			["PositionX"] = 513.750183105469,
 			["Shown"] = false,
-			["PositionY"] = 639,
-			["PositionX"] = 847.5,
+			["VGrip1"] = 94.5001126318211,
+			["MinimapIcon"] = {
+				["minimapPos"] = 330.403349647651,
+			},
+			["PositionH"] = 82.0000152587891,
 		},
-		["倾城丨猫爷 - 太阳之井"] = {
+		["星界旅行者 - 瓦拉斯塔兹"] = {
 			["Shown"] = false,
 			["PositionY"] = 639,
 			["PositionX"] = 847.5,
@@ -113,21 +119,15 @@ Omen3DB = {
 			["PositionY"] = 639,
 			["PositionX"] = 847.5,
 		},
-		["星界旅行者 - 瓦拉斯塔兹"] = {
+		["倾城丨猫爷 - 太阳之井"] = {
 			["Shown"] = false,
 			["PositionY"] = 639,
 			["PositionX"] = 847.5,
 		},
-		["龙听雨 - 巨龙之吼"] = {
-			["PositionY"] = 334.499633789063,
-			["PositionW"] = 199.999908447266,
-			["VGrip1"] = 94.5001126318211,
+		["倾城丨烟雨 - 摩摩尔"] = {
 			["Shown"] = false,
-			["PositionX"] = 342,
-			["MinimapIcon"] = {
-				["minimapPos"] = 330.403349647651,
-			},
-			["PositionH"] = 82.0000152587891,
+			["PositionY"] = 639,
+			["PositionX"] = 847.5,
 		},
 	},
 }

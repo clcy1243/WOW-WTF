@@ -3,7 +3,7 @@ ExtraBarsSave = {
 	["VersionMajor"] = 2,
 	["Bars"] = {
 		{
-			["Enabled"] = true,
+			["Enabled"] = false,
 			["LockButtons"] = false,
 			["HideWhenInVehicle"] = true,
 			["EnableMoveBar"] = false,
@@ -35,25 +35,25 @@ ExtraBarsSave = {
 							["Type"] = "empty",
 						}, -- [8]
 						{
-							["ItemID"] = 110560,
+							["ItemName"] = "要塞炉石",
 							["Type"] = "item",
 							["ItemLink"] = "|cffffffff|Hitem:110560::::::::110:102::::::|h[要塞炉石]|h|r",
-							["ItemName"] = "要塞炉石",
+							["ItemID"] = 110560,
 						}, -- [9]
 						{
 							["Type"] = "empty",
 						}, -- [10]
 						{
-							["ItemID"] = 140192,
+							["ItemName"] = "达拉然炉石",
 							["Type"] = "item",
 							["ItemLink"] = "|cffffffff|Hitem:140192::::::::110:102::::::|h[达拉然炉石]|h|r",
-							["ItemName"] = "达拉然炉石",
+							["ItemID"] = 140192,
 						}, -- [11]
 						{
-							["ItemID"] = 141605,
+							["ItemName"] = "飞行管理员的哨子",
 							["Type"] = "item",
 							["ItemLink"] = "|cff0070dd|Hitem:141605::::::::110:102::::::|h[飞行管理员的哨子]|h|r",
-							["ItemName"] = "飞行管理员的哨子",
+							["ItemID"] = 141605,
 						}, -- [12]
 					},
 				}, -- [1]
@@ -107,8 +107,8 @@ ExtraBarsSave = {
 						{
 							["Type"] = "item",
 							["ItemName"] = "反光棱柱",
-							["ItemID"] = 112384,
 							["ItemLink"] = "|cff1eff00|Hitem:112384::::::::110:104::::::|h[反光棱柱]|h|r",
+							["ItemID"] = 112384,
 						}, -- [2]
 						{
 							["Type"] = "empty",
@@ -129,61 +129,44 @@ ExtraBarsSave = {
 							["SpellID"] = 131474,
 						}, -- [6]
 						{
-							["ItemName"] = "移形换影装置",
-							["Type"] = "item",
-							["ItemLink"] = "|cff0070dd|Hitem:111820::::::::110:104::::::|h[移形换影装置]|h|r",
-							["ItemID"] = 111820,
+							["Type"] = "empty",
 						}, -- [7]
 						{
-							["Type"] = "spell",
-							["SpellFullName"] = "梦境行者()",
-							["SpellID"] = 193753,
+							["Type"] = "empty",
 						}, -- [8]
 						{
-							["ItemName"] = "要塞炉石",
-							["Type"] = "item",
-							["ItemLink"] = "|cffffffff|Hitem:110560::::::::110:104::::::|h[要塞炉石]|h|r",
-							["ItemID"] = 110560,
+							["Type"] = "empty",
 						}, -- [9]
 						{
-							["Type"] = "item",
-							["ItemName"] = "炉石",
-							["ItemID"] = 6948,
-							["ItemLink"] = "|cffffffff|Hitem:6948::::::::110:104::::::|h[炉石]|h|r",
+							["Type"] = "empty",
 						}, -- [10]
 						{
-							["Type"] = "item",
-							["ItemName"] = "达拉然炉石",
-							["ItemID"] = 140192,
-							["ItemLink"] = "|cffffffff|Hitem:140192::::::::110:104::::::|h[达拉然炉石]|h|r",
+							["Type"] = "empty",
 						}, -- [11]
 						{
-							["Type"] = "item",
-							["ItemName"] = "飞行管理员的哨子",
-							["ItemID"] = 141605,
-							["ItemLink"] = "|cff0070dd|Hitem:141605::::::::110:104::::::|h[飞行管理员的哨子]|h|r",
+							["Type"] = "empty",
 						}, -- [12]
 					},
 				}, -- [3]
 				{
 					["Buttons"] = {
 						{
-							["ItemLink"] = "|cff1eff00|Hitem:140439::::::::110:105::::::|h[太阳花粉]|h|r",
-							["Type"] = "item",
 							["ItemID"] = 140439,
 							["ItemName"] = "太阳花粉",
+							["ItemLink"] = "|cff1eff00|Hitem:140439::::::::110:105::::::|h[太阳花粉]|h|r",
+							["Type"] = "item",
 						}, -- [1]
 						{
-							["ItemLink"] = "|cff1eff00|Hitem:140397::::::::110:105::::::|h[加尼尔之花]|h|r",
-							["Type"] = "item",
 							["ItemID"] = 140397,
 							["ItemName"] = "加尼尔之花",
+							["ItemLink"] = "|cff1eff00|Hitem:140397::::::::110:105::::::|h[加尼尔之花]|h|r",
+							["Type"] = "item",
 						}, -- [2]
 						{
-							["ItemLink"] = "|cff0070dd|Hitem:111820::::::::110:105::::::|h[移形换影装置]|h|r",
-							["Type"] = "item",
 							["ItemID"] = 111820,
 							["ItemName"] = "移形换影装置",
+							["ItemLink"] = "|cff0070dd|Hitem:111820::::::::110:105::::::|h[移形换影装置]|h|r",
+							["Type"] = "item",
 						}, -- [3]
 						{
 							["Type"] = "spell",
@@ -191,51 +174,34 @@ ExtraBarsSave = {
 							["SpellID"] = 131474,
 						}, -- [4]
 						{
-							["ItemLink"] = "|cff0070dd|Hitem:144341::::::::110:105::::::|h[可充电的里弗斯电池]|h|r",
-							["Type"] = "item",
-							["ItemID"] = 144341,
-							["ItemName"] = "可充电的里弗斯电池",
+							["Type"] = "empty",
 						}, -- [5]
 						{
-							["ItemLink"] = "|cffffffff|Hitem:113509::::::::110:105::::::|h[魔法汉堡]|h|r",
-							["Type"] = "item",
 							["ItemID"] = 113509,
 							["ItemName"] = "魔法汉堡",
+							["ItemLink"] = "|cffffffff|Hitem:113509::::::::110:105::::::|h[魔法汉堡]|h|r",
+							["Type"] = "item",
 						}, -- [6]
 						{
-							["ItemLink"] = "|cffffffff|Hitem:6365::::::::110:105::::::|h[强化钓鱼竿]|h|r",
-							["Type"] = "item",
 							["ItemID"] = 6365,
 							["ItemName"] = "强化钓鱼竿",
+							["ItemLink"] = "|cffffffff|Hitem:6365::::::::110:105::::::|h[强化钓鱼竿]|h|r",
+							["Type"] = "item",
 						}, -- [7]
 						{
-							["Type"] = "spell",
-							["SpellFullName"] = "梦境行者()",
-							["SpellID"] = 193753,
+							["Type"] = "empty",
 						}, -- [8]
 						{
-							["ItemLink"] = "|cffffffff|Hitem:110560::::::::110:105::::::|h[要塞炉石]|h|r",
-							["Type"] = "item",
-							["ItemID"] = 110560,
-							["ItemName"] = "要塞炉石",
+							["Type"] = "empty",
 						}, -- [9]
 						{
-							["ItemName"] = "炉石",
-							["Type"] = "item",
-							["ItemLink"] = "|cffffffff|Hitem:6948::::::::110:105::::::|h[炉石]|h|r",
-							["ItemID"] = 6948,
+							["Type"] = "empty",
 						}, -- [10]
 						{
-							["ItemID"] = 141605,
-							["Type"] = "item",
-							["ItemLink"] = "|cff0070dd|Hitem:141605::::::::110:105::::::|h[飞行管理员的哨子]|h|r",
-							["ItemName"] = "飞行管理员的哨子",
+							["Type"] = "empty",
 						}, -- [11]
 						{
-							["ItemLink"] = "|cffffffff|Hitem:140192::::::::110:105::::::|h[达拉然炉石]|h|r",
-							["Type"] = "item",
-							["ItemID"] = 140192,
-							["ItemName"] = "达拉然炉石",
+							["Type"] = "empty",
 						}, -- [12]
 					},
 				}, -- [4]
@@ -257,10 +223,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Scale"] = 1,
-			["UseVerticalLayout"] = true,
-			["HideEmptyButtons"] = false,
 			["Top"] = 895.999877929688,
+			["HideEmptyButtons"] = false,
+			["UseVerticalLayout"] = true,
+			["Scale"] = 1,
 		}, -- [1]
 		{
 			["Enabled"] = false,
@@ -446,10 +412,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Scale"] = 1,
-			["UseVerticalLayout"] = false,
-			["HideEmptyButtons"] = false,
 			["Top"] = 516,
+			["HideEmptyButtons"] = false,
+			["UseVerticalLayout"] = false,
+			["Scale"] = 1,
 		}, -- [2]
 		{
 			["Enabled"] = false,
@@ -635,10 +601,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Scale"] = 1,
-			["UseVerticalLayout"] = false,
-			["HideEmptyButtons"] = false,
 			["Top"] = 585.999877929688,
+			["HideEmptyButtons"] = false,
+			["UseVerticalLayout"] = false,
+			["Scale"] = 1,
 		}, -- [3]
 		{
 			["Enabled"] = false,
@@ -824,10 +790,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Scale"] = 1,
-			["UseVerticalLayout"] = false,
-			["HideEmptyButtons"] = false,
 			["Top"] = 652.250366210938,
+			["HideEmptyButtons"] = false,
+			["UseVerticalLayout"] = false,
+			["Scale"] = 1,
 		}, -- [4]
 	},
 	["VersionMinor"] = 0,

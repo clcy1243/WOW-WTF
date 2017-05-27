@@ -5,9 +5,11 @@ Omen3DB = {
 	},
 	["profiles"] = {
 		["爱是氧气 - 主宰之剑"] = {
-			["PositionY"] = 614.999938964844,
+			["PositionW"] = 199.999984741211,
 			["Shown"] = false,
-			["PositionX"] = 847.5,
+			["PositionH"] = 82.0000152587891,
+			["PositionY"] = 782.999816894531,
+			["PositionX"] = 31.5001831054688,
 		},
 	},
 }

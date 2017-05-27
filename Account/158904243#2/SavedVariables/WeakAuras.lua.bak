@@ -4,7 +4,7 @@ WeakAurasSaved = {
 	},
 	["displays"] = {
 	},
-	["login_squelch_time"] = 10,
 	["registered"] = {
 	},
+	["login_squelch_time"] = 10,
 }

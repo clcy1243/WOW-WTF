@@ -33,3 +33,4 @@ ConsolePort: disabled
 Ovale: disabled
 VuhDo: disabled
 VuhDoOptions: disabled
+AngryWorldQuests: disabled

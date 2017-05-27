@@ -1,6 +1,6 @@
 
 BPBID_Options = {
-	["ManualChange"] = false,
+	["ManualChange"] = "r138",
 	["BattleFontFix"] = false,
 	["Breedtip"] = {
 		["Current"] = true,
@@ -23,9 +23,9 @@ BPBID_Options = {
 	},
 	["Names"] = {
 		["HSFUpdateRarity"] = true,
-		["PJTRarity"] = false,
-		["FBPT"] = true,
 		["PJT"] = true,
+		["FBPT"] = true,
+		["PJTRarity"] = false,
 		["PrimaryBattle"] = true,
 		["HSFUpdate"] = true,
 		["BPT"] = true,

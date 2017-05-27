@@ -3,7 +3,7 @@ ExtraBarsSave = {
 	["VersionMajor"] = 2,
 	["Bars"] = {
 		{
-			["Enabled"] = true,
+			["Enabled"] = false,
 			["LockButtons"] = false,
 			["HideWhenInVehicle"] = true,
 			["EnableMoveBar"] = true,
@@ -122,13 +122,13 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 157.999984741211,
 			["Scale"] = 1,
-			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
+			["HideEmptyButtons"] = false,
+			["Top"] = 157.999984741211,
 		}, -- [1]
 		{
-			["Enabled"] = true,
+			["Enabled"] = false,
 			["LockButtons"] = false,
 			["HideWhenInVehicle"] = true,
 			["EnableMoveBar"] = true,
@@ -247,13 +247,13 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 228,
 			["Scale"] = 1,
-			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
+			["HideEmptyButtons"] = false,
+			["Top"] = 228,
 		}, -- [2]
 		{
-			["Enabled"] = true,
+			["Enabled"] = false,
 			["LockButtons"] = false,
 			["HideWhenInVehicle"] = true,
 			["EnableMoveBar"] = true,
@@ -372,13 +372,13 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 298.000030517578,
 			["Scale"] = 1,
-			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
+			["HideEmptyButtons"] = false,
+			["Top"] = 298.000061035156,
 		}, -- [3]
 		{
-			["Enabled"] = true,
+			["Enabled"] = false,
 			["LockButtons"] = false,
 			["HideWhenInVehicle"] = true,
 			["EnableMoveBar"] = true,
@@ -497,10 +497,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 367.999969482422,
 			["Scale"] = 1,
-			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
+			["HideEmptyButtons"] = false,
+			["Top"] = 367.999969482422,
 		}, -- [4]
 	},
 	["VersionMinor"] = 0,

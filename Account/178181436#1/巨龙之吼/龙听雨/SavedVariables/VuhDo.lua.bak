@@ -1587,14 +1587,14 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["155192"] = {
+			["116278"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["116278"] = {
+			["136187"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -1727,6 +1727,13 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
+			["186490"] = {
+				["isStacks"] = true,
+				["animate"] = false,
+				["timer"] = true,
+				["isColor"] = false,
+				["isIcon"] = true,
+			},
 			["181321"] = {
 				["isStacks"] = true,
 				["animate"] = false,
@@ -1735,13 +1742,6 @@ VUHDO_CONFIG = {
 				["isIcon"] = true,
 			},
 			["136769"] = {
-				["isStacks"] = true,
-				["animate"] = false,
-				["timer"] = true,
-				["isColor"] = false,
-				["isIcon"] = true,
-			},
-			["186490"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -1965,7 +1965,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["118163"] = {
+			["139909"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -1979,14 +1979,14 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["137746"] = {
+			["118163"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["139909"] = {
+			["137746"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2511,7 +2511,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["142931"] = {
+			["143767"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2595,7 +2595,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["134124"] = {
+			["142931"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2658,7 +2658,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["143767"] = {
+			["134124"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2679,14 +2679,14 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["134626"] = {
+			["124783"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["143358"] = {
+			["119488"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2700,7 +2700,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["137360"] = {
+			["134626"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2714,7 +2714,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["119488"] = {
+			["138480"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2735,7 +2735,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["124783"] = {
+			["137360"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2861,7 +2861,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["203787"] = {
+			["154952"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2882,7 +2882,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["111850"] = {
+			["135147"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2917,7 +2917,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["154952"] = {
+			["183828"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -2931,7 +2931,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["135147"] = {
+			["130395"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -3169,14 +3169,14 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["130395"] = {
+			["111850"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["183828"] = {
+			["203787"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -3218,7 +3218,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["138480"] = {
+			["143358"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -3638,7 +3638,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["136187"] = {
+			["155192"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -3922,12 +3922,12 @@ VUHDO_PANEL_SETUP = {
 			["xAdjust"] = 0,
 		},
 		["POSITION"] = {
-			["y"] = 205.081359863281,
-			["x"] = 1642.10717773438,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
+			["y"] = 162.581497192383,
+			["x"] = -184.142135620117,
 			["scale"] = 1,
-			["height"] = 74,
+			["relativePoint"] = "BOTTOMRIGHT",
+			["orientation"] = "BOTTOMRIGHT",
+			["height"] = 239.000030517578,
 			["growth"] = "TOPLEFT",
 			["width"] = 90.0000152587891,
 		},
@@ -3940,6 +3940,7 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
+			["ordering"] = 0,
 			["sort"] = 0,
 			["groups"] = {
 				1, -- [1]
@@ -3951,7 +3952,6 @@ VUHDO_PANEL_SETUP = {
 				7, -- [7]
 				8, -- [8]
 			},
-			["ordering"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -4056,7 +4056,7 @@ VUHDO_PANEL_SETUP = {
 			["showHeaders"] = false,
 			["isDamFlash"] = true,
 			["showTot"] = false,
-			["isPlayerOnTop"] = true,
+			["isPlayerOnTop"] = false,
 			["manaBarHeight"] = 3,
 			["isTarClassColBack"] = false,
 			["targetOrientation"] = 1,
@@ -4072,7 +4072,7 @@ VUHDO_PANEL_SETUP = {
 			["position"] = "CENTER+CENTER",
 			["yAdjust"] = 0,
 			["xAdjust"] = 0,
-			["_spacing"] = 18.9999771118164,
+			["_spacing"] = 19.0000019073486,
 			["showPetOwners"] = false,
 		},
 		["LIFE_TEXT"] = {
@@ -4095,9 +4095,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 120.75,
 			["growth"] = "TOPLEFT",
 			["width"] = 85,
@@ -4256,9 +4256,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 528.4998,
 			["x"] = 629.4997,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 120.7499,
 			["growth"] = "TOPLEFT",
 			["width"] = 118,
@@ -4416,9 +4416,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 529.2499,
 			["x"] = 531.2499,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 120.7499,
 			["growth"] = "TOPLEFT",
 			["width"] = 85,
@@ -4576,9 +4576,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -4736,9 +4736,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -4896,9 +4896,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -5056,9 +5056,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -5216,9 +5216,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -5376,9 +5376,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -6668,9 +6668,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -6678,9 +6678,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -6733,9 +6733,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 	},
@@ -6762,9 +6762,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -6772,9 +6772,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -6827,9 +6827,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 	},
@@ -6866,15 +6866,49 @@ VUHDO_SPEC_LAYOUTS = {
 	["selected"] = "武僧",
 	["4"] = "",
 }
-VUHDO_GROUP_SIZE = 1
+VUHDO_GROUP_SIZE = 5
 VUHDO_RAID = {
+	["party3"] = {
+		["zone"] = "沙尔艾兰",
+		["baseRange"] = false,
+		["class"] = "DRUID",
+		["role"] = 60,
+		["sortMaxHp"] = 7612484,
+		["map"] = "Valsharah",
+		["threat"] = 0,
+		["powermax"] = 100,
+		["threatPerc"] = 0,
+		["isPet"] = false,
+		["name"] = "疯子的迷恋",
+		["visible"] = false,
+		["targetUnit"] = "party3target",
+		["group"] = 1,
+		["afk"] = false,
+		["unit"] = "party3",
+		["debuff"] = 0,
+		["healthmax"] = 7612484,
+		["dead"] = false,
+		["connected"] = true,
+		["fullName"] = "疯子的迷恋",
+		["power"] = 2,
+		["petUnit"] = "partypet3",
+		["number"] = 3,
+		["classId"] = 27,
+		["isVehicle"] = false,
+		["health"] = 7612484,
+		["className"] = "德鲁伊",
+		["powertype"] = 1,
+		["raidIcon"] = 7,
+		["charmed"] = false,
+		["aggro"] = false,
+	},
 	["player"] = {
-		["zone"] = "奥格瑞玛",
+		["zone"] = "瓦尔莎拉",
 		["baseRange"] = true,
 		["class"] = "MONK",
 		["role"] = 60,
-		["sortMaxHp"] = 6317567,
-		["map"] = "Orgrimmar",
+		["sortMaxHp"] = 6591062,
+		["map"] = "Valsharah",
 		["threat"] = 0,
 		["powermax"] = 100,
 		["threatPerc"] = 0,
@@ -6887,7 +6921,7 @@ VUHDO_RAID = {
 		["range"] = true,
 		["unit"] = "player",
 		["powertype"] = 3,
-		["healthmax"] = 6317567,
+		["healthmax"] = 6591062,
 		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "龙听雨",
@@ -6895,12 +6929,80 @@ VUHDO_RAID = {
 		["aggro"] = false,
 		["visible"] = true,
 		["targetUnit"] = "target",
-		["health"] = 6080397,
+		["health"] = 6591062,
 		["className"] = "武僧",
 		["afk"] = false,
 		["debuff"] = 0,
 		["connected"] = true,
 		["petUnit"] = "pet",
+	},
+	["party2"] = {
+		["zone"] = "离线",
+		["baseRange"] = false,
+		["class"] = "MAGE",
+		["role"] = 62,
+		["sortMaxHp"] = 3922260,
+		["map"] = "Valsharah",
+		["threat"] = 0,
+		["powermax"] = 51424,
+		["threatPerc"] = 0,
+		["isPet"] = false,
+		["name"] = "无聊小法",
+		["number"] = 2,
+		["isVehicle"] = false,
+		["group"] = 1,
+		["classId"] = 24,
+		["range"] = false,
+		["unit"] = "party2",
+		["powertype"] = 0,
+		["healthmax"] = 3922260,
+		["dead"] = false,
+		["charmed"] = false,
+		["fullName"] = "无聊小法-亚雷戈斯",
+		["power"] = 51424,
+		["aggro"] = false,
+		["visible"] = false,
+		["targetUnit"] = "party2target",
+		["health"] = 3922260,
+		["className"] = "法师",
+		["afk"] = false,
+		["debuff"] = 0,
+		["connected"] = false,
+		["petUnit"] = "partypet2",
+	},
+	["party1"] = {
+		["zone"] = "风行者圣殿",
+		["baseRange"] = false,
+		["class"] = "DEMONHUNTER",
+		["role"] = 61,
+		["sortMaxHp"] = 4008360,
+		["map"] = "Valsharah",
+		["threat"] = 0,
+		["powermax"] = 140,
+		["threatPerc"] = 0,
+		["isPet"] = false,
+		["name"] = "楓镰丶",
+		["visible"] = false,
+		["targetUnit"] = "party1target",
+		["group"] = 1,
+		["afk"] = false,
+		["unit"] = "party1",
+		["debuff"] = 0,
+		["healthmax"] = 4008360,
+		["dead"] = false,
+		["connected"] = true,
+		["fullName"] = "楓镰丶-亚雷戈斯",
+		["power"] = 0,
+		["petUnit"] = "partypet1",
+		["number"] = 1,
+		["classId"] = 31,
+		["isVehicle"] = false,
+		["health"] = 4008360,
+		["className"] = "恶魔猎手",
+		["powertype"] = 17,
+		["raidIcon"] = 8,
+		["charmed"] = false,
+		["aggro"] = false,
 	},
 }
 VUHDO_INDICATOR_CONFIG = {
@@ -6909,16 +7011,16 @@ VUHDO_INDICATOR_CONFIG = {
 		["MOUSEOVER_HIGHLIGHT"] = "Grid: Mouseover Single",
 		["AGGRO_BAR"] = "",
 		["BACKGROUND_BAR"] = "Grid: Background Bar",
-		["CLUSTER_BORDER"] = "Target",
-		["SWIFTMEND_INDICATOR"] = "Role Icon",
-		["INCOMING_BAR"] = "",
 		["SIDE_LEFT"] = "",
+		["DAMAGE_FLASH_BAR"] = "",
+		["INCOMING_BAR"] = "",
+		["CLUSTER_BORDER"] = "Target",
 		["THREAT_MARK"] = "",
+		["MANA_BAR"] = "",
 		["BAR_BORDER"] = "Threat: Marks",
 		["SIDE_RIGHT"] = "",
-		["MANA_BAR"] = "",
 		["HEALTH_BAR"] = "Health (generic, class col)",
-		["DAMAGE_FLASH_BAR"] = "",
+		["SWIFTMEND_INDICATOR"] = "Role Icon",
 		["HEALTH_BAR_PANEL"] = {
 			"", -- [1]
 			"", -- [2]

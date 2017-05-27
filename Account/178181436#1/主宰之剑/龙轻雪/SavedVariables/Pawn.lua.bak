@@ -4,23 +4,24 @@ PawnOptions = {
 	["LastPlayerFullName"] = "龙轻雪-主宰之剑",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
-		[128858] = {
+		[128821] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 51,
-					["Type"] = "Arcane",
+					["ItemLevel"] = 55,
+					["Type"] = "Fire",
 				}, -- [1]
 				{
-					["ItemLevel"] = 55,
-					["Type"] = "Life",
+					["ItemLevel"] = 53,
+					["Type"] = "Blood",
 				}, -- [2]
 				{
 					["ItemLevel"] = 51,
-					["Type"] = "Arcane",
+					["Type"] = "Life",
 				}, -- [3]
 			},
-			["Name"] = "月神镰刀",
+			["Name"] = "乌索克之爪",
 		},
 		[128860] = {
 			["Relics"] = {
@@ -39,6 +40,23 @@ PawnOptions = {
 			},
 			["Name"] = "阿莎曼之牙",
 		},
+		[128858] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 51,
+					["Type"] = "Arcane",
+				}, -- [1]
+				{
+					["ItemLevel"] = 55,
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["ItemLevel"] = 51,
+					["Type"] = "Arcane",
+				}, -- [3]
+			},
+			["Name"] = "月神镰刀",
+		},
 		[128306] = {
 			["Relics"] = {
 				{
@@ -56,25 +74,7 @@ PawnOptions = {
 			},
 			["Name"] = "加尼尔，母亲之树",
 		},
-		[128821] = {
-			["Relics"] = {
-				{
-					["ItemLevel"] = 55,
-					["Type"] = "Fire",
-				}, -- [1]
-				{
-					["ItemLevel"] = 53,
-					["Type"] = "Blood",
-				}, -- [2]
-				{
-					["ItemLevel"] = 51,
-					["Type"] = "Life",
-				}, -- [3]
-			},
-			["Name"] = "乌索克之爪",
-		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

@@ -1,5 +1,5 @@
 
 AngryWorldQuests_Config = {
-	["__version"] = 9,
+	["__version"] = 11,
 	["collapsed"] = true,
 }

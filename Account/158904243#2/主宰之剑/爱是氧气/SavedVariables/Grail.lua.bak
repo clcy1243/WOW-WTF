@@ -1,14 +1,14 @@
 
 GrailDatabasePlayer = {
-	["dailyGroups"] = {
-	},
 	["completedResettableQuests"] = {
+	},
+	["dailyGroups"] = {
 	},
 	["buffsExperienced"] = {
 	},
-	["completedQuests"] = {
-	},
 	["controlCompletedQuests"] = {
+	},
+	["completedQuests"] = {
 	},
 	["abandonedQuests"] = {
 	},

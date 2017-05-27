@@ -54,3 +54,7 @@ VER 3 010000000000000A "迷惑" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor] 悲苦咒符
 END
+VER 3 0100000000000011 "邪刃飞刀" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click [button:2] 邪刃飞刀 RightButton; [button:3] 邪刃飞刀 MiddleButton; [button:4] 邪刃飞刀 Button4; [button:5] 邪刃飞刀 Button5; 邪刃飞刀
+END

@@ -11,10 +11,11 @@ HekiliDB = {
 	},
 	["profiles"] = {
 		["龙轻雪 - 主宰之剑"] = {
+			["Enabled"] = false,
+			["MinimapIcon"] = true,
 			["iconStore"] = {
 				["hide"] = true,
 			},
-			["AutoDisabled"] = true,
 			["runOnce"] = {
 				["turnOffDebug_04162017"] = true,
 				["removeActionListEnabled_04102017"] = true,
@@ -23,14 +24,13 @@ HekiliDB = {
 				["removeExtraQuotes_04142017_3"] = true,
 				["attachDefaultAPLs_04022017"] = true,
 			},
-			["MinimapIcon"] = true,
-			["Enabled"] = false,
+			["AutoDisabled"] = true,
 		},
 		["龙剑曦 - 主宰之剑"] = {
 			["actionLists"] = {
 				{
 					["Specialization"] = 577,
-					["Default"] = true,
+					["Script"] = "",
 					["Release"] = 20170423.214519,
 					["Name"] = "SimC Havoc: default",
 					["Actions"] = {
@@ -104,10 +104,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Consume Magic",
-							["Release"] = 201617.031,
-							["Ability"] = "consume_magic",
 							["Indicator"] = "none",
+							["Ability"] = "consume_magic",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [7]
 						{
@@ -146,11 +146,11 @@ HekiliDB = {
 							["ModName"] = "SimC Havoc: normal",
 						}, -- [10]
 					},
-					["Script"] = "",
+					["Default"] = true,
 				}, -- [1]
 				{
 					["Specialization"] = 577,
-					["Default"] = true,
+					["Script"] = "",
 					["Release"] = 20170423.214519,
 					["Name"] = "SimC Havoc: precombat",
 					["Actions"] = {
@@ -178,11 +178,11 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [2]
 					},
-					["Script"] = "",
+					["Default"] = true,
 				}, -- [2]
 				{
 					["Name"] = "Kib: Simple",
-					["Default"] = true,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -191,151 +191,151 @@ HekiliDB = {
 							["Name"] = "Fel Rush",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Script"] = "",
 							["Ability"] = "fel_rush",
+							["Script"] = "",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.bloodlet.enabled||talent.momentum.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "vengeful_retreat",
 							["Name"] = "Vengeful Retreat",
+							["Ability"] = "vengeful_retreat",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.fel_barrage.enabled&charges=5",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "fel_barrage",
 							["Name"] = "Fel Barrage",
+							["Ability"] = "fel_barrage",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.bloodlet.enabled&talent.master_of_the_glaive.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Name"] = "Throw Glaive",
+							["Ability"] = "throw_glaive",
 						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.fel_eruption.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "fel_eruption",
 							["Name"] = "Fel Eruption",
+							["Ability"] = "fel_eruption",
 						}, -- [5]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "fury_of_the_illidari",
 							["Name"] = "Fury of the Illidari",
+							["Ability"] = "fury_of_the_illidari",
 						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.demonic.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "eye_beam",
 							["Name"] = "Eye Beam",
+							["Ability"] = "eye_beam",
 						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.first_blood.enabled||(active_enemies>3&talent.chaos_cleave.enabled)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "blade_dance",
 							["Name"] = "Blade Dance",
+							["Ability"] = "blade_dance",
 						}, -- [8]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.first_blood.enabled||(active_enemies>3&talent.chaos_cleave.enabled)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "death_sweep",
 							["Name"] = "Death Sweep",
+							["Ability"] = "death_sweep",
 						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.bloodlet.enabled&active_enemies>1",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Name"] = "Throw Glaive (1)",
+							["Ability"] = "throw_glaive",
 						}, -- [10]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.blind_fury.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "eye_beam",
 							["Name"] = "Eye Beam (1)",
+							["Ability"] = "eye_beam",
 						}, -- [11]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "annihilation",
 							["Name"] = "Annihilation",
+							["Ability"] = "annihilation",
 						}, -- [12]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.bloodlet.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Name"] = "Throw Glaive (2)",
+							["Ability"] = "throw_glaive",
 						}, -- [13]
 						{
 							["Enabled"] = true,
 							["Script"] = "buff.metamorphosis.down&active_enemies>1&(!talent.blind_fury.enabled&!talent.chaos_cleave.enabled&!talent.demonic.enabled)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "eye_beam",
 							["Name"] = "Eye Beam (2)",
+							["Ability"] = "eye_beam",
 						}, -- [14]
 						{
 							["Enabled"] = true,
 							["Script"] = "buff.metamorphosis.down&active_enemies>1\n",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Name"] = "Throw Glaive (3)",
+							["Ability"] = "throw_glaive",
 						}, -- [15]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "chaos_strike",
 							["Name"] = "Chaos Strike",
+							["Ability"] = "chaos_strike",
 						}, -- [16]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "demons_bite",
 							["Name"] = "Demon's Bite",
+							["Ability"] = "demons_bite",
 						}, -- [17]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.demon_blades.enabled&!talent.bloodlet.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Name"] = "Throw Glaive (4)",
+							["Ability"] = "throw_glaive",
 						}, -- [18]
 					},
-					["Specialization"] = 577,
+					["Default"] = true,
 				}, -- [3]
 				{
 					["Name"] = "Kib: Complex",
-					["Default"] = true,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -344,199 +344,199 @@ HekiliDB = {
 							["Script"] = "",
 							["Ability"] = "consume_magic",
 							["Indicator"] = "none",
-							["Release"] = 201617.031,
 							["Name"] = "Consume Magic",
+							["Release"] = 201617.031,
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Metamorphosis",
 							["Ability"] = "metamorphosis",
+							["Name"] = "Metamorphosis",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Name"] = "Chaos Blades",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "chaos_blades",
 							["Script"] = "buff.metamorphosis.remains>=12||cooldown.metamorphosis.remains>action.chaos_blades.cooldown+12",
+							["Ability"] = "chaos_blades",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
 							["Ability"] = "nemesis",
 							["Indicator"] = "none",
-							["Name"] = "Nemesis",
 							["Release"] = 201617.031,
+							["Name"] = "Nemesis",
 						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Name"] = "Fel Rush",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "fel_rush",
 							["Script"] = "charges_fractional>=1.75&(!talent.fel_mastery.enabled||fury.deficit>=30)",
+							["Ability"] = "fel_rush",
 						}, -- [5]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.prepared.enabled||(talent.momentum.enabled&!buff.momentum.up)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Vengeful Retreat",
 							["Ability"] = "vengeful_retreat",
+							["Name"] = "Vengeful Retreat",
 						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "(!talent.momentum.enabled||buff.momentum.up)&charges=5",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Fel Barrage",
 							["Ability"] = "fel_barrage",
+							["Name"] = "Fel Barrage",
 						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "charges>=1.75&(talent.bloodlet.enabled&talent.master_of_the_glaive.enabled)&(!talent.momentum.enabled||buff.momentum.up)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Throw Glaive",
 							["Ability"] = "throw_glaive",
+							["Name"] = "Throw Glaive",
 						}, -- [8]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.fel_eruption.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Fel Eruption",
 							["Ability"] = "fel_eruption",
+							["Name"] = "Fel Eruption",
 						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Script"] = "(!talent.momentum.enabled||buff.momentum.up)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Fury of the Illidari",
 							["Ability"] = "fury_of_the_illidari",
+							["Name"] = "Fury of the Illidari",
 						}, -- [10]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.demonic.enabled||active_enemies>2",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Eye Beam",
 							["Ability"] = "eye_beam",
+							["Name"] = "Eye Beam",
 						}, -- [11]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.first_blood.enabled||active_enemies>2||(active_enemies>3&talent.chaos_cleave.enabled)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Blade Dance",
 							["Ability"] = "blade_dance",
+							["Name"] = "Blade Dance",
 						}, -- [12]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.first_blood.enabled||active_enemies>2||(active_enemies>3&talent.chaos_cleave.enabled)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Death Sweep",
 							["Ability"] = "death_sweep",
+							["Name"] = "Death Sweep",
 						}, -- [13]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.bloodlet.enabled&active_enemies>1&(!talent.momentum.enabled||buff.momentum.up)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Throw Glaive (1)",
 							["Ability"] = "throw_glaive",
+							["Name"] = "Throw Glaive (1)",
 						}, -- [14]
 						{
 							["Enabled"] = true,
 							["Script"] = "fury.deficit>=30",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Felblade",
 							["Ability"] = "felblade",
+							["Name"] = "Felblade",
 						}, -- [15]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.blind_fury.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Eye Beam (1)",
 							["Ability"] = "eye_beam",
+							["Name"] = "Eye Beam (1)",
 						}, -- [16]
 						{
 							["Enabled"] = true,
 							["Script"] = "buff.metamorphosis.up&(!talent.momentum.enabled||buff.momentum.up||fury.deficit<20)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Annihilation",
 							["Ability"] = "annihilation",
+							["Name"] = "Annihilation",
 						}, -- [17]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.bloodlet.enabled&(!talent.momentum.enabled||buff.momentum.up)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Throw Glaive (2)",
 							["Ability"] = "throw_glaive",
+							["Name"] = "Throw Glaive (2)",
 						}, -- [18]
 						{
 							["Enabled"] = true,
 							["Script"] = "buff.metamorphosis.down&(!talent.blind_fury.enabled&!talent.chaos_cleave.enabled&!talent.demonic.enabled)&active_enemies>1&artifact.anguish_of_the_deceiver.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Eye Beam (2)",
 							["Ability"] = "eye_beam",
+							["Name"] = "Eye Beam (2)",
 						}, -- [19]
 						{
 							["Enabled"] = true,
 							["Script"] = "buff.metamorphosis.down&active_enemies>1",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Throw Glaive (3)",
 							["Ability"] = "throw_glaive",
+							["Name"] = "Throw Glaive (3)",
 						}, -- [20]
 						{
 							["Enabled"] = true,
 							["Script"] = "(buff.momentum.up||!talent.momentum.enabled)||fury.deficit<20",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Chaos Strike",
 							["Ability"] = "chaos_strike",
+							["Name"] = "Chaos Strike",
 						}, -- [21]
 						{
 							["Enabled"] = true,
 							["Script"] = "charges>=4&(!talent.momentum.enabled||buff.momentum.up)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Fel Barrage (1)",
 							["Ability"] = "fel_barrage",
+							["Name"] = "Fel Barrage (1)",
 						}, -- [22]
 						{
 							["Enabled"] = true,
 							["Script"] = "fury.deficit>=20",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Demon's Bite",
 							["Ability"] = "demons_bite",
+							["Name"] = "Demon's Bite",
 						}, -- [23]
 						{
 							["Enabled"] = true,
 							["Name"] = "Throw Glaive",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Script"] = "talent.demon_blades.enabled&!talent.bloodlet.enabled",
+							["Ability"] = "throw_glaive",
 						}, -- [24]
 					},
-					["Specialization"] = 577,
+					["Default"] = true,
 				}, -- [4]
 				{
 					["Name"] = "Red Vengeance: precombat",
-					["Default"] = true,
+					["Script"] = "",
 					["Release"] = 20170423.214519,
 					["Specialization"] = 581,
 					["Actions"] = {
@@ -545,57 +545,57 @@ HekiliDB = {
 							["Name"] = "Sigil of Flame",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "sigil_of_flame",
 							["Script"] = "",
+							["Ability"] = "sigil_of_flame",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["Name"] = "Infernal Strike",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "infernal_strike",
 							["Script"] = "charges>=1",
+							["Ability"] = "infernal_strike",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Name"] = "Throw Glaive",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Script"] = "",
+							["Ability"] = "throw_glaive",
 						}, -- [3]
 					},
-					["Script"] = "",
+					["Default"] = true,
 				}, -- [5]
 				{
 					["Name"] = "Red Vengeance: default",
-					["Default"] = true,
+					["Script"] = "",
 					["Release"] = 20170423.214519,
 					["Specialization"] = 581,
 					["Actions"] = {
 						{
 							["ModVarName"] = "use_sigil_of_flame",
 							["Name"] = "Use Sigil of Flame?",
-							["Script"] = "(talent.flame_crash.enabled&debuff.sigil_of_flame.remains<=1)||(!talent.flame_crash.enabled)",
+							["Enabled"] = true,
 							["Ability"] = "variable",
 							["Indicator"] = "none",
 							["Release"] = 201617.031,
-							["Enabled"] = true,
+							["Script"] = "(talent.flame_crash.enabled&debuff.sigil_of_flame.remains<=1)||(!talent.flame_crash.enabled)",
 						}, -- [1]
 						{
 							["ModVarName"] = "wait_for_priority_abilities",
 							["Script"] = "(cooldown.immolation_aura.remains<0.5&pain.deficit>=15)||(talent.felblade.enabled&cooldown.felblade.remains<0.5&pain.deficit>=pain_deficit_limit)||(talent.fel_eruption.enabled&cooldown.fel_eruption.remains<0.5)||(variable.use_sigil_of_flame&active_enemies>=2&cooldown.sigil_of_flame.remains<0.5)||(health.percent<=danger_threshold&cooldown.fel_devastation.remains<0.5&pain.current>=30)",
-							["Ability"] = "variable",
+							["Enabled"] = true,
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
 							["Name"] = "Wait for Priority Abilities?",
-							["Enabled"] = true,
+							["Ability"] = "variable",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.defensives",
-							["Ability"] = "call_action_list",
 							["Release"] = 201617.031,
+							["Ability"] = "call_action_list",
 							["Indicator"] = "none",
 							["Name"] = "Defensives",
 							["ModName"] = "Red Vengeance: defensives",
@@ -605,40 +605,40 @@ HekiliDB = {
 							["Name"] = "Soul Cleave",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "soul_cleave",
 							["Script"] = "pain.current>=60&buff.soul_fragments.stack*5<=health.deficit_pct",
+							["Ability"] = "soul_cleave",
 						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.spirit_bomb.enabled&debuff.frailty.remains<5&buff.soul_fragments.stack>=1",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Spirit Bomb",
 							["Ability"] = "spirit_bomb",
+							["Name"] = "Spirit Bomb",
 						}, -- [5]
 						{
 							["Enabled"] = true,
 							["Script"] = "pain.deficit>=15",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Immolation Aura",
 							["Ability"] = "immolation_aura",
+							["Name"] = "Immolation Aura",
 						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "active_enemies>=2&debuff.sigil_of_flame.remains<=1",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Sigil of Flame",
 							["Ability"] = "sigil_of_flame",
+							["Name"] = "Sigil of Flame",
 						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.felblade.enabled&pain.deficit>=pain_deficit_limit",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Felblade",
 							["Ability"] = "felblade",
+							["Name"] = "Felblade",
 						}, -- [8]
 						{
 							["Enabled"] = true,
@@ -654,55 +654,55 @@ HekiliDB = {
 							["Script"] = "active_enemies=1&talent.fracture.enabled&pain.deficit<pain_deficit_limit",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Fracture",
 							["Ability"] = "fracture",
+							["Name"] = "Fracture",
 						}, -- [10]
 						{
 							["Enabled"] = true,
 							["Script"] = "debuff.sigil_of_flame.remains<=1",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Sigil of Flame (1)",
 							["Ability"] = "sigil_of_flame",
+							["Name"] = "Sigil of Flame (1)",
 						}, -- [11]
 						{
 							["Enabled"] = true,
 							["Script"] = "(!talent.fracture.enabled||active_enemies>=2)&pain.deficit<pain_deficit_limit",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Soul Cleave (1)",
 							["Ability"] = "soul_cleave",
+							["Name"] = "Soul Cleave (1)",
 						}, -- [12]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.fel_eruption.enabled",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Fel Eruption",
 							["Ability"] = "fel_eruption",
+							["Name"] = "Fel Eruption",
 						}, -- [13]
 						{
 							["Enabled"] = true,
 							["Script"] = "variable.use_sigil_of_flame&(cooldown.infernal_strike.charges_fractional>=1.85||active_enemies>=2)\n",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Infernal Strike",
 							["Ability"] = "infernal_strike",
+							["Name"] = "Infernal Strike",
 						}, -- [14]
 						{
 							["Enabled"] = true,
 							["Name"] = "Shear (1)",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "shear",
 							["Script"] = "!variable.waiting_for_priority_abilities",
+							["Ability"] = "shear",
 						}, -- [15]
 					},
-					["Script"] = "",
+					["Default"] = true,
 				}, -- [6]
 				{
 					["Name"] = "Red Vengeance: defensives",
-					["Default"] = true,
+					["Script"] = "",
 					["Release"] = 20170423.214519,
 					["Specialization"] = 581,
 					["Actions"] = {
@@ -711,95 +711,95 @@ HekiliDB = {
 							["Name"] = "Soul Carver",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "soul_carver",
 							["Script"] = "equipped.aldrachi_warblades&health.percent<=75&buff.soul_fragments.stack=0&debuff.fiery_brand.remains=0",
+							["Ability"] = "soul_carver",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["Name"] = "Demon Spikes",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "demon_spikes",
 							["Script"] = "charges_fractional>=1.75&buff.demon_spikes.remains=0&debuff.fiery_brand.remains=0&pain.current>=20&health.percent<=85",
+							["Ability"] = "demon_spikes",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Name"] = "Fiery Brand",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "fiery_brand",
 							["Script"] = "health.percent<=85&buff.demon_spikes.down&buff.metamorphosis.down&buff.soul_barrier.down&cooldown.demon_spikes.charges<1",
+							["Ability"] = "fiery_brand",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Script"] = "health.percent<=55&talent.fel_devastation.enabled&pain.current>=30",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Fel Devastation",
 							["Ability"] = "fel_devastation",
+							["Name"] = "Fel Devastation",
 						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Name"] = "Metamorphosis",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "metamorphosis",
 							["Script"] = "health.percent<=critical_threshold||(health.percent<=40&pain.current<=20&cooldown.fiery_brand.remains>0&debuff.fiery_brand.down&buff.demon_spikes.down&cooldown.demon_spikes.charges_fractional<0.5)",
+							["Ability"] = "metamorphosis",
 						}, -- [5]
 						{
 							["Enabled"] = true,
 							["Script"] = "health.percent<=danger_threshold",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Soul Barrier",
 							["Ability"] = "soul_barrier",
+							["Name"] = "Soul Barrier",
 						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "health.percent<=danger_threshold&pain.current>=60",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Soul Cleave",
 							["Ability"] = "soul_cleave",
+							["Name"] = "Soul Cleave",
 						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "health.percent<=danger_threshold&buff.demon_spikes.down&buff.metamorphosis.down&buff.soul_barrier.down",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Fiery Brand (1)",
 							["Ability"] = "fiery_brand",
+							["Name"] = "Fiery Brand (1)",
 						}, -- [8]
 						{
 							["Enabled"] = true,
 							["Name"] = "Immolation Aura",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "immolation_aura",
 							["Script"] = "health.percent<=danger_threshold&pain.deficit>=15",
+							["Ability"] = "immolation_aura",
 						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Name"] = "Felblade",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "felblade",
 							["Script"] = "health.percent<=danger_threshold&talent.felblade.enabled&pain.deficit>=pain_deficit_limit",
+							["Ability"] = "felblade",
 						}, -- [10]
 						{
 							["Enabled"] = true,
 							["Name"] = "Shear",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "shear",
 							["Script"] = "health.percent<=danger_threshold",
+							["Ability"] = "shear",
 						}, -- [11]
 					},
-					["Script"] = "",
+					["Default"] = true,
 				}, -- [7]
 				{
 					["Name"] = "Red Vengeance: offensives",
-					["Default"] = true,
+					["Script"] = "",
 					["Release"] = 20170423.214519,
 					["Specialization"] = 581,
 					["Actions"] = {
@@ -808,40 +808,40 @@ HekiliDB = {
 							["Name"] = "Fiery Brand",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "fiery_brand",
 							["Script"] = "(artifact.fiery_demise.rank>=1&talent.fel_devastation.enabled&cooldown.fel_devastation.remains=0&pain.current>=30)||(!talent.fel_devastation.enabled||artifact.fiery_demise.rank=0)",
+							["Ability"] = "fiery_brand",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["Name"] = "Fel Devastation",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "fel_devastation",
 							["Script"] = "talent.fel_devastation.enabled&pain.current>=30&((artifact.fiery_demise.rank>=1&active_enemies=1&debuff.fiery_brand.remains>=2)||(artifact.fiery_demise.rank=0||active_enemies>=2))",
+							["Ability"] = "fel_devastation",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Name"] = "Spirit Bomb",
-							["Script"] = "talent.spirit_bomb.enabled&active_enemies>=2&buff.soul_fragments.stack>=1",
-							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Ability"] = "spirit_bomb",
+							["Release"] = 201617.031,
 							["ShowModifiers"] = false,
+							["Ability"] = "spirit_bomb",
+							["Script"] = "talent.spirit_bomb.enabled&active_enemies>=2&buff.soul_fragments.stack>=1",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
 							["Release"] = 201617.031,
 							["Indicator"] = "none",
-							["Name"] = "Soul Carver",
 							["Ability"] = "soul_carver",
+							["Name"] = "Soul Carver",
 						}, -- [4]
 					},
-					["Script"] = "",
+					["Default"] = true,
 				}, -- [8]
 				{
 					["Name"] = "SimC Havoc (Demonic): normal",
-					["Default"] = true,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -926,10 +926,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Fel Eruption",
-							["Release"] = 201617.031,
-							["Ability"] = "fel_eruption",
 							["Indicator"] = "none",
+							["Ability"] = "fel_eruption",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [8]
 						{
@@ -1068,10 +1068,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Release"] = 201617.031,
-							["Ability"] = "demons_bite",
 							["Indicator"] = "none",
+							["Ability"] = "demons_bite",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [21]
 						{
@@ -1130,11 +1130,11 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [26]
 					},
-					["Specialization"] = 577,
+					["Default"] = true,
 				}, -- [9]
 				{
 					["Name"] = "SimC Havoc (Demonic): default",
-					["Default"] = true,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -1208,10 +1208,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Consume Magic",
-							["Release"] = 201617.031,
-							["Ability"] = "consume_magic",
 							["Indicator"] = "none",
+							["Ability"] = "consume_magic",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [7]
 						{
@@ -1250,11 +1250,11 @@ HekiliDB = {
 							["ModName"] = "SimC Havoc (Demonic): normal",
 						}, -- [10]
 					},
-					["Specialization"] = 577,
+					["Default"] = true,
 				}, -- [10]
 				{
 					["Name"] = "SimC Havoc (Demonic): precombat",
-					["Default"] = true,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -1282,11 +1282,11 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [2]
 					},
-					["Specialization"] = 577,
+					["Default"] = true,
 				}, -- [11]
 				{
 					["Name"] = "SimC Havoc (Demonic): cooldown",
-					["Default"] = true,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -1359,11 +1359,11 @@ HekiliDB = {
 							["ModName"] = "old_war",
 						}, -- [6]
 					},
-					["Specialization"] = 577,
+					["Default"] = true,
 				}, -- [12]
 				{
 					["Name"] = "SimC Havoc (Demonic): demonic",
-					["Default"] = true,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -1415,10 +1415,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Fel Eruption",
-							["Release"] = 201617.031,
-							["Ability"] = "fel_eruption",
 							["Indicator"] = "none",
+							["Ability"] = "fel_eruption",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [5]
 						{
@@ -1513,10 +1513,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Release"] = 201617.031,
-							["Ability"] = "demons_bite",
 							["Indicator"] = "none",
+							["Ability"] = "demons_bite",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [14]
 						{
@@ -1553,11 +1553,11 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [17]
 					},
-					["Specialization"] = 577,
+					["Default"] = true,
 				}, -- [13]
 				{
 					["Name"] = "SimC Havoc: normal",
-					["Default"] = true,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -1642,10 +1642,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Fel Eruption",
-							["Release"] = 201617.031,
-							["Ability"] = "fel_eruption",
 							["Indicator"] = "none",
+							["Ability"] = "fel_eruption",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [8]
 						{
@@ -1784,10 +1784,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Release"] = 201617.031,
-							["Ability"] = "demons_bite",
 							["Indicator"] = "none",
+							["Ability"] = "demons_bite",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [21]
 						{
@@ -1909,11 +1909,11 @@ HekiliDB = {
 							["Script"] = "",
 						}, -- [35]
 					},
-					["Specialization"] = 577,
+					["Default"] = true,
 				}, -- [14]
 				{
 					["Specialization"] = 577,
-					["Name"] = "SimC Havoc: cooldown",
+					["Default"] = true,
 					["Release"] = 20170424.002226,
 					["Script"] = "",
 					["Actions"] = {
@@ -1986,11 +1986,11 @@ HekiliDB = {
 							["ModName"] = "old_war",
 						}, -- [6]
 					},
-					["Default"] = true,
+					["Name"] = "SimC Havoc: cooldown",
 				}, -- [15]
 				{
 					["Name"] = "SimC Havoc: demonic",
-					["Default"] = true,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -2042,10 +2042,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Fel Eruption",
-							["Release"] = 201617.031,
-							["Ability"] = "fel_eruption",
 							["Indicator"] = "none",
+							["Ability"] = "fel_eruption",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [5]
 						{
@@ -2140,10 +2140,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Release"] = 201617.031,
-							["Ability"] = "demons_bite",
 							["Indicator"] = "none",
+							["Ability"] = "demons_bite",
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["ModName"] = "",
 						}, -- [14]
 						{
@@ -2180,11 +2180,11 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [17]
 					},
-					["Specialization"] = 577,
+					["Default"] = true,
 				}, -- [16]
 				{
 					["Name"] = "单体",
-					["Default"] = false,
+					["Specialization"] = 577,
 					["Release"] = 20170423.214519,
 					["Script"] = "",
 					["Actions"] = {
@@ -2335,10 +2335,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Ability"] = "demons_bite",
-							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Release"] = 201617.031,
 							["Indicator"] = "none",
+							["Ability"] = "demons_bite",
 							["ModName"] = "",
 						}, -- [14]
 						{
@@ -2375,7 +2375,7 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [17]
 					},
-					["Specialization"] = 577,
+					["Default"] = false,
 				}, -- [17]
 			},
 			["Toggle State: artifact_ability"] = true,
@@ -2428,58 +2428,58 @@ HekiliDB = {
 					["kbFontStyle"] = "OUTLINE",
 					["targetPvP"] = false,
 					["targetFontStyle"] = "OUTLINE",
-					["blizzGlow"] = false,
+					["queuedIconSize"] = 40,
 					["showAuto"] = true,
-					["minAE"] = 3,
+					["alphaAlwaysPvE"] = 1,
 					["alphaAlwaysPvP"] = 1,
-					["alphaShowPvP"] = 1,
+					["auraAnchor"] = "BOTTOMLEFT",
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 17,
-					["iconZoom"] = 15,
+					["alphaShowPvP"] = 1,
 					["maxAE"] = 0,
-					["targetAnchor"] = "BOTTOMRIGHT",
-					["targetPvE"] = false,
-					["xOffsetKBs"] = 1,
 					["showKeybindings"] = true,
-					["x"] = -12.7505493164063,
-					["indicatorAnchor"] = "RIGHT",
-					["spellFlashColor"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
-					},
-					["auraType"] = "buff",
-					["blizzGlowAll"] = false,
+					["targetPvE"] = false,
+					["Release"] = 20170423.214519,
+					["showPvP"] = true,
+					["showSwitchAuto"] = true,
+					["maxST"] = 1,
+					["yOffsetKBs"] = -1,
+					["defaultAPL"] = 17,
+					["visibilityType"] = "b",
 					["showIndicators"] = true,
-					["Default"] = true,
+					["displayType"] = "a",
 					["alwaysPvE"] = true,
-					["showAE"] = true,
 					["showPvE"] = true,
+					["showAE"] = true,
 					["combatPvP"] = false,
 					["spellFlash"] = false,
-					["auraSpellID"] = 0,
+					["alphaCombatPvP"] = 1,
 					["queuedIndicators"] = true,
 					["minST"] = 0,
 					["targetFontSize"] = 12,
 					["Name"] = "Havoc Primary",
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = true,
 					["simpleAOE"] = 2,
-					["displayType"] = "a",
-					["visibilityType"] = "b",
-					["defaultAPL"] = 17,
-					["yOffsetKBs"] = -1,
-					["maxST"] = 1,
-					["showSwitchAuto"] = true,
-					["showPvP"] = true,
-					["Release"] = 20170423.214519,
-					["auraAnchor"] = "BOTTOMLEFT",
+					["Default"] = true,
+					["blizzGlowAll"] = false,
+					["auraType"] = "buff",
+					["spellFlashColor"] = {
+						["a"] = 1,
+						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
+					},
+					["indicatorAnchor"] = "RIGHT",
+					["x"] = -12.7505493164063,
+					["xOffsetKBs"] = 1,
+					["targetAnchor"] = "BOTTOMRIGHT",
+					["iconZoom"] = 15,
 					["queuedFontSize"] = 12,
-					["alphaAlwaysPvE"] = 1,
+					["minAE"] = 3,
 					["queuedKBs"] = true,
-					["queuedIconSize"] = 40,
+					["blizzGlow"] = false,
 					["auraUnit"] = "player",
 				}, -- [1]
 			},
@@ -2500,1078 +2500,6 @@ HekiliDB = {
 			["Class Option: danger_threshold"] = 50,
 		},
 		["龙听雨 - 巨龙之吼"] = {
-			["actionLists"] = {
-				{
-					["Name"] = "Brewmaster: Default",
-					["Specialization"] = 268,
-					["Release"] = 20170402.13081,
-					["Script"] = "",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.interrupts",
-							["Ability"] = "spear_hand_strike",
-							["Indicator"] = "none",
-							["Release"] = 201617.03,
-							["Name"] = "Spear Hand Strike",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(||buff.bloodlust.up||target.time_to_die<=60)",
-							["Args"] = "name=old_war",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Potion",
-							["Ability"] = "potion",
-						}, -- [2]
-						{
-							["Enabled"] = false,
-							["Script"] = "tanking&cooldown.ironskin_brew.charges=cooldown.ironskin_brew.charges_max&incoming_damage_3s>0",
-							["Ability"] = "ironskin_brew",
-							["Indicator"] = "none",
-							["Release"] = 201617.03,
-							["Name"] = "Ironskin Brew",
-						}, -- [3]
-						{
-							["Enabled"] = false,
-							["Ability"] = "call_action_list",
-							["Script"] = "use_defensives",
-							["Args"] = "name=\"Brewmaster: Defensives\"",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Defensives",
-							["ModName"] = "Brewmaster: Defensives",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Ability"] = "call_action_list",
-							["Script"] = "!talent.blackout_combo.enabled&active_enemies>1",
-							["Args"] = "name=\"Brewmaster: Standard AOE\"",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Standard AOE",
-							["ModName"] = "Brewmaster: Standard AOE",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Ability"] = "call_action_list",
-							["Script"] = "talent.blackout_combo.enabled&active_enemies>1",
-							["Args"] = "name=\"Brewmaster: Combo AOE\"",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Combo AOE",
-							["ModName"] = "Brewmaster: Combo AOE",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Ability"] = "call_action_list",
-							["Script"] = "!talent.blackout_combo.enabled&active_enemies=1",
-							["Args"] = "name=\"Brewmaster: Standard ST\"",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Standard ST",
-							["ModName"] = "Brewmaster: Standard ST",
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Script"] = "talent.blackout_combo.enabled&active_enemies=1",
-							["Name"] = "Combo ST",
-							["Args"] = "name=\"Brewmaster: Combo ST\"",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "call_action_list",
-							["ModName"] = "Brewmaster: Combo ST",
-						}, -- [8]
-					},
-					["Default"] = true,
-				}, -- [1]
-				{
-					["Specialization"] = 268,
-					["Script"] = "",
-					["Default"] = true,
-					["Release"] = 20170402.13081,
-					["ReadyTime"] = "( cooldown.purifying_brew.charges_max - cooldown.purifying_brew.charges_fractional ) * cooldown.purifying_brew.recharge",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Name"] = "Black Ox Brew",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Script"] = "cooldown.purifying_brew.charges=0",
-							["Ability"] = "black_ox_brew",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["whenReady"] = "auto",
-							["Script"] = "",
-							["Ability"] = "purifying_brew",
-							["Caption"] = "",
-							["Indicator"] = "none",
-							["Release"] = 201617.03,
-							["Name"] = "Purifying Brew",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Script"] = "cooldown.purifying_brew.charges=cooldown.purifying_brew.charges_max",
-							["Ability"] = "ironskin_brew",
-							["Indicator"] = "none",
-							["ScriptType"] = "time",
-							["Name"] = "Ironskin Brew",
-							["Release"] = 201617.03,
-							["ReadyTime"] = "( cooldown.purifying_brew.charges_max - cooldown.purifying_brew.charges_fractional ) * cooldown.purifying_brew.recharge",
-							["whenReady"] = "script",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Name"] = "Expel Harm",
-							["Ability"] = "expel_harm",
-							["whenReady"] = "auto",
-							["Indicator"] = "none",
-							["Script"] = "healing_sphere.count>=1&(health.deficit>=stat.attack_power*7.5*healing_sphere.count)",
-							["Release"] = 201617.03,
-						}, -- [4]
-					},
-					["Name"] = "Brewmaster: Defensives",
-				}, -- [2]
-				{
-					["Script"] = "",
-					["Specialization"] = 268,
-					["Default"] = true,
-					["Release"] = 20170402.13081,
-					["ReadyTime"] = "",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Script"] = "talent.blackout_combo.enabled&action.keg_smash.ready_time<gcd*1.5",
-							["Name"] = "Blackout Strike (KS)",
-							["ReadyTime"] = "",
-							["Ability"] = "blackout_strike",
-							["Indicator"] = "none",
-							["Release"] = 201617.03,
-							["ScriptType"] = "simc",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Name"] = "Keg Smash",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "keg_smash",
-							["Script"] = "",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Name"] = "Blackout Strike",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "blackout_strike",
-							["Script"] = "",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Rushing Jade Wind",
-							["Ability"] = "rushing_jade_wind",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Script"] = "debuff.keg_smash.up",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Breath of Fire",
-							["Ability"] = "breath_of_fire",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Name"] = "Tiger Palm",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "tiger_palm",
-							["Script"] = "energy.current>0",
-						}, -- [6]
-					},
-					["Name"] = "Brewmaster: Combo ST",
-				}, -- [3]
-				{
-					["Default"] = true,
-					["Script"] = "",
-					["Release"] = 20170402.13081,
-					["Specialization"] = 268,
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Name"] = "Exploding Keg",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "exploding_keg",
-							["Script"] = "",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Name"] = "Keg Smash",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "keg_smash",
-							["Script"] = "",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Name"] = "Chi Burst",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "chi_burst",
-							["Script"] = "",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Name"] = "Breath of Fire",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "breath_of_fire",
-							["Script"] = "debuff.keg_smash.up",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Rushing Jade Wind",
-							["Ability"] = "rushing_jade_wind",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Script"] = "energy.current>0",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Tiger Palm",
-							["Ability"] = "tiger_palm",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Blackout Strike",
-							["Ability"] = "blackout_strike",
-						}, -- [7]
-					},
-					["Name"] = "Brewmaster: Combo AOE",
-				}, -- [4]
-				{
-					["Default"] = true,
-					["Specialization"] = 268,
-					["Release"] = 20170402.13081,
-					["Script"] = "",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Name"] = "Keg Smash",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Script"] = "",
-							["Ability"] = "keg_smash",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Script"] = "debuff.keg_smash.up||debuff.special_delivery.up",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "breath_of_fire",
-							["Name"] = "Breath of Fire",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "blackout_strike",
-							["Name"] = "Blackout Strike",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Script"] = "cooldown.purifying_brew.charges<cooldown.purifying_brew.charges_max",
-							["Ability"] = "tiger_palm",
-							["Indicator"] = "none",
-							["Name"] = "Tiger Palm",
-							["Release"] = 201617.03,
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Script"] = "tanking&stagger.amount>purify_threshold",
-							["Ability"] = "exploding_keg",
-							["Indicator"] = "none",
-							["Name"] = "Exploding Keg",
-							["Release"] = 201617.03,
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "rushing_jade_wind",
-							["Name"] = "Rushing Jade Wind",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Ability"] = "chi_burst",
-							["Indicator"] = "none",
-							["Name"] = "Chi Burst",
-							["Release"] = 201617.03,
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "chi_wave",
-							["Name"] = "Chi Wave",
-						}, -- [8]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "tiger_palm",
-							["Name"] = "Tiger Palm (1)",
-						}, -- [9]
-					},
-					["Name"] = "Brewmaster: Standard ST",
-				}, -- [5]
-				{
-					["Name"] = "Brewmaster: Standard AOE",
-					["Default"] = true,
-					["Release"] = 20170402.13081,
-					["Specialization"] = 268,
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Ability"] = "exploding_keg",
-							["Indicator"] = "none",
-							["Name"] = "Exploding Keg",
-							["Release"] = 201617.03,
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Ability"] = "keg_smash",
-							["Name"] = "Keg Smash",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Script"] = "debuff.keg_smash.up||debuff.special_delivery.up",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Breath of Fire",
-							["Ability"] = "breath_of_fire",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Blackout Strike",
-							["Ability"] = "blackout_strike",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Rushing Jade Wind",
-							["Ability"] = "rushing_jade_wind",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Ability"] = "chi_burst",
-							["Indicator"] = "none",
-							["Release"] = 201617.03,
-							["Name"] = "Chi Burst",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Chi Wave",
-							["Ability"] = "chi_wave",
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Script"] = "",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Tiger Palm (1)",
-							["Ability"] = "tiger_palm",
-						}, -- [8]
-					},
-					["Script"] = "",
-				}, -- [6]
-				{
-					["Name"] = "SimC Windwalker: default",
-					["Specialization"] = 269,
-					["Release"] = 20170402.13081,
-					["Script"] = "",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.interrupts&(target.debuff.casting.up)",
-							["Name"] = "Spear Hand Strike",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "spear_hand_strike",
-							["ModName"] = "",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.potions&(buff.serenity.up||buff.storm_earth_and_fire.up||(!talent.serenity.enabled&trinket.proc.agility.up)||buff.bloodlust.up||target.time_to_die<=60)",
-							["Ability"] = "potion",
-							["Indicator"] = "none",
-							["Name"] = "Potion",
-							["Args"] = "name=\"prolonged_power\"",
-							["Release"] = 201710,
-							["CheckMovement"] = false,
-							["ModName"] = "prolonged_power",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(target.time_to_die<=9)",
-							["Name"] = "Touch of Death",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "touch_of_death",
-							["ModName"] = "",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Script"] = "(talent.serenity.enabled&cooldown.serenity.remains<=0)||buff.serenity.up",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["Name"] = "Call Action List",
-							["Args"] = "name=\"SimC Windwalker: serenity\"",
-							["Release"] = 201710,
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Windwalker: serenity",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Script"] = "!talent.serenity.enabled&equipped.drinking_horn_cover&((cooldown.fists_of_fury.remains<=1&chi.current>=3)||buff.storm_earth_and_fire.up||cooldown.storm_earth_and_fire.charges=2||target.time_to_die<=25||cooldown.touch_of_death.remains>=85)",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["Name"] = "Call Action List (1)",
-							["Args"] = "name=\"SimC Windwalker: sef\"",
-							["Release"] = 201710,
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Windwalker: sef",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Script"] = "!talent.serenity.enabled&!equipped.drinking_horn_cover&((artifact.strike_of_the_windlord.enabled&cooldown.strike_of_the_windlord.remains<=14&cooldown.fists_of_fury.remains<=6&cooldown.rising_sun_kick.remains<=6)||buff.storm_earth_and_fire.up)",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["Name"] = "Call Action List (2)",
-							["Args"] = "name=\"SimC Windwalker: sef\"",
-							["Release"] = 201710,
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Windwalker: sef",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Release"] = 201710,
-							["Name"] = "Call Action List (3)",
-							["Args"] = "name=\"SimC Windwalker: ST\"",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Windwalker: ST",
-						}, -- [7]
-					},
-					["Default"] = true,
-				}, -- [7]
-				{
-					["Name"] = "SimC Windwalker: precombat",
-					["Specialization"] = 269,
-					["Release"] = 20170402.13081,
-					["Script"] = "",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.potions",
-							["Ability"] = "potion",
-							["Indicator"] = "none",
-							["Name"] = "Potion",
-							["Args"] = "name=\"prolonged_power\"",
-							["Release"] = 201710,
-							["CheckMovement"] = false,
-							["ModName"] = "prolonged_power",
-						}, -- [1]
-					},
-					["Default"] = true,
-				}, -- [8]
-				{
-					["Name"] = "SimC Windwalker: sef",
-					["Specialization"] = 269,
-					["Release"] = 20170402.13081,
-					["Script"] = "",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Script"] = "energy.current=energy.max&chi.current<1",
-							["Name"] = "Tiger Palm",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "tiger_palm",
-							["ModName"] = "",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(chi.max-chi.current>=1&energy.time_to_max>=0.5)",
-							["Name"] = "Arcane Torrent",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "arcane_torrent",
-							["ModName"] = "",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Release"] = 201710,
-							["Name"] = "Call Action List",
-							["Args"] = "name=\"SimC Windwalker: CD\"",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Windwalker: CD",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(!buff.storm_earth_and_fire.up&(cooldown.touch_of_death.remains<=8||cooldown.touch_of_death.remains>85))",
-							["Name"] = "Storm, Earth, and Fire",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "storm_earth_and_fire",
-							["ModName"] = "",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(!buff.storm_earth_and_fire.up&cooldown.storm_earth_and_fire.charges=2)",
-							["Name"] = "Storm, Earth, and Fire (1)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "storm_earth_and_fire",
-							["ModName"] = "",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(!buff.storm_earth_and_fire.up&target.time_to_die<=25)",
-							["Name"] = "Storm, Earth, and Fire (2)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "storm_earth_and_fire",
-							["ModName"] = "",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(!buff.storm_earth_and_fire.up&cooldown.fists_of_fury.remains<=1&chi.current>=3)",
-							["Name"] = "Storm, Earth, and Fire (3)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "storm_earth_and_fire",
-							["ModName"] = "",
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Script"] = "buff.storm_earth_and_fire.up",
-							["Name"] = "Fists of Fury",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "fists_of_fury",
-							["ModName"] = "",
-						}, -- [8]
-						{
-							["Enabled"] = true,
-							["Script"] = "buff.storm_earth_and_fire.up&chi.current=2&energy.current<energy.max",
-							["Name"] = "Rising Sun Kick",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "rising_sun_kick",
-							["ModName"] = "",
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["Release"] = 201710,
-							["Name"] = "Call Action List (1)",
-							["Args"] = "name=\"SimC Windwalker: ST\"",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Windwalker: ST",
-						}, -- [10]
-					},
-					["Default"] = true,
-				}, -- [9]
-				{
-					["Name"] = "SimC Windwalker: serenity",
-					["Specialization"] = 269,
-					["Release"] = 20170402.13081,
-					["Script"] = "",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Release"] = 201710,
-							["Name"] = "Call Action List",
-							["Args"] = "name=\"SimC Windwalker: CD\"",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Windwalker: CD",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns",
-							["Name"] = "Serenity",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "serenity",
-							["ModName"] = "",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Script"] = "active_enemies<3",
-							["Ability"] = "rising_sun_kick",
-							["Indicator"] = "none",
-							["Name"] = "Rising Sun Kick",
-							["Args"] = "cycle_targets=1",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Name"] = "Fists of Fury",
-							["Release"] = 201710,
-							["Ability"] = "fists_of_fury",
-							["Indicator"] = "none",
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Name"] = "Strike of the Windlord",
-							["Release"] = 201710,
-							["Ability"] = "strike_of_the_windlord",
-							["Indicator"] = "none",
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Script"] = "active_enemies>=3&!prev_gcd.1.spinning_crane_kick",
-							["Name"] = "Spinning Crane Kick",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "spinning_crane_kick",
-							["ModName"] = "",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Script"] = "active_enemies>=3",
-							["Ability"] = "rising_sun_kick",
-							["Indicator"] = "none",
-							["Name"] = "Rising Sun Kick (1)",
-							["Args"] = "cycle_targets=1",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Script"] = "!prev_gcd.1.spinning_crane_kick",
-							["Name"] = "Spinning Crane Kick (1)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "spinning_crane_kick",
-							["ModName"] = "",
-						}, -- [8]
-						{
-							["Enabled"] = true,
-							["Script"] = "!prev_gcd.1.blackout_kick",
-							["Ability"] = "blackout_kick",
-							["Indicator"] = "none",
-							["Name"] = "Blackout Kick",
-							["Args"] = "cycle_targets=1",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["Script"] = "!prev_gcd.1.rushing_jade_wind",
-							["Name"] = "Rushing Jade Wind",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "rushing_jade_wind",
-							["ModName"] = "",
-						}, -- [10]
-					},
-					["Default"] = true,
-				}, -- [10]
-				{
-					["Name"] = "SimC Windwalker: ST",
-					["Specialization"] = 269,
-					["Release"] = 20170402.13081,
-					["Script"] = "",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Release"] = 201710,
-							["Name"] = "Call Action List",
-							["Args"] = "name=\"SimC Windwalker: CD\"",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Windwalker: CD",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Script"] = "energy.current<energy.max&chi.current<=1",
-							["Name"] = "Energizing Elixir",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "energizing_elixir",
-							["ModName"] = "",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(chi.max-chi.current>=1&energy.time_to_max>=0.5)",
-							["Name"] = "Arcane Torrent",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "arcane_torrent",
-							["ModName"] = "",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Script"] = "equipped.convergence_of_fates&talent.serenity.enabled&cooldown.serenity.remains>=2",
-							["Ability"] = "rising_sun_kick",
-							["Indicator"] = "none",
-							["Name"] = "Rising Sun Kick",
-							["Args"] = "cycle_targets=1",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Script"] = "equipped.convergence_of_fates&!talent.serenity.enabled",
-							["Ability"] = "rising_sun_kick",
-							["Indicator"] = "none",
-							["Name"] = "Rising Sun Kick (1)",
-							["Args"] = "cycle_targets=1",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Script"] = "!equipped.convergence_of_fates",
-							["Ability"] = "rising_sun_kick",
-							["Indicator"] = "none",
-							["Name"] = "Rising Sun Kick (2)",
-							["Args"] = "cycle_targets=1",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Script"] = "equipped.convergence_of_fates&talent.serenity.enabled&cooldown.serenity.remains>=5",
-							["Name"] = "Fists of Fury",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "fists_of_fury",
-							["ModName"] = "",
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Script"] = "equipped.convergence_of_fates&!talent.serenity.enabled",
-							["Name"] = "Fists of Fury (1)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "fists_of_fury",
-							["ModName"] = "",
-						}, -- [8]
-						{
-							["Enabled"] = true,
-							["Script"] = "!equipped.convergence_of_fates",
-							["Name"] = "Fists of Fury (2)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "fists_of_fury",
-							["ModName"] = "",
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["Script"] = "equipped.convergence_of_fates&talent.serenity.enabled&cooldown.serenity.remains>=10",
-							["Name"] = "Strike of the Windlord",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "strike_of_the_windlord",
-							["ModName"] = "",
-						}, -- [10]
-						{
-							["Enabled"] = true,
-							["Script"] = "equipped.convergence_of_fates&!talent.serenity.enabled",
-							["Name"] = "Strike of the Windlord (1)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "strike_of_the_windlord",
-							["ModName"] = "",
-						}, -- [11]
-						{
-							["Enabled"] = true,
-							["Script"] = "!equipped.convergence_of_fates",
-							["Name"] = "Strike of the Windlord (2)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "strike_of_the_windlord",
-							["ModName"] = "",
-						}, -- [12]
-						{
-							["Enabled"] = true,
-							["Script"] = "!prev_gcd.1.tiger_palm&energy.current=energy.max&chi.current<=3&buff.storm_earth_and_fire.up",
-							["Ability"] = "tiger_palm",
-							["Indicator"] = "none",
-							["Name"] = "Tiger Palm",
-							["Args"] = "cycle_targets=1",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [13]
-						{
-							["Enabled"] = true,
-							["Name"] = "Whirling Dragon Punch",
-							["Release"] = 201710,
-							["Ability"] = "whirling_dragon_punch",
-							["Indicator"] = "none",
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [14]
-						{
-							["Enabled"] = true,
-							["Script"] = "equipped.the_emperors_capacitor&buff.the_emperors_capacitor.stack>=15",
-							["Name"] = "Crackling Jade Lightning",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "crackling_jade_lightning",
-							["ModName"] = "",
-						}, -- [15]
-						{
-							["Enabled"] = true,
-							["Script"] = "(active_enemies>=3||spinning_crane_kick.count>=3)&!prev_gcd.1.spinning_crane_kick",
-							["Name"] = "Spinning Crane Kick",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "spinning_crane_kick",
-							["ModName"] = "",
-						}, -- [16]
-						{
-							["Enabled"] = true,
-							["Script"] = "chi.max-chi.current>1&!prev_gcd.1.rushing_jade_wind",
-							["Name"] = "Rushing Jade Wind",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "rushing_jade_wind",
-							["ModName"] = "",
-						}, -- [17]
-						{
-							["Enabled"] = true,
-							["Script"] = "(chi.current>1||buff.bok_proc.up)&!prev_gcd.1.blackout_kick",
-							["Ability"] = "blackout_kick",
-							["Indicator"] = "none",
-							["Name"] = "Blackout Kick",
-							["Args"] = "cycle_targets=1",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [18]
-						{
-							["Enabled"] = true,
-							["Script"] = "energy.time_to_max>=2.25",
-							["Name"] = "Chi Wave",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "chi_wave",
-							["ModName"] = "",
-						}, -- [19]
-						{
-							["Enabled"] = true,
-							["Script"] = "energy.time_to_max>=2.25",
-							["Name"] = "Chi Burst",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "chi_burst",
-							["ModName"] = "",
-						}, -- [20]
-						{
-							["Enabled"] = true,
-							["Script"] = "!prev_gcd.1.tiger_palm||buff.hit_combo.down",
-							["Ability"] = "tiger_palm",
-							["Indicator"] = "none",
-							["Name"] = "Tiger Palm (1)",
-							["Args"] = "cycle_targets=1",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [21]
-						{
-							["Enabled"] = true,
-							["Name"] = "Crackling Jade Lightning (1)",
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "crackling_jade_lightning",
-							["Script"] = "buff.hit_combo.up&prev_gcd.1.tiger_palm",
-						}, -- [22]
-					},
-					["Default"] = true,
-				}, -- [11]
-				{
-					["Name"] = "SimC Windwalker: CD",
-					["Default"] = true,
-					["Release"] = 20170402.13081,
-					["Script"] = "",
-					["Actions"] = {
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns",
-							["Name"] = "Invoke Xuen, the White Tiger",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "invoke_xuen",
-							["ModName"] = "",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns",
-							["Name"] = "Blood Fury",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "blood_fury",
-							["ModName"] = "",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns",
-							["Name"] = "Berserking",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "berserking",
-							["ModName"] = "",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["MaximumTargets"] = "2",
-							["Script"] = "toggle.cooldowns&(!artifact.gale_burst.enabled&equipped.hidden_masters_forbidden_touch&!prev_gcd.1.touch_of_death)",
-							["Ability"] = "touch_of_death",
-							["Indicator"] = "none",
-							["Name"] = "Touch of Death",
-							["Args"] = "cycle_targets=1,max_cycle_targets=2",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(!artifact.gale_burst.enabled&!equipped.hidden_masters_forbidden_touch)",
-							["Name"] = "Touch of Death (1)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "touch_of_death",
-							["ModName"] = "",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["MaximumTargets"] = "2",
-							["Script"] = "toggle.cooldowns&(artifact.gale_burst.enabled&equipped.hidden_masters_forbidden_touch&((talent.serenity.enabled&cooldown.serenity.remains<=1)||chi.current>=2)&(cooldown.strike_of_the_windlord.remains<8||cooldown.fists_of_fury.remains<=4)&cooldown.rising_sun_kick.remains<7&!prev_gcd.1.touch_of_death)",
-							["Ability"] = "touch_of_death",
-							["Indicator"] = "none",
-							["Name"] = "Touch of Death (2)",
-							["Args"] = "cycle_targets=1,max_cycle_targets=2",
-							["Release"] = 201710,
-							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(artifact.gale_burst.enabled&!talent.serenity.enabled&!equipped.hidden_masters_forbidden_touch&cooldown.strike_of_the_windlord.remains<8&cooldown.fists_of_fury.remains<=4&cooldown.rising_sun_kick.remains<7&chi.current>=2)",
-							["Name"] = "Touch of Death (3)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "touch_of_death",
-							["ModName"] = "",
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(artifact.gale_burst.enabled&((talent.serenity.enabled&cooldown.serenity.remains<=1)||chi.current>=2)&(cooldown.strike_of_the_windlord.remains<8||cooldown.fists_of_fury.remains<=4)&cooldown.rising_sun_kick.remains<7&!prev_gcd.1.touch_of_death)",
-							["Name"] = "Touch of Death (4)",
-							["CheckMovement"] = false,
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["Ability"] = "touch_of_death",
-							["ModName"] = "",
-						}, -- [8]
-					},
-					["Specialization"] = 269,
-				}, -- [12]
-			},
-			["Toggle State: use_defensives"] = true,
 			["displays"] = {
 				{
 					["captionFontStyle"] = "OUTLINE",
@@ -3615,9 +2543,9 @@ HekiliDB = {
 					["numIcons"] = 4,
 					["spellFlashColor"] = {
 						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
 						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
 					["showCaptions"] = true,
 					["xOffsetAura"] = 0,
@@ -3632,44 +2560,44 @@ HekiliDB = {
 					["visibilityType"] = "b",
 					["captionAlign"] = "CENTER",
 					["quickVisStyle"] = "a",
-					["queuedIconSize"] = 40,
+					["blizzGlow"] = false,
 					["rangeType"] = "ability",
 					["auraMine"] = true,
 					["xOffsetTargets"] = 0,
 					["kbFontSize"] = 12,
-					["auraInfoType"] = "buff",
+					["minAE"] = 3,
 					["alphaTargetPvP"] = 1,
-					["auraAnchor"] = "BOTTOMLEFT",
+					["iconZoom"] = 15,
 					["rel"] = "CENTER",
 					["spellFlash"] = false,
 					["alphaTargetPvE"] = 1,
-					["alphaShowPvP"] = 1,
+					["auraAnchor"] = "BOTTOMLEFT",
 					["queuedIndicators"] = true,
-					["alphaAlwaysPvE"] = 1,
-					["showSwitchAuto"] = true,
+					["xOffsetKBs"] = 1,
+					["yOffsetKBs"] = -1,
 					["targetFontStyle"] = "OUTLINE",
 					["Maximum Time"] = 30,
-					["Default"] = true,
+					["Keybinding Style"] = 2,
 					["Script"] = "",
 					["alphaAlwaysPvP"] = 1,
-					["auraType"] = "buff",
+					["indicatorAnchor"] = "RIGHT",
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 8,
-					["showKeybindings"] = true,
+					["Copy To"] = "Windwalker AOE",
 					["maxAE"] = 0,
 					["Talent Group"] = 0,
 					["targetPvE"] = false,
+					["showKeybindings"] = true,
 					["showPvP"] = true,
-					["Primary Caption"] = "targets",
-					["xOffsetIndicators"] = 0,
-					["minAuto"] = 0,
+					["yOffsetIndicators"] = 0,
+					["defaultAPL"] = 7,
 					["kbFont"] = "PT Sans Narrow",
 					["displayType"] = "a",
-					["auraSpellID"] = 0,
+					["alphaCombatPvP"] = 1,
 					["showIndicators"] = true,
 					["x"] = -29.9996967315674,
 					["alwaysPvE"] = true,
-					["showPvE"] = true,
+					["Primary Caption Aura"] = "",
 					["showAE"] = true,
 					["combatPvP"] = false,
 					["targetFont"] = "PT Sans Narrow",
@@ -3677,24 +2605,24 @@ HekiliDB = {
 					["kbFontStyle"] = "OUTLINE",
 					["minST"] = 0,
 					["targetFontSize"] = 12,
-					["Primary Caption Aura"] = "",
+					["showPvE"] = true,
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = true,
 					["simpleAOE"] = 2,
-					["defaultAPL"] = 7,
-					["yOffsetIndicators"] = 0,
+					["minAuto"] = 0,
+					["xOffsetIndicators"] = 0,
 					["Release"] = 20170402.13081,
-					["Copy To"] = "Windwalker AOE",
-					["indicatorAnchor"] = "RIGHT",
-					["Keybinding Style"] = 2,
-					["yOffsetKBs"] = -1,
-					["xOffsetKBs"] = 1,
-					["iconZoom"] = 15,
+					["Primary Caption"] = "targets",
+					["auraType"] = "buff",
+					["Default"] = true,
+					["showSwitchAuto"] = true,
+					["alphaAlwaysPvE"] = 1,
+					["alphaShowPvP"] = 1,
 					["queuedFontSize"] = 12,
-					["minAE"] = 3,
+					["auraInfoType"] = "buff",
 					["queuedKBs"] = true,
-					["blizzGlow"] = false,
+					["queuedIconSize"] = 40,
 					["auraUnit"] = "player",
 				}, -- [1]
 				{
@@ -3739,9 +2667,9 @@ HekiliDB = {
 					["numIcons"] = 4,
 					["spellFlashColor"] = {
 						["a"] = 1,
-						["b"] = 1,
-						["g"] = 1,
 						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
 					},
 					["showCaptions"] = true,
 					["xOffsetAura"] = 0,
@@ -3758,66 +2686,66 @@ HekiliDB = {
 					["captionFontSize"] = 12,
 					["rangeType"] = "ability",
 					["auraMine"] = true,
-					["showSwitchAuto"] = true,
+					["queueAlignment"] = "c",
 					["kbFontSize"] = 12,
 					["primaryIconSize"] = 40,
 					["Primary Caption Aura"] = "",
-					["showAuto"] = false,
+					["showAuraInfo"] = false,
 					["rel"] = "CENTER",
 					["spellFlash"] = false,
 					["alphaTargetPvE"] = 1,
 					["auraInfoType"] = "buff",
 					["queuedIndicators"] = true,
-					["iconZoom"] = 15,
-					["Default"] = true,
+					["auraAnchor"] = "BOTTOMLEFT",
+					["xOffsetKBs"] = 1,
 					["targetFontStyle"] = "OUTLINE",
 					["Maximum Time"] = 30,
-					["alphaAlwaysPvE"] = 1,
+					["yOffsetKBs"] = -1,
 					["Script"] = "single",
 					["alphaAlwaysPvP"] = 1,
-					["auraType"] = "buff",
+					["indicatorAnchor"] = "RIGHT",
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 8,
-					["Release"] = 20170402.13081,
+					["Specialization"] = 269,
 					["maxAE"] = 0,
 					["Talent Group"] = 0,
 					["targetPvE"] = false,
+					["Release"] = 20170402.13081,
 					["showKeybindings"] = true,
-					["showPvP"] = true,
-					["x"] = 0,
-					["minAuto"] = 3,
-					["kbFont"] = "PT Sans Narrow",
+					["yOffsetIndicators"] = 0,
+					["yOffsetAura"] = 0,
+					["blizzGlowAll"] = false,
 					["displayType"] = "c",
 					["alphaTargetPvP"] = 1,
 					["showIndicators"] = true,
-					["auraSpellID"] = 0,
+					["alphaCombatPvP"] = 1,
 					["alwaysPvE"] = true,
-					["showPvE"] = true,
 					["showAE"] = false,
+					["showPvE"] = true,
 					["combatPvP"] = false,
-					["alphaShowPvP"] = 1,
+					["targetFont"] = "PT Sans Narrow",
 					["iconSpacing"] = 5,
 					["kbFontStyle"] = "OUTLINE",
 					["minST"] = 3,
 					["targetFontSize"] = 12,
-					["targetFont"] = "PT Sans Narrow",
+					["alphaShowPvP"] = 1,
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = true,
 					["simpleAOE"] = 3,
-					["blizzGlowAll"] = false,
-					["yOffsetAura"] = 0,
-					["yOffsetIndicators"] = 0,
+					["kbFont"] = "PT Sans Narrow",
+					["minAuto"] = 3,
+					["x"] = 0,
 					["Primary Caption"] = "targets",
-					["Specialization"] = 269,
-					["indicatorAnchor"] = "RIGHT",
-					["yOffsetKBs"] = -1,
-					["xOffsetKBs"] = 1,
-					["auraAnchor"] = "BOTTOMLEFT",
+					["showPvP"] = true,
+					["auraType"] = "buff",
+					["alphaAlwaysPvE"] = 1,
+					["Default"] = true,
+					["iconZoom"] = 15,
 					["queuedFontSize"] = 12,
-					["showAuraInfo"] = false,
+					["showAuto"] = false,
 					["queuedKBs"] = true,
-					["queueAlignment"] = "c",
+					["showSwitchAuto"] = true,
 					["auraUnit"] = "player",
 				}, -- [2]
 				{
@@ -3856,9 +2784,9 @@ HekiliDB = {
 					["numIcons"] = 3,
 					["spellFlashColor"] = {
 						["a"] = 1,
-						["b"] = 1,
-						["g"] = 1,
 						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
 					},
 					["showCaptions"] = true,
 					["xOffsetAura"] = 0,
@@ -3875,66 +2803,66 @@ HekiliDB = {
 					["targetPvP"] = false,
 					["rangeType"] = "ability",
 					["auraMine"] = true,
-					["showSwitchAuto"] = true,
+					["queueAlignment"] = "c",
 					["kbFontSize"] = 12,
 					["primaryIconSize"] = 40,
 					["Primary Caption Aura"] = "",
-					["xOffsetTargets"] = 0,
+					["showAuraInfo"] = false,
 					["rel"] = "CENTER",
 					["targetFont"] = "PT Sans Narrow",
 					["alphaTargetPvE"] = 1,
 					["targetAnchor"] = "BOTTOMRIGHT",
 					["queuedIndicators"] = true,
-					["auraAnchor"] = "BOTTOMLEFT",
-					["Name"] = "Brewmaster Primary",
+					["iconZoom"] = 15,
+					["xOffsetKBs"] = 1,
 					["targetFontStyle"] = "OUTLINE",
 					["Maximum Time"] = 30,
-					["alphaAlwaysPvE"] = 1,
+					["yOffsetKBs"] = -1,
 					["Script"] = "",
 					["alphaAlwaysPvP"] = 1,
-					["auraType"] = "buff",
+					["indicatorAnchor"] = "RIGHT",
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 0,
-					["Primary Caption"] = "targets",
+					["Copy To"] = "Brewmaster AOE",
 					["maxAE"] = 0,
 					["Talent Group"] = 0,
 					["targetPvE"] = false,
+					["Primary Caption"] = "targets",
 					["showKeybindings"] = true,
-					["showPvP"] = true,
-					["x"] = 3.24908423423767,
-					["minAuto"] = 0,
-					["kbFont"] = "PT Sans Narrow",
+					["yOffsetIndicators"] = 0,
+					["defaultAPL"] = 1,
+					["blizzGlowAll"] = false,
 					["displayType"] = "a",
 					["alphaTargetPvP"] = 1,
 					["showIndicators"] = true,
-					["auraSpellID"] = 0,
+					["alphaCombatPvP"] = 1,
 					["alwaysPvE"] = true,
-					["showPvE"] = true,
 					["showAE"] = true,
+					["showPvE"] = true,
 					["combatPvP"] = false,
-					["alphaShowPvP"] = 1,
+					["spellFlash"] = false,
 					["maxST"] = 1,
 					["kbFontStyle"] = "OUTLINE",
 					["minST"] = 0,
 					["targetFontSize"] = 12,
-					["spellFlash"] = false,
+					["alphaShowPvP"] = 1,
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = false,
 					["simpleAOE"] = 2,
-					["blizzGlowAll"] = false,
-					["defaultAPL"] = 1,
-					["yOffsetIndicators"] = 0,
+					["kbFont"] = "PT Sans Narrow",
+					["minAuto"] = 0,
+					["x"] = 3.24908423423767,
 					["Release"] = 20170402.13081,
-					["Copy To"] = "Brewmaster AOE",
-					["indicatorAnchor"] = "RIGHT",
-					["yOffsetKBs"] = -1,
-					["xOffsetKBs"] = 1,
-					["iconZoom"] = 15,
+					["showPvP"] = true,
+					["auraType"] = "buff",
+					["alphaAlwaysPvE"] = 1,
+					["Name"] = "Brewmaster Primary",
+					["auraAnchor"] = "BOTTOMLEFT",
 					["queuedFontSize"] = 12,
-					["showAuraInfo"] = false,
+					["xOffsetTargets"] = 0,
 					["queuedKBs"] = true,
-					["queueAlignment"] = "c",
+					["showSwitchAuto"] = true,
 					["auraUnit"] = "player",
 				}, -- [3]
 				{
@@ -3973,9 +2901,9 @@ HekiliDB = {
 					["numIcons"] = 3,
 					["spellFlashColor"] = {
 						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
 						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
 					["showCaptions"] = true,
 					["xOffsetAura"] = 0,
@@ -3992,66 +2920,66 @@ HekiliDB = {
 					["targetPvP"] = false,
 					["rangeType"] = "ability",
 					["auraMine"] = true,
-					["primaryIconSize"] = 40,
+					["queueAlignment"] = "c",
 					["kbFontSize"] = 12,
 					["showAuraInfo"] = false,
 					["alphaTargetPvP"] = 1,
-					["xOffsetTargets"] = 0,
+					["showSwitchAuto"] = true,
 					["rel"] = "CENTER",
 					["targetFont"] = "PT Sans Narrow",
 					["alphaTargetPvE"] = 1,
 					["targetAnchor"] = "BOTTOMRIGHT",
 					["queuedIndicators"] = true,
-					["auraAnchor"] = "BOTTOMLEFT",
-					["minAuto"] = 3,
+					["iconZoom"] = 15,
+					["xOffsetKBs"] = 1,
 					["targetFontStyle"] = "OUTLINE",
 					["Maximum Time"] = 30,
-					["alphaAlwaysPvE"] = 1,
+					["yOffsetKBs"] = -1,
 					["Script"] = "single",
 					["alphaAlwaysPvP"] = 1,
-					["auraType"] = "buff",
+					["indicatorAnchor"] = "RIGHT",
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 0,
-					["Primary Caption"] = "targets",
+					["Specialization"] = 268,
 					["maxAE"] = 0,
 					["Talent Group"] = 0,
 					["targetPvE"] = false,
+					["Primary Caption"] = "targets",
 					["showKeybindings"] = true,
-					["Release"] = 20170402.13081,
-					["font"] = "Arial Narrow",
-					["Name"] = "Brewmaster AOE",
-					["kbFont"] = "PT Sans Narrow",
+					["yOffsetIndicators"] = 0,
+					["defaultAPL"] = 1,
+					["xOffsetIndicators"] = 0,
 					["displayType"] = "c",
 					["Primary Caption Aura"] = "",
 					["showIndicators"] = true,
-					["auraSpellID"] = 0,
+					["alphaCombatPvP"] = 1,
 					["alwaysPvE"] = true,
-					["showPvE"] = true,
 					["showAE"] = false,
+					["showPvE"] = true,
 					["combatPvP"] = false,
-					["alphaShowPvP"] = 1,
+					["spellFlash"] = false,
 					["maxST"] = 0,
 					["kbFontStyle"] = "OUTLINE",
 					["minST"] = 3,
 					["targetFontSize"] = 12,
-					["spellFlash"] = false,
+					["alphaShowPvP"] = 1,
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = false,
 					["simpleAOE"] = 3,
-					["xOffsetIndicators"] = 0,
-					["defaultAPL"] = 1,
-					["yOffsetIndicators"] = 0,
+					["kbFont"] = "PT Sans Narrow",
+					["Name"] = "Brewmaster AOE",
+					["font"] = "Arial Narrow",
 					["showPvP"] = true,
-					["Specialization"] = 268,
-					["indicatorAnchor"] = "RIGHT",
-					["yOffsetKBs"] = -1,
-					["xOffsetKBs"] = 1,
-					["iconZoom"] = 15,
+					["Release"] = 20170402.13081,
+					["auraType"] = "buff",
+					["alphaAlwaysPvE"] = 1,
+					["minAuto"] = 3,
+					["auraAnchor"] = "BOTTOMLEFT",
 					["queuedFontSize"] = 12,
-					["showSwitchAuto"] = true,
+					["xOffsetTargets"] = 0,
 					["queuedKBs"] = true,
-					["queueAlignment"] = "c",
+					["primaryIconSize"] = 40,
 					["auraUnit"] = "player",
 				}, -- [4]
 				{
@@ -4090,9 +3018,9 @@ HekiliDB = {
 					["numIcons"] = 1,
 					["spellFlashColor"] = {
 						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
 						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
 					["showCaptions"] = true,
 					["xOffsetAura"] = 0,
@@ -4110,79 +3038,1151 @@ HekiliDB = {
 					["auraMine"] = true,
 					["captionFontSize"] = 12,
 					["kbFontSize"] = 10,
-					["primaryIconSize"] = 30,
+					["queueAlignment"] = "c",
 					["alphaTargetPvP"] = 1,
 					["showAuraInfo"] = false,
 					["rel"] = "CENTER",
 					["spellFlash"] = false,
 					["alphaTargetPvE"] = 1,
-					["xOffsetTargets"] = 0,
+					["showSwitchAuto"] = true,
 					["queuedIndicators"] = true,
 					["targetAnchor"] = "BOTTOMRIGHT",
-					["alphaShowPvP"] = 1,
+					["iconZoom"] = 30,
 					["targetFontStyle"] = "OUTLINE",
 					["Maximum Time"] = 30,
-					["Name"] = "Brewmaster Defensives",
+					["xOffsetKBs"] = 1,
 					["Script"] = "",
 					["alphaAlwaysPvP"] = 1,
-					["alphaAlwaysPvE"] = 1,
+					["x"] = -78.999755859375,
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 0,
-					["auraType"] = "buff",
+					["indicatorAnchor"] = "RIGHT",
 					["maxAE"] = 0,
 					["Talent Group"] = 0,
 					["targetPvE"] = false,
-					["showPvP"] = true,
 					["Release"] = 20170402.13081,
-					["Primary Caption"] = "default",
-					["font"] = "Arial Narrow",
-					["kbFont"] = "PT Sans Narrow",
-					["quickVisStyle"] = "a",
+					["showKeybindings"] = true,
+					["yOffsetIndicators"] = 0,
+					["yOffsetAura"] = 0,
+					["xOffsetIndicators"] = 0,
+					["minAuto"] = 0,
 					["Primary Caption Aura"] = "",
 					["showIndicators"] = true,
-					["showAE"] = true,
-					["alwaysPvE"] = true,
-					["auraSpellID"] = 0,
 					["showPvE"] = true,
+					["alwaysPvE"] = true,
+					["alphaCombatPvP"] = 1,
+					["showAE"] = true,
 					["combatPvP"] = false,
 					["targetFont"] = "PT Sans Narrow",
-					["auraAnchor"] = "BOTTOMLEFT",
+					["kbFontStyle"] = "OUTLINE",
 					["iconSpacing"] = 5,
 					["minST"] = 0,
 					["targetFontSize"] = 12,
-					["kbFontStyle"] = "OUTLINE",
+					["auraAnchor"] = "BOTTOMLEFT",
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = false,
 					["simpleAOE"] = 2,
-					["minAuto"] = 0,
-					["xOffsetIndicators"] = 0,
-					["yOffsetAura"] = 0,
-					["yOffsetIndicators"] = 0,
-					["showKeybindings"] = true,
-					["indicatorAnchor"] = "RIGHT",
-					["x"] = -78.999755859375,
-					["xOffsetKBs"] = 1,
-					["iconZoom"] = 30,
+					["quickVisStyle"] = "a",
+					["kbFont"] = "PT Sans Narrow",
+					["font"] = "Arial Narrow",
+					["Primary Caption"] = "default",
+					["showPvP"] = true,
+					["auraType"] = "buff",
+					["alphaAlwaysPvE"] = 1,
+					["Name"] = "Brewmaster Defensives",
+					["alphaShowPvP"] = 1,
 					["queuedFontSize"] = 12,
-					["showSwitchAuto"] = true,
+					["xOffsetTargets"] = 0,
 					["queuedKBs"] = true,
-					["queueAlignment"] = "c",
+					["primaryIconSize"] = 30,
 					["auraUnit"] = "player",
 				}, -- [5]
 			},
-			["Toggle State: strike_of_the_windlord"] = true,
-			["Class Option: purify_moderate"] = 60,
-			["MinimapIcon"] = true,
-			["Class Option: tp_energy"] = 65,
+			["actionLists"] = {
+				{
+					["Name"] = "Brewmaster: Default",
+					["Default"] = true,
+					["Release"] = 20170402.13081,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.interrupts",
+							["Ability"] = "spear_hand_strike",
+							["Indicator"] = "none",
+							["Name"] = "Spear Hand Strike",
+							["Release"] = 201617.03,
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns&(||buff.bloodlust.up||target.time_to_die<=60)",
+							["Args"] = "name=old_war",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "potion",
+							["Name"] = "Potion",
+						}, -- [2]
+						{
+							["Enabled"] = false,
+							["Script"] = "tanking&cooldown.ironskin_brew.charges=cooldown.ironskin_brew.charges_max&incoming_damage_3s>0",
+							["Ability"] = "ironskin_brew",
+							["Indicator"] = "none",
+							["Name"] = "Ironskin Brew",
+							["Release"] = 201617.03,
+						}, -- [3]
+						{
+							["Enabled"] = false,
+							["Release"] = 201617.03,
+							["Script"] = "use_defensives",
+							["Args"] = "name=\"Brewmaster: Defensives\"",
+							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Name"] = "Defensives",
+							["ModName"] = "Brewmaster: Defensives",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Release"] = 201617.03,
+							["Script"] = "!talent.blackout_combo.enabled&active_enemies>1",
+							["Args"] = "name=\"Brewmaster: Standard AOE\"",
+							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Name"] = "Standard AOE",
+							["ModName"] = "Brewmaster: Standard AOE",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Release"] = 201617.03,
+							["Script"] = "talent.blackout_combo.enabled&active_enemies>1",
+							["Args"] = "name=\"Brewmaster: Combo AOE\"",
+							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Name"] = "Combo AOE",
+							["ModName"] = "Brewmaster: Combo AOE",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Release"] = 201617.03,
+							["Script"] = "!talent.blackout_combo.enabled&active_enemies=1",
+							["Args"] = "name=\"Brewmaster: Standard ST\"",
+							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Name"] = "Standard ST",
+							["ModName"] = "Brewmaster: Standard ST",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Name"] = "Combo ST",
+							["Script"] = "talent.blackout_combo.enabled&active_enemies=1",
+							["Args"] = "name=\"Brewmaster: Combo ST\"",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "call_action_list",
+							["ModName"] = "Brewmaster: Combo ST",
+						}, -- [8]
+					},
+					["Specialization"] = 268,
+				}, -- [1]
+				{
+					["Script"] = "",
+					["Name"] = "Brewmaster: Defensives",
+					["Default"] = true,
+					["Release"] = 20170402.13081,
+					["ReadyTime"] = "( cooldown.purifying_brew.charges_max - cooldown.purifying_brew.charges_fractional ) * cooldown.purifying_brew.recharge",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Black Ox Brew",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "black_ox_brew",
+							["Script"] = "cooldown.purifying_brew.charges=0",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Purifying Brew",
+							["whenReady"] = "auto",
+							["Ability"] = "purifying_brew",
+							["Indicator"] = "none",
+							["Release"] = 201617.03,
+							["Caption"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.purifying_brew.charges=cooldown.purifying_brew.charges_max",
+							["Ability"] = "ironskin_brew",
+							["Indicator"] = "none",
+							["ScriptType"] = "time",
+							["Name"] = "Ironskin Brew",
+							["Release"] = 201617.03,
+							["ReadyTime"] = "( cooldown.purifying_brew.charges_max - cooldown.purifying_brew.charges_fractional ) * cooldown.purifying_brew.recharge",
+							["whenReady"] = "script",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Name"] = "Expel Harm",
+							["whenReady"] = "auto",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Script"] = "healing_sphere.count>=1&(health.deficit>=stat.attack_power*7.5*healing_sphere.count)",
+							["Ability"] = "expel_harm",
+						}, -- [4]
+					},
+					["Specialization"] = 268,
+				}, -- [2]
+				{
+					["Specialization"] = 268,
+					["Name"] = "Brewmaster: Combo ST",
+					["Default"] = true,
+					["Release"] = 20170402.13081,
+					["ReadyTime"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Blackout Strike (KS)",
+							["Script"] = "talent.blackout_combo.enabled&action.keg_smash.ready_time<gcd*1.5",
+							["Ability"] = "blackout_strike",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["ReadyTime"] = "",
+							["ScriptType"] = "simc",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Name"] = "Keg Smash",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Script"] = "",
+							["Ability"] = "keg_smash",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Name"] = "Blackout Strike",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Script"] = "",
+							["Ability"] = "blackout_strike",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "rushing_jade_wind",
+							["Name"] = "Rushing Jade Wind",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "debuff.keg_smash.up",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "breath_of_fire",
+							["Name"] = "Breath of Fire",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Name"] = "Tiger Palm",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Script"] = "energy.current>0",
+							["Ability"] = "tiger_palm",
+						}, -- [6]
+					},
+					["Script"] = "",
+				}, -- [3]
+				{
+					["Default"] = true,
+					["Name"] = "Brewmaster: Combo AOE",
+					["Release"] = 20170402.13081,
+					["Specialization"] = 268,
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Exploding Keg",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Script"] = "",
+							["Ability"] = "exploding_keg",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Name"] = "Keg Smash",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Script"] = "",
+							["Ability"] = "keg_smash",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Name"] = "Chi Burst",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Script"] = "",
+							["Ability"] = "chi_burst",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Name"] = "Breath of Fire",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Script"] = "debuff.keg_smash.up",
+							["Ability"] = "breath_of_fire",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "rushing_jade_wind",
+							["Name"] = "Rushing Jade Wind",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "energy.current>0",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "tiger_palm",
+							["Name"] = "Tiger Palm",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "blackout_strike",
+							["Name"] = "Blackout Strike",
+						}, -- [7]
+					},
+					["Script"] = "",
+				}, -- [4]
+				{
+					["Default"] = true,
+					["Name"] = "Brewmaster: Standard ST",
+					["Release"] = 20170402.13081,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Keg Smash",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "keg_smash",
+							["Script"] = "",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "debuff.keg_smash.up||debuff.special_delivery.up",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Name"] = "Breath of Fire",
+							["Ability"] = "breath_of_fire",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Name"] = "Blackout Strike",
+							["Ability"] = "blackout_strike",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.purifying_brew.charges<cooldown.purifying_brew.charges_max",
+							["Ability"] = "tiger_palm",
+							["Indicator"] = "none",
+							["Release"] = 201617.03,
+							["Name"] = "Tiger Palm",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "tanking&stagger.amount>purify_threshold",
+							["Ability"] = "exploding_keg",
+							["Indicator"] = "none",
+							["Release"] = 201617.03,
+							["Name"] = "Exploding Keg",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Name"] = "Rushing Jade Wind",
+							["Ability"] = "rushing_jade_wind",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Ability"] = "chi_burst",
+							["Indicator"] = "none",
+							["Release"] = 201617.03,
+							["Name"] = "Chi Burst",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Name"] = "Chi Wave",
+							["Ability"] = "chi_wave",
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Name"] = "Tiger Palm (1)",
+							["Ability"] = "tiger_palm",
+						}, -- [9]
+					},
+					["Specialization"] = 268,
+				}, -- [5]
+				{
+					["Name"] = "Brewmaster: Standard AOE",
+					["Script"] = "",
+					["Release"] = 20170402.13081,
+					["Specialization"] = 268,
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Ability"] = "exploding_keg",
+							["Indicator"] = "none",
+							["Release"] = 201617.03,
+							["Name"] = "Exploding Keg",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Name"] = "Keg Smash",
+							["Ability"] = "keg_smash",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "debuff.keg_smash.up||debuff.special_delivery.up",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "breath_of_fire",
+							["Name"] = "Breath of Fire",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "blackout_strike",
+							["Name"] = "Blackout Strike",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "rushing_jade_wind",
+							["Name"] = "Rushing Jade Wind",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Ability"] = "chi_burst",
+							["Indicator"] = "none",
+							["Name"] = "Chi Burst",
+							["Release"] = 201617.03,
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "chi_wave",
+							["Name"] = "Chi Wave",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "tiger_palm",
+							["Name"] = "Tiger Palm (1)",
+						}, -- [8]
+					},
+					["Default"] = true,
+				}, -- [6]
+				{
+					["Name"] = "SimC Windwalker: default",
+					["Default"] = true,
+					["Release"] = 20170402.13081,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Spear Hand Strike",
+							["Script"] = "toggle.interrupts&(target.debuff.casting.up)",
+							["Release"] = 201710,
+							["Ability"] = "spear_hand_strike",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.potions&(buff.serenity.up||buff.storm_earth_and_fire.up||(!talent.serenity.enabled&trinket.proc.agility.up)||buff.bloodlust.up||target.time_to_die<=60)",
+							["Ability"] = "potion",
+							["Indicator"] = "none",
+							["Name"] = "Potion",
+							["Args"] = "name=\"prolonged_power\"",
+							["Release"] = 201710,
+							["CheckMovement"] = false,
+							["ModName"] = "prolonged_power",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Name"] = "Touch of Death",
+							["Script"] = "toggle.cooldowns&(target.time_to_die<=9)",
+							["Release"] = 201710,
+							["Ability"] = "touch_of_death",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "(talent.serenity.enabled&cooldown.serenity.remains<=0)||buff.serenity.up",
+							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Name"] = "Call Action List",
+							["Args"] = "name=\"SimC Windwalker: serenity\"",
+							["Release"] = 201710,
+							["CheckMovement"] = false,
+							["ModName"] = "SimC Windwalker: serenity",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "!talent.serenity.enabled&equipped.drinking_horn_cover&((cooldown.fists_of_fury.remains<=1&chi.current>=3)||buff.storm_earth_and_fire.up||cooldown.storm_earth_and_fire.charges=2||target.time_to_die<=25||cooldown.touch_of_death.remains>=85)",
+							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Name"] = "Call Action List (1)",
+							["Args"] = "name=\"SimC Windwalker: sef\"",
+							["Release"] = 201710,
+							["CheckMovement"] = false,
+							["ModName"] = "SimC Windwalker: sef",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "!talent.serenity.enabled&!equipped.drinking_horn_cover&((artifact.strike_of_the_windlord.enabled&cooldown.strike_of_the_windlord.remains<=14&cooldown.fists_of_fury.remains<=6&cooldown.rising_sun_kick.remains<=6)||buff.storm_earth_and_fire.up)",
+							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Name"] = "Call Action List (2)",
+							["Args"] = "name=\"SimC Windwalker: sef\"",
+							["Release"] = 201710,
+							["CheckMovement"] = false,
+							["ModName"] = "SimC Windwalker: sef",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Ability"] = "call_action_list",
+							["Name"] = "Call Action List (3)",
+							["Args"] = "name=\"SimC Windwalker: ST\"",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "SimC Windwalker: ST",
+						}, -- [7]
+					},
+					["Specialization"] = 269,
+				}, -- [7]
+				{
+					["Name"] = "SimC Windwalker: precombat",
+					["Default"] = true,
+					["Release"] = 20170402.13081,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.potions",
+							["Ability"] = "potion",
+							["Indicator"] = "none",
+							["Name"] = "Potion",
+							["Args"] = "name=\"prolonged_power\"",
+							["Release"] = 201710,
+							["CheckMovement"] = false,
+							["ModName"] = "prolonged_power",
+						}, -- [1]
+					},
+					["Specialization"] = 269,
+				}, -- [8]
+				{
+					["Name"] = "SimC Windwalker: sef",
+					["Default"] = true,
+					["Release"] = 20170402.13081,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Tiger Palm",
+							["Script"] = "energy.current=energy.max&chi.current<1",
+							["Release"] = 201710,
+							["Ability"] = "tiger_palm",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Name"] = "Arcane Torrent",
+							["Script"] = "toggle.cooldowns&(chi.max-chi.current>=1&energy.time_to_max>=0.5)",
+							["Release"] = 201710,
+							["Ability"] = "arcane_torrent",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Ability"] = "call_action_list",
+							["Name"] = "Call Action List",
+							["Args"] = "name=\"SimC Windwalker: CD\"",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "SimC Windwalker: CD",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Name"] = "Storm, Earth, and Fire",
+							["Script"] = "toggle.cooldowns&(!buff.storm_earth_and_fire.up&(cooldown.touch_of_death.remains<=8||cooldown.touch_of_death.remains>85))",
+							["Release"] = 201710,
+							["Ability"] = "storm_earth_and_fire",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Name"] = "Storm, Earth, and Fire (1)",
+							["Script"] = "toggle.cooldowns&(!buff.storm_earth_and_fire.up&cooldown.storm_earth_and_fire.charges=2)",
+							["Release"] = 201710,
+							["Ability"] = "storm_earth_and_fire",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Name"] = "Storm, Earth, and Fire (2)",
+							["Script"] = "toggle.cooldowns&(!buff.storm_earth_and_fire.up&target.time_to_die<=25)",
+							["Release"] = 201710,
+							["Ability"] = "storm_earth_and_fire",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Name"] = "Storm, Earth, and Fire (3)",
+							["Script"] = "toggle.cooldowns&(!buff.storm_earth_and_fire.up&cooldown.fists_of_fury.remains<=1&chi.current>=3)",
+							["Release"] = 201710,
+							["Ability"] = "storm_earth_and_fire",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Name"] = "Fists of Fury",
+							["Script"] = "buff.storm_earth_and_fire.up",
+							["Release"] = 201710,
+							["Ability"] = "fists_of_fury",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Name"] = "Rising Sun Kick",
+							["Script"] = "buff.storm_earth_and_fire.up&chi.current=2&energy.current<energy.max",
+							["Release"] = 201710,
+							["Ability"] = "rising_sun_kick",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["Ability"] = "call_action_list",
+							["Name"] = "Call Action List (1)",
+							["Args"] = "name=\"SimC Windwalker: ST\"",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "SimC Windwalker: ST",
+						}, -- [10]
+					},
+					["Specialization"] = 269,
+				}, -- [9]
+				{
+					["Name"] = "SimC Windwalker: serenity",
+					["Default"] = true,
+					["Release"] = 20170402.13081,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Ability"] = "call_action_list",
+							["Name"] = "Call Action List",
+							["Args"] = "name=\"SimC Windwalker: CD\"",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "SimC Windwalker: CD",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Name"] = "Serenity",
+							["Script"] = "toggle.cooldowns",
+							["Release"] = 201710,
+							["Ability"] = "serenity",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies<3",
+							["Ability"] = "rising_sun_kick",
+							["Indicator"] = "none",
+							["Name"] = "Rising Sun Kick",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Name"] = "Fists of Fury",
+							["Ability"] = "fists_of_fury",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Name"] = "Strike of the Windlord",
+							["Ability"] = "strike_of_the_windlord",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Name"] = "Spinning Crane Kick",
+							["Script"] = "active_enemies>=3&!prev_gcd.1.spinning_crane_kick",
+							["Release"] = 201710,
+							["Ability"] = "spinning_crane_kick",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies>=3",
+							["Ability"] = "rising_sun_kick",
+							["Indicator"] = "none",
+							["Name"] = "Rising Sun Kick (1)",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Name"] = "Spinning Crane Kick (1)",
+							["Script"] = "!prev_gcd.1.spinning_crane_kick",
+							["Release"] = 201710,
+							["Ability"] = "spinning_crane_kick",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Script"] = "!prev_gcd.1.blackout_kick",
+							["Ability"] = "blackout_kick",
+							["Indicator"] = "none",
+							["Name"] = "Blackout Kick",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["Name"] = "Rushing Jade Wind",
+							["Script"] = "!prev_gcd.1.rushing_jade_wind",
+							["Release"] = 201710,
+							["Ability"] = "rushing_jade_wind",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [10]
+					},
+					["Specialization"] = 269,
+				}, -- [10]
+				{
+					["Name"] = "SimC Windwalker: ST",
+					["Default"] = true,
+					["Release"] = 20170402.13081,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Ability"] = "call_action_list",
+							["Name"] = "Call Action List",
+							["Args"] = "name=\"SimC Windwalker: CD\"",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "SimC Windwalker: CD",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Name"] = "Energizing Elixir",
+							["Script"] = "energy.current<energy.max&chi.current<=1",
+							["Release"] = 201710,
+							["Ability"] = "energizing_elixir",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Name"] = "Arcane Torrent",
+							["Script"] = "toggle.cooldowns&(chi.max-chi.current>=1&energy.time_to_max>=0.5)",
+							["Release"] = 201710,
+							["Ability"] = "arcane_torrent",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "equipped.convergence_of_fates&talent.serenity.enabled&cooldown.serenity.remains>=2",
+							["Ability"] = "rising_sun_kick",
+							["Indicator"] = "none",
+							["Name"] = "Rising Sun Kick",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "equipped.convergence_of_fates&!talent.serenity.enabled",
+							["Ability"] = "rising_sun_kick",
+							["Indicator"] = "none",
+							["Name"] = "Rising Sun Kick (1)",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "!equipped.convergence_of_fates",
+							["Ability"] = "rising_sun_kick",
+							["Indicator"] = "none",
+							["Name"] = "Rising Sun Kick (2)",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Name"] = "Fists of Fury",
+							["Script"] = "equipped.convergence_of_fates&talent.serenity.enabled&cooldown.serenity.remains>=5",
+							["Release"] = 201710,
+							["Ability"] = "fists_of_fury",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Name"] = "Fists of Fury (1)",
+							["Script"] = "equipped.convergence_of_fates&!talent.serenity.enabled",
+							["Release"] = 201710,
+							["Ability"] = "fists_of_fury",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Name"] = "Fists of Fury (2)",
+							["Script"] = "!equipped.convergence_of_fates",
+							["Release"] = 201710,
+							["Ability"] = "fists_of_fury",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["Name"] = "Strike of the Windlord",
+							["Script"] = "equipped.convergence_of_fates&talent.serenity.enabled&cooldown.serenity.remains>=10",
+							["Release"] = 201710,
+							["Ability"] = "strike_of_the_windlord",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [10]
+						{
+							["Enabled"] = true,
+							["Name"] = "Strike of the Windlord (1)",
+							["Script"] = "equipped.convergence_of_fates&!talent.serenity.enabled",
+							["Release"] = 201710,
+							["Ability"] = "strike_of_the_windlord",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [11]
+						{
+							["Enabled"] = true,
+							["Name"] = "Strike of the Windlord (2)",
+							["Script"] = "!equipped.convergence_of_fates",
+							["Release"] = 201710,
+							["Ability"] = "strike_of_the_windlord",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [12]
+						{
+							["Enabled"] = true,
+							["Script"] = "!prev_gcd.1.tiger_palm&energy.current=energy.max&chi.current<=3&buff.storm_earth_and_fire.up",
+							["Ability"] = "tiger_palm",
+							["Indicator"] = "none",
+							["Name"] = "Tiger Palm",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [13]
+						{
+							["Enabled"] = true,
+							["Name"] = "Whirling Dragon Punch",
+							["Ability"] = "whirling_dragon_punch",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [14]
+						{
+							["Enabled"] = true,
+							["Name"] = "Crackling Jade Lightning",
+							["Script"] = "equipped.the_emperors_capacitor&buff.the_emperors_capacitor.stack>=15",
+							["Release"] = 201710,
+							["Ability"] = "crackling_jade_lightning",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [15]
+						{
+							["Enabled"] = true,
+							["Name"] = "Spinning Crane Kick",
+							["Script"] = "(active_enemies>=3||spinning_crane_kick.count>=3)&!prev_gcd.1.spinning_crane_kick",
+							["Release"] = 201710,
+							["Ability"] = "spinning_crane_kick",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [16]
+						{
+							["Enabled"] = true,
+							["Name"] = "Rushing Jade Wind",
+							["Script"] = "chi.max-chi.current>1&!prev_gcd.1.rushing_jade_wind",
+							["Release"] = 201710,
+							["Ability"] = "rushing_jade_wind",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [17]
+						{
+							["Enabled"] = true,
+							["Script"] = "(chi.current>1||buff.bok_proc.up)&!prev_gcd.1.blackout_kick",
+							["Ability"] = "blackout_kick",
+							["Indicator"] = "none",
+							["Name"] = "Blackout Kick",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [18]
+						{
+							["Enabled"] = true,
+							["Name"] = "Chi Wave",
+							["Script"] = "energy.time_to_max>=2.25",
+							["Release"] = 201710,
+							["Ability"] = "chi_wave",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [19]
+						{
+							["Enabled"] = true,
+							["Name"] = "Chi Burst",
+							["Script"] = "energy.time_to_max>=2.25",
+							["Release"] = 201710,
+							["Ability"] = "chi_burst",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [20]
+						{
+							["Enabled"] = true,
+							["Script"] = "!prev_gcd.1.tiger_palm||buff.hit_combo.down",
+							["Ability"] = "tiger_palm",
+							["Indicator"] = "none",
+							["Name"] = "Tiger Palm (1)",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [21]
+						{
+							["Enabled"] = true,
+							["Name"] = "Crackling Jade Lightning (1)",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["Script"] = "buff.hit_combo.up&prev_gcd.1.tiger_palm",
+							["Ability"] = "crackling_jade_lightning",
+						}, -- [22]
+					},
+					["Specialization"] = 269,
+				}, -- [11]
+				{
+					["Name"] = "SimC Windwalker: CD",
+					["Specialization"] = 269,
+					["Release"] = 20170402.13081,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Invoke Xuen, the White Tiger",
+							["Script"] = "toggle.cooldowns",
+							["Release"] = 201710,
+							["Ability"] = "invoke_xuen",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Name"] = "Blood Fury",
+							["Script"] = "toggle.cooldowns",
+							["Release"] = 201710,
+							["Ability"] = "blood_fury",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Name"] = "Berserking",
+							["Script"] = "toggle.cooldowns",
+							["Release"] = 201710,
+							["Ability"] = "berserking",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["MaximumTargets"] = "2",
+							["Script"] = "toggle.cooldowns&(!artifact.gale_burst.enabled&equipped.hidden_masters_forbidden_touch&!prev_gcd.1.touch_of_death)",
+							["Ability"] = "touch_of_death",
+							["Indicator"] = "none",
+							["Name"] = "Touch of Death",
+							["Args"] = "cycle_targets=1,max_cycle_targets=2",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Name"] = "Touch of Death (1)",
+							["Script"] = "toggle.cooldowns&(!artifact.gale_burst.enabled&!equipped.hidden_masters_forbidden_touch)",
+							["Release"] = 201710,
+							["Ability"] = "touch_of_death",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["MaximumTargets"] = "2",
+							["Script"] = "toggle.cooldowns&(artifact.gale_burst.enabled&equipped.hidden_masters_forbidden_touch&((talent.serenity.enabled&cooldown.serenity.remains<=1)||chi.current>=2)&(cooldown.strike_of_the_windlord.remains<8||cooldown.fists_of_fury.remains<=4)&cooldown.rising_sun_kick.remains<7&!prev_gcd.1.touch_of_death)",
+							["Ability"] = "touch_of_death",
+							["Indicator"] = "none",
+							["Name"] = "Touch of Death (2)",
+							["Args"] = "cycle_targets=1,max_cycle_targets=2",
+							["Release"] = 201710,
+							["CycleTargets"] = true,
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Name"] = "Touch of Death (3)",
+							["Script"] = "toggle.cooldowns&(artifact.gale_burst.enabled&!talent.serenity.enabled&!equipped.hidden_masters_forbidden_touch&cooldown.strike_of_the_windlord.remains<8&cooldown.fists_of_fury.remains<=4&cooldown.rising_sun_kick.remains<7&chi.current>=2)",
+							["Release"] = 201710,
+							["Ability"] = "touch_of_death",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Name"] = "Touch of Death (4)",
+							["Script"] = "toggle.cooldowns&(artifact.gale_burst.enabled&((talent.serenity.enabled&cooldown.serenity.remains<=1)||chi.current>=2)&(cooldown.strike_of_the_windlord.remains<8||cooldown.fists_of_fury.remains<=4)&cooldown.rising_sun_kick.remains<7&!prev_gcd.1.touch_of_death)",
+							["Release"] = 201710,
+							["Ability"] = "touch_of_death",
+							["Indicator"] = "none",
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [8]
+					},
+					["Default"] = true,
+				}, -- [12]
+			},
+			["Toggle State: use_defensives"] = true,
 			["Class Option: purify_heavy"] = 40,
-			["Class Option: elixir_energy"] = 20,
+			["Class Option: tp_energy"] = 65,
+			["Toggle State: strike_of_the_windlord"] = true,
 			["Class Option: strike_cooldown"] = true,
+			["Class Option: purify_moderate"] = 60,
 			["iconStore"] = {
 				["hide"] = true,
 			},
 			["Class Option: purify_light"] = 60,
 			["Class Option: purify_extreme"] = 20,
+			["MinimapIcon"] = true,
+			["Class Option: elixir_energy"] = 20,
 			["runOnce"] = {
 				["turnOffDebug_04162017"] = true,
 				["removeActionListEnabled_04102017"] = true,

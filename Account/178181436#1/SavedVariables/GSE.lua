@@ -61,8 +61,8 @@ GSEOptions = {
 		["RightShift"] = false,
 		["RightControl"] = false,
 		["AnyControl"] = false,
-		["AnyMod"] = false,
 		["AnyShift"] = false,
+		["AnyMod"] = false,
 	},
 	["NUMBER"] = "|cffffaa00",
 	["EmphasisColour"] = "|cFFFFFF00",
@@ -72,12 +72,19 @@ GSEOptions = {
 	["deleteOrphansOnLogout"] = false,
 	["requireTarget"] = false,
 	["UnfoundSpells"] = {
-		["Cenarion ward"] = true,
-		["null"] = true,
-		["Savage Defense"] = true,
+		["升龙霸"] = true,
+		["轮回之触"] = true,
+		["猛虎掌"] = true,
+		["真气爆裂"] = true,
+		["真气波"] = true,
+		["怒雷破"] = true,
+		["风领主之击"] = true,
+		["旭日东升踢"] = true,
+		["幻灭踢"] = true,
+		["碧玉疾风"] = true,
 	},
-	["overflowPersonalMacros"] = false,
 	["AuthorColour"] = "|cFF00D1FF",
+	["overflowPersonalMacros"] = false,
 	["AddInPacks"] = {
 		["GS-HighPerformanceMacros"] = {
 			["Version"] = "v2.0.7",
@@ -194,8 +201,8 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/hp-pve-fury-warrior-update-for-7-1-5/",
 			["Talents"] = "2333132",
 			["Help"] = "Talents have been setup to a best case scenario as per Icy Veins",
-			["SpecID"] = 72,
 			["Author"] = "Toxicdust",
+			["SpecID"] = 72,
 			["MacroVersions"] = {
 				{
 					"/cast Odyn's Fury", -- [1]
@@ -223,8 +230,8 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/hp-pve-fury-warrior-update-for-7-1-5/",
 			["Talents"] = "2333132",
 			["Help"] = "Talents have been setup to a best case scenario as per Icy Veins",
-			["SpecID"] = 72,
 			["Author"] = "Toxicdust",
+			["SpecID"] = 72,
 			["MacroVersions"] = {
 				{
 					"/castsequence Bloodthirst, Raging Blow, Furious Slash", -- [1]
@@ -302,9 +309,9 @@ GSELibrary = {
 					},
 					["PostMacro"] = {
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
 		},
@@ -332,9 +339,9 @@ GSELibrary = {
 					},
 					["PostMacro"] = {
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
 		},
@@ -342,8 +349,8 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/unholy-soul-reaper-7-1-5/",
 			["Talents"] = "321??33",
 			["Help"] = "Run at 80ms or manually. Hold ALT for Apocalypse at 6+ Wounds.\nIn collaboration with the amazing John Metz!",
-			["SpecID"] = 252,
 			["Author"] = "Exaria@Perenolde and John Metz",
+			["SpecID"] = 252,
 			["MacroVersions"] = {
 				{
 					"/use [nopet,combat] Raise Dead; Dark Transformation", -- [1]
@@ -395,9 +402,9 @@ GSELibrary = {
 					},
 					["PostMacro"] = {
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
 		},
@@ -426,9 +433,9 @@ GSELibrary = {
 					},
 					["PostMacro"] = {
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
 		},
@@ -480,9 +487,9 @@ GSELibrary = {
 					},
 					["PostMacro"] = {
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
 			["Author"] = "TimothyLuke",
@@ -601,381 +608,64 @@ GSELibrary = {
 					},
 					["PostMacro"] = {
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
 			["Author"] = "KTN",
 		},
 	},
-	[3] = {
-		["HP_BM1"] = {
-			["Talents"] = "3,2,2,2,3,2,1",
-			["Help"] = "With Barrage - Talent: 3222321",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
+	[10] = {
+		["WwSingle"] = {
+			["Talents"] = "?,?,?,?,?,?,?",
+			["Help"] = "Talents: 1/3, ?, 1/3, 3, ?, 2/3, 2",
 			["Default"] = 1,
 			["MacroVersions"] = {
 				{
-					"/cast [nochanneling] Bestial Wrath", -- [1]
-					"/cast [nochanneling] !Kill Command", -- [2]
-					"/cast [nochanneling] Intimidation", -- [3]
-					"/cast [nochanneling] Dire Frenzy", -- [4]
-					"/cast Barrage", -- [5]
-					"/cast [nochanneling] Titan's Thunder", -- [6]
-					"/cast [nochanneling] !Kill Command", -- [7]
-					"/cast [nochanneling] Bestial Wrath", -- [8]
+					"/cast [nochanneling] 旭日东升踢", -- [1]
+					"/cast [nochanneling] 怒雷破", -- [2]
+					"/cast [nochanneling] 风领主之击", -- [3]
+					"/cast [nochanneling] 升龙霸", -- [4]
+					"/castsequence [nochanneling] 猛虎掌, 怒雷破", -- [5]
+					"/castsequence [nochanneling] 猛虎掌, 旭日东升踢", -- [6]
+					"/castsequence [nochanneling] 猛虎掌, 风领主之击", -- [7]
+					"/castsequence [nochanneling] 猛虎掌, 升龙霸", -- [8]
+					"/castsequence [nochanneling] 猛虎掌, 怒雷破", -- [9]
+					"/castsequence [nochanneling] 猛虎掌, 旭日东升踢", -- [10]
+					"/castsequence [nochanneling] 猛虎掌, 风领主之击", -- [11]
+					"/castsequence [nochanneling] 猛虎掌, 升龙霸", -- [12]
+					"/castsequence [nochanneling] 猛虎掌, 真气波", -- [13]
+					"/castsequence [nochanneling] 猛虎掌, 真气爆裂", -- [14]
+					"/castsequence [nochanneling] 猛虎掌, 幻灭踢", -- [15]
+					"/castsequence [nochanneling] 猛虎掌, 碧玉疾风", -- [16]
+					"/cast [nochanneling,talent:1/3] 真气波", -- [17]
+					"/cast [nochanneling] 旭日东升踢", -- [18]
+					"/cast [nochanneling] 风领主之击", -- [19]
+					"/cast [nochanneling] 升龙霸", -- [20]
 					["PostMacro"] = {
+						"/cast 怒雷破", -- [1]
+						"/cast 旭日东升踢", -- [2]
+						"/cast 风领主之击", -- [3]
+						"/cast 升龙霸", -- [4]
 					},
-					["KeyPress"] = {
-						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
-						"/petautocastoff [group] Growl", -- [2]
-						"/petautocaston [nogroup] Growl", -- [3]
-						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
-					},
-					["KeyRelease"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_lookdead"] = {
-			["Talents"] = "3,2,1,2,2,2,3",
-			["Help"] = "Look Dead - Talent: 3222321",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] Feign Death", -- [1]
-					"/cast [nochanneling] Play Dead", -- [2]
-					["PostMacro"] = {
-					},
-					["KeyPress"] = {
-					},
-					["KeyRelease"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_SBMmain"] = {
-			["Talents"] = "3,2,1,2,3,3,3",
-			["Help"] = "Solo main - Talent: 3212333",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] Bestial Wrath", -- [1]
-					"/cast [nochanneling] !Kill Command", -- [2]
-					"/cast [nochanneling] Dire Frenzy", -- [3]
-					"/cast [nochanneling] Concussive Shot", -- [4]
-					"/cast [nochanneling] Cobra Shot", -- [5]
-					"/cast [nochanneling] Titan's Thunder", -- [6]
-					"/cast [nochanneling] !Kill Command", -- [7]
-					"/cast [nochanneling] Bestial Wrath", -- [8]
-					["KeyRelease"] = {
-						"/cast Aspect of the Wild", -- [1]
-					},
-					["KeyPress"] = {
-						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
-						"/petautocastoff [group] Growl", -- [2]
-						"/petautocaston [nogroup] Growl", -- [3]
-						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
-					},
-					["PostMacro"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_BMburst"] = {
-			["Talents"] = "3,2,1,2,2,2,3",
-			["Help"] = "BMAoE - Talent: 3222321",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] Bestial Wrath", -- [1]
-					"/cast [nochanneling] Stampede", -- [2]
-					"/cast [nochanneling] Intimidation", -- [3]
-					"/cast Barrage", -- [4]
-					"/cast [nochanneling] Multi-Shot", -- [5]
-					"/cast [nochanneling] Titan's Thunder", -- [6]
-					["KeyRelease"] = {
-						"/cast Aspect of the Wild", -- [1]
-					},
-					["KeyPress"] = {
-						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
-						"/petautocastoff [group] Growl", -- [2]
-						"/petautocaston [nogroup] Growl", -- [3]
-						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
-					},
-					["PostMacro"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_RBMAoE"] = {
-			["Talents"] = "3,2,1,2,2,3,3",
-			["Help"] = "Raiding AoE - Talent: 3212233",
-			["StepFunction"] = "Priority",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] Bestial Wrath", -- [1]
-					"/cast [nochanneling] !Kill Command", -- [2]
-					"/cast [nochanneling] Dire Frenzy", -- [3]
-					"/cast [nochanneling] Multi-Shot", -- [4]
-					"/cast [nochanneling] Titan's Thunder", -- [5]
-					"/cast [nochanneling] !Kill Command", -- [6]
-					"/cast [nochanneling] Bestial Wrath", -- [7]
-					["KeyRelease"] = {
-						"/cast Aspect of the Wild", -- [1]
-					},
+					["StepFunction"] = "Sequential",
 					["KeyPress"] = {
 						"/targetenemy [noharm][dead]", -- [1]
-						"/startattack", -- [2]
-						"/petattack [@target,harm]", -- [3]
-						"/petautocastoff [group] Growl", -- [4]
-						"/petautocaston [nogroup] Growl", -- [5]
-						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [6]
-					},
-					["PostMacro"] = {
 					},
 					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_SAoE"] = {
-			["Talents"] = "3,2,1,2,2,2,3",
-			["Help"] = "Raiding AoE - Talent: 3212233",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] Bestial Wrath", -- [1]
-					"/cast [nochanneling] !Kill Command", -- [2]
-					"/cast [nochanneling] Dire Frenzy", -- [3]
-					"/cast [nochanneling] Multi-Shot", -- [4]
-					"/cast [nochanneling] Titan's Thunder", -- [5]
-					"/cast [nochanneling] !Kill Command", -- [6]
-					"/cast [nochanneling] Bestial Wrath", -- [7]
-					["KeyRelease"] = {
-						"/cast Aspect of the Wild", -- [1]
-					},
-					["KeyPress"] = {
-						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
-						"/petautocastoff [group] Growl", -- [2]
-						"/petautocaston [nogroup] Growl", -- [3]
-						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
-					},
-					["PostMacro"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_Healpet"] = {
-			["Talents"] = "3,2,1,2,2,2,3",
-			["Help"] = "Pet Heal - Talent: 3222321",
-			["SpecID"] = 253,
-			["Author"] = "Sir-Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [@pet,dead]Revive Pet", -- [1]
-					"/cast [nochanneling] !mend pet", -- [2]
-					"/cast [nochanneling] Exhilaration", -- [3]
-					["PostMacro"] = {
-					},
-					["KeyPress"] = {
+						"/cast 轮回之触", -- [1]
 					},
 					["KeyRelease"] = {
+						"/startattack", -- [1]
+						"/cast [nochanneling] 轮回之触", -- [2]
+						"/cast [nochanneling] 怒雷破", -- [3]
 					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
-		},
-		["HP_2RBMAoE"] = {
-			["Talents"] = "3,2,1,2,2,2,3",
-			["Help"] = "2nd Raiding AoE with Barrage- Talent: 3212223",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] Bestial Wrath", -- [1]
-					"/cast [nochanneling] !Kill Command", -- [2]
-					"/cast [nochanneling] Dire Frenzy", -- [3]
-					"/cast Barrage", -- [4]
-					"/cast [nochanneling] Multi-Shot", -- [5]
-					"/cast [nochanneling] Titan's Thunder", -- [6]
-					"/cast [nochanneling] !Kill Command", -- [7]
-					"/cast [nochanneling] Bestial Wrath", -- [8]
-					["KeyRelease"] = {
-						"/cast Aspect of the Wild", -- [1]
-					},
-					["KeyPress"] = {
-						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
-						"/petautocastoff [group] Growl", -- [2]
-						"/petautocaston [nogroup] Growl", -- [3]
-						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
-					},
-					["PostMacro"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_2RSBM"] = {
-			["Talents"] = "3,2,1,2,2,2,3",
-			["Help"] = "2nd Raiding Single without Barrage- Talent: 3212223",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] Bestial Wrath", -- [1]
-					"/cast [nochanneling] !Kill Command", -- [2]
-					"/cast [nochanneling] Dire Frenzy", -- [3]
-					"/cast [nochanneling] Concussive Shot", -- [4]
-					"/cast [nochanneling] Cobra Shot", -- [5]
-					"/cast [nochanneling] Titan's Thunder", -- [6]
-					"/cast [nochanneling] !Kill Command", -- [7]
-					"/cast [nochanneling] Bestial Wrath", -- [8]
-					["KeyRelease"] = {
-						"/cast Aspect of the Wild", -- [1]
-					},
-					["KeyPress"] = {
-						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
-						"/petautocastoff [group] Growl", -- [2]
-						"/petautocaston [nogroup] Growl", -- [3]
-						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
-					},
-					["PostMacro"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_RBMmain"] = {
-			["Talents"] = "3,2,1,2,2,2,3",
-			["Help"] = "Raiding main With Barrage- Talent: 3212223",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] Bestial Wrath", -- [1]
-					"/cast [nochanneling] !Kill Command", -- [2]
-					"/cast [nochanneling] Dire Frenzy", -- [3]
-					"/cast Barrage", -- [4]
-					"/cast [nochanneling] Concussive Shot", -- [5]
-					"/cast [nochanneling] Cobra Shot", -- [6]
-					"/cast [nochanneling] Titan's Thunder", -- [7]
-					"/cast [nochanneling] !Kill Command", -- [8]
-					"/cast [nochanneling] Bestial Wrath", -- [9]
-					["KeyRelease"] = {
-						"/cast Aspect of the Wild", -- [1]
-					},
-					["KeyPress"] = {
-						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
-						"/petautocastoff [group] Growl", -- [2]
-						"/petautocaston [nogroup] Growl", -- [3]
-						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
-					},
-					["PostMacro"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_OShit"] = {
-			["Talents"] = "3,2,1,2,2,2,3",
-			["Help"] = "Oh Shit - Talent: 3222321",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast Aspect of the Turtle", -- [1]
-					"/cast [target=player, help] Spirit Mend", -- [2]
-					"/cast [nochanneling] Exhilaration", -- [3]
-					"/cast [nochanneling] !mend pet", -- [4]
-					"/use Healing Tonic", -- [5]
-					["PostMacro"] = {
-					},
-					["KeyPress"] = {
-					},
-					["KeyRelease"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-		["HP_BM2"] = {
-			["Talents"] = "3,2,2,2,3,2,1",
-			["Help"] = "Without Barrage - Talent: 3222321",
-			["SpecID"] = 253,
-			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] Bestial Wrath", -- [1]
-					"/cast [nochanneling] !Kill Command", -- [2]
-					"/cast [nochanneling] Dire Frenzy", -- [3]
-					"/cast [nochanneling] Intimidation", -- [4]
-					"/cast [nochanneling] Cobra Shot", -- [5]
-					"/cast [nochanneling] Concussive Shot", -- [6]
-					"/cast [nochanneling] Titan's Thunder", -- [7]
-					"/cast [nochanneling] !Kill Command", -- [8]
-					"/cast [nochanneling] Bestial Wrath", -- [9]
-					["KeyRelease"] = {
-						"/cast Aspect of the Wild", -- [1]
-					},
-					["KeyPress"] = {
-						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
-						"/petautocastoff [group] Growl", -- [2]
-						"/petautocaston [nogroup] Growl", -- [3]
-						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
-					},
-					["PostMacro"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
+			["SpecID"] = 269,
+			["Icon"] = "spell_monk_windwalker_spec",
+			["Author"] = "Will",
 		},
 	},
 	[12] = {
@@ -1135,14 +825,14 @@ GSELibrary = {
 					"/cast Soul Cleave", -- [149]
 					["Combat"] = true,
 					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
 					},
 					["PostMacro"] = {
 					},
 					["PreMacro"] = {
 					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
+					["KeyRelease"] = {
 					},
 				}, -- [1]
 				{
@@ -1237,14 +927,14 @@ GSELibrary = {
 					"/cast Shear", -- [89]
 					["Combat"] = true,
 					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
 					},
 					["PostMacro"] = {
 					},
 					["PreMacro"] = {
 					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
+					["KeyRelease"] = {
 					},
 				}, -- [2]
 			},
@@ -1271,15 +961,15 @@ GSELibrary = {
 					["Neck"] = false,
 					["Belt"] = false,
 					["Ring1"] = false,
-					["Trinket2"] = false,
-					["Ring2"] = false,
-					["KeyPress"] = {
+					["KeyRelease"] = {
 					},
+					["Ring2"] = false,
+					["Trinket2"] = false,
 					["Trinket1"] = false,
 					["StepFunction"] = "Priority",
 					["PreMacro"] = {
 					},
-					["KeyRelease"] = {
+					["KeyPress"] = {
 					},
 				}, -- [1]
 			},
@@ -1301,17 +991,17 @@ GSELibrary = {
 					["Neck"] = false,
 					["Belt"] = false,
 					["Ring1"] = false,
-					["Combat"] = true,
-					["Trinket2"] = false,
-					["KeyRelease"] = {
-					},
+					["StepFunction"] = "Priority",
 					["KeyPress"] = {
 					},
-					["Trinket1"] = false,
+					["KeyRelease"] = {
+					},
+					["Trinket2"] = false,
 					["Ring2"] = false,
+					["Trinket1"] = false,
 					["PreMacro"] = {
 					},
-					["StepFunction"] = "Priority",
+					["Combat"] = true,
 				}, -- [1]
 			},
 			["SpecID"] = 577,
@@ -1326,24 +1016,24 @@ GSELibrary = {
 					"/cast [nochanneling] Bladedance", -- [1]
 					"/cast [nochanneling] Fury of the Illidari", -- [2]
 					"/cast [nochanneling] Chaos Strike", -- [3]
-					["PostMacro"] = {
-					},
+					["Combat"] = true,
 					["Head"] = false,
 					["Neck"] = false,
 					["Belt"] = false,
 					["Ring1"] = false,
+					["PostMacro"] = {
+					},
+					["StepFunction"] = "Priority",
 					["KeyRelease"] = {
 					},
 					["KeyPress"] = {
 						"#showtooltip 刃舞", -- [1]
 					},
-					["Ring2"] = false,
-					["StepFunction"] = "Priority",
-					["Trinket2"] = false,
 					["Trinket1"] = false,
+					["Trinket2"] = false,
 					["PreMacro"] = {
 					},
-					["Combat"] = true,
+					["Ring2"] = false,
 				}, -- [1]
 			},
 		},
@@ -1448,8 +1138,8 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/demonology-synergy/",
 			["Talents"] = "3,1,?,1,?,2,2",
 			["Help"] = "AoE - Run at 80ms",
-			["SpecID"] = 266,
 			["Author"] = "Exlynn@Perenolde",
+			["SpecID"] = 266,
 			["MacroVersions"] = {
 				{
 					"/castsequence [nochanneling] Demonwrath, Hand of Gul'dan, Demonic Empowerment, Demonwrath, Demonwrath, Life Tap", -- [1]
@@ -1510,8 +1200,8 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/shadow-priest-7-1-5-gse-2-0-2/",
 			["Talents"] = "Any Combination",
 			["Help"] = "This macro is quite versatile and should work with any talent combination.\\n - Pressing the CTRL key while spamming the macro will allow you to cast Shadow Word: Pain and Vampiric Touch. \\n - Pressing the ALT key while spamming the macro will allow you to cast Void Torrent, Power Infusion and Mindbender (if you have chosen one of these talents). \\n - Surrender to Madness (S2M) will need to be cast manually, as it makes no sense adding it to our rotation – given the length of its cooldown. \\n-  Dispersion will also need to be cast manually when the S2M buff is active.\\n This macro has WeakAuras that are available from the Forum.",
-			["SpecID"] = 258,
 			["Author"] = "Sethadon",
+			["SpecID"] = 258,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling:Void Torrent] Void Eruption", -- [1]
@@ -1546,56 +1236,373 @@ GSELibrary = {
 			["Default"] = 1,
 		},
 	},
-	[10] = {
-		["WwSingle"] = {
-			["Talents"] = "?,?,?,?,?,?,?",
-			["Help"] = "Talents: 1/3, ?, 1/3, 3, ?, 2/3, 2",
+	[3] = {
+		["HP_BM1"] = {
+			["Talents"] = "3,2,2,2,3,2,1",
+			["Help"] = "With Barrage - Talent: 3222321",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
 			["Default"] = 1,
 			["MacroVersions"] = {
 				{
-					"/cast [nochanneling] 旭日东升踢", -- [1]
-					"/cast [nochanneling] 怒雷破", -- [2]
-					"/cast [nochanneling] 风领主之击", -- [3]
-					"/cast [nochanneling] 升龙霸", -- [4]
-					"/castsequence [nochanneling] 猛虎掌, 怒雷破", -- [5]
-					"/castsequence [nochanneling] 猛虎掌, 旭日东升踢", -- [6]
-					"/castsequence [nochanneling] 猛虎掌, 风领主之击", -- [7]
-					"/castsequence [nochanneling] 猛虎掌, 升龙霸", -- [8]
-					"/castsequence [nochanneling] 猛虎掌, 怒雷破", -- [9]
-					"/castsequence [nochanneling] 猛虎掌, 旭日东升踢", -- [10]
-					"/castsequence [nochanneling] 猛虎掌, 风领主之击", -- [11]
-					"/castsequence [nochanneling] 猛虎掌, 升龙霸", -- [12]
-					"/castsequence [nochanneling] 猛虎掌, 真气波", -- [13]
-					"/castsequence [nochanneling] 猛虎掌, 真气爆裂", -- [14]
-					"/castsequence [nochanneling] 猛虎掌, 幻灭踢", -- [15]
-					"/castsequence [nochanneling] 猛虎掌, 碧玉疾风", -- [16]
-					"/cast [nochanneling,talent:1/3] 真气波", -- [17]
-					"/cast [nochanneling] 旭日东升踢", -- [18]
-					"/cast [nochanneling] 风领主之击", -- [19]
-					"/cast [nochanneling] 升龙霸", -- [20]
+					"/cast [nochanneling] Bestial Wrath", -- [1]
+					"/cast [nochanneling] !Kill Command", -- [2]
+					"/cast [nochanneling] Intimidation", -- [3]
+					"/cast [nochanneling] Dire Frenzy", -- [4]
+					"/cast Barrage", -- [5]
+					"/cast [nochanneling] Titan's Thunder", -- [6]
+					"/cast [nochanneling] !Kill Command", -- [7]
+					"/cast [nochanneling] Bestial Wrath", -- [8]
 					["PostMacro"] = {
-						"/cast 怒雷破", -- [1]
-						"/cast 旭日东升踢", -- [2]
-						"/cast 风领主之击", -- [3]
-						"/cast 升龙霸", -- [4]
 					},
-					["StepFunction"] = "Sequential",
 					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-					},
-					["PreMacro"] = {
-						"/cast 轮回之触", -- [1]
+						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
+						"/petautocastoff [group] Growl", -- [2]
+						"/petautocaston [nogroup] Growl", -- [3]
+						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
 					},
 					["KeyRelease"] = {
-						"/startattack", -- [1]
-						"/cast [nochanneling] 轮回之触", -- [2]
-						"/cast [nochanneling] 怒雷破", -- [3]
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
 					},
 				}, -- [1]
 			},
-			["Author"] = "Will",
-			["Icon"] = "spell_monk_windwalker_spec",
-			["SpecID"] = 269,
+		},
+		["HP_lookdead"] = {
+			["Talents"] = "3,2,1,2,2,2,3",
+			["Help"] = "Look Dead - Talent: 3222321",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Feign Death", -- [1]
+					"/cast [nochanneling] Play Dead", -- [2]
+					["PostMacro"] = {
+					},
+					["KeyPress"] = {
+					},
+					["KeyRelease"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_SBMmain"] = {
+			["Talents"] = "3,2,1,2,3,3,3",
+			["Help"] = "Solo main - Talent: 3212333",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bestial Wrath", -- [1]
+					"/cast [nochanneling] !Kill Command", -- [2]
+					"/cast [nochanneling] Dire Frenzy", -- [3]
+					"/cast [nochanneling] Concussive Shot", -- [4]
+					"/cast [nochanneling] Cobra Shot", -- [5]
+					"/cast [nochanneling] Titan's Thunder", -- [6]
+					"/cast [nochanneling] !Kill Command", -- [7]
+					"/cast [nochanneling] Bestial Wrath", -- [8]
+					["KeyRelease"] = {
+						"/cast Aspect of the Wild", -- [1]
+					},
+					["KeyPress"] = {
+						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
+						"/petautocastoff [group] Growl", -- [2]
+						"/petautocaston [nogroup] Growl", -- [3]
+						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_BMburst"] = {
+			["Talents"] = "3,2,1,2,2,2,3",
+			["Help"] = "BMAoE - Talent: 3222321",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bestial Wrath", -- [1]
+					"/cast [nochanneling] Stampede", -- [2]
+					"/cast [nochanneling] Intimidation", -- [3]
+					"/cast Barrage", -- [4]
+					"/cast [nochanneling] Multi-Shot", -- [5]
+					"/cast [nochanneling] Titan's Thunder", -- [6]
+					["KeyRelease"] = {
+						"/cast Aspect of the Wild", -- [1]
+					},
+					["KeyPress"] = {
+						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
+						"/petautocastoff [group] Growl", -- [2]
+						"/petautocaston [nogroup] Growl", -- [3]
+						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_RBMAoE"] = {
+			["Talents"] = "3,2,1,2,2,3,3",
+			["Help"] = "Raiding AoE - Talent: 3212233",
+			["StepFunction"] = "Priority",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bestial Wrath", -- [1]
+					"/cast [nochanneling] !Kill Command", -- [2]
+					"/cast [nochanneling] Dire Frenzy", -- [3]
+					"/cast [nochanneling] Multi-Shot", -- [4]
+					"/cast [nochanneling] Titan's Thunder", -- [5]
+					"/cast [nochanneling] !Kill Command", -- [6]
+					"/cast [nochanneling] Bestial Wrath", -- [7]
+					["KeyRelease"] = {
+						"/cast Aspect of the Wild", -- [1]
+					},
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/startattack", -- [2]
+						"/petattack [@target,harm]", -- [3]
+						"/petautocastoff [group] Growl", -- [4]
+						"/petautocaston [nogroup] Growl", -- [5]
+						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [6]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_SAoE"] = {
+			["Talents"] = "3,2,1,2,2,2,3",
+			["Help"] = "Raiding AoE - Talent: 3212233",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bestial Wrath", -- [1]
+					"/cast [nochanneling] !Kill Command", -- [2]
+					"/cast [nochanneling] Dire Frenzy", -- [3]
+					"/cast [nochanneling] Multi-Shot", -- [4]
+					"/cast [nochanneling] Titan's Thunder", -- [5]
+					"/cast [nochanneling] !Kill Command", -- [6]
+					"/cast [nochanneling] Bestial Wrath", -- [7]
+					["KeyRelease"] = {
+						"/cast Aspect of the Wild", -- [1]
+					},
+					["KeyPress"] = {
+						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
+						"/petautocastoff [group] Growl", -- [2]
+						"/petautocaston [nogroup] Growl", -- [3]
+						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_Healpet"] = {
+			["Talents"] = "3,2,1,2,2,2,3",
+			["Help"] = "Pet Heal - Talent: 3222321",
+			["SpecID"] = 253,
+			["Author"] = "Sir-Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [@pet,dead]Revive Pet", -- [1]
+					"/cast [nochanneling] !mend pet", -- [2]
+					"/cast [nochanneling] Exhilaration", -- [3]
+					["PostMacro"] = {
+					},
+					["KeyPress"] = {
+					},
+					["KeyRelease"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_2RBMAoE"] = {
+			["Talents"] = "3,2,1,2,2,2,3",
+			["Help"] = "2nd Raiding AoE with Barrage- Talent: 3212223",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bestial Wrath", -- [1]
+					"/cast [nochanneling] !Kill Command", -- [2]
+					"/cast [nochanneling] Dire Frenzy", -- [3]
+					"/cast Barrage", -- [4]
+					"/cast [nochanneling] Multi-Shot", -- [5]
+					"/cast [nochanneling] Titan's Thunder", -- [6]
+					"/cast [nochanneling] !Kill Command", -- [7]
+					"/cast [nochanneling] Bestial Wrath", -- [8]
+					["KeyRelease"] = {
+						"/cast Aspect of the Wild", -- [1]
+					},
+					["KeyPress"] = {
+						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
+						"/petautocastoff [group] Growl", -- [2]
+						"/petautocaston [nogroup] Growl", -- [3]
+						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_2RSBM"] = {
+			["Talents"] = "3,2,1,2,2,2,3",
+			["Help"] = "2nd Raiding Single without Barrage- Talent: 3212223",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bestial Wrath", -- [1]
+					"/cast [nochanneling] !Kill Command", -- [2]
+					"/cast [nochanneling] Dire Frenzy", -- [3]
+					"/cast [nochanneling] Concussive Shot", -- [4]
+					"/cast [nochanneling] Cobra Shot", -- [5]
+					"/cast [nochanneling] Titan's Thunder", -- [6]
+					"/cast [nochanneling] !Kill Command", -- [7]
+					"/cast [nochanneling] Bestial Wrath", -- [8]
+					["KeyRelease"] = {
+						"/cast Aspect of the Wild", -- [1]
+					},
+					["KeyPress"] = {
+						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
+						"/petautocastoff [group] Growl", -- [2]
+						"/petautocaston [nogroup] Growl", -- [3]
+						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_RBMmain"] = {
+			["Talents"] = "3,2,1,2,2,2,3",
+			["Help"] = "Raiding main With Barrage- Talent: 3212223",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bestial Wrath", -- [1]
+					"/cast [nochanneling] !Kill Command", -- [2]
+					"/cast [nochanneling] Dire Frenzy", -- [3]
+					"/cast Barrage", -- [4]
+					"/cast [nochanneling] Concussive Shot", -- [5]
+					"/cast [nochanneling] Cobra Shot", -- [6]
+					"/cast [nochanneling] Titan's Thunder", -- [7]
+					"/cast [nochanneling] !Kill Command", -- [8]
+					"/cast [nochanneling] Bestial Wrath", -- [9]
+					["KeyRelease"] = {
+						"/cast Aspect of the Wild", -- [1]
+					},
+					["KeyPress"] = {
+						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
+						"/petautocastoff [group] Growl", -- [2]
+						"/petautocaston [nogroup] Growl", -- [3]
+						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_OShit"] = {
+			["Talents"] = "3,2,1,2,2,2,3",
+			["Help"] = "Oh Shit - Talent: 3222321",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast Aspect of the Turtle", -- [1]
+					"/cast [target=player, help] Spirit Mend", -- [2]
+					"/cast [nochanneling] Exhilaration", -- [3]
+					"/cast [nochanneling] !mend pet", -- [4]
+					"/use Healing Tonic", -- [5]
+					["PostMacro"] = {
+					},
+					["KeyPress"] = {
+					},
+					["KeyRelease"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["HP_BM2"] = {
+			["Talents"] = "3,2,2,2,3,2,1",
+			["Help"] = "Without Barrage - Talent: 3222321",
+			["SpecID"] = 253,
+			["Author"] = "Sir_Ewing",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bestial Wrath", -- [1]
+					"/cast [nochanneling] !Kill Command", -- [2]
+					"/cast [nochanneling] Dire Frenzy", -- [3]
+					"/cast [nochanneling] Intimidation", -- [4]
+					"/cast [nochanneling] Cobra Shot", -- [5]
+					"/cast [nochanneling] Concussive Shot", -- [6]
+					"/cast [nochanneling] Titan's Thunder", -- [7]
+					"/cast [nochanneling] !Kill Command", -- [8]
+					"/cast [nochanneling] Bestial Wrath", -- [9]
+					["KeyRelease"] = {
+						"/cast Aspect of the Wild", -- [1]
+					},
+					["KeyPress"] = {
+						"/cast [@pet,dead]Heart of the Phoenix", -- [1]
+						"/petautocastoff [group] Growl", -- [2]
+						"/petautocaston [nogroup] Growl", -- [3]
+						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
 		},
 	},
 }

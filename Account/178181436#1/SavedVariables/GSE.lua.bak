@@ -57,8 +57,8 @@ GSEOptions = {
 		["RightAlt"] = false,
 		["AnyAlt"] = false,
 		["Button5"] = false,
-		["AnyMod"] = false,
 		["AnyShift"] = false,
+		["AnyMod"] = false,
 		["RightShift"] = false,
 		["RightControl"] = false,
 		["AnyControl"] = false,
@@ -169,13 +169,13 @@ GSEOptions = {
 	["WOWSHORTCUTS"] = "|cffddaaff",
 	["RealtimeParse"] = false,
 	["deleteOrphansOnLogout"] = false,
-	["overflowPersonalMacros"] = false,
-	["UnfoundSpells"] = {
-		["地狱火撞击"] = true,
-		["投掷利刃"] = true,
-		["烈焰咒符"] = true,
-	},
 	["AuthorColour"] = "|cFF00D1FF",
+	["UnfoundSpells"] = {
+		["Cenarion ward"] = true,
+		["null"] = true,
+		["Savage Defense"] = true,
+	},
+	["overflowPersonalMacros"] = false,
 	["requireTarget"] = false,
 	["useTranslator"] = false,
 	["NUMBER"] = "|cffffaa00",
@@ -215,9 +215,9 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
-			["Author"] = "Toxicdust",
-			["Icon"] = "INV_MISC_QUESTIONMARK",
 			["SpecID"] = 72,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
+			["Author"] = "Toxicdust",
 		},
 		["HP_BladeFuryBuilder"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/hp-pve-fury-warrior-update-for-7-1-5/",
@@ -242,9 +242,9 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
-			["Author"] = "Toxicdust",
-			["Icon"] = "INV_MISC_QUESTIONMARK",
 			["SpecID"] = 72,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
+			["Author"] = "Toxicdust",
 		},
 		["HP_BladeFuryDump"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/hp-pve-fury-warrior-update-for-7-1-5/",
@@ -297,9 +297,9 @@ GSELibrary = {
 					["KeyPress"] = {
 						"/cast [combat] Pillar of Frost", -- [1]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -327,9 +327,9 @@ GSELibrary = {
 					["KeyPress"] = {
 						"/cast [combat] Pillar of Frost", -- [1]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -366,9 +366,9 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
-			["Author"] = "Exaria@Perenolde and John Metz",
-			["Icon"] = "Spell_Deathknight_UnholyPresence",
 			["SpecID"] = 252,
+			["Icon"] = "Spell_Deathknight_UnholyPresence",
+			["Author"] = "Exaria@Perenolde and John Metz",
 		},
 		["HP_SquishyDK"] = {
 			["Talents"] = "2,1,1,2,1,3,3",
@@ -391,9 +391,9 @@ GSELibrary = {
 						"/Cast [combat] Dancing Rune Weapon", -- [1]
 						"/cancelaura Wraith Walk", -- [2]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -422,15 +422,67 @@ GSELibrary = {
 					["KeyPress"] = {
 						"/targetenemy [noharm][dead]", -- [1]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
 			},
 			["Default"] = 1,
 			["Author"] = "Rocktris",
+		},
+	},
+	[10] = {
+		["WwSingle"] = {
+			["Talents"] = "?,?,?,?,?,?,?",
+			["Help"] = "Talents: 1/3, ?, 1/3, 3, ?, 2/3, 2",
+			["SpecID"] = 269,
+			["Author"] = "Will",
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] 旭日东升踢", -- [1]
+					"/cast [nochanneling] 怒雷破", -- [2]
+					"/cast [nochanneling] 风领主之击", -- [3]
+					"/cast [nochanneling] 升龙霸", -- [4]
+					"/castsequence [nochanneling] 猛虎掌, 怒雷破", -- [5]
+					"/castsequence [nochanneling] 猛虎掌, 旭日东升踢", -- [6]
+					"/castsequence [nochanneling] 猛虎掌, 风领主之击", -- [7]
+					"/castsequence [nochanneling] 猛虎掌, 升龙霸", -- [8]
+					"/castsequence [nochanneling] 猛虎掌, 怒雷破", -- [9]
+					"/castsequence [nochanneling] 猛虎掌, 旭日东升踢", -- [10]
+					"/castsequence [nochanneling] 猛虎掌, 风领主之击", -- [11]
+					"/castsequence [nochanneling] 猛虎掌, 升龙霸", -- [12]
+					"/castsequence [nochanneling] 猛虎掌, 真气波", -- [13]
+					"/castsequence [nochanneling] 猛虎掌, 真气爆裂", -- [14]
+					"/castsequence [nochanneling] 猛虎掌, 幻灭踢", -- [15]
+					"/castsequence [nochanneling] 猛虎掌, 碧玉疾风", -- [16]
+					"/cast [nochanneling,talent:1/3] 真气波", -- [17]
+					"/cast [nochanneling] 旭日东升踢", -- [18]
+					"/cast [nochanneling] 风领主之击", -- [19]
+					"/cast [nochanneling] 升龙霸", -- [20]
+					["PostMacro"] = {
+						"/cast 怒雷破", -- [1]
+						"/cast 旭日东升踢", -- [2]
+						"/cast 风领主之击", -- [3]
+						"/cast 升龙霸", -- [4]
+					},
+					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+					},
+					["PreMacro"] = {
+						"/cast 轮回之触", -- [1]
+					},
+					["KeyRelease"] = {
+						"/startattack", -- [1]
+						"/cast [nochanneling] 轮回之触", -- [2]
+						"/cast [nochanneling] 怒雷破", -- [3]
+					},
+				}, -- [1]
+			},
+			["Icon"] = "spell_monk_windwalker_spec",
+			["Default"] = 1,
 		},
 	},
 	[3] = {
@@ -456,9 +508,9 @@ GSELibrary = {
 						"/petautocaston [nogroup] Growl", -- [3]
 						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["KeyRelease"] = {
 					},
 				}, -- [1]
@@ -478,9 +530,9 @@ GSELibrary = {
 					},
 					["KeyPress"] = {
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["KeyRelease"] = {
 					},
 				}, -- [1]
@@ -511,9 +563,9 @@ GSELibrary = {
 						"/petautocaston [nogroup] Growl", -- [3]
 						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -542,9 +594,9 @@ GSELibrary = {
 						"/petautocaston [nogroup] Growl", -- [3]
 						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -577,9 +629,9 @@ GSELibrary = {
 						"/petautocaston [nogroup] Growl", -- [5]
 						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [6]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -609,9 +661,9 @@ GSELibrary = {
 						"/petautocaston [nogroup] Growl", -- [3]
 						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -632,9 +684,9 @@ GSELibrary = {
 					},
 					["KeyPress"] = {
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["KeyRelease"] = {
 					},
 				}, -- [1]
@@ -665,9 +717,9 @@ GSELibrary = {
 						"/petautocaston [nogroup] Growl", -- [3]
 						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -698,9 +750,9 @@ GSELibrary = {
 						"/petautocaston [nogroup] Growl", -- [3]
 						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -732,9 +784,9 @@ GSELibrary = {
 						"/petautocaston [nogroup] Growl", -- [3]
 						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -757,9 +809,9 @@ GSELibrary = {
 					},
 					["KeyPress"] = {
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["KeyRelease"] = {
 					},
 				}, -- [1]
@@ -791,67 +843,15 @@ GSELibrary = {
 						"/petautocaston [nogroup] Growl", -- [3]
 						"/cast [target=focus, exists, nodead],[target=pet, exists, nodead] Misdirection", -- [4]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
 			},
 			["Default"] = 1,
 			["SpecID"] = 253,
-		},
-	},
-	[10] = {
-		["WwSingle"] = {
-			["Talents"] = "?,?,?,?,?,?,?",
-			["Help"] = "Talents: 1/3, ?, 1/3, 3, ?, 2/3, 2",
-			["Author"] = "Will",
-			["SpecID"] = 269,
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling] 旭日东升踢", -- [1]
-					"/cast [nochanneling] 怒雷破", -- [2]
-					"/cast [nochanneling] 风领主之击", -- [3]
-					"/cast [nochanneling] 升龙霸", -- [4]
-					"/castsequence [nochanneling] 猛虎掌, 怒雷破", -- [5]
-					"/castsequence [nochanneling] 猛虎掌, 旭日东升踢", -- [6]
-					"/castsequence [nochanneling] 猛虎掌, 风领主之击", -- [7]
-					"/castsequence [nochanneling] 猛虎掌, 升龙霸", -- [8]
-					"/castsequence [nochanneling] 猛虎掌, 怒雷破", -- [9]
-					"/castsequence [nochanneling] 猛虎掌, 旭日东升踢", -- [10]
-					"/castsequence [nochanneling] 猛虎掌, 风领主之击", -- [11]
-					"/castsequence [nochanneling] 猛虎掌, 升龙霸", -- [12]
-					"/castsequence [nochanneling] 猛虎掌, 真气波", -- [13]
-					"/castsequence [nochanneling] 猛虎掌, 真气爆裂", -- [14]
-					"/castsequence [nochanneling] 猛虎掌, 幻灭踢", -- [15]
-					"/castsequence [nochanneling] 猛虎掌, 碧玉疾风", -- [16]
-					"/cast [nochanneling,talent:1/3] 真气波", -- [17]
-					"/cast [nochanneling] 旭日东升踢", -- [18]
-					"/cast [nochanneling] 风领主之击", -- [19]
-					"/cast [nochanneling] 升龙霸", -- [20]
-					["PostMacro"] = {
-						"/cast 怒雷破", -- [1]
-						"/cast 旭日东升踢", -- [2]
-						"/cast 风领主之击", -- [3]
-						"/cast 升龙霸", -- [4]
-					},
-					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
-						"/startattack", -- [1]
-						"/cast [nochanneling] 轮回之触", -- [2]
-						"/cast [nochanneling] 怒雷破", -- [3]
-					},
-					["PreMacro"] = {
-						"/cast 轮回之触", -- [1]
-					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-					},
-				}, -- [1]
-			},
-			["Icon"] = "spell_monk_windwalker_spec",
-			["Default"] = 1,
 		},
 	},
 	[12] = {
@@ -1011,14 +1011,14 @@ GSELibrary = {
 					"/cast Soul Cleave", -- [149]
 					["Combat"] = true,
 					["StepFunction"] = "Sequential",
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
+					["KeyRelease"] = {
 					},
 					["PostMacro"] = {
 					},
 					["PreMacro"] = {
 					},
-					["KeyRelease"] = {
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
 					},
 				}, -- [1]
 				{
@@ -1113,14 +1113,14 @@ GSELibrary = {
 					"/cast Shear", -- [89]
 					["Combat"] = true,
 					["StepFunction"] = "Sequential",
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
+					["KeyRelease"] = {
 					},
 					["PostMacro"] = {
 					},
 					["PreMacro"] = {
 					},
-					["KeyRelease"] = {
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
 					},
 				}, -- [2]
 			},
@@ -1150,16 +1150,16 @@ GSELibrary = {
 					["Neck"] = false,
 					["Belt"] = false,
 					["Ring1"] = false,
+					["Trinket2"] = false,
 					["Ring2"] = false,
-					["KeyRelease"] = {
-					},
 					["KeyPress"] = {
 					},
 					["Trinket1"] = false,
 					["StepFunction"] = "Priority",
 					["PreMacro"] = {
 					},
-					["Trinket2"] = false,
+					["KeyRelease"] = {
+					},
 				}, -- [1]
 			},
 		},
@@ -1178,17 +1178,17 @@ GSELibrary = {
 					["Neck"] = false,
 					["Belt"] = false,
 					["Ring1"] = false,
-					["KeyPress"] = {
-					},
-					["StepFunction"] = "Priority",
+					["Combat"] = true,
+					["Trinket2"] = false,
 					["KeyRelease"] = {
 					},
-					["Trinket2"] = false,
-					["Ring2"] = false,
+					["KeyPress"] = {
+					},
 					["Trinket1"] = false,
+					["Ring2"] = false,
 					["PreMacro"] = {
 					},
-					["Combat"] = true,
+					["StepFunction"] = "Priority",
 				}, -- [1]
 			},
 		},
@@ -1201,23 +1201,23 @@ GSELibrary = {
 					"/cast [nochanneling] Bladedance", -- [1]
 					"/cast [nochanneling] Fury of the Illidari", -- [2]
 					"/cast [nochanneling] Chaos Strike", -- [3]
-					["PostMacro"] = {
-					},
+					["Combat"] = true,
 					["Head"] = false,
 					["Neck"] = false,
 					["Belt"] = false,
 					["Ring1"] = false,
-					["Combat"] = true,
-					["StepFunction"] = "Priority",
-					["Ring2"] = false,
+					["KeyRelease"] = {
+					},
 					["KeyPress"] = {
 						"#showtooltip 刃舞", -- [1]
 					},
-					["Trinket1"] = false,
+					["Ring2"] = false,
+					["StepFunction"] = "Priority",
 					["Trinket2"] = false,
+					["Trinket1"] = false,
 					["PreMacro"] = {
 					},
-					["KeyRelease"] = {
+					["PostMacro"] = {
 					},
 				}, -- [1]
 			},
@@ -1260,9 +1260,9 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
-			["Author"] = "Sethadon",
-			["Icon"] = "Spell_Shadow_ShadowWordPain",
 			["SpecID"] = 258,
+			["Icon"] = "Spell_Shadow_ShadowWordPain",
+			["Author"] = "Sethadon",
 		},
 	},
 	[9] = {
@@ -1387,9 +1387,9 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
-			["Author"] = "Exlynn@Perenolde",
-			["Icon"] = "INV_MISC_QUESTIONMARK",
 			["SpecID"] = 266,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
+			["Author"] = "Exlynn@Perenolde",
 		},
 		["HP_EX_Aff_AoE"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/affliction-conduit-7-1-5/",
@@ -1468,9 +1468,9 @@ GSELibrary = {
 						"/targetenemy [noharm][dead]", -- [1]
 						"/use [noform]!Moonkin Form", -- [2]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]
@@ -1493,9 +1493,9 @@ GSELibrary = {
 					["KeyPress"] = {
 						"/cast [@focus,dead] Rebirth", -- [1]
 					},
+					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PostMacro"] = {
 					},
 				}, -- [1]

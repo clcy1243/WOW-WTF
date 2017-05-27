@@ -5,20 +5,24 @@ VER 3 010000000000000A "3+1" "INV_MISC_QUESTIONMARK"
 /castsequence [nochanneling] reset=10/combat 猛虎掌,猛虎掌,猛虎掌,幻灭踢
 END
 VER 3 0100000000000007 "VuhDoDCShieldData" "Ability_Repair"
-R[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1WT1NM1MR1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000008 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙听雨[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N弑神阿楓镰丶无聊小疯子的[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙听雨[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000013 "WwSingle" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/click WwSingle
+/click [button:2] WwSingle RightButton; [button:3] WwSingle MiddleButton; [button:4] WwSingle Button4; [button:5] WwSingle Button5; WwSingle
 END
 VER 3 0100000000000004 "嘲讽" "INV_MISC_QUESTIONMARK"
 #showtooltips 嚎镇八方
 /target [talent:4/2] 玄牛雕像
 /cast 嚎镇八方
 /targetlasttarget [talent:4/2]
+END
+VER 3 0100000000000014 "奶僧3+1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click [button:2] 奶僧3+1 RightButton; [button:3] 奶僧3+1 MiddleButton; [button:4] 奶僧3+1 Button4; [button:5] 奶僧3+1 Button5; 奶僧3+1
 END
 VER 3 0100000000000002 "氤氲" "INV_MISC_QUESTIONMARK"
 #showtooltip 

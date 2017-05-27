@@ -5,10 +5,6 @@ SkadaDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["ffoptions"] = {
-				["ignoredefensive"] = true,
-				["ignoreability"] = false,
-			},
 			["scroll"] = {
 				["button"] = "MiddleButton",
 				["kspeed"] = 3,
@@ -17,10 +13,14 @@ SkadaDB = {
 			},
 			["windows"] = {
 				{
-					["y"] = -101.75,
+					["y"] = -101.749877929688,
 					["point"] = "TOPLEFT",
 					["x"] = 102.000015258789,
 				}, -- [1]
+			},
+			["ffoptions"] = {
+				["ignoredefensive"] = true,
+				["ignoreability"] = false,
 			},
 			["versions"] = {
 				["1.6.3"] = true,

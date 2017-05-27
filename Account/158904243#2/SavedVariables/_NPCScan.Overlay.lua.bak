@@ -109,19 +109,9 @@ _NPCScanOverlayKeyColors = {
 		["b"] = 0,
 	}, -- [13]
 	{
-		["GetRGB"] = nil --[[ skipped inline function ]],
-		["OnLoad"] = nil --[[ skipped inline function ]],
-		["b"] = 0.1,
-		["WrapTextInColorCode"] = nil --[[ skipped inline function ]],
-		["GenerateHexColor"] = nil --[[ skipped inline function ]],
-		["GetRGBA"] = nil --[[ skipped inline function ]],
-		["IsEqualTo"] = nil --[[ skipped inline function ]],
-		["g"] = 1,
 		["r"] = 0.1,
-		["SetRGBA"] = nil --[[ skipped inline function ]],
-		["GetRGBAsBytes"] = nil --[[ skipped inline function ]],
-		["SetRGB"] = nil --[[ skipped inline function ]],
-		["GetRGBAAsBytes"] = nil --[[ skipped inline function ]],
+		["g"] = 1,
+		["b"] = 0.1,
 	}, -- [14]
 	{
 		["r"] = 0,
@@ -308,19 +298,9 @@ _NPCScanOverlayKeyColors = {
 		["b"] = 0,
 	}, -- [46]
 	{
-		["GetRGB"] = nil --[[ skipped inline function ]],
-		["OnLoad"] = nil --[[ skipped inline function ]],
-		["b"] = 0.1,
-		["WrapTextInColorCode"] = nil --[[ skipped inline function ]],
-		["GenerateHexColor"] = nil --[[ skipped inline function ]],
-		["GetRGBA"] = nil --[[ skipped inline function ]],
-		["IsEqualTo"] = nil --[[ skipped inline function ]],
-		["g"] = 1,
 		["r"] = 0.1,
-		["SetRGBA"] = nil --[[ skipped inline function ]],
-		["GetRGBAsBytes"] = nil --[[ skipped inline function ]],
-		["SetRGB"] = nil --[[ skipped inline function ]],
-		["GetRGBAAsBytes"] = nil --[[ skipped inline function ]],
+		["g"] = 1,
+		["b"] = 0.1,
 	}, -- [47]
 	{
 		["r"] = 0,

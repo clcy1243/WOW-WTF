@@ -1,11 +1,8 @@
 
 MSBTProfiles_SavedVars = {
-	["userDisabled"] = true,
 	["profiles"] = {
 		["Default"] = {
-			["overkill"] = {
-				["disabled"] = false,
-			},
+			["creationVersion"] = "5.7.146",
 			["events"] = {
 				["NOTIFICATION_ITEM_COOLDOWN"] = {
 					["disabled"] = true,
@@ -22,23 +19,25 @@ MSBTProfiles_SavedVars = {
 			["shortenNumbers"] = true,
 			["scrollAreas"] = {
 				["Incoming"] = {
-					["critFontName"] = "AR ZhongkaiGBK Medium",
 					["normalFontName"] = "AR ZhongkaiGBK Medium (Combat)",
-					["offsetX"] = -506,
 					["offsetY"] = -131,
+					["offsetX"] = -506,
+					["critFontName"] = "AR ZhongkaiGBK Medium",
+				},
+				["Outgoing"] = {
+					["offsetX"] = 422,
+					["normalFontName"] = "AR ZhongkaiGBK Medium (Combat)",
+					["critFontName"] = "AR ZhongkaiGBK Medium (Combat)",
+					["offsetY"] = -150,
 				},
 				["Notification"] = {
 					["critFontName"] = "AR ZhongkaiGBK Medium (Combat)",
 					["normalFontName"] = "AR ZhongkaiGBK Medium (Combat)",
 				},
-				["Outgoing"] = {
-					["offsetY"] = -150,
-					["normalFontName"] = "AR ZhongkaiGBK Medium (Combat)",
-					["offsetX"] = 422,
-					["critFontName"] = "AR ZhongkaiGBK Medium (Combat)",
-				},
 			},
-			["creationVersion"] = "5.7.146",
+			["overkill"] = {
+				["disabled"] = false,
+			},
 		},
 	},
 }

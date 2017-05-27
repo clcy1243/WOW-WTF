@@ -1,10 +1,10 @@
 
 GatherMate2DB = {
-	["global"] = {
-		["data_version"] = 4,
-	},
 	["profileKeys"] = {
 		["爱是氧气 - 主宰之剑"] = "Default",
+	},
+	["global"] = {
+		["data_version"] = 4,
 	},
 	["profiles"] = {
 		["Default"] = {
