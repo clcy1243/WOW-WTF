@@ -21,9 +21,9 @@ ACP_Data = {
 		["GarrisonMissionManager"] = true,
 		["HandyNotes"] = true,
 		["MogIt"] = true,
-		["Skada"] = true,
-		["MikScrollingBattleText"] = true,
 		["TidyPlates"] = true,
+		["MikScrollingBattleText"] = true,
+		["Skada"] = true,
 		["RaidAchievement"] = true,
 	},
 	["ProtectedAddons"] = {

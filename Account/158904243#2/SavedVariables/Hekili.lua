@@ -10,6 +10,9 @@ HekiliDB = {
 	["profiles"] = {
 		["爱是氧气 - 主宰之剑"] = {
 			["AutoDisabled"] = true,
+			["iconStore"] = {
+				["minimapPos"] = 346.629909362946,
+			},
 			["Enabled"] = false,
 			["runOnce"] = {
 				["turnOffDebug_04162017"] = true,

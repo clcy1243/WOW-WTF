@@ -1,11 +1,16 @@
 
 AdiBagsDB = {
 	["namespaces"] = {
-		["军团再临"] = {
-		},
-		["ItemLevel"] = {
+		["Hearthstones"] = {
 		},
 		["MoneyFrame"] = {
+		},
+		["ItemLevel"] = {
+			["profiles"] = {
+				["Default"] = {
+					["equippableOnly"] = false,
+				},
+			},
 		},
 		["FilterOverride"] = {
 			["profiles"] = {
@@ -22,35 +27,21 @@ AdiBagsDB = {
 						["宝石"] = true,
 						["杂项"] = true,
 						["商业技能"] = true,
-						["配方"] = true,
 						["消耗品"] = true,
+						["配方"] = true,
 					},
 				},
 			},
 		},
-		["Bound"] = {
+		["DataSource"] = {
 		},
 		["NewItem"] = {
-		},
-		["Garrison"] = {
-		},
-		["AdiBags_TooltipInfo"] = {
-		},
-		["Legion"] = {
-		},
-		["Equipment"] = {
-			["profiles"] = {
-				["Default"] = {
-					["dispatchRule"] = "slot",
-				},
-			},
-		},
-		["ItemSets"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
 				["Default"] = {
 					["shown"] = {
+						["盲目之眼"] = false,
 						["战火徽记"] = false,
 						["次级好运护符"] = false,
 						["暗月奖券"] = false,
@@ -60,28 +51,44 @@ AdiBagsDB = {
 						["古怪硬币"] = false,
 						["铁掌徽记"] = false,
 						["黑暗之尘"] = false,
+						["Bloody Coin"] = false,
 						["永恒铸币"] = false,
-						["Curious Coin"] = false,
-						["要塞物资"] = false,
-						["魔古命运符文"] = false,
+						["远古魔力"] = false,
+						["Essence of Corrupted Deathwing"] = false,
+						["Apexis Crystal"] = false,
 						["Timeless Coin"] = false,
 						["徘徊之魂碎片"] = false,
-						["Apexis Crystal"] = false,
-						["Mote of Darkness"] = false,
+						["魔古命运符文"] = false,
 						["Garrison Resources"] = false,
+						["Mote of Darkness"] = false,
 						["死亡之翼的堕落精华"] = false,
-						["Essence of Corrupted Deathwing"] = false,
+						["要塞物资"] = false,
 						["Lingering Soul Fragment"] = false,
-						["Bloody Coin"] = false,
+						["Curious Coin"] = false,
 					},
 				},
 			},
 		},
-		["DataSource"] = {
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Legion"] = {
+		},
+		["ItemSets"] = {
+		},
+		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dispatchRule"] = "slot",
+				},
+			},
+		},
+		["Garrison"] = {
+		},
+		["Bound"] = {
 		},
 		["Junk"] = {
 		},
-		["Hearthstones"] = {
+		["军团再临"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -89,21 +96,24 @@ AdiBagsDB = {
 		["信仰丶圣光 - 摩摩尔"] = "Default",
 		["龙轻雪 - 主宰之剑"] = "Default",
 		["斯特莱夫 - 瓦拉斯塔兹"] = "Default",
-		["龙听雨 - 巨龙之吼"] = "Default",
-		["星界旅行者 - 瓦拉斯塔兹"] = "Default",
+		["倾城丨烟雨 - 摩摩尔"] = "Default",
+		["倾城丨猫爷 - 太阳之井"] = "Default",
 		["看你洗澡 - 瓦拉斯塔兹"] = "Default",
 		["龙听雨 - 主宰之剑"] = "Default",
 		["蓝箭 - 卡拉赞"] = "Default",
 		["徳馨 - 破碎岭"] = "Default",
 		["地狱丨灬繁花 - 摩摩尔"] = "Default",
-		["倾城丨猫爷 - 太阳之井"] = "Default",
-		["倾城丨烟雨 - 摩摩尔"] = "Default",
+		["星界旅行者 - 瓦拉斯塔兹"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["virtualStacks"] = {
+				["others"] = true,
+			},
 			["columnWidth"] = {
-				["Backpack"] = 12,
 				["Bank"] = 20,
+				["Backpack"] = 12,
 			},
 			["maxHeight"] = 0.8,
 			["positions"] = {
@@ -119,11 +129,10 @@ AdiBagsDB = {
 			["filters"] = {
 				["ItemSets"] = false,
 			},
-			["rightClickConfig"] = false,
-			["autoDeposit"] = true,
 			["scale"] = 0.9,
-			["positionMode"] = "manual",
 			["hideAnchor"] = true,
+			["autoDeposit"] = true,
+			["rightClickConfig"] = false,
 		},
 	},
 }

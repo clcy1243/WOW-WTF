@@ -2,43 +2,45 @@
 MasterPlanAG = {
 	["太阳之井"] = {
 		["倾城丨猫爷"] = {
-			["class"] = "PALADIN",
 			["faction"] = "Horde",
+			["class"] = "PALADIN",
 		},
 	},
 	["破碎岭"] = {
 		["徳馨"] = {
-			["class"] = "DRUID",
 			["faction"] = "Alliance",
+			["class"] = "DRUID",
 		},
 	},
 	["摩摩尔"] = {
 		["地狱丨灬繁花"] = {
-			["class"] = "DEATHKNIGHT",
 			["faction"] = "Horde",
+			["class"] = "DEATHKNIGHT",
 		},
 		["倾城丨烟雨"] = {
-			["faction"] = "Horde",
 			["class"] = "DRUID",
+			["faction"] = "Horde",
 		},
 		["信仰丶圣光"] = {
-			["faction"] = "Horde",
 			["class"] = "PALADIN",
+			["faction"] = "Horde",
 		},
 	},
 	["瓦拉斯塔兹"] = {
 		["斯特莱夫"] = {
-			["class"] = "WARRIOR",
 			["faction"] = "Horde",
+			["class"] = "WARRIOR",
 		},
 		["看你洗澡"] = {
-			["class"] = "ROGUE",
 			["faction"] = "Horde",
+			["class"] = "ROGUE",
 		},
 		["星界旅行者"] = {
-			["faction"] = "Horde",
 			["class"] = "SHAMAN",
+			["faction"] = "Horde",
 		},
+	},
+	["IgnoreRewards"] = {
 	},
 	["主宰之剑"] = {
 		["龙轻雪"] = {
@@ -48,8 +50,8 @@ MasterPlanAG = {
 			["faction"] = "Alliance",
 		},
 		["龙听雨"] = {
-			["class"] = "MONK",
 			["lastCacheTime"] = 1479635313,
+			["class"] = "MONK",
 			["curRes"] = 1396,
 			["faction"] = "Horde",
 		},
@@ -63,14 +65,14 @@ MasterPlanAG = {
 	},
 	["卡拉赞"] = {
 		["蓝箭"] = {
-			["class"] = "HUNTER",
 			["faction"] = "Horde",
+			["class"] = "HUNTER",
 		},
 	},
 	["巨龙之吼"] = {
 		["龙听雨"] = {
-			["class"] = "MONK",
 			["faction"] = "Horde",
+			["class"] = "MONK",
 		},
 	},
 }

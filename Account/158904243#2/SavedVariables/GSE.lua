@@ -14,18 +14,72 @@ GSEOptions = {
 	["use6"] = false,
 	["CommandColour"] = "|cFF00FF00",
 	["UNKNOWN"] = "|cffff6666",
+	["use1"] = false,
 	["CreateGlobalButtons"] = false,
-	["overflowPersonalMacros"] = false,
-	["autoCreateMacroStubsClass"] = true,
 	["DebugPrintModConditionsOnKeyPress"] = false,
+	["saveAllMacrosLocal"] = true,
 	["sendDebugOutputToDebugOutput"] = false,
 	["hideSoundErrors"] = false,
 	["ErroneousSpellID"] = {
 	},
+	["CONCAT"] = "|cffcc7777",
+	["STRING"] = "|cff888888",
+	["clearUIErrors"] = false,
+	["filterList"] = {
+		["All"] = false,
+		["Spec"] = true,
+		["Global"] = true,
+		["Class"] = true,
+	},
+	["INDENT"] = "|cffccaa88",
+	["TitleColour"] = "|cFFFF0000",
+	["hideUIErrors"] = false,
+	["initialised"] = true,
+	["use12"] = false,
+	["DebugModules"] = {
+		["Translator"] = false,
+		["GUI"] = false,
+		["Storage"] = false,
+		["Editor"] = false,
+		["API"] = false,
+		["Versions"] = false,
+		["Viewer"] = false,
+		["Transmission"] = false,
+	},
+	["resetOOC"] = true,
+	["MacroResetModifiers"] = {
+		["MiddleButton"] = false,
+		["LeftControl"] = false,
+		["LeftButton"] = false,
+		["LeftAlt"] = false,
+		["RighttButton"] = false,
+		["RightAlt"] = false,
+		["AnyAlt"] = false,
+		["Button5"] = false,
+		["LeftShift"] = false,
+		["Button4"] = false,
+		["RightShift"] = false,
+		["RightControl"] = false,
+		["AnyControl"] = false,
+		["AnyShift"] = false,
+		["AnyMod"] = false,
+	},
+	["NUMBER"] = "|cffffaa00",
+	["EmphasisColour"] = "|cFFFFFF00",
+	["useTranslator"] = false,
+	["WOWSHORTCUTS"] = "|cffddaaff",
+	["RealtimeParse"] = false,
+	["deleteOrphansOnLogout"] = false,
+	["requireTarget"] = false,
+	["UnfoundSpells"] = {
+		["Envenom"] = true,
+	},
+	["AuthorColour"] = "|cFF00D1FF",
+	["overflowPersonalMacros"] = false,
 	["AddInPacks"] = {
 		["GS-HighPerformanceMacros"] = {
-			["Name"] = "GS-HighPerformanceMacros",
 			["Version"] = "v2.0.7",
+			["Name"] = "GS-HighPerformanceMacros",
 			["SequenceNames"] = {
 				"HP_EX_Demo_ST", -- [1]
 				"HP_SBMmain", -- [2]
@@ -56,8 +110,8 @@ GSEOptions = {
 			},
 		},
 		["Samples"] = {
-			["Name"] = "Samples",
 			["Version"] = "2101",
+			["Name"] = "Samples",
 			["SequenceNames"] = {
 				"SAM_ProtWar", -- [1]
 				"SAM_Fury1", -- [2]
@@ -120,71 +174,17 @@ GSEOptions = {
 			},
 		},
 	},
-	["STRING"] = "|cff888888",
-	["clearUIErrors"] = false,
-	["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
-	["resetOOC"] = true,
-	["TitleColour"] = "|cFFFF0000",
-	["hideUIErrors"] = false,
-	["initialised"] = true,
-	["autoCreateMacroStubsGlobal"] = false,
-	["DebugModules"] = {
-		["Translator"] = false,
-		["GUI"] = false,
-		["Storage"] = false,
-		["Versions"] = false,
-		["Editor"] = false,
-		["API"] = false,
-		["Viewer"] = false,
-		["Transmission"] = false,
-	},
-	["INDENT"] = "|cffccaa88",
-	["MacroResetModifiers"] = {
-		["MiddleButton"] = false,
-		["LeftControl"] = false,
-		["LeftButton"] = false,
-		["LeftAlt"] = false,
-		["RighttButton"] = false,
-		["RightAlt"] = false,
-		["AnyAlt"] = false,
-		["Button5"] = false,
-		["AnyMod"] = false,
-		["AnyShift"] = false,
-		["RightShift"] = false,
-		["RightControl"] = false,
-		["AnyControl"] = false,
-		["Button4"] = false,
-		["LeftShift"] = false,
-	},
-	["filterList"] = {
-		["All"] = false,
-		["Spec"] = true,
-		["Global"] = true,
-		["Class"] = true,
-	},
-	["EmphasisColour"] = "|cFFFFFF00",
 	["DisabledSequences"] = {
 	},
-	["WOWSHORTCUTS"] = "|cffddaaff",
-	["RealtimeParse"] = false,
-	["deleteOrphansOnLogout"] = false,
-	["ActiveSequenceVersions"] = {
-	},
-	["UnfoundSpells"] = {
-		["Envenom"] = true,
-	},
-	["AuthorColour"] = "|cFF00D1FF",
-	["requireTarget"] = false,
-	["useTranslator"] = false,
-	["NUMBER"] = "|cffffaa00",
-	["use12"] = false,
+	["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
 	["use13"] = true,
 	["NormalColour"] = "|cFFFFFFFF",
-	["CONCAT"] = "|cffcc7777",
-	["saveAllMacrosLocal"] = true,
+	["autoCreateMacroStubsGlobal"] = false,
+	["ActiveSequenceVersions"] = {
+	},
 	["setDefaultIconQuestionMark"] = true,
+	["autoCreateMacroStubsClass"] = true,
 	["KEYWORD"] = "|cff88bbdd",
-	["use1"] = false,
 }
 GSELibrary = {
 	{
@@ -192,6 +192,8 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/hp-pve-fury-warrior-update-for-7-1-5/",
 			["Talents"] = "2333132",
 			["Help"] = "Talents have been setup to a best case scenario as per Icy Veins",
+			["Author"] = "Toxicdust",
+			["SpecID"] = 72,
 			["MacroVersions"] = {
 				{
 					"/cast Odyn's Fury", -- [1]
@@ -200,49 +202,47 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
-					},
-					["PreMacro"] = {
-					},
 					["KeyPress"] = {
 						"/cast [combat] Battle Cry", -- [1]
 						"/cast [combat] Blood Fury", -- [2]
 						"/cast [combat] Avatar", -- [3]
 						"/targetenemy [noharm][dead]", -- [4]
 					},
+					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
+					},
 				}, -- [1]
 			},
-			["Default"] = 1,
-			["Author"] = "Toxicdust",
 			["Icon"] = "INV_MISC_QUESTIONMARK",
-			["SpecID"] = 72,
+			["Default"] = 1,
 		},
 		["HP_BladeFuryBuilder"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/hp-pve-fury-warrior-update-for-7-1-5/",
 			["Talents"] = "2333132",
 			["Help"] = "Talents have been setup to a best case scenario as per Icy Veins",
+			["Author"] = "Toxicdust",
+			["SpecID"] = 72,
 			["MacroVersions"] = {
 				{
 					"/castsequence Bloodthirst, Raging Blow, Furious Slash", -- [1]
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
-					},
-					["PreMacro"] = {
-					},
 					["KeyPress"] = {
 						"/cast [combat] Battle Cry", -- [1]
 						"/cast [combat] Blood Fury", -- [2]
 						"/cast [combat] Avatar", -- [3]
 						"/targetenemy [noharm][dead]", -- [4]
 					},
+					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
+					},
 				}, -- [1]
 			},
-			["Default"] = 1,
-			["Author"] = "Toxicdust",
 			["Icon"] = "INV_MISC_QUESTIONMARK",
-			["SpecID"] = 72,
+			["Default"] = 1,
 		},
 		["HP_BladeFuryDump"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/hp-pve-fury-warrior-update-for-7-1-5/",
@@ -250,22 +250,22 @@ GSELibrary = {
 			["Author"] = "Toxicdust",
 			["Help"] = "Talents have been setup to a best case scenario as per Icy Veins",
 			["StepFunction"] = "Priority",
+			["Default"] = 1,
+			["SpecID"] = 72,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
 			["MacroVersions"] = {
 				{
 					"/cast Rampage", -- [1]
 					"/cast Execute", -- [2]
+					["StepFunction"] = "Sequential",
 					["KeyPress"] = {
 						"/cast [combat] Battle Cry", -- [1]
 						"/cast [combat] Blood Fury", -- [2]
 						"/cast [combat] Avatar", -- [3]
 						"/targetenemy [noharm][dead]", -- [4]
 					},
-					["StepFunction"] = "Sequential",
 				}, -- [1]
 			},
-			["SpecID"] = 72,
-			["Icon"] = "INV_MISC_QUESTIONMARK",
-			["Default"] = 1,
 		},
 	}, -- [1]
 	nil, -- [2]
@@ -586,10 +586,10 @@ GSELibrary = {
 						"/cast [nostealth,nocombat]Stealth", -- [2]
 						"/cast [combat] Marked for Death", -- [3]
 					},
-					["KeyRelease"] = {
-					},
 					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
 					},
 				}, -- [1]
 			},
@@ -617,10 +617,10 @@ GSELibrary = {
 						"/targetenemy [noharm][dead]", -- [1]
 						"/cast [nostealth,nocombat]Stealth", -- [2]
 					},
-					["KeyRelease"] = {
-					},
 					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
 					},
 				}, -- [1]
 			},
@@ -650,10 +650,10 @@ GSELibrary = {
 						"/cast [nostealth,nocombat]Stealth", -- [2]
 						"/cast [combat] Marked for Death", -- [3]
 					},
-					["KeyRelease"] = {
-					},
 					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
 					},
 				}, -- [1]
 			},
@@ -667,6 +667,8 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/shadow-priest-7-1-5-gse-2-0-2/",
 			["Talents"] = "Any Combination",
 			["Help"] = "This macro is quite versatile and should work with any talent combination.\\n - Pressing the CTRL key while spamming the macro will allow you to cast Shadow Word: Pain and Vampiric Touch. \\n - Pressing the ALT key while spamming the macro will allow you to cast Void Torrent, Power Infusion and Mindbender (if you have chosen one of these talents). \\n - Surrender to Madness (S2M) will need to be cast manually, as it makes no sense adding it to our rotation – given the length of its cooldown. \\n-  Dispersion will also need to be cast manually when the S2M buff is active.\\n This macro has WeakAuras that are available from the Forum.",
+			["Author"] = "Sethadon",
+			["SpecID"] = 258,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling:Void Torrent] Void Eruption", -- [1]
@@ -681,10 +683,6 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Priority",
-					["KeyRelease"] = {
-					},
-					["PreMacro"] = {
-					},
 					["KeyPress"] = {
 						"/cast [form:0] Shadowform", -- [1]
 						"/targetenemy [noharm] [dead]", -- [2]
@@ -695,12 +693,14 @@ GSELibrary = {
 						"/cast [mod:alt, talent:6/1, talent:7/1] [mod:alt, talent:6/1, talent:7/2] [mod:alt, talent:6/2] Void Torrent", -- [7]
 						"/castsequence [mod:alt, talent:6/3, nochanneling:Void Torrent] reset=60 Mindbender, Void Torrent", -- [8]
 					},
+					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
+					},
 				}, -- [1]
 			},
-			["Default"] = 1,
-			["Author"] = "Sethadon",
 			["Icon"] = "Spell_Shadow_ShadowWordPain",
-			["SpecID"] = 258,
+			["Default"] = 1,
 		},
 	}, -- [5]
 	{
@@ -710,6 +710,9 @@ GSELibrary = {
 			["Author"] = "John Metz",
 			["Help"] = "Frost AoE",
 			["StepFunction"] = "Priority",
+			["Default"] = 1,
+			["SpecID"] = 251,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
 			["MacroVersions"] = {
 				{
 					"/cast !Frost Strike", -- [1]
@@ -726,9 +729,6 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
-			["SpecID"] = 251,
-			["Icon"] = "INV_MISC_QUESTIONMARK",
-			["Default"] = 1,
 		},
 		["HP_DFST"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/gs-ptr-dual-frost/page/7/#post-35102",
@@ -736,6 +736,9 @@ GSELibrary = {
 			["Author"] = "John Metz",
 			["Help"] = "Frost Single Target",
 			["StepFunction"] = "Priority",
+			["Default"] = 1,
+			["SpecID"] = 251,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
 			["MacroVersions"] = {
 				{
 					"/cast !Frost Strike", -- [1]
@@ -751,14 +754,13 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
-			["SpecID"] = 251,
-			["Icon"] = "INV_MISC_QUESTIONMARK",
-			["Default"] = 1,
 		},
 		["HP_EX_Unholy_Apoc"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/unholy-soul-reaper-7-1-5/",
 			["Talents"] = "321??33",
 			["Help"] = "Run at 80ms or manually. Hold ALT for Apocalypse at 6+ Wounds.\nIn collaboration with the amazing John Metz!",
+			["Author"] = "Exaria@Perenolde and John Metz",
+			["SpecID"] = 252,
 			["MacroVersions"] = {
 				{
 					"/use [nopet,combat] Raise Dead; Dark Transformation", -- [1]
@@ -771,21 +773,19 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
-					},
-					["PreMacro"] = {
-					},
 					["KeyPress"] = {
 						"/targetenemy [noharm][dead]", -- [1]
 						"/use [mod:alt] Apocalypse(artifact)", -- [2]
 						"/castsequence  reset=target  Outbreak, null", -- [3]
 					},
+					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
+					},
 				}, -- [1]
 			},
-			["Default"] = 1,
-			["Author"] = "Exaria@Perenolde and John Metz",
 			["Icon"] = "Spell_Deathknight_UnholyPresence",
-			["SpecID"] = 252,
+			["Default"] = 1,
 		},
 		["HP_SquishyDK"] = {
 			["Talents"] = "2,1,1,2,1,3,3",
@@ -857,16 +857,16 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
-						"/petautocastoff [group] Threatening Presence", -- [1]
-						"/petautocaston [nogroup] Threatening Presence", -- [2]
-					},
-					["PreMacro"] = {
-					},
 					["KeyPress"] = {
 						"/targetenemy [noharm][dead]", -- [1]
 						"/use [mod:alt] Drain Life", -- [2]
 						"/castsequence  reset=target  Doom, null", -- [3]
+					},
+					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
+						"/petautocastoff [group] Threatening Presence", -- [1]
+						"/petautocaston [nogroup] Threatening Presence", -- [2]
 					},
 				}, -- [1]
 			},
@@ -886,18 +886,18 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/use [mod:alt] Drain Soul", -- [2]
+						"/castsequence  reset=target  Corruption, Agony, Siphon Life, null", -- [3]
+					},
+					["PreMacro"] = {
+					},
 					["KeyRelease"] = {
 						"/petautocastoff [group] Seethe", -- [1]
 						"/petautocastoff [group] Burning Presence", -- [2]
 						"/petautocaston [nogroup] Seethe", -- [3]
 						"/petautocaston [nogroup] Burning Presence", -- [4]
-					},
-					["PreMacro"] = {
-					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/use [mod:alt] Drain Soul", -- [2]
-						"/castsequence  reset=target  Corruption, Agony, Siphon Life, null", -- [3]
 					},
 				}, -- [1]
 			},
@@ -917,18 +917,18 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/use [mod:alt] Drain Soul", -- [2]
+						"/castsequence  reset=target  Corruption, Agony, Siphon Life, null", -- [3]
+					},
+					["PreMacro"] = {
+					},
 					["KeyRelease"] = {
 						"/petautocastoff [group] Seethe", -- [1]
 						"/petautocastoff [group] Burning Presence", -- [2]
 						"/petautocaston [nogroup] Seethe", -- [3]
 						"/petautocaston [nogroup] Burning Presence", -- [4]
-					},
-					["PreMacro"] = {
-					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/use [mod:alt] Drain Soul", -- [2]
-						"/castsequence  reset=target  Corruption, Agony, Siphon Life, null", -- [3]
 					},
 				}, -- [1]
 			},
@@ -940,6 +940,8 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/demonology-synergy/",
 			["Talents"] = "3,1,?,1,?,2,2",
 			["Help"] = "AoE - Run at 80ms",
+			["Author"] = "Exlynn@Perenolde",
+			["SpecID"] = 266,
 			["MacroVersions"] = {
 				{
 					"/castsequence [nochanneling] Demonwrath, Hand of Gul'dan, Demonic Empowerment, Demonwrath, Demonwrath, Life Tap", -- [1]
@@ -948,23 +950,21 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
-						"/petautocastoff [group] Threatening Presence", -- [1]
-						"/petautocaston [nogroup] Threatening Presence", -- [2]
-					},
-					["PreMacro"] = {
-					},
 					["KeyPress"] = {
 						"/targetenemy [noharm][dead]", -- [1]
 						"/use [mod:alt] Drain Life", -- [2]
 						"/castsequence  reset=target  Doom, null", -- [3]
 					},
+					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
+						"/petautocastoff [group] Threatening Presence", -- [1]
+						"/petautocaston [nogroup] Threatening Presence", -- [2]
+					},
 				}, -- [1]
 			},
-			["Default"] = 1,
-			["Author"] = "Exlynn@Perenolde",
 			["Icon"] = "INV_MISC_QUESTIONMARK",
-			["SpecID"] = 266,
+			["Default"] = 1,
 		},
 		["HP_EX_Aff_AoE"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/affliction-conduit-7-1-5/",
@@ -977,18 +977,18 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/use [mod:alt] Drain Soul", -- [2]
+						"/castsequence  reset=target  Agony, Corruption, Siphon Life, null", -- [3]
+					},
+					["PreMacro"] = {
+					},
 					["KeyRelease"] = {
 						"/petautocastoff [group] Seethe", -- [1]
 						"/petautocastoff [group] Burning Presence", -- [2]
 						"/petautocaston [nogroup] Seethe", -- [3]
 						"/petautocaston [nogroup] Burning Presence", -- [4]
-					},
-					["PreMacro"] = {
-					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/use [mod:alt] Drain Soul", -- [2]
-						"/castsequence  reset=target  Agony, Corruption, Siphon Life, null", -- [3]
 					},
 				}, -- [1]
 			},

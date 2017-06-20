@@ -9,8 +9,8 @@ H: 30
 Frame: LegionInvasionTimer
 FrameLevel: 1
 Anchor: TOP
-X: 357
-Y: -53
+X: 379
+Y: -40
 W: 180
 H: 15
 Frame: PlayerFrame

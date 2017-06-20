@@ -35,25 +35,25 @@ ExtraBarsSave = {
 							["Type"] = "empty",
 						}, -- [8]
 						{
-							["ItemName"] = "要塞炉石",
-							["Type"] = "item",
 							["ItemLink"] = "|cffffffff|Hitem:110560::::::::110:102::::::|h[要塞炉石]|h|r",
+							["ItemName"] = "要塞炉石",
 							["ItemID"] = 110560,
+							["Type"] = "item",
 						}, -- [9]
 						{
 							["Type"] = "empty",
 						}, -- [10]
 						{
-							["ItemName"] = "达拉然炉石",
-							["Type"] = "item",
 							["ItemLink"] = "|cffffffff|Hitem:140192::::::::110:102::::::|h[达拉然炉石]|h|r",
+							["ItemName"] = "达拉然炉石",
 							["ItemID"] = 140192,
+							["Type"] = "item",
 						}, -- [11]
 						{
-							["ItemName"] = "飞行管理员的哨子",
-							["Type"] = "item",
 							["ItemLink"] = "|cff0070dd|Hitem:141605::::::::110:102::::::|h[飞行管理员的哨子]|h|r",
+							["ItemName"] = "飞行管理员的哨子",
 							["ItemID"] = 141605,
+							["Type"] = "item",
 						}, -- [12]
 					},
 				}, -- [1]
@@ -105,10 +105,10 @@ ExtraBarsSave = {
 							["SpellID"] = 80451,
 						}, -- [1]
 						{
-							["Type"] = "item",
-							["ItemName"] = "反光棱柱",
 							["ItemLink"] = "|cff1eff00|Hitem:112384::::::::110:104::::::|h[反光棱柱]|h|r",
+							["ItemName"] = "反光棱柱",
 							["ItemID"] = 112384,
+							["Type"] = "item",
 						}, -- [2]
 						{
 							["Type"] = "empty",
@@ -151,22 +151,22 @@ ExtraBarsSave = {
 				{
 					["Buttons"] = {
 						{
-							["ItemID"] = 140439,
+							["Type"] = "item",
 							["ItemName"] = "太阳花粉",
 							["ItemLink"] = "|cff1eff00|Hitem:140439::::::::110:105::::::|h[太阳花粉]|h|r",
-							["Type"] = "item",
+							["ItemID"] = 140439,
 						}, -- [1]
 						{
-							["ItemID"] = 140397,
+							["Type"] = "item",
 							["ItemName"] = "加尼尔之花",
 							["ItemLink"] = "|cff1eff00|Hitem:140397::::::::110:105::::::|h[加尼尔之花]|h|r",
-							["Type"] = "item",
+							["ItemID"] = 140397,
 						}, -- [2]
 						{
-							["ItemID"] = 111820,
+							["Type"] = "item",
 							["ItemName"] = "移形换影装置",
 							["ItemLink"] = "|cff0070dd|Hitem:111820::::::::110:105::::::|h[移形换影装置]|h|r",
-							["Type"] = "item",
+							["ItemID"] = 111820,
 						}, -- [3]
 						{
 							["Type"] = "spell",
@@ -177,16 +177,16 @@ ExtraBarsSave = {
 							["Type"] = "empty",
 						}, -- [5]
 						{
-							["ItemID"] = 113509,
+							["Type"] = "item",
 							["ItemName"] = "魔法汉堡",
 							["ItemLink"] = "|cffffffff|Hitem:113509::::::::110:105::::::|h[魔法汉堡]|h|r",
-							["Type"] = "item",
+							["ItemID"] = 113509,
 						}, -- [6]
 						{
-							["ItemID"] = 6365,
+							["Type"] = "item",
 							["ItemName"] = "强化钓鱼竿",
 							["ItemLink"] = "|cffffffff|Hitem:6365::::::::110:105::::::|h[强化钓鱼竿]|h|r",
-							["Type"] = "item",
+							["ItemID"] = 6365,
 						}, -- [7]
 						{
 							["Type"] = "empty",
@@ -223,10 +223,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 895.999877929688,
-			["HideEmptyButtons"] = false,
-			["UseVerticalLayout"] = true,
 			["Scale"] = 1,
+			["UseVerticalLayout"] = true,
+			["HideEmptyButtons"] = false,
+			["Top"] = 895.999877929688,
 		}, -- [1]
 		{
 			["Enabled"] = false,
@@ -412,10 +412,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 516,
-			["HideEmptyButtons"] = false,
-			["UseVerticalLayout"] = false,
 			["Scale"] = 1,
+			["UseVerticalLayout"] = false,
+			["HideEmptyButtons"] = false,
+			["Top"] = 516,
 		}, -- [2]
 		{
 			["Enabled"] = false,
@@ -601,10 +601,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 585.999877929688,
-			["HideEmptyButtons"] = false,
-			["UseVerticalLayout"] = false,
 			["Scale"] = 1,
+			["UseVerticalLayout"] = false,
+			["HideEmptyButtons"] = false,
+			["Top"] = 585.999877929688,
 		}, -- [3]
 		{
 			["Enabled"] = false,
@@ -790,10 +790,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 652.250366210938,
-			["HideEmptyButtons"] = false,
-			["UseVerticalLayout"] = false,
 			["Scale"] = 1,
+			["UseVerticalLayout"] = false,
+			["HideEmptyButtons"] = false,
+			["Top"] = 652.250366210938,
 		}, -- [4]
 	},
 	["VersionMinor"] = 0,

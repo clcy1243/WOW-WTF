@@ -1,10 +1,10 @@
 
 AucAdvancedFilterBasic_IgnoreList = {
-	["主宰之剑"] = {
+	["瓦拉斯塔兹"] = {
 		["List"] = {
 		},
 	},
-	["太阳之井"] = {
+	["主宰之剑"] = {
 		["List"] = {
 		},
 	},
@@ -28,7 +28,7 @@ AucAdvancedFilterBasic_IgnoreList = {
 		["List"] = {
 		},
 	},
-	["瓦拉斯塔兹"] = {
+	["太阳之井"] = {
 		["List"] = {
 		},
 	},

@@ -18,10 +18,6 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["LastInstanceName"] = "暗夜要塞",
-			["MainWindowHeight"] = 122.400001525879,
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 295.199951171875,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -32,9 +28,12 @@ RecountDB = {
 					},
 				},
 			},
+			["MainWindowHeight"] = 122.400001525879,
+			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 295.199951171875,
+			["LastInstanceName"] = "暗夜要塞",
 		},
 		["龙剑曦 - 主宰之剑"] = {
-			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
 					["h"] = 199.999984741211,
@@ -50,20 +49,21 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "格瑞姆巴托",
+			["MainWindowVis"] = false,
+			["LastInstanceName"] = "黑暗神殿",
 			["CurDataSet"] = "OverallData",
 		},
 		["龙听雨 - 主宰之剑"] = {
 			["GraphWindowY"] = -463.60009765625,
 			["MainWindow"] = {
+				["BarText"] = {
+					["NumFormat"] = 3,
+				},
 				["Position"] = {
 					["y"] = 308.625061035156,
 					["x"] = -799.874969482422,
 					["w"] = 314.250091552734,
 					["h"] = 164.750030517578,
-				},
-				["BarText"] = {
-					["NumFormat"] = 3,
 				},
 			},
 			["DetailWindowX"] = 744.000061035156,
@@ -121,7 +121,7 @@ RecountDB = {
 				},
 			},
 			["MainWindowHeight"] = 164.750030517578,
-			["DetailWindowY"] = -403.000030517578,
+			["GraphWindowX"] = 986.7001953125,
 			["CurDataSet"] = "OverallData",
 			["Colors"] = {
 				["Bar"] = {
@@ -133,13 +133,19 @@ RecountDB = {
 					},
 				},
 			},
-			["GraphWindowX"] = 986.7001953125,
-			["MainWindowVis"] = false,
+			["DetailWindowY"] = -403.000030517578,
 			["MainWindowMode"] = 5,
+			["MainWindowVis"] = false,
 			["MainWindowWidth"] = 314.250091552734,
 			["Filters"] = {
 				["Show"] = {
 					["Ungrouped"] = false,
+				},
+				["Data"] = {
+					["Trivial"] = true,
+					["Ungrouped"] = true,
+					["Hostile"] = true,
+					["Nontrivial"] = true,
 				},
 				["TimeData"] = {
 					["Self"] = true,
@@ -147,20 +153,14 @@ RecountDB = {
 					["Nontrivial"] = true,
 					["Boss"] = true,
 					["Hostile"] = true,
-					["Grouped"] = true,
-					["Ungrouped"] = true,
-					["Trivial"] = true,
 					["Unknown"] = true,
+					["Ungrouped"] = true,
+					["Grouped"] = true,
+					["Trivial"] = true,
 				},
 				["TrackDeaths"] = {
 					["Hostile"] = true,
-					["Ungrouped"] = true,
 					["Unknown"] = true,
-					["Trivial"] = true,
-					["Nontrivial"] = true,
-				},
-				["Data"] = {
-					["Hostile"] = true,
 					["Ungrouped"] = true,
 					["Trivial"] = true,
 					["Nontrivial"] = true,
@@ -168,6 +168,7 @@ RecountDB = {
 			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
+			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = 305.500183105469,
@@ -186,8 +187,7 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowVis"] = false,
-			["LastInstanceName"] = "黑心林地",
+			["LastInstanceName"] = "群星庭院",
 			["CurDataSet"] = "OverallData",
 		},
 	},

@@ -11,7 +11,8 @@ TinyRosterDB = {
 	["MountJournalSearchBox"] = {
 		["depands"] = "Blizzard_Collections",
 		["list"] = {
-			"虎", -- [1]
+			"德鲁伊", -- [1]
+			"虎", -- [2]
 		},
 	},
 	["GlyphFrame.SearchBox"] = {

@@ -21,6 +21,7 @@ RecountDB = {
 				},
 			},
 			["MainWindowVis"] = false,
+			["LastInstanceName"] = "英灵殿",
 			["CurDataSet"] = "OverallData",
 		},
 	},

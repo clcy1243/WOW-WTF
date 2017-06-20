@@ -1,12 +1,18 @@
 
 _detalhes_global = {
+	["death_recap"] = {
+		["show_segments"] = false,
+		["enabled"] = true,
+		["show_life_percent"] = false,
+		["relevance_time"] = 7,
+	},
 	["tutorial"] = {
 		["bookmark_tutorial"] = true,
-		["main_help_button"] = 1022,
+		["main_help_button"] = 1071,
 		["SWITCH_PANEL_FIRST_OPENED"] = true,
 		["ATTRIBUTE_SELECT_TUTORIAL1"] = true,
 		["MEMORY_USAGE_ALERT1"] = true,
-		["logons"] = 1022,
+		["logons"] = 1071,
 		["ENCOUNTER_DETAILS_BALLON_TUTORIAL1"] = true,
 		["STREAMER_PLUGIN_FIRSTRUN"] = true,
 		["FULL_DELETE_WINDOW"] = true,
@@ -22,221 +28,6020 @@ _detalhes_global = {
 		},
 		["WINDOW_LOCK_UNLOCK1"] = true,
 		["OVERALLDATA_WARNING1"] = 10,
-		["OPTIONS_PANEL_OPENED"] = true,
 		["version_announce"] = 0,
+		["OPTIONS_PANEL_OPENED"] = true,
 		["DETAILS_INFO_TUTORIAL2"] = 10,
 		["unlock_button"] = 4,
-		["ctrl_click_close_tutorial"] = false,
 		["feedback_window1"] = true,
+		["ctrl_click_close_tutorial"] = false,
 	},
 	["realm_sync"] = true,
+	["report_where"] = "GUILD",
 	["item_level_pool"] = {
-		["Player-804-034BBE81"] = {
-			["name"] = "喔喔奶糖-鬼雾峰",
-			["time"] = 1495771838,
-			["ilvl"] = 908.5,
-		},
-		["Player-1944-05B1AFE9"] = {
-			["name"] = "Vissim-黑龙军团",
-			["time"] = 1495772111,
-			["ilvl"] = 911.125,
-		},
-		["Player-929-028E59C1"] = {
-			["name"] = "奶茶猎手-卡拉赞",
-			["time"] = 1495774102,
-			["ilvl"] = 904.4,
-		},
-		["Player-882-04E4884A"] = {
-			["name"] = "橙皇橙恐-暗影议会",
-			["time"] = 1495771972,
-			["ilvl"] = 901.733333333333,
-		},
-		["Player-1696-0218E133"] = {
-			["time"] = 1495815439,
-			["name"] = "楓镰丶-亚雷戈斯",
-			["ilvl"] = 912.4375,
-		},
-		["Player-2118-0A2CCE99"] = {
-			["name"] = "八方浦原-迦拉克隆",
-			["time"] = 1495773741,
-			["ilvl"] = 901.933333333333,
-		},
-		["Player-866-049E76EC"] = {
-			["name"] = "烂鱼的故事-格瑞姆巴托",
-			["time"] = 1495772099,
-			["ilvl"] = 911.6,
-		},
-		["Player-721-045C2C5A"] = {
-			["name"] = "妖梦儿-爱斯特纳",
-			["time"] = 1495773352,
-			["ilvl"] = 904.25,
-		},
-		["Player-1672-01C3DEEC"] = {
-			["name"] = "灬尐稥煙-无尽之海",
-			["time"] = 1495771890,
-			["ilvl"] = 901.333333333333,
-		},
-		["Player-927-01B4C637"] = {
-			["name"] = "海豚-加兹鲁维",
-			["time"] = 1495771346,
-			["ilvl"] = 905.666666666667,
-		},
-		["Player-3757-042CF2B9"] = {
-			["name"] = "大肥牛-时光之穴",
-			["time"] = 1495773463,
-			["ilvl"] = 904.75,
-		},
-		["Player-1497-046693A0"] = {
-			["time"] = 1495811768,
-			["name"] = "无术之士-菲拉斯",
-			["ilvl"] = 901.866666666667,
-		},
-		["Player-861-04B9A7DE"] = {
-			["time"] = 1495810353,
-			["name"] = "龙听雨",
-			["ilvl"] = 908.466666666667,
-		},
-		["Player-927-0376BE19"] = {
-			["name"] = "人民的摸少丶-加兹鲁维",
-			["time"] = 1495773675,
-			["ilvl"] = 909.3125,
-		},
-		["Player-857-04BE8365"] = {
-			["name"] = "栾碧麻马-古尔丹",
-			["time"] = 1495773258,
-			["ilvl"] = 900.533333333333,
-		},
-		["Player-865-047DA965"] = {
-			["name"] = "贵族幽灵猎手-龙骨平原",
-			["time"] = 1495770520,
-			["ilvl"] = 905.25,
-		},
-		["Player-1492-046A0E1E"] = {
-			["name"] = "装灬単蒓-希尔瓦娜斯",
-			["time"] = 1495771876,
-			["ilvl"] = 902.266666666667,
-		},
-		["Player-826-038A6FE1"] = {
-			["name"] = "给你死-诺兹多姆",
-			["time"] = 1495771689,
-			["ilvl"] = 908.625,
-		},
-		["Player-927-017DE52B"] = {
-			["name"] = "胃穿孔-加兹鲁维",
-			["time"] = 1495771934,
-			["ilvl"] = 911.6875,
-		},
-		["Player-1943-05748A04"] = {
-			["name"] = "阿尔特翔弥-夏维安",
-			["time"] = 1495771952,
-			["ilvl"] = 906.6,
-		},
-		["Player-865-046AC6D4"] = {
-			["name"] = "風雲之怒-龙骨平原",
-			["time"] = 1495771291,
-			["ilvl"] = 905.125,
-		},
-		["Player-1495-0049B90C"] = {
-			["name"] = "夜月残影-艾莫莉丝",
-			["time"] = 1495773178,
-			["ilvl"] = 908.266666666667,
-		},
-		["Player-1672-024D9325"] = {
-			["name"] = "鸢一折纸丷-无尽之海",
-			["time"] = 1495771446,
-			["ilvl"] = 912.066666666667,
-		},
-		["Player-1931-05944AE0"] = {
-			["name"] = "玲珑骰子-踏梦者",
-			["time"] = 1495771880,
-			["ilvl"] = 913,
-		},
-		["Player-886-04E22402"] = {
-			["time"] = 1495815527,
-			["name"] = "弑神阿基里斯-血色十字军",
-			["ilvl"] = 910.2,
-		},
-		["Player-2121-02596865"] = {
-			["name"] = "Kinasa-冰霜之刃",
-			["time"] = 1495771943,
-			["ilvl"] = 901.933333333333,
-		},
-		["Player-1696-02229B22"] = {
-			["time"] = 1495815340,
-			["name"] = "无聊小法-亚雷戈斯",
-			["ilvl"] = 912.875,
-		},
-		["Player-915-01CBEC8C"] = {
-			["name"] = "璀璨星辰-狂热之刃",
-			["time"] = 1495774047,
-			["ilvl"] = 904.066666666667,
-		},
-		["Player-1946-053D41E7"] = {
-			["name"] = "爱上鬼的人-血吼",
-			["time"] = 1495772071,
-			["ilvl"] = 904.666666666667,
-		},
-		["Player-2133-0A0A81A5"] = {
-			["name"] = "陌上相逢否-影之哀伤",
-			["time"] = 1495772967,
-			["ilvl"] = 904.0625,
-		},
-		["Player-1938-055D4C76"] = {
-			["name"] = "猎手龟龟-鹰巢山",
-			["time"] = 1495774357,
-			["ilvl"] = 903.5,
-		},
-		["Player-866-04A5DD3E"] = {
-			["name"] = "大镁女-格瑞姆巴托",
-			["time"] = 1495771828,
-			["ilvl"] = 907.6,
-		},
-		["Player-866-04B3D7D4"] = {
-			["time"] = 1495766884,
-			["name"] = "追梦的皮卡丘-格瑞姆巴托",
-			["ilvl"] = 916,
-		},
-		["Player-866-04342F57"] = {
-			["name"] = "梨花泪-格瑞姆巴托",
-			["time"] = 1495773216,
-			["ilvl"] = 913.6,
-		},
-		["Player-2133-024249AA"] = {
-			["name"] = "杂粮吐司-影之哀伤",
-			["time"] = 1495771800,
-			["ilvl"] = 910.75,
-		},
-		["Player-829-03A35253"] = {
-			["name"] = "双重决意-燃烧之刃",
-			["time"] = 1495771608,
-			["ilvl"] = 912.5625,
-		},
-		["Player-861-047396F2"] = {
-			["time"] = 1495815429,
-			["name"] = "疯子的迷恋",
-			["ilvl"] = 913.6,
-		},
-		["Player-1672-01C32720"] = {
-			["name"] = "信仰丶糖果-无尽之海",
-			["time"] = 1495771978,
-			["ilvl"] = 907.733333333333,
-		},
-		["Player-1931-059E85E9"] = {
-			["name"] = "糯小米-踏梦者",
-			["time"] = 1495772136,
-			["ilvl"] = 902.4,
-		},
-		["Player-927-0368C819"] = {
-			["name"] = "桃吉吉-加兹鲁维",
-			["time"] = 1495773793,
-			["ilvl"] = 910.533333333333,
-		},
-		["Player-876-04E34F3A"] = {
-			["name"] = "逆天靈儿-霜狼",
-			["time"] = 1495773205,
-			["ilvl"] = 902.1875,
+	},
+	["switchSaved"] = {
+		["slots"] = 18,
+		["table"] = {
+			{
+				["atributo"] = 1,
+				["sub_atributo"] = 1,
+			}, -- [1]
+			{
+				["atributo"] = 2,
+				["sub_atributo"] = 1,
+			}, -- [2]
+			{
+				["atributo"] = 1,
+				["sub_atributo"] = 6,
+			}, -- [3]
+			{
+				["atributo"] = 4,
+				["sub_atributo"] = 5,
+			}, -- [4]
+			{
+				["atributo"] = 2,
+				["sub_atributo"] = 3,
+			}, -- [5]
+			{
+				["atributo"] = 4,
+				["sub_atributo"] = 4,
+			}, -- [6]
+			{
+				["atributo"] = 1,
+				["sub_atributo"] = 3,
+			}, -- [7]
+			{
+				["atributo"] = 1,
+				["sub_atributo"] = 4,
+			}, -- [8]
+			{
+				["atributo"] = 2,
+				["sub_atributo"] = 6,
+			}, -- [9]
+			{
+				["atributo"] = 3,
+				["sub_atributo"] = 3,
+			}, -- [10]
+			{
+				["atributo"] = 4,
+				["sub_atributo"] = 7,
+			}, -- [11]
+			{
+				["atributo"] = 2,
+				["sub_atributo"] = 4,
+			}, -- [12]
+			{
+				["atributo"] = 4,
+				["sub_atributo"] = 4,
+			}, -- [13]
+			{
+				["atributo"] = 4,
+				["sub_atributo"] = 3,
+			}, -- [14]
+			{
+				["atributo"] = 4,
+				["sub_atributo"] = 8,
+			}, -- [15]
+			{
+				["atributo"] = 3,
+				["sub_atributo"] = 1,
+			}, -- [16]
+			{
+				["atributo"] = 2,
+				["sub_atributo"] = 2,
+			}, -- [17]
+			{
+			}, -- [18]
+			{
+			}, -- [19]
+			{
+			}, -- [20]
+			{
+			}, -- [21]
 		},
 	},
+	["savedCustomSpells"] = {
+		{
+			1, -- [1]
+			"近战", -- [2]
+			"Interface\\ICONS\\INV_Sword_04", -- [3]
+		}, -- [1]
+		{
+			2, -- [1]
+			"自动射击", -- [2]
+			"Interface\\ICONS\\INV_Weapon_Bow_07", -- [3]
+		}, -- [2]
+		{
+			4, -- [1]
+			"环境伤害 (溺水)", -- [2]
+			"Interface\\ICONS\\Ability_Suffocate", -- [3]
+		}, -- [3]
+		{
+			8, -- [1]
+			"Environment (Slime)", -- [2]
+			"Interface\\ICONS\\Ability_Creature_Poison_02", -- [3]
+		}, -- [4]
+		{
+			88082, -- [1]
+			"火球术 (镜像)", -- [2]
+			135812, -- [3]
+		}, -- [5]
+		{
+			94472, -- [1]
+			"救赎 (致命)", -- [2]
+			135887, -- [3]
+		}, -- [6]
+		{
+			59638, -- [1]
+			"寒冰箭 (镜像)", -- [2]
+			135846, -- [3]
+		}, -- [7]
+		{
+			5, -- [1]
+			"环境伤害 (疲劳)", -- [2]
+			"Interface\\ICONS\\Spell_Arcane_MindMastery", -- [3]
+		}, -- [8]
+		{
+			158336, -- [1]
+			"粉碎 (wave #1)", -- [2]
+			135242, -- [3]
+		}, -- [9]
+		{
+			3, -- [1]
+			"环境伤害 (高处坠落)", -- [2]
+			"Interface\\ICONS\\Spell_Magic_FeatherFall", -- [3]
+		}, -- [10]
+		{
+			6, -- [1]
+			"环境伤害 (火烧)", -- [2]
+			"Interface\\ICONS\\INV_SummerFest_FireSpirit", -- [3]
+		}, -- [11]
+		{
+			224078, -- [1]
+			"暴龙电击带 (trinket)", -- [2]
+			136048, -- [3]
+		}, -- [12]
+		{
+			214350, -- [1]
+			"梦魇精华 (trinket)", -- [2]
+			1357816, -- [3]
+		}, -- [13]
+		{
+			44461, -- [1]
+			"活动炸弹 (爆炸)", -- [2]
+			236220, -- [3]
+		}, -- [14]
+		{
+			213786, -- [1]
+			"夜幕 (trinket)", -- [2]
+			236168, -- [3]
+		}, -- [15]
+		{
+			120761, -- [1]
+			"飞刃 (Glaive #2)", -- [2]
+			132330, -- [3]
+		}, -- [16]
+		{
+			121414, -- [1]
+			"飞刃 (Glaive #1)", -- [2]
+			132330, -- [3]
+		}, -- [17]
+		{
+			33778, -- [1]
+			"生命绽放 (bloom)", -- [2]
+			136041, -- [3]
+		}, -- [18]
+		{
+			7, -- [1]
+			"环境伤害 (岩浆)", -- [2]
+			"Interface\\ICONS\\Ability_Rhyolith_Volcano", -- [3]
+		}, -- [19]
+		{
+			158420, -- [1]
+			"粉碎 (wave #3)", -- [2]
+			135242, -- [3]
+		}, -- [20]
+		{
+			158417, -- [1]
+			"粉碎 (wave #2)", -- [2]
+			135242, -- [3]
+		}, -- [21]
+		{
+			161612, -- [1]
+			"溢流能量 (捕捉)", -- [2]
+			841219, -- [3]
+		}, -- [22]
+		{
+			98021, -- [1]
+			"血量交换", -- [2]
+			237586, -- [3]
+		}, -- [23]
+		{
+			161576, -- [1]
+			"溢流能量 (爆炸)", -- [2]
+			841219, -- [3]
+		}, -- [24]
+	},
+	["always_use_profile_exception"] = {
+	},
+	["got_first_run"] = true,
+	["details_auras"] = {
+	},
+	["always_use_profile"] = true,
+	["always_use_profile_name"] = "龙剑曦-主宰之剑",
+	["savedStyles"] = {
+	},
+	["report_pos"] = {
+		1, -- [1]
+		1.0001220703125, -- [2]
+	},
+	["latest_report_table"] = {
+		{
+			2, -- [1]
+			4, -- [2]
+			4, -- [3]
+			5, -- [4]
+			"RAID", -- [5]
+		}, -- [1]
+		{
+			2, -- [1]
+			2, -- [2]
+			1, -- [3]
+			5, -- [4]
+			"RAID", -- [5]
+		}, -- [2]
+		{
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+			20, -- [4]
+			"GUILD", -- [5]
+		}, -- [3]
+		{
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+			20, -- [4]
+			"RAID", -- [5]
+		}, -- [4]
+	},
+	["savedTimeCaptures"] = {
+		{
+			"Player Damage Done", -- [1]
+			"\n	-- the goal of this script is get the current combat then get your character and extract your damage done.\n	-- the first thing to do is get the combat, so, we use here the command \"_detalhes:GetCombat ( \"overall\" \"current\" or \"segment number\")\"\n	\n	local current_combat = _detalhes:GetCombat (\"current\") --> getting the current combat\n	\n	-- the next step is request your character from the combat\n	-- to do this, we take the combat which here we named \"current_combat\" and tells what we want inside parentheses.\n	\n	local my_self = current_combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n	\n	-- _detalhes.playername holds the name of your character.\n	-- DETAILS_ATTRIBUTE_DAMAGE means we want the damage table, _HEAL _ENERGY _MISC is the other 3 tables.\n	\n	-- before we proceed, the result needs to be checked to make sure its a valid result.\n	\n	if (not my_self) then\n		return 0 -- the combat doesnt have *you*, this happens when you didn't deal any damage in the combat yet.\n	end\n	\n	-- now its time to get the total damage.\n	\n	local my_damage = my_self.total\n	\n	-- then finally return the amount to the capture.\n	\n	return my_damage\n	\n", -- [2]
+			{
+				["max_value"] = 0,
+				["last_value"] = 0,
+			}, -- [3]
+			"Chart Viewer", -- [4]
+			"1.0", -- [5]
+			"Interface\\ICONS\\Ability_MeleeDamage", -- [6]
+			true, -- [7]
+		}, -- [1]
+	},
+	["__profiles"] = {
+		["1"] = {
+			["capture_real"] = {
+				["heal"] = true,
+				["spellcast"] = true,
+				["miscdata"] = true,
+				["aura"] = true,
+				["energy"] = true,
+				["damage"] = true,
+			},
+			["row_fade_in"] = {
+				"in", -- [1]
+				0.2, -- [2]
+			},
+			["player_details_window"] = {
+				["scale"] = 1,
+				["bar_texture"] = "Skyline",
+				["skin"] = "ElvUI",
+			},
+			["numerical_system"] = 1,
+			["use_row_animations"] = true,
+			["report_heal_links"] = true,
+			["remove_realm_from_name"] = true,
+			["class_icons_small"] = "Interface\\AddOns\\Details\\images\\classes_small",
+			["report_to_who"] = "",
+			["overall_flag"] = 15,
+			["profile_save_pos"] = true,
+			["tooltip"] = {
+				["header_statusbar"] = {
+					0.3, -- [1]
+					0.3, -- [2]
+					0.3, -- [3]
+					0.8, -- [4]
+					false, -- [5]
+					false, -- [6]
+					"WorldState Score", -- [7]
+				},
+				["fontcolor_right"] = {
+					1, -- [1]
+					0.7, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["tooltip_max_targets"] = 2,
+				["icon_size"] = {
+					["W"] = 13,
+					["H"] = 13,
+				},
+				["tooltip_max_pets"] = 2,
+				["anchor_relative"] = "top",
+				["abbreviation"] = 2,
+				["anchored_to"] = 1,
+				["show_amount"] = false,
+				["header_text_color"] = {
+					1, -- [1]
+					0.9176, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["fontsize"] = 10,
+				["background"] = {
+					0.196, -- [1]
+					0.196, -- [2]
+					0.196, -- [3]
+					0.8697, -- [4]
+				},
+				["submenu_wallpaper"] = true,
+				["fontsize_title"] = 10,
+				["icon_border_texcoord"] = {
+					["B"] = 0.921875,
+					["L"] = 0.078125,
+					["T"] = 0.078125,
+					["R"] = 0.921875,
+				},
+				["commands"] = {
+				},
+				["tooltip_max_abilities"] = 5,
+				["fontface"] = "Friz Quadrata TT",
+				["border_color"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["border_texture"] = "Details BarBorder 3",
+				["anchor_offset"] = {
+					0, -- [1]
+					0, -- [2]
+				},
+				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
+				["maximize_method"] = 1,
+				["border_size"] = 14,
+				["fontshadow"] = false,
+				["anchor_screen_pos"] = {
+					507.7, -- [1]
+					-350.5, -- [2]
+				},
+				["anchor_point"] = "bottom",
+				["menus_bg_coords"] = {
+					0.309777336120606, -- [1]
+					0.924000015258789, -- [2]
+					0.213000011444092, -- [3]
+					0.279000015258789, -- [4]
+				},
+				["fontcolor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					1, -- [4]
+				},
+				["menus_bg_color"] = {
+					0.8, -- [1]
+					0.8, -- [2]
+					0.8, -- [3]
+					0.2, -- [4]
+				},
+			},
+			["ps_abbreviation"] = 3,
+			["world_combat_is_trash"] = false,
+			["update_speed"] = 0.5,
+			["track_item_level"] = true,
+			["windows_fade_in"] = {
+				"in", -- [1]
+				0.2, -- [2]
+			},
+			["instances_menu_click_to_open"] = false,
+			["overall_clear_newchallenge"] = false,
+			["time_type"] = 2,
+			["instances_disable_bar_highlight"] = false,
+			["trash_concatenate"] = false,
+			["disable_stretch_from_toolbar"] = false,
+			["disable_lock_ungroup_buttons"] = false,
+			["memory_ram"] = 64,
+			["disable_window_groups"] = false,
+			["instances_suppress_trash"] = 0,
+			["font_faces"] = {
+				["menus"] = "Friz Quadrata TT",
+			},
+			["segments_amount"] = 25,
+			["report_lines"] = 5,
+			["skin"] = "WoW Interface",
+			["override_spellids"] = true,
+			["instances"] = {
+				{
+					["__pos"] = {
+						["normal"] = {
+							["y"] = 37.7526245117188,
+							["x"] = -803.749984741211,
+							["w"] = 312.500030517578,
+							["h"] = 130.000045776367,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["show_statusbar"] = true,
+					["menu_icons_size"] = 0.850000023841858,
+					["color"] = {
+						0.333333333333333, -- [1]
+						0.333333333333333, -- [2]
+						0.333333333333333, -- [3]
+						0.379999995231628, -- [4]
+					},
+					["menu_anchor"] = {
+						16, -- [1]
+						0, -- [2]
+						["side"] = 2,
+					},
+					["bars_inverted"] = false,
+					["bg_r"] = 0.0941176470588235,
+					["switch_healer_in_combat"] = false,
+					["hide_in_combat_type"] = 1,
+					["hide_out_of_combat"] = false,
+					["micro_displays_locked"] = true,
+					["following"] = {
+						["enabled"] = false,
+						["bar_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["color_buttons"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["switch_healer"] = false,
+					["skin_custom"] = "",
+					["total_bar"] = {
+						["enabled"] = false,
+						["only_in_group"] = true,
+						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
+						["color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["tooltip"] = {
+						["n_abilities"] = 3,
+						["n_enemies"] = 3,
+					},
+					["instance_button_anchor"] = {
+						-27, -- [1]
+						1, -- [2]
+					},
+					["row_info"] = {
+						["textR_outline"] = false,
+						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
+						["textL_outline"] = false,
+						["textR_outline_small"] = true,
+						["textR_show_data"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+						["percent_type"] = 1,
+						["fixed_text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["space"] = {
+							["right"] = 0,
+							["left"] = 0,
+							["between"] = 0,
+						},
+						["texture_background_class_color"] = false,
+						["textL_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["font_face_file"] = "Fonts\\ARKai_T.ttf",
+						["textL_custom_text"] = "{data1}. {data3}{data2}",
+						["models"] = {
+							["upper_model"] = "Spells\\AcidBreath_SuperGreen.M2",
+							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
+							["upper_alpha"] = 0.5,
+							["lower_enabled"] = false,
+							["lower_alpha"] = 0.1,
+							["upper_enabled"] = false,
+						},
+						["height"] = 14,
+						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
+						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small",
+						["font_size"] = 10,
+						["textR_bracket"] = "(",
+						["use_spec_icons"] = true,
+						["textR_enable_custom_text"] = false,
+						["backdrop"] = {
+							["enabled"] = false,
+							["size"] = 12,
+							["color"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["texture"] = "Details BarBorder 2",
+						},
+						["fixed_texture_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+						},
+						["textL_show_number"] = true,
+						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
+						["texture_custom"] = "",
+						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
+						["fixed_texture_background_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.150228589773178, -- [4]
+						},
+						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
+						["texture"] = "BantoBar",
+						["textL_class_colors"] = false,
+						["textR_class_colors"] = false,
+						["textR_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["texture_background"] = "Details D'ictum (reverse)",
+						["alpha"] = 1,
+						["no_icon"] = false,
+						["textL_enable_custom_text"] = false,
+						["textL_outline_small"] = true,
+						["font_face"] = "Accidental Presidency",
+						["texture_class_colors"] = true,
+						["start_after_icon"] = false,
+						["fast_ps_update"] = true,
+						["textR_separator"] = ",",
+						["texture_custom_file"] = "Interface\\",
+					},
+					["__was_opened"] = true,
+					["StatusBarSaved"] = {
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["options"] = {
+							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
+								["textYMod"] = 1,
+								["textXMod"] = 0,
+								["textFace"] = "Accidental Presidency",
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+							},
+							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["segmentType"] = 2,
+								["textFace"] = "Accidental Presidency",
+								["textXMod"] = 0,
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["textFace"] = "Accidental Presidency",
+								["textXMod"] = 6,
+								["textAlign"] = 0,
+								["timeType"] = 1,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+						},
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+					},
+					["show_sidebars"] = false,
+					["switch_all_roles_in_combat"] = false,
+					["switch_tank_in_combat"] = false,
+					["version"] = 3,
+					["attribute_text"] = {
+						["enabled"] = true,
+						["shadow"] = false,
+						["side"] = 1,
+						["text_size"] = 12,
+						["custom_text"] = "{name}",
+						["text_face"] = "Accidental Presidency",
+						["anchor"] = {
+							-18, -- [1]
+							3, -- [2]
+						},
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["enable_custom_text"] = false,
+						["show_timer"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+					},
+					["__locked"] = true,
+					["menu_alpha"] = {
+						["enabled"] = false,
+						["onenter"] = 1,
+						["iconstoo"] = true,
+						["ignorebars"] = false,
+						["onleave"] = 1,
+					},
+					["menu_anchor_down"] = {
+						16, -- [1]
+						-3, -- [2]
+					},
+					["libwindow"] = {
+						["y"] = 37.7526550292969,
+						["x"] = 0,
+						["point"] = "LEFT",
+					},
+					["statusbar_info"] = {
+						["alpha"] = 0.379999995231628,
+						["overlay"] = {
+							0.333333333333333, -- [1]
+							0.333333333333333, -- [2]
+							0.333333333333333, -- [3]
+						},
+					},
+					["strata"] = "LOW",
+					["row_show_animation"] = {
+						["anim"] = "Fade",
+						["options"] = {
+						},
+					},
+					["__snap"] = {
+						[2] = 2,
+					},
+					["switch_tank"] = false,
+					["hide_in_combat_alpha"] = 0,
+					["switch_all_roles_after_wipe"] = false,
+					["menu_icons"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						["space"] = -2,
+						["shadow"] = false,
+					},
+					["switch_damager"] = false,
+					["micro_displays_side"] = 2,
+					["window_scale"] = 1,
+					["__snapV"] = true,
+					["auto_hide_menu"] = {
+						["left"] = false,
+						["right"] = false,
+					},
+					["desaturated_menu"] = false,
+					["switch_damager_in_combat"] = false,
+					["hide_icon"] = true,
+					["grab_on_top"] = false,
+					["plugins_grow_direction"] = 1,
+					["auto_current"] = true,
+					["toolbar_side"] = 1,
+					["bg_g"] = 0.0941176470588235,
+					["ignore_mass_showhide"] = false,
+					["hide_in_combat"] = false,
+					["posicao"] = {
+						["normal"] = {
+							["y"] = 37.7526245117188,
+							["x"] = -803.749984741211,
+							["w"] = 312.500030517578,
+							["h"] = 130.000045776367,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["bars_grow_direction"] = 1,
+					["bg_alpha"] = 0.0984569266438484,
+					["wallpaper"] = {
+						["enabled"] = false,
+						["texcoord"] = {
+							0, -- [1]
+							1, -- [2]
+							0, -- [3]
+							0.7, -- [4]
+						},
+						["overlay"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["anchor"] = "all",
+						["height"] = 114.042518615723,
+						["alpha"] = 0.5,
+						["width"] = 283.000183105469,
+					},
+					["stretch_button_side"] = 1,
+					["bars_sort_direction"] = 1,
+					["skin"] = "Minimalistic",
+					["backdrop_texture"] = "Details Ground",
+					["bg_b"] = 0.0941176470588235,
+				}, -- [1]
+				{
+					["__pos"] = {
+						["normal"] = {
+							["y"] = -128.872436523438,
+							["x"] = -803.749984741211,
+							["w"] = 312.500030517578,
+							["h"] = 135.249954223633,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["show_statusbar"] = true,
+					["backdrop_texture"] = "Details Ground",
+					["color"] = {
+						0.333333333333333, -- [1]
+						0.333333333333333, -- [2]
+						0.333333333333333, -- [3]
+						0.379999995231628, -- [4]
+					},
+					["menu_anchor"] = {
+						16, -- [1]
+						0, -- [2]
+						["side"] = 2,
+					},
+					["bars_inverted"] = false,
+					["bg_r"] = 0.0941176470588235,
+					["hide_in_combat_type"] = 1,
+					["hide_out_of_combat"] = false,
+					["skin"] = "Minimalistic",
+					["bars_sort_direction"] = 1,
+					["following"] = {
+						["bar_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["enabled"] = false,
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["color_buttons"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["switch_healer"] = false,
+					["micro_displays_locked"] = true,
+					["total_bar"] = {
+						["enabled"] = false,
+						["only_in_group"] = true,
+						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
+						["color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["__was_opened"] = true,
+					["bg_alpha"] = 0.0984569266438484,
+					["attribute_text"] = {
+						["show_timer"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+						["shadow"] = false,
+						["side"] = 1,
+						["text_size"] = 12,
+						["custom_text"] = "{name}",
+						["text_face"] = "Accidental Presidency",
+						["anchor"] = {
+							-18, -- [1]
+							3, -- [2]
+						},
+						["enabled"] = true,
+						["enable_custom_text"] = false,
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["tooltip"] = {
+						["n_abilities"] = 3,
+						["n_enemies"] = 3,
+					},
+					["StatusBarSaved"] = {
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["options"] = {
+							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
+								["textYMod"] = 1,
+								["textXMod"] = 0,
+								["textFace"] = "Accidental Presidency",
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+							},
+							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["segmentType"] = 2,
+								["textXMod"] = 0,
+								["textFace"] = "Accidental Presidency",
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["textXMod"] = 6,
+								["textFace"] = "Accidental Presidency",
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["timeType"] = 1,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+						},
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+					},
+					["statusbar_info"] = {
+						["alpha"] = 0.379999995231628,
+						["overlay"] = {
+							0.333333333333333, -- [1]
+							0.333333333333333, -- [2]
+							0.333333333333333, -- [3]
+						},
+					},
+					["switch_all_roles_in_combat"] = false,
+					["switch_tank_in_combat"] = false,
+					["version"] = 3,
+					["row_info"] = {
+						["textR_outline"] = false,
+						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
+						["textL_outline"] = false,
+						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
+						["textR_show_data"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+						["percent_type"] = 1,
+						["fixed_text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["space"] = {
+							["right"] = 0,
+							["left"] = 0,
+							["between"] = 0,
+						},
+						["texture_background_class_color"] = false,
+						["start_after_icon"] = false,
+						["font_face_file"] = "Fonts\\ARKai_T.ttf",
+						["textL_custom_text"] = "{data1}. {data3}{data2}",
+						["models"] = {
+							["upper_model"] = "Spells\\AcidBreath_SuperGreen.M2",
+							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
+							["upper_alpha"] = 0.5,
+							["lower_enabled"] = false,
+							["lower_alpha"] = 0.1,
+							["upper_enabled"] = false,
+						},
+						["texture_custom_file"] = "Interface\\",
+						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
+						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small",
+						["height"] = 14,
+						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
+						["use_spec_icons"] = true,
+						["texture_custom"] = "",
+						["font_size"] = 10,
+						["fixed_texture_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+						},
+						["textL_show_number"] = true,
+						["backdrop"] = {
+							["enabled"] = false,
+							["texture"] = "Details BarBorder 2",
+							["color"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["size"] = 12,
+						},
+						["textR_enable_custom_text"] = false,
+						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
+						["texture"] = "BantoBar",
+						["textR_outline_small"] = true,
+						["textL_enable_custom_text"] = false,
+						["fixed_texture_background_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.150228589773178, -- [4]
+						},
+						["texture_background"] = "Details D'ictum (reverse)",
+						["alpha"] = 1,
+						["textL_class_colors"] = false,
+						["textR_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["no_icon"] = false,
+						["textR_class_colors"] = false,
+						["textL_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["font_face"] = "Accidental Presidency",
+						["texture_class_colors"] = true,
+						["textL_outline_small"] = true,
+						["fast_ps_update"] = false,
+						["textR_separator"] = ",",
+						["textR_bracket"] = "(",
+					},
+					["__locked"] = true,
+					["menu_alpha"] = {
+						["enabled"] = false,
+						["onleave"] = 1,
+						["ignorebars"] = false,
+						["iconstoo"] = true,
+						["onenter"] = 1,
+					},
+					["window_scale"] = 1,
+					["switch_all_roles_after_wipe"] = false,
+					["auto_hide_menu"] = {
+						["left"] = false,
+						["right"] = false,
+					},
+					["strata"] = "LOW",
+					["bars_grow_direction"] = 1,
+					["__snap"] = {
+						[4] = 1,
+					},
+					["switch_tank"] = false,
+					["hide_in_combat_alpha"] = 0,
+					["plugins_grow_direction"] = 1,
+					["menu_icons"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						["space"] = -2,
+						["shadow"] = false,
+					},
+					["libwindow"] = {
+						["y"] = -128.872406005859,
+						["x"] = 0,
+						["point"] = "LEFT",
+					},
+					["show_sidebars"] = false,
+					["__snapV"] = true,
+					["menu_anchor_down"] = {
+						16, -- [1]
+						-3, -- [2]
+					},
+					["micro_displays_side"] = 2,
+					["switch_damager"] = false,
+					["switch_damager_in_combat"] = false,
+					["hide_icon"] = true,
+					["grab_on_top"] = false,
+					["ignore_mass_showhide"] = false,
+					["auto_current"] = true,
+					["toolbar_side"] = 1,
+					["bg_g"] = 0.0941176470588235,
+					["desaturated_menu"] = false,
+					["hide_in_combat"] = false,
+					["posicao"] = {
+						["normal"] = {
+							["y"] = -128.872436523438,
+							["x"] = -803.749984741211,
+							["w"] = 312.500030517578,
+							["h"] = 135.249954223633,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["row_show_animation"] = {
+						["anim"] = "Fade",
+						["options"] = {
+						},
+					},
+					["instance_button_anchor"] = {
+						-27, -- [1]
+						1, -- [2]
+					},
+					["wallpaper"] = {
+						["overlay"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["texcoord"] = {
+							0, -- [1]
+							1, -- [2]
+							0, -- [3]
+							0.7, -- [4]
+						},
+						["enabled"] = false,
+						["anchor"] = "all",
+						["height"] = 114.042518615723,
+						["alpha"] = 0.5,
+						["width"] = 283.000183105469,
+					},
+					["stretch_button_side"] = 1,
+					["skin_custom"] = "",
+					["switch_healer_in_combat"] = false,
+					["menu_icons_size"] = 0.850000023841858,
+					["bg_b"] = 0.0941176470588235,
+				}, -- [2]
+			},
+			["deadlog_limit"] = 16,
+			["instances_segments_locked"] = true,
+			["instances_no_libwindow"] = false,
+			["minimum_combat_time"] = 5,
+			["data_broker_text"] = "",
+			["cloud_capture"] = true,
+			["damage_taken_everything"] = true,
+			["scroll_speed"] = 2,
+			["new_window_size"] = {
+				["height"] = 130,
+				["width"] = 320,
+			},
+			["memory_threshold"] = 3,
+			["deadlog_events"] = 45,
+			["class_specs_coords"] = {
+				[62] = {
+					0.251953125, -- [1]
+					0.375, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[63] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[250] = {
+					0, -- [1]
+					0.125, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[251] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[252] = {
+					0.25, -- [1]
+					0.375, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[253] = {
+					0.875, -- [1]
+					1, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[254] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[255] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[66] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[257] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[258] = {
+					0.6328125, -- [1]
+					0.75, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[259] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[260] = {
+					0.875, -- [1]
+					1, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[577] = {
+					0.25, -- [1]
+					0.375, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[262] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[581] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[264] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[265] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[266] = {
+					0.625, -- [1]
+					0.75, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[267] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[268] = {
+					0.625, -- [1]
+					0.75, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[269] = {
+					0.875, -- [1]
+					1, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[270] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[70] = {
+					0.251953125, -- [1]
+					0.375, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[102] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[71] = {
+					0.875, -- [1]
+					1, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[103] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[72] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[104] = {
+					0.625, -- [1]
+					0.75, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[73] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[64] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[105] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[65] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[256] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[261] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[263] = {
+					0.25, -- [1]
+					0.375, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+			},
+			["close_shields"] = false,
+			["class_coords"] = {
+				["HUNTER"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["WARRIOR"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["SHAMAN"] = {
+					0.25, -- [1]
+					0.49609375, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["MAGE"] = {
+					0.25, -- [1]
+					0.49609375, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["PET"] = {
+					0.25, -- [1]
+					0.49609375, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["DRUID"] = {
+					0.7421875, -- [1]
+					0.98828125, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["MONK"] = {
+					0.5, -- [1]
+					0.73828125, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["DEATHKNIGHT"] = {
+					0.25, -- [1]
+					0.5, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["MONSTER"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["UNKNOW"] = {
+					0.5, -- [1]
+					0.75, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["PRIEST"] = {
+					0.49609375, -- [1]
+					0.7421875, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["ROGUE"] = {
+					0.49609375, -- [1]
+					0.7421875, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["Alliance"] = {
+					0.49609375, -- [1]
+					0.7421875, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["WARLOCK"] = {
+					0.7421875, -- [1]
+					0.98828125, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["DEMONHUNTER"] = {
+					0.73828126, -- [1]
+					1, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["Horde"] = {
+					0.7421875, -- [1]
+					0.98828125, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["PALADIN"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["ENEMY"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["UNGROUPPLAYER"] = {
+					0.5, -- [1]
+					0.75, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+			},
+			["font_sizes"] = {
+				["menus"] = 10,
+			},
+			["disable_alldisplays_window"] = false,
+			["overall_clear_newboss"] = false,
+			["report_schema"] = 1,
+			["hotcorner_topleft"] = {
+				["hide"] = false,
+			},
+			["total_abbreviation"] = 2,
+			["clear_graphic"] = false,
+			["class_colors"] = {
+				["HUNTER"] = {
+					0.67, -- [1]
+					0.83, -- [2]
+					0.45, -- [3]
+				},
+				["WARRIOR"] = {
+					0.78, -- [1]
+					0.61, -- [2]
+					0.43, -- [3]
+				},
+				["ROGUE"] = {
+					1, -- [1]
+					0.96, -- [2]
+					0.41, -- [3]
+				},
+				["MAGE"] = {
+					0.41, -- [1]
+					0.8, -- [2]
+					0.94, -- [3]
+				},
+				["ARENA_YELLOW"] = {
+					0.9, -- [1]
+					0.9, -- [2]
+					0, -- [3]
+				},
+				["UNGROUPPLAYER"] = {
+					0.4, -- [1]
+					0.4, -- [2]
+					0.4, -- [3]
+				},
+				["DRUID"] = {
+					1, -- [1]
+					0.49, -- [2]
+					0.04, -- [3]
+				},
+				["MONK"] = {
+					0, -- [1]
+					1, -- [2]
+					0.59, -- [3]
+				},
+				["DEATHKNIGHT"] = {
+					0.77, -- [1]
+					0.12, -- [2]
+					0.23, -- [3]
+				},
+				["ARENA_GREEN"] = {
+					0.1, -- [1]
+					0.85, -- [2]
+					0.1, -- [3]
+				},
+				["UNKNOW"] = {
+					0.2, -- [1]
+					0.2, -- [2]
+					0.2, -- [3]
+				},
+				["PRIEST"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["PET"] = {
+					0.3, -- [1]
+					0.4, -- [2]
+					0.5, -- [3]
+				},
+				["WARLOCK"] = {
+					0.58, -- [1]
+					0.51, -- [2]
+					0.79, -- [3]
+				},
+				["ENEMY"] = {
+					0.94117, -- [1]
+					0, -- [2]
+					0.0196, -- [3]
+					1, -- [4]
+				},
+				["DEMONHUNTER"] = {
+					0.64, -- [1]
+					0.19, -- [2]
+					0.79, -- [3]
+				},
+				["version"] = 1,
+				["NEUTRAL"] = {
+					1, -- [1]
+					1, -- [2]
+					0, -- [3]
+				},
+				["SHAMAN"] = {
+					0, -- [1]
+					0.44, -- [2]
+					0.87, -- [3]
+				},
+				["PALADIN"] = {
+					0.96, -- [1]
+					0.55, -- [2]
+					0.73, -- [3]
+				},
+			},
+			["segments_auto_erase"] = 2,
+			["options_group_edit"] = true,
+			["segments_amount_to_save"] = 25,
+			["minimap"] = {
+				["onclick_what_todo"] = 1,
+				["radius"] = 160,
+				["text_type"] = 1,
+				["minimapPos"] = 214.649611459411,
+				["text_format"] = 3,
+				["hide"] = true,
+			},
+			["instances_amount"] = 5,
+			["max_window_size"] = {
+				["height"] = 450,
+				["width"] = 480,
+			},
+			["use_scroll"] = false,
+			["only_pvp_frags"] = false,
+			["disable_stretch_button"] = false,
+			["time_type_original"] = 2,
+			["standard_skin"] = false,
+			["window_clamp"] = {
+				-8, -- [1]
+				0, -- [2]
+				21, -- [3]
+				-14, -- [4]
+			},
+			["segments_panic_mode"] = false,
+			["numerical_system_symbols"] = "auto",
+			["default_bg_color"] = 0.0941,
+			["row_fade_out"] = {
+				"out", -- [1]
+				0.2, -- [2]
+			},
+			["trash_auto_remove"] = false,
+			["death_tooltip_width"] = 300,
+			["windows_fade_out"] = {
+				"out", -- [1]
+				0.2, -- [2]
+			},
+			["force_activity_time_pvp"] = true,
+			["pvp_as_group"] = true,
+			["overall_clear_logout"] = false,
+			["disable_reset_button"] = false,
+			["animate_scroll"] = false,
+			["chat_tab_embed"] = {
+				["enabled"] = false,
+				["tab_name"] = "",
+				["single_window"] = false,
+			},
+			["clear_ungrouped"] = true,
+			["default_bg_alpha"] = 0.5,
+			["use_battleground_server_parser"] = true,
+		},
+		["龙剑曦-主宰之剑"] = {
+			["capture_real"] = {
+				["heal"] = true,
+				["spellcast"] = true,
+				["miscdata"] = true,
+				["aura"] = true,
+				["energy"] = true,
+				["damage"] = true,
+			},
+			["row_fade_in"] = {
+				"in", -- [1]
+				0.2, -- [2]
+			},
+			["player_details_window"] = {
+				["scale"] = 1,
+				["bar_texture"] = "Skyline",
+				["skin"] = "ElvUI",
+			},
+			["numerical_system"] = 1,
+			["use_row_animations"] = true,
+			["report_heal_links"] = true,
+			["remove_realm_from_name"] = true,
+			["class_icons_small"] = "Interface\\AddOns\\Details\\images\\classes_small",
+			["report_to_who"] = "",
+			["overall_flag"] = 15,
+			["profile_save_pos"] = true,
+			["tooltip"] = {
+				["header_statusbar"] = {
+					0.3, -- [1]
+					0.3, -- [2]
+					0.3, -- [3]
+					0.8, -- [4]
+					false, -- [5]
+					false, -- [6]
+					"WorldState Score", -- [7]
+				},
+				["fontcolor_right"] = {
+					1, -- [1]
+					0.7, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["tooltip_max_targets"] = 2,
+				["icon_size"] = {
+					["W"] = 13,
+					["H"] = 13,
+				},
+				["tooltip_max_pets"] = 2,
+				["anchor_relative"] = "top",
+				["abbreviation"] = 2,
+				["anchored_to"] = 1,
+				["show_amount"] = false,
+				["header_text_color"] = {
+					1, -- [1]
+					0.9176, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["fontsize"] = 10,
+				["background"] = {
+					0.196, -- [1]
+					0.196, -- [2]
+					0.196, -- [3]
+					0.8697, -- [4]
+				},
+				["submenu_wallpaper"] = true,
+				["fontsize_title"] = 10,
+				["icon_border_texcoord"] = {
+					["B"] = 0.921875,
+					["L"] = 0.078125,
+					["T"] = 0.078125,
+					["R"] = 0.921875,
+				},
+				["commands"] = {
+				},
+				["tooltip_max_abilities"] = 5,
+				["fontface"] = "Friz Quadrata TT",
+				["border_color"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					0, -- [4]
+				},
+				["border_texture"] = "Blizzard Tooltip",
+				["anchor_offset"] = {
+					0, -- [1]
+					0, -- [2]
+				},
+				["fontshadow"] = false,
+				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
+				["border_size"] = 16,
+				["maximize_method"] = 1,
+				["anchor_screen_pos"] = {
+					507.7, -- [1]
+					-350.5, -- [2]
+				},
+				["anchor_point"] = "bottom",
+				["menus_bg_coords"] = {
+					0.309777336120606, -- [1]
+					0.924000015258789, -- [2]
+					0.213000011444092, -- [3]
+					0.279000015258789, -- [4]
+				},
+				["fontcolor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					1, -- [4]
+				},
+				["menus_bg_color"] = {
+					0.8, -- [1]
+					0.8, -- [2]
+					0.8, -- [3]
+					0.2, -- [4]
+				},
+			},
+			["ps_abbreviation"] = 2,
+			["world_combat_is_trash"] = false,
+			["update_speed"] = 0.0500000007450581,
+			["track_item_level"] = true,
+			["windows_fade_in"] = {
+				"in", -- [1]
+				0.2, -- [2]
+			},
+			["instances_menu_click_to_open"] = false,
+			["overall_clear_newchallenge"] = true,
+			["time_type"] = 2,
+			["instances_disable_bar_highlight"] = false,
+			["trash_concatenate"] = false,
+			["disable_stretch_from_toolbar"] = false,
+			["disable_lock_ungroup_buttons"] = true,
+			["memory_ram"] = 64,
+			["disable_window_groups"] = false,
+			["instances_suppress_trash"] = 0,
+			["font_faces"] = {
+				["menus"] = "Arial Narrow",
+			},
+			["segments_amount"] = 25,
+			["report_lines"] = 20,
+			["skin"] = "WoW Interface",
+			["override_spellids"] = true,
+			["use_battleground_server_parser"] = true,
+			["default_bg_alpha"] = 0.5,
+			["clear_ungrouped"] = true,
+			["chat_tab_embed"] = {
+				["enabled"] = false,
+				["tab_name"] = "",
+				["w2_pos"] = {
+					["y"] = -184.745407104492,
+					["x"] = 0,
+					["point"] = "LEFT",
+					["h"] = 130.000045776367,
+					["x_legacy"] = -803.749984741211,
+					["y_legacy"] = -184.745391845703,
+					["w"] = 312.500030517578,
+					["pos_table"] = true,
+				},
+				["single_window"] = false,
+				["w1_pos"] = {
+					["y"] = -20.745361328125,
+					["x"] = 0,
+					["point"] = "LEFT",
+					["h"] = 130.000045776367,
+					["x_legacy"] = -803.749984741211,
+					["y_legacy"] = -20.745361328125,
+					["w"] = 312.500030517578,
+					["pos_table"] = true,
+				},
+			},
+			["minimum_combat_time"] = 5,
+			["animate_scroll"] = false,
+			["cloud_capture"] = true,
+			["damage_taken_everything"] = false,
+			["scroll_speed"] = 2,
+			["new_window_size"] = {
+				["height"] = 130,
+				["width"] = 320,
+			},
+			["memory_threshold"] = 3,
+			["deadlog_events"] = 45,
+			["class_specs_coords"] = {
+				[62] = {
+					0.251953125, -- [1]
+					0.375, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[63] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[250] = {
+					0, -- [1]
+					0.125, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[251] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[252] = {
+					0.25, -- [1]
+					0.375, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[253] = {
+					0.875, -- [1]
+					1, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[254] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[255] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[66] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[257] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[258] = {
+					0.6328125, -- [1]
+					0.75, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[259] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[260] = {
+					0.875, -- [1]
+					1, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[577] = {
+					0.25, -- [1]
+					0.375, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[262] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[581] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[264] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[265] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[266] = {
+					0.625, -- [1]
+					0.75, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[267] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[268] = {
+					0.625, -- [1]
+					0.75, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[269] = {
+					0.875, -- [1]
+					1, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[270] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[70] = {
+					0.251953125, -- [1]
+					0.375, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[102] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[71] = {
+					0.875, -- [1]
+					1, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[103] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[72] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[104] = {
+					0.625, -- [1]
+					0.75, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[73] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[64] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[105] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[65] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[256] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[261] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[263] = {
+					0.25, -- [1]
+					0.375, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+			},
+			["close_shields"] = false,
+			["class_coords"] = {
+				["HUNTER"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["WARRIOR"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["SHAMAN"] = {
+					0.25, -- [1]
+					0.49609375, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["MAGE"] = {
+					0.25, -- [1]
+					0.49609375, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["PET"] = {
+					0.25, -- [1]
+					0.49609375, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["DRUID"] = {
+					0.7421875, -- [1]
+					0.98828125, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["MONK"] = {
+					0.5, -- [1]
+					0.73828125, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["DEATHKNIGHT"] = {
+					0.25, -- [1]
+					0.5, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["MONSTER"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["UNKNOW"] = {
+					0.5, -- [1]
+					0.75, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["PRIEST"] = {
+					0.49609375, -- [1]
+					0.7421875, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["ROGUE"] = {
+					0.49609375, -- [1]
+					0.7421875, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["Alliance"] = {
+					0.49609375, -- [1]
+					0.7421875, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["WARLOCK"] = {
+					0.7421875, -- [1]
+					0.98828125, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["DEMONHUNTER"] = {
+					0.73828126, -- [1]
+					1, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["Horde"] = {
+					0.7421875, -- [1]
+					0.98828125, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["PALADIN"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["UNGROUPPLAYER"] = {
+					0.5, -- [1]
+					0.75, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["ENEMY"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+			},
+			["overall_clear_logout"] = false,
+			["disable_alldisplays_window"] = false,
+			["pvp_as_group"] = true,
+			["force_activity_time_pvp"] = true,
+			["windows_fade_out"] = {
+				"out", -- [1]
+				0.2, -- [2]
+			},
+			["death_tooltip_width"] = 300,
+			["clear_graphic"] = false,
+			["total_abbreviation"] = 2,
+			["segments_auto_erase"] = 2,
+			["options_group_edit"] = true,
+			["segments_amount_to_save"] = 25,
+			["minimap"] = {
+				["onclick_what_todo"] = 1,
+				["radius"] = 160,
+				["text_type"] = 1,
+				["minimapPos"] = 214.649611459411,
+				["text_format"] = 3,
+				["hide"] = true,
+			},
+			["instances_amount"] = 5,
+			["max_window_size"] = {
+				["height"] = 450,
+				["width"] = 480,
+			},
+			["trash_auto_remove"] = false,
+			["only_pvp_frags"] = false,
+			["disable_stretch_button"] = false,
+			["time_type_original"] = 2,
+			["default_bg_color"] = 0.0941,
+			["numerical_system_symbols"] = "auto",
+			["segments_panic_mode"] = false,
+			["window_clamp"] = {
+				-8, -- [1]
+				0, -- [2]
+				21, -- [3]
+				-14, -- [4]
+			},
+			["standard_skin"] = false,
+			["row_fade_out"] = {
+				"out", -- [1]
+				0.2, -- [2]
+			},
+			["use_scroll"] = false,
+			["hotcorner_topleft"] = {
+				["hide"] = false,
+			},
+			["class_colors"] = {
+				["HUNTER"] = {
+					0.67, -- [1]
+					0.83, -- [2]
+					0.45, -- [3]
+				},
+				["WARRIOR"] = {
+					0.78, -- [1]
+					0.61, -- [2]
+					0.43, -- [3]
+				},
+				["ROGUE"] = {
+					1, -- [1]
+					0.96, -- [2]
+					0.41, -- [3]
+				},
+				["MAGE"] = {
+					0.41, -- [1]
+					0.8, -- [2]
+					0.94, -- [3]
+				},
+				["ARENA_YELLOW"] = {
+					0.9, -- [1]
+					0.9, -- [2]
+					0, -- [3]
+				},
+				["UNGROUPPLAYER"] = {
+					0.4, -- [1]
+					0.4, -- [2]
+					0.4, -- [3]
+				},
+				["DRUID"] = {
+					1, -- [1]
+					0.49, -- [2]
+					0.04, -- [3]
+				},
+				["MONK"] = {
+					0, -- [1]
+					1, -- [2]
+					0.59, -- [3]
+				},
+				["DEATHKNIGHT"] = {
+					0.77, -- [1]
+					0.12, -- [2]
+					0.23, -- [3]
+				},
+				["PET"] = {
+					0.3, -- [1]
+					0.4, -- [2]
+					0.5, -- [3]
+				},
+				["UNKNOW"] = {
+					0.2, -- [1]
+					0.2, -- [2]
+					0.2, -- [3]
+				},
+				["PRIEST"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["WARLOCK"] = {
+					0.58, -- [1]
+					0.51, -- [2]
+					0.79, -- [3]
+				},
+				["PALADIN"] = {
+					0.96, -- [1]
+					0.55, -- [2]
+					0.73, -- [3]
+				},
+				["ENEMY"] = {
+					0.94117, -- [1]
+					0, -- [2]
+					0.0196, -- [3]
+					1, -- [4]
+				},
+				["DEMONHUNTER"] = {
+					0.64, -- [1]
+					0.19, -- [2]
+					0.79, -- [3]
+				},
+				["version"] = 1,
+				["NEUTRAL"] = {
+					1, -- [1]
+					1, -- [2]
+					0, -- [3]
+				},
+				["SHAMAN"] = {
+					0, -- [1]
+					0.44, -- [2]
+					0.87, -- [3]
+				},
+				["ARENA_GREEN"] = {
+					0.1, -- [1]
+					0.85, -- [2]
+					0.1, -- [3]
+				},
+			},
+			["report_schema"] = 1,
+			["overall_clear_newboss"] = true,
+			["font_sizes"] = {
+				["menus"] = 10,
+			},
+			["disable_reset_button"] = false,
+			["data_broker_text"] = "",
+			["instances_no_libwindow"] = false,
+			["instances_segments_locked"] = true,
+			["deadlog_limit"] = 16,
+			["instances"] = {
+				{
+					["__pos"] = {
+						["normal"] = {
+							["y"] = 18.2605243610419,
+							["x"] = -802.433978146321,
+							["w"] = 312.500152587891,
+							["h"] = 130.000396728516,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["hide_in_combat_type"] = 1,
+					["menu_icons_size"] = 0.850000023841858,
+					["color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						0, -- [4]
+					},
+					["menu_anchor"] = {
+						16, -- [1]
+						0, -- [2]
+						["side"] = 2,
+					},
+					["__snapV"] = true,
+					["__snapH"] = false,
+					["bg_r"] = 0.0941176470588235,
+					["statusbar_info"] = {
+						["alpha"] = 0,
+						["overlay"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["switch_healer_in_combat"] = false,
+					["hide_out_of_combat"] = false,
+					["__was_opened"] = true,
+					["following"] = {
+						["enabled"] = false,
+						["bar_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["color_buttons"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["switch_healer"] = false,
+					["bars_sort_direction"] = 1,
+					["show_sidebars"] = false,
+					["skin"] = "Minimalistic",
+					["stretch_button_side"] = 1,
+					["bars_grow_direction"] = 1,
+					["tooltip"] = {
+						["n_abilities"] = 3,
+						["n_enemies"] = 3,
+					},
+					["StatusBarSaved"] = {
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["options"] = {
+							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
+								["textYMod"] = 1,
+								["textXMod"] = 0,
+								["textFace"] = "Accidental Presidency",
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+							},
+							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["segmentType"] = 2,
+								["textFace"] = "Accidental Presidency",
+								["textXMod"] = 0,
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["textFace"] = "Accidental Presidency",
+								["textXMod"] = 6,
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["timeType"] = 1,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+						},
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+					},
+					["bg_alpha"] = 0.0984569266438484,
+					["switch_all_roles_in_combat"] = false,
+					["instance_button_anchor"] = {
+						-27, -- [1]
+						1, -- [2]
+					},
+					["version"] = 3,
+					["row_info"] = {
+						["textR_outline"] = false,
+						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
+						["textL_outline"] = false,
+						["textR_outline_small"] = true,
+						["textL_outline_small"] = true,
+						["textL_enable_custom_text"] = false,
+						["fixed_text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["space"] = {
+							["right"] = 0,
+							["left"] = 0,
+							["between"] = 0,
+						},
+						["texture_background_class_color"] = false,
+						["start_after_icon"] = false,
+						["font_face_file"] = "Fonts\\ARKai_T.ttf",
+						["textL_custom_text"] = "{data1}. {data3}{data2}",
+						["font_size"] = 10,
+						["height"] = 14,
+						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
+						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small",
+						["textR_bracket"] = "[",
+						["models"] = {
+							["upper_model"] = "Spells\\6FX_Bonfire.M2",
+							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
+							["upper_alpha"] = 0.402470767498016,
+							["lower_enabled"] = false,
+							["lower_alpha"] = 0.1,
+							["upper_enabled"] = false,
+						},
+						["use_spec_icons"] = true,
+						["textR_enable_custom_text"] = false,
+						["backdrop"] = {
+							["enabled"] = false,
+							["size"] = 12,
+							["color"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["texture"] = "Details BarBorder 2",
+						},
+						["fixed_texture_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["textL_show_number"] = true,
+						["fixed_texture_background_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.150228589773178, -- [4]
+						},
+						["texture_custom"] = "",
+						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
+						["texture"] = "BantoBar",
+						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
+						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
+						["textL_class_colors"] = false,
+						["textR_class_colors"] = false,
+						["textR_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["texture_background"] = "Details D'ictum (reverse)",
+						["alpha"] = 1,
+						["no_icon"] = false,
+						["percent_type"] = 1,
+						["textL_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["font_face"] = "AR ZhongkaiGBK Medium",
+						["texture_class_colors"] = true,
+						["textR_show_data"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+						["fast_ps_update"] = true,
+						["textR_separator"] = "|",
+						["texture_custom_file"] = "Interface\\",
+					},
+					["__locked"] = false,
+					["menu_alpha"] = {
+						["enabled"] = false,
+						["onenter"] = 1,
+						["iconstoo"] = true,
+						["ignorebars"] = false,
+						["onleave"] = 1,
+					},
+					["switch_tank_in_combat"] = false,
+					["row_show_animation"] = {
+						["anim"] = "Fade",
+						["options"] = {
+						},
+					},
+					["menu_anchor_down"] = {
+						16, -- [1]
+						-3, -- [2]
+					},
+					["strata"] = "LOW",
+					["switch_damager_in_combat"] = false,
+					["__snap"] = {
+						[2] = 2,
+					},
+					["switch_tank"] = false,
+					["hide_in_combat_alpha"] = 0,
+					["switch_all_roles_after_wipe"] = false,
+					["menu_icons"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						["space"] = -2,
+						["shadow"] = false,
+					},
+					["switch_damager"] = false,
+					["micro_displays_side"] = 2,
+					["libwindow"] = {
+						["y"] = 18.2604976525399,
+						["x"] = 1.50004375903808,
+						["point"] = "LEFT",
+					},
+					["window_scale"] = 0.99882173538208,
+					["attribute_text"] = {
+						["enabled"] = true,
+						["shadow"] = false,
+						["side"] = 1,
+						["text_size"] = 12,
+						["custom_text"] = "{name}",
+						["text_face"] = "Arial Narrow",
+						["anchor"] = {
+							3, -- [1]
+							3, -- [2]
+						},
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["enable_custom_text"] = false,
+						["show_timer"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+					},
+					["auto_hide_menu"] = {
+						["left"] = false,
+						["right"] = false,
+					},
+					["desaturated_menu"] = false,
+					["grab_on_top"] = false,
+					["plugins_grow_direction"] = 1,
+					["ignore_mass_showhide"] = false,
+					["auto_current"] = true,
+					["toolbar_side"] = 1,
+					["bg_g"] = 0.0941176470588235,
+					["skin_custom"] = "",
+					["hide_in_combat"] = false,
+					["posicao"] = {
+						["normal"] = {
+							["y"] = 18.2605243610419,
+							["x"] = -802.433978146321,
+							["w"] = 312.500152587891,
+							["h"] = 130.000396728516,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["show_statusbar"] = true,
+					["backdrop_texture"] = "Details Ground",
+					["wallpaper"] = {
+						["enabled"] = false,
+						["width"] = 312.500030517578,
+						["texcoord"] = {
+							0, -- [1]
+							1, -- [2]
+							0, -- [3]
+							0.7, -- [4]
+						},
+						["overlay"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["anchor"] = "all",
+						["height"] = 130.000045776367,
+						["alpha"] = 0.5,
+						["texture"] = "Interface\\AddOns\\Details\\images\\background",
+					},
+					["total_bar"] = {
+						["enabled"] = true,
+						["only_in_group"] = false,
+						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
+						["color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["bars_inverted"] = false,
+					["hide_icon"] = false,
+					["micro_displays_locked"] = true,
+					["bg_b"] = 0.0941176470588235,
+				}, -- [1]
+				{
+					["__pos"] = {
+						["normal"] = {
+							["y"] = -145.546761794067,
+							["x"] = -802.433978146321,
+							["w"] = 312.500152587891,
+							["h"] = 130.000640869141,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["hide_in_combat_type"] = 1,
+					["menu_icons_size"] = 0.850000023841858,
+					["color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						0, -- [4]
+					},
+					["menu_anchor"] = {
+						16, -- [1]
+						0, -- [2]
+						["side"] = 2,
+					},
+					["__snapV"] = true,
+					["__snapH"] = false,
+					["bg_r"] = 0.0941176470588235,
+					["statusbar_info"] = {
+						["alpha"] = 0,
+						["overlay"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["switch_healer_in_combat"] = false,
+					["hide_out_of_combat"] = false,
+					["__was_opened"] = true,
+					["following"] = {
+						["bar_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["enabled"] = false,
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["color_buttons"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["switch_healer"] = false,
+					["bars_sort_direction"] = 1,
+					["show_sidebars"] = false,
+					["skin"] = "Minimalistic",
+					["stretch_button_side"] = 1,
+					["bars_grow_direction"] = 1,
+					["tooltip"] = {
+						["n_abilities"] = 3,
+						["n_enemies"] = 3,
+					},
+					["StatusBarSaved"] = {
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["options"] = {
+							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
+								["textYMod"] = 1,
+								["textXMod"] = 0,
+								["textFace"] = "Accidental Presidency",
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+							},
+							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["segmentType"] = 2,
+								["textFace"] = "Accidental Presidency",
+								["textXMod"] = 0,
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["textFace"] = "Accidental Presidency",
+								["textXMod"] = 6,
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["timeType"] = 1,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+						},
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+					},
+					["bg_alpha"] = 0.0984569266438484,
+					["switch_all_roles_in_combat"] = false,
+					["switch_tank_in_combat"] = false,
+					["version"] = 3,
+					["row_info"] = {
+						["textR_outline"] = false,
+						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
+						["textL_outline"] = false,
+						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
+						["textL_outline_small"] = true,
+						["textL_enable_custom_text"] = false,
+						["fixed_text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["space"] = {
+							["right"] = 0,
+							["left"] = 0,
+							["between"] = 0,
+						},
+						["texture_background_class_color"] = false,
+						["start_after_icon"] = false,
+						["font_face_file"] = "Fonts\\ARKai_T.ttf",
+						["textL_custom_text"] = "{data1}. {data3}{data2}",
+						["models"] = {
+							["upper_model"] = "Spells\\6FX_Bonfire.M2",
+							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
+							["upper_alpha"] = 0.402470767498016,
+							["lower_enabled"] = false,
+							["lower_alpha"] = 0.1,
+							["upper_enabled"] = false,
+						},
+						["texture_custom_file"] = "Interface\\",
+						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
+						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small",
+						["height"] = 14,
+						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
+						["use_spec_icons"] = true,
+						["textR_enable_custom_text"] = false,
+						["font_size"] = 10,
+						["fixed_texture_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["textL_show_number"] = true,
+						["texture"] = "BantoBar",
+						["percent_type"] = 1,
+						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
+						["fixed_texture_background_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.150228589773178, -- [4]
+						},
+						["textR_outline_small"] = true,
+						["backdrop"] = {
+							["enabled"] = false,
+							["texture"] = "Details BarBorder 2",
+							["color"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["size"] = 12,
+						},
+						["textR_show_data"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+						["texture_background"] = "Details D'ictum (reverse)",
+						["alpha"] = 1,
+						["textL_class_colors"] = false,
+						["textR_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["no_icon"] = false,
+						["textR_class_colors"] = false,
+						["texture_custom"] = "",
+						["font_face"] = "AR ZhongkaiGBK Medium",
+						["texture_class_colors"] = true,
+						["textL_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["fast_ps_update"] = true,
+						["textR_separator"] = "|",
+						["textR_bracket"] = "[",
+					},
+					["__locked"] = false,
+					["menu_alpha"] = {
+						["enabled"] = false,
+						["onleave"] = 1,
+						["ignorebars"] = false,
+						["iconstoo"] = true,
+						["onenter"] = 1,
+					},
+					["instance_button_anchor"] = {
+						-27, -- [1]
+						1, -- [2]
+					},
+					["row_show_animation"] = {
+						["anim"] = "Fade",
+						["options"] = {
+						},
+					},
+					["menu_anchor_down"] = {
+						16, -- [1]
+						-3, -- [2]
+					},
+					["strata"] = "LOW",
+					["switch_damager_in_combat"] = false,
+					["__snap"] = {
+						[4] = 1,
+					},
+					["switch_tank"] = false,
+					["hide_in_combat_alpha"] = 0,
+					["switch_all_roles_after_wipe"] = false,
+					["menu_icons"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						["space"] = -2,
+						["shadow"] = false,
+					},
+					["switch_damager"] = false,
+					["micro_displays_side"] = 2,
+					["libwindow"] = {
+						["y"] = -145.546785137667,
+						["x"] = 1.50004375903808,
+						["point"] = "LEFT",
+					},
+					["window_scale"] = 0.99882173538208,
+					["attribute_text"] = {
+						["show_timer"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+						["shadow"] = false,
+						["side"] = 1,
+						["text_size"] = 12,
+						["custom_text"] = "{name}",
+						["text_face"] = "Arial Narrow",
+						["anchor"] = {
+							3, -- [1]
+							3, -- [2]
+						},
+						["enabled"] = true,
+						["enable_custom_text"] = false,
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["auto_hide_menu"] = {
+						["left"] = false,
+						["right"] = false,
+					},
+					["desaturated_menu"] = false,
+					["grab_on_top"] = false,
+					["plugins_grow_direction"] = 1,
+					["ignore_mass_showhide"] = false,
+					["auto_current"] = true,
+					["toolbar_side"] = 1,
+					["bg_g"] = 0.0941176470588235,
+					["skin_custom"] = "",
+					["hide_in_combat"] = false,
+					["posicao"] = {
+						["normal"] = {
+							["y"] = -145.546761794067,
+							["x"] = -802.433978146321,
+							["w"] = 312.500152587891,
+							["h"] = 130.000640869141,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["show_statusbar"] = true,
+					["backdrop_texture"] = "Details Ground",
+					["wallpaper"] = {
+						["overlay"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["width"] = 283.000183105469,
+						["texcoord"] = {
+							0, -- [1]
+							1, -- [2]
+							0, -- [3]
+							0.7, -- [4]
+						},
+						["enabled"] = false,
+						["anchor"] = "all",
+						["height"] = 114.042518615723,
+						["alpha"] = 0.5,
+						["texture"] = "Interface\\AddOns\\Details\\images\\background",
+					},
+					["total_bar"] = {
+						["enabled"] = true,
+						["only_in_group"] = false,
+						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
+						["color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["bars_inverted"] = false,
+					["hide_icon"] = false,
+					["micro_displays_locked"] = true,
+					["bg_b"] = 0.0941176470588235,
+				}, -- [2]
+			},
+		},
+		["龙轻雪-主宰之剑"] = {
+			["capture_real"] = {
+				["heal"] = true,
+				["spellcast"] = true,
+				["miscdata"] = true,
+				["aura"] = true,
+				["energy"] = true,
+				["damage"] = true,
+			},
+			["row_fade_in"] = {
+				"in", -- [1]
+				0.2, -- [2]
+			},
+			["player_details_window"] = {
+				["scale"] = 1,
+				["bar_texture"] = "Skyline",
+				["skin"] = "ElvUI",
+			},
+			["numerical_system"] = 1,
+			["use_row_animations"] = false,
+			["report_heal_links"] = false,
+			["remove_realm_from_name"] = true,
+			["class_icons_small"] = "Interface\\AddOns\\Details\\images\\classes_small",
+			["report_to_who"] = "",
+			["overall_flag"] = 13,
+			["profile_save_pos"] = true,
+			["tooltip"] = {
+				["header_statusbar"] = {
+					0.3, -- [1]
+					0.3, -- [2]
+					0.3, -- [3]
+					0.8, -- [4]
+					false, -- [5]
+					false, -- [6]
+					"WorldState Score", -- [7]
+				},
+				["fontcolor_right"] = {
+					1, -- [1]
+					0.7, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["tooltip_max_targets"] = 2,
+				["icon_size"] = {
+					["W"] = 13,
+					["H"] = 13,
+				},
+				["tooltip_max_pets"] = 2,
+				["anchor_relative"] = "top",
+				["abbreviation"] = 2,
+				["anchored_to"] = 1,
+				["show_amount"] = false,
+				["header_text_color"] = {
+					1, -- [1]
+					0.9176, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["fontsize"] = 10,
+				["background"] = {
+					0.196, -- [1]
+					0.196, -- [2]
+					0.196, -- [3]
+					0.8697, -- [4]
+				},
+				["submenu_wallpaper"] = true,
+				["fontsize_title"] = 10,
+				["icon_border_texcoord"] = {
+					["B"] = 0.921875,
+					["L"] = 0.078125,
+					["T"] = 0.078125,
+					["R"] = 0.921875,
+				},
+				["commands"] = {
+				},
+				["tooltip_max_abilities"] = 5,
+				["fontface"] = "Friz Quadrata TT",
+				["border_color"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["border_texture"] = "Details BarBorder 3",
+				["anchor_offset"] = {
+					0, -- [1]
+					0, -- [2]
+				},
+				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
+				["maximize_method"] = 1,
+				["border_size"] = 14,
+				["fontshadow"] = false,
+				["anchor_screen_pos"] = {
+					507.7, -- [1]
+					-350.5, -- [2]
+				},
+				["anchor_point"] = "bottom",
+				["menus_bg_coords"] = {
+					0.309777336120606, -- [1]
+					0.924000015258789, -- [2]
+					0.213000011444092, -- [3]
+					0.279000015258789, -- [4]
+				},
+				["fontcolor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					1, -- [4]
+				},
+				["menus_bg_color"] = {
+					0.8, -- [1]
+					0.8, -- [2]
+					0.8, -- [3]
+					0.2, -- [4]
+				},
+			},
+			["ps_abbreviation"] = 3,
+			["world_combat_is_trash"] = false,
+			["update_speed"] = 1,
+			["track_item_level"] = true,
+			["windows_fade_in"] = {
+				"in", -- [1]
+				0.2, -- [2]
+			},
+			["instances_menu_click_to_open"] = false,
+			["overall_clear_newchallenge"] = true,
+			["time_type"] = 2,
+			["instances_disable_bar_highlight"] = false,
+			["trash_concatenate"] = false,
+			["disable_stretch_from_toolbar"] = false,
+			["disable_lock_ungroup_buttons"] = false,
+			["memory_ram"] = 64,
+			["disable_window_groups"] = false,
+			["instances_suppress_trash"] = 0,
+			["font_faces"] = {
+				["menus"] = "Friz Quadrata TT",
+			},
+			["segments_amount"] = 12,
+			["report_lines"] = 5,
+			["skin"] = "WoW Interface",
+			["override_spellids"] = true,
+			["use_battleground_server_parser"] = true,
+			["default_bg_alpha"] = 0.5,
+			["clear_ungrouped"] = true,
+			["chat_tab_embed"] = {
+				["enabled"] = false,
+				["tab_name"] = "",
+				["single_window"] = false,
+			},
+			["minimum_combat_time"] = 5,
+			["animate_scroll"] = false,
+			["cloud_capture"] = true,
+			["damage_taken_everything"] = false,
+			["scroll_speed"] = 2,
+			["new_window_size"] = {
+				["height"] = 130,
+				["width"] = 320,
+			},
+			["memory_threshold"] = 3,
+			["deadlog_events"] = 32,
+			["class_specs_coords"] = {
+				[62] = {
+					0.251953125, -- [1]
+					0.375, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[63] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[250] = {
+					0, -- [1]
+					0.125, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[251] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[252] = {
+					0.25, -- [1]
+					0.375, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[253] = {
+					0.875, -- [1]
+					1, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[254] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[255] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[66] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[257] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[258] = {
+					0.6328125, -- [1]
+					0.75, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[259] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[260] = {
+					0.875, -- [1]
+					1, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[577] = {
+					0.25, -- [1]
+					0.375, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[262] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[581] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[264] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[265] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[266] = {
+					0.625, -- [1]
+					0.75, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[267] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[268] = {
+					0.625, -- [1]
+					0.75, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[269] = {
+					0.875, -- [1]
+					1, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[270] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[70] = {
+					0.251953125, -- [1]
+					0.375, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[102] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[71] = {
+					0.875, -- [1]
+					1, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[103] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[72] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[104] = {
+					0.625, -- [1]
+					0.75, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[73] = {
+					0.125, -- [1]
+					0.25, -- [2]
+					0.5, -- [3]
+					0.625, -- [4]
+				},
+				[64] = {
+					0.5, -- [1]
+					0.625, -- [2]
+					0.125, -- [3]
+					0.25, -- [4]
+				},
+				[105] = {
+					0.75, -- [1]
+					0.875, -- [2]
+					0, -- [3]
+					0.125, -- [4]
+				},
+				[65] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[256] = {
+					0.375, -- [1]
+					0.5, -- [2]
+					0.25, -- [3]
+					0.375, -- [4]
+				},
+				[261] = {
+					0, -- [1]
+					0.125, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+				[263] = {
+					0.25, -- [1]
+					0.375, -- [2]
+					0.375, -- [3]
+					0.5, -- [4]
+				},
+			},
+			["close_shields"] = false,
+			["class_coords"] = {
+				["HUNTER"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["WARRIOR"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["SHAMAN"] = {
+					0.25, -- [1]
+					0.49609375, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["MAGE"] = {
+					0.25, -- [1]
+					0.49609375, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["PET"] = {
+					0.25, -- [1]
+					0.49609375, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["DRUID"] = {
+					0.7421875, -- [1]
+					0.98828125, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["MONK"] = {
+					0.5, -- [1]
+					0.73828125, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["DEATHKNIGHT"] = {
+					0.25, -- [1]
+					0.5, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["MONSTER"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["UNKNOW"] = {
+					0.5, -- [1]
+					0.75, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["PRIEST"] = {
+					0.49609375, -- [1]
+					0.7421875, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["ROGUE"] = {
+					0.49609375, -- [1]
+					0.7421875, -- [2]
+					0, -- [3]
+					0.25, -- [4]
+				},
+				["Alliance"] = {
+					0.49609375, -- [1]
+					0.7421875, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["WARLOCK"] = {
+					0.7421875, -- [1]
+					0.98828125, -- [2]
+					0.25, -- [3]
+					0.5, -- [4]
+				},
+				["DEMONHUNTER"] = {
+					0.73828126, -- [1]
+					1, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["Horde"] = {
+					0.7421875, -- [1]
+					0.98828125, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["PALADIN"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.5, -- [3]
+					0.75, -- [4]
+				},
+				["ENEMY"] = {
+					0, -- [1]
+					0.25, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+				["UNGROUPPLAYER"] = {
+					0.5, -- [1]
+					0.75, -- [2]
+					0.75, -- [3]
+					1, -- [4]
+				},
+			},
+			["overall_clear_logout"] = false,
+			["disable_alldisplays_window"] = false,
+			["pvp_as_group"] = true,
+			["force_activity_time_pvp"] = true,
+			["windows_fade_out"] = {
+				"out", -- [1]
+				0.2, -- [2]
+			},
+			["death_tooltip_width"] = 300,
+			["clear_graphic"] = true,
+			["hotcorner_topleft"] = {
+				["hide"] = false,
+			},
+			["segments_auto_erase"] = 1,
+			["options_group_edit"] = true,
+			["segments_amount_to_save"] = 5,
+			["minimap"] = {
+				["onclick_what_todo"] = 1,
+				["radius"] = 160,
+				["text_type"] = 1,
+				["minimapPos"] = 220,
+				["text_format"] = 3,
+				["hide"] = false,
+			},
+			["instances_amount"] = 5,
+			["max_window_size"] = {
+				["height"] = 450,
+				["width"] = 480,
+			},
+			["trash_auto_remove"] = true,
+			["only_pvp_frags"] = false,
+			["disable_stretch_button"] = false,
+			["time_type_original"] = 2,
+			["default_bg_color"] = 0.0941,
+			["numerical_system_symbols"] = "auto",
+			["segments_panic_mode"] = false,
+			["window_clamp"] = {
+				-8, -- [1]
+				0, -- [2]
+				21, -- [3]
+				-14, -- [4]
+			},
+			["standard_skin"] = false,
+			["row_fade_out"] = {
+				"out", -- [1]
+				0.2, -- [2]
+			},
+			["use_scroll"] = false,
+			["class_colors"] = {
+				["HUNTER"] = {
+					0.67, -- [1]
+					0.83, -- [2]
+					0.45, -- [3]
+				},
+				["WARRIOR"] = {
+					0.78, -- [1]
+					0.61, -- [2]
+					0.43, -- [3]
+				},
+				["ROGUE"] = {
+					1, -- [1]
+					0.96, -- [2]
+					0.41, -- [3]
+				},
+				["MAGE"] = {
+					0.41, -- [1]
+					0.8, -- [2]
+					0.94, -- [3]
+				},
+				["ARENA_YELLOW"] = {
+					0.9, -- [1]
+					0.9, -- [2]
+					0, -- [3]
+				},
+				["UNGROUPPLAYER"] = {
+					0.4, -- [1]
+					0.4, -- [2]
+					0.4, -- [3]
+				},
+				["DRUID"] = {
+					1, -- [1]
+					0.49, -- [2]
+					0.04, -- [3]
+				},
+				["MONK"] = {
+					0, -- [1]
+					1, -- [2]
+					0.59, -- [3]
+				},
+				["DEATHKNIGHT"] = {
+					0.77, -- [1]
+					0.12, -- [2]
+					0.23, -- [3]
+				},
+				["PET"] = {
+					0.3, -- [1]
+					0.4, -- [2]
+					0.5, -- [3]
+				},
+				["UNKNOW"] = {
+					0.2, -- [1]
+					0.2, -- [2]
+					0.2, -- [3]
+				},
+				["PRIEST"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["ARENA_GREEN"] = {
+					0.1, -- [1]
+					0.85, -- [2]
+					0.1, -- [3]
+				},
+				["WARLOCK"] = {
+					0.58, -- [1]
+					0.51, -- [2]
+					0.79, -- [3]
+				},
+				["ENEMY"] = {
+					0.94117, -- [1]
+					0, -- [2]
+					0.0196, -- [3]
+					1, -- [4]
+				},
+				["DEMONHUNTER"] = {
+					0.64, -- [1]
+					0.19, -- [2]
+					0.79, -- [3]
+				},
+				["version"] = 1,
+				["NEUTRAL"] = {
+					1, -- [1]
+					1, -- [2]
+					0, -- [3]
+				},
+				["SHAMAN"] = {
+					0, -- [1]
+					0.44, -- [2]
+					0.87, -- [3]
+				},
+				["PALADIN"] = {
+					0.96, -- [1]
+					0.55, -- [2]
+					0.73, -- [3]
+				},
+			},
+			["total_abbreviation"] = 2,
+			["report_schema"] = 1,
+			["overall_clear_newboss"] = true,
+			["font_sizes"] = {
+				["menus"] = 10,
+			},
+			["disable_reset_button"] = false,
+			["data_broker_text"] = "",
+			["instances_no_libwindow"] = false,
+			["instances_segments_locked"] = false,
+			["deadlog_limit"] = 16,
+			["instances"] = {
+				{
+					["__pos"] = {
+						["normal"] = {
+							["y"] = 29.2501220703125,
+							["x"] = -749.250213623047,
+							["w"] = 320,
+							["h"] = 129.999984741211,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["show_statusbar"] = false,
+					["switch_healer_in_combat"] = false,
+					["color"] = {
+						0.333333333333333, -- [1]
+						0.333333333333333, -- [2]
+						0.333333333333333, -- [3]
+						0.3777777777777, -- [4]
+					},
+					["menu_anchor"] = {
+						16, -- [1]
+						0, -- [2]
+						["side"] = 2,
+					},
+					["bg_r"] = 0.0941176470588235,
+					["bg_b"] = 0.0941176470588235,
+					["skin"] = "Minimalistic",
+					["hide_out_of_combat"] = false,
+					["tooltip"] = {
+						["n_abilities"] = 3,
+						["n_enemies"] = 3,
+					},
+					["following"] = {
+						["enabled"] = false,
+						["bar_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["color_buttons"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["switch_healer"] = false,
+					["micro_displays_locked"] = true,
+					["instance_button_anchor"] = {
+						-27, -- [1]
+						1, -- [2]
+					},
+					["total_bar"] = {
+						["enabled"] = false,
+						["only_in_group"] = true,
+						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
+						["color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["version"] = 3,
+					["show_sidebars"] = false,
+					["__was_opened"] = true,
+					["StatusBarSaved"] = {
+						["options"] = {
+							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
+								["textYMod"] = 1,
+								["textXMod"] = 0,
+								["textFace"] = "Accidental Presidency",
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+							},
+							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["segmentType"] = 2,
+								["textFace"] = "Accidental Presidency",
+								["textXMod"] = 0,
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["textXMod"] = 6,
+								["textFace"] = "Accidental Presidency",
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["timeType"] = 1,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+						},
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
+					},
+					["menu_anchor_down"] = {
+						16, -- [1]
+						-3, -- [2]
+					},
+					["switch_all_roles_in_combat"] = false,
+					["switch_tank_in_combat"] = false,
+					["bg_alpha"] = 0.0984569266438484,
+					["row_info"] = {
+						["textR_outline"] = false,
+						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
+						["textL_outline"] = false,
+						["textR_outline_small"] = true,
+						["textR_show_data"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+						["percent_type"] = 1,
+						["fixed_text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["space"] = {
+							["right"] = 0,
+							["left"] = 0,
+							["between"] = 0,
+						},
+						["texture_background_class_color"] = false,
+						["start_after_icon"] = false,
+						["font_face_file"] = "Fonts\\ARKai_T.ttf",
+						["textL_custom_text"] = "{data1}. {data3}{data2}",
+						["font_size"] = 10,
+						["height"] = 14,
+						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
+						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small_alpha",
+						["models"] = {
+							["upper_model"] = "Spells\\AcidBreath_SuperGreen.M2",
+							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
+							["upper_alpha"] = 0.5,
+							["lower_enabled"] = false,
+							["lower_alpha"] = 0.1,
+							["upper_enabled"] = false,
+						},
+						["textR_bracket"] = "(",
+						["use_spec_icons"] = true,
+						["texture_custom"] = "",
+						["textL_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["fixed_texture_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+						},
+						["textL_show_number"] = true,
+						["backdrop"] = {
+							["enabled"] = false,
+							["size"] = 12,
+							["color"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["texture"] = "Details BarBorder 2",
+						},
+						["texture"] = "BantoBar",
+						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
+						["fixed_texture_background_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.150228589773178, -- [4]
+						},
+						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
+						["textR_enable_custom_text"] = false,
+						["textL_class_colors"] = false,
+						["textR_class_colors"] = false,
+						["textR_outline_small_color"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["texture_background"] = "Details D'ictum (reverse)",
+						["alpha"] = 1,
+						["no_icon"] = false,
+						["textL_enable_custom_text"] = false,
+						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
+						["font_face"] = "Accidental Presidency",
+						["texture_class_colors"] = true,
+						["textL_outline_small"] = true,
+						["fast_ps_update"] = false,
+						["textR_separator"] = ",",
+						["texture_custom_file"] = "Interface\\",
+					},
+					["__locked"] = false,
+					["menu_alpha"] = {
+						["enabled"] = false,
+						["onenter"] = 1,
+						["iconstoo"] = true,
+						["ignorebars"] = false,
+						["onleave"] = 1,
+					},
+					["switch_all_roles_after_wipe"] = false,
+					["switch_damager"] = false,
+					["micro_displays_side"] = 2,
+					["strata"] = "LOW",
+					["window_scale"] = 1,
+					["__snap"] = {
+					},
+					["ignore_mass_showhide"] = false,
+					["hide_in_combat_alpha"] = 0,
+					["plugins_grow_direction"] = 1,
+					["menu_icons"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						["space"] = -2,
+						["shadow"] = false,
+					},
+					["desaturated_menu"] = false,
+					["statusbar_info"] = {
+						["alpha"] = 0.3777777777777,
+						["overlay"] = {
+							0.333333333333333, -- [1]
+							0.333333333333333, -- [2]
+							0.333333333333333, -- [3]
+						},
+					},
+					["bars_grow_direction"] = 1,
+					["row_show_animation"] = {
+						["anim"] = "Fade",
+						["options"] = {
+						},
+					},
+					["hide_in_combat_type"] = 1,
+					["libwindow"] = {
+						["y"] = 29.2500610351563,
+						["x"] = 50.7497749328613,
+						["point"] = "LEFT",
+					},
+					["grab_on_top"] = false,
+					["switch_damager_in_combat"] = false,
+					["hide_icon"] = true,
+					["bars_sort_direction"] = 1,
+					["auto_current"] = true,
+					["toolbar_side"] = 1,
+					["bg_g"] = 0.0941176470588235,
+					["auto_hide_menu"] = {
+						["left"] = false,
+						["right"] = false,
+					},
+					["hide_in_combat"] = false,
+					["posicao"] = {
+						["normal"] = {
+							["y"] = 29.2501220703125,
+							["x"] = -749.250213623047,
+							["w"] = 320,
+							["h"] = 129.999984741211,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["switch_tank"] = false,
+					["attribute_text"] = {
+						["enabled"] = true,
+						["shadow"] = false,
+						["side"] = 1,
+						["text_size"] = 12,
+						["custom_text"] = "{name}",
+						["text_face"] = "Accidental Presidency",
+						["anchor"] = {
+							-18, -- [1]
+							3, -- [2]
+						},
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["enable_custom_text"] = false,
+						["show_timer"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+					},
+					["wallpaper"] = {
+						["enabled"] = false,
+						["texcoord"] = {
+							0, -- [1]
+							1, -- [2]
+							0, -- [3]
+							0.7, -- [4]
+						},
+						["overlay"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["anchor"] = "all",
+						["height"] = 114.042518615723,
+						["alpha"] = 0.5,
+						["width"] = 283.000183105469,
+					},
+					["stretch_button_side"] = 1,
+					["backdrop_texture"] = "Details Ground",
+					["skin_custom"] = "",
+					["menu_icons_size"] = 0.850000023841858,
+					["bars_inverted"] = false,
+				}, -- [1]
+			},
+		},
+	},
+	["latest_news_saw"] = "v7.2.0.3474",
+	["custom"] = {
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["desc"] = "显示你的团队中谁在战斗时使用了药水.",
+			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the misc actor container\n				local misc_container = combat:GetActorList ( DETAILS_ATTRIBUTE_MISC )\n\n				--do the loop:\n				for _, player in ipairs ( misc_container ) do \n				    \n				    --only player in group\n				    if (player:IsGroupPlayer()) then\n					\n					local found_potion = false\n					\n					--get the spell debuff uptime container\n					local debuff_uptime_container = player.debuff_uptime and player.debuff_uptime_spells and player.debuff_uptime_spells._ActorTable\n					if (debuff_uptime_container) then\n					    --potion of focus (can't use as pre-potion, so, its amount is always 1\n					    local focus_potion = debuff_uptime_container [188030] --Legion\n					    if (focus_potion) then\n						total = total + 1\n						found_potion = true\n						if (top < 1) then\n						    top = 1\n						end\n						--add amount to the player \n						instance_container:AddValue (player, 1)\n					    end\n					end\n					\n					--get the spell buff uptime container\n					local buff_uptime_container = player.buff_uptime and player.buff_uptime_spells and player.buff_uptime_spells._ActorTable\n					if (buff_uptime_container) then\n					    \n					    --potion of the jade serpent\n					    local jade_serpent_potion = buff_uptime_container [188027] --Legion\n					    if (jade_serpent_potion) then\n						local used = jade_serpent_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of mogu power\n					    local mogu_power_potion = buff_uptime_container [188028] --Legion\n					    if (mogu_power_potion) then\n						local used = mogu_power_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --mana potion\n					    local mana_potion = buff_uptime_container [188017] --Legion\n					    if (mana_potion) then\n						local used = mana_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of prolongued power\n					    local prolongued_power = buff_uptime_container [229206] --Legion\n					    if (prolongued_power) then\n						local used = prolongued_power.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of the mountains\n					    local mountains_potion = buff_uptime_container [188029] --Legion\n					    if (mountains_potion) then\n						local used = mountains_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					end\n					\n					if (found_potion) then\n					    amount = amount + 1\n					end    \n				    end\n				end\n\n				--return:\n				return total, top, amount\n				",
+			["attribute"] = false,
+			["name"] = "有使用药水",
+			["tooltip"] = "			--init:\n			local player, combat, instance = ...\n\n			--get the debuff container for potion of focus\n			local debuff_uptime_container = player.debuff_uptime and player.debuff_uptime_spells and player.debuff_uptime_spells._ActorTable\n			if (debuff_uptime_container) then\n			    local focus_potion = debuff_uptime_container [188030] --Legion\n			    if (focus_potion) then\n				local name, _, icon = GetSpellInfo (188030) --Legion\n				GameCooltip:AddLine (name, 1) --> can use only 1 focus potion (can't be pre-potion)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			end\n\n			--get the buff container for all the others potions\n			local buff_uptime_container = player.buff_uptime and player.buff_uptime_spells and player.buff_uptime_spells._ActorTable\n			if (buff_uptime_container) then\n			    --potion of the jade serpent\n			    local jade_serpent_potion = buff_uptime_container [188027] --Legion\n			    if (jade_serpent_potion) then\n				local name, _, icon = GetSpellInfo (188027) --Legion\n				GameCooltip:AddLine (name, jade_serpent_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --potion of mogu power\n			    local mogu_power_potion = buff_uptime_container [188028] --Legion\n			    if (mogu_power_potion) then\n				local name, _, icon = GetSpellInfo (188028) --Legion\n				GameCooltip:AddLine (name, mogu_power_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --mana potion\n			    local mana_potion = buff_uptime_container [188017] --Legion\n			    if (mana_potion) then\n				local name, _, icon = GetSpellInfo (188017) --Legion\n				GameCooltip:AddLine (name, mana_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --prolongued power\n			    local prolongued_power = buff_uptime_container [229206] --Legion\n			    if (prolongued_power) then\n				local name, _, icon = GetSpellInfo (229206) --Legion\n				GameCooltip:AddLine (name, prolongued_power.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --potion of the mountains\n			    local mountains_potion = buff_uptime_container [188029] --Legion\n			    if (mountains_potion) then\n				local name, _, icon = GetSpellInfo (188029) --Legion\n				GameCooltip:AddLine (name, mountains_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			end\n		",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\Trade_Alchemy_PotionD4",
+			["script_version"] = 3,
+		}, -- [1]
+		{
+			["source"] = false,
+			["desc"] = "Show who in your raid group used the healthstone or a heal potion.",
+			["author"] = "Details! Team",
+			["percent_script"] = false,
+			["total_script"] = false,
+			["attribute"] = false,
+			["tooltip"] = "			--get the parameters passed\n			local actor, combat, instance = ...\n			\n			--get the cooltip object (we dont use the convencional GameTooltip here)\n			local GameCooltip = GameCooltip\n			local R, G, B, A = 0, 0, 0, 0.75\n			\n			local hs = actor:GetSpell (6262)\n			if (hs) then\n				GameCooltip:AddLine (select (1, GetSpellInfo(6262)),  _detalhes:ToK(hs.total))\n				GameCooltip:AddIcon (select (3, GetSpellInfo (6262)), 1, 1, 16, 16)\n				GameCooltip:AddStatusBar (100, 1, R, G, B, A)\n			end\n			\n			local pot = actor:GetSpell (DETAILS_HEALTH_POTION_ID)\n			if (pot) then\n				GameCooltip:AddLine (select (1, GetSpellInfo(DETAILS_HEALTH_POTION_ID)),  _detalhes:ToK(pot.total))\n				GameCooltip:AddIcon (select (3, GetSpellInfo (DETAILS_HEALTH_POTION_ID)), 1, 1, 16, 16)\n				GameCooltip:AddStatusBar (100, 1, R, G, B, A)\n			end\n			\n			local pot = actor:GetSpell (DETAILS_REJU_POTION_ID)\n			if (pot) then\n				GameCooltip:AddLine (select (1, GetSpellInfo(DETAILS_REJU_POTION_ID)),  _detalhes:ToK(pot.total))\n				GameCooltip:AddIcon (select (3, GetSpellInfo (DETAILS_REJU_POTION_ID)), 1, 1, 16, 16)\n				GameCooltip:AddStatusBar (100, 1, R, G, B, A)\n			end\n\n			--Cooltip code\n			",
+			["name"] = "Health Potion & Stone",
+			["script"] = "			--get the parameters passed\n			local combat, instance_container, instance = ...\n			--declade the values to return\n			local total, top, amount = 0, 0, 0\n			\n			--do the loop\n			local AllHealCharacters = combat:GetActorList (DETAILS_ATTRIBUTE_HEAL)\n			for index, character in ipairs (AllHealCharacters) do\n				local AllSpells = character:GetSpellList()\n				local found = false\n				for spellid, spell in pairs (AllSpells) do\n					if (DETAILS_HEALTH_POTION_LIST [spellid]) then\n						instance_container:AddValue (character, spell.total)\n						total = total + spell.total\n						if (top < spell.total) then\n							top = spell.total\n						end\n						found = true\n					end\n				end\n			\n				if (found) then\n					amount = amount + 1\n				end\n			end\n			--loop end\n			--return the values\n			return total, top, amount\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\warlock_ healthstone",
+			["script_version"] = 13,
+		}, -- [2]
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["tooltip"] = "				\n			",
+			["percent_script"] = "				local value, top, total, combat, instance = ...\n				return string.format (\"%.1f\", value/top*100)\n			",
+			["desc"] = "每个人造成伤害的时间",
+			["attribute"] = false,
+			["total_script"] = "				local value, top, total, combat, instance = ...\n				local minutos, segundos = math.floor (value/60), math.floor (value%60)\n				return minutos .. \"m \" .. segundos .. \"s\"\n			",
+			["name"] = "活跃伤害时间",
+			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, amount = 0, 0\n\n				--get the misc actor container\n				local damage_container = combat:GetActorList ( DETAILS_ATTRIBUTE_DAMAGE )\n				\n				--do the loop:\n				for _, player in ipairs ( damage_container ) do \n					if (player.grupo) then\n						local activity = player:Tempo()\n						total = total + activity\n						amount = amount + 1\n						--add amount to the player \n						instance_container:AddValue (player, activity)\n					end\n				end\n				\n				--return:\n				return total, combat:GetCombatTime(), amount\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\Achievement_PVP_H_06",
+			["script_version"] = 1,
+		}, -- [3]
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["tooltip"] = "				\n			",
+			["percent_script"] = "				local value, top, total, combat, instance = ...\n				return string.format (\"%.1f\", value/top*100)\n			",
+			["desc"] = "每个人造成治疗的时间.",
+			["attribute"] = false,
+			["total_script"] = "				local value, top, total, combat, instance = ...\n				local minutos, segundos = math.floor (value/60), math.floor (value%60)\n				return minutos .. \"m \" .. segundos .. \"s\"\n			",
+			["name"] = "活跃治疗时间",
+			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the misc actor container\n				local damage_container = combat:GetActorList ( DETAILS_ATTRIBUTE_HEAL )\n				\n				--do the loop:\n				for _, player in ipairs ( damage_container ) do \n					if (player.grupo) then\n						local activity = player:Tempo()\n						total = total + activity\n						amount = amount + 1\n						--add amount to the player \n						instance_container:AddValue (player, activity)\n					end\n				end\n				\n				--return:\n				return total, combat:GetCombatTime(), amount\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\Achievement_PVP_G_06",
+			["script_version"] = 1,
+		}, -- [4]
+		{
+			["script"] = "				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				local misc_actors = combat:GetActorList (DETAILS_ATTRIBUTE_MISC)\n\n				for index, character in ipairs (misc_actors) do\n					if (character.cc_done and character:IsPlayer()) then\n						local cc_done = floor (character.cc_done)\n						instance_container:AddValue (character, cc_done)\n						total = total + cc_done\n						if (cc_done > top) then\n							top = cc_done\n						end\n						amount = amount + 1\n					end\n				end\n\n				return total, top, amount\n			",
+			["author"] = "Details!",
+			["total_script"] = "				local value, top, total, combat, instance = ...\n				return floor (value)\n			",
+			["desc"] = "Show the crowd control amount for each player.",
+			["attribute"] = false,
+			["source"] = false,
+			["name"] = "Crowd Control Done",
+			["tooltip"] = "				local actor, combat, instance = ...\n				local spells = {}\n				for spellid, spell in pairs (actor.cc_done_spells._ActorTable) do\n				    tinsert (spells, {spellid, spell.counter})\n				end\n\n				table.sort (spells, _detalhes.Sort2)\n\n				for index, spell in ipairs (spells) do\n				    local name, _, icon = GetSpellInfo (spell [1])\n				    GameCooltip:AddLine (name, spell [2])\n				    _detalhes:AddTooltipBackgroundStatusbar()\n				    GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n				end\n\n				local targets = {}\n				for playername, amount in pairs (actor.cc_done_targets) do\n				    tinsert (targets, {playername, amount})\n				end\n\n				table.sort (targets, _detalhes.Sort2)\n\n				_detalhes:AddTooltipSpellHeaderText (\"Targets\", \"yellow\", #targets)\n				local class, _, _, _, _, r, g, b = _detalhes:GetClass (actor.nome)\n				_detalhes:AddTooltipHeaderStatusbar (1, 1, 1, 0.6)\n\n				for index, target in ipairs (targets) do\n				    GameCooltip:AddLine (target[1], target [2])\n				    _detalhes:AddTooltipBackgroundStatusbar()\n				    \n				    local class, _, _, _, _, r, g, b = _detalhes:GetClass (target [1])\n				    if (class and class ~= \"UNKNOW\") then\n					local texture, l, r, t, b = _detalhes:GetClassIcon (class)\n					GameCooltip:AddIcon (\"Interface\\\\AddOns\\\\Details\\\\images\\\\classes_small_alpha\", 1, 1, 14, 14, l, r, t, b)\n				    else\n					GameCooltip:AddIcon (\"Interface\\\\GossipFrame\\\\IncompleteQuestIcon\", 1, 1, 14, 14)\n				    end\n				    --\n				end\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\Spell_Frost_FreezingBreath",
+			["script_version"] = 9,
+		}, -- [5]
+		{
+			["script"] = "				local combat, instance_container, instance = ...\n				local total, top, amt = 0, 0, 0\n\n				local misc_actors = combat:GetActorList (DETAILS_ATTRIBUTE_MISC)\n				DETAILS_CUSTOM_CC_RECEIVED_CACHE = DETAILS_CUSTOM_CC_RECEIVED_CACHE or {}\n				wipe (DETAILS_CUSTOM_CC_RECEIVED_CACHE)\n\n				for index, character in ipairs (misc_actors) do\n				    if (character.cc_done and character:IsPlayer()) then\n					\n					for player_name, amount in pairs (character.cc_done_targets) do\n					    local target = combat (1, player_name) or combat (2, player_name)\n					    if (target and target:IsPlayer()) then\n						instance_container:AddValue (target, amount)\n						total = total + amount\n						if (amount > top) then\n						    top = amount\n						end\n						if (not DETAILS_CUSTOM_CC_RECEIVED_CACHE [player_name]) then\n						    DETAILS_CUSTOM_CC_RECEIVED_CACHE [player_name] = true\n						    amt = amt + 1\n						end\n					    end\n					end\n					\n				    end\n				end\n\n				return total, top, amt\n			",
+			["author"] = "Details!",
+			["total_script"] = "				local value, top, total, combat, instance = ...\n				return floor (value)\n			",
+			["desc"] = "Show the amount of crowd control received for each player.",
+			["attribute"] = false,
+			["source"] = false,
+			["name"] = "Crowd Control Received",
+			["tooltip"] = "				local actor, combat, instance = ...\n				local name = actor:name()\n				local spells, from = {}, {}\n				local misc_actors = combat:GetActorList (DETAILS_ATTRIBUTE_MISC)\n\n				for index, character in ipairs (misc_actors) do\n				    if (character.cc_done and character:IsPlayer()) then\n					local on_actor = character.cc_done_targets [name]\n					if (on_actor) then\n					    tinsert (from, {character:name(), on_actor})\n					    \n					    for spellid, spell in pairs (character.cc_done_spells._ActorTable) do\n						\n						local spell_on_actor = spell.targets [name]\n						if (spell_on_actor) then\n						    local has_spell\n						    for index, spell_table in ipairs (spells) do\n							if (spell_table [1] == spellid) then\n							    spell_table [2] = spell_table [2] + spell_on_actor\n							    has_spell = true\n							end\n						    end\n						    if (not has_spell) then\n							tinsert (spells, {spellid, spell_on_actor}) \n						    end\n						end\n						\n					    end            \n					end\n				    end\n				end\n\n				table.sort (from, _detalhes.Sort2)\n				table.sort (spells, _detalhes.Sort2)\n\n				for index, spell in ipairs (spells) do\n				    local name, _, icon = GetSpellInfo (spell [1])\n				    GameCooltip:AddLine (name, spell [2])\n				    _detalhes:AddTooltipBackgroundStatusbar()\n				    GameCooltip:AddIcon (icon, 1, 1, 14, 14)    \n				end\n\n				_detalhes:AddTooltipSpellHeaderText (\"From\", \"yellow\", #from)\n				_detalhes:AddTooltipHeaderStatusbar (1, 1, 1, 0.6)\n\n				for index, t in ipairs (from) do\n				    GameCooltip:AddLine (t[1], t[2])\n				    _detalhes:AddTooltipBackgroundStatusbar()\n				    \n				    local class, _, _, _, _, r, g, b = _detalhes:GetClass (t [1])\n				    if (class and class ~= \"UNKNOW\") then\n					local texture, l, r, t, b = _detalhes:GetClassIcon (class)\n					GameCooltip:AddIcon (\"Interface\\\\AddOns\\\\Details\\\\images\\\\classes_small_alpha\", 1, 1, 14, 14, l, r, t, b)\n				    else\n					GameCooltip:AddIcon (\"Interface\\\\GossipFrame\\\\IncompleteQuestIcon\", 1, 1, 14, 14)\n				    end     \n				    \n				end\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\Spell_Mage_IceNova",
+			["script_version"] = 1,
+		}, -- [6]
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["percent_script"] = "				local value, top, total, combat, instance = ...\n				local dps = _detalhes:ToK (floor (value) / combat:GetCombatTime())\n				local percent = string.format (\"%.1f\", value/total*100)\n				return dps .. \", \" .. percent\n			",
+			["desc"] = "在窗口显示你的法术.",
+			["tooltip"] = "			--config:\n			--Background RBG and Alpha:\n			local R, G, B, A = 0, 0, 0, 0.75\n			local R, G, B, A = 0.1960, 0.1960, 0.1960, 0.8697\n\n			--get the parameters passed\n			local spell, combat, instance = ...\n\n			--get the cooltip object (we dont use the convencional GameTooltip here)\n			local GC = GameCooltip\n			GC:SetOption (\"YSpacingMod\", 0)\n\n			local role = UnitGroupRolesAssigned (\"player\")\n\n			if (spell.n_dmg) then\n			    \n			    local spellschool, schooltext = spell.spellschool, \"\"\n			    if (spellschool) then\n				local t = _detalhes.spells_school [spellschool]\n				if (t and t.name) then\n				    schooltext = t.formated\n				end\n			    end\n			    \n			    local total_hits = spell.counter\n			    local combat_time = instance.showing:GetCombatTime()\n			    \n			    local debuff_uptime_total, cast_string = \"\", \"\"\n			    local misc_actor = instance.showing (4, _detalhes.playername)\n			    if (misc_actor) then\n				local debuff_uptime = misc_actor.debuff_uptime_spells and misc_actor.debuff_uptime_spells._ActorTable [spell.id] and misc_actor.debuff_uptime_spells._ActorTable [spell.id].uptime\n				if (debuff_uptime) then\n				    debuff_uptime_total = floor (debuff_uptime / instance.showing:GetCombatTime() * 100)\n				end\n				\n				local spell_cast = misc_actor.spell_cast and misc_actor.spell_cast [spell.id]\n				\n				if (not spell_cast and misc_actor.spell_cast) then\n				    local spellname = GetSpellInfo (spell.id)\n				    for casted_spellid, amount in pairs (misc_actor.spell_cast) do\n					local casted_spellname = GetSpellInfo (casted_spellid)\n					if (casted_spellname == spellname) then\n					    spell_cast = amount .. \" (|cFFFFFF00?|r)\"\n					end\n				    end\n				end\n				if (not spell_cast) then\n				    spell_cast = \"(|cFFFFFF00?|r)\"\n				end\n				cast_string = cast_string .. spell_cast\n			    end\n			    \n			    --Cooltip code\n			    GC:AddLine (\"Casts:\", cast_string or \"?\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (debuff_uptime_total ~= \"\") then\n				GC:AddLine (\"Uptime:\", (debuff_uptime_total or \"?\") .. \"%\")\n				GC:AddStatusBar (100, 1, R, G, B, A)\n			    end\n			    \n			    GC:AddLine (\"Hits:\", spell.counter)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local average = spell.total / total_hits\n			    GC:AddLine (\"Average:\", _detalhes:ToK (average))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"E-Dps:\", _detalhes:ToK (spell.total / combat_time))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"School:\", schooltext)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Normal Hits: \", spell.n_amt .. \" (\" ..floor ( spell.n_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local n_average = spell.n_dmg / spell.n_amt\n			    local T = (combat_time*spell.n_dmg)/spell.total\n			    local P = average/n_average*100\n			    T = P*T/100\n			    \n			    GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (n_average) .. \" / \" .. format (\"%.1f\",spell.n_dmg / T ))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Critical Hits: \", spell.c_amt .. \" (\" ..floor ( spell.c_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (spell.c_amt > 0) then\n				local c_average = spell.c_dmg/spell.c_amt\n				local T = (combat_time*spell.c_dmg)/spell.total\n				local P = average/c_average*100\n				T = P*T/100\n				local crit_dps = spell.c_dmg / T\n				\n				GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (c_average) .. \" / \" .. _detalhes:comma_value (crit_dps))\n			    else\n				GC:AddLine (\"Average / E-Dps: \",  \"0 / 0\")    \n			    end\n			    \n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Multistrike: \", spell.m_amt .. \" (\" ..floor ( spell.m_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"On Normal / On Critical:\", spell.m_amt - spell.m_crit .. \"  / \" .. spell.m_crit)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			elseif (spell.n_curado) then\n			    \n			    local spellschool, schooltext = spell.spellschool, \"\"\n			    if (spellschool) then\n				local t = _detalhes.spells_school [spellschool]\n				if (t and t.name) then\n				    schooltext = t.formated\n				end\n			    end\n			    \n			    local total_hits = spell.counter\n			    local combat_time = instance.showing:GetCombatTime()\n			    \n			    --Cooltip code\n			    GC:AddLine (\"Hits:\", spell.counter)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local average = spell.total / total_hits\n			    GC:AddLine (\"Average:\", _detalhes:ToK (average))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"E-Hps:\", _detalhes:ToK (spell.total / combat_time))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"School:\", schooltext)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Normal Hits: \", spell.n_amt .. \" (\" ..floor ( spell.n_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local n_average = spell.n_curado / spell.n_amt\n			    local T = (combat_time*spell.n_curado)/spell.total\n			    local P = average/n_average*100\n			    T = P*T/100\n			    \n			    GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (n_average) .. \" / \" .. format (\"%.1f\",spell.n_curado / T ))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Critical Hits: \", spell.c_amt .. \" (\" ..floor ( spell.c_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (spell.c_amt > 0) then\n				local c_average = spell.c_curado/spell.c_amt\n				local T = (combat_time*spell.c_curado)/spell.total\n				local P = average/c_average*100\n				T = P*T/100\n				local crit_dps = spell.c_curado / T\n				\n				GC:AddLine (\"Average / E-Hps: \",  _detalhes:ToK (c_average) .. \" / \" .. _detalhes:comma_value (crit_dps))\n			    else\n				GC:AddLine (\"Average / E-Hps: \",  \"0 / 0\")    \n			    end\n			    \n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Multistrike: \", spell.m_amt .. \" (\" ..floor ( spell.m_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"On Normal / On Critical:\", spell.m_amt - spell.m_crit .. \"  / \" .. spell.m_crit)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			end\n			",
+			["attribute"] = false,
+			["name"] = "我的法术",
+			["script"] = "				--get the parameters passed\n				local combat, instance_container, instance = ...\n				--declade the values to return\n				local total, top, amount = 0, 0, 0\n\n				local player\n				local role = UnitGroupRolesAssigned (\"player\")\n				local pet_attribute\n\n				if (role == \"DAMAGER\") then\n					player = combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_DAMAGE\n				elseif (role == \"HEALER\") then    \n					player = combat (DETAILS_ATTRIBUTE_HEAL, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_HEAL\n				else\n					player = combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_DAMAGE\n				end\n\n				--do the loop\n\n				if (player) then\n					local spells = player:GetSpellList()\n					for spellid, spell in pairs (spells) do\n						instance_container:AddValue (spell, spell.total)\n						total = total + spell.total\n						if (top < spell.total) then\n							top = spell.total\n						end\n						amount = amount + 1\n					end\n				    \n					for _, PetName in ipairs (player.pets) do\n						local pet = combat (pet_attribute, PetName)\n						if (pet) then\n							for spellid, spell in pairs (pet:GetSpellList()) do\n								instance_container:AddValue (spell, spell.total, nil, \" (\" .. PetName:gsub ((\" <.*\"), \"\") .. \")\")\n								total = total + spell.total\n								if (top < spell.total) then\n									top = spell.total\n								end\n								amount = amount + 1\n							end\n						end\n					end\n				end\n\n				--return the values\n				return total, top, amount\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\ABILITY_MAGE_ARCANEBARRAGE",
+			["script_version"] = 5,
+		}, -- [7]
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["desc"] = "Show the amount of damage applied on targets marked with skull.",
+			["script"] = "				--get the parameters passed\n				local Combat, CustomContainer, Instance = ...\n				--declade the values to return\n				local total, top, amount = 0, 0, 0\n				\n				--raid target flags: \n				-- 128: skull \n				-- 64: cross\n				-- 32: square\n				-- 16: moon\n				-- 8: triangle\n				-- 4: diamond\n				-- 2: circle\n				-- 1: star\n				\n				--do the loop\n				for _, actor in ipairs (Combat:GetActorList (DETAILS_ATTRIBUTE_DAMAGE)) do\n				    if (actor:IsPlayer()) then\n					if (actor.raid_targets [128]) then\n					    CustomContainer:AddValue (actor, actor.raid_targets [128])\n					end        \n				    end\n				end\n\n				--if not managed inside the loop, get the values of total, top and amount\n				total, top = CustomContainer:GetTotalAndHighestValue()\n				amount = CustomContainer:GetNumActors()\n\n				--return the values\n				return total, top, amount\n			",
+			["attribute"] = false,
+			["name"] = "Damage On Skull Marked Targets",
+			["tooltip"] = "				--get the parameters passed\n				local actor, combat, instance = ...\n\n				--get the cooltip object (we dont use the convencional GameTooltip here)\n				local GameCooltip = GameCooltip\n\n				--Cooltip code\n				local format_func = Details:GetCurrentToKFunction()\n\n				--Cooltip code\n				local RaidTargets = actor.raid_targets\n\n				local DamageOnStar = RaidTargets [128]\n				if (DamageOnStar) then\n				    --RAID_TARGET_8 is the built-in localized word for 'Skull'.\n				    GameCooltip:AddLine (RAID_TARGET_8 .. \":\", format_func (_, DamageOnStar))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_8\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\TARGETINGFRAME\\UI-RaidTargetingIcon_8",
+			["script_version"] = 2,
+		}, -- [8]
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["desc"] = "Show the amount of damage applied on targets marked with any other mark.",
+			["script"] = "				--get the parameters passed\n				local Combat, CustomContainer, Instance = ...\n				--declade the values to return\n				local total, top, amount = 0, 0, 0\n\n				--do the loop\n				for _, actor in ipairs (Combat:GetActorList (DETAILS_ATTRIBUTE_DAMAGE)) do\n				    if (actor:IsPlayer()) then\n					local total = (actor.raid_targets [1] or 0) --star\n					total = total + (actor.raid_targets [2] or 0) --circle\n					total = total + (actor.raid_targets [4] or 0) --diamond\n					total = total + (actor.raid_targets [8] or 0) --tiangle\n					total = total + (actor.raid_targets [16] or 0) --moon\n					total = total + (actor.raid_targets [32] or 0) --square\n					total = total + (actor.raid_targets [64] or 0) --cross\n					\n					if (total > 0) then\n					    CustomContainer:AddValue (actor, total)\n					end\n				    end\n				end\n\n				--if not managed inside the loop, get the values of total, top and amount\n				total, top = CustomContainer:GetTotalAndHighestValue()\n				amount = CustomContainer:GetNumActors()\n\n				--return the values\n				return total, top, amount\n			",
+			["attribute"] = false,
+			["name"] = "Damage On Other Marked Targets",
+			["tooltip"] = "				--get the parameters passed\n				local actor, combat, instance = ...\n\n				--get the cooltip object\n				local GameCooltip = GameCooltip\n\n				local format_func = Details:GetCurrentToKFunction()\n\n				--Cooltip code\n				local RaidTargets = actor.raid_targets\n\n				local DamageOnStar = RaidTargets [1]\n				if (DamageOnStar) then\n				    GameCooltip:AddLine (RAID_TARGET_1 .. \":\", format_func (_, DamageOnStar))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_1\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnCircle = RaidTargets [2]\n				if (DamageOnCircle) then\n				    GameCooltip:AddLine (RAID_TARGET_2 .. \":\", format_func (_, DamageOnCircle))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_2\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnDiamond = RaidTargets [4]\n				if (DamageOnDiamond) then\n				    GameCooltip:AddLine (RAID_TARGET_3 .. \":\", format_func (_, DamageOnDiamond))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_3\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnTriangle = RaidTargets [8]\n				if (DamageOnTriangle) then\n				    GameCooltip:AddLine (RAID_TARGET_4 .. \":\", format_func (_, DamageOnTriangle))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_4\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnMoon = RaidTargets [16]\n				if (DamageOnMoon) then\n				    GameCooltip:AddLine (RAID_TARGET_5 .. \":\", format_func (_, DamageOnMoon))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_5\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnSquare = RaidTargets [32]\n				if (DamageOnSquare) then\n				    GameCooltip:AddLine (RAID_TARGET_6 .. \":\", format_func (_, DamageOnSquare))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_6\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnCross = RaidTargets [64]\n				if (DamageOnCross) then\n				    GameCooltip:AddLine (RAID_TARGET_7 .. \":\", format_func (_, DamageOnCross))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_7\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\TARGETINGFRAME\\UI-RaidTargetingIcon_5",
+			["script_version"] = 2,
+		}, -- [9]
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["total_script"] = "				local value, top, total, combat, instance = ...\n\n				--get the time of overall combat\n				local OverallCombatTime = Details:GetCombat (-1):GetCombatTime()\n\n				--get the time of current combat if the player is in combat\n				if (Details.in_combat) then\n				    local CurrentCombatTime = Details:GetCombat (0):GetCombatTime()\n				    OverallCombatTime = OverallCombatTime + CurrentCombatTime\n				end\n\n				--build the string\n				local ToK = Details:GetCurrentToKFunction()\n				local s = ToK (_, total / OverallCombatTime)\n				s = ToK (_, total) .. \" (\" .. s .. \", \"\n\n				return s\n			",
+			["desc"] = "Show overall damage done on the fly.",
+			["attribute"] = false,
+			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the overall combat\n				local OverallCombat = Details:GetCombat (-1)\n				--get the current combat\n				local CurrentCombat = Details:GetCombat (0)\n\n				if (not OverallCombat.GetActorList or not CurrentCombat.GetActorList) then\n				    return 0, 0, 0\n				end\n\n				--get the damage actor container for overall\n				local damage_container_overall = OverallCombat:GetActorList ( DETAILS_ATTRIBUTE_DAMAGE )\n				--get the damage actor container for current\n				local damage_container_current = CurrentCombat:GetActorList ( DETAILS_ATTRIBUTE_DAMAGE )\n\n				--do the loop:\n				for _, player in ipairs ( damage_container_overall ) do \n				    --only player in group\n				    if (player:IsGroupPlayer()) then\n					instance_container:AddValue (player, player.total)\n				    end\n				end\n\n				if (Details.in_combat) then\n				    for _, player in ipairs ( damage_container_current ) do \n					--only player in group\n					if (player:IsGroupPlayer()) then\n					    instance_container:AddValue (player, player.total)        \n					end\n				    end\n				end\n\n				total, top =  instance_container:GetTotalAndHighestValue()\n				amount =  instance_container:GetNumActors()\n\n				--return:\n				return total, top, amount\n			",
+			["name"] = "Dynamic Overall Damage",
+			["tooltip"] = "				--get the parameters passed\n				local actor, combat, instance = ...\n\n				--get the cooltip object (we dont use the convencional GameTooltip here)\n				local GameCooltip = GameCooltip2\n\n				--Cooltip code\n				--get the overall combat\n				local OverallCombat = Details:GetCombat (-1)\n				--get the current combat\n				local CurrentCombat = Details:GetCombat (0)\n\n				local AllSpells = {}\n\n				--overall\n				local player = OverallCombat [1]:GetActor (actor.nome)\n				local playerSpells = player:GetSpellList()\n				for spellID, spellTable in pairs (playerSpells) do\n				    AllSpells [spellID] = spellTable.total\n				end\n\n				--current\n				local player = CurrentCombat [1]:GetActor (actor.nome)\n				local playerSpells = player:GetSpellList()\n				for spellID, spellTable in pairs (playerSpells) do\n				    AllSpells [spellID] = (AllSpells [spellID] or 0) + (spellTable.total or 0)\n				end\n\n				local sortedList = {}\n				for spellID, total in pairs (AllSpells) do\n				    tinsert (sortedList, {spellID, total})\n				end\n				table.sort (sortedList, Details.Sort2)\n\n				local format_func = Details:GetCurrentToKFunction()\n\n				--build the tooltip\n				for i, t in ipairs (sortedList) do\n				    local spellID, total = unpack (t)\n				    if (total > 1) then\n					local spellName, _, spellIcon = Details.GetSpellInfo (spellID)\n					\n					GameCooltip:AddLine (spellName, format_func (_, total))\n					Details:AddTooltipBackgroundStatusbar()\n					GameCooltip:AddIcon (spellIcon, 1, 1, 14, 14)\n				    end\n				end\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\Achievement_Quests_Completed_08",
+			["script_version"] = 2,
+		}, -- [10]
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["desc"] = "Show who in your raid used a potion during the encounter.",
+			["tooltip"] = "			--init:\n			local player, combat, instance = ...\n\n			--get the debuff container for potion of focus\n			local debuff_uptime_container = player.debuff_uptime and player.debuff_uptime_spells and player.debuff_uptime_spells._ActorTable\n			if (debuff_uptime_container) then\n			    local focus_potion = debuff_uptime_container [188030] --Legion\n			    if (focus_potion) then\n				local name, _, icon = GetSpellInfo (188030) --Legion\n				GameCooltip:AddLine (name, 1) --> can use only 1 focus potion (can't be pre-potion)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			end\n\n			--get the buff container for all the others potions\n			local buff_uptime_container = player.buff_uptime and player.buff_uptime_spells and player.buff_uptime_spells._ActorTable\n			if (buff_uptime_container) then\n			    --potion of the jade serpent\n			    local jade_serpent_potion = buff_uptime_container [188027] --Legion\n			    if (jade_serpent_potion) then\n				local name, _, icon = GetSpellInfo (188027) --Legion\n				GameCooltip:AddLine (name, jade_serpent_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --potion of mogu power\n			    local mogu_power_potion = buff_uptime_container [188028] --Legion\n			    if (mogu_power_potion) then\n				local name, _, icon = GetSpellInfo (188028) --Legion\n				GameCooltip:AddLine (name, mogu_power_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --mana potion\n			    local mana_potion = buff_uptime_container [188017] --Legion\n			    if (mana_potion) then\n				local name, _, icon = GetSpellInfo (188017) --Legion\n				GameCooltip:AddLine (name, mana_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --prolongued power\n			    local prolongued_power = buff_uptime_container [229206] --Legion\n			    if (prolongued_power) then\n				local name, _, icon = GetSpellInfo (229206) --Legion\n				GameCooltip:AddLine (name, prolongued_power.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --potion of the mountains\n			    local mountains_potion = buff_uptime_container [188029] --Legion\n			    if (mountains_potion) then\n				local name, _, icon = GetSpellInfo (188029) --Legion\n				GameCooltip:AddLine (name, mountains_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			end\n		",
+			["attribute"] = false,
+			["name"] = "Potion Used",
+			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the misc actor container\n				local misc_container = combat:GetActorList ( DETAILS_ATTRIBUTE_MISC )\n\n				--do the loop:\n				for _, player in ipairs ( misc_container ) do \n				    \n				    --only player in group\n				    if (player:IsGroupPlayer()) then\n					\n					local found_potion = false\n					\n					--get the spell debuff uptime container\n					local debuff_uptime_container = player.debuff_uptime and player.debuff_uptime_spells and player.debuff_uptime_spells._ActorTable\n					if (debuff_uptime_container) then\n					    --potion of focus (can't use as pre-potion, so, its amount is always 1\n					    local focus_potion = debuff_uptime_container [188030] --Legion\n					    if (focus_potion) then\n						total = total + 1\n						found_potion = true\n						if (top < 1) then\n						    top = 1\n						end\n						--add amount to the player \n						instance_container:AddValue (player, 1)\n					    end\n					end\n					\n					--get the spell buff uptime container\n					local buff_uptime_container = player.buff_uptime and player.buff_uptime_spells and player.buff_uptime_spells._ActorTable\n					if (buff_uptime_container) then\n					    \n					    --potion of the jade serpent\n					    local jade_serpent_potion = buff_uptime_container [188027] --Legion\n					    if (jade_serpent_potion) then\n						local used = jade_serpent_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of mogu power\n					    local mogu_power_potion = buff_uptime_container [188028] --Legion\n					    if (mogu_power_potion) then\n						local used = mogu_power_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --mana potion\n					    local mana_potion = buff_uptime_container [188017] --Legion\n					    if (mana_potion) then\n						local used = mana_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of prolongued power\n					    local prolongued_power = buff_uptime_container [229206] --Legion\n					    if (prolongued_power) then\n						local used = prolongued_power.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of the mountains\n					    local mountains_potion = buff_uptime_container [188029] --Legion\n					    if (mountains_potion) then\n						local used = mountains_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					end\n					\n					if (found_potion) then\n					    amount = amount + 1\n					end    \n				    end\n				end\n\n				--return:\n				return total, top, amount\n				",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\Trade_Alchemy_PotionD4",
+			["script_version"] = 3,
+		}, -- [11]
+		{
+			["source"] = false,
+			["tooltip"] = "				\n			",
+			["author"] = "Details!",
+			["percent_script"] = "				local value, top, total, combat, instance = ...\n				return string.format (\"%.1f\", value/top*100)\n			",
+			["desc"] = "Tells how much time each character spent doing damage.",
+			["attribute"] = false,
+			["total_script"] = "				local value, top, total, combat, instance = ...\n				local minutos, segundos = math.floor (value/60), math.floor (value%60)\n				return minutos .. \"m \" .. segundos .. \"s\"\n			",
+			["name"] = "Damage Activity Time",
+			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, amount = 0, 0\n\n				--get the misc actor container\n				local damage_container = combat:GetActorList ( DETAILS_ATTRIBUTE_DAMAGE )\n				\n				--do the loop:\n				for _, player in ipairs ( damage_container ) do \n					if (player.grupo) then\n						local activity = player:Tempo()\n						total = total + activity\n						amount = amount + 1\n						--add amount to the player \n						instance_container:AddValue (player, activity)\n					end\n				end\n				\n				--return:\n				return total, combat:GetCombatTime(), amount\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\Achievement_PVP_H_06",
+			["script_version"] = 1,
+		}, -- [12]
+		{
+			["source"] = false,
+			["tooltip"] = "				\n			",
+			["author"] = "Details!",
+			["percent_script"] = "				local value, top, total, combat, instance = ...\n				return string.format (\"%.1f\", value/top*100)\n			",
+			["desc"] = "Tells how much time each character spent doing healing.",
+			["attribute"] = false,
+			["total_script"] = "				local value, top, total, combat, instance = ...\n				local minutos, segundos = math.floor (value/60), math.floor (value%60)\n				return minutos .. \"m \" .. segundos .. \"s\"\n			",
+			["name"] = "Healing Activity Time",
+			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the misc actor container\n				local damage_container = combat:GetActorList ( DETAILS_ATTRIBUTE_HEAL )\n				\n				--do the loop:\n				for _, player in ipairs ( damage_container ) do \n					if (player.grupo) then\n						local activity = player:Tempo()\n						total = total + activity\n						amount = amount + 1\n						--add amount to the player \n						instance_container:AddValue (player, activity)\n					end\n				end\n				\n				--return:\n				return total, combat:GetCombatTime(), amount\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\Achievement_PVP_G_06",
+			["script_version"] = 1,
+		}, -- [13]
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["percent_script"] = "				local value, top, total, combat, instance = ...\n				local dps = _detalhes:ToK (floor (value) / combat:GetCombatTime())\n				local percent = string.format (\"%.1f\", value/total*100)\n				return dps .. \", \" .. percent\n			",
+			["desc"] = "Show your spells in the window.",
+			["tooltip"] = "			--config:\n			--Background RBG and Alpha:\n			local R, G, B, A = 0, 0, 0, 0.75\n			local R, G, B, A = 0.1960, 0.1960, 0.1960, 0.8697\n\n			--get the parameters passed\n			local spell, combat, instance = ...\n\n			--get the cooltip object (we dont use the convencional GameTooltip here)\n			local GC = GameCooltip\n			GC:SetOption (\"YSpacingMod\", 0)\n\n			local role = UnitGroupRolesAssigned (\"player\")\n\n			if (spell.n_dmg) then\n			    \n			    local spellschool, schooltext = spell.spellschool, \"\"\n			    if (spellschool) then\n				local t = _detalhes.spells_school [spellschool]\n				if (t and t.name) then\n				    schooltext = t.formated\n				end\n			    end\n			    \n			    local total_hits = spell.counter\n			    local combat_time = instance.showing:GetCombatTime()\n			    \n			    local debuff_uptime_total, cast_string = \"\", \"\"\n			    local misc_actor = instance.showing (4, _detalhes.playername)\n			    if (misc_actor) then\n				local debuff_uptime = misc_actor.debuff_uptime_spells and misc_actor.debuff_uptime_spells._ActorTable [spell.id] and misc_actor.debuff_uptime_spells._ActorTable [spell.id].uptime\n				if (debuff_uptime) then\n				    debuff_uptime_total = floor (debuff_uptime / instance.showing:GetCombatTime() * 100)\n				end\n				\n				local spell_cast = misc_actor.spell_cast and misc_actor.spell_cast [spell.id]\n				\n				if (not spell_cast and misc_actor.spell_cast) then\n				    local spellname = GetSpellInfo (spell.id)\n				    for casted_spellid, amount in pairs (misc_actor.spell_cast) do\n					local casted_spellname = GetSpellInfo (casted_spellid)\n					if (casted_spellname == spellname) then\n					    spell_cast = amount .. \" (|cFFFFFF00?|r)\"\n					end\n				    end\n				end\n				if (not spell_cast) then\n				    spell_cast = \"(|cFFFFFF00?|r)\"\n				end\n				cast_string = cast_string .. spell_cast\n			    end\n			    \n			    --Cooltip code\n			    GC:AddLine (\"Casts:\", cast_string or \"?\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (debuff_uptime_total ~= \"\") then\n				GC:AddLine (\"Uptime:\", (debuff_uptime_total or \"?\") .. \"%\")\n				GC:AddStatusBar (100, 1, R, G, B, A)\n			    end\n			    \n			    GC:AddLine (\"Hits:\", spell.counter)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local average = spell.total / total_hits\n			    GC:AddLine (\"Average:\", _detalhes:ToK (average))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"E-Dps:\", _detalhes:ToK (spell.total / combat_time))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"School:\", schooltext)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Normal Hits: \", spell.n_amt .. \" (\" ..floor ( spell.n_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local n_average = spell.n_dmg / spell.n_amt\n			    local T = (combat_time*spell.n_dmg)/spell.total\n			    local P = average/n_average*100\n			    T = P*T/100\n			    \n			    GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (n_average) .. \" / \" .. format (\"%.1f\",spell.n_dmg / T ))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Critical Hits: \", spell.c_amt .. \" (\" ..floor ( spell.c_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (spell.c_amt > 0) then\n				local c_average = spell.c_dmg/spell.c_amt\n				local T = (combat_time*spell.c_dmg)/spell.total\n				local P = average/c_average*100\n				T = P*T/100\n				local crit_dps = spell.c_dmg / T\n				\n				GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (c_average) .. \" / \" .. _detalhes:comma_value (crit_dps))\n			    else\n				GC:AddLine (\"Average / E-Dps: \",  \"0 / 0\")    \n			    end\n			    \n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Multistrike: \", spell.m_amt .. \" (\" ..floor ( spell.m_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"On Normal / On Critical:\", spell.m_amt - spell.m_crit .. \"  / \" .. spell.m_crit)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			elseif (spell.n_curado) then\n			    \n			    local spellschool, schooltext = spell.spellschool, \"\"\n			    if (spellschool) then\n				local t = _detalhes.spells_school [spellschool]\n				if (t and t.name) then\n				    schooltext = t.formated\n				end\n			    end\n			    \n			    local total_hits = spell.counter\n			    local combat_time = instance.showing:GetCombatTime()\n			    \n			    --Cooltip code\n			    GC:AddLine (\"Hits:\", spell.counter)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local average = spell.total / total_hits\n			    GC:AddLine (\"Average:\", _detalhes:ToK (average))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"E-Hps:\", _detalhes:ToK (spell.total / combat_time))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"School:\", schooltext)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Normal Hits: \", spell.n_amt .. \" (\" ..floor ( spell.n_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local n_average = spell.n_curado / spell.n_amt\n			    local T = (combat_time*spell.n_curado)/spell.total\n			    local P = average/n_average*100\n			    T = P*T/100\n			    \n			    GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (n_average) .. \" / \" .. format (\"%.1f\",spell.n_curado / T ))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Critical Hits: \", spell.c_amt .. \" (\" ..floor ( spell.c_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (spell.c_amt > 0) then\n				local c_average = spell.c_curado/spell.c_amt\n				local T = (combat_time*spell.c_curado)/spell.total\n				local P = average/c_average*100\n				T = P*T/100\n				local crit_dps = spell.c_curado / T\n				\n				GC:AddLine (\"Average / E-Hps: \",  _detalhes:ToK (c_average) .. \" / \" .. _detalhes:comma_value (crit_dps))\n			    else\n				GC:AddLine (\"Average / E-Hps: \",  \"0 / 0\")    \n			    end\n			    \n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Multistrike: \", spell.m_amt .. \" (\" ..floor ( spell.m_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"On Normal / On Critical:\", spell.m_amt - spell.m_crit .. \"  / \" .. spell.m_crit)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			end\n			",
+			["attribute"] = false,
+			["name"] = "My Spells",
+			["script"] = "				--get the parameters passed\n				local combat, instance_container, instance = ...\n				--declade the values to return\n				local total, top, amount = 0, 0, 0\n\n				local player\n				local role = UnitGroupRolesAssigned (\"player\")\n				local pet_attribute\n\n				if (role == \"DAMAGER\") then\n					player = combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_DAMAGE\n				elseif (role == \"HEALER\") then    \n					player = combat (DETAILS_ATTRIBUTE_HEAL, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_HEAL\n				else\n					player = combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_DAMAGE\n				end\n\n				--do the loop\n\n				if (player) then\n					local spells = player:GetSpellList()\n					for spellid, spell in pairs (spells) do\n						instance_container:AddValue (spell, spell.total)\n						total = total + spell.total\n						if (top < spell.total) then\n							top = spell.total\n						end\n						amount = amount + 1\n					end\n				    \n					for _, PetName in ipairs (player.pets) do\n						local pet = combat (pet_attribute, PetName)\n						if (pet) then\n							for spellid, spell in pairs (pet:GetSpellList()) do\n								instance_container:AddValue (spell, spell.total, nil, \" (\" .. PetName:gsub ((\" <.*\"), \"\") .. \")\")\n								total = total + spell.total\n								if (top < spell.total) then\n									top = spell.total\n								end\n								amount = amount + 1\n							end\n						end\n					end\n				end\n\n				--return the values\n				return total, top, amount\n			",
+			["target"] = false,
+			["spellid"] = false,
+			["icon"] = "Interface\\ICONS\\ABILITY_MAGE_ARCANEBARRAGE",
+			["script_version"] = 5,
+		}, -- [14]
+		{
+			["source"] = false,
+			["author"] = "Details!",
+			["desc"] = "Damage done to shields",
+			["tooltip"] = "				--get the parameters passed\n				local actor, Combat, instance = ...\n\n				--get the cooltip object (we dont use the convencional GameTooltip here)\n				local GameCooltip = GameCooltip\n\n				--Cooltip code\n				--get the actor total damage absorbed\n				local totalAbsorb = actor.totalabsorbed\n				local format_func = Details:GetCurrentToKFunction()\n\n				--get the damage absorbed by all the actor pets\n				for petIndex, petName in ipairs (actor.pets) do\n				    local pet = Combat :GetActor (1, petName)\n				    if (pet) then\n					totalAbsorb = totalAbsorb + pet.totalabsorbed\n				    end\n				end\n\n				GameCooltip:AddLine (actor:Name(), format_func (_, actor.totalabsorbed))\n				Details:AddTooltipBackgroundStatusbar()\n\n				for petIndex, petName in ipairs (actor.pets) do\n				    local pet = Combat :GetActor (1, petName)\n				    if (pet) then\n					totalAbsorb = totalAbsorb + pet.totalabsorbed\n					\n					GameCooltip:AddLine (petName, format_func (_, pet.totalabsorbed))\n					Details:AddTooltipBackgroundStatusbar()        \n					\n				    end\n				end\n			",
+			["icon"] = "Interface\\ICONS\\Spell_Holy_PowerWordShield",
+			["name"] = "Damage on Shields",
+			["spellid"] = false,
+			["target"] = false,
+			["script"] = "				--get the parameters passed\n				local Combat, CustomContainer, Instance = ...\n				--declade the values to return\n				local total, top, amount = 0, 0, 0\n\n				--do the loop\n				for index, actor in ipairs (Combat:GetActorList(1)) do\n				    if (actor:IsPlayer()) then\n					\n					--get the actor total damage absorbed\n					local totalAbsorb = actor.totalabsorbed\n					\n					--get the damage absorbed by all the actor pets\n					for petIndex, petName in ipairs (actor.pets) do\n					    local pet = Combat :GetActor (1, petName)\n					    if (pet) then\n						totalAbsorb = totalAbsorb + pet.totalabsorbed\n					    end\n					end\n					\n					--add the value to the actor on the custom container\n					CustomContainer:AddValue (actor, totalAbsorb)        \n					\n				    end\n				end\n				--loop end\n\n				--if not managed inside the loop, get the values of total, top and amount\n				total, top = CustomContainer:GetTotalAndHighestValue()\n				amount = CustomContainer:GetNumActors()\n\n				--return the values\n				return total, top, amount\n			",
+			["attribute"] = false,
+			["script_version"] = 1,
+		}, -- [15]
+	},
+	["performance_profiles"] = {
+		["Dungeon"] = {
+			["enabled"] = true,
+			["update_speed"] = 1,
+			["aura"] = true,
+			["miscdata"] = true,
+			["heal"] = true,
+			["use_row_animations"] = true,
+			["energy"] = true,
+			["damage"] = true,
+		},
+		["RaidFinder"] = {
+			["enabled"] = true,
+			["update_speed"] = 1,
+			["aura"] = true,
+			["miscdata"] = true,
+			["heal"] = true,
+			["use_row_animations"] = true,
+			["energy"] = true,
+			["damage"] = true,
+		},
+		["Battleground15"] = {
+			["enabled"] = true,
+			["update_speed"] = 1,
+			["aura"] = true,
+			["miscdata"] = true,
+			["heal"] = true,
+			["use_row_animations"] = true,
+			["energy"] = true,
+			["damage"] = true,
+		},
+		["Raid15"] = {
+			["enabled"] = true,
+			["update_speed"] = 1,
+			["aura"] = true,
+			["miscdata"] = true,
+			["heal"] = true,
+			["use_row_animations"] = true,
+			["energy"] = true,
+			["damage"] = true,
+		},
+		["Mythic"] = {
+			["enabled"] = true,
+			["update_speed"] = 1,
+			["aura"] = true,
+			["miscdata"] = true,
+			["heal"] = true,
+			["use_row_animations"] = true,
+			["energy"] = true,
+			["damage"] = true,
+		},
+		["Arena"] = {
+			["enabled"] = true,
+			["update_speed"] = 1,
+			["aura"] = true,
+			["miscdata"] = true,
+			["heal"] = true,
+			["use_row_animations"] = true,
+			["energy"] = true,
+			["damage"] = true,
+		},
+		["Raid30"] = {
+			["enabled"] = true,
+			["update_speed"] = 1,
+			["aura"] = true,
+			["miscdata"] = true,
+			["heal"] = true,
+			["use_row_animations"] = true,
+			["energy"] = true,
+			["damage"] = true,
+		},
+		["Battleground40"] = {
+			["enabled"] = true,
+			["update_speed"] = 1,
+			["aura"] = true,
+			["miscdata"] = true,
+			["heal"] = true,
+			["use_row_animations"] = true,
+			["energy"] = true,
+			["damage"] = true,
+		},
+	},
+	["exit_log"] = {
+		"1 - Closing Janela Info.", -- [1]
+		"2 - Clearing user place from instances.", -- [2]
+		"4 - Reversing switches.", -- [3]
+		"6 - Saving Config.", -- [4]
+		"7 - Saving Profiles.", -- [5]
+		"8 - Saving nicktag cache.", -- [6]
+	},
+	["spell_school_cache"] = {
+		["中毒"] = 8,
+		["毒性喷吐"] = 8,
+		["死亡苍白"] = 32,
+		["酸液喷射"] = 8,
+		["酸息术"] = 8,
+		["邪能之枪"] = 126,
+		["折磨花粉"] = 8,
+		["新月"] = 64,
+		["投入萨隆邪铁"] = 1,
+		["震荡波"] = 8,
+		["邪火弹药"] = 4,
+		["晶化鲜血"] = 1,
+		["腐蚀：毁灭之影"] = 1,
+		["回荡之星"] = 72,
+		["冰封"] = 16,
+		["动荡的灵魂"] = 32,
+		["Bane"] = 32,
+		["腐化脊髓"] = 32,
+		["腐蚀新星"] = 32,
+		["灵魂腐蚀"] = 32,
+		["副手旋风斩"] = 1,
+		["扭曲新星"] = 32,
+		["冲刷"] = 16,
+		["嘲讽"] = 1,
+		["骨髓分裂"] = 1,
+		["雷霆一击"] = 1,
+		["吞噬"] = 1,
+		["燃烧烈焰"] = 4,
+		["神灵之怒"] = 2,
+		["恐惧冲锋"] = 1,
+		["奥术折磨"] = 64,
+		["爆裂风暴"] = 8,
+		["呼潮引浪"] = 16,
+		["衰弱打击"] = 1,
+		["腐蚀焦油"] = 8,
+		["影舞步"] = 1,
+		["严重撞伤"] = 1,
+		["黑冰箭"] = 48,
+		["窒息之雾"] = 8,
+		["腐化之息"] = 4,
+		["疫病冲击"] = 8,
+		["破碎时空"] = 64,
+		["怨恨之环"] = 32,
+		["仇恨"] = 4,
+		["奥能喷发"] = 64,
+		["奥术冲击"] = 64,
+		["腐溃风暴"] = 4,
+		["奥术之蚀"] = 64,
+		["碧火"] = 4,
+		["冰锥术"] = 16,
+		["投掷巨石"] = 1,
+		["虚空流星"] = 68,
+		["低吼"] = 1,
+		["影舌舔舐"] = 32,
+		["湮没"] = 1,
+		["火焰之盾"] = 4,
+		["邪影屠戮"] = 36,
+		["天堂之怒"] = 2,
+		["狂野穿刺"] = 1,
+		["冲击波"] = 4,
+		["斩杀"] = 1,
+		["撕碎利爪"] = 1,
+		["腐蚀光环"] = 8,
+		["压制"] = 1,
+		["重压"] = 1,
+		["飞刃"] = 1,
+		["冰中之棺"] = 16,
+		["莱索恩标记"] = 32,
+		["邪能淤泥"] = 4,
+		["梦魇爆发"] = 8,
+		["分筋错骨"] = 1,
+		["碎裂之土"] = 8,
+		["Charge"] = 1,
+		["掠食飞扑"] = 1,
+		["夺命黑鸦"] = 1,
+		["蠕虫胆汁"] = 8,
+		["闪击"] = 64,
+		["烬灰"] = 4,
+		["痛苦撕扯"] = 1,
+		["源质刺盾"] = 64,
+		["灵魂哀嚎"] = 32,
+		["Searing Brand"] = 4,
+		["副手灵界打击"] = 1,
+		["冰霜光环"] = 16,
+		["憎恶倾泻"] = 8,
+		["腐烂护甲"] = 1,
+		["阳炎之怒"] = 8,
+		["拆解"] = 1,
+		["漩涡之眼"] = 64,
+		["强化液态地狱火"] = 4,
+		["恶魔之力"] = 32,
+		["包围之风"] = 8,
+		["Meteor"] = 4,
+		["水流喷射"] = 16,
+		["黑暗打击"] = 32,
+		["狂风掼"] = 1,
+		["无尽寒冬"] = 16,
+		["严寒新星"] = 16,
+		["梦魇荆棘"] = 32,
+		["折磨"] = 32,
+		["淹没猛击"] = 16,
+		["十字军打击"] = 1,
+		["寒冰投掷"] = 16,
+		["机遇打击"] = 1,
+		["啄击"] = 1,
+		["锯齿刀刃"] = 1,
+		["动脉出血"] = 1,
+		["鲜血召唤"] = 4,
+		["逆流"] = 16,
+		["腐臭毒液"] = 8,
+		["亵渎之地"] = 32,
+		["恐惧猛击"] = 1,
+		["魔魂吸取"] = 8,
+		["毒性污秽"] = 8,
+		["Fel Rush"] = 127,
+		["维斯瑞兹的凝视"] = 32,
+		["圣殿骑士的裁决"] = 2,
+		["裂伤之触"] = 32,
+		["精神鞭笞"] = 32,
+		["山崩"] = 8,
+		["污染之地"] = 40,
+		["盐水唾沫"] = 16,
+		["火焰箭"] = 4,
+		["疾风步"] = 1,
+		["法力割裂"] = 64,
+		["尾击"] = 1,
+		["燃烧之爪"] = 4,
+		["泰坦之雷"] = 8,
+		["灼烧"] = 4,
+		["闪电打击"] = 8,
+		["怒拳冲"] = 4,
+		["死亡横扫"] = 1,
+		["盐渍飞弹"] = 8,
+		["扭曲暗影"] = 32,
+		["暗影幻灵"] = 32,
+		["冰霜疫病"] = 16,
+		["静电力场"] = 8,
+		["饲料池"] = 8,
+		["毁伤血肉"] = 1,
+		["怨嗣引爆"] = 32,
+		["法力闪耀"] = 64,
+		["提尔的执行者"] = 2,
+		["黑暗"] = 32,
+		["冲锋"] = 1,
+		["时间漩涡"] = 64,
+		["地狱火山"] = 4,
+		["剧毒泥浆"] = 8,
+		["嚎叫"] = 32,
+		["邪能冲刺"] = 4,
+		["血肉撕咬"] = 1,
+		["邪能锁链"] = 4,
+		["飞扑之翼"] = 8,
+		["腐蚀剧毒"] = 8,
+		["钢铁乱舞"] = 1,
+		["晶体碎块"] = 64,
+		["女巫的诅咒"] = 64,
+		["倒刺射击"] = 1,
+		["活力吸取"] = 32,
+		["闪电新星"] = 8,
+		["盾牌猛击"] = 1,
+		["波浪冲击"] = 16,
+		["衰老疫病"] = 8,
+		["急速射击"] = 1,
+		["Tainted Essence"] = 16,
+		["毁灭风暴"] = 8,
+		["阴魂爆裂"] = 32,
+		["梦魇"] = 32,
+		["Spear of Light"] = 2,
+		["Dancing Blade"] = 1,
+		["Arcane Seepage"] = 64,
+		["多重射击"] = 1,
+		["高压"] = 8,
+		["烈焰咒符"] = 4,
+		["针刺"] = 8,
+		["猫鼬撕咬"] = 1,
+		["杀戮命令"] = 1,
+		["低空突袭"] = 1,
+		["Ravenous Leap"] = 1,
+		["断裂飞掠"] = 8,
+		["毁灭之箭"] = 64,
+		["Temporal Charge"] = 64,
+		["特别快递"] = 1,
+		["暗影冲撞"] = 32,
+		["感染意志"] = 40,
+		["山峦之击"] = 8,
+		["狂热"] = 1,
+		["虚空毒液"] = 64,
+		["邪能挥发"] = 4,
+		["暗影烈焰新星"] = 36,
+		["猛虎掌"] = 1,
+		["聚焦毁灭"] = 32,
+		["你炸了！"] = 4,
+		["甩尾"] = 1,
+		["奇美拉射击"] = 16,
+		["碧玉疾风"] = 1,
+		["翻滚冲击"] = 1,
+		["Corrupted Bellow"] = 32,
+		["灼烧烈焰"] = 4,
+		["恶毒能量爆炸"] = 32,
+		["压碎护甲"] = 1,
+		["漩涡激流"] = 16,
+		["不稳定的防御系统"] = 8,
+		["爆炸陷阱"] = 4,
+		["恶臭溃烂"] = 8,
+		["致命变异"] = 8,
+		["愤怒圣印"] = 2,
+		["邪火"] = 4,
+		["洪荒烈火焚烧"] = 4,
+		["混沌弹幕"] = 126,
+		["虚空链接"] = 64,
+		["不幸"] = 64,
+		["魔网裂痕"] = 64,
+		["高爆陷阱"] = 4,
+		["恶魔突起"] = 4,
+		["锯齿利刃"] = 1,
+		["鲜血箭"] = 32,
+		["丢掷图腾"] = 1,
+		["水晶树皮"] = 64,
+		["星涌术"] = 72,
+		["暗影顺劈"] = 32,
+		["大地之盾"] = 8,
+		["汲取生机"] = 32,
+		["冰霜之拳"] = 16,
+		["暗影之盾"] = 32,
+		["恶毒之咬"] = 1,
+		["反制射击"] = 1,
+		["冰枪术"] = 16,
+		["混乱之雨"] = 4,
+		["感染之咬"] = 1,
+		["战刃"] = 1,
+		["占位字符"] = 32,
+		["奥术迷雾"] = 64,
+		["投掷奥术宝典"] = 64,
+		["毁灭打击"] = 1,
+		["折磨感染"] = 32,
+		["煞能喷溅"] = 32,
+		["地狱冲锋"] = 4,
+		["奥术撕咬"] = 64,
+		["亡者的哭嚎"] = 32,
+		["软泥怪爆炸"] = 8,
+		["堕落者之赐"] = 4,
+		["萨格拉斯之焰"] = 4,
+		["虚空消耗"] = 32,
+		["乱射"] = 1,
+		["破军冲锋"] = 1,
+		["混乱之箭"] = 127,
+		["旋风劈砍"] = 1,
+		["水晶尖刺"] = 8,
+		["腐烂瘟疫"] = 32,
+		["麻痹毒药"] = 8,
+		["烈风之地"] = 16,
+		["消融爆破"] = 64,
+		["邪恶猛击"] = 8,
+		["艾莫莉丝标记"] = 32,
+		["邪能炙烤"] = 4,
+		["军团意志"] = 127,
+		["Intercept"] = 1,
+		["焦灼"] = 4,
+		["纠缠凝视"] = 32,
+		["腐蚀毒液"] = 32,
+		["反刍"] = 8,
+		["符文烙印"] = 2,
+		["强化长刀猛刺"] = 1,
+		["灼烧之伤"] = 4,
+		["恐惧荆棘"] = 32,
+		["巨人打击"] = 1,
+		["Glowing Fragment"] = 2,
+		["黑暗聚集体"] = 32,
+		["灾祸"] = 32,
+		["暗影打击"] = 32,
+		["赤喉之咬"] = 32,
+		["泼溅"] = 4,
+		["燃烧的沥青"] = 4,
+		["起泡软泥"] = 8,
+		["麻痹"] = 64,
+		["战神"] = 1,
+		["黑化污染"] = 32,
+		["梦魇爆裂"] = 32,
+		["咆哮烈焰"] = 4,
+		["衰变光束"] = 32,
+		["野蛮槌击"] = 1,
+		["死亡之寒"] = 16,
+		["Annihilated"] = 1,
+		["重击"] = 1,
+		["怒焰"] = 4,
+		["魔火"] = 4,
+		["雷拳之怒"] = 8,
+		["烈焰打击"] = 4,
+		["刚毛倒刺"] = 8,
+		["奥丁之怒"] = 4,
+		["箭雨"] = 1,
+		["水晶之刺"] = 1,
+		["割裂"] = 1,
+		["极寒冰流"] = 16,
+		["Cleansing Rage"] = 64,
+		["共生之击"] = 33,
+		["爆裂溃烂"] = 40,
+		["邪能方尖碑"] = 1,
+		["混乱风暴"] = 8,
+		["熔岩"] = 4,
+		["射击"] = 1,
+		["晶化大地"] = 8,
+		["托里姆之箭"] = 8,
+		["眼棱"] = 124,
+		["黑暗之影"] = 32,
+		["标记射击"] = 1,
+		["诅咒之血"] = 32,
+		["邪能呕吐物"] = 4,
+		["酸液洪流"] = 8,
+		["纪元宝珠跌落"] = 64,
+		["灵魂之泉"] = 32,
+		["月光风暴"] = 64,
+		["投掷长矛"] = 1,
+		["扩散感染"] = 40,
+		["气体泡泡"] = 16,
+		["腐化物残渣"] = 32,
+		["穿冰破雪"] = 1,
+		["烈焰之箭"] = 4,
+		["实验型脉冲手雷"] = 8,
+		["剑刃漩涡"] = 1,
+		["疫病撕咬"] = 8,
+		["力场新星"] = 64,
+		["邪能冲击"] = 1,
+		["熔岩之拳"] = 4,
+		["邪狂之怒"] = 32,
+		["亚煞极的精华"] = 32,
+		["Burst of Flame"] = 4,
+		["炽燃冲锋"] = 4,
+		["炽燃之骨"] = 4,
+		["吸取生命"] = 32,
+		["腐化胆汁"] = 4,
+		["多汁激素"] = 8,
+		["暗影箭雨"] = 32,
+		["泰坦猛击"] = 1,
+		["Mark of Frost Explosion"] = 16,
+		["怒意宣泄"] = 1,
+		["醉酿投"] = 1,
+		["大地猛击"] = 1,
+		["梦魇爆破"] = 32,
+		["雷霆践踏"] = 8,
+		["灼热撕裂"] = 4,
+		["爆裂弹"] = 4,
+		["潜袭喷发"] = 32,
+		["暴虐之风"] = 1,
+		["死水冲击"] = 16,
+		["渗漏之雾"] = 8,
+		["震颤暗影"] = 32,
+		["凤凰重生"] = 4,
+		["缩小"] = 64,
+		["粉碎之握"] = 8,
+		["星光之尘"] = 64,
+		["静电充能"] = 64,
+		["无形"] = 32,
+		["粉碎意志"] = 32,
+		["混乱之刃"] = 127,
+		["神圣震击"] = 2,
+		["坠星"] = 64,
+		["邪能飞轮"] = 4,
+		["残酷切割"] = 1,
+		["异域奇点"] = 64,
+		["彗星冲击"] = 1,
+		["剑刃乱舞"] = 1,
+		["暮光箭"] = 32,
+		["邪能眩光"] = 32,
+		["邪能炽燃"] = 4,
+		["寒冷"] = 16,
+		["折跃冲击"] = 64,
+		["圣洁庇护"] = 2,
+		["冰冷触摸"] = 16,
+		["暴乱狂风"] = 8,
+		["净化火焰"] = 2,
+		["腐化宝珠"] = 16,
+		["暗言术：灭"] = 32,
+		["破碎符文"] = 32,
+		["寒冰暴雨"] = 16,
+		["裂肠者"] = 1,
+		["灵魂释放"] = 2,
+		["神奇辐光"] = 64,
+		["Toxic Slice"] = 8,
+		["恐惧梦魇"] = 32,
+		["月影箭"] = 64,
+		["腐败之息"] = 32,
+		["迸涌"] = 4,
+		["亵渎"] = 32,
+		["冰风暴"] = 16,
+		["抑制光环"] = 32,
+		["封印魔法"] = 64,
+		["Smoldering"] = 4,
+		["闪电链"] = 8,
+		["鲜血浸没"] = 32,
+		["绝不留情"] = 64,
+		["奥术箭"] = 64,
+		["鸣叫"] = 1,
+		["原始狂暴"] = 1,
+		["隔绝怒火"] = 1,
+		["惩击"] = 2,
+		["半月"] = 64,
+		["锯齿圆盘"] = 1,
+		["恶灵爆破"] = 32,
+		["暴露的核心"] = 64,
+		["冰霜之镰"] = 16,
+		["毁灭的苏醒"] = 32,
+		["满溢爆发"] = 8,
+		["梦魇孢子"] = 8,
+		["冰冻灵魂"] = 16,
+		["苦痛之焰"] = 4,
+		["欺诈冲击波"] = 32,
+		["烈焰冲击"] = 4,
+		["渗漏邪能"] = 4,
+		["瞄准射击"] = 1,
+		["狂热横扫"] = 4,
+		["光芒"] = 4,
+		["毒水腐蚀"] = 16,
+		["脱缰烈焰"] = 4,
+		["硫磺剑"] = 4,
+		["死亡之握"] = 1,
+		["神圣风暴"] = 2,
+		["霜降"] = 16,
+		["森提纳克斯毁灭区域"] = 127,
+		["反馈火焰"] = 4,
+		["哀伤之触"] = 32,
+		["熔岩波"] = 4,
+		["逆风"] = 1,
+		["恶魔之咬"] = 1,
+		["Ball Lightning"] = 8,
+		["莫德古德的疾病"] = 32,
+		["恶魔践踏"] = 4,
+		["黑暗毁灭"] = 32,
+		["狂怒火焰"] = 4,
+		["刺骨挥砍"] = 16,
+		["黑心新星"] = 32,
+		["邪恶切割"] = 1,
+		["邪能腐蚀"] = 4,
+		["火团熔岩"] = 4,
+		["副手剑刃风暴"] = 1,
+		["被吸收的法力"] = 64,
+		["世界击碎者"] = 4,
+		["地狱火撞击"] = 1,
+		["午夜诅咒"] = 32,
+		["穿刺爪击"] = 1,
+		["击退"] = 1,
+		["邪能之刃"] = 1,
+		["奥术渗流"] = 64,
+		["凶猛狂暴"] = 1,
+		["邪能镰刀"] = 4,
+		["刺藤"] = 8,
+		["火焰之息"] = 4,
+		["还击"] = 1,
+		["胡萝卜吐息"] = 8,
+		["暴怒"] = 1,
+		["火焰爆裂"] = 4,
+		["践踏"] = 1,
+		["漩涡之镰"] = 1,
+		["尖啸旋风"] = 16,
+		["吸收活力"] = 32,
+		["吸取未来"] = 64,
+		["眼球风暴"] = 4,
+		["鲜血四溅"] = 1,
+		["污秽爆破"] = 16,
+		["亵渎诅咒"] = 32,
+		["暴风雨"] = 8,
+		["梦魇回荡"] = 32,
+		["黑石弹幕"] = 1,
+		["Arcane Fog"] = 64,
+		["根除"] = 127,
+		["战刃大师"] = 1,
+		["聚焦冲击"] = 64,
+		["幻影新星"] = 4,
+		["邪焰顺劈"] = 4,
+		["石血箭"] = 8,
+		["Throw Dynamite"] = 4,
+		["毒瘴"] = 32,
+		["邪恶腐败"] = 32,
+		["魔法共鸣"] = 64,
+		["甲壳碎片"] = 1,
+		["缠绕之网"] = 64,
+		["英勇投掷"] = 1,
+		["奥能之环"] = 64,
+		["醉拳"] = 1,
+		["寒冰宝珠"] = 16,
+		["被污染的精华"] = 16,
+		["头戴武器"] = 1,
+		["鲜血炸弹"] = 32,
+		["净化邪恶"] = 4,
+		["邪能弹幕"] = 4,
+		["腐臭软泥"] = 8,
+		["折磨引爆"] = 32,
+		["灼热伤口"] = 4,
+		["米尔菲丝的盛怒"] = 8,
+		["混乱打击"] = 127,
+		["烈焰狂风"] = 4,
+		["左右开弓"] = 1,
+		["引力井"] = 32,
+		["发射药剂"] = 8,
+		["爆炸酒桶"] = 4,
+		["投掷酒桶"] = 8,
+		["发脾气"] = 1,
+		["熔岩释放"] = 4,
+		["爆炸"] = 32,
+		["地狱火之力"] = 4,
+		["瘟疫之种"] = 32,
+		["恶魔之刃"] = 32,
+		["酸液喷涌"] = 8,
+		["Detonate: Searing Brand"] = 4,
+		["神圣之火"] = 2,
+		["恶酸唾液"] = 4,
+		["时空爆发"] = 64,
+		["风箭"] = 8,
+		["枯萎"] = 32,
+		["痛楚"] = 127,
+		["虹吸魔法"] = 64,
+		["Corpo-a-Corpo"] = 1,
+		["灵魂烈焰"] = 36,
+		["艾露恩之泪"] = 64,
+		["雷霆飞弹"] = 8,
+		["炽炎注视"] = 4,
+		["极度冰寒"] = 16,
+		["燃烧的灵魂"] = 4,
+		["腐肉梦魇"] = 32,
+		["上古毒瘴"] = 32,
+		["灼热射击"] = 4,
+		["黏糊糊的黏质"] = 8,
+		["业报之触"] = 8,
+		["邪能束缚"] = 4,
+		["奥术飞弹"] = 64,
+		["星辰打击"] = 64,
+		["聚焦法力光束"] = 64,
+		["吸血"] = 1,
+		["暗夜井能量"] = 64,
+		["引爆：冰霜印记"] = 16,
+		["副手冰霜打击"] = 16,
+		["冰刺"] = 16,
+		["复仇哀嚎"] = 32,
+		["冰冻陷阱"] = 16,
+		["琥珀雕刻刀"] = 8,
+		["风怒攻击"] = 1,
+		["辐射梦魇"] = 32,
+		["暗言术：痛"] = 32,
+		["邪能燃烬"] = 4,
+		["深渊猛击"] = 1,
+		["暗影伏击"] = 8,
+		["伊利达雷之愤"] = 127,
+		["根须爆裂"] = 1,
+		["吞噬之影"] = 32,
+		["恶魔变形"] = 124,
+		["粘稠沥青"] = 8,
+		["撕裂肉体"] = 1,
+		["暴怒的风暴元素"] = 8,
+		["火舌"] = 4,
+		["下冲气流"] = 8,
+		["梦魇花蕾"] = 32,
+		["Burst of Ice"] = 16,
+		["引爆：灼热烙印"] = 4,
+		["剧毒之矛"] = 8,
+		["爆裂碎片"] = 4,
+		["点燃魔刃"] = 4,
+		["能量迸发"] = 4,
+		["无情风暴"] = 16,
+		["时光充能"] = 64,
+		["岩浆柱"] = 4,
+		["袖剑风暴"] = 1,
+		["捕熊陷阱"] = 1,
+		["邪恶光环"] = 32,
+		["颤雷"] = 8,
+		["多头出击"] = 1,
+		["散弹射击"] = 4,
+		["怒击"] = 1,
+		["炎爆术"] = 4,
+		["净化的幼龙吐息"] = 8,
+		["设置炸弹"] = 4,
+		["水晶弹幕"] = 1,
+		["鞭笞"] = 1,
+		["笨拙猛击"] = 1,
+		["引爆：奥术宝珠"] = 64,
+		["火葬"] = 4,
+		["折磨挥击"] = 32,
+		["雷霆风暴"] = 8,
+		["炽烈横扫"] = 4,
+		["混沌能量"] = 4,
+		["疾风炸弹"] = 8,
+		["灰烬冲击"] = 4,
+		["冲刺打击"] = 1,
+		["怨恨冲锋"] = 1,
+		["暴风斩"] = 8,
+		["暗影冲击"] = 32,
+		["奥术弹幕"] = 64,
+		["法力脉冲"] = 64,
+		["Bane Nova"] = 32,
+		["月火术"] = 64,
+		["死灵毒液"] = 8,
+		["灵魂过载"] = 8,
+		["返回岩石形态"] = 32,
+		["煞能尖刺"] = 32,
+		["感染"] = 40,
+		["燃烧之烙"] = 4,
+		["自爆"] = 4,
+		["以太猛刺"] = 16,
+		["穿透打击"] = 1,
+		["Nether Rip"] = 32,
+		["熔火琥珀"] = 4,
+		["辐射"] = 64,
+		["沸腾腐蚀"] = 4,
+		["鲜血突袭"] = 16,
+		["地狱烈焰"] = 4,
+		["时光过载"] = 64,
+		["发射瘟疫凝胶"] = 8,
+		["电能释放"] = 8,
+		["Rapid Rupture"] = 1,
+		["撕碎"] = 1,
+		["裂痕"] = 1,
+		["毁灭觉醒"] = 64,
+		["邪能冲撞"] = 127,
+		["镇压协议"] = 64,
+		["短剑痛击"] = 1,
+		["生命分流"] = 32,
+		["影袭"] = 1,
+		["屠戮精华"] = 64,
+		["喷洒沙砾"] = 8,
+		["灰烬之雨"] = 4,
+		["真气波"] = 8,
+		["破碎"] = 32,
+		["快速传染"] = 8,
+		["小蜘蛛毒素"] = 8,
+		["风领主之击"] = 1,
+		["撕咬"] = 1,
+		["反冲"] = 4,
+		["黑暗释放"] = 32,
+		["寒冰联结"] = 16,
+		["扭曲炸弹"] = 64,
+		["鸡群火箭"] = 4,
+		["正义之锤"] = 2,
+		["季风"] = 1,
+		["潮汐重击"] = 16,
+		["套索射击"] = 1,
+		["圣光审判"] = 2,
+		["毁伤"] = 1,
+		["炼狱箭"] = 4,
+		["暗影爆裂"] = 32,
+		["近程炸弹爆炸"] = 4,
+		["寻踪虫群"] = 32,
+		["烈火烙印"] = 4,
+		["魔法之牙"] = 64,
+		["重击利爪"] = 1,
+		["神圣之锤"] = 2,
+		["腐蚀宝珠"] = 32,
+		["Flurry of Steel"] = 1,
+		["秘法旋风"] = 64,
+		["锯齿劈斩"] = 1,
+		["火焰的召唤"] = 4,
+		["冰霜爆裂"] = 16,
+		["风暴释放"] = 8,
+		["粗糙的碎片"] = 1,
+		["潮汐奔涌"] = 16,
+		["强化邪能束缚"] = 4,
+		["神圣之地"] = 2,
+		["横扫"] = 1,
+		["空间之镰"] = 64,
+		["暗影愈合"] = 32,
+		["副手风暴轰击"] = 1,
+		["烈火黏质"] = 4,
+		["腐烂之咬"] = 8,
+		["地狱喷发"] = 4,
+		["回旋锯刃"] = 1,
+		["Proximity Bomb Explode"] = 4,
+		["毁灭践踏"] = 1,
+		["折魔吐息"] = 32,
+		["女皇赞歌"] = 1,
+		["喷吐脓液"] = 32,
+		["明月打击"] = 64,
+		["猛力横扫"] = 1,
+		["震荡践踏"] = 4,
+		["神秘冲击"] = 64,
+		["暗影撕裂"] = 32,
+		["毒血"] = 8,
+		["锋锐之霜"] = 16,
+		["法力释放"] = 64,
+		["信息素云团"] = 8,
+		["裂魂"] = 1,
+		["剧毒蜕变"] = 8,
+		["火舌攻击"] = 4,
+		["释能"] = 64,
+		["致命药膏"] = 8,
+		["奥术切割者"] = 64,
+		["强力爆炸"] = 64,
+		["冰霜爆炸印记"] = 16,
+		["黏呼呼的"] = 8,
+		["丝黛拉苟萨之息"] = 4,
+		["刀扇"] = 1,
+		["粉碎打击"] = 8,
+		["灼热彗星"] = 4,
+		["荆棘术"] = 8,
+		["死疽溃烂"] = 40,
+		["蛛网"] = 8,
+		["暗影之拥"] = 32,
+		["音速爆裂"] = 1,
+		["副手影舞步"] = 1,
+		["易爆的邪能冲击"] = 4,
+		["灼热之面"] = 4,
+		["毁灭之浪"] = 16,
+		["邪恶根须"] = 8,
+		["腐臭蜂群"] = 32,
+		["孢子炸弹"] = 8,
+		["灼热撕咬"] = 4,
+		["毁灭宝珠"] = 4,
+		["神圣惩击"] = 2,
+		["哀嚎之风"] = 8,
+		["凛冬将至"] = 16,
+		["抑心光环"] = 1,
+		["不稳定的混合物"] = 8,
+		["嗜血"] = 1,
+		["恐惧连结"] = 32,
+		["冰霜打击"] = 16,
+		["雷铸之矛"] = 1,
+		["天启"] = 32,
+		["时光珠"] = 64,
+		["残害"] = 1,
+		["势大力沉"] = 1,
+		["弹幕射击"] = 1,
+		["坍缩"] = 32,
+		["复仇打击"] = 1,
+		["劈砍灵魂"] = 32,
+		["凶猛撕咬"] = 1,
+		["侵蚀灵魂"] = 1,
+		["消蚀烈焰"] = 4,
+		["双管齐下"] = 1,
+		["球状闪电"] = 8,
+		["闪电吐息"] = 8,
+		["蚀心之雾"] = 32,
+		["死亡嚎叫"] = 32,
+		["绝望之破"] = 32,
+		["哀伤之雾"] = 32,
+		["炽燃地狱火"] = 4,
+		["吞噬灵魂"] = 4,
+		["烈焰风暴"] = 4,
+		["灵魂回响"] = 32,
+		["荒芜之地"] = 4,
+		["信息素痕迹"] = 8,
+		["反抗引力"] = 32,
+		["邪能火箭"] = 4,
+		["奥术之怒"] = 64,
+		["水晶碎片"] = 64,
+		["消散"] = 1,
+		["召唤附魔武器"] = 4,
+		["轮回之触"] = 1,
+		["痛苦的灵魂"] = 32,
+		["天堂炽焰"] = 4,
+		["暗影新星"] = 32,
+		["副手斩杀"] = 1,
+		["吸取灵魂"] = 32,
+		["黑洞"] = 1,
+		["火焰新星"] = 4,
+		["燃烧剑刃"] = 32,
+		["死水弹幕"] = 16,
+		["灵魂之镰"] = 32,
+		["魔法爆裂"] = 64,
+		["回归打击"] = 1,
+		["灵魂收割"] = 4,
+		["新生光环"] = 8,
+		["末日之刺"] = 32,
+		["Eye of the Tiger"] = 8,
+		["Mark of Frost"] = 16,
+		["净化之怒"] = 64,
+		["猛虎之眼"] = 8,
+		["好奇凝视"] = 1,
+		["带钩长矛"] = 1,
+		["魔精之波"] = 8,
+		["酸液喷泉"] = 8,
+		["风怒"] = 1,
+		["燃烧护甲"] = 4,
+		["Mana Rupture"] = 64,
+		["透心折磨"] = 64,
+		["恐惧之眼"] = 32,
+		["切割漩涡"] = 1,
+		["裂体撕扯"] = 1,
+		["刺骨"] = 1,
+		["神圣土地"] = 2,
+		["脓疮打击"] = 1,
+		["浓缩信息素"] = 4,
+		["邪焰泥浆"] = 4,
+		["带电鳞片"] = 8,
+		["腐蚀：虚幻现实"] = 4,
+		["冰冻"] = 1,
+		["邪污暗影"] = 32,
+		["荆棘虫群"] = 8,
+		["含毒之刺"] = 8,
+		["熔岩爆裂"] = 4,
+		["重型撞击"] = 16,
+		["震地践踏"] = 8,
+		["尘土抽击"] = 8,
+		["命运相连"] = 32,
+		["邪能之爪"] = 4,
+		["永恒黑暗"] = 32,
+		["野兽狂野"] = 1,
+		["水疱炸弹"] = 8,
+		["奥术洪流"] = 64,
+		["寒冰之刃"] = 17,
+		["Frozen Tempest"] = 16,
+		["梦魇伤口"] = 32,
+		["灼烧土地"] = 4,
+		["Sear"] = 4,
+		["心碎"] = 1,
+		["龙息术"] = 4,
+		["混乱充能爆炸"] = 64,
+		["嚎镇八方"] = 1,
+		["Stone Block"] = 1,
+		["啸风"] = 1,
+		["Taint of the Sea"] = 16,
+		["闪光餐叉"] = 1,
+		["打击"] = 1,
+		["闪电之盾"] = 8,
+		["奥术爆发"] = 64,
+		["吞噬之夜"] = 64,
+		["液态地狱火"] = 4,
+		["熔岩之池"] = 4,
+		["时光分裂"] = 64,
+		["冰川突进"] = 16,
+		["倒刺荆棘"] = 8,
+		["黑暗冥想"] = 32,
+		["绝对零度"] = 16,
+		["离子爆炸"] = 4,
+		["梦魇腐蚀"] = 32,
+		["旋风倾泻"] = 4,
+		["动荡宝珠"] = 64,
+		["冰舌舔舐"] = 16,
+		["势不可挡"] = 64,
+		["虚空领域"] = 64,
+		["折磨飓风"] = 32,
+		["末日决战"] = 64,
+		["燃烧"] = 4,
+		["戈德林之牙"] = 64,
+		["重殴"] = 1,
+		["迅猛突袭"] = 1,
+		["烈焰升龙踢"] = 4,
+		["酸性创伤"] = 8,
+		["响尾蛇"] = 8,
+		["回旋之刃"] = 1,
+		["冰霜印记"] = 16,
+		["血红打击"] = 8,
+		["腐化灌注"] = 1,
+		["撕裂"] = 1,
+		["不稳定的脓液"] = 8,
+		["凤凰烈焰"] = 4,
+		["星辰坠落"] = 72,
+		["腐蚀流星"] = 32,
+		["电击"] = 8,
+		["暗影箭"] = 32,
+		["艾露恩的穿刺凝视"] = 64,
+		["触须猛击"] = 8,
+		["感染吐息"] = 40,
+		["沙尘暴"] = 8,
+		["隔离区"] = 64,
+		["鬼灵冲锋"] = 32,
+		["暗影收割"] = 32,
+		["邪炽之地"] = 4,
+		["熔岩喷吐"] = 4,
+		["毁灭之触"] = 32,
+		["火焰核心"] = 4,
+		["冻结"] = 64,
+		["徘徊暗影"] = 32,
+		["虚空之刺"] = 64,
+		["邪能爆发"] = 4,
+		["恐惧爆炸"] = 32,
+		["颈羽倒竖"] = 8,
+		["邪污爆炸"] = 32,
+		["伊森德雷标记"] = 32,
+		["不稳定的毒素"] = 8,
+		["轻蔑冲锋"] = 1,
+		["玛诺洛斯之血"] = 4,
+		["秘法陷阱"] = 4,
+		["梦魇长枪"] = 32,
+		["钻孔"] = 8,
+		["剧毒之刃"] = 1,
+		["雷霆之箭"] = 8,
+		["黑暗闪电"] = 8,
+		["塌缩之影"] = 32,
+		["剧毒花粉"] = 8,
+		["末日之刃"] = 4,
+		["强效力量祝福"] = 2,
+		["猛禽一击"] = 1,
+		["永冻"] = 16,
+		["撕裂旋风"] = 1,
+		["重碾"] = 1,
+		["盲目之光"] = 2,
+		["苦修"] = 2,
+		["吞噬魔法"] = 124,
+		["Power Overwhelming"] = 64,
+		["晶化冲击波"] = 1,
+		["太阳之泪"] = 4,
+		["腐蚀之种"] = 32,
+		["冰霜脉冲"] = 16,
+		["苦痛印记"] = 32,
+		["腐烂根须"] = 8,
+		["扫堂腿"] = 1,
+		["震荡射击"] = 1,
+		["清道夫"] = 64,
+		["秩序之源"] = 2,
+		["石拳"] = 8,
+		["腐烂光环"] = 1,
+		["炮弹弹幕"] = 1,
+		["天降杀机"] = 1,
+		["燃烧之焰"] = 4,
+		["阿古斯之印"] = 4,
+		["汤汁泼洒"] = 16,
+		["闪电箭"] = 8,
+		["激光灼烧"] = 4,
+		["碎玉闪电"] = 8,
+		["黑暗宣泄"] = 32,
+		["绞喉"] = 1,
+		["穿刺"] = 1,
+		["猛击"] = 1,
+		["净化毁灭"] = 64,
+		["邪能风暴"] = 4,
+		["抽取"] = 32,
+		["召云聚气"] = 1,
+		["盾击"] = 1,
+		["复仇"] = 1,
+		["奥术桎梏"] = 64,
+		["熔岩爆裂过载"] = 4,
+		["暗影之怒"] = 32,
+		["巨人重击"] = 1,
+		["漩涡"] = 32,
+		["邪能岩弹"] = 4,
+		["黑色胆汁"] = 32,
+		["跪拜火焰！"] = 4,
+		["弧光风暴"] = 8,
+		["投掷沉默宝典"] = 32,
+		["混乱顺劈"] = 124,
+		["艾露恩之怒"] = 2,
+		["Brackwater Barrage"] = 16,
+		["霜寒彗星"] = 16,
+		["暴龙之咬"] = 1,
+		["全力之击"] = 4,
+		["惩戒光环"] = 2,
+		["血之疫病"] = 32,
+		["风暴之眼"] = 8,
+		["动荡炙焰"] = 4,
+		["梦魇惊魂"] = 1,
+		["剧毒匕首"] = 8,
+		["暮光渗透"] = 32,
+		["冰川打击"] = 16,
+		["Detonate: Arcane Orb"] = 64,
+		["梦魇之息"] = 4,
+		["恶毒鬼魅"] = 32,
+		["烈火轰击"] = 4,
+		["守护者新星"] = 64,
+		["巨喉之怒"] = 16,
+		["岩浆喷吐"] = 4,
+		["Detonation"] = 4,
+		["巨龙怒吼"] = 1,
+		["导管短路"] = 8,
+		["剑刃风暴"] = 1,
+		["腐肉波浪"] = 32,
+		["舞动之刃"] = 1,
+		["凋零凝视"] = 32,
+		["真气爆裂"] = 8,
+		["风暴边缘"] = 8,
+		["灵魂切削"] = 4,
+		["邪能小鬼爆炸"] = 4,
+		["射线"] = 64,
+		["虚空冲击"] = 1,
+		["破法者"] = 1,
+		["弹跳闪电"] = 8,
+		["大地咆哮"] = 8,
+		["腐肉瘟疫"] = 32,
+		["治疗符文"] = 2,
+		["爆裂"] = 32,
+		["腐蚀不谐力场"] = 1,
+		["灼热烙印"] = 4,
+		["圣光冲击"] = 2,
+		["副手湮灭"] = 1,
+		["暴乱"] = 1,
+		["撕咬狂乱"] = 1,
+		["野兽顺劈"] = 1,
+		["无尽深渊"] = 32,
+		["投掷鱼人"] = 1,
+		["光明涌动"] = 4,
+		["剧毒新星"] = 8,
+		["暴君之槌"] = 4,
+		["死神的抚摩"] = 32,
+		["乱舞"] = 1,
+		["石血喷泉"] = 8,
+		["大地之鳞"] = 1,
+		["火焰冲击"] = 4,
+		["风之爆裂"] = 1,
+		["水泡爆炸"] = 16,
+		["蠕行暗影"] = 32,
+		["天启梦魇"] = 4,
+		["凛风冲击"] = 16,
+		["野蛮打击"] = 1,
+		["痛苦之咒"] = 16,
+		["拉文霍德玺戒"] = 32,
+		["刀锋之牙"] = 1,
+		["军刀猛刺"] = 1,
+		["混乱压制"] = 127,
+		["翔龙在天"] = 1,
+		["焰怒"] = 4,
+		["谴责法令"] = 32,
+		["奥能脉冲"] = 64,
+		["爆裂充能"] = 64,
+		["烈焰之矛"] = 4,
+		["奥术撕扯"] = 64,
+		["菌类孢子"] = 8,
+		["闪现突袭"] = 1,
+		["夺魂"] = 32,
+		["燃烧猛击"] = 4,
+		["恐惧蔓延"] = 1,
+		["渗透暗影"] = 32,
+		["虚空爆炸"] = 32,
+		["针刺虫群"] = 1,
+		["寒冰洪流"] = 16,
+		["爆发暗影"] = 32,
+		["虎钳"] = 1,
+		["灵魂裂劈"] = 32,
+		["瘟疫长牙"] = 8,
+		["痛苦鞭笞"] = 8,
+		["奥术之球"] = 64,
+		["风暴"] = 8,
+		["月影枪"] = 64,
+		["邪能火球"] = 4,
+		["秽物天降"] = 32,
+		["符文之斧"] = 32,
+		["利爪猛击"] = 1,
+		["星爆"] = 64,
+		["君王之灾"] = 8,
+		["催眠之云"] = 8,
+		["余震"] = 1,
+		["刃舞"] = 1,
+		["神经冲击"] = 8,
+		["圣言术：罚"] = 2,
+		["血之剑刃"] = 1,
+		["破灭"] = 64,
+		["强烈燃烧"] = 4,
+		["黑暗孤寂"] = 32,
+		["魔爆术"] = 64,
+		["风暴打击"] = 1,
+		["钢铁怒吼"] = 1,
+		["窒息之尘"] = 8,
+		["虚空爆发"] = 32,
+		["烈焰冲撞"] = 4,
+		["碎裂波动"] = 16,
+		["黑暗裂隙"] = 32,
+		["Arise, Fallen"] = 32,
+		["离开暗夜井"] = 64,
+		["远程大军之印"] = 1,
+		["爆炸符文"] = 4,
+		["阴霾"] = 32,
+		["黑暗收割"] = 32,
+		["腐化弹幕"] = 8,
+		["恐惧冲击"] = 1,
+		["正中眉心"] = 1,
+		["剧毒之池"] = 8,
+		["荣誉束缚"] = 2,
+		["静电冲击"] = 8,
+		["Arcane Orb"] = 64,
+		["致伤打击"] = 1,
+		["腐蚀之触"] = 32,
+		["冰霜撕咬"] = 16,
+		["诸神黄昏"] = 4,
+		["仁慈光环"] = 2,
+		["灵魂虹吸"] = 32,
+		["Cleansing Destruction"] = 64,
+		["吸取活力"] = 1,
+		["Crystalline Fragments"] = 64,
+		["符文专注"] = 8,
+		["魔法燃烧"] = 64,
+		["奥术充能"] = 64,
+		["石化云雾"] = 8,
+		["晶化双剑"] = 16,
+		["热浪"] = 4,
+		["水晶冻结"] = 64,
+		["爆燃冲刺"] = 1,
+		["能量释放"] = 64,
+		["心灵尖刺"] = 48,
+		["易爆能量"] = 64,
+		["利刃冲刺"] = 1,
+		["寒冰新星"] = 16,
+		["符文蚀刻之斧"] = 32,
+		["致死打击"] = 1,
+		["闪电冲击"] = 8,
+		["眩目闪光"] = 32,
+		["星辰耀斑"] = 72,
+		["驱逐之光"] = 2,
+		["奉献"] = 2,
+		["毒性几丁质"] = 8,
+		["受折磨者的哭号"] = 1,
+		["萨萨里安的印记"] = 1,
+		["灼烧光棱"] = 4,
+		["爆裂熔炉"] = 4,
+		["聚集风暴"] = 8,
+		["献祭光环"] = 4,
+		["枯萎的邪火"] = 4,
+		["熔岩冲击"] = 8,
+		["践踏猛击"] = 1,
+		["轰鸣一击"] = 64,
+		["拍击"] = 1,
+		["流毒獠牙"] = 8,
+		["霜覆"] = 16,
+		["轰"] = 4,
+		["神秘射线"] = 64,
+		["裂伤"] = 1,
+		["梦魇凝视"] = 32,
+		["斜掠"] = 1,
+		["能量吸取"] = 64,
+		["腐化吐息"] = 32,
+		["震耳尖啸"] = 1,
+		["毒液注射"] = 8,
+		["黑暗之槌"] = 32,
+		["烧灼"] = 4,
+		["挑衅打击"] = 1,
+		["岩石吐息"] = 8,
+		["灼热燃烧"] = 4,
+		["刺伤"] = 1,
+		["Swirling Water"] = 16,
+		["手枪射击"] = 1,
+		["淬毒刀刃"] = 8,
+		["禁忌魔法"] = 64,
+		["熔岩猛击"] = 4,
+		["纳鲁之光"] = 2,
+		["暮光血箭"] = 96,
+		["能量涌动"] = 64,
+		["祝福之锤"] = 2,
+		["充能箭"] = 64,
+		["双重扫击"] = 1,
+		["焰火"] = 4,
+		["冰封地面"] = 16,
+		["献祭"] = 4,
+		["燃烧的琥珀"] = 4,
+		["破甲"] = 1,
+		["灵魂残片"] = 32,
+		["献祭打击"] = 4,
+		["海盐毒素"] = 8,
+		["烫伤"] = 4,
+		["猛鹫"] = 1,
+		["抓挠"] = 1,
+		["熔火之皮"] = 4,
+		["石块"] = 1,
+		["喧闹之水"] = 16,
+		["纠缠之根"] = 8,
+		["利齿撕咬"] = 1,
+		["升龙霸"] = 1,
+		["能量箭"] = 64,
+		["烈焰"] = 4,
+		["俘虏之潮"] = 16,
+		["雪崩"] = 16,
+		["邪焰风暴"] = 4,
+		["穿刺射击"] = 1,
+		["约束混沌"] = 64,
+		["暗影飓风"] = 32,
+		["阳炎术"] = 8,
+		["压倒能量"] = 4,
+		["风暴之锤"] = 1,
+		["英勇飞跃"] = 1,
+		["灵魂链接"] = 32,
+		["奔踏"] = 1,
+		["能量虚空"] = 32,
+		["喷吐闪电"] = 8,
+		["掠夺之根"] = 8,
+		["腐烂之触"] = 8,
+		["风爆弹"] = 8,
+		["烈焰盾"] = 4,
+		["脱水"] = 32,
+		["漩涡之水"] = 16,
+		["邪能爆破"] = 4,
+		["幽灵打击"] = 32,
+		["闪光术"] = 64,
+		["轻蔑之触"] = 32,
+		["爆裂弹幕"] = 64,
+		["复仇回避"] = 1,
+		["断体劈砍"] = 1,
+		["公正之剑"] = 1,
+		["光明之枪"] = 2,
+		["风暴之鞭"] = 8,
+		["黑暗水域"] = 32,
+		["Arcane Tether"] = 64,
+		["影霜碎片"] = 48,
+		["岩浆猛击"] = 4,
+		["爆裂射击"] = 1,
+		["连环爆裂"] = 8,
+		["粉碎巨石"] = 1,
+		["Brackish Bolt"] = 8,
+		["强力撕咬"] = 1,
+		["猩红追击"] = 4,
+		["巨龙冲锋"] = 1,
+		["煞能残渣"] = 32,
+		["利刃冲锋"] = 1,
+		["盾刺"] = 1,
+		["鲜血脓液"] = 32,
+		["粘稠的软泥"] = 8,
+		["激流冲击"] = 8,
+		["凶猛利爪"] = 1,
+		["野兽狡诈"] = 1,
+		["放血扫击"] = 1,
+		["直取敌喉"] = 1,
+		["枯萎凋零"] = 32,
+		["蠕行梦魇"] = 32,
+		["提尔之眼"] = 2,
+		["撕裂灵魂"] = 32,
+		["邪能光束"] = 4,
+		["烈焰缠身"] = 4,
+		["能量倾泻"] = 64,
+		["寒冰箭"] = 16,
+		["虚空之触"] = 64,
+		["Focused Blast"] = 64,
+		["血滴子"] = 1,
+		["厄祖玛特的枯萎"] = 32,
+		["聚爆能量"] = 32,
+		["迅捷割裂"] = 1,
+		["炽热光辉"] = 4,
+		["自动射击"] = 1,
+		["不稳定的魔法"] = 64,
+		["制裁之锤"] = 2,
+		["火山"] = 1,
+		["暗影风暴"] = 32,
+		["生灵俱灭"] = 1,
+		["晦暗灵魂"] = 1,
+		["见证虚空"] = 32,
+		["邪能烈焰之球"] = 4,
+		["灵魂漩涡"] = 32,
+		["杂技打击"] = 1,
+		["坠落之星"] = 64,
+		["淬毒长矛"] = 8,
+		["腐蚀毒药"] = 8,
+		["灼热打击"] = 4,
+		["暗影震击"] = 32,
+		["轰鸣的裂隙"] = 4,
+		["移花接木"] = 8,
+		["延绵恐惧"] = 32,
+		["Temporal Orb"] = 64,
+		["神圣之盾"] = 2,
+		["毒舌鞭笞"] = 32,
+		["动荡魔法"] = 64,
+		["Bloodletting Sweep"] = 1,
+		["毒性薄片"] = 8,
+		["腐化咆哮"] = 32,
+		["神准冲击"] = 2,
+		["窒息毒气"] = 8,
+		["湮灭"] = 1,
+		["心灵尖刺引爆"] = 48,
+		["横向烈风"] = 1,
+		["Blazing Charge"] = 4,
+		["穿刺飞弹"] = 64,
+		["野蛮强击"] = 1,
+		["军团标记"] = 32,
+		["群体喷射"] = 16,
+		["不稳定的宝珠"] = 4,
+		["灰烬觉醒"] = 6,
+		["引力失效"] = 64,
+		["末日恶灵"] = 4,
+		["利爪撕扯"] = 1,
+		["聚合爆破"] = 64,
+		["霜寒刺骨"] = 16,
+		["不谐力场"] = 1,
+		["寒冰冲击"] = 16,
+		["不稳定的琥珀"] = 8,
+		["冰霜新星"] = 16,
+		["冲击"] = 4,
+		["混乱能量爆炸"] = 64,
+		["强化古尔丹之眼"] = 4,
+		["痛苦无常"] = 32,
+		["黑暗提灯"] = 32,
+		["冰霜共鸣"] = 16,
+		["腐蚀：坠入疯狂"] = 1,
+		["束缚射击"] = 64,
+		["窒息藤蔓"] = 8,
+		["强化邪焰风暴"] = 4,
+		["梦魇毒素"] = 8,
+		["点燃"] = 4,
+		["剧毒风暴"] = 8,
+		["暴龙电击带"] = 8,
+		["灵魂治愈"] = 8,
+		["闪电释放"] = 8,
+		["吸血鬼之吻"] = 1,
+		["闪电箭过载"] = 8,
+		["污染倾泻"] = 32,
+		["灭战者"] = 32,
+		["锁喉"] = 1,
+		["腐蚀震击"] = 8,
+		["煞能箭"] = 32,
+		["幻灭踢"] = 1,
+		["锤拳"] = 1,
+		["心脏收缩"] = 32,
+		["痛击"] = 1,
+		["分裂的能量 "] = 64,
+		["暗影觉醒"] = 32,
+		["陷阱大师"] = 8,
+		["恐怖嚎叫"] = 32,
+		["打断"] = 1,
+		["钢铁旋风"] = 1,
+		["胡椒吐息"] = 4,
+		["火焰轰炸"] = 4,
+		["投掷武器"] = 1,
+		["急促射击"] = 1,
+		["混乱新星"] = 124,
+		["折脊碎椎"] = 1,
+		["邪恶链接"] = 1,
+		["黑暗天灾"] = 8,
+		["撕裂重击"] = 1,
+		["绞肉机"] = 1,
+		["火舌舔舐"] = 4,
+		["暗影之池"] = 32,
+		["穿透射击"] = 1,
+		["绝望"] = 32,
+		["恐惧"] = 32,
+		["迫击炮冲击"] = 4,
+		["邪能引爆"] = 4,
+		["Entombed in Ice"] = 16,
+		["珊瑚猛击"] = 1,
+		["疫病虫群"] = 8,
+		["噬体烈焰"] = 32,
+		["邪能献祭"] = 4,
+		["魔刃风暴"] = 1,
+		["心脏打击"] = 1,
+		["圆弧斩"] = 1,
+		["龙卷水涌"] = 16,
+		["吸血撕咬"] = 1,
+		["风暴吐息"] = 8,
+		["被感染"] = 8,
+		["复仇者之盾"] = 2,
+		["邪恶打击"] = 4,
+		["低温"] = 16,
+		["起伏之沙"] = 1,
+		["星力洪流"] = 8,
+		["岩崩"] = 8,
+		["奥术侵蚀"] = 64,
+		["霜冻坚韧"] = 16,
+		["幻灭猛击"] = 1,
+		["扬尘漫天"] = 8,
+		["心灵震爆"] = 32,
+		["剑刃旋风"] = 1,
+		["血液沸腾"] = 32,
+		["共鸣挥砍"] = 64,
+		["狂热信息素"] = 8,
+		["耀斑"] = 4,
+		["震地猛击"] = 1,
+		["剧毒感染"] = 32,
+		["灵魂之池"] = 32,
+		["烧尽"] = 4,
+		["烈焰震击"] = 4,
+		["狂乱之球"] = 32,
+		["烈焰路径"] = 4,
+		["坍缩裂隙"] = 64,
+		["吸血鬼之触"] = 32,
+		["水箭"] = 16,
+		["夜刃"] = 32,
+		["前膛火枪"] = 1,
+		["彗星风暴"] = 16,
+		["势如破竹"] = 1,
+		["不稳定的震荡波"] = 4,
+		["邪能流星"] = 4,
+		["英勇打击"] = 1,
+		["冰霜之池"] = 16,
+		["Furious Flames"] = 4,
+		["寒冰炸弹"] = 16,
+		["投掷炸弹"] = 4,
+		["爪击"] = 1,
+		["腐化物"] = 8,
+		["燃烧邪能"] = 4,
+		["不受束缚的烈焰"] = 4,
+		["剃刀之翼"] = 32,
+		["Time Release"] = 64,
+		["重伤"] = 1,
+		["突刺"] = 1,
+		["突袭"] = 1,
+		["怒雷破"] = 1,
+		["消散孢子"] = 32,
+		["强力激流"] = 16,
+		["末日井"] = 32,
+		["纠缠梦魇"] = 32,
+		["爆裂闪电"] = 8,
+		["灵魂驱逐"] = 32,
+		["Static Field"] = 8,
+		["Mortal Strike"] = 1,
+		["空气漩涡"] = 8,
+		["翻滚风暴"] = 8,
+		["煞能腐蚀"] = 32,
+		["生命之种"] = 8,
+		["迷魅"] = 32,
+		["死灵罪罚"] = 32,
+		["震爆"] = 8,
+		["熔岩箭"] = 4,
+		["烈焰护体"] = 4,
+		["压迫打击"] = 1,
+		["破裂"] = 1,
+		["专注闪电爆炸"] = 8,
+		["生之酷刑"] = 32,
+		["雷霆之颚"] = 8,
+		["投掷利刃"] = 1,
+		["群体虹吸"] = 64,
+		["腐蚀"] = 32,
+		["血爪"] = 1,
+		["引雷针"] = 8,
+		["突变"] = 4,
+		["梦魇之刃"] = 1,
+		["Energy Drain"] = 64,
+		["好痒！"] = 1,
+		["古尔丹之眼"] = 32,
+		["1级奥术充能"] = 64,
+		["地精龙枪"] = 4,
+		["钢铁风暴"] = 1,
+		["幽灵猛击"] = 32,
+		["毒伤"] = 8,
+		["邪火箭"] = 4,
+		["灾祸新星"] = 32,
+		["Eye of the Storm"] = 8,
+		["轰炸"] = 32,
+		["闪电裂隙"] = 8,
+		["奥术炸弹"] = 64,
+		["Immolation"] = 4,
+		["盲目憎恨"] = 32,
+		["龙焰手雷"] = 4,
+		["奥术爆裂"] = 64,
+		["阳光坍缩"] = 4,
+		["痛苦之跃"] = 1,
+		["暗影之环"] = 32,
+		["信息素"] = 8,
+		["炮击"] = 4,
+		["Cosmic Scythe"] = 64,
+		["腐蚀术"] = 32,
+		["邪煞池"] = 32,
+		["召唤闪电"] = 8,
+		["正义盾击"] = 2,
+		["邪火之雨"] = 4,
+		["落石"] = 1,
+		["焚烧"] = 4,
+		["旭日东升踢"] = 1,
+		["狂暴"] = 64,
+		["洪荒烈火"] = 4,
+		["邪能冲锋"] = 4,
+		["Burning Ground"] = 4,
+		["多头蛇"] = 1,
+		["硬化血肉"] = 1,
+		["碎地"] = 8,
+		["Pool of Frost"] = 16,
+		["虚空回响"] = 32,
+		["野蛮践踏"] = 1,
+		["盾牌重击"] = 1,
+		["被收割的灵魂"] = 32,
+		["相位爆炸"] = 64,
+		["旋风斩"] = 1,
+		["神智不清"] = 16,
+		["污水喷涌"] = 8,
+		["压制性恐惧"] = 33,
+		["迟缓毒液"] = 8,
+		["闷烧"] = 4,
+		["燃烧大地"] = 4,
+		["刃雨"] = 1,
+		["冰霜恐惧"] = 16,
+		["猩红箭雨"] = 32,
+		["沙尘箭"] = 8,
+		["腐蚀护甲"] = 8,
+		["女妖之祸"] = 8,
+		["真气流转"] = 8,
+		["闪电链过载"] = 8,
+		["极限风暴"] = 8,
+		["折磨箭"] = 32,
+		["汹涌水流"] = 16,
+		["过热"] = 4,
+		["禁锢暗影"] = 32,
+		["死亡冲击"] = 32,
+		["隐匿萨特之印"] = 4,
+		["神鹤引项踢"] = 1,
+		["寒冰的召唤"] = 16,
+		["炸弹"] = 4,
+		["爆裂残片"] = 4,
+		["魔精箭雨"] = 8,
+		["盐晶利刃"] = 1,
+		["厄运箭"] = 32,
+		["Runic Brand"] = 2,
+		["大地之涌"] = 8,
+		["燃烧之地"] = 4,
+		["死灵印记"] = 32,
+		["邪火之球"] = 4,
+		["恶臭"] = 8,
+		["腐蚀爆发之矛"] = 8,
+		["飞弹冲击"] = 4,
+		["时间释放"] = 64,
+		["掷斧"] = 1,
+		["灼烧之雨"] = 4,
+		["暗影猎杀：处决"] = 1,
+		["Tiro-Autom�tico"] = 1,
+		["虚空撕裂"] = 32,
+		["利爪打击"] = 1,
+		["绞袭"] = 32,
+		["毒液喷吐"] = 8,
+		["疯狂斩杀"] = 1,
+		["凋零之箭"] = 32,
+		["黑暗坠落"] = 32,
+		["灼热凝视"] = 4,
+		["流沙"] = 8,
+		["邪能烈焰"] = 4,
+		["强力一击"] = 1,
+		["Shockwave"] = 8,
+		["剧毒喷射"] = 8,
+		["冰龙吐息"] = 48,
+		["利刃之舞"] = 1,
+		["恐怖光环"] = 32,
+		["血腥之爪"] = 1,
+		["暗影横扫"] = 32,
+		["火焰炸弹易伤"] = 4,
+		["脉冲震荡"] = 8,
+		["意志摧毁"] = 32,
+		["生命虹吸"] = 32,
+		["亡者复生"] = 32,
+		["折磨之眼"] = 32,
+		["Fragment"] = 32,
+		["扭曲之风"] = 8,
+		["Ragnarok"] = 4,
+		["奥术宝珠"] = 64,
+		["不稳定的法力"] = 64,
+		["荆棘外壳"] = 8,
+		["弧光之刃"] = 64,
+		["活动炸弹"] = 4,
+		["冰雪崩裂"] = 1,
+		["魔精泥浆"] = 8,
+		["钻体寄生虫"] = 8,
+		["Sanctify"] = 2,
+		["拦截"] = 1,
+		["刺穿"] = 1,
+		["呕吐黑石"] = 8,
+		["生命盛宴"] = 32,
+		["地狱火焰"] = 4,
+		["黑暗之脊"] = 1,
+		["酸性碎片"] = 8,
+		["易爆火焰炸弹"] = 4,
+		["烈焰喷薄"] = 4,
+		["岩浆喷泉"] = 4,
+		["穿刺之矛"] = 1,
+		["冰霜震击"] = 16,
+		["野蛮撕咬"] = 8,
+		["星辰之浴"] = 64,
+		["熔岩破裂"] = 4,
+		["暗影激流"] = 32,
+		["暴风雪"] = 16,
+		["海洋污染"] = 16,
+		["光耀碎片"] = 2,
+		["眼镜蛇射击"] = 1,
+		["邪能水晶"] = 4,
+		["粉碎"] = 1,
+		["黑暗冲锋"] = 1,
+		["削凿"] = 1,
+		["亵渎喷发"] = 32,
+		["幻影打击"] = 32,
+		["寄生镣铐"] = 8,
+		["酸性撕咬"] = 8,
+		["声波脉冲"] = 1,
+		["锋锐之斧"] = 1,
+		["毁灭之怒"] = 1,
+		["流星"] = 4,
+		["贪婪"] = 1,
+		["安苏之光"] = 4,
+		["灵魂消散"] = 32,
+		["复苏之水"] = 16,
+		["释放虚空"] = 32,
+		["软泥怪之池"] = 8,
+		["副手毁伤"] = 1,
+		["治疗诅咒"] = 32,
+		["噬咬"] = 1,
+		["电能震击"] = 8,
+		["Burst of Time"] = 64,
+		["混沌之源"] = 4,
+		["邪火飞弹"] = 4,
+		["弗洛奇的行走烈焰"] = 4,
+		["烈焰花环"] = 4,
+		["夜幕"] = 32,
+		["狂暴挥砍"] = 1,
+		["旋光冲击"] = 4,
+		["释放的生命"] = 8,
+		["风暴之神的涌动"] = 8,
+		["毒水吐息"] = 16,
+		["眩晕"] = 1,
+		["鹰身人的尖叫"] = 1,
+		["军团诅咒"] = 32,
+		["喷泉"] = 16,
+		["伏虎闪雷"] = 8,
+		["碎裂"] = 16,
+		["心灵扭曲"] = 32,
+		["折磨锁定"] = 1,
+		["反噬"] = 2,
+		["伊利达雷之怒"] = 127,
+		["崩解闪电"] = 8,
+		["内力翻涌"] = 64,
+		["风暴冲击"] = 8,
+		["毒液炸弹"] = 8,
+		["灵魂盛宴"] = 32,
+		["毒水消融"] = 16,
+		["恐惧弹幕"] = 32,
+		["咆哮"] = 1,
+		["毁灭闪电"] = 8,
+		["火焰之雨"] = 4,
+		["野蛮爪击"] = 1,
+		["血染大海"] = 1,
+		["蜂拥之影"] = 32,
+		["错乱伤痕"] = 1,
+		["克罗莫格之怒"] = 8,
+		["强化亵渎"] = 32,
+		["主炮轰击"] = 4,
+		["残酷挥砍"] = 1,
+		["翻卷的烈焰狂风"] = 4,
+		["痛苦诅咒"] = 32,
+		["烈焰武器"] = 4,
+		["虚空裂隙"] = 64,
+		["炙燃耀斑"] = 8,
+		["梦魇冲击"] = 32,
+		["酸性爆炸"] = 8,
+		["粉碎黑暗"] = 32,
+		["折磨梦境"] = 32,
+		["虚空箭"] = 32,
+		["邪能打击"] = 4,
+		["闪电爆裂"] = 1,
+		["旋风之盾"] = 8,
+		["爆发腐蚀"] = 8,
+		["魔法禁锢"] = 64,
+		["Turbulent Waters"] = 16,
+		["树脂残渣"] = 8,
+		["漩涡污泥"] = 8,
+		["灭绝者"] = 1,
+		["倒刺责难"] = 1,
+		["火球术"] = 4,
+		["裂伤横扫"] = 1,
+		["奥术横扫"] = 64,
+		["珊瑚切割"] = 1,
+		["灵界打击"] = 1,
+		["灵魂之井"] = 32,
+		["利刃留痕"] = 1,
+		["渔业炸弹"] = 8,
+		["龙焰酒"] = 4,
+		["奥术毁坏"] = 64,
+		["Seed of Corruption"] = 32,
+		["圣光普照"] = 2,
+		["飞翼打击"] = 1,
+		["邪能烈焰风暴"] = 4,
+		["懦弱"] = 1,
+		["毒水淤泥"] = 16,
+		["火耀石"] = 4,
+		["Armageddon"] = 64,
+		["感染之爪"] = 8,
+		["基尔加丹的炽燃决心"] = 4,
+		["背刺"] = 1,
+		["群体驱散"] = 2,
+		["献祭燃烧"] = 4,
+		["暗影波"] = 32,
+		["炽热日光"] = 4,
+		["死亡凝视"] = 8,
+		["心中的恶魔"] = 127,
+		["天启之火"] = 4,
+		["游移余烬"] = 4,
+		["审判"] = 2,
+		["邪能粘液"] = 4,
+		["雷霆打击"] = 8,
+		["火之球"] = 4,
+		["连发袖剑"] = 1,
+		["锐利鱼腮"] = 1,
+		["龙火"] = 4,
+		["腐坏之喉"] = 8,
+		["冰河喷发"] = 48,
+		["照明弹"] = 4,
+		["古尔丹之手"] = 32,
+		["狂乱"] = 1,
+		["过顶挥砍"] = 1,
+		["浸透"] = 16,
+		["海潮之枪"] = 8,
+		["电弧"] = 64,
+		["虹吸精华"] = 32,
+		["幽魂炸弹"] = 4,
+		["燃烧之枪"] = 1,
+		["冷酷严冬"] = 16,
+		["流星灼烧"] = 4,
+		["冰霜吐息"] = 16,
+		["黑暗风暴"] = 32,
+		["泰拉尔标记"] = 32,
+		["锯齿利爪"] = 1,
+		["暗影黏质"] = 32,
+		["剧毒之血"] = 8,
+		["爆炸暗影"] = 32,
+		["狂野引爆"] = 64,
+		["攻城炮火"] = 4,
+		["顺劈斩"] = 1,
+		["黑暗冲击"] = 32,
+		["切割打击"] = 1,
+		["回旋利刃"] = 1,
+		["不稳定的火焰"] = 4,
+		["毁灭"] = 64,
+		["疾驰列车"] = 4,
+	},
+	["lastUpdateWarning"] = 1494925608,
 	["global_plugin_database"] = {
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["encounter_timers_dbm"] = {
@@ -324,17 +6129,17 @@ _detalhes_global = {
 					"1878", -- [9]
 					["id"] = 2039,
 				},
-				["228730"] = {
-					"228730", -- [1]
-					"Timer228730nextcount	1", -- [2]
-					"下一次触须打击（1）", -- [3]
-					53, -- [4]
-					254105, -- [5]
-					"nextcount", -- [6]
-					228730, -- [7]
-					5, -- [8]
-					"1829", -- [9]
-					["id"] = 2008,
+				["64584"] = {
+					"64584", -- [1]
+					"Timer64584next", -- [2]
+					"下一次大爆炸", -- [3]
+					90, -- [4]
+					135981, -- [5]
+					"next", -- [6]
+					64584, -- [7]
+					2, -- [8]
+					"Algalon", -- [9]
+					["id"] = 1130,
 				},
 				["181753"] = {
 					"181753", -- [1]
@@ -468,17 +6273,17 @@ _detalhes_global = {
 					"285", -- [9]
 					["id"] = 1883,
 				},
-				["69172"] = {
-					"69172", -- [1]
-					"Timer69172cd", -- [2]
-					"天灾领主的烙印冷却", -- [3]
-					12, -- [4]
-					237567, -- [5]
-					"cd", -- [6]
-					69172, -- [7]
-					3, -- [8]
-					"610", -- [9]
-					["id"] = 2000,
+				["208807"] = {
+					"208807", -- [1]
+					"Timer208807nextcount", -- [2]
+					"下一次奥能之环（未知", -- [3]
+					34, -- [4]
+					1033906, -- [5]
+					"nextcount", -- [6]
+					208807, -- [7]
+					2, -- [8]
+					"1743", -- [9]
+					["id"] = 1872,
 				},
 				["ej6891"] = {
 					"ej6891", -- [1]
@@ -492,17 +6297,17 @@ _detalhes_global = {
 					"818", -- [9]
 					["id"] = 1572,
 				},
-				["39019"] = {
-					"39019", -- [1]
-					"Timer39019target	尧哥专爆菊花", -- [2]
-					"支配: 尧哥专爆菊花", -- [3]
-					6, -- [4]
-					136206, -- [5]
-					"target", -- [6]
-					39019, -- [7]
-					0, -- [8]
-					"551", -- [9]
-					["id"] = 1914,
+				["155323"] = {
+					"155323", -- [1]
+					"Timer155323cdcount	2", -- [2]
+					"石化猛击冷却（2）", -- [3]
+					60, -- [4]
+					132838, -- [5]
+					"cdcount", -- [6]
+					155323, -- [7]
+					2, -- [8]
+					"1161", -- [9]
+					["id"] = 1691,
 				},
 				["227823"] = {
 					"227823", -- [1]
@@ -540,17 +6345,17 @@ _detalhes_global = {
 					"1743", -- [9]
 					["id"] = 1872,
 				},
-				["211192"] = {
-					"211192", -- [1]
-					"Timer211192cd	Creature-0-3149-1520-2734-105494-000058F9CC", -- [2]
-					"腐败之息冷却", -- [3]
-					18.1, -- [4]
-					1357794, -- [5]
-					"cd", -- [6]
-					211192, -- [7]
-					3, -- [8]
-					"1750", -- [9]
-					["id"] = 1877,
+				["ej2531"] = {
+					"ej2531", -- [1]
+					"Timerej2531next", -- [2]
+					"下一次雷奥利斯的碎片", -- [3]
+					22.5, -- [4]
+					252172, -- [5]
+					"next", -- [6]
+					"ej2531", -- [7]
+					1, -- [8]
+					"193", -- [9]
+					["id"] = 1204,
 				},
 				["193597"] = {
 					"193597", -- [1]
@@ -564,29 +6369,29 @@ _detalhes_global = {
 					"1490", -- [9]
 					["id"] = 1811,
 				},
-				["ej13190"] = {
-					"ej13190", -- [1]
-					"Timerej13190cd", -- [2]
-					"死光触须冷却", -- [3]
-					21.5, -- [4]
-					462324, -- [5]
-					"cd", -- [6]
-					"ej13190", -- [7]
-					1, -- [8]
-					"1738", -- [9]
-					["id"] = 1873,
+				["205344"] = {
+					"205344", -- [1]
+					"Timer205344nextcount	1", -- [2]
+					"下一次毁灭之球（1）", -- [3]
+					22, -- [4]
+					135800, -- [5]
+					"nextcount", -- [6]
+					205344, -- [7]
+					3, -- [8]
+					"1713", -- [9]
+					["id"] = 1842,
 				},
-				["70123"] = {
-					"70123", -- [1]
-					"Timer70123cd", -- [2]
-					"严寒冷却", -- [3]
-					33, -- [4]
-					135854, -- [5]
+				["182325"] = {
+					"182325", -- [1]
+					"Timer182325cd2", -- [2]
+					"幻影之伤冷却", -- [3]
+					28, -- [4]
+					252997, -- [5]
 					"cd", -- [6]
-					70123, -- [7]
-					2, -- [8]
-					"Sindragosa", -- [9]
-					["id"] = 1105,
+					182325, -- [7]
+					5, -- [8]
+					"1433", -- [9]
+					["id"] = 1788,
 				},
 				["155005"] = {
 					"155005", -- [1]
@@ -708,17 +6513,17 @@ _detalhes_global = {
 					"1737", -- [9]
 					["id"] = 1866,
 				},
-				["ej11456"] = {
-					"ej11456", -- [1]
-					"Timerej11456nextcount	1", -- [2]
-					"下一次萨格雷统御者（1）", -- [3]
-					23, -- [4]
-					135796, -- [5]
-					"nextcount", -- [6]
-					"ej11456", -- [7]
+				["100686"] = {
+					"100686", -- [1]
+					"Timer100686next", -- [2]
+					"下一次上层精灵的召唤", -- [3]
+					40, -- [4]
+					136201, -- [5]
+					"next", -- [6]
+					100686, -- [7]
 					1, -- [8]
-					"1427", -- [9]
-					["id"] = 1794,
+					"323", -- [9]
+					["id"] = 1882,
 				},
 				["229242"] = {
 					"229242", -- [1]
@@ -732,17 +6537,17 @@ _detalhes_global = {
 					"1838", -- [9]
 					["id"] = 2017,
 				},
-				["206677"] = {
-					"206677", -- [1]
-					"Timer206677target	那啥姐夫", -- [2]
-					"灼烧烙印: 那啥姐夫", -- [3]
-					20, -- [4]
-					135794, -- [5]
-					"target", -- [6]
-					206677, -- [7]
-					5, -- [8]
-					"1713", -- [9]
-					["id"] = 1842,
+				["199811"] = {
+					"199811", -- [1]
+					"Timer199811next", -- [2]
+					"下一次闪击", -- [3]
+					15, -- [4]
+					1033906, -- [5]
+					"next", -- [6]
+					199811, -- [7]
+					3, -- [8]
+					"1500", -- [9]
+					["id"] = 1826,
 				},
 				["212492"] = {
 					"212492", -- [1]
@@ -780,17 +6585,17 @@ _detalhes_global = {
 					"737", -- [9]
 					["id"] = 1499,
 				},
-				["62396"] = {
-					"62396", -- [1]
-					"Timer62396cast", -- [2]
-					"烈焰爆发", -- [3]
-					10, -- [4]
-					135818, -- [5]
-					"cast", -- [6]
-					62396, -- [7]
-					2, -- [8]
-					"FlameLeviathan", -- [9]
-					["id"] = 1132,
+				["142232"] = {
+					"142232", -- [1]
+					"Timer142232cd", -- [2]
+					"死从天降冷却", -- [3]
+					34, -- [4]
+					878215, -- [5]
+					"cd", -- [6]
+					142232, -- [7]
+					3, -- [8]
+					"853", -- [9]
+					["id"] = 1593,
 				},
 				["115002"] = {
 					"115002", -- [1]
@@ -960,17 +6765,17 @@ _detalhes_global = {
 					"1438", -- [9]
 					["id"] = 1799,
 				},
-				["190506"] = {
-					"190506", -- [1]
-					"Timer190506nextcount	1", -- [2]
-					"下一次跳舞（1）", -- [3]
-					61, -- [4]
-					135793, -- [5]
-					"nextcount", -- [6]
-					190506, -- [7]
+				["78807"] = {
+					"78807", -- [1]
+					"Timer78807cast2", -- [2]
+					"碎片崩飞", -- [3]
+					3, -- [4]
+					134455, -- [5]
+					"cast", -- [6]
+					78807, -- [7]
 					2, -- [8]
-					"1438", -- [9]
-					["id"] = 1799,
+					"112", -- [9]
+					["id"] = 1058,
 				},
 				["136413"] = {
 					"136413", -- [1]
@@ -1008,17 +6813,17 @@ _detalhes_global = {
 					"1819", -- [9]
 					["id"] = 1958,
 				},
-				["202217"] = {
-					"202217", -- [1]
-					"Timer202217cd", -- [2]
-					"颚骨打击冷却", -- [3]
-					8.9, -- [4]
-					132122, -- [5]
+				["180221"] = {
+					"180221", -- [1]
+					"Timer180221cd", -- [2]
+					"邪能宝珠冷却", -- [3]
+					12, -- [4]
+					840941, -- [5]
 					"cd", -- [6]
-					202217, -- [7]
-					5, -- [8]
-					"1696", -- [9]
-					["id"] = 1852,
+					180221, -- [7]
+					3, -- [8]
+					"1427", -- [9]
+					["id"] = 1794,
 				},
 				["199446"] = {
 					"199446", -- [1]
@@ -1068,17 +6873,17 @@ _detalhes_global = {
 					"1750", -- [9]
 					["id"] = 1877,
 				},
-				["202792"] = {
-					"202792", -- [1]
-					"Timer202792fades", -- [2]
-					"疯狂嗜血消失", -- [3]
-					20, -- [4]
-					132352, -- [5]
-					"fades", -- [6]
-					202792, -- [7]
+				["209158"] = {
+					"209158", -- [1]
+					"Timer209158cd", -- [2]
+					"黑化灵魂冷却", -- [3]
+					7, -- [4]
+					1396968, -- [5]
+					"cd", -- [6]
+					209158, -- [7]
 					5, -- [8]
-					"1702", -- [9]
-					["id"] = 1855,
+					"1726", -- [9]
+					["id"] = 1864,
 				},
 				["184357"] = {
 					"184357", -- [1]
@@ -1140,29 +6945,29 @@ _detalhes_global = {
 					"1737", -- [9]
 					["id"] = 1866,
 				},
-				["125692"] = {
-					"125692", -- [1]
-					"Timer125692next", -- [2]
-					"下一次暴风斩", -- [3]
-					10, -- [4]
-					236154, -- [5]
-					"next", -- [6]
-					125692, -- [7]
-					3, -- [8]
-					"744", -- [9]
-					["id"] = 1504,
+				["211927"] = {
+					"211927", -- [1]
+					"Timer211927nextcount	1", -- [2]
+					"下一次势不可挡（1）", -- [3]
+					55, -- [4]
+					1125916, -- [5]
+					"nextcount", -- [6]
+					211927, -- [7]
+					4, -- [8]
+					"1725", -- [9]
+					["id"] = 1865,
 				},
-				["144218"] = {
-					"144218", -- [1]
-					"Timer144218cd", -- [2]
-					"地火突刺冷却", -- [3]
-					17, -- [4]
-					132846, -- [5]
-					"cd", -- [6]
-					144218, -- [7]
-					3, -- [8]
-					"864", -- [9]
-					["id"] = 1600,
+				["213867"] = {
+					"213867", -- [1]
+					"Timer213867next", -- [2]
+					"下一次烈焰强化", -- [3]
+					85, -- [4]
+					132847, -- [5]
+					"next", -- [6]
+					213867, -- [7]
+					6, -- [8]
+					"1751", -- [9]
+					["id"] = 1871,
 				},
 				["181275"] = {
 					"181275", -- [1]
@@ -1188,17 +6993,17 @@ _detalhes_global = {
 					"1492", -- [9]
 					["id"] = 1814,
 				},
-				["75007"] = {
-					"75007", -- [1]
-					"Timer75007active", -- [2]
-					"重若千钧结束", -- [3]
-					30, -- [4]
-					133490, -- [5]
-					"active", -- [6]
-					75007, -- [7]
-					6, -- [8]
-					"132", -- [9]
-					["id"] = 1050,
+				["228918"] = {
+					"228918", -- [1]
+					"Timer228918next", -- [2]
+					"下一次雷铸之矛", -- [3]
+					9, -- [4]
+					1508064, -- [5]
+					"next", -- [6]
+					228918, -- [7]
+					5, -- [8]
+					"1819", -- [9]
+					["id"] = 1958,
 				},
 				["208863"] = {
 					"208863", -- [1]
@@ -1212,17 +7017,17 @@ _detalhes_global = {
 					"1743", -- [9]
 					["id"] = 1872,
 				},
-				["143337"] = {
-					"143337", -- [1]
-					"Timer143337cdcount	1", -- [2]
-					"突变冷却（1）", -- [3]
-					23, -- [4]
-					878216, -- [5]
-					"cdcount", -- [6]
-					143337, -- [7]
+				["138467"] = {
+					"138467", -- [1]
+					"Timer138467cd", -- [2]
+					"纠缠凝视冷却", -- [3]
+					15.5, -- [4]
+					237297, -- [5]
+					"cd", -- [6]
+					138467, -- [7]
 					3, -- [8]
-					"853", -- [9]
-					["id"] = 1593,
+					"818", -- [9]
+					["id"] = 1572,
 				},
 				["206365"] = {
 					"206365", -- [1]
@@ -1320,17 +7125,17 @@ _detalhes_global = {
 					"663", -- [9]
 					["id"] = 1427,
 				},
-				["182108"] = {
-					"182108", -- [1]
-					"Timer182108nextcount	1", -- [2]
-					"下一次炮击（1）", -- [3]
-					8.9, -- [4]
-					840407, -- [5]
-					"nextcount", -- [6]
-					182108, -- [7]
-					3, -- [8]
-					"1425", -- [9]
-					["id"] = 1785,
+				["218774"] = {
+					"218774", -- [1]
+					"Timer218774next", -- [2]
+					"下一次召唤球体", -- [3]
+					37, -- [4]
+					525024, -- [5]
+					"next", -- [6]
+					218774, -- [7]
+					1, -- [8]
+					"1761", -- [9]
+					["id"] = 1886,
 				},
 				["218124"] = {
 					"218124", -- [1]
@@ -1392,17 +7197,17 @@ _detalhes_global = {
 					"193", -- [9]
 					["id"] = 1204,
 				},
-				["213564"] = {
-					"213564", -- [1]
-					"Timer213564next", -- [2]
-					"下一次复生", -- [3]
-					51.9, -- [4]
-					1033906, -- [5]
+				["204040"] = {
+					"204040", -- [1]
+					"Timer204040next", -- [2]
+					"下一次暗影爆裂", -- [3]
+					19.5, -- [4]
+					132843, -- [5]
 					"next", -- [6]
-					213564, -- [7]
-					1, -- [8]
-					"1751", -- [9]
-					["id"] = 1871,
+					204040, -- [7]
+					3, -- [8]
+					"1704", -- [9]
+					["id"] = 1854,
 				},
 				["213869"] = {
 					"213869", -- [1]
@@ -1488,17 +7293,17 @@ _detalhes_global = {
 					"1738", -- [9]
 					["id"] = 1873,
 				},
-				["106877"] = {
-					"106877", -- [1]
-					"Timer106877next", -- [2]
-					"下一次煞能尖刺", -- [3]
-					9, -- [4]
-					628268, -- [5]
-					"next", -- [6]
-					106877, -- [7]
+				["76047"] = {
+					"76047", -- [1]
+					"Timer76047cd", -- [2]
+					"黑暗裂隙冷却", -- [3]
+					18.4, -- [4]
+					136194, -- [5]
+					"cd", -- [6]
+					76047, -- [7]
 					0, -- [8]
-					"685", -- [9]
-					["id"] = 1305,
+					"102", -- [9]
+					["id"] = 1044,
 				},
 				["236639"] = {
 					"236639", -- [1]
@@ -1536,29 +7341,29 @@ _detalhes_global = {
 					"131", -- [9]
 					["id"] = 1051,
 				},
-				["213238"] = {
-					"213238", -- [1]
-					"Timer213238nextcount	1", -- [2]
-					"下一次寻踪虫群（1）", -- [3]
-					15, -- [4]
-					136128, -- [5]
-					"nextcount", -- [6]
-					213238, -- [7]
-					3, -- [8]
-					"1762", -- [9]
-					["id"] = 1862,
-				},
-				["204275"] = {
-					"204275", -- [1]
-					"Timer204275cd", -- [2]
-					"奥能挥砍冷却", -- [3]
-					5, -- [4]
-					655172, -- [5]
+				["206788"] = {
+					"206788", -- [1]
+					"Timer206788cd", -- [2]
+					"毒性薄片冷却", -- [3]
+					10.5, -- [4]
+					237360, -- [5]
 					"cd", -- [6]
-					204275, -- [7]
-					5, -- [8]
-					"1706", -- [9]
-					["id"] = 1849,
+					206788, -- [7]
+					3, -- [8]
+					"1731", -- [9]
+					["id"] = 1867,
+				},
+				["201672"] = {
+					"201672", -- [1]
+					"Timer201672next", -- [2]
+					"下一次无情风暴", -- [3]
+					11, -- [4]
+					1033907, -- [5]
+					"next", -- [6]
+					201672, -- [7]
+					3, -- [8]
+					"1694", -- [9]
+					["id"] = 1845,
 				},
 				["142564"] = {
 					"142564", -- [1]
@@ -1596,29 +7401,29 @@ _detalhes_global = {
 					"1726", -- [9]
 					["id"] = 1864,
 				},
-				["114062"] = {
-					"114062", -- [1]
-					"Timer114062cd2", -- [2]
-					"奇能迅击冷却", -- [3]
-					6, -- [4]
-					135732, -- [5]
-					"cd", -- [6]
-					114062, -- [7]
+				["227985"] = {
+					"227985", -- [1]
+					"Timer227985ai", -- [2]
+					"削弱护甲人工智能计时冷却", -- [3]
+					20.5839999999998, -- [4]
+					132358, -- [5]
+					"ai", -- [6]
+					227985, -- [7]
 					5, -- [8]
-					"663", -- [9]
-					["id"] = 1427,
+					"1827", -- [9]
+					["id"] = 1957,
 				},
-				["185456"] = {
-					"185456", -- [1]
-					"Timer185456cd	Creature-0-3930-1448-30292-93625-000056A4AD", -- [2]
-					"绝望之链冷却", -- [3]
-					23.6, -- [4]
-					463560, -- [5]
+				["66901"] = {
+					"66901", -- [1]
+					"Timer66901cd", -- [2]
+					"麻痹喷溅冷却", -- [3]
+					9, -- [4]
+					132104, -- [5]
 					"cd", -- [6]
-					185456, -- [7]
-					3, -- [8]
-					"1433", -- [9]
-					["id"] = 1788,
+					66901, -- [7]
+					0, -- [8]
+					"NorthrendBeasts", -- [9]
+					["id"] = 1088,
 				},
 				["235751"] = {
 					"235751", -- [1]
@@ -1656,17 +7461,17 @@ _detalhes_global = {
 					"1703", -- [9]
 					["id"] = 1853,
 				},
-				["111209"] = {
-					"111209", -- [1]
-					"Timer111209next", -- [2]
-					"下一次霜寒之握", -- [3]
-					10.5, -- [4]
-					609814, -- [5]
-					"next", -- [6]
-					111209, -- [7]
-					0, -- [8]
-					"659", -- [9]
-					["id"] = 1426,
+				["142539"] = {
+					"142539", -- [1]
+					"Timer142539cd	Creature-0-3929-1136-11390-71397-000068A528", -- [2]
+					"螳螂妖虫群冷却", -- [3]
+					35, -- [4]
+					839407, -- [5]
+					"cd", -- [6]
+					142539, -- [7]
+					1, -- [8]
+					"870", -- [9]
+					["id"] = 1594,
 				},
 				["209597"] = {
 					"209597", -- [1]
@@ -1692,17 +7497,17 @@ _detalhes_global = {
 					"1838", -- [9]
 					["id"] = 2017,
 				},
-				["ej13057"] = {
-					"ej13057", -- [1]
-					"Timerej13057cd", -- [2]
-					"虚空冲击冷却", -- [3]
-					31, -- [4]
-					false, -- [5]
-					"cd", -- [6]
-					"ej13057", -- [7]
-					5, -- [8]
-					"1732", -- [9]
-					["id"] = 1863,
+				["ej11694"] = {
+					"ej11694", -- [1]
+					"Timerej11694next", -- [2]
+					"下一次野生纵火魔", -- [3]
+					10, -- [4]
+					615097, -- [5]
+					"next", -- [6]
+					"ej11694", -- [7]
+					1, -- [8]
+					"1447", -- [9]
+					["id"] = 1800,
 				},
 				["55959"] = {
 					"55959", -- [1]
@@ -1752,17 +7557,17 @@ _detalhes_global = {
 					"Lanathel", -- [9]
 					["id"] = 1103,
 				},
-				["144330"] = {
-					"144330", -- [1]
-					"Timer144330cd", -- [2]
-					"钢铁囚笼冷却", -- [3]
-					31.5, -- [4]
-					644388, -- [5]
-					"cd", -- [6]
-					144330, -- [7]
-					5, -- [8]
-					"856", -- [9]
-					["id"] = 1606,
+				["144574"] = {
+					"144574", -- [1]
+					"Timer144574next", -- [2]
+					"下一次腐化囚笼", -- [3]
+					53, -- [4]
+					895886, -- [5]
+					"next", -- [6]
+					144574, -- [7]
+					3, -- [8]
+					"867", -- [9]
+					["id"] = 1604,
 				},
 				["227477"] = {
 					"227477", -- [1]
@@ -1776,17 +7581,17 @@ _detalhes_global = {
 					"1820", -- [9]
 					["id"] = 1957,
 				},
-				["201733"] = {
-					"201733", -- [1]
-					"Timer201733cd", -- [2]
-					"针刺虫群冷却", -- [3]
-					9, -- [4]
-					538518, -- [5]
+				["100744"] = {
+					"100744", -- [1]
+					"Timer100744cd", -- [2]
+					"火焰风暴冷却", -- [3]
+					94, -- [4]
+					237588, -- [5]
 					"cd", -- [6]
-					201733, -- [7]
-					3, -- [8]
-					"1672", -- [9]
-					["id"] = 1835,
+					100744, -- [7]
+					2, -- [8]
+					"194", -- [9]
+					["id"] = 1206,
 				},
 				["206883"] = {
 					"206883", -- [1]
@@ -1800,29 +7605,29 @@ _detalhes_global = {
 					"1737", -- [9]
 					["id"] = 1866,
 				},
-				["218304"] = {
-					"218304", -- [1]
-					"Timer218304next", -- [2]
-					"下一次寄生镣铐", -- [3]
+				["181306"] = {
+					"181306", -- [1]
+					"Timer181306nextcount	1", -- [2]
+					"下一次爆裂冲击（1）", -- [3]
 					21, -- [4]
-					538515, -- [5]
-					"next", -- [6]
-					218304, -- [7]
+					236220, -- [5]
+					"nextcount", -- [6]
+					181306, -- [7]
 					3, -- [8]
-					"1761", -- [9]
-					["id"] = 1886,
+					"1392", -- [9]
+					["id"] = 1787,
 				},
-				["205043"] = {
-					"205043", -- [1]
-					"Timer205043next", -- [2]
-					"下一次感染意志", -- [3]
-					10, -- [4]
-					892448, -- [5]
-					"next", -- [6]
-					205043, -- [7]
+				["229284"] = {
+					"229284", -- [1]
+					"Timer229284cd", -- [2]
+					"轰炸冷却", -- [3]
+					25.5, -- [4]
+					1450455, -- [5]
+					"cd", -- [6]
+					229284, -- [7]
 					3, -- [8]
-					"1703", -- [9]
-					["id"] = 1853,
+					"1838", -- [9]
+					["id"] = 2017,
 				},
 				["198495"] = {
 					"198495", -- [1]
@@ -1836,17 +7641,17 @@ _detalhes_global = {
 					"1663", -- [9]
 					["id"] = 1824,
 				},
-				["207278"] = {
-					"207278", -- [1]
-					"Timer207278cd", -- [2]
-					"奥术锁定冷却", -- [3]
-					15, -- [4]
-					1041230, -- [5]
+				["136361"] = {
+					"136361", -- [1]
+					"Timer136361cd", -- [2]
+					"弹跳闪电冷却", -- [3]
+					40, -- [4]
+					462651, -- [5]
 					"cd", -- [6]
-					207278, -- [7]
-					3, -- [8]
-					"1718", -- [9]
-					["id"] = 1868,
+					136361, -- [7]
+					5, -- [8]
+					"832", -- [9]
+					["id"] = 1579,
 				},
 				["184366"] = {
 					"184366", -- [1]
@@ -1872,17 +7677,17 @@ _detalhes_global = {
 					"1672", -- [9]
 					["id"] = 1835,
 				},
-				["101614"] = {
-					"101614", -- [1]
-					"Timer101614next", -- [2]
-					"下一次丢掷图腾", -- [3]
-					10, -- [4]
-					135860, -- [5]
+				["213852"] = {
+					"213852", -- [1]
+					"Timer213852next", -- [2]
+					"下一次复制", -- [3]
+					15, -- [4]
+					135732, -- [5]
 					"next", -- [6]
-					101614, -- [7]
-					5, -- [8]
-					"340", -- [9]
-					["id"] = 1881,
+					213852, -- [7]
+					3, -- [8]
+					"1751", -- [9]
+					["id"] = 1871,
 				},
 				["122398"] = {
 					"122398", -- [1]
@@ -1896,41 +7701,41 @@ _detalhes_global = {
 					"737", -- [9]
 					["id"] = 1499,
 				},
-				["83066"] = {
-					"83066", -- [1]
-					"Timer83066active", -- [2]
-					"哀嚎之风结束", -- [3]
-					6, -- [4]
-					236154, -- [5]
-					"active", -- [6]
-					83066, -- [7]
+				["2937"] = {
+					"2937", -- [1]
+					"Timer2937achievement", -- [2]
+					"成就：限时击杀", -- [3]
+					205, -- [4]
+					"Interface\\Icons\\achievement_boss_xt002deconstructor_01", -- [5]
+					"achievement", -- [6]
+					2937, -- [7]
 					0, -- [8]
-					"122", -- [9]
-					["id"] = 1055,
+					"XT002", -- [9]
+					["id"] = 1142,
 				},
-				["202062"] = {
-					"202062", -- [1]
-					"Timer202062next", -- [2]
-					"下一次刺骨寒风", -- [3]
-					36.5, -- [4]
-					236209, -- [5]
-					"next", -- [6]
-					202062, -- [7]
-					3, -- [8]
-					"1694", -- [9]
-					["id"] = 1845,
+				["113999"] = {
+					"113999", -- [1]
+					"Timer113999cd", -- [2]
+					"骨针冷却", -- [3]
+					6.5, -- [4]
+					133724, -- [5]
+					"cd", -- [6]
+					113999, -- [7]
+					0, -- [8]
+					"665", -- [9]
+					["id"] = 1428,
 				},
-				["205368"] = {
-					"205368", -- [1]
-					"Timer205368nextcount	1", -- [2]
-					"下一次邪能光束（1）", -- [3]
-					5, -- [4]
-					841219, -- [5]
-					"nextcount", -- [6]
-					205368, -- [7]
-					3, -- [8]
-					"1713", -- [9]
-					["id"] = 1842,
+				["142808"] = {
+					"142808", -- [1]
+					"Timer142808active", -- [2]
+					"炎界结束", -- [3]
+					15, -- [4]
+					236216, -- [5]
+					"active", -- [6]
+					142808, -- [7]
+					0, -- [8]
+					"853", -- [9]
+					["id"] = 1593,
 				},
 				["182826"] = {
 					"182826", -- [1]
@@ -2088,17 +7893,17 @@ _detalhes_global = {
 					"1737", -- [9]
 					["id"] = 1866,
 				},
-				["204316"] = {
-					"204316", -- [1]
-					"Timer204316cd", -- [2]
-					"震荡波冷却", -- [3]
-					56.2, -- [4]
-					1029595, -- [5]
+				["181735"] = {
+					"181735", -- [1]
+					"Timer181735cd", -- [2]
+					"邪能引导冷却", -- [3]
+					40.2, -- [4]
+					841219, -- [5]
 					"cd", -- [6]
-					204316, -- [7]
+					181735, -- [7]
 					2, -- [8]
-					"1706", -- [9]
-					["id"] = 1849,
+					"1395", -- [9]
+					["id"] = 1795,
 				},
 				["123255"] = {
 					"123255", -- [1]
@@ -2304,17 +8109,17 @@ _detalhes_global = {
 					"818", -- [9]
 					["id"] = 1572,
 				},
-				["182582"] = {
-					"182582", -- [1]
-					"Timer182582cd", -- [2]
-					"邪能焚化冷却", -- [3]
-					18.5, -- [4]
-					135800, -- [5]
-					"cd", -- [6]
-					182582, -- [7]
-					3, -- [8]
-					"1433", -- [9]
-					["id"] = 1788,
+				["136752"] = {
+					"136752", -- [1]
+					"Timer136752cdcount	1", -- [2]
+					"星辰弹幕冷却（1）", -- [3]
+					17, -- [4]
+					135786, -- [5]
+					"cdcount", -- [6]
+					136752, -- [7]
+					0, -- [8]
+					"829", -- [9]
+					["id"] = 1560,
 				},
 				["228201"] = {
 					"228201", -- [1]
@@ -2328,17 +8133,17 @@ _detalhes_global = {
 					"1830", -- [9]
 					["id"] = 1962,
 				},
-				["63830"] = {
-					"63830", -- [1]
-					"Timer63830cd", -- [2]
-					"心灵疾病冷却", -- [3]
-					13, -- [4]
-					136145, -- [5]
+				["213576"] = {
+					"213576", -- [1]
+					"Timer213576cd", -- [2]
+					"侵蚀之影冷却", -- [3]
+					30.5, -- [4]
+					134430, -- [5]
 					"cd", -- [6]
-					63830, -- [7]
+					213576, -- [7]
 					3, -- [8]
-					"YoggSaron", -- [9]
-					["id"] = 1143,
+					"1470", -- [9]
+					["id"] = 1818,
 				},
 				["188169"] = {
 					"188169", -- [1]
@@ -2496,17 +8301,17 @@ _detalhes_global = {
 					"866", -- [9]
 					["id"] = 1624,
 				},
-				["143759"] = {
-					"143759", -- [1]
-					"Timer143759cd", -- [2]
-					"投掷琥珀冷却", -- [3]
-					44, -- [4]
-					646670, -- [5]
+				["194327"] = {
+					"194327", -- [1]
+					"Timer194327cd", -- [2]
+					"破碎冷却", -- [3]
+					19, -- [4]
+					236300, -- [5]
 					"cd", -- [6]
-					143759, -- [7]
+					194327, -- [7]
 					3, -- [8]
-					"853", -- [9]
-					["id"] = 1593,
+					"1512", -- [9]
+					["id"] = 1823,
 				},
 				["194942"] = {
 					"194942", -- [1]
@@ -2520,41 +8325,41 @@ _detalhes_global = {
 					"1469", -- [9]
 					["id"] = 1817,
 				},
-				["123081"] = {
-					"123081", -- [1]
-					"Timer123081fades", -- [2]
-					"敏感消失", -- [3]
-					360, -- [4]
-					575589, -- [5]
-					"fades", -- [6]
-					123081, -- [7]
-					0, -- [8]
-					"713", -- [9]
-					["id"] = 1463,
-				},
-				["145071"] = {
-					"145071", -- [1]
-					"Timer145071cdcount	1", -- [2]
-					"亚煞极之触冷却（1）", -- [3]
-					30, -- [4]
-					892448, -- [5]
-					"cdcount", -- [6]
-					145071, -- [7]
-					3, -- [8]
-					"869", -- [9]
-					["id"] = 1623,
-				},
-				["143027"] = {
-					"143027", -- [1]
-					"Timer143027cd", -- [2]
-					"对冲冷却", -- [3]
-					45, -- [4]
-					628134, -- [5]
+				["137229"] = {
+					"137229", -- [1]
+					"Timer137229cd", -- [2]
+					"攻击盲区冷却", -- [3]
+					6, -- [4]
+					135733, -- [5]
 					"cd", -- [6]
-					143027, -- [7]
-					3, -- [8]
-					"849", -- [9]
-					["id"] = 1598,
+					137229, -- [7]
+					0, -- [8]
+					"817", -- [9]
+					["id"] = 1559,
+				},
+				["47981"] = {
+					"47981", -- [1]
+					"Timer47981cd2", -- [2]
+					"法术反射冷却", -- [3]
+					20, -- [4]
+					136222, -- [5]
+					"cd", -- [6]
+					47981, -- [7]
+					5, -- [8]
+					"620", -- [9]
+					["id"] = 2012,
+				},
+				["192621"] = {
+					"192621", -- [1]
+					"Timer192621cd", -- [2]
+					"火岩冷却", -- [3]
+					10, -- [4]
+					135830, -- [5]
+					"cd", -- [6]
+					192621, -- [7]
+					1, -- [8]
+					"1468", -- [9]
+					["id"] = 1816,
 				},
 				["191798"] = {
 					"191798", -- [1]
@@ -2580,29 +8385,29 @@ _detalhes_global = {
 					"685", -- [9]
 					["id"] = 1305,
 				},
-				["181255"] = {
-					"181255", -- [1]
-					"Timer181255nextcount	1", -- [2]
-					"下一次邪能小鬼爆炸（1）", -- [3]
-					27.4, -- [4]
-					236294, -- [5]
-					"nextcount", -- [6]
-					181255, -- [7]
-					1, -- [8]
-					"1395", -- [9]
-					["id"] = 1795,
+				["189779"] = {
+					"189779", -- [1]
+					"Timer189779cdcount2	1", -- [2]
+					"黑洞冷却（1）", -- [3]
+					18, -- [4]
+					132886, -- [5]
+					"cdcount", -- [6]
+					189779, -- [7]
+					5, -- [8]
+					"1447", -- [9]
+					["id"] = 1800,
 				},
-				["147042"] = {
-					"147042", -- [1]
-					"Timer147042nextcount	1", -- [2]
-					"下一次辐射烈焰（1）", -- [3]
-					39, -- [4]
-					524795, -- [5]
-					"nextcount", -- [6]
-					147042, -- [7]
-					2, -- [8]
-					"868", -- [9]
-					["id"] = 1622,
+				["203787"] = {
+					"203787", -- [1]
+					"Timer203787cd2", -- [2]
+					"快速传染冷却", -- [3]
+					19.5, -- [4]
+					135914, -- [5]
+					"cd", -- [6]
+					203787, -- [7]
+					3, -- [8]
+					"1704", -- [9]
+					["id"] = 1854,
 				},
 				["197422"] = {
 					"197422", -- [1]
@@ -2724,17 +8529,17 @@ _detalhes_global = {
 					"1738", -- [9]
 					["id"] = 1873,
 				},
-				["198496"] = {
-					"198496", -- [1]
-					"Timer198496cd", -- [2]
-					"破甲冷却", -- [3]
-					7, -- [4]
-					132340, -- [5]
-					"cd", -- [6]
-					198496, -- [7]
-					5, -- [8]
-					"1665", -- [9]
-					["id"] = 1791,
+				["186348"] = {
+					"186348", -- [1]
+					"Timer186348next", -- [2]
+					"下一次愤怒", -- [3]
+					10, -- [4]
+					615100, -- [5]
+					"next", -- [6]
+					186348, -- [7]
+					3, -- [8]
+					"1395", -- [9]
+					["id"] = 1795,
 				},
 				["78939"] = {
 					"78939", -- [1]
@@ -2772,29 +8577,29 @@ _detalhes_global = {
 					"1761", -- [9]
 					["id"] = 1886,
 				},
-				["179667"] = {
-					"179667", -- [1]
-					"Timer179667next", -- [2]
-					"下一次赤手空拳", -- [3]
-					86.7, -- [4]
-					132343, -- [5]
+				["70337"] = {
+					"70337", -- [1]
+					"Timer70337next", -- [2]
+					"下一次死疽", -- [3]
+					27, -- [4]
+					132099, -- [5]
 					"next", -- [6]
-					179667, -- [7]
-					6, -- [8]
-					"1391", -- [9]
-					["id"] = 1777,
-				},
-				["192631"] = {
-					"192631", -- [1]
-					"Timer192631cd", -- [2]
-					"岩浆之环冷却", -- [3]
-					25, -- [4]
-					135926, -- [5]
-					"cd", -- [6]
-					192631, -- [7]
+					70337, -- [7]
 					3, -- [8]
-					"1468", -- [9]
-					["id"] = 1816,
+					"LichKing", -- [9]
+					["id"] = 1106,
+				},
+				["213162"] = {
+					"213162", -- [1]
+					"Timer213162next", -- [2]
+					"下一次梦魇冲击", -- [3]
+					30.5, -- [4]
+					1357799, -- [5]
+					"next", -- [6]
+					213162, -- [7]
+					5, -- [8]
+					"1750", -- [9]
+					["id"] = 1877,
 				},
 				["75704"] = {
 					"75704", -- [1]
@@ -2892,17 +8697,17 @@ _detalhes_global = {
 					"1743", -- [9]
 					["id"] = 1872,
 				},
-				["227800"] = {
-					"227800", -- [1]
-					"Timer227800cd", -- [2]
-					"神圣震击冷却", -- [3]
-					15.8, -- [4]
-					135972, -- [5]
+				["143990"] = {
+					"143990", -- [1]
+					"Timer143990cd", -- [2]
+					"污水喷涌冷却", -- [3]
+					32.5, -- [4]
+					132104, -- [5]
 					"cd", -- [6]
-					227800, -- [7]
-					4, -- [8]
-					"1825", -- [9]
-					["id"] = 1954,
+					143990, -- [7]
+					1, -- [8]
+					"856", -- [9]
+					["id"] = 1606,
 				},
 				["214880"] = {
 					"214880", -- [1]
@@ -3180,29 +8985,29 @@ _detalhes_global = {
 					"1738", -- [9]
 					["id"] = 1873,
 				},
-				["209971"] = {
-					"209971", -- [1]
-					"Timer209971cd", -- [2]
-					"消融脉冲冷却", -- [3]
-					22, -- [4]
-					135728, -- [5]
-					"cd", -- [6]
-					209971, -- [7]
-					4, -- [8]
-					"1743", -- [9]
-					["id"] = 1872,
+				["69200"] = {
+					"69200", -- [1]
+					"Timer69200next", -- [2]
+					"下一次狂怒之魂", -- [3]
+					6, -- [4]
+					132344, -- [5]
+					"next", -- [6]
+					69200, -- [7]
+					1, -- [8]
+					"LichKing", -- [9]
+					["id"] = 1106,
 				},
-				["188693"] = {
-					"188693", -- [1]
-					"Timer188693cdcount	1", -- [2]
-					"邪能爆发冷却（1）", -- [3]
-					33.7, -- [4]
-					135800, -- [5]
-					"cdcount", -- [6]
-					188693, -- [7]
-					2, -- [8]
-					"1427", -- [9]
-					["id"] = 1794,
+				["179582"] = {
+					"179582", -- [1]
+					"Timer179582next	1", -- [2]
+					"下一次裂隙", -- [3]
+					5.5, -- [4]
+					1118738, -- [5]
+					"next", -- [6]
+					179582, -- [7]
+					5, -- [8]
+					"1391", -- [9]
+					["id"] = 1777,
 				},
 				["190821"] = {
 					"190821", -- [1]
@@ -3216,17 +9021,17 @@ _detalhes_global = {
 					"1438", -- [9]
 					["id"] = 1799,
 				},
-				["194231"] = {
-					"194231", -- [1]
-					"Timer194231cd", -- [2]
-					"召唤被禁锢的仆从冷却", -- [3]
-					7, -- [4]
-					636332, -- [5]
-					"cd", -- [6]
-					194231, -- [7]
-					1, -- [8]
-					"1512", -- [9]
-					["id"] = 1823,
+				["227233"] = {
+					"227233", -- [1]
+					"Timer227233next", -- [2]
+					"下一次腐化咆哮", -- [3]
+					15, -- [4]
+					136183, -- [5]
+					"next", -- [6]
+					227233, -- [7]
+					3, -- [8]
+					"1663", -- [9]
+					["id"] = 1824,
 				},
 				["228806"] = {
 					"228806", -- [1]
@@ -3252,29 +9057,29 @@ _detalhes_global = {
 					"1203", -- [9]
 					["id"] = 1695,
 				},
-				["179582"] = {
-					"179582", -- [1]
-					"Timer179582next	1", -- [2]
-					"下一次裂隙", -- [3]
-					5.5, -- [4]
-					1118738, -- [5]
-					"next", -- [6]
-					179582, -- [7]
-					5, -- [8]
-					"1391", -- [9]
-					["id"] = 1777,
+				["194231"] = {
+					"194231", -- [1]
+					"Timer194231cd", -- [2]
+					"召唤被禁锢的仆从冷却", -- [3]
+					7, -- [4]
+					636332, -- [5]
+					"cd", -- [6]
+					194231, -- [7]
+					1, -- [8]
+					"1512", -- [9]
+					["id"] = 1823,
 				},
-				["227992"] = {
-					"227992", -- [1]
-					"Timer227992cast", -- [2]
-					"毒水消融", -- [3]
-					20.5, -- [4]
-					893778, -- [5]
-					"cast", -- [6]
-					227992, -- [7]
-					2, -- [8]
-					"1829", -- [9]
-					["id"] = 2008,
+				["184360"] = {
+					"184360", -- [1]
+					"Timer184360cdcount	1", -- [2]
+					"邪能狂怒冷却（1）", -- [3]
+					28, -- [4]
+					135791, -- [5]
+					"cdcount", -- [6]
+					184360, -- [7]
+					3, -- [8]
+					"1432", -- [9]
+					["id"] = 1798,
 				},
 				["153470"] = {
 					"153470", -- [1]
@@ -3300,17 +9105,17 @@ _detalhes_global = {
 					"824", -- [9]
 					["id"] = 1576,
 				},
-				["207513"] = {
-					"207513", -- [1]
-					"Timer207513next", -- [2]
-					"下一次清扫", -- [3]
-					10, -- [4]
-					655994, -- [5]
-					"next", -- [6]
-					207513, -- [7]
+				["ej9650"] = {
+					"ej9650", -- [1]
+					"Timerej9650cdcount	2", -- [2]
+					"鼓风者冷却（2）", -- [3]
+					40, -- [4]
+					237030, -- [5]
+					"cdcount", -- [6]
+					"ej9650", -- [7]
 					1, -- [8]
-					"1731", -- [9]
-					["id"] = 1867,
+					"1154", -- [9]
+					["id"] = 1690,
 				},
 				["209615"] = {
 					"209615", -- [1]
@@ -3324,29 +9129,29 @@ _detalhes_global = {
 					"1743", -- [9]
 					["id"] = 1872,
 				},
-				["227233"] = {
-					"227233", -- [1]
-					"Timer227233next", -- [2]
-					"下一次腐化咆哮", -- [3]
-					15, -- [4]
-					136183, -- [5]
-					"next", -- [6]
-					227233, -- [7]
-					3, -- [8]
-					"1663", -- [9]
-					["id"] = 1824,
+				["227992"] = {
+					"227992", -- [1]
+					"Timer227992cast", -- [2]
+					"毒水消融", -- [3]
+					20.5, -- [4]
+					893778, -- [5]
+					"cast", -- [6]
+					227992, -- [7]
+					2, -- [8]
+					"1829", -- [9]
+					["id"] = 2008,
 				},
-				["184360"] = {
-					"184360", -- [1]
-					"Timer184360cdcount	1", -- [2]
-					"邪能狂怒冷却（1）", -- [3]
-					28, -- [4]
-					135791, -- [5]
-					"cdcount", -- [6]
-					184360, -- [7]
-					3, -- [8]
-					"1432", -- [9]
-					["id"] = 1798,
+				["207513"] = {
+					"207513", -- [1]
+					"Timer207513next", -- [2]
+					"下一次清扫", -- [3]
+					10, -- [4]
+					655994, -- [5]
+					"next", -- [6]
+					207513, -- [7]
+					1, -- [8]
+					"1731", -- [9]
+					["id"] = 1867,
 				},
 				["44194"] = {
 					"44194", -- [1]
@@ -3360,17 +9165,17 @@ _detalhes_global = {
 					"533", -- [9]
 					["id"] = 1894,
 				},
-				["213567"] = {
-					"213567", -- [1]
-					"Timer213567next", -- [2]
-					"下一次复生", -- [3]
-					62, -- [4]
-					135811, -- [5]
-					"next", -- [6]
-					213567, -- [7]
+				["241622"] = {
+					"241622", -- [1]
+					"Timer241622cast	Creature-0-3911-1677-27541-118834-0001F0F1EF", -- [2]
+					"触及末日", -- [3]
+					20, -- [4]
+					1344649, -- [5]
+					"cast", -- [6]
+					241622, -- [7]
 					1, -- [8]
-					"1751", -- [9]
-					["id"] = 1871,
+					"1904", -- [9]
+					["id"] = 2053,
 				},
 				["211471"] = {
 					"211471", -- [1]
@@ -3396,17 +9201,17 @@ _detalhes_global = {
 					"1656", -- [9]
 					["id"] = 1838,
 				},
-				["ej9650"] = {
-					"ej9650", -- [1]
-					"Timerej9650cdcount	2", -- [2]
-					"鼓风者冷却（2）", -- [3]
-					40, -- [4]
-					237030, -- [5]
-					"cdcount", -- [6]
-					"ej9650", -- [7]
-					1, -- [8]
-					"1154", -- [9]
-					["id"] = 1690,
+				["204459"] = {
+					"204459", -- [1]
+					"Timer204459fades", -- [2]
+					"易伤外壳消失", -- [3]
+					15, -- [4]
+					132358, -- [5]
+					"fades", -- [6]
+					204459, -- [7]
+					6, -- [8]
+					"1706", -- [9]
+					["id"] = 1849,
 				},
 				["210326"] = {
 					"210326", -- [1]
@@ -3420,17 +9225,17 @@ _detalhes_global = {
 					"1744", -- [9]
 					["id"] = 1876,
 				},
-				["241622"] = {
-					"241622", -- [1]
-					"Timer241622cast	Creature-0-3911-1677-27541-118834-0001F0F1EF", -- [2]
-					"触及末日", -- [3]
-					20, -- [4]
-					1344649, -- [5]
-					"cast", -- [6]
-					241622, -- [7]
+				["213567"] = {
+					"213567", -- [1]
+					"Timer213567next", -- [2]
+					"下一次复生", -- [3]
+					62, -- [4]
+					135811, -- [5]
+					"next", -- [6]
+					213567, -- [7]
 					1, -- [8]
-					"1904", -- [9]
-					["id"] = 2053,
+					"1751", -- [9]
+					["id"] = 1871,
 				},
 				["228187"] = {
 					"228187", -- [1]
@@ -3444,18 +9249,6 @@ _detalhes_global = {
 					"1830", -- [9]
 					["id"] = 1962,
 				},
-				["138644"] = {
-					"138644", -- [1]
-					"Timer138644nextcount	1", -- [2]
-					"下一次心能虹吸（1）", -- [3]
-					5.3, -- [4]
-					838812, -- [5]
-					"nextcount", -- [6]
-					138644, -- [7]
-					0, -- [8]
-					"824", -- [9]
-					["id"] = 1576,
-				},
 				["200736"] = {
 					"200736", -- [1]
 					"Timer200736next", -- [2]
@@ -3467,6 +9260,18 @@ _detalhes_global = {
 					2, -- [8]
 					"1486", -- [9]
 					["id"] = 1806,
+				},
+				["182582"] = {
+					"182582", -- [1]
+					"Timer182582cd", -- [2]
+					"邪能焚化冷却", -- [3]
+					18.5, -- [4]
+					135800, -- [5]
+					"cd", -- [6]
+					182582, -- [7]
+					3, -- [8]
+					"1433", -- [9]
+					["id"] = 1788,
 				},
 				["143436"] = {
 					"143436", -- [1]
@@ -3492,17 +9297,17 @@ _detalhes_global = {
 					"959", -- [9]
 					["id"] = 1704,
 				},
-				["213162"] = {
-					"213162", -- [1]
-					"Timer213162next", -- [2]
-					"下一次梦魇冲击", -- [3]
-					30.5, -- [4]
-					1357799, -- [5]
-					"next", -- [6]
-					213162, -- [7]
-					5, -- [8]
-					"1750", -- [9]
-					["id"] = 1877,
+				["138644"] = {
+					"138644", -- [1]
+					"Timer138644nextcount	1", -- [2]
+					"下一次心能虹吸（1）", -- [3]
+					5.3, -- [4]
+					838812, -- [5]
+					"nextcount", -- [6]
+					138644, -- [7]
+					0, -- [8]
+					"824", -- [9]
+					["id"] = 1576,
 				},
 				["207938"] = {
 					"207938", -- [1]
@@ -3516,41 +9321,65 @@ _detalhes_global = {
 					"1737", -- [9]
 					["id"] = 1866,
 				},
-				["210290"] = {
-					"210290", -- [1]
-					"Timer210290cd2", -- [2]
-					"梦魇荆棘冷却", -- [3]
-					27.5, -- [4]
-					1357815, -- [5]
+				["176312"] = {
+					"176312", -- [1]
+					"Timer176312nextcount	1", -- [2]
+					"下一次疾驰列车（1）", -- [3]
+					12, -- [4]
+					1029727, -- [5]
+					"nextcount", -- [6]
+					176312, -- [7]
+					1, -- [8]
+					"1147", -- [9]
+					["id"] = 1692,
+				},
+				["192631"] = {
+					"192631", -- [1]
+					"Timer192631cd", -- [2]
+					"岩浆之环冷却", -- [3]
+					25, -- [4]
+					135926, -- [5]
 					"cd", -- [6]
-					210290, -- [7]
+					192631, -- [7]
 					3, -- [8]
-					"1750", -- [9]
-					["id"] = 1877,
+					"1468", -- [9]
+					["id"] = 1816,
 				},
-				["70337"] = {
-					"70337", -- [1]
-					"Timer70337next", -- [2]
-					"下一次死疽", -- [3]
-					27, -- [4]
-					132099, -- [5]
+				["179667"] = {
+					"179667", -- [1]
+					"Timer179667next", -- [2]
+					"下一次赤手空拳", -- [3]
+					86.7, -- [4]
+					132343, -- [5]
 					"next", -- [6]
-					70337, -- [7]
-					3, -- [8]
-					"LichKing", -- [9]
-					["id"] = 1106,
+					179667, -- [7]
+					6, -- [8]
+					"1391", -- [9]
+					["id"] = 1777,
 				},
-				["186348"] = {
-					"186348", -- [1]
-					"Timer186348next", -- [2]
-					"下一次愤怒", -- [3]
-					10, -- [4]
-					615100, -- [5]
+				["198496"] = {
+					"198496", -- [1]
+					"Timer198496cd", -- [2]
+					"破甲冷却", -- [3]
+					7, -- [4]
+					132340, -- [5]
+					"cd", -- [6]
+					198496, -- [7]
+					5, -- [8]
+					"1665", -- [9]
+					["id"] = 1791,
+				},
+				["205298"] = {
+					"205298", -- [1]
+					"Timer205298next", -- [2]
+					"下一次腐蚀精华", -- [3]
+					29.5, -- [4]
+					134438, -- [5]
 					"next", -- [6]
-					186348, -- [7]
-					3, -- [8]
-					"1395", -- [9]
-					["id"] = 1795,
+					205298, -- [7]
+					1, -- [8]
+					"1704", -- [9]
+					["id"] = 1854,
 				},
 				["181295"] = {
 					"181295", -- [1]
@@ -3564,41 +9393,17 @@ _detalhes_global = {
 					"1372", -- [9]
 					["id"] = 1783,
 				},
-				["243124"] = {
-					"243124", -- [1]
-					"Timer243124cd", -- [2]
-					"投掷战槌冷却", -- [3]
-					15.5, -- [4]
-					1084435, -- [5]
-					"cd", -- [6]
-					243124, -- [7]
-					3, -- [8]
-					"1906", -- [9]
-					["id"] = 2057,
-				},
-				["213390"] = {
-					"213390", -- [1]
-					"Timer213390next", -- [2]
-					"下一次自爆", -- [3]
-					35, -- [4]
-					1033906, -- [5]
-					"next", -- [6]
-					213390, -- [7]
-					3, -- [8]
-					"1751", -- [9]
-					["id"] = 1871,
-				},
-				["189779"] = {
-					"189779", -- [1]
-					"Timer189779cdcount2	1", -- [2]
-					"黑洞冷却（1）", -- [3]
-					18, -- [4]
-					132886, -- [5]
-					"cdcount", -- [6]
-					189779, -- [7]
-					5, -- [8]
-					"1447", -- [9]
-					["id"] = 1800,
+				["181255"] = {
+					"181255", -- [1]
+					"Timer181255nextcount	1", -- [2]
+					"下一次邪能小鬼爆炸（1）", -- [3]
+					27.4, -- [4]
+					236294, -- [5]
+					"nextcount", -- [6]
+					181255, -- [7]
+					1, -- [8]
+					"1395", -- [9]
+					["id"] = 1795,
 				},
 				["66237"] = {
 					"66237", -- [1]
@@ -3624,29 +9429,29 @@ _detalhes_global = {
 					"1830", -- [9]
 					["id"] = 1962,
 				},
-				["144356"] = {
-					"144356", -- [1]
-					"Timer144356cd", -- [2]
-					"回旋锯刃冷却", -- [3]
-					15, -- [4]
-					634012, -- [5]
-					"cd", -- [6]
-					144356, -- [7]
-					3, -- [8]
-					"864", -- [9]
-					["id"] = 1600,
+				["145489"] = {
+					"145489", -- [1]
+					"Timer145489next", -- [2]
+					"下一次返回岩石形态", -- [3]
+					6, -- [4]
+					458241, -- [5]
+					"next", -- [6]
+					145489, -- [7]
+					0, -- [8]
+					"870", -- [9]
+					["id"] = 1594,
 				},
-				["192621"] = {
-					"192621", -- [1]
-					"Timer192621cd", -- [2]
-					"火岩冷却", -- [3]
-					10, -- [4]
-					135830, -- [5]
-					"cd", -- [6]
-					192621, -- [7]
-					1, -- [8]
-					"1468", -- [9]
-					["id"] = 1816,
+				["123081"] = {
+					"123081", -- [1]
+					"Timer123081fades", -- [2]
+					"敏感消失", -- [3]
+					360, -- [4]
+					575589, -- [5]
+					"fades", -- [6]
+					123081, -- [7]
+					0, -- [8]
+					"713", -- [9]
+					["id"] = 1463,
 				},
 				["143309"] = {
 					"143309", -- [1]
@@ -3672,17 +9477,17 @@ _detalhes_global = {
 					"1829", -- [9]
 					["id"] = 2008,
 				},
-				["203787"] = {
-					"203787", -- [1]
-					"Timer203787cd2", -- [2]
-					"快速传染冷却", -- [3]
-					19.5, -- [4]
-					135914, -- [5]
-					"cd", -- [6]
-					203787, -- [7]
-					3, -- [8]
-					"1704", -- [9]
-					["id"] = 1854,
+				["147042"] = {
+					"147042", -- [1]
+					"Timer147042nextcount	1", -- [2]
+					"下一次辐射烈焰（1）", -- [3]
+					39, -- [4]
+					524795, -- [5]
+					"nextcount", -- [6]
+					147042, -- [7]
+					2, -- [8]
+					"868", -- [9]
+					["id"] = 1622,
 				},
 				["156479"] = {
 					"156479", -- [1]
@@ -3696,17 +9501,17 @@ _detalhes_global = {
 					"959", -- [9]
 					["id"] = 1704,
 				},
-				["137229"] = {
-					"137229", -- [1]
-					"Timer137229cd", -- [2]
-					"攻击盲区冷却", -- [3]
-					6, -- [4]
-					135733, -- [5]
-					"cd", -- [6]
-					137229, -- [7]
-					0, -- [8]
-					"817", -- [9]
-					["id"] = 1559,
+				["145071"] = {
+					"145071", -- [1]
+					"Timer145071cdcount	1", -- [2]
+					"亚煞极之触冷却（1）", -- [3]
+					30, -- [4]
+					892448, -- [5]
+					"cdcount", -- [6]
+					145071, -- [7]
+					3, -- [8]
+					"869", -- [9]
+					["id"] = 1623,
 				},
 				["197942"] = {
 					"197942", -- [1]
@@ -3720,29 +9525,41 @@ _detalhes_global = {
 					"1667", -- [9]
 					["id"] = 1841,
 				},
-				["213576"] = {
-					"213576", -- [1]
-					"Timer213576cd", -- [2]
-					"侵蚀之影冷却", -- [3]
-					30.5, -- [4]
-					134430, -- [5]
+				["243124"] = {
+					"243124", -- [1]
+					"Timer243124cd", -- [2]
+					"投掷战槌冷却", -- [3]
+					15.5, -- [4]
+					1084435, -- [5]
 					"cd", -- [6]
-					213576, -- [7]
+					243124, -- [7]
 					3, -- [8]
-					"1470", -- [9]
-					["id"] = 1818,
+					"1906", -- [9]
+					["id"] = 2057,
 				},
-				["47981"] = {
-					"47981", -- [1]
-					"Timer47981cd2", -- [2]
-					"法术反射冷却", -- [3]
-					20, -- [4]
-					136222, -- [5]
+				["143027"] = {
+					"143027", -- [1]
+					"Timer143027cd", -- [2]
+					"对冲冷却", -- [3]
+					45, -- [4]
+					628134, -- [5]
 					"cd", -- [6]
-					47981, -- [7]
-					5, -- [8]
-					"620", -- [9]
-					["id"] = 2012,
+					143027, -- [7]
+					3, -- [8]
+					"849", -- [9]
+					["id"] = 1598,
+				},
+				["144356"] = {
+					"144356", -- [1]
+					"Timer144356cd", -- [2]
+					"回旋锯刃冷却", -- [3]
+					15, -- [4]
+					634012, -- [5]
+					"cd", -- [6]
+					144356, -- [7]
+					3, -- [8]
+					"864", -- [9]
+					["id"] = 1600,
 				},
 				["216249"] = {
 					"216249", -- [1]
@@ -3768,18 +9585,6 @@ _detalhes_global = {
 					"1161", -- [9]
 					["id"] = 1691,
 				},
-				["28542"] = {
-					"28542", -- [1]
-					"Timer28542cd", -- [2]
-					"生命吸取冷却", -- [3]
-					22, -- [4]
-					136169, -- [5]
-					"cd", -- [6]
-					28542, -- [7]
-					0, -- [8]
-					"Sapphiron", -- [9]
-					["id"] = 1119,
-				},
 				["68989"] = {
 					"68989", -- [1]
 					"Timer68989cast2", -- [2]
@@ -3791,6 +9596,18 @@ _detalhes_global = {
 					2, -- [8]
 					"609", -- [9]
 					["id"] = 2001,
+				},
+				["28542"] = {
+					"28542", -- [1]
+					"Timer28542cd", -- [2]
+					"生命吸取冷却", -- [3]
+					22, -- [4]
+					136169, -- [5]
+					"cd", -- [6]
+					28542, -- [7]
+					0, -- [8]
+					"Sapphiron", -- [9]
+					["id"] = 1119,
 				},
 				["75664"] = {
 					"75664", -- [1]
@@ -3804,53 +9621,41 @@ _detalhes_global = {
 					"134", -- [9]
 					["id"] = 1049,
 				},
-				["113143"] = {
-					"113143", -- [1]
-					"Timer113143next", -- [2]
-					"下一次复活吧！", -- [3]
-					48, -- [4]
-					237511, -- [5]
+				["197687"] = {
+					"197687", -- [1]
+					"Timer197687next", -- [2]
+					"下一次眼棱", -- [3]
+					4, -- [4]
+					1033497, -- [5]
 					"next", -- [6]
-					113143, -- [7]
-					1, -- [8]
-					"684", -- [9]
-					["id"] = 1430,
+					197687, -- [7]
+					3, -- [8]
+					"1653", -- [9]
+					["id"] = 1833,
 				},
-				["142808"] = {
-					"142808", -- [1]
-					"Timer142808active", -- [2]
-					"炎界结束", -- [3]
-					15, -- [4]
-					236216, -- [5]
-					"active", -- [6]
-					142808, -- [7]
-					0, -- [8]
-					"853", -- [9]
-					["id"] = 1593,
-				},
-				["ej14005"] = {
-					"ej14005", -- [1]
-					"Timerej14005next", -- [2]
-					"下一次海姆达尔", -- [3]
-					67, -- [4]
-					134229, -- [5]
+				["102573"] = {
+					"102573", -- [1]
+					"Timer102573next", -- [2]
+					"下一次闪电吐息", -- [3]
+					9.7, -- [4]
+					135781, -- [5]
 					"next", -- [6]
-					"ej14005", -- [7]
-					1, -- [8]
-					"1819", -- [9]
-					["id"] = 1958,
-				},
-				["158078"] = {
-					"158078", -- [1]
-					"Timer158078cdcount	1", -- [2]
-					"鲜血仪式冷却（1）", -- [3]
-					12.4, -- [4]
-					1035037, -- [5]
-					"cdcount", -- [6]
-					158078, -- [7]
+					102573, -- [7]
 					5, -- [8]
-					"1203", -- [9]
-					["id"] = 1695,
+					"673", -- [9]
+					["id"] = 1303,
+				},
+				["144330"] = {
+					"144330", -- [1]
+					"Timer144330cd", -- [2]
+					"钢铁囚笼冷却", -- [3]
+					31.5, -- [4]
+					644388, -- [5]
+					"cd", -- [6]
+					144330, -- [7]
+					5, -- [8]
+					"856", -- [9]
+					["id"] = 1606,
 				},
 				["213853"] = {
 					"213853", -- [1]
@@ -3900,17 +9705,17 @@ _detalhes_global = {
 					"1427", -- [9]
 					["id"] = 1794,
 				},
-				["136361"] = {
-					"136361", -- [1]
-					"Timer136361cd", -- [2]
-					"弹跳闪电冷却", -- [3]
-					40, -- [4]
-					462651, -- [5]
-					"cd", -- [6]
-					136361, -- [7]
-					5, -- [8]
-					"832", -- [9]
-					["id"] = 1579,
+				["83066"] = {
+					"83066", -- [1]
+					"Timer83066active", -- [2]
+					"哀嚎之风结束", -- [3]
+					6, -- [4]
+					236154, -- [5]
+					"active", -- [6]
+					83066, -- [7]
+					0, -- [8]
+					"122", -- [9]
+					["id"] = 1055,
 				},
 				["48179"] = {
 					"48179", -- [1]
@@ -3924,29 +9729,29 @@ _detalhes_global = {
 					"621", -- [9]
 					["id"] = 2011,
 				},
-				["206222"] = {
-					"206222", -- [1]
-					"Timer206222ai", -- [2]
-					"邪能束缚人工智能计时冷却", -- [3]
-					49.9959999999992, -- [4]
-					1117883, -- [5]
-					"ai", -- [6]
-					206222, -- [7]
-					3, -- [8]
-					"1737", -- [9]
-					["id"] = 1866,
+				["2930"] = {
+					"2930", -- [1]
+					"Timer2930achievement", -- [2]
+					"成就：限时击杀", -- [3]
+					240, -- [4]
+					"Interface\\Icons\\Achievement_Boss_Ignis_01", -- [5]
+					"achievement", -- [6]
+					2930, -- [7]
+					0, -- [8]
+					"Ignis", -- [9]
+					["id"] = 1136,
 				},
-				["205298"] = {
-					"205298", -- [1]
-					"Timer205298next", -- [2]
-					"下一次腐蚀精华", -- [3]
-					29.5, -- [4]
-					134438, -- [5]
+				["ej8298"] = {
+					"ej8298", -- [1]
+					"Timerej8298next", -- [2]
+					"下一次攻城技师", -- [3]
+					20, -- [4]
+					236216, -- [5]
 					"next", -- [6]
-					205298, -- [7]
+					"ej8298", -- [7]
 					1, -- [8]
-					"1704", -- [9]
-					["id"] = 1854,
+					"869", -- [9]
+					["id"] = 1623,
 				},
 				["236543"] = {
 					"236543", -- [1]
@@ -3972,17 +9777,17 @@ _detalhes_global = {
 					"131", -- [9]
 					["id"] = 1051,
 				},
-				["206700"] = {
-					"206700", -- [1]
-					"Timer206700nextcount	1", -- [2]
-					"下一次Summon Slow Add（1）", -- [3]
-					25, -- [4]
-					132849, -- [5]
-					"nextcount", -- [6]
-					206700, -- [7]
-					1, -- [8]
-					"1725", -- [9]
-					["id"] = 1865,
+				["192018"] = {
+					"192018", -- [1]
+					"Timer192018cd", -- [2]
+					"光明之盾冷却", -- [3]
+					24, -- [4]
+					612968, -- [5]
+					"cd", -- [6]
+					192018, -- [7]
+					5, -- [8]
+					"1486", -- [9]
+					["id"] = 1806,
 				},
 				["ej8294"] = {
 					"ej8294", -- [1]
@@ -4080,29 +9885,29 @@ _detalhes_global = {
 					"118", -- [9]
 					["id"] = 1054,
 				},
-				["42005"] = {
-					"42005", -- [1]
-					"Timer42005cd", -- [2]
-					"血液沸腾冷却", -- [3]
-					11.5, -- [4]
-					136124, -- [5]
-					"cd", -- [6]
-					42005, -- [7]
-					5, -- [8]
-					"Bloodboil", -- [9]
-					["id"] = 605,
+				["63666"] = {
+					"63666", -- [1]
+					"Timer63666active", -- [2]
+					"凝固汽油炸弹结束", -- [3]
+					6, -- [4]
+					135265, -- [5]
+					"active", -- [6]
+					63666, -- [7]
+					0, -- [8]
+					"Mimiron", -- [9]
+					["id"] = 1138,
 				},
-				["194956"] = {
-					"194956", -- [1]
-					"Timer194956next", -- [2]
-					"下一次收割灵魂", -- [3]
-					20, -- [4]
-					237507, -- [5]
-					"next", -- [6]
-					194956, -- [7]
-					5, -- [8]
-					"1518", -- [9]
-					["id"] = 1832,
+				["206700"] = {
+					"206700", -- [1]
+					"Timer206700nextcount	1", -- [2]
+					"下一次Summon Slow Add（1）", -- [3]
+					25, -- [4]
+					132849, -- [5]
+					"nextcount", -- [6]
+					206700, -- [7]
+					1, -- [8]
+					"1725", -- [9]
+					["id"] = 1865,
 				},
 				["59322"] = {
 					"59322", -- [1]
@@ -4116,17 +9921,17 @@ _detalhes_global = {
 					"643", -- [9]
 					["id"] = 2029,
 				},
-				["181306"] = {
-					"181306", -- [1]
-					"Timer181306nextcount	1", -- [2]
-					"下一次爆裂冲击（1）", -- [3]
-					21, -- [4]
-					236220, -- [5]
-					"nextcount", -- [6]
-					181306, -- [7]
-					3, -- [8]
-					"1392", -- [9]
-					["id"] = 1787,
+				["137129"] = {
+					"137129", -- [1]
+					"Timer137129next", -- [2]
+					"下一次坠落之星", -- [3]
+					4.5, -- [4]
+					236168, -- [5]
+					"next", -- [6]
+					137129, -- [7]
+					0, -- [8]
+					"829", -- [9]
+					["id"] = 1560,
 				},
 				["39367"] = {
 					"39367", -- [1]
@@ -4152,17 +9957,17 @@ _detalhes_global = {
 					"1162", -- [9]
 					["id"] = 1713,
 				},
-				["63666"] = {
-					"63666", -- [1]
-					"Timer63666active", -- [2]
-					"凝固汽油炸弹结束", -- [3]
-					6, -- [4]
-					135265, -- [5]
-					"active", -- [6]
-					63666, -- [7]
-					0, -- [8]
-					"Mimiron", -- [9]
-					["id"] = 1138,
+				["145215"] = {
+					"145215", -- [1]
+					"Timer145215next", -- [2]
+					"下一次放逐", -- [3]
+					37.5, -- [4]
+					651097, -- [5]
+					"next", -- [6]
+					145215, -- [7]
+					3, -- [8]
+					"867", -- [9]
+					["id"] = 1604,
 				},
 				["30496"] = {
 					"30496", -- [1]
@@ -4188,41 +9993,41 @@ _detalhes_global = {
 					"1704", -- [9]
 					["id"] = 1854,
 				},
-				["221783"] = {
-					"221783", -- [1]
-					"Timer221783cd", -- [2]
-					"萨格拉斯之焰冷却", -- [3]
-					29, -- [4]
-					236297, -- [5]
+				["207439"] = {
+					"207439", -- [1]
+					"Timer207439cd", -- [2]
+					"虚空新星冷却", -- [3]
+					41, -- [4]
+					458969, -- [5]
 					"cd", -- [6]
-					221783, -- [7]
-					3, -- [8]
-					"1737", -- [9]
-					["id"] = 1866,
+					207439, -- [7]
+					2, -- [8]
+					"1732", -- [9]
+					["id"] = 1863,
 				},
-				["185282"] = {
-					"185282", -- [1]
-					"Timer185282nextcount	1", -- [2]
-					"下一次弹幕射击（1）", -- [3]
-					11.7, -- [4]
-					135804, -- [5]
-					"nextcount", -- [6]
-					185282, -- [7]
-					3, -- [8]
-					"1425", -- [9]
-					["id"] = 1785,
-				},
-				["143578"] = {
-					"143578", -- [1]
-					"Timer143578cd", -- [2]
-					"膨胀腐蚀冷却", -- [3]
-					10, -- [4]
-					656551, -- [5]
+				["156626"] = {
+					"156626", -- [1]
+					"Timer156626cd	1", -- [2]
+					"急速射击冷却", -- [3]
+					15.5, -- [4]
+					1035051, -- [5]
 					"cd", -- [6]
-					143578, -- [7]
-					1, -- [8]
-					"852", -- [9]
-					["id"] = 1602,
+					156626, -- [7]
+					3, -- [8]
+					"1203", -- [9]
+					["id"] = 1695,
+				},
+				["210948"] = {
+					"210948", -- [1]
+					"Timer210948next", -- [2]
+					"下一次黑暗风暴", -- [3]
+					26, -- [4]
+					649816, -- [5]
+					"next", -- [6]
+					210948, -- [7]
+					2, -- [8]
+					"1744", -- [9]
+					["id"] = 1876,
 				},
 				["216726"] = {
 					"216726", -- [1]
@@ -4236,29 +10041,29 @@ _detalhes_global = {
 					"1762", -- [9]
 					["id"] = 1862,
 				},
-				["144574"] = {
-					"144574", -- [1]
-					"Timer144574next", -- [2]
-					"下一次腐化囚笼", -- [3]
-					53, -- [4]
-					895886, -- [5]
-					"next", -- [6]
-					144574, -- [7]
-					3, -- [8]
-					"867", -- [9]
-					["id"] = 1604,
-				},
-				["214529"] = {
-					"214529", -- [1]
-					"Timer214529cd3", -- [2]
-					"梦魇之矛冷却", -- [3]
-					20, -- [4]
-					1357799, -- [5]
+				["201733"] = {
+					"201733", -- [1]
+					"Timer201733cd", -- [2]
+					"针刺虫群冷却", -- [3]
+					9, -- [4]
+					538518, -- [5]
 					"cd", -- [6]
-					214529, -- [7]
-					5, -- [8]
-					"1750", -- [9]
-					["id"] = 1877,
+					201733, -- [7]
+					3, -- [8]
+					"1672", -- [9]
+					["id"] = 1835,
+				},
+				["144218"] = {
+					"144218", -- [1]
+					"Timer144218cd", -- [2]
+					"地火突刺冷却", -- [3]
+					17, -- [4]
+					132846, -- [5]
+					"cd", -- [6]
+					144218, -- [7]
+					3, -- [8]
+					"864", -- [9]
+					["id"] = 1600,
 				},
 				["200024"] = {
 					"200024", -- [1]
@@ -4272,17 +10077,17 @@ _detalhes_global = {
 					"1500", -- [9]
 					["id"] = 1826,
 				},
-				["227985"] = {
-					"227985", -- [1]
-					"Timer227985ai", -- [2]
-					"削弱护甲人工智能计时冷却", -- [3]
-					20.5839999999998, -- [4]
-					132358, -- [5]
-					"ai", -- [6]
-					227985, -- [7]
+				["ej13057"] = {
+					"ej13057", -- [1]
+					"Timerej13057cd", -- [2]
+					"虚空冲击冷却", -- [3]
+					31, -- [4]
+					false, -- [5]
+					"cd", -- [6]
+					"ej13057", -- [7]
 					5, -- [8]
-					"1827", -- [9]
-					["id"] = 1957,
+					"1732", -- [9]
+					["id"] = 1863,
 				},
 				["203888"] = {
 					"203888", -- [1]
@@ -4296,29 +10101,29 @@ _detalhes_global = {
 					"1704", -- [9]
 					["id"] = 1854,
 				},
-				["184476"] = {
-					"184476", -- [1]
-					"Timer184476cd", -- [2]
-					"暗影收割冷却", -- [3]
-					50, -- [4]
-					132095, -- [5]
+				["124849"] = {
+					"124849", -- [1]
+					"Timer124849cd", -- [2]
+					"恐惧吞噬冷却", -- [3]
+					14, -- [4]
+					136204, -- [5]
 					"cd", -- [6]
-					184476, -- [7]
-					3, -- [8]
-					"1432", -- [9]
-					["id"] = 1798,
+					124849, -- [7]
+					0, -- [8]
+					"743", -- [9]
+					["id"] = 1501,
 				},
-				["218148"] = {
-					"218148", -- [1]
-					"Timer218148next", -- [2]
-					"下一次阳光坍缩", -- [3]
+				["205043"] = {
+					"205043", -- [1]
+					"Timer205043next", -- [2]
+					"下一次感染意志", -- [3]
 					10, -- [4]
-					135981, -- [5]
+					892448, -- [5]
 					"next", -- [6]
-					218148, -- [7]
+					205043, -- [7]
 					3, -- [8]
-					"1761", -- [9]
-					["id"] = 1886,
+					"1703", -- [9]
+					["id"] = 1853,
 				},
 				["196804"] = {
 					"196804", -- [1]
@@ -4332,17 +10137,17 @@ _detalhes_global = {
 					"1497", -- [9]
 					["id"] = 1827,
 				},
-				["197961"] = {
-					"197961", -- [1]
-					"Timer197961cdcount", -- [2]
-					"符文烙印冷却（0）", -- [3]
-					44, -- [4]
-					442743, -- [5]
-					"cdcount", -- [6]
-					197961, -- [7]
-					3, -- [8]
-					"1489", -- [9]
-					["id"] = 1809,
+				["197251"] = {
+					"197251", -- [1]
+					"Timer197251cd", -- [2]
+					"扫堂腿冷却", -- [3]
+					8.3, -- [4]
+					574575, -- [5]
+					"cd", -- [6]
+					197251, -- [7]
+					5, -- [8]
+					"1470", -- [9]
+					["id"] = 1818,
 				},
 				["199193"] = {
 					"199193", -- [1]
@@ -4356,17 +10161,17 @@ _detalhes_global = {
 					"1672", -- [9]
 					["id"] = 1835,
 				},
-				["213182"] = {
-					"213182", -- [1]
-					"Timer213182next", -- [2]
-					"下一次复制", -- [3]
-					27, -- [4]
-					135732, -- [5]
+				["111209"] = {
+					"111209", -- [1]
+					"Timer111209next", -- [2]
+					"下一次霜寒之握", -- [3]
+					10.5, -- [4]
+					609814, -- [5]
 					"next", -- [6]
-					213182, -- [7]
-					3, -- [8]
-					"1751", -- [9]
-					["id"] = 1871,
+					111209, -- [7]
+					0, -- [8]
+					"659", -- [9]
+					["id"] = 1426,
 				},
 				["206949"] = {
 					"206949", -- [1]
@@ -4380,29 +10185,29 @@ _detalhes_global = {
 					"1732", -- [9]
 					["id"] = 1863,
 				},
-				["180244"] = {
-					"180244", -- [1]
-					"Timer180244nextcount	1", -- [2]
-					"下一次重击（1）", -- [3]
-					27, -- [4]
-					132154, -- [5]
-					"nextcount", -- [6]
-					180244, -- [7]
-					2, -- [8]
-					"1392", -- [9]
-					["id"] = 1787,
+				["ej8305"] = {
+					"ej8305", -- [1]
+					"Timerej8305active", -- [2]
+					"阶段转换：亚煞极之境结束", -- [3]
+					60.5, -- [4]
+					135945, -- [5]
+					"active", -- [6]
+					"ej8305", -- [7]
+					6, -- [8]
+					"869", -- [9]
+					["id"] = 1623,
 				},
-				["83113"] = {
-					"83113", -- [1]
-					"Timer83113next", -- [2]
-					"下一次邪恶用心", -- [3]
-					25.4, -- [4]
-					132337, -- [5]
-					"next", -- [6]
-					83113, -- [7]
+				["184394"] = {
+					"184394", -- [1]
+					"Timer184394cd", -- [2]
+					"震荡波冷却", -- [3]
+					5.8, -- [4]
+					1016245, -- [5]
+					"cd", -- [6]
+					184394, -- [7]
 					3, -- [8]
-					"117", -- [9]
-					["id"] = 1052,
+					"1426", -- [9]
+					["id"] = 1778,
 				},
 				["228221"] = {
 					"228221", -- [1]
@@ -4464,17 +10269,17 @@ _detalhes_global = {
 					"XT002", -- [9]
 					["id"] = 1142,
 				},
-				["126122"] = {
-					"126122", -- [1]
-					"Timer126122next", -- [2]
-					"下一次腐蚀不谐力场", -- [3]
-					10, -- [4]
-					651087, -- [5]
-					"next", -- [6]
-					126122, -- [7]
+				["55081"] = {
+					"55081", -- [1]
+					"Timer55081cd", -- [2]
+					"毒性新星冷却", -- [3]
+					24, -- [4]
+					136030, -- [5]
+					"cd", -- [6]
+					55081, -- [7]
 					0, -- [8]
-					"743", -- [9]
-					["id"] = 1501,
+					"592", -- [9]
+					["id"] = 1978,
 				},
 				["212030"] = {
 					"212030", -- [1]
@@ -4512,17 +10317,17 @@ _detalhes_global = {
 					"1818", -- [9]
 					["id"] = 1959,
 				},
-				["192018"] = {
-					"192018", -- [1]
-					"Timer192018cd", -- [2]
-					"光明之盾冷却", -- [3]
-					24, -- [4]
-					612968, -- [5]
-					"cd", -- [6]
-					192018, -- [7]
-					5, -- [8]
-					"1486", -- [9]
-					["id"] = 1806,
+				["125692"] = {
+					"125692", -- [1]
+					"Timer125692next", -- [2]
+					"下一次暴风斩", -- [3]
+					10, -- [4]
+					236154, -- [5]
+					"next", -- [6]
+					125692, -- [7]
+					3, -- [8]
+					"744", -- [9]
+					["id"] = 1504,
 				},
 				["202974"] = {
 					"202974", -- [1]
@@ -4536,41 +10341,41 @@ _detalhes_global = {
 					"1501", -- [9]
 					["id"] = 1829,
 				},
-				["2937"] = {
-					"2937", -- [1]
-					"Timer2937achievement", -- [2]
-					"成就：限时击杀", -- [3]
-					205, -- [4]
-					"Interface\\Icons\\achievement_boss_xt002deconstructor_01", -- [5]
-					"achievement", -- [6]
-					2937, -- [7]
-					0, -- [8]
-					"XT002", -- [9]
-					["id"] = 1142,
-				},
-				["229284"] = {
-					"229284", -- [1]
-					"Timer229284cd", -- [2]
-					"轰炸冷却", -- [3]
-					25.5, -- [4]
-					1450455, -- [5]
-					"cd", -- [6]
-					229284, -- [7]
+				["213238"] = {
+					"213238", -- [1]
+					"Timer213238nextcount	1", -- [2]
+					"下一次寻踪虫群（1）", -- [3]
+					15, -- [4]
+					136128, -- [5]
+					"nextcount", -- [6]
+					213238, -- [7]
 					3, -- [8]
-					"1838", -- [9]
-					["id"] = 2017,
+					"1762", -- [9]
+					["id"] = 1862,
 				},
-				["143701"] = {
-					"143701", -- [1]
-					"Timer143701cd", -- [2]
-					"晕头转向冷却", -- [3]
-					14, -- [4]
-					236154, -- [5]
+				["102111"] = {
+					"102111", -- [1]
+					"Timer102111cd", -- [2]
+					"灾变流星冷却", -- [3]
+					32, -- [4]
+					136186, -- [5]
 					"cd", -- [6]
-					143701, -- [7]
+					102111, -- [7]
+					5, -- [8]
+					"194", -- [9]
+					["id"] = 1206,
+				},
+				["213182"] = {
+					"213182", -- [1]
+					"Timer213182next", -- [2]
+					"下一次复制", -- [3]
+					27, -- [4]
+					135732, -- [5]
+					"next", -- [6]
+					213182, -- [7]
 					3, -- [8]
-					"853", -- [9]
-					["id"] = 1593,
+					"1751", -- [9]
+					["id"] = 1871,
 				},
 				["153396"] = {
 					"153396", -- [1]
@@ -4584,17 +10389,17 @@ _detalhes_global = {
 					"1720", -- [9]
 					["id"] = 1870,
 				},
-				["181488"] = {
-					"181488", -- [1]
-					"Timer181488cdcount	1", -- [2]
-					"死亡幻象冷却（1）", -- [3]
-					61, -- [4]
-					136145, -- [5]
-					"cdcount", -- [6]
-					181488, -- [7]
+				["155198"] = {
+					"155198", -- [1]
+					"Timer155198cd2", -- [2]
+					"野蛮怒吼冷却", -- [3]
+					15, -- [4]
+					607852, -- [5]
+					"cd", -- [6]
+					155198, -- [7]
 					5, -- [8]
-					"1396", -- [9]
-					["id"] = 1786,
+					"1122", -- [9]
+					["id"] = 1694,
 				},
 				["209676"] = {
 					"209676", -- [1]
@@ -4620,29 +10425,53 @@ _detalhes_global = {
 					"856", -- [9]
 					["id"] = 1606,
 				},
-				["206788"] = {
-					"206788", -- [1]
-					"Timer206788cd", -- [2]
-					"毒性薄片冷却", -- [3]
-					10.5, -- [4]
-					237360, -- [5]
+				["185456"] = {
+					"185456", -- [1]
+					"Timer185456cd	Creature-0-3930-1448-30292-93625-000056A4AD", -- [2]
+					"绝望之链冷却", -- [3]
+					23.6, -- [4]
+					463560, -- [5]
 					"cd", -- [6]
-					206788, -- [7]
+					185456, -- [7]
 					3, -- [8]
-					"1731", -- [9]
-					["id"] = 1867,
+					"1433", -- [9]
+					["id"] = 1788,
 				},
-				["76047"] = {
-					"76047", -- [1]
-					"Timer76047cd", -- [2]
-					"黑暗裂隙冷却", -- [3]
-					18.4, -- [4]
-					136194, -- [5]
+				["114062"] = {
+					"114062", -- [1]
+					"Timer114062cd2", -- [2]
+					"奇能迅击冷却", -- [3]
+					6, -- [4]
+					135732, -- [5]
 					"cd", -- [6]
-					76047, -- [7]
+					114062, -- [7]
+					5, -- [8]
+					"663", -- [9]
+					["id"] = 1427,
+				},
+				["228032"] = {
+					"228032", -- [1]
+					"Timer228032nextcount	1", -- [2]
+					"下一次巨喉之怒（1）", -- [3]
+					36.5, -- [4]
+					237590, -- [5]
+					"nextcount", -- [6]
+					228032, -- [7]
+					2, -- [8]
+					"1829", -- [9]
+					["id"] = 2008,
+				},
+				["106877"] = {
+					"106877", -- [1]
+					"Timer106877next", -- [2]
+					"下一次煞能尖刺", -- [3]
+					9, -- [4]
+					628268, -- [5]
+					"next", -- [6]
+					106877, -- [7]
 					0, -- [8]
-					"102", -- [9]
-					["id"] = 1044,
+					"685", -- [9]
+					["id"] = 1305,
 				},
 				["137528"] = {
 					"137528", -- [1]
@@ -4655,30 +10484,6 @@ _detalhes_global = {
 					5, -- [8]
 					"828", -- [9]
 					["id"] = 1573,
-				},
-				["218438"] = {
-					"218438", -- [1]
-					"Timer218438next", -- [2]
-					"下一次约束混沌", -- [3]
-					35, -- [4]
-					429383, -- [5]
-					"next", -- [6]
-					218438, -- [7]
-					3, -- [8]
-					"1761", -- [9]
-					["id"] = 1886,
-				},
-				["197687"] = {
-					"197687", -- [1]
-					"Timer197687next", -- [2]
-					"下一次眼棱", -- [3]
-					4, -- [4]
-					1033497, -- [5]
-					"next", -- [6]
-					197687, -- [7]
-					3, -- [8]
-					"1653", -- [9]
-					["id"] = 1833,
 				},
 				["227267"] = {
 					"227267", -- [1]
@@ -4704,17 +10509,17 @@ _detalhes_global = {
 					"1751", -- [9]
 					["id"] = 1871,
 				},
-				["233963"] = {
-					"233963", -- [1]
-					"Timer233963cd", -- [2]
-					"恶魔突起冷却", -- [3]
-					3.2, -- [4]
-					1118739, -- [5]
-					"cd", -- [6]
-					233963, -- [7]
+				["218438"] = {
+					"218438", -- [1]
+					"Timer218438next", -- [2]
+					"下一次约束混沌", -- [3]
+					35, -- [4]
+					429383, -- [5]
+					"next", -- [6]
+					218438, -- [7]
 					3, -- [8]
-					"1878", -- [9]
-					["id"] = 2039,
+					"1761", -- [9]
+					["id"] = 1886,
 				},
 				["167910"] = {
 					"167910", -- [1]
@@ -4728,17 +10533,17 @@ _detalhes_global = {
 					"1829", -- [9]
 					["id"] = 2008,
 				},
-				["134926"] = {
-					"134926", -- [1]
-					"Timer134926cd", -- [2]
-					"投掷长矛冷却", -- [3]
-					30, -- [4]
-					307704, -- [5]
-					"cd", -- [6]
-					134926, -- [7]
-					3, -- [8]
-					"817", -- [9]
-					["id"] = 1559,
+				["1862"] = {
+					"1862", -- [1]
+					"Timer1862achievement", -- [2]
+					"成就：限时击杀", -- [3]
+					120, -- [4]
+					236461, -- [5]
+					"achievement", -- [6]
+					1862, -- [7]
+					0, -- [8]
+					"584", -- [9]
+					["id"] = 1968,
 				},
 				["69167"] = {
 					"69167", -- [1]
@@ -4752,53 +10557,53 @@ _detalhes_global = {
 					"610", -- [9]
 					["id"] = 2000,
 				},
-				["230414"] = {
-					"230414", -- [1]
-					"Timer230414next", -- [2]
-					"下一次恶魔践踏", -- [3]
-					25, -- [4]
-					135794, -- [5]
-					"next", -- [6]
-					230414, -- [7]
+				["143337"] = {
+					"143337", -- [1]
+					"Timer143337cdcount	1", -- [2]
+					"突变冷却（1）", -- [3]
+					23, -- [4]
+					878216, -- [5]
+					"cdcount", -- [6]
+					143337, -- [7]
 					3, -- [8]
+					"853", -- [9]
+					["id"] = 1593,
+				},
+				["212258"] = {
+					"212258", -- [1]
+					"Timer212258cdcount	1", -- [2]
+					"古尔丹之手冷却（1）", -- [3]
+					33, -- [4]
+					535592, -- [5]
+					"cdcount", -- [6]
+					212258, -- [7]
+					1, -- [8]
+					"1737", -- [9]
+					["id"] = 1866,
+				},
+				["213564"] = {
+					"213564", -- [1]
+					"Timer213564next", -- [2]
+					"下一次复生", -- [3]
+					51.9, -- [4]
+					1033906, -- [5]
+					"next", -- [6]
+					213564, -- [7]
+					1, -- [8]
 					"1751", -- [9]
 					["id"] = 1871,
 				},
-				["187204"] = {
-					"187204", -- [1]
-					"Timer187204nextcount2	1", -- [2]
-					"下一次混乱压制（1）", -- [3]
-					10, -- [4]
-					651098, -- [5]
-					"nextcount", -- [6]
-					187204, -- [7]
-					2, -- [8]
-					"1447", -- [9]
-					["id"] = 1800,
-				},
-				["209158"] = {
-					"209158", -- [1]
-					"Timer209158cd", -- [2]
-					"黑化灵魂冷却", -- [3]
-					7, -- [4]
-					1396968, -- [5]
+				["233963"] = {
+					"233963", -- [1]
+					"Timer233963cd", -- [2]
+					"恶魔突起冷却", -- [3]
+					3.2, -- [4]
+					1118739, -- [5]
 					"cd", -- [6]
-					209158, -- [7]
-					5, -- [8]
-					"1726", -- [9]
-					["id"] = 1864,
-				},
-				["204040"] = {
-					"204040", -- [1]
-					"Timer204040next", -- [2]
-					"下一次暗影爆裂", -- [3]
-					19.5, -- [4]
-					132843, -- [5]
-					"next", -- [6]
-					204040, -- [7]
+					233963, -- [7]
 					3, -- [8]
-					"1704", -- [9]
-					["id"] = 1854,
+					"1878", -- [9]
+					["id"] = 2039,
 				},
 				["70358"] = {
 					"70358", -- [1]
@@ -4824,17 +10629,17 @@ _detalhes_global = {
 					"832", -- [9]
 					["id"] = 1579,
 				},
-				["155864"] = {
-					"155864", -- [1]
-					"Timer155864cd", -- [2]
-					"实验型脉冲手雷冷却", -- [3]
-					6, -- [4]
-					463550, -- [5]
-					"cd", -- [6]
-					155864, -- [7]
+				["230414"] = {
+					"230414", -- [1]
+					"Timer230414next", -- [2]
+					"下一次恶魔践踏", -- [3]
+					25, -- [4]
+					135794, -- [5]
+					"next", -- [6]
+					230414, -- [7]
 					3, -- [8]
-					"1147", -- [9]
-					["id"] = 1692,
+					"1751", -- [9]
+					["id"] = 1871,
 				},
 				["ej8036"] = {
 					"ej8036", -- [1]
@@ -4872,17 +10677,17 @@ _detalhes_global = {
 					"1655", -- [9]
 					["id"] = 1837,
 				},
-				["218774"] = {
-					"218774", -- [1]
-					"Timer218774next", -- [2]
-					"下一次召唤球体", -- [3]
-					37, -- [4]
-					525024, -- [5]
-					"next", -- [6]
-					218774, -- [7]
-					1, -- [8]
-					"1761", -- [9]
-					["id"] = 1886,
+				["92265"] = {
+					"92265", -- [1]
+					"Timer92265active", -- [2]
+					"水晶风暴结束", -- [3]
+					8.5, -- [4]
+					132774, -- [5]
+					"active", -- [6]
+					92265, -- [7]
+					2, -- [8]
+					"111", -- [9]
+					["id"] = 1059,
 				},
 				["69246"] = {
 					"69246", -- [1]
@@ -4932,17 +10737,17 @@ _detalhes_global = {
 					"959", -- [9]
 					["id"] = 1704,
 				},
-				["207439"] = {
-					"207439", -- [1]
-					"Timer207439cd", -- [2]
-					"虚空新星冷却", -- [3]
-					41, -- [4]
-					458969, -- [5]
-					"cd", -- [6]
-					207439, -- [7]
-					2, -- [8]
-					"1732", -- [9]
-					["id"] = 1863,
+				["194956"] = {
+					"194956", -- [1]
+					"Timer194956next", -- [2]
+					"下一次收割灵魂", -- [3]
+					20, -- [4]
+					237507, -- [5]
+					"next", -- [6]
+					194956, -- [7]
+					5, -- [8]
+					"1518", -- [9]
+					["id"] = 1832,
 				},
 				["206607"] = {
 					"206607", -- [1]
@@ -4956,29 +10761,29 @@ _detalhes_global = {
 					"1725", -- [9]
 					["id"] = 1865,
 				},
-				["206617"] = {
-					"206617", -- [1]
-					"Timer206617nextcount	1", -- [2]
-					"下一次时间炸弹（1）", -- [3]
-					30, -- [4]
-					609814, -- [5]
+				["182108"] = {
+					"182108", -- [1]
+					"Timer182108nextcount	1", -- [2]
+					"下一次炮击（1）", -- [3]
+					8.9, -- [4]
+					840407, -- [5]
 					"nextcount", -- [6]
-					206617, -- [7]
+					182108, -- [7]
 					3, -- [8]
-					"1725", -- [9]
-					["id"] = 1865,
+					"1425", -- [9]
+					["id"] = 1785,
 				},
-				["138467"] = {
-					"138467", -- [1]
-					"Timer138467cd", -- [2]
-					"纠缠凝视冷却", -- [3]
-					15.5, -- [4]
-					237297, -- [5]
-					"cd", -- [6]
-					138467, -- [7]
+				["184931"] = {
+					"184931", -- [1]
+					"Timer184931cdcount	1", -- [2]
+					"枷锁酷刑冷却（1）", -- [3]
+					25, -- [4]
+					607854, -- [5]
+					"cdcount", -- [6]
+					184931, -- [7]
 					3, -- [8]
-					"818", -- [9]
-					["id"] = 1572,
+					"1438", -- [9]
+					["id"] = 1799,
 				},
 				["198379"] = {
 					"198379", -- [1]
@@ -5016,41 +10821,41 @@ _detalhes_global = {
 					"867", -- [9]
 					["id"] = 1604,
 				},
-				["136295"] = {
-					"136295", -- [1]
-					"Timer136295cd", -- [2]
-					"超载冷却", -- [3]
-					6, -- [4]
-					839979, -- [5]
+				["201863"] = {
+					"201863", -- [1]
+					"Timer201863cd", -- [2]
+					"虫群的召唤冷却", -- [3]
+					30, -- [4]
+					538518, -- [5]
 					"cd", -- [6]
-					136295, -- [7]
-					3, -- [8]
-					"832", -- [9]
-					["id"] = 1579,
+					201863, -- [7]
+					1, -- [8]
+					"1696", -- [9]
+					["id"] = 1852,
 				},
-				["181296"] = {
-					"181296", -- [1]
-					"Timer181296next", -- [2]
-					"下一次爆炸符文", -- [3]
-					11, -- [4]
-					1122136, -- [5]
-					"next", -- [6]
-					181296, -- [7]
-					5, -- [8]
-					"1392", -- [9]
-					["id"] = 1787,
+				["75722"] = {
+					"75722", -- [1]
+					"Timer75722cast", -- [2]
+					"召唤喷泉", -- [3]
+					5, -- [4]
+					135836, -- [5]
+					"cast", -- [6]
+					75722, -- [7]
+					0, -- [8]
+					"101", -- [9]
+					["id"] = 1045,
 				},
-				["213867"] = {
-					"213867", -- [1]
-					"Timer213867next", -- [2]
-					"下一次烈焰强化", -- [3]
-					85, -- [4]
-					132847, -- [5]
-					"next", -- [6]
-					213867, -- [7]
-					6, -- [8]
-					"1751", -- [9]
-					["id"] = 1871,
+				["204372"] = {
+					"204372", -- [1]
+					"Timer204372cd", -- [2]
+					"召唤蝎子冷却", -- [3]
+					20.3, -- [4]
+					620833, -- [5]
+					"cd", -- [6]
+					204372, -- [7]
+					1, -- [8]
+					"1706", -- [9]
+					["id"] = 1849,
 				},
 				["74908"] = {
 					"74908", -- [1]
@@ -5088,29 +10893,29 @@ _detalhes_global = {
 					"Auriaya", -- [9]
 					["id"] = 1131,
 				},
-				["3815"] = {
-					"3815", -- [1]
-					"Timer3815achievement", -- [2]
-					"成就：限时击杀", -- [3]
-					180, -- [4]
-					"Interface\\Icons\\Achievement_Boss_SvalaSorrowgrave", -- [5]
-					"achievement", -- [6]
-					3815, -- [7]
-					0, -- [8]
-					"ValkTwins", -- [9]
-					["id"] = 1089,
+				["234817"] = {
+					"234817", -- [1]
+					"Timer234817ai", -- [2]
+					"黑暗孤寂人工智能计时冷却", -- [3]
+					7.26300000000265, -- [4]
+					458229, -- [5]
+					"ai", -- [6]
+					234817, -- [7]
+					3, -- [8]
+					"1878", -- [9]
+					["id"] = 2039,
 				},
-				["99794"] = {
-					"99794", -- [1]
-					"Timer99794next", -- [2]
-					"下一次火焰漩涡", -- [3]
-					243, -- [4]
-					236216, -- [5]
-					"next", -- [6]
-					99794, -- [7]
-					6, -- [8]
-					"194", -- [9]
-					["id"] = 1206,
+				["202217"] = {
+					"202217", -- [1]
+					"Timer202217cd", -- [2]
+					"颚骨打击冷却", -- [3]
+					8.9, -- [4]
+					132122, -- [5]
+					"cd", -- [6]
+					202217, -- [7]
+					5, -- [8]
+					"1696", -- [9]
+					["id"] = 1852,
 				},
 				["227279"] = {
 					"227279", -- [1]
@@ -5124,29 +10929,29 @@ _detalhes_global = {
 					"1836", -- [9]
 					["id"] = 1964,
 				},
-				["127834"] = {
-					"127834", -- [1]
-					"Timer127834active", -- [2]
-					"音波衰减结束", -- [3]
-					14, -- [4]
-					132333, -- [5]
-					"active", -- [6]
-					127834, -- [7]
-					0, -- [8]
-					"745", -- [9]
-					["id"] = 1507,
-				},
-				["186407"] = {
-					"186407", -- [1]
-					"Timer186407cd2", -- [2]
-					"邪能喷涌冷却", -- [3]
-					21, -- [4]
-					841221, -- [5]
+				["136295"] = {
+					"136295", -- [1]
+					"Timer136295cd", -- [2]
+					"超载冷却", -- [3]
+					6, -- [4]
+					839979, -- [5]
 					"cd", -- [6]
-					186407, -- [7]
+					136295, -- [7]
 					3, -- [8]
-					"1447", -- [9]
-					["id"] = 1800,
+					"832", -- [9]
+					["id"] = 1579,
+				},
+				["185282"] = {
+					"185282", -- [1]
+					"Timer185282nextcount	1", -- [2]
+					"下一次弹幕射击（1）", -- [3]
+					11.7, -- [4]
+					135804, -- [5]
+					"nextcount", -- [6]
+					185282, -- [7]
+					3, -- [8]
+					"1425", -- [9]
+					["id"] = 1785,
 				},
 				["63802"] = {
 					"63802", -- [1]
@@ -5172,17 +10977,17 @@ _detalhes_global = {
 					"1704", -- [9]
 					["id"] = 1854,
 				},
-				["113999"] = {
-					"113999", -- [1]
-					"Timer113999cd", -- [2]
-					"骨针冷却", -- [3]
-					6.5, -- [4]
-					133724, -- [5]
-					"cd", -- [6]
-					113999, -- [7]
-					0, -- [8]
-					"665", -- [9]
-					["id"] = 1428,
+				["62396"] = {
+					"62396", -- [1]
+					"Timer62396cast", -- [2]
+					"烈焰爆发", -- [3]
+					10, -- [4]
+					135818, -- [5]
+					"cast", -- [6]
+					62396, -- [7]
+					2, -- [8]
+					"FlameLeviathan", -- [9]
+					["id"] = 1132,
 				},
 				["196070"] = {
 					"196070", -- [1]
@@ -5208,17 +11013,17 @@ _detalhes_global = {
 					"1427", -- [9]
 					["id"] = 1794,
 				},
-				["180221"] = {
-					"180221", -- [1]
-					"Timer180221cd", -- [2]
-					"邪能宝珠冷却", -- [3]
-					12, -- [4]
-					840941, -- [5]
+				["186407"] = {
+					"186407", -- [1]
+					"Timer186407cd2", -- [2]
+					"邪能喷涌冷却", -- [3]
+					21, -- [4]
+					841221, -- [5]
 					"cd", -- [6]
-					180221, -- [7]
+					186407, -- [7]
 					3, -- [8]
-					"1427", -- [9]
-					["id"] = 1794,
+					"1447", -- [9]
+					["id"] = 1800,
 				},
 				["200404"] = {
 					"200404", -- [1]
@@ -5268,17 +11073,17 @@ _detalhes_global = {
 					"1829", -- [9]
 					["id"] = 2008,
 				},
-				["204372"] = {
-					"204372", -- [1]
-					"Timer204372cd", -- [2]
-					"召唤蝎子冷却", -- [3]
-					20.3, -- [4]
-					620833, -- [5]
-					"cd", -- [6]
-					204372, -- [7]
-					1, -- [8]
-					"1706", -- [9]
-					["id"] = 1849,
+				["187204"] = {
+					"187204", -- [1]
+					"Timer187204nextcount2	1", -- [2]
+					"下一次混乱压制（1）", -- [3]
+					10, -- [4]
+					651098, -- [5]
+					"nextcount", -- [6]
+					187204, -- [7]
+					2, -- [8]
+					"1447", -- [9]
+					["id"] = 1800,
 				},
 				["227297"] = {
 					"227297", -- [1]
@@ -5292,17 +11097,17 @@ _detalhes_global = {
 					"1818", -- [9]
 					["id"] = 1959,
 				},
-				["212258"] = {
-					"212258", -- [1]
-					"Timer212258cdcount	1", -- [2]
-					"古尔丹之手冷却（1）", -- [3]
-					33, -- [4]
-					535592, -- [5]
+				["ej11411"] = {
+					"ej11411", -- [1]
+					"Timerej11411cdcount	1", -- [2]
+					"血缚邪术士冷却（1）", -- [3]
+					35, -- [4]
+					841221, -- [5]
 					"cdcount", -- [6]
-					212258, -- [7]
+					"ej11411", -- [7]
 					1, -- [8]
-					"1737", -- [9]
-					["id"] = 1866,
+					"1426", -- [9]
+					["id"] = 1778,
 				},
 				["198263"] = {
 					"198263", -- [1]
@@ -5352,17 +11157,17 @@ _detalhes_global = {
 					"133", -- [9]
 					["id"] = 1048,
 				},
-				["ej11411"] = {
-					"ej11411", -- [1]
-					"Timerej11411cdcount	1", -- [2]
-					"血缚邪术士冷却（1）", -- [3]
-					35, -- [4]
-					841221, -- [5]
-					"cdcount", -- [6]
-					"ej11411", -- [7]
-					1, -- [8]
-					"1426", -- [9]
-					["id"] = 1778,
+				["127834"] = {
+					"127834", -- [1]
+					"Timer127834active", -- [2]
+					"音波衰减结束", -- [3]
+					14, -- [4]
+					132333, -- [5]
+					"active", -- [6]
+					127834, -- [7]
+					0, -- [8]
+					"745", -- [9]
+					["id"] = 1507,
 				},
 				["219815"] = {
 					"219815", -- [1]
@@ -5376,17 +11181,17 @@ _detalhes_global = {
 					"1725", -- [9]
 					["id"] = 1865,
 				},
-				["142232"] = {
-					"142232", -- [1]
-					"Timer142232cd", -- [2]
-					"死从天降冷却", -- [3]
-					34, -- [4]
-					878215, -- [5]
-					"cd", -- [6]
-					142232, -- [7]
-					3, -- [8]
-					"853", -- [9]
-					["id"] = 1593,
+				["190506"] = {
+					"190506", -- [1]
+					"Timer190506nextcount	1", -- [2]
+					"下一次跳舞（1）", -- [3]
+					61, -- [4]
+					135793, -- [5]
+					"nextcount", -- [6]
+					190506, -- [7]
+					2, -- [8]
+					"1438", -- [9]
+					["id"] = 1799,
 				},
 				["185590"] = {
 					"185590", -- [1]
@@ -5400,17 +11205,17 @@ _detalhes_global = {
 					"1438", -- [9]
 					["id"] = 1799,
 				},
-				["184265"] = {
-					"184265", -- [1]
-					"Timer184265cd", -- [2]
-					"精炼混乱冷却", -- [3]
-					5, -- [4]
-					828455, -- [5]
+				["208165"] = {
+					"208165", -- [1]
+					"Timer208165cd", -- [2]
+					"枯萎灵魂冷却", -- [3]
+					12, -- [4]
+					460700, -- [5]
 					"cd", -- [6]
-					184265, -- [7]
+					208165, -- [7]
 					3, -- [8]
-					"1438", -- [9]
-					["id"] = 1799,
+					"1719", -- [9]
+					["id"] = 1869,
 				},
 				["193051"] = {
 					"193051", -- [1]
@@ -5436,17 +11241,17 @@ _detalhes_global = {
 					"853", -- [9]
 					["id"] = 1593,
 				},
-				["ej11694"] = {
-					"ej11694", -- [1]
-					"Timerej11694next", -- [2]
-					"下一次野生纵火魔", -- [3]
-					10, -- [4]
-					615097, -- [5]
-					"next", -- [6]
-					"ej11694", -- [7]
-					1, -- [8]
-					"1447", -- [9]
-					["id"] = 1800,
+				["155209"] = {
+					"155209", -- [1]
+					"Timer155209cd", -- [2]
+					"冲击冷却", -- [3]
+					24, -- [4]
+					1029721, -- [5]
+					"cd", -- [6]
+					155209, -- [7]
+					2, -- [8]
+					"1154", -- [9]
+					["id"] = 1690,
 				},
 				["230951"] = {
 					"230951", -- [1]
@@ -5472,41 +11277,41 @@ _detalhes_global = {
 					"1737", -- [9]
 					["id"] = 1866,
 				},
-				["ej10019"] = {
-					"ej10019", -- [1]
-					"Timerej10019nextcount	1", -- [2]
-					"下一次无畏舰（1）", -- [3]
-					59.5, -- [4]
-					133168, -- [5]
-					"nextcount", -- [6]
-					"ej10019", -- [7]
-					6, -- [8]
-					"1203", -- [9]
-					["id"] = 1695,
+				["186333"] = {
+					"186333", -- [1]
+					"Timer186333cd2", -- [2]
+					"灵能涌动冷却", -- [3]
+					16, -- [4]
+					252997, -- [5]
+					"cd", -- [6]
+					186333, -- [7]
+					3, -- [8]
+					"1447", -- [9]
+					["id"] = 1800,
 				},
-				["208807"] = {
-					"208807", -- [1]
-					"Timer208807nextcount", -- [2]
-					"下一次奥能之环（未知", -- [3]
-					34, -- [4]
-					1033906, -- [5]
-					"nextcount", -- [6]
-					208807, -- [7]
-					2, -- [8]
-					"1743", -- [9]
-					["id"] = 1872,
-				},
-				["215582"] = {
-					"215582", -- [1]
-					"Timer215582cdcount	1", -- [2]
-					"邪掠之爪冷却（1）", -- [3]
-					52, -- [4]
-					537444, -- [5]
-					"cdcount", -- [6]
-					215582, -- [7]
+				["101614"] = {
+					"101614", -- [1]
+					"Timer101614next", -- [2]
+					"下一次丢掷图腾", -- [3]
+					10, -- [4]
+					135860, -- [5]
+					"next", -- [6]
+					101614, -- [7]
 					5, -- [8]
-					"1744", -- [9]
-					["id"] = 1876,
+					"340", -- [9]
+					["id"] = 1881,
+				},
+				["227967"] = {
+					"227967", -- [1]
+					"Timer227967next", -- [2]
+					"下一次毒水吐息", -- [3]
+					13.3, -- [4]
+					132104, -- [5]
+					"next", -- [6]
+					227967, -- [7]
+					5, -- [8]
+					"1829", -- [9]
+					["id"] = 2008,
 				},
 				["209973"] = {
 					"209973", -- [1]
@@ -5544,17 +11349,17 @@ _detalhes_global = {
 					"846", -- [9]
 					["id"] = 1595,
 				},
-				["82506"] = {
-					"82506", -- [1]
-					"Timer82506target2	高阶预言者巴林姆", -- [2]
-					"反复鞭笞: 高阶预言者巴林姆", -- [3]
-					20, -- [4]
-					132297, -- [5]
-					"target", -- [6]
-					82506, -- [7]
-					5, -- [8]
-					"119", -- [9]
-					["id"] = 1053,
+				["181827"] = {
+					"181827", -- [1]
+					"Timer181827cd	Creature-0-3930-1448-30292-93968-0000569C36", -- [2]
+					"邪能导管冷却", -- [3]
+					15, -- [4]
+					135795, -- [5]
+					"cd", -- [6]
+					181827, -- [7]
+					4, -- [8]
+					"1433", -- [9]
+					["id"] = 1788,
 				},
 				["201960"] = {
 					"201960", -- [1]
@@ -5580,17 +11385,17 @@ _detalhes_global = {
 					"114", -- [9]
 					["id"] = 1043,
 				},
-				["155198"] = {
-					"155198", -- [1]
-					"Timer155198cd2", -- [2]
-					"野蛮怒吼冷却", -- [3]
-					15, -- [4]
-					607852, -- [5]
+				["69172"] = {
+					"69172", -- [1]
+					"Timer69172cd", -- [2]
+					"天灾领主的烙印冷却", -- [3]
+					12, -- [4]
+					237567, -- [5]
 					"cd", -- [6]
-					155198, -- [7]
-					5, -- [8]
-					"1122", -- [9]
-					["id"] = 1694,
+					69172, -- [7]
+					3, -- [8]
+					"610", -- [9]
+					["id"] = 2000,
 				},
 				["206840"] = {
 					"206840", -- [1]
@@ -5616,17 +11421,17 @@ _detalhes_global = {
 					"1488", -- [9]
 					["id"] = 1808,
 				},
-				["199811"] = {
-					"199811", -- [1]
-					"Timer199811next", -- [2]
-					"下一次闪击", -- [3]
-					15, -- [4]
-					1033906, -- [5]
-					"next", -- [6]
-					199811, -- [7]
-					3, -- [8]
-					"1500", -- [9]
-					["id"] = 1826,
+				["181488"] = {
+					"181488", -- [1]
+					"Timer181488cdcount	1", -- [2]
+					"死亡幻象冷却（1）", -- [3]
+					61, -- [4]
+					136145, -- [5]
+					"cdcount", -- [6]
+					181488, -- [7]
+					5, -- [8]
+					"1396", -- [9]
+					["id"] = 1786,
 				},
 				["224649"] = {
 					"224649", -- [1]
@@ -5652,18 +11457,6 @@ _detalhes_global = {
 					"1161", -- [9]
 					["id"] = 1691,
 				},
-				["125310"] = {
-					"125310", -- [1]
-					"Timer125310next", -- [2]
-					"下一次乱刃风暴", -- [3]
-					60, -- [4]
-					132369, -- [5]
-					"next", -- [6]
-					125310, -- [7]
-					2, -- [8]
-					"744", -- [9]
-					["id"] = 1504,
-				},
 				["213568"] = {
 					"213568", -- [1]
 					"Timer213568cast", -- [2]
@@ -5676,17 +11469,29 @@ _detalhes_global = {
 					"1751", -- [9]
 					["id"] = 1871,
 				},
-				["32358"] = {
-					"32358", -- [1]
-					"Timer32358active", -- [2]
-					"黑暗之壳结束", -- [3]
-					7, -- [4]
-					136121, -- [5]
-					"active", -- [6]
-					32358, -- [7]
-					0, -- [8]
-					"534", -- [9]
-					["id"] = 1900,
+				["228785"] = {
+					"228785", -- [1]
+					"Timer228785cd", -- [2]
+					"灰烬吐息冷却", -- [3]
+					8.5, -- [4]
+					135831, -- [5]
+					"cd", -- [6]
+					228785, -- [7]
+					5, -- [8]
+					"Nightbane", -- [9]
+					["id"] = 2031,
+				},
+				["125310"] = {
+					"125310", -- [1]
+					"Timer125310next", -- [2]
+					"下一次乱刃风暴", -- [3]
+					60, -- [4]
+					132369, -- [5]
+					"next", -- [6]
+					125310, -- [7]
+					2, -- [8]
+					"744", -- [9]
+					["id"] = 1504,
 				},
 				["208230"] = {
 					"208230", -- [1]
@@ -5724,18 +11529,6 @@ _detalhes_global = {
 					"666", -- [9]
 					["id"] = 1429,
 				},
-				["ej2778"] = {
-					"ej2778", -- [1]
-					"Timerej2778next", -- [2]
-					"下一次烬网幼蛛", -- [3]
-					12.5, -- [4]
-					134321, -- [5]
-					"next", -- [6]
-					"ej2778", -- [7]
-					1, -- [8]
-					"192", -- [9]
-					["id"] = 1197,
-				},
 				["156179"] = {
 					"156179", -- [1]
 					"Timer156179cd2", -- [2]
@@ -5748,29 +11541,41 @@ _detalhes_global = {
 					"1202", -- [9]
 					["id"] = 1696,
 				},
-				["228785"] = {
-					"228785", -- [1]
-					"Timer228785cd", -- [2]
-					"灰烬吐息冷却", -- [3]
-					8.5, -- [4]
-					135831, -- [5]
-					"cd", -- [6]
-					228785, -- [7]
-					5, -- [8]
-					"Nightbane", -- [9]
-					["id"] = 2031,
+				["ej2778"] = {
+					"ej2778", -- [1]
+					"Timerej2778next", -- [2]
+					"下一次烬网幼蛛", -- [3]
+					12.5, -- [4]
+					134321, -- [5]
+					"next", -- [6]
+					"ej2778", -- [7]
+					1, -- [8]
+					"192", -- [9]
+					["id"] = 1197,
 				},
-				["197251"] = {
-					"197251", -- [1]
-					"Timer197251cd", -- [2]
-					"扫堂腿冷却", -- [3]
-					8.3, -- [4]
-					574575, -- [5]
-					"cd", -- [6]
-					197251, -- [7]
+				["222079"] = {
+					"222079", -- [1]
+					"Timer222079target	龙听雨", -- [2]
+					"灼热伤口: 龙听雨", -- [3]
+					20, -- [4]
+					135802, -- [5]
+					"target", -- [6]
+					222079, -- [7]
 					5, -- [8]
-					"1470", -- [9]
-					["id"] = 1818,
+					"NightholdTrash", -- [9]
+					["id"] = 1842,
+				},
+				["184476"] = {
+					"184476", -- [1]
+					"Timer184476cd", -- [2]
+					"暗影收割冷却", -- [3]
+					50, -- [4]
+					132095, -- [5]
+					"cd", -- [6]
+					184476, -- [7]
+					3, -- [8]
+					"1432", -- [9]
+					["id"] = 1798,
 				},
 				["214876"] = {
 					"214876", -- [1]
@@ -5796,29 +11601,29 @@ _detalhes_global = {
 					"340", -- [9]
 					["id"] = 1881,
 				},
-				["64189"] = {
-					"64189", -- [1]
-					"Timer64189next", -- [2]
-					"下一次震耳咆哮", -- [3]
-					30, -- [4]
-					132107, -- [5]
-					"next", -- [6]
-					64189, -- [7]
-					0, -- [8]
-					"YoggSaron", -- [9]
-					["id"] = 1143,
-				},
-				["92265"] = {
-					"92265", -- [1]
-					"Timer92265active", -- [2]
-					"水晶风暴结束", -- [3]
-					8.5, -- [4]
-					132774, -- [5]
-					"active", -- [6]
-					92265, -- [7]
+				["99052"] = {
+					"99052", -- [1]
+					"Timer99052nextcount	1", -- [2]
+					"下一次阴燃毁灭（1）", -- [3]
+					82, -- [4]
+					135981, -- [5]
+					"nextcount", -- [6]
+					99052, -- [7]
 					2, -- [8]
-					"111", -- [9]
-					["id"] = 1059,
+					"192", -- [9]
+					["id"] = 1197,
+				},
+				["143962"] = {
+					"143962", -- [1]
+					"Timer143962next", -- [2]
+					"下一次炼狱打击", -- [3]
+					8, -- [4]
+					135265, -- [5]
+					"next", -- [6]
+					143962, -- [7]
+					3, -- [8]
+					"849", -- [9]
+					["id"] = 1598,
 				},
 				["31458"] = {
 					"31458", -- [1]
@@ -5844,41 +11649,41 @@ _detalhes_global = {
 					"101", -- [9]
 					["id"] = 1045,
 				},
-				["99052"] = {
-					"99052", -- [1]
-					"Timer99052nextcount	1", -- [2]
-					"下一次阴燃毁灭（1）", -- [3]
-					82, -- [4]
-					135981, -- [5]
-					"nextcount", -- [6]
-					99052, -- [7]
-					2, -- [8]
-					"192", -- [9]
-					["id"] = 1197,
-				},
-				["124849"] = {
-					"124849", -- [1]
-					"Timer124849cd", -- [2]
-					"恐惧吞噬冷却", -- [3]
-					14, -- [4]
-					136204, -- [5]
-					"cd", -- [6]
-					124849, -- [7]
+				["64189"] = {
+					"64189", -- [1]
+					"Timer64189next", -- [2]
+					"下一次震耳咆哮", -- [3]
+					30, -- [4]
+					132107, -- [5]
+					"next", -- [6]
+					64189, -- [7]
 					0, -- [8]
-					"743", -- [9]
-					["id"] = 1501,
+					"YoggSaron", -- [9]
+					["id"] = 1143,
 				},
-				["182325"] = {
-					"182325", -- [1]
-					"Timer182325cd2", -- [2]
-					"幻影之伤冷却", -- [3]
-					28, -- [4]
-					252997, -- [5]
+				["197961"] = {
+					"197961", -- [1]
+					"Timer197961cdcount", -- [2]
+					"符文烙印冷却（0）", -- [3]
+					44, -- [4]
+					442743, -- [5]
+					"cdcount", -- [6]
+					197961, -- [7]
+					3, -- [8]
+					"1489", -- [9]
+					["id"] = 1809,
+				},
+				["70123"] = {
+					"70123", -- [1]
+					"Timer70123cd", -- [2]
+					"严寒冷却", -- [3]
+					33, -- [4]
+					135854, -- [5]
 					"cd", -- [6]
-					182325, -- [7]
-					5, -- [8]
-					"1433", -- [9]
-					["id"] = 1788,
+					70123, -- [7]
+					2, -- [8]
+					"Sindragosa", -- [9]
+					["id"] = 1105,
 				},
 				["124862"] = {
 					"124862", -- [1]
@@ -5892,17 +11697,17 @@ _detalhes_global = {
 					"743", -- [9]
 					["id"] = 1501,
 				},
-				["205344"] = {
-					"205344", -- [1]
-					"Timer205344nextcount	1", -- [2]
-					"下一次毁灭之球（1）", -- [3]
-					22, -- [4]
-					135800, -- [5]
-					"nextcount", -- [6]
-					205344, -- [7]
-					3, -- [8]
-					"1713", -- [9]
-					["id"] = 1842,
+				["ej13190"] = {
+					"ej13190", -- [1]
+					"Timerej13190cd", -- [2]
+					"死光触须冷却", -- [3]
+					21.5, -- [4]
+					462324, -- [5]
+					"cd", -- [6]
+					"ej13190", -- [7]
+					1, -- [8]
+					"1738", -- [9]
+					["id"] = 1873,
 				},
 				["62374"] = {
 					"62374", -- [1]
@@ -5928,17 +11733,17 @@ _detalhes_global = {
 					"870", -- [9]
 					["id"] = 1594,
 				},
-				["196543"] = {
-					"196543", -- [1]
-					"Timer196543cd", -- [2]
-					"挫志嚎叫冷却", -- [3]
-					8, -- [4]
-					1033494, -- [5]
+				["198079"] = {
+					"198079", -- [1]
+					"Timer198079cd", -- [2]
+					"怨恨凝视冷却", -- [3]
+					5, -- [4]
+					132284, -- [5]
 					"cd", -- [6]
-					196543, -- [7]
-					2, -- [8]
-					"1487", -- [9]
-					["id"] = 1807,
+					198079, -- [7]
+					3, -- [8]
+					"1664", -- [9]
+					["id"] = 1834,
 				},
 				["197969"] = {
 					"197969", -- [1]
@@ -6000,18 +11805,6 @@ _detalhes_global = {
 					"713", -- [9]
 					["id"] = 1463,
 				},
-				["206936"] = {
-					"206936", -- [1]
-					"Timer206936cdcount	1", -- [2]
-					"寒冰喷射冷却（1）", -- [3]
-					23.3, -- [4]
-					612394, -- [5]
-					"cdcount", -- [6]
-					206936, -- [7]
-					3, -- [8]
-					"1732", -- [9]
-					["id"] = 1863,
-				},
 				["180224"] = {
 					"180224", -- [1]
 					"Timer180224cdcount	1", -- [2]
@@ -6024,17 +11817,17 @@ _detalhes_global = {
 					"1396", -- [9]
 					["id"] = 1786,
 				},
-				["142671"] = {
-					"142671", -- [1]
-					"Timer142671cd", -- [2]
-					"催眠术冷却", -- [3]
-					34, -- [4]
-					878214, -- [5]
-					"cd", -- [6]
-					142671, -- [7]
+				["206936"] = {
+					"206936", -- [1]
+					"Timer206936cdcount	1", -- [2]
+					"寒冰喷射冷却（1）", -- [3]
+					23.3, -- [4]
+					612394, -- [5]
+					"cdcount", -- [6]
+					206936, -- [7]
 					3, -- [8]
-					"853", -- [9]
-					["id"] = 1593,
+					"1732", -- [9]
+					["id"] = 1863,
 				},
 				["155385"] = {
 					"155385", -- [1]
@@ -6048,17 +11841,29 @@ _detalhes_global = {
 					"1122", -- [9]
 					["id"] = 1694,
 				},
-				["101348"] = {
-					"101348", -- [1]
-					"Timer101348next", -- [2]
-					"下一次牺牲", -- [3]
-					30, -- [4]
-					136202, -- [5]
-					"next", -- [6]
-					101348, -- [7]
+				["142671"] = {
+					"142671", -- [1]
+					"Timer142671cd", -- [2]
+					"催眠术冷却", -- [3]
+					34, -- [4]
+					878214, -- [5]
+					"cd", -- [6]
+					142671, -- [7]
 					3, -- [8]
-					"323", -- [9]
-					["id"] = 1882,
+					"853", -- [9]
+					["id"] = 1593,
+				},
+				["135695"] = {
+					"135695", -- [1]
+					"Timer135695cd", -- [2]
+					"静电冲击冷却", -- [3]
+					19, -- [4]
+					237587, -- [5]
+					"cd", -- [6]
+					135695, -- [7]
+					3, -- [8]
+					"832", -- [9]
+					["id"] = 1579,
 				},
 				["236524"] = {
 					"236524", -- [1]
@@ -6084,17 +11889,17 @@ _detalhes_global = {
 					"1725", -- [9]
 					["id"] = 1865,
 				},
-				["135695"] = {
-					"135695", -- [1]
-					"Timer135695cd", -- [2]
-					"静电冲击冷却", -- [3]
-					19, -- [4]
-					237587, -- [5]
-					"cd", -- [6]
-					135695, -- [7]
+				["101348"] = {
+					"101348", -- [1]
+					"Timer101348next", -- [2]
+					"下一次牺牲", -- [3]
+					30, -- [4]
+					136202, -- [5]
+					"next", -- [6]
+					101348, -- [7]
 					3, -- [8]
-					"832", -- [9]
-					["id"] = 1579,
+					"323", -- [9]
+					["id"] = 1882,
 				},
 				["237726"] = {
 					"237726", -- [1]
@@ -7032,17 +12837,17 @@ _detalhes_global = {
 					"1826", -- [9]
 					["id"] = 1957,
 				},
-				["155776"] = {
-					"155776", -- [1]
-					"Timer155776next", -- [2]
-					"下一次召唤烬狼", -- [3]
-					60, -- [4]
-					1032474, -- [5]
-					"next", -- [6]
-					155776, -- [7]
-					1, -- [8]
-					"1123", -- [9]
-					["id"] = 1689,
+				["186993"] = {
+					"186993", -- [1]
+					"Timer186993cd", -- [2]
+					"邪恶打击冷却", -- [3]
+					10.5, -- [4]
+					132109, -- [5]
+					"cd", -- [6]
+					186993, -- [7]
+					2, -- [8]
+					"1432", -- [9]
+					["id"] = 1798,
 				},
 				["66269"] = {
 					"66269", -- [1]
@@ -7200,17 +13005,17 @@ _detalhes_global = {
 					"1743", -- [9]
 					["id"] = 1872,
 				},
-				["64059"] = {
-					"64059", -- [1]
-					"Timer64059cast", -- [2]
-					"疯狂诱导", -- [3]
-					60, -- [4]
-					252997, -- [5]
-					"cast", -- [6]
-					64059, -- [7]
-					5, -- [8]
-					"YoggSaron", -- [9]
-					["id"] = 1143,
+				["228025"] = {
+					"228025", -- [1]
+					"Timer228025ai", -- [2]
+					"热浪人工智能计时冷却", -- [3]
+					31.71, -- [4]
+					136196, -- [5]
+					"ai", -- [6]
+					228025, -- [7]
+					4, -- [8]
+					"1827", -- [9]
+					["id"] = 1957,
 				},
 				["197943"] = {
 					"197943", -- [1]
@@ -7428,17 +13233,17 @@ _detalhes_global = {
 					"1711", -- [9]
 					["id"] = 1856,
 				},
-				["196392"] = {
-					"196392", -- [1]
-					"Timer196392cd", -- [2]
-					"法力超载冷却", -- [3]
-					30, -- [4]
-					136208, -- [5]
-					"cd", -- [6]
-					196392, -- [7]
-					4, -- [8]
-					"1497", -- [9]
-					["id"] = 1827,
+				["187111"] = {
+					"187111", -- [1]
+					"Timer187111nextcount	1", -- [2]
+					"下一次召唤地狱火（1）", -- [3]
+					35, -- [4]
+					136219, -- [5]
+					"nextcount", -- [6]
+					187111, -- [7]
+					1, -- [8]
+					"1438", -- [9]
+					["id"] = 1799,
 				},
 				["38592"] = {
 					"38592", -- [1]
@@ -7452,17 +13257,17 @@ _detalhes_global = {
 					"553", -- [9]
 					["id"] = 1921,
 				},
-				["187111"] = {
-					"187111", -- [1]
-					"Timer187111nextcount	1", -- [2]
-					"下一次召唤地狱火（1）", -- [3]
-					35, -- [4]
-					136219, -- [5]
-					"nextcount", -- [6]
-					187111, -- [7]
-					1, -- [8]
-					"1438", -- [9]
-					["id"] = 1799,
+				["196392"] = {
+					"196392", -- [1]
+					"Timer196392cd", -- [2]
+					"法力超载冷却", -- [3]
+					30, -- [4]
+					136208, -- [5]
+					"cd", -- [6]
+					196392, -- [7]
+					4, -- [8]
+					"1497", -- [9]
+					["id"] = 1827,
 				},
 				["148676"] = {
 					"148676", -- [1]
@@ -7824,17 +13629,17 @@ _detalhes_global = {
 					"1673", -- [9]
 					["id"] = 1792,
 				},
-				["228025"] = {
-					"228025", -- [1]
-					"Timer228025ai", -- [2]
-					"热浪人工智能计时冷却", -- [3]
-					31.71, -- [4]
-					136196, -- [5]
-					"ai", -- [6]
-					228025, -- [7]
-					4, -- [8]
-					"1827", -- [9]
-					["id"] = 1957,
+				["64059"] = {
+					"64059", -- [1]
+					"Timer64059cast", -- [2]
+					"疯狂诱导", -- [3]
+					60, -- [4]
+					252997, -- [5]
+					"cast", -- [6]
+					64059, -- [7]
+					5, -- [8]
+					"YoggSaron", -- [9]
+					["id"] = 1143,
 				},
 				["ej9657"] = {
 					"ej9657", -- [1]
@@ -7908,17 +13713,17 @@ _detalhes_global = {
 					"133", -- [9]
 					["id"] = 1048,
 				},
-				["186993"] = {
-					"186993", -- [1]
-					"Timer186993cd", -- [2]
-					"邪恶打击冷却", -- [3]
-					10.5, -- [4]
-					132109, -- [5]
-					"cd", -- [6]
-					186993, -- [7]
-					2, -- [8]
-					"1432", -- [9]
-					["id"] = 1798,
+				["155776"] = {
+					"155776", -- [1]
+					"Timer155776next", -- [2]
+					"下一次召唤烬狼", -- [3]
+					60, -- [4]
+					1032474, -- [5]
+					"next", -- [6]
+					155776, -- [7]
+					1, -- [8]
+					"1123", -- [9]
+					["id"] = 1689,
 				},
 				["228270"] = {
 					"228270", -- [1]
@@ -8244,41 +14049,41 @@ _detalhes_global = {
 					"1751", -- [9]
 					["id"] = 1871,
 				},
-				["227967"] = {
-					"227967", -- [1]
-					"Timer227967next", -- [2]
-					"下一次毒水吐息", -- [3]
-					13.3, -- [4]
-					132104, -- [5]
-					"next", -- [6]
-					227967, -- [7]
+				["228730"] = {
+					"228730", -- [1]
+					"Timer228730nextcount	1", -- [2]
+					"下一次触须打击（1）", -- [3]
+					53, -- [4]
+					254105, -- [5]
+					"nextcount", -- [6]
+					228730, -- [7]
 					5, -- [8]
 					"1829", -- [9]
 					["id"] = 2008,
 				},
-				["64584"] = {
-					"64584", -- [1]
-					"Timer64584next", -- [2]
-					"下一次大爆炸", -- [3]
-					90, -- [4]
-					135981, -- [5]
-					"next", -- [6]
-					64584, -- [7]
-					2, -- [8]
-					"Algalon", -- [9]
-					["id"] = 1130,
+				["215582"] = {
+					"215582", -- [1]
+					"Timer215582cdcount	1", -- [2]
+					"邪掠之爪冷却（1）", -- [3]
+					52, -- [4]
+					537444, -- [5]
+					"cdcount", -- [6]
+					215582, -- [7]
+					5, -- [8]
+					"1744", -- [9]
+					["id"] = 1876,
 				},
-				["181827"] = {
-					"181827", -- [1]
-					"Timer181827cd	Creature-0-3930-1448-30292-93968-0000569C36", -- [2]
-					"邪能导管冷却", -- [3]
-					15, -- [4]
-					135795, -- [5]
-					"cd", -- [6]
-					181827, -- [7]
-					4, -- [8]
-					"1433", -- [9]
-					["id"] = 1788,
+				["82506"] = {
+					"82506", -- [1]
+					"Timer82506target2	高阶预言者巴林姆", -- [2]
+					"反复鞭笞: 高阶预言者巴林姆", -- [3]
+					20, -- [4]
+					132297, -- [5]
+					"target", -- [6]
+					82506, -- [7]
+					5, -- [8]
+					"119", -- [9]
+					["id"] = 1053,
 				},
 				["181973"] = {
 					"181973", -- [1]
@@ -8364,41 +14169,41 @@ _detalhes_global = {
 					"1761", -- [9]
 					["id"] = 1886,
 				},
-				["155323"] = {
-					"155323", -- [1]
-					"Timer155323cdcount	2", -- [2]
-					"石化猛击冷却（2）", -- [3]
-					60, -- [4]
-					132838, -- [5]
-					"cdcount", -- [6]
-					155323, -- [7]
-					2, -- [8]
-					"1161", -- [9]
-					["id"] = 1691,
+				["39019"] = {
+					"39019", -- [1]
+					"Timer39019target	尧哥专爆菊花", -- [2]
+					"支配: 尧哥专爆菊花", -- [3]
+					6, -- [4]
+					136206, -- [5]
+					"target", -- [6]
+					39019, -- [7]
+					0, -- [8]
+					"551", -- [9]
+					["id"] = 1914,
 				},
-				["210948"] = {
-					"210948", -- [1]
-					"Timer210948next", -- [2]
-					"下一次黑暗风暴", -- [3]
-					26, -- [4]
-					649816, -- [5]
-					"next", -- [6]
-					210948, -- [7]
-					2, -- [8]
-					"1744", -- [9]
-					["id"] = 1876,
-				},
-				["ej2531"] = {
-					"ej2531", -- [1]
-					"Timerej2531next", -- [2]
-					"下一次雷奥利斯的碎片", -- [3]
-					22.5, -- [4]
-					252172, -- [5]
-					"next", -- [6]
-					"ej2531", -- [7]
+				["143578"] = {
+					"143578", -- [1]
+					"Timer143578cd", -- [2]
+					"膨胀腐蚀冷却", -- [3]
+					10, -- [4]
+					656551, -- [5]
+					"cd", -- [6]
+					143578, -- [7]
 					1, -- [8]
-					"193", -- [9]
-					["id"] = 1204,
+					"852", -- [9]
+					["id"] = 1602,
+				},
+				["211192"] = {
+					"211192", -- [1]
+					"Timer211192cd	Creature-0-3149-1520-2734-105494-000058F9CC", -- [2]
+					"腐败之息冷却", -- [3]
+					18.1, -- [4]
+					1357794, -- [5]
+					"cd", -- [6]
+					211192, -- [7]
+					3, -- [8]
+					"1750", -- [9]
+					["id"] = 1877,
 				},
 				["209443"] = {
 					"209443", -- [1]
@@ -8472,17 +14277,17 @@ _detalhes_global = {
 					"1394", -- [9]
 					["id"] = 1784,
 				},
-				["184394"] = {
-					"184394", -- [1]
-					"Timer184394cd", -- [2]
-					"震荡波冷却", -- [3]
-					5.8, -- [4]
-					1016245, -- [5]
-					"cd", -- [6]
-					184394, -- [7]
+				["83113"] = {
+					"83113", -- [1]
+					"Timer83113next", -- [2]
+					"下一次邪恶用心", -- [3]
+					25.4, -- [4]
+					132337, -- [5]
+					"next", -- [6]
+					83113, -- [7]
 					3, -- [8]
-					"1426", -- [9]
-					["id"] = 1778,
+					"117", -- [9]
+					["id"] = 1052,
 				},
 				["73070"] = {
 					"73070", -- [1]
@@ -8496,17 +14301,17 @@ _detalhes_global = {
 					"Lanathel", -- [9]
 					["id"] = 1103,
 				},
-				["222079"] = {
-					"222079", -- [1]
-					"Timer222079target	龙听雨", -- [2]
-					"灼热伤口: 龙听雨", -- [3]
-					20, -- [4]
-					135802, -- [5]
-					"target", -- [6]
-					222079, -- [7]
-					5, -- [8]
-					"NightholdTrash", -- [9]
-					["id"] = 1842,
+				["126122"] = {
+					"126122", -- [1]
+					"Timer126122next", -- [2]
+					"下一次腐蚀不谐力场", -- [3]
+					10, -- [4]
+					651087, -- [5]
+					"next", -- [6]
+					126122, -- [7]
+					0, -- [8]
+					"743", -- [9]
+					["id"] = 1501,
 				},
 				["156724"] = {
 					"156724", -- [1]
@@ -8520,29 +14325,29 @@ _detalhes_global = {
 					"1123", -- [9]
 					["id"] = 1689,
 				},
-				["55081"] = {
-					"55081", -- [1]
-					"Timer55081cd", -- [2]
-					"毒性新星冷却", -- [3]
-					24, -- [4]
-					136030, -- [5]
-					"cd", -- [6]
-					55081, -- [7]
-					0, -- [8]
-					"592", -- [9]
-					["id"] = 1978,
-				},
-				["100686"] = {
-					"100686", -- [1]
-					"Timer100686next", -- [2]
-					"下一次上层精灵的召唤", -- [3]
-					40, -- [4]
-					136201, -- [5]
-					"next", -- [6]
-					100686, -- [7]
+				["ej11456"] = {
+					"ej11456", -- [1]
+					"Timerej11456nextcount	1", -- [2]
+					"下一次萨格雷统御者（1）", -- [3]
+					23, -- [4]
+					135796, -- [5]
+					"nextcount", -- [6]
+					"ej11456", -- [7]
 					1, -- [8]
-					"323", -- [9]
-					["id"] = 1882,
+					"1427", -- [9]
+					["id"] = 1794,
+				},
+				["206677"] = {
+					"206677", -- [1]
+					"Timer206677target	那啥姐夫", -- [2]
+					"灼烧烙印: 那啥姐夫", -- [3]
+					20, -- [4]
+					135794, -- [5]
+					"target", -- [6]
+					206677, -- [7]
+					5, -- [8]
+					"1713", -- [9]
+					["id"] = 1842,
 				},
 				["131830"] = {
 					"131830", -- [1]
@@ -8604,17 +14409,17 @@ _detalhes_global = {
 					"NorthrendBeasts", -- [9]
 					["id"] = 1088,
 				},
-				["208165"] = {
-					"208165", -- [1]
-					"Timer208165cd", -- [2]
-					"枯萎灵魂冷却", -- [3]
-					12, -- [4]
-					460700, -- [5]
+				["184265"] = {
+					"184265", -- [1]
+					"Timer184265cd", -- [2]
+					"精炼混乱冷却", -- [3]
+					5, -- [4]
+					828455, -- [5]
 					"cd", -- [6]
-					208165, -- [7]
+					184265, -- [7]
 					3, -- [8]
-					"1719", -- [9]
-					["id"] = 1869,
+					"1438", -- [9]
+					["id"] = 1799,
 				},
 				["184369"] = {
 					"184369", -- [1]
@@ -8640,41 +14445,41 @@ _detalhes_global = {
 					"1432", -- [9]
 					["id"] = 1798,
 				},
-				["201863"] = {
-					"201863", -- [1]
-					"Timer201863cd", -- [2]
-					"虫群的召唤冷却", -- [3]
-					30, -- [4]
-					538518, -- [5]
-					"cd", -- [6]
-					201863, -- [7]
-					1, -- [8]
-					"1696", -- [9]
-					["id"] = 1852,
+				["202792"] = {
+					"202792", -- [1]
+					"Timer202792fades", -- [2]
+					"疯狂嗜血消失", -- [3]
+					20, -- [4]
+					132352, -- [5]
+					"fades", -- [6]
+					202792, -- [7]
+					5, -- [8]
+					"1702", -- [9]
+					["id"] = 1855,
 				},
-				["155209"] = {
-					"155209", -- [1]
-					"Timer155209cd", -- [2]
-					"冲击冷却", -- [3]
-					24, -- [4]
-					1029721, -- [5]
-					"cd", -- [6]
-					155209, -- [7]
-					2, -- [8]
-					"1154", -- [9]
-					["id"] = 1690,
+				["3815"] = {
+					"3815", -- [1]
+					"Timer3815achievement", -- [2]
+					"成就：限时击杀", -- [3]
+					180, -- [4]
+					"Interface\\Icons\\Achievement_Boss_SvalaSorrowgrave", -- [5]
+					"achievement", -- [6]
+					3815, -- [7]
+					0, -- [8]
+					"ValkTwins", -- [9]
+					["id"] = 1089,
 				},
-				["78807"] = {
-					"78807", -- [1]
-					"Timer78807cast2", -- [2]
-					"碎片崩飞", -- [3]
-					3, -- [4]
-					134455, -- [5]
-					"cast", -- [6]
-					78807, -- [7]
+				["196543"] = {
+					"196543", -- [1]
+					"Timer196543cd", -- [2]
+					"挫志嚎叫冷却", -- [3]
+					8, -- [4]
+					1033494, -- [5]
+					"cd", -- [6]
+					196543, -- [7]
 					2, -- [8]
-					"112", -- [9]
-					["id"] = 1058,
+					"1487", -- [9]
+					["id"] = 1807,
 				},
 				["200182"] = {
 					"200182", -- [1]
@@ -8688,17 +14493,17 @@ _detalhes_global = {
 					"1657", -- [9]
 					["id"] = 1839,
 				},
-				["198079"] = {
-					"198079", -- [1]
-					"Timer198079cd", -- [2]
-					"怨恨凝视冷却", -- [3]
-					5, -- [4]
-					132284, -- [5]
-					"cd", -- [6]
-					198079, -- [7]
-					3, -- [8]
-					"1664", -- [9]
-					["id"] = 1834,
+				["ej10019"] = {
+					"ej10019", -- [1]
+					"Timerej10019nextcount	1", -- [2]
+					"下一次无畏舰（1）", -- [3]
+					59.5, -- [4]
+					133168, -- [5]
+					"nextcount", -- [6]
+					"ej10019", -- [7]
+					6, -- [8]
+					"1203", -- [9]
+					["id"] = 1695,
 				},
 				["181957"] = {
 					"181957", -- [1]
@@ -8712,30 +14517,6 @@ _detalhes_global = {
 					"1433", -- [9]
 					["id"] = 1788,
 				},
-				["186333"] = {
-					"186333", -- [1]
-					"Timer186333cd2", -- [2]
-					"灵能涌动冷却", -- [3]
-					16, -- [4]
-					252997, -- [5]
-					"cd", -- [6]
-					186333, -- [7]
-					3, -- [8]
-					"1447", -- [9]
-					["id"] = 1800,
-				},
-				["211927"] = {
-					"211927", -- [1]
-					"Timer211927nextcount	1", -- [2]
-					"下一次势不可挡（1）", -- [3]
-					55, -- [4]
-					1125916, -- [5]
-					"nextcount", -- [6]
-					211927, -- [7]
-					4, -- [8]
-					"1725", -- [9]
-					["id"] = 1865,
-				},
 				["212794"] = {
 					"212794", -- [1]
 					"Timer212794nextcount	1", -- [2]
@@ -8748,17 +14529,41 @@ _detalhes_global = {
 					"1762", -- [9]
 					["id"] = 1862,
 				},
-				["228918"] = {
-					"228918", -- [1]
-					"Timer228918next", -- [2]
-					"下一次雷铸之矛", -- [3]
-					9, -- [4]
-					1508064, -- [5]
-					"next", -- [6]
-					228918, -- [7]
-					5, -- [8]
-					"1819", -- [9]
-					["id"] = 1958,
+				["75007"] = {
+					"75007", -- [1]
+					"Timer75007active", -- [2]
+					"重若千钧结束", -- [3]
+					30, -- [4]
+					133490, -- [5]
+					"active", -- [6]
+					75007, -- [7]
+					6, -- [8]
+					"132", -- [9]
+					["id"] = 1050,
+				},
+				["32358"] = {
+					"32358", -- [1]
+					"Timer32358active", -- [2]
+					"黑暗之壳结束", -- [3]
+					7, -- [4]
+					136121, -- [5]
+					"active", -- [6]
+					32358, -- [7]
+					0, -- [8]
+					"534", -- [9]
+					["id"] = 1900,
+				},
+				["206617"] = {
+					"206617", -- [1]
+					"Timer206617nextcount	1", -- [2]
+					"下一次时间炸弹（1）", -- [3]
+					30, -- [4]
+					609814, -- [5]
+					"nextcount", -- [6]
+					206617, -- [7]
+					3, -- [8]
+					"1725", -- [9]
+					["id"] = 1865,
 				},
 				["68987"] = {
 					"68987", -- [1]
@@ -8784,17 +14589,17 @@ _detalhes_global = {
 					"Bloodboil", -- [9]
 					["id"] = 605,
 				},
-				["184931"] = {
-					"184931", -- [1]
-					"Timer184931cdcount	1", -- [2]
-					"枷锁酷刑冷却（1）", -- [3]
-					25, -- [4]
-					607854, -- [5]
-					"cdcount", -- [6]
-					184931, -- [7]
-					3, -- [8]
-					"1438", -- [9]
-					["id"] = 1799,
+				["101927"] = {
+					"101927", -- [1]
+					"Timer101927cd", -- [2]
+					"炙焰之核冷却", -- [3]
+					16, -- [4]
+					451164, -- [5]
+					"cd", -- [6]
+					101927, -- [7]
+					5, -- [8]
+					"285", -- [9]
+					["id"] = 1883,
 				},
 				["206308"] = {
 					"206308", -- [1]
@@ -8820,17 +14625,17 @@ _detalhes_global = {
 					"1432", -- [9]
 					["id"] = 1798,
 				},
-				["101927"] = {
-					"101927", -- [1]
-					"Timer101927cd", -- [2]
-					"炙焰之核冷却", -- [3]
-					16, -- [4]
-					451164, -- [5]
-					"cd", -- [6]
-					101927, -- [7]
-					5, -- [8]
-					"285", -- [9]
-					["id"] = 1883,
+				["205368"] = {
+					"205368", -- [1]
+					"Timer205368nextcount	1", -- [2]
+					"下一次邪能光束（1）", -- [3]
+					5, -- [4]
+					841219, -- [5]
+					"nextcount", -- [6]
+					205368, -- [7]
+					3, -- [8]
+					"1713", -- [9]
+					["id"] = 1842,
 				},
 				["204666"] = {
 					"204666", -- [1]
@@ -8844,29 +14649,29 @@ _detalhes_global = {
 					"1655", -- [9]
 					["id"] = 1837,
 				},
-				["143962"] = {
-					"143962", -- [1]
-					"Timer143962next", -- [2]
-					"下一次炼狱打击", -- [3]
-					8, -- [4]
-					135265, -- [5]
-					"next", -- [6]
-					143962, -- [7]
-					3, -- [8]
-					"849", -- [9]
-					["id"] = 1598,
+				["212364"] = {
+					"212364", -- [1]
+					"Timer212364nextcount	1", -- [2]
+					"下一次喂食时间（1）", -- [3]
+					15.5, -- [4]
+					132196, -- [5]
+					"nextcount", -- [6]
+					212364, -- [7]
+					1, -- [8]
+					"1744", -- [9]
+					["id"] = 1876,
 				},
-				["234817"] = {
-					"234817", -- [1]
-					"Timer234817ai", -- [2]
-					"黑暗孤寂人工智能计时冷却", -- [3]
-					7.26300000000265, -- [4]
-					458229, -- [5]
-					"ai", -- [6]
-					234817, -- [7]
+				["155864"] = {
+					"155864", -- [1]
+					"Timer155864cd", -- [2]
+					"实验型脉冲手雷冷却", -- [3]
+					6, -- [4]
+					463550, -- [5]
+					"cd", -- [6]
+					155864, -- [7]
 					3, -- [8]
-					"1878", -- [9]
-					["id"] = 2039,
+					"1147", -- [9]
+					["id"] = 1692,
 				},
 				["212567"] = {
 					"212567", -- [1]
@@ -8892,17 +14697,17 @@ _detalhes_global = {
 					"737", -- [9]
 					["id"] = 1499,
 				},
-				["212364"] = {
-					"212364", -- [1]
-					"Timer212364nextcount	1", -- [2]
-					"下一次喂食时间（1）", -- [3]
-					15.5, -- [4]
-					132196, -- [5]
-					"nextcount", -- [6]
-					212364, -- [7]
-					1, -- [8]
-					"1744", -- [9]
-					["id"] = 1876,
+				["139458"] = {
+					"139458", -- [1]
+					"Timer139458active", -- [2]
+					"狂暴结束", -- [3]
+					21, -- [4]
+					463493, -- [5]
+					"active", -- [6]
+					139458, -- [7]
+					6, -- [8]
+					"821", -- [9]
+					["id"] = 1578,
 				},
 				["182178"] = {
 					"182178", -- [1]
@@ -8916,17 +14721,17 @@ _detalhes_global = {
 					"1433", -- [9]
 					["id"] = 1788,
 				},
-				["139458"] = {
-					"139458", -- [1]
-					"Timer139458active", -- [2]
-					"狂暴结束", -- [3]
-					21, -- [4]
-					463493, -- [5]
-					"active", -- [6]
-					139458, -- [7]
-					6, -- [8]
-					"821", -- [9]
-					["id"] = 1578,
+				["204275"] = {
+					"204275", -- [1]
+					"Timer204275cd", -- [2]
+					"奥能挥砍冷却", -- [3]
+					5, -- [4]
+					655172, -- [5]
+					"cd", -- [6]
+					204275, -- [7]
+					5, -- [8]
+					"1706", -- [9]
+					["id"] = 1849,
 				},
 				["181461"] = {
 					"181461", -- [1]
@@ -8952,17 +14757,17 @@ _detalhes_global = {
 					"1426", -- [9]
 					["id"] = 1778,
 				},
-				["201672"] = {
-					"201672", -- [1]
-					"Timer201672next", -- [2]
-					"下一次无情风暴", -- [3]
-					11, -- [4]
-					1033907, -- [5]
+				["218148"] = {
+					"218148", -- [1]
+					"Timer218148next", -- [2]
+					"下一次阳光坍缩", -- [3]
+					10, -- [4]
+					135981, -- [5]
 					"next", -- [6]
-					201672, -- [7]
+					218148, -- [7]
 					3, -- [8]
-					"1694", -- [9]
-					["id"] = 1845,
+					"1761", -- [9]
+					["id"] = 1886,
 				},
 				["188114"] = {
 					"188114", -- [1]
@@ -8976,17 +14781,17 @@ _detalhes_global = {
 					"1662", -- [9]
 					["id"] = 1790,
 				},
-				["66901"] = {
-					"66901", -- [1]
-					"Timer66901cd", -- [2]
-					"麻痹喷溅冷却", -- [3]
-					9, -- [4]
-					132104, -- [5]
-					"cd", -- [6]
-					66901, -- [7]
-					0, -- [8]
-					"NorthrendBeasts", -- [9]
-					["id"] = 1088,
+				["180244"] = {
+					"180244", -- [1]
+					"Timer180244nextcount	1", -- [2]
+					"下一次重击（1）", -- [3]
+					27, -- [4]
+					132154, -- [5]
+					"nextcount", -- [6]
+					180244, -- [7]
+					2, -- [8]
+					"1392", -- [9]
+					["id"] = 1787,
 				},
 				["62042"] = {
 					"62042", -- [1]
@@ -9048,17 +14853,17 @@ _detalhes_global = {
 					"Najentus", -- [9]
 					["id"] = 601,
 				},
-				["142539"] = {
-					"142539", -- [1]
-					"Timer142539cd	Creature-0-3929-1136-11390-71397-000068A528", -- [2]
-					"螳螂妖虫群冷却", -- [3]
-					35, -- [4]
-					839407, -- [5]
-					"cd", -- [6]
-					142539, -- [7]
-					1, -- [8]
-					"870", -- [9]
-					["id"] = 1594,
+				["218304"] = {
+					"218304", -- [1]
+					"Timer218304next", -- [2]
+					"下一次寄生镣铐", -- [3]
+					21, -- [4]
+					538515, -- [5]
+					"next", -- [6]
+					218304, -- [7]
+					3, -- [8]
+					"1761", -- [9]
+					["id"] = 1886,
 				},
 				["nil"] = {
 					"nil", -- [1]
@@ -9072,29 +14877,29 @@ _detalhes_global = {
 					"1825", -- [9]
 					["id"] = 1954,
 				},
-				["ej8305"] = {
-					"ej8305", -- [1]
-					"Timerej8305active", -- [2]
-					"阶段转换：亚煞极之境结束", -- [3]
-					60.5, -- [4]
-					135945, -- [5]
-					"active", -- [6]
-					"ej8305", -- [7]
-					6, -- [8]
-					"869", -- [9]
-					["id"] = 1623,
-				},
-				["100744"] = {
-					"100744", -- [1]
-					"Timer100744cd", -- [2]
-					"火焰风暴冷却", -- [3]
-					94, -- [4]
-					237588, -- [5]
+				["221783"] = {
+					"221783", -- [1]
+					"Timer221783cd", -- [2]
+					"萨格拉斯之焰冷却", -- [3]
+					29, -- [4]
+					236297, -- [5]
 					"cd", -- [6]
-					100744, -- [7]
-					2, -- [8]
-					"194", -- [9]
-					["id"] = 1206,
+					221783, -- [7]
+					3, -- [8]
+					"1737", -- [9]
+					["id"] = 1866,
+				},
+				["207278"] = {
+					"207278", -- [1]
+					"Timer207278cd", -- [2]
+					"奥术锁定冷却", -- [3]
+					15, -- [4]
+					1041230, -- [5]
+					"cd", -- [6]
+					207278, -- [7]
+					3, -- [8]
+					"1718", -- [9]
+					["id"] = 1868,
 				},
 				["ej5927"] = {
 					"ej5927", -- [1]
@@ -9108,29 +14913,29 @@ _detalhes_global = {
 					"569", -- [9]
 					["id"] = 1938,
 				},
-				["137129"] = {
-					"137129", -- [1]
-					"Timer137129next", -- [2]
-					"下一次坠落之星", -- [3]
-					4.5, -- [4]
-					236168, -- [5]
+				["202062"] = {
+					"202062", -- [1]
+					"Timer202062next", -- [2]
+					"下一次刺骨寒风", -- [3]
+					36.5, -- [4]
+					236209, -- [5]
 					"next", -- [6]
-					137129, -- [7]
-					0, -- [8]
-					"829", -- [9]
-					["id"] = 1560,
-				},
-				["213852"] = {
-					"213852", -- [1]
-					"Timer213852next", -- [2]
-					"下一次复制", -- [3]
-					15, -- [4]
-					135732, -- [5]
-					"next", -- [6]
-					213852, -- [7]
+					202062, -- [7]
 					3, -- [8]
-					"1751", -- [9]
-					["id"] = 1871,
+					"1694", -- [9]
+					["id"] = 1845,
+				},
+				["99794"] = {
+					"99794", -- [1]
+					"Timer99794next", -- [2]
+					"下一次火焰漩涡", -- [3]
+					243, -- [4]
+					236216, -- [5]
+					"next", -- [6]
+					99794, -- [7]
+					6, -- [8]
+					"194", -- [9]
+					["id"] = 1206,
 				},
 				["227789"] = {
 					"227789", -- [1]
@@ -9144,17 +14949,17 @@ _detalhes_global = {
 					"1825", -- [9]
 					["id"] = 1954,
 				},
-				["75722"] = {
-					"75722", -- [1]
-					"Timer75722cast", -- [2]
-					"召唤喷泉", -- [3]
-					5, -- [4]
-					135836, -- [5]
-					"cast", -- [6]
-					75722, -- [7]
-					0, -- [8]
-					"101", -- [9]
-					["id"] = 1045,
+				["181296"] = {
+					"181296", -- [1]
+					"Timer181296next", -- [2]
+					"下一次爆炸符文", -- [3]
+					11, -- [4]
+					1122136, -- [5]
+					"next", -- [6]
+					181296, -- [7]
+					5, -- [8]
+					"1392", -- [9]
+					["id"] = 1787,
 				},
 				["181912"] = {
 					"181912", -- [1]
@@ -9168,41 +14973,41 @@ _detalhes_global = {
 					"1433", -- [9]
 					["id"] = 1788,
 				},
-				["156626"] = {
-					"156626", -- [1]
-					"Timer156626cd	1", -- [2]
-					"急速射击冷却", -- [3]
-					15.5, -- [4]
-					1035051, -- [5]
+				["204316"] = {
+					"204316", -- [1]
+					"Timer204316cd", -- [2]
+					"震荡波冷却", -- [3]
+					56.2, -- [4]
+					1029595, -- [5]
 					"cd", -- [6]
-					156626, -- [7]
+					204316, -- [7]
+					2, -- [8]
+					"1706", -- [9]
+					["id"] = 1849,
+				},
+				["42005"] = {
+					"42005", -- [1]
+					"Timer42005cd", -- [2]
+					"血液沸腾冷却", -- [3]
+					11.5, -- [4]
+					136124, -- [5]
+					"cd", -- [6]
+					42005, -- [7]
+					5, -- [8]
+					"Bloodboil", -- [9]
+					["id"] = 605,
+				},
+				["143701"] = {
+					"143701", -- [1]
+					"Timer143701cd", -- [2]
+					"晕头转向冷却", -- [3]
+					14, -- [4]
+					236154, -- [5]
+					"cd", -- [6]
+					143701, -- [7]
 					3, -- [8]
-					"1203", -- [9]
-					["id"] = 1695,
-				},
-				["181735"] = {
-					"181735", -- [1]
-					"Timer181735cd", -- [2]
-					"邪能引导冷却", -- [3]
-					40.2, -- [4]
-					841219, -- [5]
-					"cd", -- [6]
-					181735, -- [7]
-					2, -- [8]
-					"1395", -- [9]
-					["id"] = 1795,
-				},
-				["228032"] = {
-					"228032", -- [1]
-					"Timer228032nextcount	1", -- [2]
-					"下一次巨喉之怒（1）", -- [3]
-					36.5, -- [4]
-					237590, -- [5]
-					"nextcount", -- [6]
-					228032, -- [7]
-					2, -- [8]
-					"1829", -- [9]
-					["id"] = 2008,
+					"853", -- [9]
+					["id"] = 1593,
 				},
 				["210264"] = {
 					"210264", -- [1]
@@ -9216,41 +15021,41 @@ _detalhes_global = {
 					"1726", -- [9]
 					["id"] = 1864,
 				},
-				["ej8298"] = {
-					"ej8298", -- [1]
-					"Timerej8298next", -- [2]
-					"下一次攻城技师", -- [3]
-					20, -- [4]
-					236216, -- [5]
-					"next", -- [6]
-					"ej8298", -- [7]
-					1, -- [8]
-					"869", -- [9]
-					["id"] = 1623,
-				},
-				["1862"] = {
-					"1862", -- [1]
-					"Timer1862achievement", -- [2]
-					"成就：限时击杀", -- [3]
-					120, -- [4]
-					236461, -- [5]
-					"achievement", -- [6]
-					1862, -- [7]
-					0, -- [8]
-					"584", -- [9]
-					["id"] = 1968,
-				},
-				["102111"] = {
-					"102111", -- [1]
-					"Timer102111cd", -- [2]
-					"灾变流星冷却", -- [3]
-					32, -- [4]
-					136186, -- [5]
-					"cd", -- [6]
-					102111, -- [7]
+				["158078"] = {
+					"158078", -- [1]
+					"Timer158078cdcount	1", -- [2]
+					"鲜血仪式冷却（1）", -- [3]
+					12.4, -- [4]
+					1035037, -- [5]
+					"cdcount", -- [6]
+					158078, -- [7]
 					5, -- [8]
-					"194", -- [9]
-					["id"] = 1206,
+					"1203", -- [9]
+					["id"] = 1695,
+				},
+				["134926"] = {
+					"134926", -- [1]
+					"Timer134926cd", -- [2]
+					"投掷长矛冷却", -- [3]
+					30, -- [4]
+					307704, -- [5]
+					"cd", -- [6]
+					134926, -- [7]
+					3, -- [8]
+					"817", -- [9]
+					["id"] = 1559,
+				},
+				["ej14005"] = {
+					"ej14005", -- [1]
+					"Timerej14005next", -- [2]
+					"下一次海姆达尔", -- [3]
+					67, -- [4]
+					134229, -- [5]
+					"next", -- [6]
+					"ej14005", -- [7]
+					1, -- [8]
+					"1819", -- [9]
+					["id"] = 1958,
 				},
 				["227514"] = {
 					"227514", -- [1]
@@ -9264,17 +15069,17 @@ _detalhes_global = {
 					"1830", -- [9]
 					["id"] = 1962,
 				},
-				["102573"] = {
-					"102573", -- [1]
-					"Timer102573next", -- [2]
-					"下一次闪电吐息", -- [3]
-					9.7, -- [4]
-					135781, -- [5]
+				["113143"] = {
+					"113143", -- [1]
+					"Timer113143next", -- [2]
+					"下一次复活吧！", -- [3]
+					48, -- [4]
+					237511, -- [5]
 					"next", -- [6]
-					102573, -- [7]
-					5, -- [8]
-					"673", -- [9]
-					["id"] = 1303,
+					113143, -- [7]
+					1, -- [8]
+					"684", -- [9]
+					["id"] = 1430,
 				},
 				["199389"] = {
 					"199389", -- [1]
@@ -9336,29 +15141,29 @@ _detalhes_global = {
 					"1829", -- [9]
 					["id"] = 2008,
 				},
-				["136752"] = {
-					"136752", -- [1]
-					"Timer136752cdcount	1", -- [2]
-					"星辰弹幕冷却（1）", -- [3]
-					17, -- [4]
-					135786, -- [5]
-					"cdcount", -- [6]
-					136752, -- [7]
-					0, -- [8]
-					"829", -- [9]
-					["id"] = 1560,
-				},
-				["194327"] = {
-					"194327", -- [1]
-					"Timer194327cd", -- [2]
-					"破碎冷却", -- [3]
-					19, -- [4]
-					236300, -- [5]
+				["63830"] = {
+					"63830", -- [1]
+					"Timer63830cd", -- [2]
+					"心灵疾病冷却", -- [3]
+					13, -- [4]
+					136145, -- [5]
 					"cd", -- [6]
-					194327, -- [7]
+					63830, -- [7]
 					3, -- [8]
-					"1512", -- [9]
-					["id"] = 1823,
+					"YoggSaron", -- [9]
+					["id"] = 1143,
+				},
+				["143759"] = {
+					"143759", -- [1]
+					"Timer143759cd", -- [2]
+					"投掷琥珀冷却", -- [3]
+					44, -- [4]
+					646670, -- [5]
+					"cd", -- [6]
+					143759, -- [7]
+					3, -- [8]
+					"853", -- [9]
+					["id"] = 1593,
 				},
 				["201598"] = {
 					"201598", -- [1]
@@ -9396,29 +15201,29 @@ _detalhes_global = {
 					"1829", -- [9]
 					["id"] = 2008,
 				},
-				["145489"] = {
-					"145489", -- [1]
-					"Timer145489next", -- [2]
-					"下一次返回岩石形态", -- [3]
-					6, -- [4]
-					458241, -- [5]
-					"next", -- [6]
-					145489, -- [7]
-					0, -- [8]
-					"870", -- [9]
-					["id"] = 1594,
+				["214529"] = {
+					"214529", -- [1]
+					"Timer214529cd3", -- [2]
+					"梦魇之矛冷却", -- [3]
+					20, -- [4]
+					1357799, -- [5]
+					"cd", -- [6]
+					214529, -- [7]
+					5, -- [8]
+					"1750", -- [9]
+					["id"] = 1877,
 				},
-				["145215"] = {
-					"145215", -- [1]
-					"Timer145215next", -- [2]
-					"下一次放逐", -- [3]
-					37.5, -- [4]
-					651097, -- [5]
-					"next", -- [6]
-					145215, -- [7]
+				["208322"] = {
+					"208322", -- [1]
+					"Timer208322cdcount	1", -- [2]
+					"潜袭喷发冷却（1）", -- [3]
+					13.6, -- [4]
+					1357803, -- [5]
+					"cdcount", -- [6]
+					208322, -- [7]
 					3, -- [8]
-					"867", -- [9]
-					["id"] = 1604,
+					"1726", -- [9]
+					["id"] = 1864,
 				},
 				["197418"] = {
 					"197418", -- [1]
@@ -9444,17 +15249,17 @@ _detalhes_global = {
 					"1467", -- [9]
 					["id"] = 1815,
 				},
-				["2930"] = {
-					"2930", -- [1]
-					"Timer2930achievement", -- [2]
-					"成就：限时击杀", -- [3]
-					240, -- [4]
-					"Interface\\Icons\\Achievement_Boss_Ignis_01", -- [5]
-					"achievement", -- [6]
-					2930, -- [7]
-					0, -- [8]
-					"Ignis", -- [9]
-					["id"] = 1136,
+				["206222"] = {
+					"206222", -- [1]
+					"Timer206222ai", -- [2]
+					"邪能束缚人工智能计时冷却", -- [3]
+					49.9959999999992, -- [4]
+					1117883, -- [5]
+					"ai", -- [6]
+					206222, -- [7]
+					3, -- [8]
+					"1737", -- [9]
+					["id"] = 1866,
 				},
 				["181597"] = {
 					"181597", -- [1]
@@ -9516,17 +15321,17 @@ _detalhes_global = {
 					"1427", -- [9]
 					["id"] = 1794,
 				},
-				["143990"] = {
-					"143990", -- [1]
-					"Timer143990cd", -- [2]
-					"污水喷涌冷却", -- [3]
-					32.5, -- [4]
-					132104, -- [5]
+				["227800"] = {
+					"227800", -- [1]
+					"Timer227800cd", -- [2]
+					"神圣震击冷却", -- [3]
+					15.8, -- [4]
+					135972, -- [5]
 					"cd", -- [6]
-					143990, -- [7]
-					1, -- [8]
-					"856", -- [9]
-					["id"] = 1606,
+					227800, -- [7]
+					4, -- [8]
+					"1825", -- [9]
+					["id"] = 1954,
 				},
 				["144800"] = {
 					"144800", -- [1]
@@ -9540,17 +15345,17 @@ _detalhes_global = {
 					"867", -- [9]
 					["id"] = 1604,
 				},
-				["208322"] = {
-					"208322", -- [1]
-					"Timer208322cdcount	1", -- [2]
-					"潜袭喷发冷却（1）", -- [3]
-					13.6, -- [4]
-					1357803, -- [5]
-					"cdcount", -- [6]
-					208322, -- [7]
+				["213390"] = {
+					"213390", -- [1]
+					"Timer213390next", -- [2]
+					"下一次自爆", -- [3]
+					35, -- [4]
+					1033906, -- [5]
+					"next", -- [6]
+					213390, -- [7]
 					3, -- [8]
-					"1726", -- [9]
-					["id"] = 1864,
+					"1751", -- [9]
+					["id"] = 1871,
 				},
 				["ej8262"] = {
 					"ej8262", -- [1]
@@ -9576,17 +15381,17 @@ _detalhes_global = {
 					"641", -- [9]
 					["id"] = 2030,
 				},
-				["204459"] = {
-					"204459", -- [1]
-					"Timer204459fades", -- [2]
-					"易伤外壳消失", -- [3]
-					15, -- [4]
-					132358, -- [5]
-					"fades", -- [6]
-					204459, -- [7]
-					6, -- [8]
-					"1706", -- [9]
-					["id"] = 1849,
+				["210290"] = {
+					"210290", -- [1]
+					"Timer210290cd2", -- [2]
+					"梦魇荆棘冷却", -- [3]
+					27.5, -- [4]
+					1357815, -- [5]
+					"cd", -- [6]
+					210290, -- [7]
+					3, -- [8]
+					"1750", -- [9]
+					["id"] = 1877,
 				},
 				["123175"] = {
 					"123175", -- [1]
@@ -9600,17 +15405,17 @@ _detalhes_global = {
 					"744", -- [9]
 					["id"] = 1504,
 				},
-				["176312"] = {
-					"176312", -- [1]
-					"Timer176312nextcount	1", -- [2]
-					"下一次疾驰列车（1）", -- [3]
-					12, -- [4]
-					1029727, -- [5]
-					"nextcount", -- [6]
-					176312, -- [7]
-					1, -- [8]
-					"1147", -- [9]
-					["id"] = 1692,
+				["209971"] = {
+					"209971", -- [1]
+					"Timer209971cd", -- [2]
+					"消融脉冲冷却", -- [3]
+					22, -- [4]
+					135728, -- [5]
+					"cd", -- [6]
+					209971, -- [7]
+					4, -- [8]
+					"1743", -- [9]
+					["id"] = 1872,
 				},
 				["144748"] = {
 					"144748", -- [1]
@@ -9624,17 +15429,17 @@ _detalhes_global = {
 					"869", -- [9]
 					["id"] = 1623,
 				},
-				["69200"] = {
-					"69200", -- [1]
-					"Timer69200next", -- [2]
-					"下一次狂怒之魂", -- [3]
-					6, -- [4]
-					132344, -- [5]
-					"next", -- [6]
-					69200, -- [7]
-					1, -- [8]
-					"LichKing", -- [9]
-					["id"] = 1106,
+				["188693"] = {
+					"188693", -- [1]
+					"Timer188693cdcount	1", -- [2]
+					"邪能爆发冷却（1）", -- [3]
+					33.7, -- [4]
+					135800, -- [5]
+					"cdcount", -- [6]
+					188693, -- [7]
+					2, -- [8]
+					"1427", -- [9]
+					["id"] = 1794,
 				},
 				["201221"] = {
 					"201221", -- [1]
@@ -10018,6 +15823,14 @@ _detalhes_global = {
 					136122, -- [5]
 					["id"] = 1854,
 				},
+				["227777"] = {
+					"Opera Hall: Westfall Story", -- [1]
+					"227777", -- [2]
+					"雷霆仪式", -- [3]
+					8.5, -- [4]
+					839983, -- [5]
+					["id"] = 1957,
+				},
 				["197961"] = {
 					"Odyn", -- [1]
 					"197961", -- [2]
@@ -10042,13 +15855,13 @@ _detalhes_global = {
 					136113, -- [5]
 					["id"] = 1792,
 				},
-				["206949"] = {
-					"Star Augur Etraeus", -- [1]
-					"206949", -- [2]
-					"严寒新星（1）", -- [3]
-					53, -- [4]
-					464484, -- [5]
-					["id"] = 1863,
+				["warmup"] = {
+					"God-King Skovald", -- [1]
+					"warmup", -- [2]
+					"神王斯科瓦尔德激活", -- [3]
+					20, -- [4]
+					"Interface\\Icons\\achievement_dungeon_hallsofvalor", -- [5]
+					["id"] = 1808,
 				},
 				["194966"] = {
 					"Amalgam of Souls", -- [1]
@@ -10066,13 +15879,13 @@ _detalhes_global = {
 					460696, -- [5]
 					["id"] = 2031,
 				},
-				["205420"] = {
-					"Krosus", -- [1]
-					"205420", -- [2]
-					"燃烧的沥青（1）", -- [3]
-					50, -- [4]
-					135804, -- [5]
-					["id"] = 1842,
+				["135991"] = {
+					"Lei Shen", -- [1]
+					"135991", -- [2]
+					"散射闪电链", -- [3]
+					6, -- [4]
+					136049, -- [5]
+					["id"] = 1579,
 				},
 				["228785"] = {
 					"Nightbane", -- [1]
@@ -10082,13 +15895,13 @@ _detalhes_global = {
 					135831, -- [5]
 					["id"] = 2031,
 				},
-				["212030"] = {
-					"General Xakal", -- [1]
-					"212030", -- [2]
-					"暗影鞭笞", -- [3]
-					13, -- [4]
-					607850, -- [5]
-					["id"] = 1828,
+				["224982"] = {
+					"Nighthold Trash", -- [1]
+					"224982", -- [2]
+					"邪能眩光：>魔女维纳斯<", -- [3]
+					10, -- [4]
+					135798, -- [5]
+					["id"] = 1862,
 				},
 				["227493"] = {
 					"Attumen the Huntsman", -- [1]
@@ -10130,13 +15943,13 @@ _detalhes_global = {
 					1029585, -- [5]
 					["id"] = 1870,
 				},
-				["berserk"] = {
-					"Skorpyron", -- [1]
-					"berserk", -- [2]
-					"狂暴", -- [3]
-					542, -- [4]
-					136224, -- [5]
-					["id"] = 1849,
+				["196838"] = {
+					"Fenryr", -- [1]
+					"196838", -- [2]
+					"血之气息", -- [3]
+					34, -- [4]
+					841383, -- [5]
+					["id"] = 1807,
 				},
 				["139011"] = {
 					"Lei Shen", -- [1]
@@ -10146,6 +15959,30 @@ _detalhes_global = {
 					133833, -- [5]
 					["id"] = 1579,
 				},
+				["41917"] = {
+					"Illidan Stormrage", -- [1]
+					"41917", -- [2]
+					">你< 寄生！", -- [3]
+					10, -- [4]
+					136214, -- [5]
+					["id"] = 609,
+				},
+				["-12727"] = {
+					"Ashgolm", -- [1]
+					"-12727", -- [2]
+					"反制机关", -- [3]
+					7.5, -- [4]
+					"Interface\\Icons\\ability_monk_counteractmagic", -- [5]
+					["id"] = 1816,
+				},
+				["40506"] = {
+					"Illidan Stormrage", -- [1]
+					"40506", -- [2]
+					"恶魔形态", -- [3]
+					75, -- [4]
+					136172, -- [5]
+					["id"] = 609,
+				},
 				["227267"] = {
 					"The Curator", -- [1]
 					"227267", -- [2]
@@ -10153,6 +15990,22 @@ _detalhes_global = {
 					5, -- [4]
 					237510, -- [5]
 					["id"] = 1964,
+				},
+				["40585"] = {
+					"Illidan Stormrage", -- [1]
+					"40585", -- [2]
+					"黑暗弹幕", -- [3]
+					95, -- [4]
+					136181, -- [5]
+					["id"] = 609,
+				},
+				["41032"] = {
+					"Illidan Stormrage", -- [1]
+					"41032", -- [2]
+					"剪切：>阿卡玛<", -- [3]
+					7, -- [4]
+					136158, -- [5]
+					["id"] = 609,
 				},
 				["201392"] = {
 					"Millificent Manastorm", -- [1]
@@ -10162,13 +16015,13 @@ _detalhes_global = {
 					656513, -- [5]
 					["id"] = 1847,
 				},
-				["134926"] = {
-					"Iron Qon", -- [1]
-					"134926", -- [2]
-					"投掷长矛", -- [3]
-					33, -- [4]
-					307704, -- [5]
-					["id"] = 1559,
+				["137528"] = {
+					"Ji-Kun", -- [1]
+					"137528", -- [2]
+					"喂养幼雏", -- [3]
+					30, -- [4]
+					134437, -- [5]
+					["id"] = 1573,
 				},
 				["69167"] = {
 					"Scourgelord Tyrannus", -- [1]
@@ -10178,6 +16031,14 @@ _detalhes_global = {
 					136204, -- [5]
 					["id"] = 2000,
 				},
+				["206949"] = {
+					"Star Augur Etraeus", -- [1]
+					"206949", -- [2]
+					"严寒新星（1）", -- [3]
+					53, -- [4]
+					464484, -- [5]
+					["id"] = 1863,
+				},
 				["-6889"] = {
 					"Durumu the Forgotten", -- [1]
 					"-6889", -- [2]
@@ -10186,6 +16047,30 @@ _detalhes_global = {
 					517161, -- [5]
 					["id"] = 1572,
 				},
+				["192522"] = {
+					"Ashgolm", -- [1]
+					"192522", -- [2]
+					"裂隙", -- [3]
+					42, -- [4]
+					1032476, -- [5]
+					["id"] = 1816,
+				},
+				["75683"] = {
+					"Lady Naz'jar", -- [1]
+					"75683", -- [2]
+					"龙卷水涌", -- [3]
+					60, -- [4]
+					132852, -- [5]
+					["id"] = 1045,
+				},
+				["218438"] = {
+					"High Botanist Tel'arn", -- [1]
+					"218438", -- [2]
+					"约束混沌", -- [3]
+					35, -- [4]
+					429383, -- [5]
+					["id"] = 1886,
+				},
 				["135095"] = {
 					"Lei Shen", -- [1]
 					"135095", -- [2]
@@ -10193,6 +16078,14 @@ _detalhes_global = {
 					25, -- [4]
 					839983, -- [5]
 					["id"] = 1579,
+				},
+				["227508"] = {
+					"Maiden of Virtue", -- [1]
+					"227508", -- [2]
+					"<施放：群体忏悔>", -- [3]
+					5, -- [4]
+					135942, -- [5]
+					["id"] = 1954,
 				},
 				["96920"] = {
 					"Occu'thar", -- [1]
@@ -10218,6 +16111,22 @@ _detalhes_global = {
 					1357796, -- [5]
 					["id"] = 1864,
 				},
+				["194231"] = {
+					"Harbaron", -- [1]
+					"194231", -- [2]
+					"召唤被禁锢的仆从", -- [3]
+					8, -- [4]
+					636332, -- [5]
+					["id"] = 1823,
+				},
+				["198820"] = {
+					"Kurtalos Ravencrest", -- [1]
+					"198820", -- [2]
+					"黑暗冲击", -- [3]
+					12, -- [4]
+					136141, -- [5]
+					["id"] = 1835,
+				},
 				["200904"] = {
 					"Inquisitor Tormentorum", -- [1]
 					"200904", -- [2]
@@ -10226,37 +16135,45 @@ _detalhes_global = {
 					460857, -- [5]
 					["id"] = 1850,
 				},
-				["192522"] = {
-					"Ashgolm", -- [1]
-					"192522", -- [2]
-					"裂隙", -- [3]
-					42, -- [4]
-					1032476, -- [5]
-					["id"] = 1816,
+				["227503"] = {
+					"Odyn-TrialOfValor", -- [1]
+					"227503", -- [2]
+					"吸取能量", -- [3]
+					45, -- [4]
+					236247, -- [5]
+					["id"] = 1958,
 				},
-				["unstablevitajumptarget"] = {
-					"Ra-den", -- [1]
-					"unstablevitajumptarget", -- [2]
-					">你< 不稳定的生命！", -- [3]
-					5, -- [4]
-					136049, -- [5]
-					["id"] = 1581,
+				["205549"] = {
+					"Naraxas", -- [1]
+					"205549", -- [2]
+					"腐坏之喉", -- [3]
+					7, -- [4]
+					136007, -- [5]
+					["id"] = 1792,
 				},
-				["75683"] = {
-					"Lady Naz'jar", -- [1]
-					"75683", -- [2]
-					"龙卷水涌", -- [3]
-					60, -- [4]
-					132852, -- [5]
-					["id"] = 1045,
-				},
-				["-4141"] = {
-					"Echo of Baine", -- [1]
-					"-4141", -- [2]
-					"Totem dropped", -- [3]
+				["204372"] = {
+					"Skorpyron", -- [1]
+					"204372", -- [2]
+					"召唤蝎子", -- [3]
 					20, -- [4]
-					135860, -- [5]
-					["id"] = 1881,
+					620833, -- [5]
+					["id"] = 1849,
+				},
+				["227992"] = {
+					"Helya-TrialOfValor", -- [1]
+					"227992", -- [2]
+					"<施放：毒水消融>", -- [3]
+					25.5, -- [4]
+					893778, -- [5]
+					["id"] = 2008,
+				},
+				["226194"] = {
+					"Xavius", -- [1]
+					"226194", -- [2]
+					"扭动深渊", -- [3]
+					12.4223602484472, -- [4]
+					1357812, -- [5]
+					["id"] = 1864,
 				},
 				["204859"] = {
 					"Ursoc", -- [1]
@@ -10290,13 +16207,13 @@ _detalhes_global = {
 					609814, -- [5]
 					["id"] = 1871,
 				},
-				["208672"] = {
-					"Gul'dan", -- [1]
-					"208672", -- [2]
-					"腐肉波浪", -- [3]
-					6.1, -- [4]
-					136128, -- [5]
-					["id"] = 1866,
+				["-7062"] = {
+					"Council of Elders", -- [1]
+					"-7062", -- [2]
+					"流沙", -- [3]
+					7, -- [4]
+					796634, -- [5]
+					["id"] = 1570,
 				},
 				["207439"] = {
 					"Star Augur Etraeus", -- [1]
@@ -10322,29 +16239,29 @@ _detalhes_global = {
 					1029595, -- [5]
 					["id"] = 1866,
 				},
-				["-13767"] = {
-					"Skorpyron", -- [1]
-					"-13767", -- [2]
-					"红模式", -- [3]
-					22, -- [4]
-					1003591, -- [5]
-					["id"] = 1849,
+				["137221"] = {
+					"Iron Qon", -- [1]
+					"137221", -- [2]
+					"<施放：熔火过载>", -- [3]
+					10, -- [4]
+					615339, -- [5]
+					["id"] = 1559,
 				},
-				["bosses"] = {
-					"The Beasts of Northrend", -- [1]
-					"bosses", -- [2]
-					"即将穿刺者戈莫克！", -- [3]
+				["193566"] = {
+					"Ymiron", -- [1]
+					"193566", -- [2]
+					"亡者复生", -- [3]
+					41.2, -- [4]
+					136187, -- [5]
+					["id"] = 1822,
+				},
+				["59513"] = {
+					"Prince Taldaram", -- [1]
+					"59513", -- [2]
+					"吸血鬼的拥抱", -- [3]
 					20, -- [4]
-					132324, -- [5]
-					["id"] = 1088,
-				},
-				["194231"] = {
-					"Harbaron", -- [1]
-					"194231", -- [2]
-					"召唤被禁锢的仆从", -- [3]
-					8, -- [4]
-					636332, -- [5]
-					["id"] = 1823,
+					136129, -- [5]
+					["id"] = 1966,
 				},
 				["-14404"] = {
 					"Odyn-TrialOfValor", -- [1]
@@ -10362,21 +16279,21 @@ _detalhes_global = {
 					136048, -- [5]
 					["id"] = 1964,
 				},
-				["196587"] = {
-					"Amalgam of Souls", -- [1]
-					"196587", -- [2]
-					"灵魂爆发", -- [3]
-					27.5, -- [4]
-					1120185, -- [5]
-					["id"] = 1832,
+				["197969"] = {
+					"Ursoc", -- [1]
+					"197969", -- [2]
+					"震耳喧嚣（1）", -- [3]
+					40, -- [4]
+					136195, -- [5]
+					["id"] = 1841,
 				},
-				["submerge"] = {
-					"The Beasts of Northrend", -- [1]
-					"submerge", -- [2]
-					"潜地", -- [3]
-					45, -- [4]
-					"Interface\\Icons\\INV_Misc_MonsterScales_18", -- [5]
-					["id"] = 1088,
+				["208230"] = {
+					"Tichondrius", -- [1]
+					"208230", -- [2]
+					"鲜血盛宴（1）", -- [3]
+					20, -- [4]
+					538039, -- [5]
+					["id"] = 1862,
 				},
 				["213569"] = {
 					"Spellblade Aluriel", -- [1]
@@ -10386,29 +16303,29 @@ _detalhes_global = {
 					607865, -- [5]
 					["id"] = 1871,
 				},
-				["226194"] = {
-					"Xavius", -- [1]
-					"226194", -- [2]
-					"扭动深渊", -- [3]
-					12.4223602484472, -- [4]
-					1357812, -- [5]
-					["id"] = 1864,
+				["203028"] = {
+					"Dragons of Nightmare", -- [1]
+					"203028", -- [2]
+					"腐化吐息", -- [3]
+					17, -- [4]
+					136123, -- [5]
+					["id"] = 1854,
 				},
-				["86930"] = {
-					"Asaad", -- [1]
-					"86930", -- [2]
-					"极限风暴", -- [3]
-					10, -- [4]
-					136050, -- [5]
-					["id"] = 1042,
-				},
-				["191284"] = {
+				["193235"] = {
 					"Hymdall", -- [1]
-					"191284", -- [2]
-					"勇气号角", -- [3]
-					8, -- [4]
-					134229, -- [5]
+					"193235", -- [2]
+					"舞动之刃", -- [3]
+					3.3, -- [4]
+					135408, -- [5]
 					["id"] = 1805,
+				},
+				["dread_felbat"] = {
+					"General Xakal", -- [1]
+					"dread_felbat", -- [2]
+					"恐惧魔蝠", -- [3]
+					20, -- [4]
+					"Interface\\Icons\\inv_felbatmount", -- [5]
+					["id"] = 1828,
 				},
 				["202217"] = {
 					"Anub'esset", -- [1]
@@ -10434,13 +16351,13 @@ _detalhes_global = {
 					237583, -- [5]
 					["id"] = 1793,
 				},
-				["227503"] = {
-					"Odyn-TrialOfValor", -- [1]
-					"227503", -- [2]
-					"吸取能量", -- [3]
-					45, -- [4]
-					236247, -- [5]
-					["id"] = 1958,
+				["237276"] = {
+					"Thrashbite the Scornful", -- [1]
+					"237276", -- [2]
+					"粉碎之击", -- [3]
+					6.1, -- [4]
+					132340, -- [5]
+					["id"] = 2057,
 				},
 				["206515"] = {
 					"Gul'dan", -- [1]
@@ -10450,29 +16367,29 @@ _detalhes_global = {
 					841219, -- [5]
 					["id"] = 1866,
 				},
-				["136990"] = {
-					"Council of Elders", -- [1]
-					"136990", -- [2]
-					"霜寒刺骨", -- [3]
-					9.7, -- [4]
-					609814, -- [5]
-					["id"] = 1570,
+				["218774"] = {
+					"High Botanist Tel'arn", -- [1]
+					"218774", -- [2]
+					"召唤离子球", -- [3]
+					12, -- [4]
+					525024, -- [5]
+					["id"] = 1886,
 				},
-				["213564"] = {
-					"Spellblade Aluriel", -- [1]
-					"213564", -- [2]
-					"复生：奥术宝珠", -- [3]
-					55, -- [4]
-					1033906, -- [5]
-					["id"] = 1871,
-				},
-				["205549"] = {
-					"Naraxas", -- [1]
-					"205549", -- [2]
-					"腐坏之喉", -- [3]
+				["201240"] = {
+					"Millificent Manastorm", -- [1]
+					"201240", -- [2]
+					"源质松鼠炸弹", -- [3]
 					7, -- [4]
-					136007, -- [5]
-					["id"] = 1792,
+					133709, -- [5]
+					["id"] = 1847,
+				},
+				["221164"] = {
+					"Nighthold Trash", -- [1]
+					"221164", -- [2]
+					"<施放：爆雷> ", -- [3]
+					5, -- [4]
+					462651, -- [5]
+					["id"] = 1865,
 				},
 				["194333"] = {
 					"Glazer", -- [1]
@@ -10522,29 +16439,29 @@ _detalhes_global = {
 					1391677, -- [5]
 					["id"] = 1829,
 				},
-				["227776"] = {
-					"Opera Hall: Wikket", -- [1]
-					"227776", -- [2]
-					"魔法威仪", -- [3]
-					48.5, -- [4]
-					1391779, -- [5]
-					["id"] = 1957,
+				["-7631"] = {
+					"Twin Consorts", -- [1]
+					"-7631", -- [2]
+					"星辰弹幕", -- [3]
+					14, -- [4]
+					135786, -- [5]
+					["id"] = 1560,
 				},
-				["213238"] = {
-					"Tichondrius", -- [1]
-					"213238", -- [2]
-					"寻踪虫群（1）", -- [3]
-					27, -- [4]
-					136128, -- [5]
-					["id"] = 1862,
+				["209973"] = {
+					"Grand Magistrix Elisande", -- [1]
+					"209973", -- [2]
+					"消融爆破", -- [3]
+					12, -- [4]
+					135728, -- [5]
+					["id"] = 1872,
 				},
-				["215062"] = {
-					"Trilliax", -- [1]
-					"215062", -- [2]
-					"印记：>毒性薄片<", -- [3]
-					15.8, -- [4]
-					237360, -- [5]
-					["id"] = 1867,
+				["200284"] = {
+					"Naltira", -- [1]
+					"200284", -- [2]
+					"缠绕之网", -- [3]
+					35, -- [4]
+					237431, -- [5]
+					["id"] = 1826,
 				},
 				["-7643"] = {
 					"Twin Consorts", -- [1]
@@ -10562,13 +16479,13 @@ _detalhes_global = {
 					135861, -- [5]
 					["id"] = 1812,
 				},
-				["-7080"] = {
-					"Horridon", -- [1]
-					"-7080", -- [2]
-					"冲锋", -- [3]
-					33, -- [4]
-					132335, -- [5]
-					["id"] = 1575,
+				["227233"] = {
+					"Helya", -- [1]
+					"227233", -- [2]
+					"腐化咆哮", -- [3]
+					22, -- [4]
+					136183, -- [5]
+					["id"] = 1824,
 				},
 				["214348"] = {
 					"Elerethe Renferal", -- [1]
@@ -10586,21 +16503,21 @@ _detalhes_global = {
 					1041232, -- [5]
 					["id"] = 1886,
 				},
-				["201672"] = {
-					"Shivermaw", -- [1]
-					"201672", -- [2]
-					"无情风暴", -- [3]
-					9, -- [4]
-					1033907, -- [5]
-					["id"] = 1845,
+				["136294"] = {
+					"Tortos", -- [1]
+					"136294", -- [2]
+					"托多斯的召唤", -- [3]
+					21, -- [4]
+					798557, -- [5]
+					["id"] = 1565,
 				},
-				["dread_felbat"] = {
-					"General Xakal", -- [1]
-					"dread_felbat", -- [2]
-					"恐惧魔蝠", -- [3]
-					20, -- [4]
-					"Interface\\Icons\\inv_felbatmount", -- [5]
-					["id"] = 1828,
+				["227776"] = {
+					"Opera Hall: Wikket", -- [1]
+					"227776", -- [2]
+					"魔法威仪", -- [3]
+					48.5, -- [4]
+					1391779, -- [5]
+					["id"] = 1957,
 				},
 				["207720"] = {
 					"Star Augur Etraeus", -- [1]
@@ -10618,13 +16535,13 @@ _detalhes_global = {
 					537444, -- [5]
 					["id"] = 1876,
 				},
-				["209973"] = {
-					"Grand Magistrix Elisande", -- [1]
-					"209973", -- [2]
-					"消融爆破", -- [3]
-					12, -- [4]
-					135728, -- [5]
-					["id"] = 1872,
+				["191325"] = {
+					"Dresaron", -- [1]
+					"191325", -- [2]
+					"腐化之息", -- [3]
+					13.5, -- [4]
+					1357794, -- [5]
+					["id"] = 1838,
 				},
 				["211927"] = {
 					"Chronomatic Anomaly", -- [1]
@@ -10634,13 +16551,13 @@ _detalhes_global = {
 					1125916, -- [5]
 					["id"] = 1865,
 				},
-				["136294"] = {
-					"Tortos", -- [1]
-					"136294", -- [2]
-					"托多斯的召唤", -- [3]
-					21, -- [4]
-					798557, -- [5]
-					["id"] = 1565,
+				["136894"] = {
+					"Council of Elders", -- [1]
+					"136894", -- [2]
+					"沙尘暴", -- [3]
+					38, -- [4]
+					796638, -- [5]
+					["id"] = 1570,
 				},
 				["212794"] = {
 					"Tichondrius", -- [1]
@@ -10682,29 +16599,29 @@ _detalhes_global = {
 					606549, -- [5]
 					["id"] = 1814,
 				},
-				["205588"] = {
-					"Xavius", -- [1]
-					"205588", -- [2]
-					"梦魇召唤", -- [3]
-					18, -- [4]
-					1357812, -- [5]
-					["id"] = 1864,
+				["193668"] = {
+					"God-King Skovald", -- [1]
+					"193668", -- [2]
+					"狂野之剑", -- [3]
+					47, -- [4]
+					135271, -- [5]
+					["id"] = 1808,
 				},
-				["197969"] = {
-					"Ursoc", -- [1]
-					"197969", -- [2]
-					"震耳喧嚣（1）", -- [3]
-					40, -- [4]
-					136195, -- [5]
-					["id"] = 1841,
+				["227568"] = {
+					"Opera Hall: Westfall Story", -- [1]
+					"227568", -- [2]
+					"燃烧扫堂腿", -- [3]
+					8.5, -- [4]
+					459027, -- [5]
+					["id"] = 1957,
 				},
-				["-7631"] = {
-					"Twin Consorts", -- [1]
-					"-7631", -- [2]
-					"星辰弹幕", -- [3]
-					14, -- [4]
-					135786, -- [5]
-					["id"] = 1560,
+				["196543"] = {
+					"Fenryr", -- [1]
+					"196543", -- [2]
+					"挫志嚎叫", -- [3]
+					30, -- [4]
+					1033494, -- [5]
+					["id"] = 1807,
 				},
 				["137175"] = {
 					"Jin'rokh the Breaker", -- [1]
@@ -10714,13 +16631,13 @@ _detalhes_global = {
 					463444, -- [5]
 					["id"] = 1577,
 				},
-				["223655"] = {
-					"Nighthold Trash", -- [1]
-					"223655", -- [2]
-					"软泥突袭：>大胸妹么么大*<", -- [3]
-					10, -- [4]
-					236271, -- [5]
-					["id"] = 1867,
+				["206365"] = {
+					"Tichondrius", -- [1]
+					"206365", -- [2]
+					"幻象之夜（1）", -- [3]
+					130, -- [4]
+					607852, -- [5]
+					["id"] = 1862,
 				},
 				["216024"] = {
 					"Tichondrius", -- [1]
@@ -10730,37 +16647,37 @@ _detalhes_global = {
 					135734, -- [5]
 					["id"] = 1862,
 				},
-				["227992"] = {
-					"Helya-TrialOfValor", -- [1]
-					"227992", -- [2]
-					"<施放：毒水消融>", -- [3]
-					25.5, -- [4]
-					893778, -- [5]
-					["id"] = 2008,
+				["136366"] = {
+					"Lei Shen", -- [1]
+					"136366", -- [2]
+					"弹跳闪电", -- [3]
+					14, -- [4]
+					462651, -- [5]
+					["id"] = 1579,
 				},
-				["208230"] = {
-					"Tichondrius", -- [1]
-					"208230", -- [2]
-					"鲜血盛宴（1）", -- [3]
-					20, -- [4]
-					538039, -- [5]
-					["id"] = 1862,
+				["191284"] = {
+					"Hymdall", -- [1]
+					"191284", -- [2]
+					"勇气号角", -- [3]
+					8, -- [4]
+					134229, -- [5]
+					["id"] = 1805,
 				},
-				["add"] = {
-					"Gothik the Harvester", -- [1]
-					"add", -- [2]
-					"学徒 - 1", -- [3]
-					27, -- [4]
-					"Interface\\Icons\\Ability_Seal", -- [5]
-					["id"] = 1109,
+				["227297"] = {
+					"Mana Devourer", -- [1]
+					"227297", -- [2]
+					"凝聚能量", -- [3]
+					30.3, -- [4]
+					237551, -- [5]
+					["id"] = 1959,
 				},
-				["59513"] = {
-					"Prince Taldaram", -- [1]
-					"59513", -- [2]
-					"吸血鬼的拥抱", -- [3]
-					20, -- [4]
-					136129, -- [5]
-					["id"] = 1966,
+				["138339"] = {
+					"Ra-den", -- [1]
+					"138339", -- [2]
+					"召唤龟裂追踪者", -- [3]
+					8, -- [4]
+					237007, -- [5]
+					["id"] = 1581,
 				},
 				["77333"] = {
 					"Iron Qon", -- [1]
@@ -10786,13 +16703,13 @@ _detalhes_global = {
 					136025, -- [5]
 					["id"] = 1085,
 				},
-				["211261"] = {
-					"Grand Magistrix Elisande", -- [1]
-					"211261", -- [2]
-					"透心折磨（1）", -- [3]
-					23, -- [4]
-					1041232, -- [5]
-					["id"] = 1872,
+				["worm"] = {
+					"Ra-den", -- [1]
+					"worm", -- [2]
+					"血色恐魔", -- [3]
+					8, -- [4]
+					236197, -- [5]
+					["id"] = 1581,
 				},
 				["196562"] = {
 					"Ivanyr", -- [1]
@@ -10818,29 +16735,29 @@ _detalhes_global = {
 					252174, -- [5]
 					["id"] = 1577,
 				},
-				["193566"] = {
-					"Ymiron", -- [1]
-					"193566", -- [2]
-					"亡者复生", -- [3]
-					41.2, -- [4]
-					136187, -- [5]
-					["id"] = 1822,
+				["corruptedballs"] = {
+					"Ra-den", -- [1]
+					"corruptedballs", -- [2]
+					"腐化心能", -- [3]
+					16, -- [4]
+					538744, -- [5]
+					["id"] = 1581,
 				},
-				["201240"] = {
-					"Millificent Manastorm", -- [1]
-					"201240", -- [2]
-					"源质松鼠炸弹", -- [3]
-					7, -- [4]
-					133709, -- [5]
-					["id"] = 1847,
+				["-6891"] = {
+					"Durumu the Forgotten", -- [1]
+					"-6891", -- [2]
+					"光谱排列", -- [3]
+					41, -- [4]
+					134139, -- [5]
+					["id"] = 1572,
 				},
-				["136894"] = {
-					"Council of Elders", -- [1]
-					"136894", -- [2]
-					"沙尘暴", -- [3]
-					38, -- [4]
-					796638, -- [5]
-					["id"] = 1570,
+				["206939"] = {
+					"Gul'dan", -- [1]
+					"206939", -- [2]
+					"灵魂之井", -- [3]
+					15.2, -- [4]
+					136194, -- [5]
+					["id"] = 1866,
 				},
 				["59835"] = {
 					"Loken", -- [1]
@@ -10850,21 +16767,21 @@ _detalhes_global = {
 					136050, -- [5]
 					["id"] = 1986,
 				},
-				["227985"] = {
-					"Opera Hall: Beautiful Beast", -- [1]
-					"227985", -- [2]
-					"削弱护甲", -- [3]
-					15.8, -- [4]
-					132358, -- [5]
-					["id"] = 1957,
+				["74981"] = {
+					"Forgemaster Throngus", -- [1]
+					"74981", -- [2]
+					"双持利刃", -- [3]
+					30, -- [4]
+					132147, -- [5]
+					["id"] = 1050,
 				},
-				["193235"] = {
-					"Hymdall", -- [1]
-					"193235", -- [2]
-					"舞动之刃", -- [3]
-					3.3, -- [4]
-					135408, -- [5]
-					["id"] = 1805,
+				["add"] = {
+					"Gothik the Harvester", -- [1]
+					"add", -- [2]
+					"学徒 - 1", -- [3]
+					27, -- [4]
+					"Interface\\Icons\\Ability_Seal", -- [5]
+					["id"] = 1109,
 				},
 				["221875"] = {
 					"Star Augur Etraeus", -- [1]
@@ -10890,13 +16807,13 @@ _detalhes_global = {
 					1022950, -- [5]
 					["id"] = 1823,
 				},
-				["nightmare_horror"] = {
-					"Il'gynoth", -- [1]
-					"nightmare_horror", -- [2]
-					"梦魇恐魔", -- [3]
-					65, -- [4]
-					463569, -- [5]
-					["id"] = 1873,
+				["208672"] = {
+					"Gul'dan", -- [1]
+					"208672", -- [2]
+					"腐肉波浪", -- [3]
+					6.1, -- [4]
+					136128, -- [5]
+					["id"] = 1866,
 				},
 				["198079"] = {
 					"Smashspite", -- [1]
@@ -10914,29 +16831,29 @@ _detalhes_global = {
 					237541, -- [5]
 					["id"] = 1958,
 				},
-				["136366"] = {
+				["213564"] = {
+					"Spellblade Aluriel", -- [1]
+					"213564", -- [2]
+					"复生：奥术宝珠", -- [3]
+					55, -- [4]
+					1033906, -- [5]
+					["id"] = 1871,
+				},
+				["135695"] = {
 					"Lei Shen", -- [1]
-					"136366", -- [2]
-					"弹跳闪电", -- [3]
-					14, -- [4]
-					462651, -- [5]
+					"135695", -- [2]
+					"静电冲击", -- [3]
+					19, -- [4]
+					237587, -- [5]
 					["id"] = 1579,
 				},
-				["corruptedballs"] = {
-					"Ra-den", -- [1]
-					"corruptedballs", -- [2]
-					"腐化心能", -- [3]
-					16, -- [4]
-					538744, -- [5]
-					["id"] = 1581,
-				},
-				["136192"] = {
-					"Iron Qon", -- [1]
-					"136192", -- [2]
-					"闪电风暴", -- [3]
-					20, -- [4]
-					134922, -- [5]
-					["id"] = 1559,
+				["submerge"] = {
+					"The Beasts of Northrend", -- [1]
+					"submerge", -- [2]
+					"潜地", -- [3]
+					45, -- [4]
+					"Interface\\Icons\\INV_Misc_MonsterScales_18", -- [5]
+					["id"] = 1088,
 				},
 				["136442"] = {
 					"Council of Elders", -- [1]
@@ -10946,13 +16863,13 @@ _detalhes_global = {
 					625907, -- [5]
 					["id"] = 1570,
 				},
-				["218438"] = {
-					"High Botanist Tel'arn", -- [1]
-					"218438", -- [2]
-					"约束混沌", -- [3]
-					35, -- [4]
-					429383, -- [5]
-					["id"] = 1886,
+				["-6969"] = {
+					"Primordius", -- [1]
+					"-6969", -- [2]
+					"黑血", -- [3]
+					12, -- [4]
+					576309, -- [5]
+					["id"] = 1574,
 				},
 				["206936"] = {
 					"Star Augur Etraeus", -- [1]
@@ -10962,53 +16879,53 @@ _detalhes_global = {
 					612394, -- [5]
 					["id"] = 1863,
 				},
-				["worm"] = {
+				["207881"] = {
+					"Talixae Flamewreath", -- [1]
+					"207881", -- [2]
+					"地狱喷发", -- [3]
+					19, -- [4]
+					451164, -- [5]
+					["id"] = 1869,
+				},
+				["-13767"] = {
+					"Skorpyron", -- [1]
+					"-13767", -- [2]
+					"红模式", -- [3]
+					22, -- [4]
+					1003591, -- [5]
+					["id"] = 1849,
+				},
+				["194956"] = {
+					"Amalgam of Souls", -- [1]
+					"194956", -- [2]
+					"收割灵魂", -- [3]
+					20.4, -- [4]
+					237507, -- [5]
+					["id"] = 1832,
+				},
+				["200040"] = {
+					"Naltira", -- [1]
+					"200040", -- [2]
+					"虚空毒液", -- [3]
+					26, -- [4]
+					237155, -- [5]
+					["id"] = 1826,
+				},
+				["unstablevitajumptarget"] = {
 					"Ra-den", -- [1]
-					"worm", -- [2]
-					"血色恐魔", -- [3]
-					8, -- [4]
-					236197, -- [5]
+					"unstablevitajumptarget", -- [2]
+					">你< 不稳定的生命！", -- [3]
+					5, -- [4]
+					136049, -- [5]
 					["id"] = 1581,
 				},
-				["221164"] = {
-					"Nighthold Trash", -- [1]
-					"221164", -- [2]
-					"<施放：爆雷> ", -- [3]
-					5, -- [4]
-					462651, -- [5]
-					["id"] = 1865,
-				},
-				["202088"] = {
-					"Helya", -- [1]
-					"202088", -- [2]
-					"死水弹幕", -- [3]
-					15.6, -- [4]
-					135862, -- [5]
-					["id"] = 1824,
-				},
-				["237276"] = {
-					"Thrashbite the Scornful", -- [1]
-					"237276", -- [2]
-					"粉碎之击", -- [3]
-					6.1, -- [4]
-					132340, -- [5]
-					["id"] = 2057,
-				},
-				["227297"] = {
-					"Mana Devourer", -- [1]
-					"227297", -- [2]
-					"凝聚能量", -- [3]
-					30.3, -- [4]
-					237551, -- [5]
-					["id"] = 1959,
-				},
-				["135695"] = {
-					"Lei Shen", -- [1]
-					"135695", -- [2]
-					"静电冲击", -- [3]
-					19, -- [4]
-					237587, -- [5]
-					["id"] = 1579,
+				["nightmare_horror"] = {
+					"Il'gynoth", -- [1]
+					"nightmare_horror", -- [2]
+					"梦魇恐魔", -- [3]
+					65, -- [4]
+					463569, -- [5]
+					["id"] = 1873,
 				},
 				["228877"] = {
 					"Grand Magistrix Elisande", -- [1]
@@ -11026,61 +16943,61 @@ _detalhes_global = {
 					135769, -- [5]
 					["id"] = 1089,
 				},
-				["-6969"] = {
-					"Primordius", -- [1]
-					"-6969", -- [2]
-					"黑血", -- [3]
-					12, -- [4]
-					576309, -- [5]
-					["id"] = 1574,
+				["136192"] = {
+					"Iron Qon", -- [1]
+					"136192", -- [2]
+					"闪电风暴", -- [3]
+					20, -- [4]
+					134922, -- [5]
+					["id"] = 1559,
 				},
-				["212530"] = {
-					"Spellblade Aluriel", -- [1]
-					"212530", -- [2]
-					"复制：冰霜印记", -- [3]
-					41, -- [4]
-					135732, -- [5]
-					["id"] = 1871,
-				},
-				["139458"] = {
-					"Megaera", -- [1]
-					"139458", -- [2]
-					"即将>狂暴<！", -- [3]
-					5, -- [4]
-					463493, -- [5]
-					["id"] = 1578,
-				},
-				["200040"] = {
-					"Naltira", -- [1]
-					"200040", -- [2]
-					"虚空毒液", -- [3]
-					26, -- [4]
-					237155, -- [5]
-					["id"] = 1826,
-				},
-				["215128"] = {
-					"Il'gynoth", -- [1]
-					"215128", -- [2]
-					"诅咒之血", -- [3]
-					15, -- [4]
-					237515, -- [5]
-					["id"] = 1873,
-				},
-				["194956"] = {
+				["196587"] = {
 					"Amalgam of Souls", -- [1]
-					"194956", -- [2]
-					"收割灵魂", -- [3]
-					20.4, -- [4]
-					237507, -- [5]
+					"196587", -- [2]
+					"灵魂爆发", -- [3]
+					27.5, -- [4]
+					1120185, -- [5]
 					["id"] = 1832,
 				},
-				["207881"] = {
-					"Talixae Flamewreath", -- [1]
-					"207881", -- [2]
-					"地狱喷发", -- [3]
-					19, -- [4]
-					451164, -- [5]
-					["id"] = 1869,
+				["207261"] = {
+					"Patrol Captain Gerdo", -- [1]
+					"207261", -- [2]
+					"共鸣挥砍", -- [3]
+					6, -- [4]
+					135734, -- [5]
+					["id"] = 1868,
+				},
+				["202088"] = {
+					"Helya", -- [1]
+					"202088", -- [2]
+					"死水弹幕", -- [3]
+					15.6, -- [4]
+					135862, -- [5]
+					["id"] = 1824,
+				},
+				["215062"] = {
+					"Trilliax", -- [1]
+					"215062", -- [2]
+					"印记：>毒性薄片<", -- [3]
+					15.8, -- [4]
+					237360, -- [5]
+					["id"] = 1867,
+				},
+				["136295"] = {
+					"Lei Shen", -- [1]
+					"136295", -- [2]
+					"超载", -- [3]
+					7, -- [4]
+					839979, -- [5]
+					["id"] = 1579,
+				},
+				["202977"] = {
+					"Nythendra", -- [1]
+					"202977", -- [2]
+					"感染吐息", -- [3]
+					37, -- [4]
+					538518, -- [5]
+					["id"] = 1853,
 				},
 				["136037"] = {
 					"Primordius", -- [1]
@@ -11090,21 +17007,21 @@ _detalhes_global = {
 					370770, -- [5]
 					["id"] = 1574,
 				},
-				["203028"] = {
-					"Dragons of Nightmare", -- [1]
-					"203028", -- [2]
-					"腐化吐息", -- [3]
-					17, -- [4]
-					136123, -- [5]
-					["id"] = 1854,
+				["223655"] = {
+					"Nighthold Trash", -- [1]
+					"223655", -- [2]
+					"软泥突袭：>大胸妹么么大*<", -- [3]
+					10, -- [4]
+					236271, -- [5]
+					["id"] = 1867,
 				},
-				["206651"] = {
-					"Xavius", -- [1]
-					"206651", -- [2]
-					"晦暗灵魂", -- [3]
-					7.5, -- [4]
-					1396972, -- [5]
-					["id"] = 1864,
+				["215128"] = {
+					"Il'gynoth", -- [1]
+					"215128", -- [2]
+					"诅咒之血", -- [3]
+					15, -- [4]
+					237515, -- [5]
+					["id"] = 1873,
 				},
 				["207630"] = {
 					"Trilliax", -- [1]
@@ -11122,30 +17039,6 @@ _detalhes_global = {
 					959803, -- [5]
 					["id"] = 2055,
 				},
-				["226821"] = {
-					"Cenarius", -- [1]
-					"226821", -- [2]
-					"脱水践踏（1）", -- [3]
-					20, -- [4]
-					1357801, -- [5]
-					["id"] = 1877,
-				},
-				["136295"] = {
-					"Lei Shen", -- [1]
-					"136295", -- [2]
-					"超载", -- [3]
-					7, -- [4]
-					839979, -- [5]
-					["id"] = 1579,
-				},
-				["201355"] = {
-					"Shivermaw", -- [1]
-					"201355", -- [2]
-					"飞翼打击", -- [3]
-					20.5, -- [4]
-					134155, -- [5]
-					["id"] = 1845,
-				},
 				["adds"] = {
 					"Tichondrius", -- [1]
 					"adds", -- [2]
@@ -11153,62 +17046,6 @@ _detalhes_global = {
 					185.7, -- [4]
 					1100041, -- [5]
 					["id"] = 1862,
-				},
-				["137221"] = {
-					"Iron Qon", -- [1]
-					"137221", -- [2]
-					"<施放：熔火过载>", -- [3]
-					10, -- [4]
-					615339, -- [5]
-					["id"] = 1559,
-				},
-				["210547"] = {
-					"Elerethe Renferal", -- [1]
-					"210547", -- [2]
-					"剃刀之翼", -- [3]
-					60, -- [4]
-					132918, -- [5]
-					["id"] = 1876,
-				},
-				["227508"] = {
-					"Maiden of Virtue", -- [1]
-					"227508", -- [2]
-					"<施放：群体忏悔>", -- [3]
-					5, -- [4]
-					135942, -- [5]
-					["id"] = 1954,
-				},
-				["206788"] = {
-					"Trilliax", -- [1]
-					"206788", -- [2]
-					"毒性薄片", -- [3]
-					11, -- [4]
-					237360, -- [5]
-					["id"] = 1867,
-				},
-				["192517"] = {
-					"Ashgolm", -- [1]
-					"192517", -- [2]
-					"脆弱", -- [3]
-					20, -- [4]
-					460686, -- [5]
-					["id"] = 1816,
-				},
-				["-7062"] = {
-					"Council of Elders", -- [1]
-					"-7062", -- [2]
-					"流沙", -- [3]
-					7, -- [4]
-					796634, -- [5]
-					["id"] = 1570,
-				},
-				["135145"] = {
-					"Iron Qon", -- [1]
-					"135145", -- [2]
-					"即将>冻结<！", -- [3]
-					5, -- [4]
-					135838, -- [5]
-					["id"] = 1559,
 				},
 				["205233"] = {
 					"Fel Lord Betrug", -- [1]
@@ -11218,13 +17055,93 @@ _detalhes_global = {
 					135358, -- [5]
 					["id"] = 1856,
 				},
-				["203147"] = {
-					"Dragons of Nightmare", -- [1]
-					"203147", -- [2]
-					"梦魇冲击", -- [3]
-					16, -- [4]
-					237561, -- [5]
-					["id"] = 1854,
+				["201355"] = {
+					"Shivermaw", -- [1]
+					"201355", -- [2]
+					"飞翼打击", -- [3]
+					20.5, -- [4]
+					134155, -- [5]
+					["id"] = 1845,
+				},
+				["136990"] = {
+					"Council of Elders", -- [1]
+					"136990", -- [2]
+					"霜寒刺骨", -- [3]
+					9.7, -- [4]
+					609814, -- [5]
+					["id"] = 1570,
+				},
+				["206788"] = {
+					"Trilliax", -- [1]
+					"206788", -- [2]
+					"毒性薄片", -- [3]
+					11, -- [4]
+					237360, -- [5]
+					["id"] = 1867,
+				},
+				["210547"] = {
+					"Elerethe Renferal", -- [1]
+					"210547", -- [2]
+					"剃刀之翼", -- [3]
+					60, -- [4]
+					132918, -- [5]
+					["id"] = 1876,
+				},
+				["134926"] = {
+					"Iron Qon", -- [1]
+					"134926", -- [2]
+					"投掷长矛", -- [3]
+					33, -- [4]
+					307704, -- [5]
+					["id"] = 1559,
+				},
+				["213238"] = {
+					"Tichondrius", -- [1]
+					"213238", -- [2]
+					"寻踪虫群（1）", -- [3]
+					27, -- [4]
+					136128, -- [5]
+					["id"] = 1862,
+				},
+				["192517"] = {
+					"Ashgolm", -- [1]
+					"192517", -- [2]
+					"脆弱", -- [3]
+					20, -- [4]
+					460686, -- [5]
+					["id"] = 1816,
+				},
+				["berserk"] = {
+					"Skorpyron", -- [1]
+					"berserk", -- [2]
+					"狂暴", -- [3]
+					542, -- [4]
+					136224, -- [5]
+					["id"] = 1849,
+				},
+				["135145"] = {
+					"Iron Qon", -- [1]
+					"135145", -- [2]
+					"即将>冻结<！", -- [3]
+					5, -- [4]
+					135838, -- [5]
+					["id"] = 1559,
+				},
+				["137313"] = {
+					"Jin'rokh the Breaker", -- [1]
+					"137313", -- [2]
+					"闪电风暴", -- [3]
+					93, -- [4]
+					237589, -- [5]
+					["id"] = 1577,
+				},
+				["194323"] = {
+					"Glazer", -- [1]
+					"194323", -- [2]
+					"聚焦", -- [3]
+					32, -- [4]
+					132177, -- [5]
+					["id"] = 1817,
 				},
 				["205649"] = {
 					"Star Augur Etraeus", -- [1]
@@ -11234,13 +17151,13 @@ _detalhes_global = {
 					841218, -- [5]
 					["id"] = 1863,
 				},
-				["202455"] = {
-					"Inquisitor Tormentorum", -- [1]
-					"202455", -- [2]
-					"首领 >虚空之盾<！", -- [3]
-					10, -- [4]
-					132886, -- [5]
-					["id"] = 1850,
+				["227985"] = {
+					"Opera Hall: Beautiful Beast", -- [1]
+					"227985", -- [2]
+					"削弱护甲", -- [3]
+					15.8, -- [4]
+					132358, -- [5]
+					["id"] = 1957,
 				},
 				["221606"] = {
 					"Gul'dan", -- [1]
@@ -11258,13 +17175,13 @@ _detalhes_global = {
 					839983, -- [5]
 					["id"] = 1958,
 				},
-				["136850"] = {
-					"Lei Shen", -- [1]
-					"136850", -- [2]
-					"闪电之鞭", -- [3]
-					29, -- [4]
-					839977, -- [5]
-					["id"] = 1579,
+				["198073"] = {
+					"Smashspite", -- [1]
+					"198073", -- [2]
+					"大地践踏", -- [3]
+					12, -- [4]
+					132368, -- [5]
+					["id"] = 1834,
 				},
 				["133597"] = {
 					"Durumu the Forgotten", -- [1]
@@ -11274,13 +17191,13 @@ _detalhes_global = {
 					136138, -- [5]
 					["id"] = 1572,
 				},
-				["59795"] = {
-					"Ionar", -- [1]
-					"59795", -- [2]
-					"静电过载：>天呐灬真高*<", -- [3]
-					10, -- [4]
-					136050, -- [5]
-					["id"] = 1984,
+				["198077"] = {
+					"Odyn", -- [1]
+					"198077", -- [2]
+					"击碎长枪", -- [3]
+					40, -- [4]
+					612968, -- [5]
+					["id"] = 1809,
 				},
 				["235751"] = {
 					"Agronox", -- [1]
@@ -11290,13 +17207,13 @@ _detalhes_global = {
 					132318, -- [5]
 					["id"] = 2055,
 				},
-				["198073"] = {
-					"Smashspite", -- [1]
-					"198073", -- [2]
-					"大地践踏", -- [3]
-					12, -- [4]
-					132368, -- [5]
-					["id"] = 1834,
+				["202455"] = {
+					"Inquisitor Tormentorum", -- [1]
+					"202455", -- [2]
+					"首领 >虚空之盾<！", -- [3]
+					10, -- [4]
+					132886, -- [5]
+					["id"] = 1850,
 				},
 				["198635"] = {
 					"Kurtalos Ravencrest", -- [1]
@@ -11306,13 +17223,13 @@ _detalhes_global = {
 					1278100, -- [5]
 					["id"] = 1835,
 				},
-				["198077"] = {
-					"Odyn", -- [1]
-					"198077", -- [2]
-					"击碎长枪", -- [3]
-					40, -- [4]
-					612968, -- [5]
-					["id"] = 1809,
+				["104936"] = {
+					"Alizabal", -- [1]
+					"104936", -- [2]
+					"刺穿或沸腾之怨", -- [3]
+					7, -- [4]
+					132090, -- [5]
+					["id"] = 1332,
 				},
 				["203552"] = {
 					"Nythendra", -- [1]
@@ -11346,21 +17263,21 @@ _detalhes_global = {
 					135981, -- [5]
 					["id"] = 1886,
 				},
-				["209170"] = {
-					"Grand Magistrix Elisande", -- [1]
-					"209170", -- [2]
-					"异域奇点（1）", -- [3]
-					25, -- [4]
-					135735, -- [5]
-					["id"] = 1872,
+				["136850"] = {
+					"Lei Shen", -- [1]
+					"136850", -- [2]
+					"闪电之鞭", -- [3]
+					29, -- [4]
+					839977, -- [5]
+					["id"] = 1579,
 				},
-				["196838"] = {
-					"Fenryr", -- [1]
-					"196838", -- [2]
-					"血之气息", -- [3]
-					34, -- [4]
-					841383, -- [5]
-					["id"] = 1807,
+				["fear"] = {
+					"Nighthold Trash", -- [1]
+					"fear", -- [2]
+					"恐惧：>灬無拘灬*<", -- [3]
+					10, -- [4]
+					1386549, -- [5]
+					["id"] = 1862,
 				},
 				["204574"] = {
 					"Oakheart", -- [1]
@@ -11370,13 +17287,13 @@ _detalhes_global = {
 					458176, -- [5]
 					["id"] = 1837,
 				},
-				["137313"] = {
-					"Jin'rokh the Breaker", -- [1]
-					"137313", -- [2]
-					"闪电风暴", -- [3]
-					93, -- [4]
-					237589, -- [5]
-					["id"] = 1577,
+				["138780"] = {
+					"Dark Animus", -- [1]
+					"138780", -- [2]
+					"强化魔像", -- [3]
+					7, -- [4]
+					460957, -- [5]
+					["id"] = 1576,
 				},
 				["204100"] = {
 					"Dragons of Nightmare", -- [1]
@@ -11410,13 +17327,13 @@ _detalhes_global = {
 					524305, -- [5]
 					["id"] = 1576,
 				},
-				["194323"] = {
-					"Glazer", -- [1]
-					"194323", -- [2]
-					"聚焦", -- [3]
-					32, -- [4]
-					132177, -- [5]
-					["id"] = 1817,
+				["214529"] = {
+					"Cenarius", -- [1]
+					"214529", -- [2]
+					"梦魇之矛", -- [3]
+					23, -- [4]
+					1357799, -- [5]
+					["id"] = 1877,
 				},
 				["198446"] = {
 					"Smashspite", -- [1]
@@ -11450,21 +17367,21 @@ _detalhes_global = {
 					607512, -- [5]
 					["id"] = 1866,
 				},
-				["196947"] = {
-					"Helya", -- [1]
-					"196947", -- [2]
-					"下潜", -- [3]
-					15, -- [4]
-					463570, -- [5]
-					["id"] = 1824,
+				["96884"] = {
+					"Occu'thar", -- [1]
+					"96884", -- [2]
+					"下一集火", -- [3]
+					13.1, -- [4]
+					425951, -- [5]
+					["id"] = 1250,
 				},
-				["fear"] = {
-					"Nighthold Trash", -- [1]
-					"fear", -- [2]
-					"恐惧：>灬無拘灬*<", -- [3]
-					10, -- [4]
-					1386549, -- [5]
-					["id"] = 1862,
+				["197556"] = {
+					"Fenryr", -- [1]
+					"197556", -- [2]
+					"掠食飞扑", -- [3]
+					31, -- [4]
+					1029718, -- [5]
+					["id"] = 1807,
 				},
 				["218304"] = {
 					"High Botanist Tel'arn", -- [1]
@@ -11474,21 +17391,21 @@ _detalhes_global = {
 					538515, -- [5]
 					["id"] = 1886,
 				},
-				["135991"] = {
-					"Lei Shen", -- [1]
-					"135991", -- [2]
-					"散射闪电链", -- [3]
-					6, -- [4]
-					136049, -- [5]
-					["id"] = 1579,
+				["193092"] = {
+					"Hymdall", -- [1]
+					"193092", -- [2]
+					"放血扫击", -- [3]
+					16, -- [4]
+					589068, -- [5]
+					["id"] = 1805,
 				},
-				["193018"] = {
-					"King Deepbeard", -- [1]
-					"193018", -- [2]
-					"气体泡泡", -- [3]
-					12, -- [4]
-					893778, -- [5]
-					["id"] = 1812,
+				["212681"] = {
+					"Cenarius", -- [1]
+					"212681", -- [2]
+					"净化大地", -- [3]
+					11, -- [4]
+					136074, -- [5]
+					["id"] = 1877,
 				},
 				["234817"] = {
 					"Mephistroth", -- [1]
@@ -11506,13 +17423,13 @@ _detalhes_global = {
 					537026, -- [5]
 					["id"] = 1570,
 				},
-				["211615"] = {
-					"Trilliax", -- [1]
-					"211615", -- [2]
-					">你< 吸取活力！", -- [3]
-					45, -- [4]
-					237587, -- [5]
-					["id"] = 1867,
+				["192094"] = {
+					"Warlord Parjesh", -- [1]
+					"192094", -- [2]
+					"穿刺之矛", -- [3]
+					29, -- [4]
+					135130, -- [5]
+					["id"] = 1810,
 				},
 				["197810"] = {
 					"General Xakal", -- [1]
@@ -11522,21 +17439,21 @@ _detalhes_global = {
 					1109118, -- [5]
 					["id"] = 1828,
 				},
-				["207278"] = {
-					"Patrol Captain Gerdo", -- [1]
-					"207278", -- [2]
-					"奥术锁定", -- [3]
-					27, -- [4]
-					1041230, -- [5]
-					["id"] = 1868,
+				["210984"] = {
+					"Il'gynoth", -- [1]
+					"210984", -- [2]
+					"命运之眼", -- [3]
+					13.8, -- [4]
+					1357799, -- [5]
+					["id"] = 1873,
 				},
-				["211152"] = {
-					"Gul'dan", -- [1]
-					"211152", -- [2]
-					"（强化）古尔丹之眼（3）", -- [3]
-					1.68799999996554, -- [4]
-					971290, -- [5]
-					["id"] = 1866,
+				["233155"] = {
+					"Mephistroth", -- [1]
+					"233155", -- [2]
+					"腐臭蜂群", -- [3]
+					18.1, -- [4]
+					136128, -- [5]
+					["id"] = 2039,
 				},
 				["195254"] = {
 					"Amalgam of Souls", -- [1]
@@ -11554,13 +17471,13 @@ _detalhes_global = {
 					537253, -- [5]
 					["id"] = 1961,
 				},
-				["133939"] = {
-					"Tortos", -- [1]
-					"133939", -- [2]
-					"狂暴岩石吐息", -- [3]
-					46, -- [4]
-					463521, -- [5]
-					["id"] = 1565,
+				["199143"] = {
+					"Kurtalos Ravencrest", -- [1]
+					"199143", -- [2]
+					"催眠之云", -- [3]
+					30.8, -- [4]
+					136182, -- [5]
+					["id"] = 1835,
 				},
 				["213852"] = {
 					"Spellblade Aluriel", -- [1]
@@ -11570,13 +17487,13 @@ _detalhes_global = {
 					135732, -- [5]
 					["id"] = 1871,
 				},
-				["196376"] = {
-					"Archdruid Glaidalis", -- [1]
-					"196376", -- [2]
-					"痛苦撕扯", -- [3]
-					5, -- [4]
-					132133, -- [5]
-					["id"] = 1836,
+				["213083"] = {
+					"Spellblade Aluriel", -- [1]
+					"213083", -- [2]
+					"<施放：寒冰暴雨>", -- [3]
+					12, -- [4]
+					629077, -- [5]
+					["id"] = 1871,
 				},
 				["201159"] = {
 					"Millificent Manastorm", -- [1]
@@ -11586,13 +17503,13 @@ _detalhes_global = {
 					892834, -- [5]
 					["id"] = 1847,
 				},
-				["199143"] = {
-					"Kurtalos Ravencrest", -- [1]
-					"199143", -- [2]
-					"催眠之云", -- [3]
-					30.8, -- [4]
-					136182, -- [5]
-					["id"] = 1835,
+				["196376"] = {
+					"Archdruid Glaidalis", -- [1]
+					"196376", -- [2]
+					"痛苦撕扯", -- [3]
+					5, -- [4]
+					132133, -- [5]
+					["id"] = 1836,
 				},
 				["197546"] = {
 					"Illysanna Ravencrest", -- [1]
@@ -11602,13 +17519,13 @@ _detalhes_global = {
 					1138466, -- [5]
 					["id"] = 1833,
 				},
-				["193092"] = {
-					"Hymdall", -- [1]
-					"193092", -- [2]
-					"放血扫击", -- [3]
-					16, -- [4]
-					589068, -- [5]
-					["id"] = 1805,
+				["211152"] = {
+					"Gul'dan", -- [1]
+					"211152", -- [2]
+					"（强化）古尔丹之眼（3）", -- [3]
+					1.68799999996554, -- [4]
+					971290, -- [5]
+					["id"] = 1866,
 				},
 				["202062"] = {
 					"Shivermaw", -- [1]
@@ -11626,21 +17543,21 @@ _detalhes_global = {
 					135824, -- [5]
 					["id"] = 1966,
 				},
-				["197556"] = {
-					"Fenryr", -- [1]
-					"197556", -- [2]
-					"掠食飞扑", -- [3]
-					31, -- [4]
-					1029718, -- [5]
-					["id"] = 1807,
+				["sprays"] = {
+					"The Beasts of Northrend", -- [1]
+					"sprays", -- [2]
+					"<下一喷溅>", -- [3]
+					10, -- [4]
+					136186, -- [5]
+					["id"] = 1088,
 				},
-				["225943"] = {
-					"Nythendra", -- [1]
-					"225943", -- [2]
-					"感染意志", -- [3]
-					49, -- [4]
-					892448, -- [5]
-					["id"] = 1853,
+				["212784"] = {
+					"Court of Stars Trash", -- [1]
+					"212784", -- [2]
+					"<施放：眼球风暴>", -- [3]
+					8, -- [4]
+					136032, -- [5]
+					["id"] = 1869,
 				},
 				["focused_power"] = {
 					"Shade of Medivh", -- [1]
@@ -11650,29 +17567,13 @@ _detalhes_global = {
 					"Interface\\Icons\\ability_mage_greaterinvisibility", -- [5]
 					["id"] = 1965,
 				},
-				["212681"] = {
-					"Cenarius", -- [1]
-					"212681", -- [2]
-					"净化大地", -- [3]
-					11, -- [4]
-					136074, -- [5]
-					["id"] = 1877,
-				},
-				["192094"] = {
-					"Warlord Parjesh", -- [1]
-					"192094", -- [2]
-					"穿刺之矛", -- [3]
-					29, -- [4]
-					135130, -- [5]
-					["id"] = 1810,
-				},
-				["222761"] = {
-					"Star Augur Etraeus", -- [1]
-					"222761", -- [2]
-					"大爆炸", -- [3]
-					231.5, -- [4]
-					1029583, -- [5]
-					["id"] = 1863,
+				["227783"] = {
+					"Opera Hall: Westfall Story", -- [1]
+					"227783", -- [2]
+					"冲刷", -- [3]
+					15.5, -- [4]
+					237590, -- [5]
+					["id"] = 1957,
 				},
 				["206896"] = {
 					"Gul'dan", -- [1]
@@ -11682,29 +17583,45 @@ _detalhes_global = {
 					607512, -- [5]
 					["id"] = 1866,
 				},
-				["233155"] = {
-					"Mephistroth", -- [1]
-					"233155", -- [2]
-					"腐臭蜂群", -- [3]
-					18.1, -- [4]
-					136128, -- [5]
-					["id"] = 2039,
+				["222761"] = {
+					"Star Augur Etraeus", -- [1]
+					"222761", -- [2]
+					"大爆炸", -- [3]
+					231.5, -- [4]
+					1029583, -- [5]
+					["id"] = 1863,
 				},
-				["sprays"] = {
-					"The Beasts of Northrend", -- [1]
-					"sprays", -- [2]
-					"<下一喷溅>", -- [3]
-					10, -- [4]
-					136186, -- [5]
-					["id"] = 1088,
+				["227410"] = {
+					"Opera Hall: Wikket", -- [1]
+					"227410", -- [2]
+					"神奇辐光", -- [3]
+					8.5, -- [4]
+					1391780, -- [5]
+					["id"] = 1957,
 				},
-				["-12727"] = {
-					"Ashgolm", -- [1]
-					"-12727", -- [2]
-					"反制机关", -- [3]
-					7.5, -- [4]
-					"Interface\\Icons\\ability_monk_counteractmagic", -- [5]
-					["id"] = 1816,
+				["196947"] = {
+					"Helya", -- [1]
+					"196947", -- [2]
+					"下潜", -- [3]
+					15, -- [4]
+					463570, -- [5]
+					["id"] = 1824,
+				},
+				["225927"] = {
+					"Nighthold Trash", -- [1]
+					"225927", -- [2]
+					"重力井", -- [3]
+					23, -- [4]
+					135860, -- [5]
+					["id"] = 1871,
+				},
+				["smashingBridge"] = {
+					"Krosus", -- [1]
+					"smashingBridge", -- [2]
+					"断桥（1）", -- [3]
+					93, -- [4]
+					135906, -- [5]
+					["id"] = 1842,
 				},
 				["227987"] = {
 					"Opera Hall: Beautiful Beast", -- [1]
@@ -11722,29 +17639,13 @@ _detalhes_global = {
 					651728, -- [5]
 					["id"] = 1581,
 				},
-				["breaths"] = {
-					"Megaera", -- [1]
-					"breaths", -- [2]
-					"火息术", -- [3]
-					5, -- [4]
-					134154, -- [5]
-					["id"] = 1578,
-				},
-				["smashingBridge"] = {
-					"Krosus", -- [1]
-					"smashingBridge", -- [2]
-					"断桥（1）", -- [3]
-					93, -- [4]
-					135906, -- [5]
-					["id"] = 1842,
-				},
-				["197943"] = {
-					"Ursoc", -- [1]
-					"197943", -- [2]
-					"压制", -- [3]
-					10, -- [4]
-					132358, -- [5]
-					["id"] = 1841,
+				["225943"] = {
+					"Nythendra", -- [1]
+					"225943", -- [2]
+					"感染意志", -- [3]
+					49, -- [4]
+					892448, -- [5]
+					["id"] = 1853,
 				},
 				["228025"] = {
 					"Opera Hall: Beautiful Beast", -- [1]
@@ -11753,6 +17654,22 @@ _detalhes_global = {
 					30, -- [4]
 					136196, -- [5]
 					["id"] = 1957,
+				},
+				["138644"] = {
+					"Dark Animus", -- [1]
+					"138644", -- [2]
+					"心能虹吸（1）", -- [3]
+					120, -- [4]
+					838812, -- [5]
+					["id"] = 1576,
+				},
+				["197943"] = {
+					"Ursoc", -- [1]
+					"197943", -- [2]
+					"压制", -- [3]
+					10, -- [4]
+					132358, -- [5]
+					["id"] = 1841,
 				},
 				["209602"] = {
 					"Advisor Melandrus", -- [1]
@@ -11778,14 +17695,6 @@ _detalhes_global = {
 					1357812, -- [5]
 					["id"] = 1877,
 				},
-				["227646"] = {
-					"Moroes", -- [1]
-					"227646", -- [2]
-					"钢铁旋风", -- [3]
-					4.5, -- [4]
-					460959, -- [5]
-					["id"] = 1961,
-				},
 				["227967"] = {
 					"Helya-TrialOfValor", -- [1]
 					"227967", -- [2]
@@ -11793,6 +17702,14 @@ _detalhes_global = {
 					13.3, -- [4]
 					132104, -- [5]
 					["id"] = 2008,
+				},
+				["227646"] = {
+					"Moroes", -- [1]
+					"227646", -- [2]
+					"钢铁旋风", -- [3]
+					4.5, -- [4]
+					460959, -- [5]
+					["id"] = 1961,
 				},
 				["212258"] = {
 					"Gul'dan", -- [1]
@@ -11826,13 +17743,13 @@ _detalhes_global = {
 					1396970, -- [5]
 					["id"] = 1864,
 				},
-				["228054"] = {
-					"Helya-TrialOfValor", -- [1]
-					"228054", -- [2]
-					"海洋污染（1）", -- [3]
-					21.8, -- [4]
-					136030, -- [5]
-					["id"] = 2008,
+				["105784"] = {
+					"Alizabal", -- [1]
+					"105784", -- [2]
+					"刃舞", -- [3]
+					35, -- [4]
+					236303, -- [5]
+					["id"] = 1332,
 				},
 				["212364"] = {
 					"Elerethe Renferal", -- [1]
@@ -11842,13 +17759,21 @@ _detalhes_global = {
 					132196, -- [5]
 					["id"] = 1876,
 				},
-				["138644"] = {
-					"Dark Animus", -- [1]
-					"138644", -- [2]
-					"心能虹吸（1）", -- [3]
-					120, -- [4]
-					838812, -- [5]
-					["id"] = 1576,
+				["205741"] = {
+					"Xavius", -- [1]
+					"205741", -- [2]
+					"潜袭喷发", -- [3]
+					18, -- [4]
+					1396977, -- [5]
+					["id"] = 1864,
+				},
+				["228054"] = {
+					"Helya-TrialOfValor", -- [1]
+					"228054", -- [2]
+					"海洋污染（1）", -- [3]
+					21.8, -- [4]
+					136030, -- [5]
+					["id"] = 2008,
 				},
 				["215443"] = {
 					"Elerethe Renferal", -- [1]
@@ -11866,14 +17791,6 @@ _detalhes_global = {
 					1508064, -- [5]
 					["id"] = 1958,
 				},
-				["213275"] = {
-					"Spellblade Aluriel", -- [1]
-					"213275", -- [2]
-					"引爆：灼热烙印", -- [3]
-					48, -- [4]
-					135811, -- [5]
-					["id"] = 1871,
-				},
 				["229307"] = {
 					"Nightbane", -- [1]
 					"229307", -- [2]
@@ -11882,13 +17799,13 @@ _detalhes_global = {
 					462324, -- [5]
 					["id"] = 2031,
 				},
-				["59529"] = {
-					"Volkhan", -- [1]
-					"59529", -- [2]
-					"粉碎践踏", -- [3]
-					3, -- [4]
-					132368, -- [5]
-					["id"] = 1985,
+				["213275"] = {
+					"Spellblade Aluriel", -- [1]
+					"213275", -- [2]
+					"引爆：灼热烙印", -- [3]
+					48, -- [4]
+					135811, -- [5]
+					["id"] = 1871,
 				},
 				["210879"] = {
 					"Fel Lord Betrug", -- [1]
@@ -11906,13 +17823,13 @@ _detalhes_global = {
 					133783, -- [5]
 					["id"] = 1957,
 				},
-				["105784"] = {
-					"Alizabal", -- [1]
-					"105784", -- [2]
-					"刃舞", -- [3]
-					35, -- [4]
-					236303, -- [5]
-					["id"] = 1332,
+				["59529"] = {
+					"Volkhan", -- [1]
+					"59529", -- [2]
+					"粉碎践踏", -- [3]
+					3, -- [4]
+					132368, -- [5]
+					["id"] = 1985,
 				},
 				["196392"] = {
 					"Ivanyr", -- [1]
@@ -11921,14 +17838,6 @@ _detalhes_global = {
 					37.5, -- [4]
 					136208, -- [5]
 					["id"] = 1827,
-				},
-				["205741"] = {
-					"Xavius", -- [1]
-					"205741", -- [2]
-					"潜袭喷发", -- [3]
-					18, -- [4]
-					1396977, -- [5]
-					["id"] = 1864,
 				},
 				["135150"] = {
 					"Lei Shen", -- [1]
@@ -11946,14 +17855,6 @@ _detalhes_global = {
 					655172, -- [5]
 					["id"] = 1849,
 				},
-				["87618"] = {
-					"Asaad", -- [1]
-					"87618", -- [2]
-					"静电缠握", -- [3]
-					1.25, -- [4]
-					237587, -- [5]
-					["id"] = 1042,
-				},
 				["212492"] = {
 					"Spellblade Aluriel", -- [1]
 					"212492", -- [2]
@@ -11962,61 +17863,13 @@ _detalhes_global = {
 					135642, -- [5]
 					["id"] = 1871,
 				},
-				["236527"] = {
-					"Agronox", -- [1]
-					"236527", -- [2]
-					"狂暴的鞭笞者", -- [3]
-					11, -- [4]
-					135263, -- [5]
-					["id"] = 2055,
-				},
-				["stages"] = {
-					"Trilliax", -- [1]
-					"stages", -- [2]
-					"狂热者", -- [3]
-					45, -- [4]
-					629711, -- [5]
-					["id"] = 1867,
-				},
-				["205862"] = {
-					"Krosus", -- [1]
-					"205862", -- [2]
-					"猛击（1）", -- [3]
-					33, -- [4]
-					135906, -- [5]
-					["id"] = 1842,
-				},
-				["206517"] = {
-					"Star Augur Etraeus", -- [1]
-					"206517", -- [2]
-					"邪能新星（1）", -- [3]
-					58.6, -- [4]
-					1117883, -- [5]
-					["id"] = 1863,
-				},
-				["202328"] = {
-					"Fel Lord Betrug", -- [1]
-					"202328", -- [2]
-					"<施放：强力碾压>", -- [3]
-					3, -- [4]
-					132338, -- [5]
-					["id"] = 1856,
-				},
-				["193597"] = {
-					"Lady Hatecoil", -- [1]
-					"193597", -- [2]
-					"静电新星", -- [3]
-					10, -- [4]
+				["87618"] = {
+					"Asaad", -- [1]
+					"87618", -- [2]
+					"静电缠握", -- [3]
+					1.25, -- [4]
 					237587, -- [5]
-					["id"] = 1811,
-				},
-				["229945"] = {
-					"Gul'dan", -- [1]
-					"229945", -- [2]
-					"邪能方尖碑", -- [3]
-					23, -- [4]
-					1118739, -- [5]
-					["id"] = 1866,
+					["id"] = 1042,
 				},
 				["204767"] = {
 					"Dragons of Nightmare", -- [1]
@@ -12026,6 +17879,62 @@ _detalhes_global = {
 					136123, -- [5]
 					["id"] = 1854,
 				},
+				["stages"] = {
+					"Trilliax", -- [1]
+					"stages", -- [2]
+					"狂热者", -- [3]
+					45, -- [4]
+					629711, -- [5]
+					["id"] = 1867,
+				},
+				["236527"] = {
+					"Agronox", -- [1]
+					"236527", -- [2]
+					"狂暴的鞭笞者", -- [3]
+					11, -- [4]
+					135263, -- [5]
+					["id"] = 2055,
+				},
+				["205862"] = {
+					"Krosus", -- [1]
+					"205862", -- [2]
+					"猛击（1）", -- [3]
+					33, -- [4]
+					135906, -- [5]
+					["id"] = 1842,
+				},
+				["202328"] = {
+					"Fel Lord Betrug", -- [1]
+					"202328", -- [2]
+					"<施放：强力碾压>", -- [3]
+					3, -- [4]
+					132338, -- [5]
+					["id"] = 1856,
+				},
+				["206517"] = {
+					"Star Augur Etraeus", -- [1]
+					"206517", -- [2]
+					"邪能新星（1）", -- [3]
+					58.6, -- [4]
+					1117883, -- [5]
+					["id"] = 1863,
+				},
+				["198263"] = {
+					"Odyn", -- [1]
+					"198263", -- [2]
+					"明光风暴", -- [3]
+					24, -- [4]
+					236250, -- [5]
+					["id"] = 1809,
+				},
+				["193597"] = {
+					"Lady Hatecoil", -- [1]
+					"193597", -- [2]
+					"静电新星", -- [3]
+					10, -- [4]
+					237587, -- [5]
+					["id"] = 1811,
+				},
 				["193977"] = {
 					"Ymiron", -- [1]
 					"193977", -- [2]
@@ -12034,13 +17943,21 @@ _detalhes_global = {
 					135833, -- [5]
 					["id"] = 1822,
 				},
-				["75664"] = {
-					"Erudax", -- [1]
-					"75664", -- [2]
-					"暗影飓风", -- [3]
+				["206514"] = {
+					"Gul'dan", -- [1]
+					"206514", -- [2]
+					"邪能挥发", -- [3]
+					11, -- [4]
+					841219, -- [5]
+					["id"] = 1866,
+				},
+				["206609"] = {
+					"Chronomatic Anomaly", -- [1]
+					"206609", -- [2]
+					"时间释放", -- [3]
 					5, -- [4]
-					136201, -- [5]
-					["id"] = 1049,
+					413594, -- [5]
+					["id"] = 1865,
 				},
 				["expedient_elemental"] = {
 					"Grand Magistrix Elisande", -- [1]
@@ -12058,13 +17975,13 @@ _detalhes_global = {
 					1357794, -- [5]
 					["id"] = 1837,
 				},
-				["206609"] = {
-					"Chronomatic Anomaly", -- [1]
-					"206609", -- [2]
-					"时间释放", -- [3]
+				["75664"] = {
+					"Erudax", -- [1]
+					"75664", -- [2]
+					"暗影飓风", -- [3]
 					5, -- [4]
-					413594, -- [5]
-					["id"] = 1865,
+					136201, -- [5]
+					["id"] = 1049,
 				},
 				["227404"] = {
 					"Attumen the Huntsman", -- [1]
@@ -12082,12 +17999,12 @@ _detalhes_global = {
 					136025, -- [5]
 					["id"] = 1812,
 				},
-				["206675"] = {
+				["229945"] = {
 					"Gul'dan", -- [1]
-					"206675", -- [2]
-					"<施放：破碎精华>", -- [3]
-					3, -- [4]
-					1109118, -- [5]
+					"229945", -- [2]
+					"邪能方尖碑", -- [3]
+					23, -- [4]
+					1118739, -- [5]
 					["id"] = 1866,
 				},
 				["228808"] = {
@@ -12098,6 +18015,14 @@ _detalhes_global = {
 					135819, -- [5]
 					["id"] = 2031,
 				},
+				["206675"] = {
+					"Gul'dan", -- [1]
+					"206675", -- [2]
+					"<施放：破碎精华>", -- [3]
+					3, -- [4]
+					1109118, -- [5]
+					["id"] = 1866,
+				},
 				["209166"] = {
 					"Grand Magistrix Elisande", -- [1]
 					"209166", -- [2]
@@ -12105,14 +18030,6 @@ _detalhes_global = {
 					30, -- [4]
 					648208, -- [5]
 					["id"] = 1872,
-				},
-				["198263"] = {
-					"Odyn", -- [1]
-					"198263", -- [2]
-					"明光风暴", -- [3]
-					24, -- [4]
-					236250, -- [5]
-					["id"] = 1809,
 				},
 				["blob"] = {
 					"Lady Hatecoil", -- [1]
@@ -12194,13 +18111,13 @@ _detalhes_global = {
 					236154, -- [5]
 					["id"] = 1579,
 				},
-				["69172"] = {
-					"Scourgelord Tyrannus", -- [1]
-					"69172", -- [2]
-					"天灾领主的烙印：>纠结小类人<", -- [3]
-					8, -- [4]
-					237567, -- [5]
-					["id"] = 2000,
+				["218927"] = {
+					"High Botanist Tel'arn", -- [1]
+					"218927", -- [2]
+					"自然的恩惠", -- [3]
+					10.5, -- [4]
+					136074, -- [5]
+					["id"] = 1886,
 				},
 				["134626"] = {
 					"Durumu the Forgotten", -- [1]
@@ -12234,13 +18151,21 @@ _detalhes_global = {
 					1396968, -- [5]
 					["id"] = 1864,
 				},
-				["233196"] = {
-					"Mephistroth", -- [1]
-					"233196", -- [2]
-					"恶魔突起", -- [3]
-					3.5, -- [4]
-					1118739, -- [5]
-					["id"] = 2039,
+				["210346"] = {
+					"Cenarius", -- [1]
+					"210346", -- [2]
+					"恐惧荆棘光环", -- [3]
+					6, -- [4]
+					1357798, -- [5]
+					["id"] = 1877,
+				},
+				["212707"] = {
+					"Elerethe Renferal", -- [1]
+					"212707", -- [2]
+					"召云聚气", -- [3]
+					15.7, -- [4]
+					132188, -- [5]
+					["id"] = 1876,
 				},
 				["195804"] = {
 					"Corstilax", -- [1]
@@ -12250,14 +18175,6 @@ _detalhes_global = {
 					458245, -- [5]
 					["id"] = 1825,
 				},
-				["206820"] = {
-					"Trilliax", -- [1]
-					"206820", -- [2]
-					"净化之怒", -- [3]
-					10.5, -- [4]
-					132345, -- [5]
-					["id"] = 1867,
-				},
 				["202341"] = {
 					"Anub'esset", -- [1]
 					"202341", -- [2]
@@ -12265,14 +18182,6 @@ _detalhes_global = {
 					22, -- [4]
 					132090, -- [5]
 					["id"] = 1852,
-				},
-				["192617"] = {
-					"Wrath of Azshara", -- [1]
-					"192617", -- [2]
-					"强力激流", -- [3]
-					12, -- [4]
-					893778, -- [5]
-					["id"] = 1814,
 				},
 				["192072"] = {
 					"Warlord Parjesh", -- [1]
@@ -12282,6 +18191,14 @@ _detalhes_global = {
 					298644, -- [5]
 					["id"] = 1810,
 				},
+				["-6914"] = {
+					"Iron Qon", -- [1]
+					"-6914", -- [2]
+					"攻击盲区", -- [3]
+					7, -- [4]
+					135728, -- [5]
+					["id"] = 1559,
+				},
 				["206480"] = {
 					"Tichondrius", -- [1]
 					"206480", -- [2]
@@ -12289,14 +18206,6 @@ _detalhes_global = {
 					7, -- [4]
 					1029009, -- [5]
 					["id"] = 1862,
-				},
-				["243124"] = {
-					"Thrashbite the Scornful", -- [1]
-					"243124", -- [2]
-					"投掷战槌", -- [3]
-					15.8, -- [4]
-					1084435, -- [5]
-					["id"] = 2057,
 				},
 				["214505"] = {
 					"Cenarius", -- [1]
@@ -12306,13 +18215,21 @@ _detalhes_global = {
 					1357814, -- [5]
 					["id"] = 1877,
 				},
-				["227672"] = {
-					"Moroes", -- [1]
-					"227672", -- [2]
-					"意志摧毁者", -- [3]
-					10.5, -- [4]
-					132351, -- [5]
-					["id"] = 1961,
+				["192617"] = {
+					"Wrath of Azshara", -- [1]
+					"192617", -- [2]
+					"强力激流", -- [3]
+					12, -- [4]
+					893778, -- [5]
+					["id"] = 1814,
+				},
+				["227254"] = {
+					"The Curator", -- [1]
+					"227254", -- [2]
+					"<施放：唤醒>", -- [3]
+					20, -- [4]
+					135729, -- [5]
+					["id"] = 1964,
 				},
 				["201354"] = {
 					"Shivermaw", -- [1]
@@ -12338,13 +18255,13 @@ _detalhes_global = {
 					136025, -- [5]
 					["id"] = 1565,
 				},
-				["206589"] = {
-					"Star Augur Etraeus", -- [1]
-					"206589", -- [2]
-					">你< 冰冻！", -- [3]
-					12, -- [4]
-					236208, -- [5]
-					["id"] = 1863,
+				["227672"] = {
+					"Moroes", -- [1]
+					"227672", -- [2]
+					"意志摧毁者", -- [3]
+					10.5, -- [4]
+					132351, -- [5]
+					["id"] = 1961,
 				},
 				["202779"] = {
 					"Thalena", -- [1]
@@ -12362,13 +18279,13 @@ _detalhes_global = {
 					136222, -- [5]
 					["id"] = 2012,
 				},
-				["210346"] = {
-					"Cenarius", -- [1]
-					"210346", -- [2]
-					"恐惧荆棘光环", -- [3]
-					6, -- [4]
-					1357798, -- [5]
-					["id"] = 1877,
+				["243124"] = {
+					"Thrashbite the Scornful", -- [1]
+					"243124", -- [2]
+					"投掷战槌", -- [3]
+					15.8, -- [4]
+					1084435, -- [5]
+					["id"] = 2057,
 				},
 				["198108"] = {
 					"Ursoc", -- [1]
@@ -12394,21 +18311,21 @@ _detalhes_global = {
 					135800, -- [5]
 					["id"] = 1851,
 				},
-				["198495"] = {
-					"Helya", -- [1]
-					"198495", -- [2]
-					"洪流", -- [3]
-					10, -- [4]
-					135861, -- [5]
-					["id"] = 1824,
+				["205984"] = {
+					"Star Augur Etraeus", -- [1]
+					"205984", -- [2]
+					"重力之引", -- [3]
+					30, -- [4]
+					1041234, -- [5]
+					["id"] = 1863,
 				},
-				["197422"] = {
-					"Cordana Felsong", -- [1]
-					"197422", -- [2]
-					"<施放：末日恶灵>", -- [3]
-					35, -- [4]
-					1022944, -- [5]
-					["id"] = 1818,
+				["206589"] = {
+					"Star Augur Etraeus", -- [1]
+					"206589", -- [2]
+					">你< 冰冻！", -- [3]
+					12, -- [4]
+					236208, -- [5]
+					["id"] = 1863,
 				},
 				["203787"] = {
 					"Dragons of Nightmare", -- [1]
@@ -12418,13 +18335,13 @@ _detalhes_global = {
 					135914, -- [5]
 					["id"] = 1854,
 				},
-				["227254"] = {
-					"The Curator", -- [1]
-					"227254", -- [2]
-					"<施放：唤醒>", -- [3]
-					20, -- [4]
-					135729, -- [5]
-					["id"] = 1964,
+				["197422"] = {
+					"Cordana Felsong", -- [1]
+					"197422", -- [2]
+					"<施放：末日恶灵>", -- [3]
+					35, -- [4]
+					1022944, -- [5]
+					["id"] = 1818,
 				},
 				["138333"] = {
 					"Ra-den", -- [1]
@@ -12442,6 +18359,14 @@ _detalhes_global = {
 					1041234, -- [5]
 					["id"] = 1863,
 				},
+				["136741"] = {
+					"Horridon", -- [1]
+					"136741", -- [2]
+					"双重扫击", -- [3]
+					19, -- [4]
+					237402, -- [5]
+					["id"] = 1575,
+				},
 				["197365"] = {
 					"Wrath of Azshara", -- [1]
 					"197365", -- [2]
@@ -12457,14 +18382,6 @@ _detalhes_global = {
 					10, -- [4]
 					530806, -- [5]
 					["id"] = 1873,
-				},
-				["139180"] = {
-					"Iron Qon", -- [1]
-					"139180", -- [2]
-					"冰刺", -- [3]
-					13, -- [4]
-					135845, -- [5]
-					["id"] = 1559,
 				},
 				["193211"] = {
 					"Ymiron", -- [1]
@@ -12490,21 +18407,21 @@ _detalhes_global = {
 					609815, -- [5]
 					["id"] = 1825,
 				},
-				["136741"] = {
-					"Horridon", -- [1]
-					"136741", -- [2]
-					"双重扫击", -- [3]
-					19, -- [4]
-					237402, -- [5]
-					["id"] = 1575,
+				["193659"] = {
+					"God-King Skovald", -- [1]
+					"193659", -- [2]
+					"邪炽冲刺", -- [3]
+					8.5, -- [4]
+					1096201, -- [5]
+					["id"] = 1808,
 				},
-				["205984"] = {
-					"Star Augur Etraeus", -- [1]
-					"205984", -- [2]
-					"重力之引", -- [3]
-					30, -- [4]
-					1041234, -- [5]
-					["id"] = 1863,
+				["139180"] = {
+					"Iron Qon", -- [1]
+					"139180", -- [2]
+					"冰刺", -- [3]
+					13, -- [4]
+					135845, -- [5]
+					["id"] = 1559,
 				},
 				["237726"] = {
 					"Thrashbite the Scornful", -- [1]
@@ -12514,14 +18431,6 @@ _detalhes_global = {
 					132284, -- [5]
 					["id"] = 2057,
 				},
-				["205370"] = {
-					"Krosus", -- [1]
-					"205370", -- [2]
-					"射线（1）", -- [3]
-					11, -- [4]
-					841219, -- [5]
-					["id"] = 1842,
-				},
 				["236524"] = {
 					"Agronox", -- [1]
 					"236524", -- [2]
@@ -12530,13 +18439,21 @@ _detalhes_global = {
 					132371, -- [5]
 					["id"] = 2055,
 				},
-				["193659"] = {
-					"God-King Skovald", -- [1]
-					"193659", -- [2]
-					"邪炽冲刺", -- [3]
-					8.5, -- [4]
-					1096201, -- [5]
-					["id"] = 1808,
+				["205370"] = {
+					"Krosus", -- [1]
+					"205370", -- [2]
+					"射线（1）", -- [3]
+					11, -- [4]
+					841219, -- [5]
+					["id"] = 1842,
+				},
+				["198495"] = {
+					"Helya", -- [1]
+					"198495", -- [2]
+					"洪流", -- [3]
+					10, -- [4]
+					135861, -- [5]
+					["id"] = 1824,
 				},
 				["227883"] = {
 					"Guarm-TrialOfValor", -- [1]
@@ -12586,13 +18503,13 @@ _detalhes_global = {
 					1022950, -- [5]
 					["id"] = 1876,
 				},
-				["224333"] = {
-					"Advisor Melandrus", -- [1]
-					"224333", -- [2]
-					"包围之风", -- [3]
-					10, -- [4]
-					1029595, -- [5]
-					["id"] = 1870,
+				["206820"] = {
+					"Trilliax", -- [1]
+					"206820", -- [2]
+					"净化之怒", -- [3]
+					10.5, -- [4]
+					132345, -- [5]
+					["id"] = 1867,
 				},
 				["-6882"] = {
 					"Durumu the Forgotten", -- [1]
@@ -12618,21 +18535,21 @@ _detalhes_global = {
 					"Interface\\Icons\\misc_arrowdown", -- [5]
 					["id"] = 1573,
 				},
-				["-6914"] = {
-					"Iron Qon", -- [1]
-					"-6914", -- [2]
-					"攻击盲区", -- [3]
-					7, -- [4]
-					135728, -- [5]
-					["id"] = 1559,
+				["233196"] = {
+					"Mephistroth", -- [1]
+					"233196", -- [2]
+					"恶魔突起", -- [3]
+					3.5, -- [4]
+					1118739, -- [5]
+					["id"] = 2039,
 				},
-				["212707"] = {
-					"Elerethe Renferal", -- [1]
-					"212707", -- [2]
-					"召云聚气", -- [3]
-					15.7, -- [4]
-					132188, -- [5]
-					["id"] = 1876,
+				["224333"] = {
+					"Advisor Melandrus", -- [1]
+					"224333", -- [2]
+					"包围之风", -- [3]
+					10, -- [4]
+					1029595, -- [5]
+					["id"] = 1870,
 				},
 				["69275"] = {
 					"Scourgelord Tyrannus", -- [1]
@@ -12650,13 +18567,13 @@ _detalhes_global = {
 					462324, -- [5]
 					["id"] = 1873,
 				},
-				["218927"] = {
-					"High Botanist Tel'arn", -- [1]
-					"218927", -- [2]
-					"自然的恩惠", -- [3]
-					10.5, -- [4]
-					136074, -- [5]
-					["id"] = 1886,
+				["69172"] = {
+					"Scourgelord Tyrannus", -- [1]
+					"69172", -- [2]
+					"天灾领主的烙印：>纠结小类人<", -- [3]
+					8, -- [4]
+					237567, -- [5]
+					["id"] = 2000,
 				},
 				["203381"] = {
 					"Thalena", -- [1]
@@ -12714,14 +18631,6 @@ _detalhes_global = {
 					236422, -- [5]
 					["id"] = 1810,
 				},
-				["210150"] = {
-					"Naraxas", -- [1]
-					"210150", -- [2]
-					"毒性污秽", -- [3]
-					12, -- [4]
-					136016, -- [5]
-					["id"] = 1792,
-				},
 				["218809"] = {
 					"High Botanist Tel'arn", -- [1]
 					"218809", -- [2]
@@ -12729,6 +18638,14 @@ _detalhes_global = {
 					20, -- [4]
 					135752, -- [5]
 					["id"] = 1886,
+				},
+				["210150"] = {
+					"Naraxas", -- [1]
+					"210150", -- [2]
+					"毒性污秽", -- [3]
+					12, -- [4]
+					136016, -- [5]
+					["id"] = 1792,
 				},
 				["orb_ranged"] = {
 					"Helya-TrialOfValor", -- [1]
@@ -12850,13 +18767,13 @@ _detalhes_global = {
 					"Interface\\Icons\\achievement_thenighthold_grandmagistrixelisande", -- [5]
 					["id"] = 1872,
 				},
-				["202974"] = {
-					"Advisor Vandros", -- [1]
-					"202974", -- [2]
-					"力场炸弹", -- [3]
-					29, -- [4]
-					1041235, -- [5]
-					["id"] = 1829,
+				["breaths"] = {
+					"Megaera", -- [1]
+					"breaths", -- [2]
+					"火息术", -- [3]
+					5, -- [4]
+					134154, -- [5]
+					["id"] = 1578,
 				},
 				["227800"] = {
 					"Maiden of Virtue", -- [1]
@@ -12874,13 +18791,13 @@ _detalhes_global = {
 					254104, -- [5]
 					["id"] = 1867,
 				},
-				["96884"] = {
-					"Occu'thar", -- [1]
-					"96884", -- [2]
-					"下一集火", -- [3]
-					13.1, -- [4]
-					425951, -- [5]
-					["id"] = 1250,
+				["40683"] = {
+					"Illidan Stormrage", -- [1]
+					"40683", -- [2]
+					"狂乱", -- [3]
+					75, -- [4]
+					136224, -- [5]
+					["id"] = 609,
 				},
 				["134370"] = {
 					"Ji-Kun", -- [1]
@@ -12898,13 +18815,13 @@ _detalhes_global = {
 					236189, -- [5]
 					["id"] = 1575,
 				},
-				["227410"] = {
-					"Opera Hall: Wikket", -- [1]
-					"227410", -- [2]
-					"神奇辐光", -- [3]
-					8.5, -- [4]
-					1391780, -- [5]
-					["id"] = 1957,
+				["211615"] = {
+					"Trilliax", -- [1]
+					"211615", -- [2]
+					">你< 吸取活力！", -- [3]
+					45, -- [4]
+					237587, -- [5]
+					["id"] = 1867,
 				},
 				["-6877"] = {
 					"Iron Qon", -- [1]
@@ -12922,13 +18839,13 @@ _detalhes_global = {
 					612968, -- [5]
 					["id"] = 1958,
 				},
-				["138780"] = {
-					"Dark Animus", -- [1]
-					"138780", -- [2]
-					"强化魔像", -- [3]
-					7, -- [4]
-					460957, -- [5]
-					["id"] = 1576,
+				["188114"] = {
+					"Rokmora", -- [1]
+					"188114", -- [2]
+					"碎裂", -- [3]
+					24, -- [4]
+					451165, -- [5]
+					["id"] = 1790,
 				},
 				["236650"] = {
 					"Agronox", -- [1]
@@ -12954,37 +18871,37 @@ _detalhes_global = {
 					1386548, -- [5]
 					["id"] = 1959,
 				},
-				["213083"] = {
-					"Spellblade Aluriel", -- [1]
-					"213083", -- [2]
-					"<施放：寒冰暴雨>", -- [3]
+				["133939"] = {
+					"Tortos", -- [1]
+					"133939", -- [2]
+					"狂暴岩石吐息", -- [3]
+					46, -- [4]
+					463521, -- [5]
+					["id"] = 1565,
+				},
+				["193018"] = {
+					"King Deepbeard", -- [1]
+					"193018", -- [2]
+					"气体泡泡", -- [3]
 					12, -- [4]
-					629077, -- [5]
-					["id"] = 1871,
+					893778, -- [5]
+					["id"] = 1812,
 				},
-				["188114"] = {
-					"Rokmora", -- [1]
-					"188114", -- [2]
-					"碎裂", -- [3]
-					24, -- [4]
-					451165, -- [5]
-					["id"] = 1790,
+				["39872"] = {
+					"High Warlord Naj'entus", -- [1]
+					"39872", -- [2]
+					"海潮之盾", -- [3]
+					60, -- [4]
+					136017, -- [5]
+					["id"] = 601,
 				},
-				["warmup"] = {
-					"God-King Skovald", -- [1]
-					"warmup", -- [2]
-					"神王斯科瓦尔德激活", -- [3]
-					20, -- [4]
-					"Interface\\Icons\\achievement_dungeon_hallsofvalor", -- [5]
-					["id"] = 1808,
-				},
-				["196543"] = {
-					"Fenryr", -- [1]
-					"196543", -- [2]
-					"挫志嚎叫", -- [3]
-					30, -- [4]
-					1033494, -- [5]
-					["id"] = 1807,
+				["205420"] = {
+					"Krosus", -- [1]
+					"205420", -- [2]
+					"燃烧的沥青（1）", -- [3]
+					50, -- [4]
+					135804, -- [5]
+					["id"] = 1842,
 				},
 				["nil"] = {
 					"Pull", -- [1]
@@ -12994,29 +18911,29 @@ _detalhes_global = {
 					132337, -- [5]
 					["id"] = 1849,
 				},
-				["224982"] = {
-					"Nighthold Trash", -- [1]
-					"224982", -- [2]
-					"邪能眩光：>魔女维纳斯<", -- [3]
+				["212030"] = {
+					"General Xakal", -- [1]
+					"212030", -- [2]
+					"暗影鞭笞", -- [3]
+					13, -- [4]
+					607850, -- [5]
+					["id"] = 1828,
+				},
+				["202974"] = {
+					"Advisor Vandros", -- [1]
+					"202974", -- [2]
+					"力场炸弹", -- [3]
+					29, -- [4]
+					1041235, -- [5]
+					["id"] = 1829,
+				},
+				["59795"] = {
+					"Ionar", -- [1]
+					"59795", -- [2]
+					"静电过载：>天呐灬真高*<", -- [3]
 					10, -- [4]
-					135798, -- [5]
-					["id"] = 1862,
-				},
-				["227736"] = {
-					"Moroes", -- [1]
-					"227736", -- [2]
-					"消失", -- [3]
-					7, -- [4]
-					132331, -- [5]
-					["id"] = 1961,
-				},
-				["214529"] = {
-					"Cenarius", -- [1]
-					"214529", -- [2]
-					"梦魇之矛", -- [3]
-					23, -- [4]
-					1357799, -- [5]
-					["id"] = 1877,
+					136050, -- [5]
+					["id"] = 1984,
 				},
 				["-12687"] = {
 					"Naltira", -- [1]
@@ -13042,14 +18959,6 @@ _detalhes_global = {
 					135926, -- [5]
 					["id"] = 1954,
 				},
-				["137528"] = {
-					"Ji-Kun", -- [1]
-					"137528", -- [2]
-					"喂养幼雏", -- [3]
-					30, -- [4]
-					134437, -- [5]
-					["id"] = 1573,
-				},
 				["211802"] = {
 					"Xavius", -- [1]
 					"211802", -- [2]
@@ -13058,21 +18967,29 @@ _detalhes_global = {
 					1396975, -- [5]
 					["id"] = 1864,
 				},
-				["104936"] = {
-					"Alizabal", -- [1]
-					"104936", -- [2]
-					"刺穿或沸腾之怨", -- [3]
-					7, -- [4]
-					132090, -- [5]
-					["id"] = 1332,
+				["200732"] = {
+					"Dargrul", -- [1]
+					"200732", -- [2]
+					"熔岩冲击", -- [3]
+					18, -- [4]
+					236253, -- [5]
+					["id"] = 1793,
 				},
-				["202977"] = {
-					"Nythendra", -- [1]
-					"202977", -- [2]
-					"感染吐息", -- [3]
-					37, -- [4]
-					538518, -- [5]
-					["id"] = 1853,
+				["209170"] = {
+					"Grand Magistrix Elisande", -- [1]
+					"209170", -- [2]
+					"异域奇点（1）", -- [3]
+					25, -- [4]
+					135735, -- [5]
+					["id"] = 1872,
+				},
+				["211261"] = {
+					"Grand Magistrix Elisande", -- [1]
+					"211261", -- [2]
+					"透心折磨（1）", -- [3]
+					23, -- [4]
+					1041232, -- [5]
+					["id"] = 1872,
 				},
 				["234107"] = {
 					"Domatrax", -- [1]
@@ -13082,13 +18999,13 @@ _detalhes_global = {
 					135799, -- [5]
 					["id"] = 2053,
 				},
-				["204372"] = {
-					"Skorpyron", -- [1]
-					"204372", -- [2]
-					"召唤蝎子", -- [3]
+				["226821"] = {
+					"Cenarius", -- [1]
+					"226821", -- [2]
+					"脱水践踏（1）", -- [3]
 					20, -- [4]
-					620833, -- [5]
-					["id"] = 1849,
+					1357801, -- [5]
+					["id"] = 1877,
 				},
 				["205298"] = {
 					"Dragons of Nightmare", -- [1]
@@ -13106,13 +19023,13 @@ _detalhes_global = {
 					132358, -- [5]
 					["id"] = 1849,
 				},
-				["-6891"] = {
-					"Durumu the Forgotten", -- [1]
-					"-6891", -- [2]
-					"光谱排列", -- [3]
-					41, -- [4]
-					134139, -- [5]
-					["id"] = 1572,
+				["86930"] = {
+					"Asaad", -- [1]
+					"86930", -- [2]
+					"极限风暴", -- [3]
+					10, -- [4]
+					136050, -- [5]
+					["id"] = 1042,
 				},
 				["227514"] = {
 					"Guarm-TrialOfValor", -- [1]
@@ -13138,45 +19055,45 @@ _detalhes_global = {
 					429383, -- [5]
 					["id"] = 1827,
 				},
-				["193668"] = {
-					"God-King Skovald", -- [1]
-					"193668", -- [2]
-					"狂野之剑", -- [3]
-					47, -- [4]
-					135271, -- [5]
-					["id"] = 1808,
+				["-7080"] = {
+					"Horridon", -- [1]
+					"-7080", -- [2]
+					"冲锋", -- [3]
+					33, -- [4]
+					132335, -- [5]
+					["id"] = 1575,
 				},
-				["210984"] = {
-					"Il'gynoth", -- [1]
-					"210984", -- [2]
-					"命运之眼", -- [3]
-					13.8, -- [4]
-					1357799, -- [5]
-					["id"] = 1873,
+				["205588"] = {
+					"Xavius", -- [1]
+					"205588", -- [2]
+					"梦魇召唤", -- [3]
+					18, -- [4]
+					1357812, -- [5]
+					["id"] = 1864,
 				},
-				["198820"] = {
-					"Kurtalos Ravencrest", -- [1]
-					"198820", -- [2]
-					"黑暗冲击", -- [3]
-					12, -- [4]
-					136141, -- [5]
-					["id"] = 1835,
+				["207278"] = {
+					"Patrol Captain Gerdo", -- [1]
+					"207278", -- [2]
+					"奥术锁定", -- [3]
+					27, -- [4]
+					1041230, -- [5]
+					["id"] = 1868,
 				},
-				["138339"] = {
-					"Ra-den", -- [1]
-					"138339", -- [2]
-					"召唤龟裂追踪者", -- [3]
-					8, -- [4]
-					237007, -- [5]
-					["id"] = 1581,
+				["203147"] = {
+					"Dragons of Nightmare", -- [1]
+					"203147", -- [2]
+					"梦魇冲击", -- [3]
+					16, -- [4]
+					237561, -- [5]
+					["id"] = 1854,
 				},
-				["206365"] = {
-					"Tichondrius", -- [1]
-					"206365", -- [2]
-					"幻象之夜（1）", -- [3]
-					130, -- [4]
-					607852, -- [5]
-					["id"] = 1862,
+				["224440"] = {
+					"Nighthold Trash", -- [1]
+					"224440", -- [2]
+					"毁灭践踏", -- [3]
+					23, -- [4]
+					464973, -- [5]
+					["id"] = 1871,
 				},
 				["69263"] = {
 					"Ick & Krick", -- [1]
@@ -13194,21 +19111,21 @@ _detalhes_global = {
 					132108, -- [5]
 					["id"] = 1848,
 				},
-				["197796"] = {
-					"Cordana Felsong", -- [1]
-					"197796", -- [2]
-					"复仇的化身", -- [3]
-					45, -- [4]
-					134496, -- [5]
-					["id"] = 1818,
+				["-4141"] = {
+					"Echo of Baine", -- [1]
+					"-4141", -- [2]
+					"Totem dropped", -- [3]
+					20, -- [4]
+					135860, -- [5]
+					["id"] = 1881,
 				},
-				["200284"] = {
-					"Naltira", -- [1]
-					"200284", -- [2]
-					"缠绕之网", -- [3]
-					35, -- [4]
-					237431, -- [5]
-					["id"] = 1826,
+				["227736"] = {
+					"Moroes", -- [1]
+					"227736", -- [2]
+					"消失", -- [3]
+					7, -- [4]
+					132331, -- [5]
+					["id"] = 1961,
 				},
 				["-6917"] = {
 					"Iron Qon", -- [1]
@@ -13218,13 +19135,13 @@ _detalhes_global = {
 					136025, -- [5]
 					["id"] = 1559,
 				},
-				["191325"] = {
-					"Dresaron", -- [1]
-					"191325", -- [2]
-					"腐化之息", -- [3]
-					13.5, -- [4]
-					1357794, -- [5]
-					["id"] = 1838,
+				["197796"] = {
+					"Cordana Felsong", -- [1]
+					"197796", -- [2]
+					"复仇的化身", -- [3]
+					45, -- [4]
+					134496, -- [5]
+					["id"] = 1818,
 				},
 				["213166"] = {
 					"Spellblade Aluriel", -- [1]
@@ -13258,13 +19175,13 @@ _detalhes_global = {
 					653221, -- [5]
 					["id"] = 1872,
 				},
-				["227233"] = {
-					"Helya", -- [1]
-					"227233", -- [2]
-					"腐化咆哮", -- [3]
-					22, -- [4]
-					136183, -- [5]
-					["id"] = 1824,
+				["200700"] = {
+					"Dargrul", -- [1]
+					"200700", -- [2]
+					"山崩", -- [3]
+					15, -- [4]
+					451165, -- [5]
+					["id"] = 1793,
 				},
 				["196610"] = {
 					"Lady Hatecoil", -- [1]
@@ -13274,13 +19191,13 @@ _detalhes_global = {
 					1029595, -- [5]
 					["id"] = 1811,
 				},
-				["218774"] = {
-					"High Botanist Tel'arn", -- [1]
-					"218774", -- [2]
-					"召唤离子球", -- [3]
-					12, -- [4]
-					525024, -- [5]
-					["id"] = 1886,
+				["201672"] = {
+					"Shivermaw", -- [1]
+					"201672", -- [2]
+					"无情风暴", -- [3]
+					9, -- [4]
+					1033907, -- [5]
+					["id"] = 1845,
 				},
 				["194325"] = {
 					"Harbaron", -- [1]
@@ -13354,21 +19271,21 @@ _detalhes_global = {
 					651097, -- [5]
 					["id"] = 1866,
 				},
-				["207261"] = {
-					"Patrol Captain Gerdo", -- [1]
-					"207261", -- [2]
-					"共鸣挥砍", -- [3]
-					6, -- [4]
-					135734, -- [5]
-					["id"] = 1868,
+				["212530"] = {
+					"Spellblade Aluriel", -- [1]
+					"212530", -- [2]
+					"复制：冰霜印记", -- [3]
+					41, -- [4]
+					135732, -- [5]
+					["id"] = 1871,
 				},
-				["74981"] = {
-					"Forgemaster Throngus", -- [1]
-					"74981", -- [2]
-					"双持利刃", -- [3]
-					30, -- [4]
-					132147, -- [5]
-					["id"] = 1050,
+				["206651"] = {
+					"Xavius", -- [1]
+					"206651", -- [2]
+					"晦暗灵魂", -- [3]
+					7.5, -- [4]
+					1396972, -- [5]
+					["id"] = 1864,
 				},
 				["194216"] = {
 					"Harbaron", -- [1]
@@ -13394,13 +19311,13 @@ _detalhes_global = {
 					1357815, -- [5]
 					["id"] = 1877,
 				},
-				["200732"] = {
-					"Dargrul", -- [1]
-					"200732", -- [2]
-					"熔岩冲击", -- [3]
-					18, -- [4]
-					236253, -- [5]
-					["id"] = 1793,
+				["bosses"] = {
+					"The Beasts of Northrend", -- [1]
+					"bosses", -- [2]
+					"即将穿刺者戈莫克！", -- [3]
+					20, -- [4]
+					132324, -- [5]
+					["id"] = 1088,
 				},
 				["213531"] = {
 					"Tichondrius", -- [1]
@@ -13410,13 +19327,13 @@ _detalhes_global = {
 					1022950, -- [5]
 					["id"] = 1862,
 				},
-				["200700"] = {
-					"Dargrul", -- [1]
-					"200700", -- [2]
-					"山崩", -- [3]
-					15, -- [4]
-					451165, -- [5]
-					["id"] = 1793,
+				["139458"] = {
+					"Megaera", -- [1]
+					"139458", -- [2]
+					"即将>狂暴<！", -- [3]
+					5, -- [4]
+					463493, -- [5]
+					["id"] = 1578,
 				},
 				["197776"] = {
 					"General Xakal", -- [1]
@@ -13429,5976 +19346,4 @@ _detalhes_global = {
 			},
 		},
 	},
-	["switchSaved"] = {
-		["slots"] = 18,
-		["table"] = {
-			{
-				["atributo"] = 1,
-				["sub_atributo"] = 1,
-			}, -- [1]
-			{
-				["atributo"] = 2,
-				["sub_atributo"] = 1,
-			}, -- [2]
-			{
-				["atributo"] = 1,
-				["sub_atributo"] = 6,
-			}, -- [3]
-			{
-				["atributo"] = 4,
-				["sub_atributo"] = 5,
-			}, -- [4]
-			{
-				["atributo"] = 2,
-				["sub_atributo"] = 3,
-			}, -- [5]
-			{
-				["atributo"] = 4,
-				["sub_atributo"] = 4,
-			}, -- [6]
-			{
-				["atributo"] = 1,
-				["sub_atributo"] = 3,
-			}, -- [7]
-			{
-				["atributo"] = 1,
-				["sub_atributo"] = 4,
-			}, -- [8]
-			{
-				["atributo"] = 2,
-				["sub_atributo"] = 6,
-			}, -- [9]
-			{
-				["atributo"] = 3,
-				["sub_atributo"] = 3,
-			}, -- [10]
-			{
-				["atributo"] = 4,
-				["sub_atributo"] = 7,
-			}, -- [11]
-			{
-				["atributo"] = 2,
-				["sub_atributo"] = 4,
-			}, -- [12]
-			{
-				["atributo"] = 4,
-				["sub_atributo"] = 4,
-			}, -- [13]
-			{
-				["atributo"] = 4,
-				["sub_atributo"] = 3,
-			}, -- [14]
-			{
-				["atributo"] = 4,
-				["sub_atributo"] = 8,
-			}, -- [15]
-			{
-				["atributo"] = 3,
-				["sub_atributo"] = 1,
-			}, -- [16]
-			{
-			}, -- [17]
-			{
-			}, -- [18]
-			{
-			}, -- [19]
-			{
-			}, -- [20]
-			{
-			}, -- [21]
-		},
-	},
-	["savedCustomSpells"] = {
-		{
-			1, -- [1]
-			"近战", -- [2]
-			"Interface\\ICONS\\INV_Sword_04", -- [3]
-		}, -- [1]
-		{
-			2, -- [1]
-			"自动射击", -- [2]
-			"Interface\\ICONS\\INV_Weapon_Bow_07", -- [3]
-		}, -- [2]
-		{
-			4, -- [1]
-			"环境伤害 (溺水)", -- [2]
-			"Interface\\ICONS\\Ability_Suffocate", -- [3]
-		}, -- [3]
-		{
-			8, -- [1]
-			"Environment (Slime)", -- [2]
-			"Interface\\ICONS\\Ability_Creature_Poison_02", -- [3]
-		}, -- [4]
-		{
-			88082, -- [1]
-			"火球术 (镜像)", -- [2]
-			135812, -- [3]
-		}, -- [5]
-		{
-			94472, -- [1]
-			"救赎 (致命)", -- [2]
-			135887, -- [3]
-		}, -- [6]
-		{
-			59638, -- [1]
-			"寒冰箭 (镜像)", -- [2]
-			135846, -- [3]
-		}, -- [7]
-		{
-			5, -- [1]
-			"环境伤害 (疲劳)", -- [2]
-			"Interface\\ICONS\\Spell_Arcane_MindMastery", -- [3]
-		}, -- [8]
-		{
-			158336, -- [1]
-			"粉碎 (wave #1)", -- [2]
-			135242, -- [3]
-		}, -- [9]
-		{
-			3, -- [1]
-			"环境伤害 (高处坠落)", -- [2]
-			"Interface\\ICONS\\Spell_Magic_FeatherFall", -- [3]
-		}, -- [10]
-		{
-			6, -- [1]
-			"环境伤害 (火烧)", -- [2]
-			"Interface\\ICONS\\INV_SummerFest_FireSpirit", -- [3]
-		}, -- [11]
-		{
-			224078, -- [1]
-			"暴龙电击带 (trinket)", -- [2]
-			136048, -- [3]
-		}, -- [12]
-		{
-			214350, -- [1]
-			"梦魇精华 (trinket)", -- [2]
-			1357816, -- [3]
-		}, -- [13]
-		{
-			44461, -- [1]
-			"活动炸弹 (爆炸)", -- [2]
-			236220, -- [3]
-		}, -- [14]
-		{
-			213786, -- [1]
-			"夜幕 (trinket)", -- [2]
-			236168, -- [3]
-		}, -- [15]
-		{
-			120761, -- [1]
-			"飞刃 (Glaive #2)", -- [2]
-			132330, -- [3]
-		}, -- [16]
-		{
-			121414, -- [1]
-			"飞刃 (Glaive #1)", -- [2]
-			132330, -- [3]
-		}, -- [17]
-		{
-			33778, -- [1]
-			"生命绽放 (bloom)", -- [2]
-			136041, -- [3]
-		}, -- [18]
-		{
-			7, -- [1]
-			"环境伤害 (岩浆)", -- [2]
-			"Interface\\ICONS\\Ability_Rhyolith_Volcano", -- [3]
-		}, -- [19]
-		{
-			158420, -- [1]
-			"粉碎 (wave #3)", -- [2]
-			135242, -- [3]
-		}, -- [20]
-		{
-			158417, -- [1]
-			"粉碎 (wave #2)", -- [2]
-			135242, -- [3]
-		}, -- [21]
-		{
-			161612, -- [1]
-			"溢流能量 (捕捉)", -- [2]
-			841219, -- [3]
-		}, -- [22]
-		{
-			98021, -- [1]
-			"血量交换", -- [2]
-			237586, -- [3]
-		}, -- [23]
-		{
-			161576, -- [1]
-			"溢流能量 (爆炸)", -- [2]
-			841219, -- [3]
-		}, -- [24]
-	},
-	["report_pos"] = {
-		1, -- [1]
-		1.0001220703125, -- [2]
-	},
-	["got_first_run"] = true,
-	["latest_report_table"] = {
-		{
-			2, -- [1]
-			4, -- [2]
-			4, -- [3]
-			5, -- [4]
-			"RAID", -- [5]
-		}, -- [1]
-		{
-			2, -- [1]
-			2, -- [2]
-			1, -- [3]
-			5, -- [4]
-			"RAID", -- [5]
-		}, -- [2]
-		{
-			1, -- [1]
-			1, -- [2]
-			1, -- [3]
-			20, -- [4]
-			"GUILD", -- [5]
-		}, -- [3]
-		{
-			1, -- [1]
-			1, -- [2]
-			1, -- [3]
-			20, -- [4]
-			"RAID", -- [5]
-		}, -- [4]
-	},
-	["__profiles"] = {
-		["1"] = {
-			["capture_real"] = {
-				["heal"] = true,
-				["spellcast"] = true,
-				["miscdata"] = true,
-				["aura"] = true,
-				["energy"] = true,
-				["damage"] = true,
-			},
-			["row_fade_in"] = {
-				"in", -- [1]
-				0.2, -- [2]
-			},
-			["player_details_window"] = {
-				["scale"] = 1,
-				["skin"] = "ElvUI",
-				["bar_texture"] = "Skyline",
-			},
-			["numerical_system"] = 1,
-			["use_row_animations"] = true,
-			["report_heal_links"] = true,
-			["remove_realm_from_name"] = true,
-			["class_icons_small"] = "Interface\\AddOns\\Details\\images\\classes_small",
-			["report_to_who"] = "",
-			["overall_flag"] = 15,
-			["profile_save_pos"] = true,
-			["tooltip"] = {
-				["header_statusbar"] = {
-					0.3, -- [1]
-					0.3, -- [2]
-					0.3, -- [3]
-					0.8, -- [4]
-					false, -- [5]
-					false, -- [6]
-					"WorldState Score", -- [7]
-				},
-				["fontcolor_right"] = {
-					1, -- [1]
-					0.7, -- [2]
-					0, -- [3]
-					1, -- [4]
-				},
-				["tooltip_max_targets"] = 2,
-				["icon_size"] = {
-					["W"] = 13,
-					["H"] = 13,
-				},
-				["tooltip_max_pets"] = 2,
-				["anchor_relative"] = "top",
-				["abbreviation"] = 2,
-				["anchored_to"] = 1,
-				["show_amount"] = false,
-				["header_text_color"] = {
-					1, -- [1]
-					0.9176, -- [2]
-					0, -- [3]
-					1, -- [4]
-				},
-				["fontsize"] = 10,
-				["background"] = {
-					0.196, -- [1]
-					0.196, -- [2]
-					0.196, -- [3]
-					0.8697, -- [4]
-				},
-				["submenu_wallpaper"] = true,
-				["fontsize_title"] = 10,
-				["fontcolor"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-					1, -- [4]
-				},
-				["commands"] = {
-				},
-				["tooltip_max_abilities"] = 5,
-				["fontface"] = "Friz Quadrata TT",
-				["border_color"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					1, -- [4]
-				},
-				["border_texture"] = "Details BarBorder 3",
-				["anchor_offset"] = {
-					0, -- [1]
-					0, -- [2]
-				},
-				["fontshadow"] = false,
-				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
-				["border_size"] = 14,
-				["maximize_method"] = 1,
-				["anchor_screen_pos"] = {
-					507.7, -- [1]
-					-350.5, -- [2]
-				},
-				["anchor_point"] = "bottom",
-				["menus_bg_coords"] = {
-					0.309777336120606, -- [1]
-					0.924000015258789, -- [2]
-					0.213000011444092, -- [3]
-					0.279000015258789, -- [4]
-				},
-				["icon_border_texcoord"] = {
-					["R"] = 0.921875,
-					["L"] = 0.078125,
-					["T"] = 0.078125,
-					["B"] = 0.921875,
-				},
-				["menus_bg_color"] = {
-					0.8, -- [1]
-					0.8, -- [2]
-					0.8, -- [3]
-					0.2, -- [4]
-				},
-			},
-			["ps_abbreviation"] = 3,
-			["world_combat_is_trash"] = false,
-			["update_speed"] = 0.5,
-			["track_item_level"] = true,
-			["windows_fade_in"] = {
-				"in", -- [1]
-				0.2, -- [2]
-			},
-			["instances_menu_click_to_open"] = false,
-			["overall_clear_newchallenge"] = false,
-			["time_type"] = 2,
-			["instances_disable_bar_highlight"] = false,
-			["trash_concatenate"] = false,
-			["disable_stretch_from_toolbar"] = false,
-			["disable_lock_ungroup_buttons"] = false,
-			["memory_ram"] = 64,
-			["disable_window_groups"] = false,
-			["instances_suppress_trash"] = 0,
-			["font_faces"] = {
-				["menus"] = "Friz Quadrata TT",
-			},
-			["segments_amount"] = 25,
-			["report_lines"] = 5,
-			["skin"] = "WoW Interface",
-			["override_spellids"] = true,
-			["use_battleground_server_parser"] = true,
-			["default_bg_alpha"] = 0.5,
-			["clear_ungrouped"] = true,
-			["memory_threshold"] = 3,
-			["minimum_combat_time"] = 5,
-			["animate_scroll"] = false,
-			["cloud_capture"] = true,
-			["damage_taken_everything"] = true,
-			["scroll_speed"] = 2,
-			["new_window_size"] = {
-				["height"] = 130,
-				["width"] = 320,
-			},
-			["chat_tab_embed"] = {
-				["enabled"] = false,
-				["tab_name"] = "",
-				["single_window"] = false,
-			},
-			["deadlog_events"] = 45,
-			["class_specs_coords"] = {
-				[62] = {
-					0.251953125, -- [1]
-					0.375, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[63] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[250] = {
-					0, -- [1]
-					0.125, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[251] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[252] = {
-					0.25, -- [1]
-					0.375, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[253] = {
-					0.875, -- [1]
-					1, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[254] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[255] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[66] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[257] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[258] = {
-					0.6328125, -- [1]
-					0.75, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[259] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[260] = {
-					0.875, -- [1]
-					1, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[577] = {
-					0.25, -- [1]
-					0.375, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[262] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[581] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[264] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[265] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[266] = {
-					0.625, -- [1]
-					0.75, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[267] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[268] = {
-					0.625, -- [1]
-					0.75, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[269] = {
-					0.875, -- [1]
-					1, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[270] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[70] = {
-					0.251953125, -- [1]
-					0.375, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[102] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[71] = {
-					0.875, -- [1]
-					1, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[103] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[72] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[104] = {
-					0.625, -- [1]
-					0.75, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[73] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[263] = {
-					0.25, -- [1]
-					0.375, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[105] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[261] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[256] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[65] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[64] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-			},
-			["close_shields"] = false,
-			["class_coords"] = {
-				["HUNTER"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["WARRIOR"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["SHAMAN"] = {
-					0.25, -- [1]
-					0.49609375, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["MAGE"] = {
-					0.25, -- [1]
-					0.49609375, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["PET"] = {
-					0.25, -- [1]
-					0.49609375, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["DRUID"] = {
-					0.7421875, -- [1]
-					0.98828125, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["MONK"] = {
-					0.5, -- [1]
-					0.73828125, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["DEATHKNIGHT"] = {
-					0.25, -- [1]
-					0.5, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["UNGROUPPLAYER"] = {
-					0.5, -- [1]
-					0.75, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["UNKNOW"] = {
-					0.5, -- [1]
-					0.75, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["PRIEST"] = {
-					0.49609375, -- [1]
-					0.7421875, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["WARLOCK"] = {
-					0.7421875, -- [1]
-					0.98828125, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["Alliance"] = {
-					0.49609375, -- [1]
-					0.7421875, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["ENEMY"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["DEMONHUNTER"] = {
-					0.73828126, -- [1]
-					1, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["Horde"] = {
-					0.7421875, -- [1]
-					0.98828125, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["PALADIN"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["ROGUE"] = {
-					0.49609375, -- [1]
-					0.7421875, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["MONSTER"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-			},
-			["overall_clear_logout"] = false,
-			["disable_alldisplays_window"] = false,
-			["pvp_as_group"] = true,
-			["force_activity_time_pvp"] = true,
-			["windows_fade_out"] = {
-				"out", -- [1]
-				0.2, -- [2]
-			},
-			["death_tooltip_width"] = 300,
-			["clear_graphic"] = false,
-			["class_colors"] = {
-				["HUNTER"] = {
-					0.67, -- [1]
-					0.83, -- [2]
-					0.45, -- [3]
-				},
-				["WARRIOR"] = {
-					0.78, -- [1]
-					0.61, -- [2]
-					0.43, -- [3]
-				},
-				["ROGUE"] = {
-					1, -- [1]
-					0.96, -- [2]
-					0.41, -- [3]
-				},
-				["MAGE"] = {
-					0.41, -- [1]
-					0.8, -- [2]
-					0.94, -- [3]
-				},
-				["ARENA_YELLOW"] = {
-					0.9, -- [1]
-					0.9, -- [2]
-					0, -- [3]
-				},
-				["UNGROUPPLAYER"] = {
-					0.4, -- [1]
-					0.4, -- [2]
-					0.4, -- [3]
-				},
-				["DRUID"] = {
-					1, -- [1]
-					0.49, -- [2]
-					0.04, -- [3]
-				},
-				["MONK"] = {
-					0, -- [1]
-					1, -- [2]
-					0.59, -- [3]
-				},
-				["DEATHKNIGHT"] = {
-					0.77, -- [1]
-					0.12, -- [2]
-					0.23, -- [3]
-				},
-				["PALADIN"] = {
-					0.96, -- [1]
-					0.55, -- [2]
-					0.73, -- [3]
-				},
-				["UNKNOW"] = {
-					0.2, -- [1]
-					0.2, -- [2]
-					0.2, -- [3]
-				},
-				["PRIEST"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				},
-				["SHAMAN"] = {
-					0, -- [1]
-					0.44, -- [2]
-					0.87, -- [3]
-				},
-				["ENEMY"] = {
-					0.94117, -- [1]
-					0, -- [2]
-					0.0196, -- [3]
-					1, -- [4]
-				},
-				["WARLOCK"] = {
-					0.58, -- [1]
-					0.51, -- [2]
-					0.79, -- [3]
-				},
-				["DEMONHUNTER"] = {
-					0.64, -- [1]
-					0.19, -- [2]
-					0.79, -- [3]
-				},
-				["version"] = 1,
-				["NEUTRAL"] = {
-					1, -- [1]
-					1, -- [2]
-					0, -- [3]
-				},
-				["PET"] = {
-					0.3, -- [1]
-					0.4, -- [2]
-					0.5, -- [3]
-				},
-				["ARENA_GREEN"] = {
-					0.1, -- [1]
-					0.85, -- [2]
-					0.1, -- [3]
-				},
-			},
-			["segments_auto_erase"] = 2,
-			["options_group_edit"] = true,
-			["segments_amount_to_save"] = 25,
-			["minimap"] = {
-				["onclick_what_todo"] = 1,
-				["radius"] = 160,
-				["hide"] = true,
-				["minimapPos"] = 214.649611459411,
-				["text_format"] = 3,
-				["text_type"] = 1,
-			},
-			["instances_amount"] = 5,
-			["max_window_size"] = {
-				["height"] = 450,
-				["width"] = 480,
-			},
-			["trash_auto_remove"] = false,
-			["only_pvp_frags"] = false,
-			["disable_stretch_button"] = false,
-			["time_type_original"] = 2,
-			["default_bg_color"] = 0.0941,
-			["numerical_system_symbols"] = "auto",
-			["segments_panic_mode"] = false,
-			["window_clamp"] = {
-				-8, -- [1]
-				0, -- [2]
-				21, -- [3]
-				-14, -- [4]
-			},
-			["standard_skin"] = false,
-			["row_fade_out"] = {
-				"out", -- [1]
-				0.2, -- [2]
-			},
-			["use_scroll"] = false,
-			["total_abbreviation"] = 2,
-			["hotcorner_topleft"] = {
-				["hide"] = false,
-			},
-			["report_schema"] = 1,
-			["overall_clear_newboss"] = false,
-			["font_sizes"] = {
-				["menus"] = 10,
-			},
-			["disable_reset_button"] = false,
-			["data_broker_text"] = "",
-			["instances_no_libwindow"] = false,
-			["instances_segments_locked"] = true,
-			["deadlog_limit"] = 16,
-			["instances"] = {
-				{
-					["__pos"] = {
-						["normal"] = {
-							["y"] = 37.7526245117188,
-							["x"] = -803.749984741211,
-							["w"] = 312.500030517578,
-							["h"] = 130.000045776367,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["show_statusbar"] = true,
-					["menu_icons_size"] = 0.850000023841858,
-					["color"] = {
-						0.333333333333333, -- [1]
-						0.333333333333333, -- [2]
-						0.333333333333333, -- [3]
-						0.379999995231628, -- [4]
-					},
-					["menu_anchor"] = {
-						16, -- [1]
-						0, -- [2]
-						["side"] = 2,
-					},
-					["bg_b"] = 0.0941176470588235,
-					["bg_r"] = 0.0941176470588235,
-					["backdrop_texture"] = "Details Ground",
-					["hide_out_of_combat"] = false,
-					["skin"] = "Minimalistic",
-					["skin_custom"] = "",
-					["following"] = {
-						["enabled"] = false,
-						["bar_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["color_buttons"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["switch_healer"] = false,
-					["bars_sort_direction"] = 1,
-					["stretch_button_side"] = 1,
-					["__was_opened"] = true,
-					["version"] = 3,
-					["__snapV"] = true,
-					["tooltip"] = {
-						["n_abilities"] = 3,
-						["n_enemies"] = 3,
-					},
-					["StatusBarSaved"] = {
-						["options"] = {
-							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["textXMod"] = 0,
-								["textFace"] = "Accidental Presidency",
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
-								["textYMod"] = 1,
-								["segmentType"] = 2,
-								["textFace"] = "Accidental Presidency",
-								["textXMod"] = 0,
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-							},
-							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
-								["textYMod"] = 1,
-								["textXMod"] = 6,
-								["textFace"] = "Accidental Presidency",
-								["textStyle"] = 2,
-								["timeType"] = 1,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-							},
-						},
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
-					},
-					["micro_displays_side"] = 2,
-					["switch_all_roles_in_combat"] = false,
-					["switch_tank_in_combat"] = false,
-					["bg_alpha"] = 0.0984569266438484,
-					["attribute_text"] = {
-						["enabled"] = true,
-						["shadow"] = false,
-						["side"] = 1,
-						["text_size"] = 12,
-						["custom_text"] = "{name}",
-						["text_face"] = "Accidental Presidency",
-						["anchor"] = {
-							-18, -- [1]
-							3, -- [2]
-						},
-						["show_timer"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-						["enable_custom_text"] = false,
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["__locked"] = true,
-					["menu_alpha"] = {
-						["enabled"] = false,
-						["onleave"] = 1,
-						["ignorebars"] = false,
-						["iconstoo"] = true,
-						["onenter"] = 1,
-					},
-					["bars_grow_direction"] = 1,
-					["switch_tank"] = false,
-					["show_sidebars"] = false,
-					["strata"] = "LOW",
-					["menu_anchor_down"] = {
-						16, -- [1]
-						-3, -- [2]
-					},
-					["__snap"] = {
-						[2] = 2,
-					},
-					["ignore_mass_showhide"] = false,
-					["hide_in_combat_alpha"] = 0,
-					["switch_all_roles_after_wipe"] = false,
-					["menu_icons"] = {
-						true, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						["space"] = -2,
-						["shadow"] = false,
-					},
-					["switch_damager"] = false,
-					["statusbar_info"] = {
-						["alpha"] = 0.379999995231628,
-						["overlay"] = {
-							0.333333333333333, -- [1]
-							0.333333333333333, -- [2]
-							0.333333333333333, -- [3]
-						},
-					},
-					["row_show_animation"] = {
-						["anim"] = "Fade",
-						["options"] = {
-						},
-					},
-					["window_scale"] = 1,
-					["plugins_grow_direction"] = 1,
-					["hide_icon"] = true,
-					["grab_on_top"] = false,
-					["switch_damager_in_combat"] = false,
-					["desaturated_menu"] = false,
-					["auto_hide_menu"] = {
-						["left"] = false,
-						["right"] = false,
-					},
-					["auto_current"] = true,
-					["toolbar_side"] = 1,
-					["bg_g"] = 0.0941176470588235,
-					["libwindow"] = {
-						["y"] = 37.7526550292969,
-						["x"] = 0,
-						["point"] = "LEFT",
-					},
-					["hide_in_combat"] = false,
-					["posicao"] = {
-						["normal"] = {
-							["y"] = 37.7526245117188,
-							["x"] = -803.749984741211,
-							["w"] = 312.500030517578,
-							["h"] = 130.000045776367,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["row_info"] = {
-						["textR_outline"] = false,
-						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
-						["textL_outline"] = false,
-						["textR_outline_small"] = true,
-						["textR_show_data"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-						["percent_type"] = 1,
-						["fixed_text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["space"] = {
-							["right"] = 0,
-							["left"] = 0,
-							["between"] = 0,
-						},
-						["texture_background_class_color"] = false,
-						["textL_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["font_face_file"] = "Fonts\\ARKai_T.ttf",
-						["textL_custom_text"] = "{data1}. {data3}{data2}",
-						["models"] = {
-							["upper_model"] = "Spells\\AcidBreath_SuperGreen.M2",
-							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
-							["upper_alpha"] = 0.5,
-							["lower_enabled"] = false,
-							["lower_alpha"] = 0.1,
-							["upper_enabled"] = false,
-						},
-						["height"] = 14,
-						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
-						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small",
-						["texture_custom_file"] = "Interface\\",
-						["use_spec_icons"] = true,
-						["textR_bracket"] = "(",
-						["textR_enable_custom_text"] = false,
-						["backdrop"] = {
-							["enabled"] = false,
-							["texture"] = "Details BarBorder 2",
-							["color"] = {
-								1, -- [1]
-								1, -- [2]
-								1, -- [3]
-								1, -- [4]
-							},
-							["size"] = 12,
-						},
-						["fixed_texture_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						},
-						["textL_show_number"] = true,
-						["start_after_icon"] = false,
-						["texture_custom"] = "",
-						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
-						["fixed_texture_background_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.150228589773178, -- [4]
-						},
-						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
-						["textL_outline_small"] = true,
-						["textL_enable_custom_text"] = false,
-						["texture_background"] = "Details D'ictum (reverse)",
-						["alpha"] = 1,
-						["textR_class_colors"] = false,
-						["textR_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["no_icon"] = false,
-						["textL_class_colors"] = false,
-						["texture"] = "BantoBar",
-						["font_face"] = "Accidental Presidency",
-						["texture_class_colors"] = true,
-						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["fast_ps_update"] = true,
-						["textR_separator"] = ",",
-						["font_size"] = 10,
-					},
-					["instance_button_anchor"] = {
-						-27, -- [1]
-						1, -- [2]
-					},
-					["wallpaper"] = {
-						["enabled"] = false,
-						["texcoord"] = {
-							0, -- [1]
-							1, -- [2]
-							0, -- [3]
-							0.7, -- [4]
-						},
-						["overlay"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["anchor"] = "all",
-						["height"] = 114.042518615723,
-						["alpha"] = 0.5,
-						["width"] = 283.000183105469,
-					},
-					["total_bar"] = {
-						["enabled"] = false,
-						["only_in_group"] = true,
-						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
-						["color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["micro_displays_locked"] = true,
-					["hide_in_combat_type"] = 1,
-					["switch_healer_in_combat"] = false,
-					["bars_inverted"] = false,
-				}, -- [1]
-				{
-					["__pos"] = {
-						["normal"] = {
-							["y"] = -128.872436523438,
-							["x"] = -803.749984741211,
-							["w"] = 312.500030517578,
-							["h"] = 135.249954223633,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["show_statusbar"] = true,
-					["backdrop_texture"] = "Details Ground",
-					["color"] = {
-						0.333333333333333, -- [1]
-						0.333333333333333, -- [2]
-						0.333333333333333, -- [3]
-						0.379999995231628, -- [4]
-					},
-					["menu_anchor"] = {
-						16, -- [1]
-						0, -- [2]
-						["side"] = 2,
-					},
-					["bg_b"] = 0.0941176470588235,
-					["bg_r"] = 0.0941176470588235,
-					["menu_icons_size"] = 0.850000023841858,
-					["switch_healer_in_combat"] = false,
-					["skin"] = "Minimalistic",
-					["micro_displays_locked"] = true,
-					["following"] = {
-						["bar_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["enabled"] = false,
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["color_buttons"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["switch_healer"] = false,
-					["skin_custom"] = "",
-					["stretch_button_side"] = 1,
-					["tooltip"] = {
-						["n_abilities"] = 3,
-						["n_enemies"] = 3,
-					},
-					["switch_tank_in_combat"] = false,
-					["menu_anchor_down"] = {
-						16, -- [1]
-						-3, -- [2]
-					},
-					["__was_opened"] = true,
-					["StatusBarSaved"] = {
-						["options"] = {
-							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["textXMod"] = 0,
-								["textFace"] = "Accidental Presidency",
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
-								["textYMod"] = 1,
-								["segmentType"] = 2,
-								["textXMod"] = 0,
-								["textFace"] = "Accidental Presidency",
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-							},
-							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
-								["textYMod"] = 1,
-								["textFace"] = "Accidental Presidency",
-								["textXMod"] = 6,
-								["timeType"] = 1,
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-							},
-						},
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
-					},
-					["show_sidebars"] = false,
-					["switch_all_roles_in_combat"] = false,
-					["instance_button_anchor"] = {
-						-27, -- [1]
-						1, -- [2]
-					},
-					["version"] = 3,
-					["row_info"] = {
-						["textR_outline"] = false,
-						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
-						["textL_outline"] = false,
-						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
-						["textR_show_data"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-						["percent_type"] = 1,
-						["fixed_text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["space"] = {
-							["right"] = 0,
-							["left"] = 0,
-							["between"] = 0,
-						},
-						["texture_background_class_color"] = false,
-						["start_after_icon"] = false,
-						["font_face_file"] = "Fonts\\ARKai_T.ttf",
-						["textL_custom_text"] = "{data1}. {data3}{data2}",
-						["models"] = {
-							["upper_model"] = "Spells\\AcidBreath_SuperGreen.M2",
-							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
-							["upper_alpha"] = 0.5,
-							["lower_enabled"] = false,
-							["lower_alpha"] = 0.1,
-							["upper_enabled"] = false,
-						},
-						["texture_custom_file"] = "Interface\\",
-						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
-						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small",
-						["use_spec_icons"] = true,
-						["textR_bracket"] = "(",
-						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["texture_custom"] = "",
-						["font_size"] = 10,
-						["fixed_texture_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						},
-						["textL_show_number"] = true,
-						["textL_outline_small"] = true,
-						["textR_enable_custom_text"] = false,
-						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
-						["texture"] = "BantoBar",
-						["textR_outline_small"] = true,
-						["textL_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["textL_class_colors"] = false,
-						["textR_class_colors"] = false,
-						["textR_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["texture_background"] = "Details D'ictum (reverse)",
-						["alpha"] = 1,
-						["no_icon"] = false,
-						["fixed_texture_background_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.150228589773178, -- [4]
-						},
-						["textL_enable_custom_text"] = false,
-						["font_face"] = "Accidental Presidency",
-						["texture_class_colors"] = true,
-						["backdrop"] = {
-							["enabled"] = false,
-							["size"] = 12,
-							["color"] = {
-								1, -- [1]
-								1, -- [2]
-								1, -- [3]
-								1, -- [4]
-							},
-							["texture"] = "Details BarBorder 2",
-						},
-						["fast_ps_update"] = false,
-						["textR_separator"] = ",",
-						["height"] = 14,
-					},
-					["__locked"] = true,
-					["menu_alpha"] = {
-						["enabled"] = false,
-						["onenter"] = 1,
-						["iconstoo"] = true,
-						["ignorebars"] = false,
-						["onleave"] = 1,
-					},
-					["row_show_animation"] = {
-						["anim"] = "Fade",
-						["options"] = {
-						},
-					},
-					["libwindow"] = {
-						["y"] = -128.872406005859,
-						["x"] = 0,
-						["point"] = "LEFT",
-					},
-					["statusbar_info"] = {
-						["alpha"] = 0.379999995231628,
-						["overlay"] = {
-							0.333333333333333, -- [1]
-							0.333333333333333, -- [2]
-							0.333333333333333, -- [3]
-						},
-					},
-					["strata"] = "LOW",
-					["window_scale"] = 1,
-					["__snap"] = {
-						[4] = 1,
-					},
-					["switch_tank"] = false,
-					["hide_in_combat_alpha"] = 0,
-					["plugins_grow_direction"] = 1,
-					["menu_icons"] = {
-						true, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						["space"] = -2,
-						["shadow"] = false,
-					},
-					["desaturated_menu"] = false,
-					["auto_hide_menu"] = {
-						["left"] = false,
-						["right"] = false,
-					},
-					["bars_grow_direction"] = 1,
-					["__snapV"] = true,
-					["ignore_mass_showhide"] = false,
-					["hide_icon"] = true,
-					["grab_on_top"] = false,
-					["switch_damager_in_combat"] = false,
-					["switch_damager"] = false,
-					["micro_displays_side"] = 2,
-					["auto_current"] = true,
-					["toolbar_side"] = 1,
-					["bg_g"] = 0.0941176470588235,
-					["switch_all_roles_after_wipe"] = false,
-					["hide_in_combat"] = false,
-					["posicao"] = {
-						["normal"] = {
-							["y"] = -128.872436523438,
-							["x"] = -803.749984741211,
-							["w"] = 312.500030517578,
-							["h"] = 135.249954223633,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["attribute_text"] = {
-						["show_timer"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-						["shadow"] = false,
-						["side"] = 1,
-						["text_size"] = 12,
-						["custom_text"] = "{name}",
-						["text_face"] = "Accidental Presidency",
-						["anchor"] = {
-							-18, -- [1]
-							3, -- [2]
-						},
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["enable_custom_text"] = false,
-						["enabled"] = true,
-					},
-					["bg_alpha"] = 0.0984569266438484,
-					["wallpaper"] = {
-						["overlay"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["texcoord"] = {
-							0, -- [1]
-							1, -- [2]
-							0, -- [3]
-							0.7, -- [4]
-						},
-						["enabled"] = false,
-						["anchor"] = "all",
-						["height"] = 114.042518615723,
-						["alpha"] = 0.5,
-						["width"] = 283.000183105469,
-					},
-					["total_bar"] = {
-						["enabled"] = false,
-						["only_in_group"] = true,
-						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
-						["color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["bars_sort_direction"] = 1,
-					["hide_out_of_combat"] = false,
-					["hide_in_combat_type"] = 1,
-					["bars_inverted"] = false,
-				}, -- [2]
-			},
-		},
-		["龙剑曦-主宰之剑"] = {
-			["capture_real"] = {
-				["heal"] = true,
-				["spellcast"] = true,
-				["miscdata"] = true,
-				["aura"] = true,
-				["energy"] = true,
-				["damage"] = true,
-			},
-			["row_fade_in"] = {
-				"in", -- [1]
-				0.2, -- [2]
-			},
-			["player_details_window"] = {
-				["scale"] = 1,
-				["skin"] = "ElvUI",
-				["bar_texture"] = "Skyline",
-			},
-			["numerical_system"] = 1,
-			["use_row_animations"] = true,
-			["report_heal_links"] = true,
-			["remove_realm_from_name"] = true,
-			["class_icons_small"] = "Interface\\AddOns\\Details\\images\\classes_small",
-			["report_to_who"] = "",
-			["overall_flag"] = 15,
-			["profile_save_pos"] = true,
-			["tooltip"] = {
-				["header_statusbar"] = {
-					0.3, -- [1]
-					0.3, -- [2]
-					0.3, -- [3]
-					0.8, -- [4]
-					false, -- [5]
-					false, -- [6]
-					"WorldState Score", -- [7]
-				},
-				["fontcolor_right"] = {
-					1, -- [1]
-					0.7, -- [2]
-					0, -- [3]
-					1, -- [4]
-				},
-				["tooltip_max_targets"] = 2,
-				["icon_size"] = {
-					["W"] = 13,
-					["H"] = 13,
-				},
-				["tooltip_max_pets"] = 2,
-				["anchor_relative"] = "top",
-				["abbreviation"] = 2,
-				["anchored_to"] = 1,
-				["show_amount"] = false,
-				["header_text_color"] = {
-					1, -- [1]
-					0.9176, -- [2]
-					0, -- [3]
-					1, -- [4]
-				},
-				["fontsize"] = 10,
-				["background"] = {
-					0.196, -- [1]
-					0.196, -- [2]
-					0.196, -- [3]
-					0.8697, -- [4]
-				},
-				["submenu_wallpaper"] = true,
-				["fontsize_title"] = 10,
-				["fontcolor"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-					1, -- [4]
-				},
-				["commands"] = {
-				},
-				["tooltip_max_abilities"] = 5,
-				["fontface"] = "Friz Quadrata TT",
-				["border_color"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-					0, -- [4]
-				},
-				["border_texture"] = "Blizzard Tooltip",
-				["anchor_offset"] = {
-					0, -- [1]
-					0, -- [2]
-				},
-				["fontshadow"] = false,
-				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
-				["border_size"] = 16,
-				["maximize_method"] = 1,
-				["anchor_screen_pos"] = {
-					507.7, -- [1]
-					-350.5, -- [2]
-				},
-				["anchor_point"] = "bottom",
-				["menus_bg_coords"] = {
-					0.309777336120606, -- [1]
-					0.924000015258789, -- [2]
-					0.213000011444092, -- [3]
-					0.279000015258789, -- [4]
-				},
-				["icon_border_texcoord"] = {
-					["R"] = 0.921875,
-					["L"] = 0.078125,
-					["T"] = 0.078125,
-					["B"] = 0.921875,
-				},
-				["menus_bg_color"] = {
-					0.8, -- [1]
-					0.8, -- [2]
-					0.8, -- [3]
-					0.2, -- [4]
-				},
-			},
-			["ps_abbreviation"] = 2,
-			["world_combat_is_trash"] = false,
-			["update_speed"] = 0.0500000007450581,
-			["track_item_level"] = true,
-			["windows_fade_in"] = {
-				"in", -- [1]
-				0.2, -- [2]
-			},
-			["instances_menu_click_to_open"] = false,
-			["overall_clear_newchallenge"] = true,
-			["time_type"] = 2,
-			["instances_disable_bar_highlight"] = false,
-			["trash_concatenate"] = false,
-			["disable_stretch_from_toolbar"] = false,
-			["disable_lock_ungroup_buttons"] = true,
-			["memory_ram"] = 64,
-			["disable_window_groups"] = false,
-			["instances_suppress_trash"] = 0,
-			["font_faces"] = {
-				["menus"] = "Arial Narrow",
-			},
-			["segments_amount"] = 25,
-			["report_lines"] = 20,
-			["skin"] = "WoW Interface",
-			["override_spellids"] = true,
-			["instances"] = {
-				{
-					["__pos"] = {
-						["normal"] = {
-							["y"] = 17.5105545587299,
-							["x"] = -802.433978146321,
-							["w"] = 312.500152587891,
-							["h"] = 130.000396728516,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["hide_in_combat_type"] = 1,
-					["menu_icons_size"] = 0.850000023841858,
-					["color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						0, -- [4]
-					},
-					["menu_anchor"] = {
-						16, -- [1]
-						0, -- [2]
-						["side"] = 2,
-					},
-					["__snapV"] = true,
-					["__snapH"] = false,
-					["bg_r"] = 0.0941176470588235,
-					["statusbar_info"] = {
-						["alpha"] = 0,
-						["overlay"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["switch_healer_in_combat"] = false,
-					["hide_out_of_combat"] = false,
-					["__was_opened"] = true,
-					["following"] = {
-						["enabled"] = false,
-						["bar_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["color_buttons"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["switch_healer"] = false,
-					["bars_sort_direction"] = 1,
-					["show_sidebars"] = false,
-					["skin"] = "Minimalistic",
-					["stretch_button_side"] = 1,
-					["bars_grow_direction"] = 1,
-					["tooltip"] = {
-						["n_abilities"] = 3,
-						["n_enemies"] = 3,
-					},
-					["StatusBarSaved"] = {
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["options"] = {
-							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["textXMod"] = 0,
-								["textFace"] = "Accidental Presidency",
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["segmentType"] = 2,
-								["textXMod"] = 0,
-								["textFace"] = "Accidental Presidency",
-								["textAlign"] = 0,
-								["textStyle"] = 2,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["timeType"] = 1,
-								["textFace"] = "Accidental Presidency",
-								["textAlign"] = 0,
-								["textXMod"] = 6,
-								["textStyle"] = 2,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-						},
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-					},
-					["bg_alpha"] = 0.0984569266438484,
-					["switch_all_roles_in_combat"] = false,
-					["instance_button_anchor"] = {
-						-27, -- [1]
-						1, -- [2]
-					},
-					["version"] = 3,
-					["row_info"] = {
-						["textR_outline"] = false,
-						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
-						["textL_outline"] = false,
-						["textR_outline_small"] = true,
-						["textR_show_data"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-						["textL_enable_custom_text"] = false,
-						["fixed_text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["space"] = {
-							["right"] = 0,
-							["left"] = 0,
-							["between"] = 0,
-						},
-						["texture_background_class_color"] = false,
-						["start_after_icon"] = false,
-						["font_face_file"] = "Fonts\\ARKai_T.ttf",
-						["textL_custom_text"] = "{data1}. {data3}{data2}",
-						["font_size"] = 10,
-						["texture_custom_file"] = "Interface\\",
-						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
-						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small",
-						["height"] = 14,
-						["models"] = {
-							["upper_model"] = "Spells\\6FX_Bonfire.M2",
-							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
-							["upper_alpha"] = 0.402470767498016,
-							["lower_enabled"] = false,
-							["lower_alpha"] = 0.1,
-							["upper_enabled"] = false,
-						},
-						["textR_bracket"] = "[",
-						["textR_enable_custom_text"] = false,
-						["backdrop"] = {
-							["enabled"] = false,
-							["texture"] = "Details BarBorder 2",
-							["color"] = {
-								1, -- [1]
-								1, -- [2]
-								1, -- [3]
-								1, -- [4]
-							},
-							["size"] = 12,
-						},
-						["fixed_texture_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["textL_show_number"] = true,
-						["fixed_texture_background_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.150228589773178, -- [4]
-						},
-						["percent_type"] = 1,
-						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
-						["texture"] = "BantoBar",
-						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
-						["textL_outline_small"] = true,
-						["textL_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["texture_background"] = "Details D'ictum (reverse)",
-						["alpha"] = 1,
-						["textL_class_colors"] = false,
-						["textR_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["no_icon"] = false,
-						["textR_class_colors"] = false,
-						["texture_custom"] = "",
-						["font_face"] = "AR ZhongkaiGBK Medium",
-						["texture_class_colors"] = true,
-						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["fast_ps_update"] = true,
-						["textR_separator"] = "|",
-						["use_spec_icons"] = true,
-					},
-					["__locked"] = false,
-					["menu_alpha"] = {
-						["enabled"] = false,
-						["onleave"] = 1,
-						["ignorebars"] = false,
-						["iconstoo"] = true,
-						["onenter"] = 1,
-					},
-					["switch_tank_in_combat"] = false,
-					["row_show_animation"] = {
-						["anim"] = "Fade",
-						["options"] = {
-						},
-					},
-					["menu_anchor_down"] = {
-						16, -- [1]
-						-3, -- [2]
-					},
-					["strata"] = "LOW",
-					["switch_damager_in_combat"] = false,
-					["__snap"] = {
-						[2] = 2,
-					},
-					["switch_tank"] = false,
-					["hide_in_combat_alpha"] = 0,
-					["switch_all_roles_after_wipe"] = false,
-					["menu_icons"] = {
-						true, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						["space"] = -2,
-						["shadow"] = false,
-					},
-					["switch_damager"] = false,
-					["micro_displays_side"] = 2,
-					["libwindow"] = {
-						["y"] = 17.5104973840134,
-						["x"] = 1.50004375903808,
-						["point"] = "LEFT",
-					},
-					["window_scale"] = 0.99882173538208,
-					["attribute_text"] = {
-						["show_timer"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-						["shadow"] = false,
-						["side"] = 1,
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["custom_text"] = "{name}",
-						["text_face"] = "Arial Narrow",
-						["anchor"] = {
-							3, -- [1]
-							3, -- [2]
-						},
-						["enabled"] = true,
-						["enable_custom_text"] = false,
-						["text_size"] = 12,
-					},
-					["auto_hide_menu"] = {
-						["left"] = false,
-						["right"] = false,
-					},
-					["desaturated_menu"] = false,
-					["grab_on_top"] = false,
-					["plugins_grow_direction"] = 1,
-					["ignore_mass_showhide"] = false,
-					["auto_current"] = true,
-					["toolbar_side"] = 1,
-					["bg_g"] = 0.0941176470588235,
-					["skin_custom"] = "",
-					["hide_in_combat"] = false,
-					["posicao"] = {
-						["normal"] = {
-							["y"] = 17.5105545587299,
-							["x"] = -802.433978146321,
-							["w"] = 312.500152587891,
-							["h"] = 130.000396728516,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["show_statusbar"] = true,
-					["backdrop_texture"] = "Details Ground",
-					["wallpaper"] = {
-						["enabled"] = false,
-						["texture"] = "Interface\\AddOns\\Details\\images\\background",
-						["texcoord"] = {
-							0, -- [1]
-							1, -- [2]
-							0, -- [3]
-							0.7, -- [4]
-						},
-						["overlay"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["anchor"] = "all",
-						["height"] = 130.000045776367,
-						["alpha"] = 0.5,
-						["width"] = 312.500030517578,
-					},
-					["total_bar"] = {
-						["enabled"] = true,
-						["only_in_group"] = false,
-						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
-						["color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["bars_inverted"] = false,
-					["hide_icon"] = false,
-					["micro_displays_locked"] = true,
-					["bg_b"] = 0.0941176470588235,
-				}, -- [1]
-				{
-					["__pos"] = {
-						["normal"] = {
-							["y"] = -146.296426780169,
-							["x"] = -802.433978146321,
-							["w"] = 312.500152587891,
-							["h"] = 130.000640869141,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["hide_in_combat_type"] = 1,
-					["menu_icons_size"] = 0.850000023841858,
-					["color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						0, -- [4]
-					},
-					["menu_anchor"] = {
-						16, -- [1]
-						0, -- [2]
-						["side"] = 2,
-					},
-					["__snapV"] = true,
-					["__snapH"] = false,
-					["bg_r"] = 0.0941176470588235,
-					["statusbar_info"] = {
-						["alpha"] = 0,
-						["overlay"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["switch_healer_in_combat"] = false,
-					["hide_out_of_combat"] = false,
-					["__was_opened"] = true,
-					["following"] = {
-						["bar_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["enabled"] = false,
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["color_buttons"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["switch_healer"] = false,
-					["bars_sort_direction"] = 1,
-					["show_sidebars"] = false,
-					["skin"] = "Minimalistic",
-					["stretch_button_side"] = 1,
-					["bars_grow_direction"] = 1,
-					["tooltip"] = {
-						["n_abilities"] = 3,
-						["n_enemies"] = 3,
-					},
-					["StatusBarSaved"] = {
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["options"] = {
-							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["textXMod"] = 0,
-								["textFace"] = "Accidental Presidency",
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["segmentType"] = 2,
-								["textXMod"] = 0,
-								["textFace"] = "Accidental Presidency",
-								["textAlign"] = 0,
-								["textStyle"] = 2,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["timeType"] = 1,
-								["textFace"] = "Accidental Presidency",
-								["textAlign"] = 0,
-								["textXMod"] = 6,
-								["textStyle"] = 2,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-						},
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-					},
-					["bg_alpha"] = 0.0984569266438484,
-					["switch_all_roles_in_combat"] = false,
-					["switch_tank_in_combat"] = false,
-					["version"] = 3,
-					["row_info"] = {
-						["textR_outline"] = false,
-						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
-						["textL_outline"] = false,
-						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
-						["textL_outline_small"] = true,
-						["textL_enable_custom_text"] = false,
-						["fixed_text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["space"] = {
-							["right"] = 0,
-							["left"] = 0,
-							["between"] = 0,
-						},
-						["texture_background_class_color"] = false,
-						["start_after_icon"] = false,
-						["font_face_file"] = "Fonts\\ARKai_T.ttf",
-						["textL_custom_text"] = "{data1}. {data3}{data2}",
-						["models"] = {
-							["upper_model"] = "Spells\\6FX_Bonfire.M2",
-							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
-							["upper_alpha"] = 0.402470767498016,
-							["lower_enabled"] = false,
-							["lower_alpha"] = 0.1,
-							["upper_enabled"] = false,
-						},
-						["height"] = 14,
-						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
-						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small",
-						["textR_bracket"] = "[",
-						["use_spec_icons"] = true,
-						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["textR_enable_custom_text"] = false,
-						["font_size"] = 10,
-						["fixed_texture_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["textL_show_number"] = true,
-						["texture"] = "BantoBar",
-						["texture_custom"] = "",
-						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
-						["fixed_texture_background_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.150228589773178, -- [4]
-						},
-						["textR_outline_small"] = true,
-						["textL_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["textR_class_colors"] = false,
-						["textL_class_colors"] = false,
-						["textR_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["texture_background"] = "Details D'ictum (reverse)",
-						["alpha"] = 1,
-						["no_icon"] = false,
-						["backdrop"] = {
-							["enabled"] = false,
-							["size"] = 12,
-							["color"] = {
-								1, -- [1]
-								1, -- [2]
-								1, -- [3]
-								1, -- [4]
-							},
-							["texture"] = "Details BarBorder 2",
-						},
-						["percent_type"] = 1,
-						["font_face"] = "AR ZhongkaiGBK Medium",
-						["texture_class_colors"] = true,
-						["textR_show_data"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-						["fast_ps_update"] = true,
-						["textR_separator"] = "|",
-						["texture_custom_file"] = "Interface\\",
-					},
-					["__locked"] = false,
-					["menu_alpha"] = {
-						["enabled"] = false,
-						["onenter"] = 1,
-						["iconstoo"] = true,
-						["ignorebars"] = false,
-						["onleave"] = 1,
-					},
-					["instance_button_anchor"] = {
-						-27, -- [1]
-						1, -- [2]
-					},
-					["row_show_animation"] = {
-						["anim"] = "Fade",
-						["options"] = {
-						},
-					},
-					["menu_anchor_down"] = {
-						16, -- [1]
-						-3, -- [2]
-					},
-					["strata"] = "LOW",
-					["switch_damager_in_combat"] = false,
-					["__snap"] = {
-						[4] = 1,
-					},
-					["switch_tank"] = false,
-					["hide_in_combat_alpha"] = 0,
-					["switch_all_roles_after_wipe"] = false,
-					["menu_icons"] = {
-						true, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						["space"] = -2,
-						["shadow"] = false,
-					},
-					["switch_damager"] = false,
-					["micro_displays_side"] = 2,
-					["libwindow"] = {
-						["y"] = -146.29645010837,
-						["x"] = 1.50004375903808,
-						["point"] = "LEFT",
-					},
-					["window_scale"] = 0.99882173538208,
-					["attribute_text"] = {
-						["enabled"] = true,
-						["shadow"] = false,
-						["side"] = 1,
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["custom_text"] = "{name}",
-						["text_face"] = "Arial Narrow",
-						["anchor"] = {
-							3, -- [1]
-							3, -- [2]
-						},
-						["text_size"] = 12,
-						["enable_custom_text"] = false,
-						["show_timer"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-					},
-					["auto_hide_menu"] = {
-						["left"] = false,
-						["right"] = false,
-					},
-					["desaturated_menu"] = false,
-					["grab_on_top"] = false,
-					["plugins_grow_direction"] = 1,
-					["ignore_mass_showhide"] = false,
-					["auto_current"] = true,
-					["toolbar_side"] = 1,
-					["bg_g"] = 0.0941176470588235,
-					["skin_custom"] = "",
-					["hide_in_combat"] = false,
-					["posicao"] = {
-						["normal"] = {
-							["y"] = -146.296426780169,
-							["x"] = -802.433978146321,
-							["w"] = 312.500152587891,
-							["h"] = 130.000640869141,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["show_statusbar"] = true,
-					["backdrop_texture"] = "Details Ground",
-					["wallpaper"] = {
-						["overlay"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["texture"] = "Interface\\AddOns\\Details\\images\\background",
-						["texcoord"] = {
-							0, -- [1]
-							1, -- [2]
-							0, -- [3]
-							0.7, -- [4]
-						},
-						["enabled"] = false,
-						["anchor"] = "all",
-						["height"] = 114.042518615723,
-						["alpha"] = 0.5,
-						["width"] = 283.000183105469,
-					},
-					["total_bar"] = {
-						["enabled"] = true,
-						["only_in_group"] = false,
-						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
-						["color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["bars_inverted"] = false,
-					["hide_icon"] = false,
-					["micro_displays_locked"] = true,
-					["bg_b"] = 0.0941176470588235,
-				}, -- [2]
-			},
-			["deadlog_limit"] = 16,
-			["instances_segments_locked"] = true,
-			["instances_no_libwindow"] = false,
-			["minimum_combat_time"] = 5,
-			["data_broker_text"] = "",
-			["cloud_capture"] = true,
-			["damage_taken_everything"] = false,
-			["scroll_speed"] = 2,
-			["new_window_size"] = {
-				["height"] = 130,
-				["width"] = 320,
-			},
-			["memory_threshold"] = 3,
-			["deadlog_events"] = 45,
-			["class_specs_coords"] = {
-				[62] = {
-					0.251953125, -- [1]
-					0.375, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[63] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[250] = {
-					0, -- [1]
-					0.125, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[251] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[252] = {
-					0.25, -- [1]
-					0.375, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[253] = {
-					0.875, -- [1]
-					1, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[254] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[255] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[66] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[257] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[258] = {
-					0.6328125, -- [1]
-					0.75, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[259] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[260] = {
-					0.875, -- [1]
-					1, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[577] = {
-					0.25, -- [1]
-					0.375, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[262] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[581] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[264] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[265] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[266] = {
-					0.625, -- [1]
-					0.75, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[267] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[268] = {
-					0.625, -- [1]
-					0.75, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[269] = {
-					0.875, -- [1]
-					1, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[270] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[70] = {
-					0.251953125, -- [1]
-					0.375, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[102] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[71] = {
-					0.875, -- [1]
-					1, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[103] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[72] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[104] = {
-					0.625, -- [1]
-					0.75, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[73] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[64] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[105] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[65] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[256] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[261] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[263] = {
-					0.25, -- [1]
-					0.375, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-			},
-			["close_shields"] = false,
-			["class_coords"] = {
-				["HUNTER"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["WARRIOR"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["ROGUE"] = {
-					0.49609375, -- [1]
-					0.7421875, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["MAGE"] = {
-					0.25, -- [1]
-					0.49609375, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["PET"] = {
-					0.25, -- [1]
-					0.49609375, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["DRUID"] = {
-					0.7421875, -- [1]
-					0.98828125, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["MONK"] = {
-					0.5, -- [1]
-					0.73828125, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["DEATHKNIGHT"] = {
-					0.25, -- [1]
-					0.5, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["ENEMY"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["UNKNOW"] = {
-					0.5, -- [1]
-					0.75, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["PRIEST"] = {
-					0.49609375, -- [1]
-					0.7421875, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["UNGROUPPLAYER"] = {
-					0.5, -- [1]
-					0.75, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["Alliance"] = {
-					0.49609375, -- [1]
-					0.7421875, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["WARLOCK"] = {
-					0.7421875, -- [1]
-					0.98828125, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["DEMONHUNTER"] = {
-					0.73828126, -- [1]
-					1, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["Horde"] = {
-					0.7421875, -- [1]
-					0.98828125, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["PALADIN"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["SHAMAN"] = {
-					0.25, -- [1]
-					0.49609375, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["MONSTER"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-			},
-			["font_sizes"] = {
-				["menus"] = 10,
-			},
-			["disable_alldisplays_window"] = false,
-			["overall_clear_newboss"] = true,
-			["report_schema"] = 1,
-			["total_abbreviation"] = 2,
-			["class_colors"] = {
-				["HUNTER"] = {
-					0.67, -- [1]
-					0.83, -- [2]
-					0.45, -- [3]
-				},
-				["WARRIOR"] = {
-					0.78, -- [1]
-					0.61, -- [2]
-					0.43, -- [3]
-				},
-				["SHAMAN"] = {
-					0, -- [1]
-					0.44, -- [2]
-					0.87, -- [3]
-				},
-				["MAGE"] = {
-					0.41, -- [1]
-					0.8, -- [2]
-					0.94, -- [3]
-				},
-				["ARENA_YELLOW"] = {
-					0.9, -- [1]
-					0.9, -- [2]
-					0, -- [3]
-				},
-				["UNGROUPPLAYER"] = {
-					0.4, -- [1]
-					0.4, -- [2]
-					0.4, -- [3]
-				},
-				["DRUID"] = {
-					1, -- [1]
-					0.49, -- [2]
-					0.04, -- [3]
-				},
-				["MONK"] = {
-					0, -- [1]
-					1, -- [2]
-					0.59, -- [3]
-				},
-				["DEATHKNIGHT"] = {
-					0.77, -- [1]
-					0.12, -- [2]
-					0.23, -- [3]
-				},
-				["WARLOCK"] = {
-					0.58, -- [1]
-					0.51, -- [2]
-					0.79, -- [3]
-				},
-				["UNKNOW"] = {
-					0.2, -- [1]
-					0.2, -- [2]
-					0.2, -- [3]
-				},
-				["PRIEST"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				},
-				["PALADIN"] = {
-					0.96, -- [1]
-					0.55, -- [2]
-					0.73, -- [3]
-				},
-				["ROGUE"] = {
-					1, -- [1]
-					0.96, -- [2]
-					0.41, -- [3]
-				},
-				["ENEMY"] = {
-					0.94117, -- [1]
-					0, -- [2]
-					0.0196, -- [3]
-					1, -- [4]
-				},
-				["DEMONHUNTER"] = {
-					0.64, -- [1]
-					0.19, -- [2]
-					0.79, -- [3]
-				},
-				["version"] = 1,
-				["NEUTRAL"] = {
-					1, -- [1]
-					1, -- [2]
-					0, -- [3]
-				},
-				["PET"] = {
-					0.3, -- [1]
-					0.4, -- [2]
-					0.5, -- [3]
-				},
-				["ARENA_GREEN"] = {
-					0.1, -- [1]
-					0.85, -- [2]
-					0.1, -- [3]
-				},
-			},
-			["clear_graphic"] = false,
-			["hotcorner_topleft"] = {
-				["hide"] = false,
-			},
-			["segments_auto_erase"] = 2,
-			["options_group_edit"] = true,
-			["segments_amount_to_save"] = 25,
-			["minimap"] = {
-				["onclick_what_todo"] = 1,
-				["radius"] = 160,
-				["hide"] = true,
-				["minimapPos"] = 214.649611459411,
-				["text_format"] = 3,
-				["text_type"] = 1,
-			},
-			["instances_amount"] = 5,
-			["max_window_size"] = {
-				["height"] = 450,
-				["width"] = 480,
-			},
-			["use_scroll"] = false,
-			["only_pvp_frags"] = false,
-			["disable_stretch_button"] = false,
-			["time_type_original"] = 2,
-			["standard_skin"] = false,
-			["window_clamp"] = {
-				-8, -- [1]
-				0, -- [2]
-				21, -- [3]
-				-14, -- [4]
-			},
-			["segments_panic_mode"] = false,
-			["numerical_system_symbols"] = "auto",
-			["default_bg_color"] = 0.0941,
-			["row_fade_out"] = {
-				"out", -- [1]
-				0.2, -- [2]
-			},
-			["trash_auto_remove"] = false,
-			["death_tooltip_width"] = 300,
-			["windows_fade_out"] = {
-				"out", -- [1]
-				0.2, -- [2]
-			},
-			["force_activity_time_pvp"] = true,
-			["pvp_as_group"] = true,
-			["overall_clear_logout"] = false,
-			["disable_reset_button"] = false,
-			["animate_scroll"] = false,
-			["chat_tab_embed"] = {
-				["enabled"] = false,
-				["tab_name"] = "",
-				["w2_pos"] = {
-					["y"] = -184.745407104492,
-					["h"] = 130.000045776367,
-					["point"] = "LEFT",
-					["pos_table"] = true,
-					["x_legacy"] = -803.749984741211,
-					["y_legacy"] = -184.745391845703,
-					["w"] = 312.500030517578,
-					["x"] = 0,
-				},
-				["w1_pos"] = {
-					["y"] = -20.745361328125,
-					["h"] = 130.000045776367,
-					["point"] = "LEFT",
-					["pos_table"] = true,
-					["x_legacy"] = -803.749984741211,
-					["y_legacy"] = -20.745361328125,
-					["w"] = 312.500030517578,
-					["x"] = 0,
-				},
-				["single_window"] = false,
-			},
-			["clear_ungrouped"] = true,
-			["default_bg_alpha"] = 0.5,
-			["use_battleground_server_parser"] = true,
-		},
-		["龙轻雪-主宰之剑"] = {
-			["capture_real"] = {
-				["heal"] = true,
-				["spellcast"] = true,
-				["miscdata"] = true,
-				["aura"] = true,
-				["energy"] = true,
-				["damage"] = true,
-			},
-			["row_fade_in"] = {
-				"in", -- [1]
-				0.2, -- [2]
-			},
-			["player_details_window"] = {
-				["scale"] = 1,
-				["skin"] = "ElvUI",
-				["bar_texture"] = "Skyline",
-			},
-			["numerical_system"] = 1,
-			["use_row_animations"] = false,
-			["report_heal_links"] = false,
-			["remove_realm_from_name"] = true,
-			["class_icons_small"] = "Interface\\AddOns\\Details\\images\\classes_small",
-			["report_to_who"] = "",
-			["overall_flag"] = 13,
-			["profile_save_pos"] = true,
-			["tooltip"] = {
-				["header_statusbar"] = {
-					0.3, -- [1]
-					0.3, -- [2]
-					0.3, -- [3]
-					0.8, -- [4]
-					false, -- [5]
-					false, -- [6]
-					"WorldState Score", -- [7]
-				},
-				["fontcolor_right"] = {
-					1, -- [1]
-					0.7, -- [2]
-					0, -- [3]
-					1, -- [4]
-				},
-				["tooltip_max_targets"] = 2,
-				["icon_size"] = {
-					["W"] = 13,
-					["H"] = 13,
-				},
-				["tooltip_max_pets"] = 2,
-				["anchor_relative"] = "top",
-				["abbreviation"] = 2,
-				["anchored_to"] = 1,
-				["show_amount"] = false,
-				["header_text_color"] = {
-					1, -- [1]
-					0.9176, -- [2]
-					0, -- [3]
-					1, -- [4]
-				},
-				["fontsize"] = 10,
-				["background"] = {
-					0.196, -- [1]
-					0.196, -- [2]
-					0.196, -- [3]
-					0.8697, -- [4]
-				},
-				["submenu_wallpaper"] = true,
-				["fontsize_title"] = 10,
-				["fontcolor"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-					1, -- [4]
-				},
-				["commands"] = {
-				},
-				["tooltip_max_abilities"] = 5,
-				["fontface"] = "Friz Quadrata TT",
-				["border_color"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					1, -- [4]
-				},
-				["border_texture"] = "Details BarBorder 3",
-				["anchor_offset"] = {
-					0, -- [1]
-					0, -- [2]
-				},
-				["fontshadow"] = false,
-				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
-				["border_size"] = 14,
-				["maximize_method"] = 1,
-				["anchor_screen_pos"] = {
-					507.7, -- [1]
-					-350.5, -- [2]
-				},
-				["anchor_point"] = "bottom",
-				["menus_bg_coords"] = {
-					0.309777336120606, -- [1]
-					0.924000015258789, -- [2]
-					0.213000011444092, -- [3]
-					0.279000015258789, -- [4]
-				},
-				["icon_border_texcoord"] = {
-					["R"] = 0.921875,
-					["L"] = 0.078125,
-					["T"] = 0.078125,
-					["B"] = 0.921875,
-				},
-				["menus_bg_color"] = {
-					0.8, -- [1]
-					0.8, -- [2]
-					0.8, -- [3]
-					0.2, -- [4]
-				},
-			},
-			["ps_abbreviation"] = 3,
-			["world_combat_is_trash"] = false,
-			["update_speed"] = 1,
-			["track_item_level"] = true,
-			["windows_fade_in"] = {
-				"in", -- [1]
-				0.2, -- [2]
-			},
-			["instances_menu_click_to_open"] = false,
-			["overall_clear_newchallenge"] = true,
-			["time_type"] = 2,
-			["instances_disable_bar_highlight"] = false,
-			["trash_concatenate"] = false,
-			["disable_stretch_from_toolbar"] = false,
-			["disable_lock_ungroup_buttons"] = false,
-			["memory_ram"] = 64,
-			["disable_window_groups"] = false,
-			["instances_suppress_trash"] = 0,
-			["font_faces"] = {
-				["menus"] = "Friz Quadrata TT",
-			},
-			["segments_amount"] = 12,
-			["report_lines"] = 5,
-			["skin"] = "WoW Interface",
-			["override_spellids"] = true,
-			["instances"] = {
-				{
-					["__pos"] = {
-						["normal"] = {
-							["y"] = 29.2501220703125,
-							["x"] = -749.250213623047,
-							["w"] = 320,
-							["h"] = 129.999984741211,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["show_statusbar"] = false,
-					["switch_healer_in_combat"] = false,
-					["color"] = {
-						0.333333333333333, -- [1]
-						0.333333333333333, -- [2]
-						0.333333333333333, -- [3]
-						0.3777777777777, -- [4]
-					},
-					["menu_anchor"] = {
-						16, -- [1]
-						0, -- [2]
-						["side"] = 2,
-					},
-					["bg_r"] = 0.0941176470588235,
-					["bars_inverted"] = false,
-					["menu_icons_size"] = 0.850000023841858,
-					["hide_out_of_combat"] = false,
-					["micro_displays_locked"] = true,
-					["following"] = {
-						["enabled"] = false,
-						["bar_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["color_buttons"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["switch_healer"] = false,
-					["skin_custom"] = "",
-					["backdrop_texture"] = "Details Ground",
-					["stretch_button_side"] = 1,
-					["bg_alpha"] = 0.0984569266438484,
-					["row_info"] = {
-						["textR_outline"] = false,
-						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
-						["textL_outline"] = false,
-						["textR_outline_small"] = true,
-						["textR_show_data"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-						["percent_type"] = 1,
-						["fixed_text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["space"] = {
-							["right"] = 0,
-							["left"] = 0,
-							["between"] = 0,
-						},
-						["texture_background_class_color"] = false,
-						["start_after_icon"] = false,
-						["font_face_file"] = "Fonts\\ARKai_T.ttf",
-						["textL_custom_text"] = "{data1}. {data3}{data2}",
-						["font_size"] = 10,
-						["height"] = 14,
-						["texture_file"] = "Interface\\AddOns\\Details\\images\\BantoBar",
-						["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small_alpha",
-						["texture_custom_file"] = "Interface\\",
-						["use_spec_icons"] = true,
-						["textR_bracket"] = "(",
-						["texture_custom"] = "",
-						["textL_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["fixed_texture_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						},
-						["textL_show_number"] = true,
-						["textL_outline_small"] = true,
-						["fixed_texture_background_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.150228589773178, -- [4]
-						},
-						["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
-						["texture"] = "BantoBar",
-						["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
-						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["textL_enable_custom_text"] = false,
-						["texture_background"] = "Details D'ictum (reverse)",
-						["alpha"] = 1,
-						["textR_class_colors"] = false,
-						["textR_outline_small_color"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["no_icon"] = false,
-						["textL_class_colors"] = false,
-						["textR_enable_custom_text"] = false,
-						["font_face"] = "Accidental Presidency",
-						["texture_class_colors"] = true,
-						["backdrop"] = {
-							["enabled"] = false,
-							["texture"] = "Details BarBorder 2",
-							["color"] = {
-								1, -- [1]
-								1, -- [2]
-								1, -- [3]
-								1, -- [4]
-							},
-							["size"] = 12,
-						},
-						["fast_ps_update"] = false,
-						["textR_separator"] = ",",
-						["models"] = {
-							["upper_model"] = "Spells\\AcidBreath_SuperGreen.M2",
-							["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
-							["upper_alpha"] = 0.5,
-							["lower_enabled"] = false,
-							["lower_alpha"] = 0.1,
-							["upper_enabled"] = false,
-						},
-					},
-					["__was_opened"] = true,
-					["StatusBarSaved"] = {
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
-						["options"] = {
-							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["textXMod"] = 0,
-								["textFace"] = "Accidental Presidency",
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
-								["textYMod"] = 1,
-								["segmentType"] = 2,
-								["textFace"] = "Accidental Presidency",
-								["textXMod"] = 0,
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-							},
-							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
-								["textYMod"] = 1,
-								["textFace"] = "Accidental Presidency",
-								["textXMod"] = 6,
-								["timeType"] = 1,
-								["textStyle"] = 2,
-								["textAlign"] = 0,
-								["textSize"] = 10,
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-							},
-						},
-					},
-					["ignore_mass_showhide"] = false,
-					["switch_all_roles_in_combat"] = false,
-					["switch_tank_in_combat"] = false,
-					["version"] = 3,
-					["attribute_text"] = {
-						["enabled"] = true,
-						["shadow"] = false,
-						["side"] = 1,
-						["text_size"] = 12,
-						["custom_text"] = "{name}",
-						["text_face"] = "Accidental Presidency",
-						["anchor"] = {
-							-18, -- [1]
-							3, -- [2]
-						},
-						["show_timer"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-						["enable_custom_text"] = false,
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["__locked"] = false,
-					["menu_alpha"] = {
-						["enabled"] = false,
-						["onleave"] = 1,
-						["ignorebars"] = false,
-						["iconstoo"] = true,
-						["onenter"] = 1,
-					},
-					["plugins_grow_direction"] = 1,
-					["desaturated_menu"] = false,
-					["statusbar_info"] = {
-						["alpha"] = 0.3777777777777,
-						["overlay"] = {
-							0.333333333333333, -- [1]
-							0.333333333333333, -- [2]
-							0.333333333333333, -- [3]
-						},
-					},
-					["strata"] = "LOW",
-					["row_show_animation"] = {
-						["anim"] = "Fade",
-						["options"] = {
-						},
-					},
-					["__snap"] = {
-					},
-					["switch_tank"] = false,
-					["hide_in_combat_alpha"] = 0,
-					["switch_all_roles_after_wipe"] = false,
-					["menu_icons"] = {
-						true, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						["space"] = -2,
-						["shadow"] = false,
-					},
-					["switch_damager"] = false,
-					["auto_hide_menu"] = {
-						["left"] = false,
-						["right"] = false,
-					},
-					["window_scale"] = 1,
-					["bars_grow_direction"] = 1,
-					["hide_in_combat_type"] = 1,
-					["bars_sort_direction"] = 1,
-					["switch_damager_in_combat"] = false,
-					["hide_icon"] = true,
-					["grab_on_top"] = false,
-					["libwindow"] = {
-						["y"] = 29.2500610351563,
-						["x"] = 50.7497749328613,
-						["point"] = "LEFT",
-					},
-					["auto_current"] = true,
-					["toolbar_side"] = 1,
-					["bg_g"] = 0.0941176470588235,
-					["micro_displays_side"] = 2,
-					["hide_in_combat"] = false,
-					["posicao"] = {
-						["normal"] = {
-							["y"] = 29.2501220703125,
-							["x"] = -749.250213623047,
-							["w"] = 320,
-							["h"] = 129.999984741211,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["menu_anchor_down"] = {
-						16, -- [1]
-						-3, -- [2]
-					},
-					["show_sidebars"] = false,
-					["wallpaper"] = {
-						["enabled"] = false,
-						["texcoord"] = {
-							0, -- [1]
-							1, -- [2]
-							0, -- [3]
-							0.7, -- [4]
-						},
-						["overlay"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["anchor"] = "all",
-						["height"] = 114.042518615723,
-						["alpha"] = 0.5,
-						["width"] = 283.000183105469,
-					},
-					["total_bar"] = {
-						["enabled"] = false,
-						["only_in_group"] = true,
-						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
-						["color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["instance_button_anchor"] = {
-						-27, -- [1]
-						1, -- [2]
-					},
-					["tooltip"] = {
-						["n_abilities"] = 3,
-						["n_enemies"] = 3,
-					},
-					["skin"] = "Minimalistic",
-					["bg_b"] = 0.0941176470588235,
-				}, -- [1]
-			},
-			["deadlog_limit"] = 16,
-			["instances_segments_locked"] = false,
-			["instances_no_libwindow"] = false,
-			["minimum_combat_time"] = 5,
-			["data_broker_text"] = "",
-			["cloud_capture"] = true,
-			["damage_taken_everything"] = false,
-			["scroll_speed"] = 2,
-			["new_window_size"] = {
-				["height"] = 130,
-				["width"] = 320,
-			},
-			["memory_threshold"] = 3,
-			["deadlog_events"] = 32,
-			["class_specs_coords"] = {
-				[62] = {
-					0.251953125, -- [1]
-					0.375, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[63] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[250] = {
-					0, -- [1]
-					0.125, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[251] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[252] = {
-					0.25, -- [1]
-					0.375, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[253] = {
-					0.875, -- [1]
-					1, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[254] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[255] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[66] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[257] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[258] = {
-					0.6328125, -- [1]
-					0.75, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[259] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[260] = {
-					0.875, -- [1]
-					1, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[577] = {
-					0.25, -- [1]
-					0.375, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[262] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[581] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[264] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[265] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[266] = {
-					0.625, -- [1]
-					0.75, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[267] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[268] = {
-					0.625, -- [1]
-					0.75, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[269] = {
-					0.875, -- [1]
-					1, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[270] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-				[70] = {
-					0.251953125, -- [1]
-					0.375, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[102] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[71] = {
-					0.875, -- [1]
-					1, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[103] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[72] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[104] = {
-					0.625, -- [1]
-					0.75, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[73] = {
-					0.125, -- [1]
-					0.25, -- [2]
-					0.5, -- [3]
-					0.625, -- [4]
-				},
-				[263] = {
-					0.25, -- [1]
-					0.375, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[105] = {
-					0.75, -- [1]
-					0.875, -- [2]
-					0, -- [3]
-					0.125, -- [4]
-				},
-				[261] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.375, -- [3]
-					0.5, -- [4]
-				},
-				[256] = {
-					0.375, -- [1]
-					0.5, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[65] = {
-					0, -- [1]
-					0.125, -- [2]
-					0.25, -- [3]
-					0.375, -- [4]
-				},
-				[64] = {
-					0.5, -- [1]
-					0.625, -- [2]
-					0.125, -- [3]
-					0.25, -- [4]
-				},
-			},
-			["close_shields"] = false,
-			["class_coords"] = {
-				["HUNTER"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["WARRIOR"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["SHAMAN"] = {
-					0.25, -- [1]
-					0.49609375, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["MAGE"] = {
-					0.25, -- [1]
-					0.49609375, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["PET"] = {
-					0.25, -- [1]
-					0.49609375, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["DRUID"] = {
-					0.7421875, -- [1]
-					0.98828125, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["MONK"] = {
-					0.5, -- [1]
-					0.73828125, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["DEATHKNIGHT"] = {
-					0.25, -- [1]
-					0.5, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["UNGROUPPLAYER"] = {
-					0.5, -- [1]
-					0.75, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["UNKNOW"] = {
-					0.5, -- [1]
-					0.75, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["PRIEST"] = {
-					0.49609375, -- [1]
-					0.7421875, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["WARLOCK"] = {
-					0.7421875, -- [1]
-					0.98828125, -- [2]
-					0.25, -- [3]
-					0.5, -- [4]
-				},
-				["Alliance"] = {
-					0.49609375, -- [1]
-					0.7421875, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["ENEMY"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["DEMONHUNTER"] = {
-					0.73828126, -- [1]
-					1, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["Horde"] = {
-					0.7421875, -- [1]
-					0.98828125, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-				["PALADIN"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.5, -- [3]
-					0.75, -- [4]
-				},
-				["ROGUE"] = {
-					0.49609375, -- [1]
-					0.7421875, -- [2]
-					0, -- [3]
-					0.25, -- [4]
-				},
-				["MONSTER"] = {
-					0, -- [1]
-					0.25, -- [2]
-					0.75, -- [3]
-					1, -- [4]
-				},
-			},
-			["font_sizes"] = {
-				["menus"] = 10,
-			},
-			["disable_alldisplays_window"] = false,
-			["overall_clear_newboss"] = true,
-			["report_schema"] = 1,
-			["hotcorner_topleft"] = {
-				["hide"] = false,
-			},
-			["total_abbreviation"] = 2,
-			["clear_graphic"] = true,
-			["class_colors"] = {
-				["HUNTER"] = {
-					0.67, -- [1]
-					0.83, -- [2]
-					0.45, -- [3]
-				},
-				["WARRIOR"] = {
-					0.78, -- [1]
-					0.61, -- [2]
-					0.43, -- [3]
-				},
-				["ROGUE"] = {
-					1, -- [1]
-					0.96, -- [2]
-					0.41, -- [3]
-				},
-				["MAGE"] = {
-					0.41, -- [1]
-					0.8, -- [2]
-					0.94, -- [3]
-				},
-				["ARENA_YELLOW"] = {
-					0.9, -- [1]
-					0.9, -- [2]
-					0, -- [3]
-				},
-				["UNGROUPPLAYER"] = {
-					0.4, -- [1]
-					0.4, -- [2]
-					0.4, -- [3]
-				},
-				["DRUID"] = {
-					1, -- [1]
-					0.49, -- [2]
-					0.04, -- [3]
-				},
-				["MONK"] = {
-					0, -- [1]
-					1, -- [2]
-					0.59, -- [3]
-				},
-				["DEATHKNIGHT"] = {
-					0.77, -- [1]
-					0.12, -- [2]
-					0.23, -- [3]
-				},
-				["PALADIN"] = {
-					0.96, -- [1]
-					0.55, -- [2]
-					0.73, -- [3]
-				},
-				["UNKNOW"] = {
-					0.2, -- [1]
-					0.2, -- [2]
-					0.2, -- [3]
-				},
-				["PRIEST"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				},
-				["SHAMAN"] = {
-					0, -- [1]
-					0.44, -- [2]
-					0.87, -- [3]
-				},
-				["ENEMY"] = {
-					0.94117, -- [1]
-					0, -- [2]
-					0.0196, -- [3]
-					1, -- [4]
-				},
-				["WARLOCK"] = {
-					0.58, -- [1]
-					0.51, -- [2]
-					0.79, -- [3]
-				},
-				["DEMONHUNTER"] = {
-					0.64, -- [1]
-					0.19, -- [2]
-					0.79, -- [3]
-				},
-				["version"] = 1,
-				["NEUTRAL"] = {
-					1, -- [1]
-					1, -- [2]
-					0, -- [3]
-				},
-				["ARENA_GREEN"] = {
-					0.1, -- [1]
-					0.85, -- [2]
-					0.1, -- [3]
-				},
-				["PET"] = {
-					0.3, -- [1]
-					0.4, -- [2]
-					0.5, -- [3]
-				},
-			},
-			["segments_auto_erase"] = 1,
-			["options_group_edit"] = true,
-			["segments_amount_to_save"] = 5,
-			["minimap"] = {
-				["onclick_what_todo"] = 1,
-				["radius"] = 160,
-				["hide"] = false,
-				["minimapPos"] = 220,
-				["text_format"] = 3,
-				["text_type"] = 1,
-			},
-			["instances_amount"] = 5,
-			["max_window_size"] = {
-				["height"] = 450,
-				["width"] = 480,
-			},
-			["use_scroll"] = false,
-			["only_pvp_frags"] = false,
-			["disable_stretch_button"] = false,
-			["time_type_original"] = 2,
-			["standard_skin"] = false,
-			["window_clamp"] = {
-				-8, -- [1]
-				0, -- [2]
-				21, -- [3]
-				-14, -- [4]
-			},
-			["segments_panic_mode"] = false,
-			["numerical_system_symbols"] = "auto",
-			["default_bg_color"] = 0.0941,
-			["row_fade_out"] = {
-				"out", -- [1]
-				0.2, -- [2]
-			},
-			["trash_auto_remove"] = true,
-			["death_tooltip_width"] = 300,
-			["windows_fade_out"] = {
-				"out", -- [1]
-				0.2, -- [2]
-			},
-			["force_activity_time_pvp"] = true,
-			["pvp_as_group"] = true,
-			["overall_clear_logout"] = false,
-			["disable_reset_button"] = false,
-			["animate_scroll"] = false,
-			["chat_tab_embed"] = {
-				["enabled"] = false,
-				["tab_name"] = "",
-				["single_window"] = false,
-			},
-			["clear_ungrouped"] = true,
-			["default_bg_alpha"] = 0.5,
-			["use_battleground_server_parser"] = true,
-		},
-	},
-	["always_use_profile_name"] = "龙剑曦-主宰之剑",
-	["savedStyles"] = {
-	},
-	["always_use_profile_exception"] = {
-	},
-	["details_auras"] = {
-	},
-	["always_use_profile"] = true,
-	["savedTimeCaptures"] = {
-		{
-			"Player Damage Done", -- [1]
-			"\n	-- the goal of this script is get the current combat then get your character and extract your damage done.\n	-- the first thing to do is get the combat, so, we use here the command \"_detalhes:GetCombat ( \"overall\" \"current\" or \"segment number\")\"\n	\n	local current_combat = _detalhes:GetCombat (\"current\") --> getting the current combat\n	\n	-- the next step is request your character from the combat\n	-- to do this, we take the combat which here we named \"current_combat\" and tells what we want inside parentheses.\n	\n	local my_self = current_combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n	\n	-- _detalhes.playername holds the name of your character.\n	-- DETAILS_ATTRIBUTE_DAMAGE means we want the damage table, _HEAL _ENERGY _MISC is the other 3 tables.\n	\n	-- before we proceed, the result needs to be checked to make sure its a valid result.\n	\n	if (not my_self) then\n		return 0 -- the combat doesnt have *you*, this happens when you didn't deal any damage in the combat yet.\n	end\n	\n	-- now its time to get the total damage.\n	\n	local my_damage = my_self.total\n	\n	-- then finally return the amount to the capture.\n	\n	return my_damage\n	\n", -- [2]
-			{
-				["max_value"] = 0,
-				["last_value"] = 0,
-			}, -- [3]
-			"Chart Viewer", -- [4]
-			"1.0", -- [5]
-			"Interface\\ICONS\\Ability_MeleeDamage", -- [6]
-			true, -- [7]
-		}, -- [1]
-	},
-	["latest_news_saw"] = "v7.2.0.3474",
-	["custom"] = {
-		{
-			["source"] = false,
-			["author"] = "Details!",
-			["desc"] = "显示你的团队中谁在战斗时使用了药水.",
-			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the misc actor container\n				local misc_container = combat:GetActorList ( DETAILS_ATTRIBUTE_MISC )\n\n				--do the loop:\n				for _, player in ipairs ( misc_container ) do \n				    \n				    --only player in group\n				    if (player:IsGroupPlayer()) then\n					\n					local found_potion = false\n					\n					--get the spell debuff uptime container\n					local debuff_uptime_container = player.debuff_uptime and player.debuff_uptime_spells and player.debuff_uptime_spells._ActorTable\n					if (debuff_uptime_container) then\n					    --potion of focus (can't use as pre-potion, so, its amount is always 1\n					    local focus_potion = debuff_uptime_container [188030] --Legion\n					    if (focus_potion) then\n						total = total + 1\n						found_potion = true\n						if (top < 1) then\n						    top = 1\n						end\n						--add amount to the player \n						instance_container:AddValue (player, 1)\n					    end\n					end\n					\n					--get the spell buff uptime container\n					local buff_uptime_container = player.buff_uptime and player.buff_uptime_spells and player.buff_uptime_spells._ActorTable\n					if (buff_uptime_container) then\n					    \n					    --potion of the jade serpent\n					    local jade_serpent_potion = buff_uptime_container [188027] --Legion\n					    if (jade_serpent_potion) then\n						local used = jade_serpent_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of mogu power\n					    local mogu_power_potion = buff_uptime_container [188028] --Legion\n					    if (mogu_power_potion) then\n						local used = mogu_power_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --mana potion\n					    local mana_potion = buff_uptime_container [188017] --Legion\n					    if (mana_potion) then\n						local used = mana_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of prolongued power\n					    local prolongued_power = buff_uptime_container [229206] --Legion\n					    if (prolongued_power) then\n						local used = prolongued_power.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of the mountains\n					    local mountains_potion = buff_uptime_container [188029] --Legion\n					    if (mountains_potion) then\n						local used = mountains_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					end\n					\n					if (found_potion) then\n					    amount = amount + 1\n					end    \n				    end\n				end\n\n				--return:\n				return total, top, amount\n				",
-			["icon"] = "Interface\\ICONS\\Trade_Alchemy_PotionD4",
-			["name"] = "有使用药水",
-			["spellid"] = false,
-			["target"] = false,
-			["tooltip"] = "			--init:\n			local player, combat, instance = ...\n\n			--get the debuff container for potion of focus\n			local debuff_uptime_container = player.debuff_uptime and player.debuff_uptime_spells and player.debuff_uptime_spells._ActorTable\n			if (debuff_uptime_container) then\n			    local focus_potion = debuff_uptime_container [188030] --Legion\n			    if (focus_potion) then\n				local name, _, icon = GetSpellInfo (188030) --Legion\n				GameCooltip:AddLine (name, 1) --> can use only 1 focus potion (can't be pre-potion)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			end\n\n			--get the buff container for all the others potions\n			local buff_uptime_container = player.buff_uptime and player.buff_uptime_spells and player.buff_uptime_spells._ActorTable\n			if (buff_uptime_container) then\n			    --potion of the jade serpent\n			    local jade_serpent_potion = buff_uptime_container [188027] --Legion\n			    if (jade_serpent_potion) then\n				local name, _, icon = GetSpellInfo (188027) --Legion\n				GameCooltip:AddLine (name, jade_serpent_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --potion of mogu power\n			    local mogu_power_potion = buff_uptime_container [188028] --Legion\n			    if (mogu_power_potion) then\n				local name, _, icon = GetSpellInfo (188028) --Legion\n				GameCooltip:AddLine (name, mogu_power_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --mana potion\n			    local mana_potion = buff_uptime_container [188017] --Legion\n			    if (mana_potion) then\n				local name, _, icon = GetSpellInfo (188017) --Legion\n				GameCooltip:AddLine (name, mana_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --prolongued power\n			    local prolongued_power = buff_uptime_container [229206] --Legion\n			    if (prolongued_power) then\n				local name, _, icon = GetSpellInfo (229206) --Legion\n				GameCooltip:AddLine (name, prolongued_power.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --potion of the mountains\n			    local mountains_potion = buff_uptime_container [188029] --Legion\n			    if (mountains_potion) then\n				local name, _, icon = GetSpellInfo (188029) --Legion\n				GameCooltip:AddLine (name, mountains_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			end\n		",
-			["attribute"] = false,
-			["script_version"] = 3,
-		}, -- [1]
-		{
-			["source"] = false,
-			["total_script"] = false,
-			["author"] = "Details! Team",
-			["percent_script"] = false,
-			["desc"] = "Show who in your raid group used the healthstone or a heal potion.",
-			["icon"] = "Interface\\ICONS\\warlock_ healthstone",
-			["spellid"] = false,
-			["name"] = "Health Potion & Stone",
-			["script"] = "			--get the parameters passed\n			local combat, instance_container, instance = ...\n			--declade the values to return\n			local total, top, amount = 0, 0, 0\n			\n			--do the loop\n			local AllHealCharacters = combat:GetActorList (DETAILS_ATTRIBUTE_HEAL)\n			for index, character in ipairs (AllHealCharacters) do\n				local AllSpells = character:GetSpellList()\n				local found = false\n				for spellid, spell in pairs (AllSpells) do\n					if (DETAILS_HEALTH_POTION_LIST [spellid]) then\n						instance_container:AddValue (character, spell.total)\n						total = total + spell.total\n						if (top < spell.total) then\n							top = spell.total\n						end\n						found = true\n					end\n				end\n			\n				if (found) then\n					amount = amount + 1\n				end\n			end\n			--loop end\n			--return the values\n			return total, top, amount\n			",
-			["target"] = false,
-			["tooltip"] = "			--get the parameters passed\n			local actor, combat, instance = ...\n			\n			--get the cooltip object (we dont use the convencional GameTooltip here)\n			local GameCooltip = GameCooltip\n			local R, G, B, A = 0, 0, 0, 0.75\n			\n			local hs = actor:GetSpell (6262)\n			if (hs) then\n				GameCooltip:AddLine (select (1, GetSpellInfo(6262)),  _detalhes:ToK(hs.total))\n				GameCooltip:AddIcon (select (3, GetSpellInfo (6262)), 1, 1, 16, 16)\n				GameCooltip:AddStatusBar (100, 1, R, G, B, A)\n			end\n			\n			local pot = actor:GetSpell (DETAILS_HEALTH_POTION_ID)\n			if (pot) then\n				GameCooltip:AddLine (select (1, GetSpellInfo(DETAILS_HEALTH_POTION_ID)),  _detalhes:ToK(pot.total))\n				GameCooltip:AddIcon (select (3, GetSpellInfo (DETAILS_HEALTH_POTION_ID)), 1, 1, 16, 16)\n				GameCooltip:AddStatusBar (100, 1, R, G, B, A)\n			end\n			\n			local pot = actor:GetSpell (DETAILS_REJU_POTION_ID)\n			if (pot) then\n				GameCooltip:AddLine (select (1, GetSpellInfo(DETAILS_REJU_POTION_ID)),  _detalhes:ToK(pot.total))\n				GameCooltip:AddIcon (select (3, GetSpellInfo (DETAILS_REJU_POTION_ID)), 1, 1, 16, 16)\n				GameCooltip:AddStatusBar (100, 1, R, G, B, A)\n			end\n\n			--Cooltip code\n			",
-			["attribute"] = false,
-			["script_version"] = 13,
-		}, -- [2]
-		{
-			["source"] = false,
-			["tooltip"] = "				\n			",
-			["author"] = "Details!",
-			["percent_script"] = "				local value, top, total, combat, instance = ...\n				return string.format (\"%.1f\", value/top*100)\n			",
-			["desc"] = "每个人造成伤害的时间",
-			["icon"] = "Interface\\ICONS\\Achievement_PVP_H_06",
-			["spellid"] = false,
-			["name"] = "活跃伤害时间",
-			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, amount = 0, 0\n\n				--get the misc actor container\n				local damage_container = combat:GetActorList ( DETAILS_ATTRIBUTE_DAMAGE )\n				\n				--do the loop:\n				for _, player in ipairs ( damage_container ) do \n					if (player.grupo) then\n						local activity = player:Tempo()\n						total = total + activity\n						amount = amount + 1\n						--add amount to the player \n						instance_container:AddValue (player, activity)\n					end\n				end\n				\n				--return:\n				return total, combat:GetCombatTime(), amount\n			",
-			["target"] = false,
-			["total_script"] = "				local value, top, total, combat, instance = ...\n				local minutos, segundos = math.floor (value/60), math.floor (value%60)\n				return minutos .. \"m \" .. segundos .. \"s\"\n			",
-			["attribute"] = false,
-			["script_version"] = 1,
-		}, -- [3]
-		{
-			["source"] = false,
-			["tooltip"] = "				\n			",
-			["author"] = "Details!",
-			["percent_script"] = "				local value, top, total, combat, instance = ...\n				return string.format (\"%.1f\", value/top*100)\n			",
-			["desc"] = "每个人造成治疗的时间.",
-			["icon"] = "Interface\\ICONS\\Achievement_PVP_G_06",
-			["spellid"] = false,
-			["name"] = "活跃治疗时间",
-			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the misc actor container\n				local damage_container = combat:GetActorList ( DETAILS_ATTRIBUTE_HEAL )\n				\n				--do the loop:\n				for _, player in ipairs ( damage_container ) do \n					if (player.grupo) then\n						local activity = player:Tempo()\n						total = total + activity\n						amount = amount + 1\n						--add amount to the player \n						instance_container:AddValue (player, activity)\n					end\n				end\n				\n				--return:\n				return total, combat:GetCombatTime(), amount\n			",
-			["target"] = false,
-			["total_script"] = "				local value, top, total, combat, instance = ...\n				local minutos, segundos = math.floor (value/60), math.floor (value%60)\n				return minutos .. \"m \" .. segundos .. \"s\"\n			",
-			["attribute"] = false,
-			["script_version"] = 1,
-		}, -- [4]
-		{
-			["script"] = "				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				local misc_actors = combat:GetActorList (DETAILS_ATTRIBUTE_MISC)\n\n				for index, character in ipairs (misc_actors) do\n					if (character.cc_done and character:IsPlayer()) then\n						local cc_done = floor (character.cc_done)\n						instance_container:AddValue (character, cc_done)\n						total = total + cc_done\n						if (cc_done > top) then\n							top = cc_done\n						end\n						amount = amount + 1\n					end\n				end\n\n				return total, top, amount\n			",
-			["author"] = "Details!",
-			["desc"] = "Show the crowd control amount for each player.",
-			["total_script"] = "				local value, top, total, combat, instance = ...\n				return floor (value)\n			",
-			["icon"] = "Interface\\ICONS\\Spell_Frost_FreezingBreath",
-			["spellid"] = false,
-			["name"] = "Crowd Control Done",
-			["tooltip"] = "				local actor, combat, instance = ...\n				local spells = {}\n				for spellid, spell in pairs (actor.cc_done_spells._ActorTable) do\n				    tinsert (spells, {spellid, spell.counter})\n				end\n\n				table.sort (spells, _detalhes.Sort2)\n\n				for index, spell in ipairs (spells) do\n				    local name, _, icon = GetSpellInfo (spell [1])\n				    GameCooltip:AddLine (name, spell [2])\n				    _detalhes:AddTooltipBackgroundStatusbar()\n				    GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n				end\n\n				local targets = {}\n				for playername, amount in pairs (actor.cc_done_targets) do\n				    tinsert (targets, {playername, amount})\n				end\n\n				table.sort (targets, _detalhes.Sort2)\n\n				_detalhes:AddTooltipSpellHeaderText (\"Targets\", \"yellow\", #targets)\n				local class, _, _, _, _, r, g, b = _detalhes:GetClass (actor.nome)\n				_detalhes:AddTooltipHeaderStatusbar (1, 1, 1, 0.6)\n\n				for index, target in ipairs (targets) do\n				    GameCooltip:AddLine (target[1], target [2])\n				    _detalhes:AddTooltipBackgroundStatusbar()\n				    \n				    local class, _, _, _, _, r, g, b = _detalhes:GetClass (target [1])\n				    if (class and class ~= \"UNKNOW\") then\n					local texture, l, r, t, b = _detalhes:GetClassIcon (class)\n					GameCooltip:AddIcon (\"Interface\\\\AddOns\\\\Details\\\\images\\\\classes_small_alpha\", 1, 1, 14, 14, l, r, t, b)\n				    else\n					GameCooltip:AddIcon (\"Interface\\\\GossipFrame\\\\IncompleteQuestIcon\", 1, 1, 14, 14)\n				    end\n				    --\n				end\n			",
-			["target"] = false,
-			["source"] = false,
-			["attribute"] = false,
-			["script_version"] = 9,
-		}, -- [5]
-		{
-			["script"] = "				local combat, instance_container, instance = ...\n				local total, top, amt = 0, 0, 0\n\n				local misc_actors = combat:GetActorList (DETAILS_ATTRIBUTE_MISC)\n				DETAILS_CUSTOM_CC_RECEIVED_CACHE = DETAILS_CUSTOM_CC_RECEIVED_CACHE or {}\n				wipe (DETAILS_CUSTOM_CC_RECEIVED_CACHE)\n\n				for index, character in ipairs (misc_actors) do\n				    if (character.cc_done and character:IsPlayer()) then\n					\n					for player_name, amount in pairs (character.cc_done_targets) do\n					    local target = combat (1, player_name) or combat (2, player_name)\n					    if (target and target:IsPlayer()) then\n						instance_container:AddValue (target, amount)\n						total = total + amount\n						if (amount > top) then\n						    top = amount\n						end\n						if (not DETAILS_CUSTOM_CC_RECEIVED_CACHE [player_name]) then\n						    DETAILS_CUSTOM_CC_RECEIVED_CACHE [player_name] = true\n						    amt = amt + 1\n						end\n					    end\n					end\n					\n				    end\n				end\n\n				return total, top, amt\n			",
-			["author"] = "Details!",
-			["desc"] = "Show the amount of crowd control received for each player.",
-			["total_script"] = "				local value, top, total, combat, instance = ...\n				return floor (value)\n			",
-			["icon"] = "Interface\\ICONS\\Spell_Mage_IceNova",
-			["spellid"] = false,
-			["name"] = "Crowd Control Received",
-			["tooltip"] = "				local actor, combat, instance = ...\n				local name = actor:name()\n				local spells, from = {}, {}\n				local misc_actors = combat:GetActorList (DETAILS_ATTRIBUTE_MISC)\n\n				for index, character in ipairs (misc_actors) do\n				    if (character.cc_done and character:IsPlayer()) then\n					local on_actor = character.cc_done_targets [name]\n					if (on_actor) then\n					    tinsert (from, {character:name(), on_actor})\n					    \n					    for spellid, spell in pairs (character.cc_done_spells._ActorTable) do\n						\n						local spell_on_actor = spell.targets [name]\n						if (spell_on_actor) then\n						    local has_spell\n						    for index, spell_table in ipairs (spells) do\n							if (spell_table [1] == spellid) then\n							    spell_table [2] = spell_table [2] + spell_on_actor\n							    has_spell = true\n							end\n						    end\n						    if (not has_spell) then\n							tinsert (spells, {spellid, spell_on_actor}) \n						    end\n						end\n						\n					    end            \n					end\n				    end\n				end\n\n				table.sort (from, _detalhes.Sort2)\n				table.sort (spells, _detalhes.Sort2)\n\n				for index, spell in ipairs (spells) do\n				    local name, _, icon = GetSpellInfo (spell [1])\n				    GameCooltip:AddLine (name, spell [2])\n				    _detalhes:AddTooltipBackgroundStatusbar()\n				    GameCooltip:AddIcon (icon, 1, 1, 14, 14)    \n				end\n\n				_detalhes:AddTooltipSpellHeaderText (\"From\", \"yellow\", #from)\n				_detalhes:AddTooltipHeaderStatusbar (1, 1, 1, 0.6)\n\n				for index, t in ipairs (from) do\n				    GameCooltip:AddLine (t[1], t[2])\n				    _detalhes:AddTooltipBackgroundStatusbar()\n				    \n				    local class, _, _, _, _, r, g, b = _detalhes:GetClass (t [1])\n				    if (class and class ~= \"UNKNOW\") then\n					local texture, l, r, t, b = _detalhes:GetClassIcon (class)\n					GameCooltip:AddIcon (\"Interface\\\\AddOns\\\\Details\\\\images\\\\classes_small_alpha\", 1, 1, 14, 14, l, r, t, b)\n				    else\n					GameCooltip:AddIcon (\"Interface\\\\GossipFrame\\\\IncompleteQuestIcon\", 1, 1, 14, 14)\n				    end     \n				    \n				end\n			",
-			["target"] = false,
-			["source"] = false,
-			["attribute"] = false,
-			["script_version"] = 1,
-		}, -- [6]
-		{
-			["source"] = false,
-			["author"] = "Details!",
-			["percent_script"] = "				local value, top, total, combat, instance = ...\n				local dps = _detalhes:ToK (floor (value) / combat:GetCombatTime())\n				local percent = string.format (\"%.1f\", value/total*100)\n				return dps .. \", \" .. percent\n			",
-			["desc"] = "在窗口显示你的法术.",
-			["tooltip"] = "			--config:\n			--Background RBG and Alpha:\n			local R, G, B, A = 0, 0, 0, 0.75\n			local R, G, B, A = 0.1960, 0.1960, 0.1960, 0.8697\n\n			--get the parameters passed\n			local spell, combat, instance = ...\n\n			--get the cooltip object (we dont use the convencional GameTooltip here)\n			local GC = GameCooltip\n			GC:SetOption (\"YSpacingMod\", 0)\n\n			local role = UnitGroupRolesAssigned (\"player\")\n\n			if (spell.n_dmg) then\n			    \n			    local spellschool, schooltext = spell.spellschool, \"\"\n			    if (spellschool) then\n				local t = _detalhes.spells_school [spellschool]\n				if (t and t.name) then\n				    schooltext = t.formated\n				end\n			    end\n			    \n			    local total_hits = spell.counter\n			    local combat_time = instance.showing:GetCombatTime()\n			    \n			    local debuff_uptime_total, cast_string = \"\", \"\"\n			    local misc_actor = instance.showing (4, _detalhes.playername)\n			    if (misc_actor) then\n				local debuff_uptime = misc_actor.debuff_uptime_spells and misc_actor.debuff_uptime_spells._ActorTable [spell.id] and misc_actor.debuff_uptime_spells._ActorTable [spell.id].uptime\n				if (debuff_uptime) then\n				    debuff_uptime_total = floor (debuff_uptime / instance.showing:GetCombatTime() * 100)\n				end\n				\n				local spell_cast = misc_actor.spell_cast and misc_actor.spell_cast [spell.id]\n				\n				if (not spell_cast and misc_actor.spell_cast) then\n				    local spellname = GetSpellInfo (spell.id)\n				    for casted_spellid, amount in pairs (misc_actor.spell_cast) do\n					local casted_spellname = GetSpellInfo (casted_spellid)\n					if (casted_spellname == spellname) then\n					    spell_cast = amount .. \" (|cFFFFFF00?|r)\"\n					end\n				    end\n				end\n				if (not spell_cast) then\n				    spell_cast = \"(|cFFFFFF00?|r)\"\n				end\n				cast_string = cast_string .. spell_cast\n			    end\n			    \n			    --Cooltip code\n			    GC:AddLine (\"Casts:\", cast_string or \"?\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (debuff_uptime_total ~= \"\") then\n				GC:AddLine (\"Uptime:\", (debuff_uptime_total or \"?\") .. \"%\")\n				GC:AddStatusBar (100, 1, R, G, B, A)\n			    end\n			    \n			    GC:AddLine (\"Hits:\", spell.counter)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local average = spell.total / total_hits\n			    GC:AddLine (\"Average:\", _detalhes:ToK (average))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"E-Dps:\", _detalhes:ToK (spell.total / combat_time))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"School:\", schooltext)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Normal Hits: \", spell.n_amt .. \" (\" ..floor ( spell.n_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local n_average = spell.n_dmg / spell.n_amt\n			    local T = (combat_time*spell.n_dmg)/spell.total\n			    local P = average/n_average*100\n			    T = P*T/100\n			    \n			    GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (n_average) .. \" / \" .. format (\"%.1f\",spell.n_dmg / T ))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Critical Hits: \", spell.c_amt .. \" (\" ..floor ( spell.c_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (spell.c_amt > 0) then\n				local c_average = spell.c_dmg/spell.c_amt\n				local T = (combat_time*spell.c_dmg)/spell.total\n				local P = average/c_average*100\n				T = P*T/100\n				local crit_dps = spell.c_dmg / T\n				\n				GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (c_average) .. \" / \" .. _detalhes:comma_value (crit_dps))\n			    else\n				GC:AddLine (\"Average / E-Dps: \",  \"0 / 0\")    \n			    end\n			    \n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Multistrike: \", spell.m_amt .. \" (\" ..floor ( spell.m_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"On Normal / On Critical:\", spell.m_amt - spell.m_crit .. \"  / \" .. spell.m_crit)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			elseif (spell.n_curado) then\n			    \n			    local spellschool, schooltext = spell.spellschool, \"\"\n			    if (spellschool) then\n				local t = _detalhes.spells_school [spellschool]\n				if (t and t.name) then\n				    schooltext = t.formated\n				end\n			    end\n			    \n			    local total_hits = spell.counter\n			    local combat_time = instance.showing:GetCombatTime()\n			    \n			    --Cooltip code\n			    GC:AddLine (\"Hits:\", spell.counter)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local average = spell.total / total_hits\n			    GC:AddLine (\"Average:\", _detalhes:ToK (average))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"E-Hps:\", _detalhes:ToK (spell.total / combat_time))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"School:\", schooltext)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Normal Hits: \", spell.n_amt .. \" (\" ..floor ( spell.n_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local n_average = spell.n_curado / spell.n_amt\n			    local T = (combat_time*spell.n_curado)/spell.total\n			    local P = average/n_average*100\n			    T = P*T/100\n			    \n			    GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (n_average) .. \" / \" .. format (\"%.1f\",spell.n_curado / T ))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Critical Hits: \", spell.c_amt .. \" (\" ..floor ( spell.c_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (spell.c_amt > 0) then\n				local c_average = spell.c_curado/spell.c_amt\n				local T = (combat_time*spell.c_curado)/spell.total\n				local P = average/c_average*100\n				T = P*T/100\n				local crit_dps = spell.c_curado / T\n				\n				GC:AddLine (\"Average / E-Hps: \",  _detalhes:ToK (c_average) .. \" / \" .. _detalhes:comma_value (crit_dps))\n			    else\n				GC:AddLine (\"Average / E-Hps: \",  \"0 / 0\")    \n			    end\n			    \n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Multistrike: \", spell.m_amt .. \" (\" ..floor ( spell.m_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"On Normal / On Critical:\", spell.m_amt - spell.m_crit .. \"  / \" .. spell.m_crit)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			end\n			",
-			["icon"] = "Interface\\ICONS\\ABILITY_MAGE_ARCANEBARRAGE",
-			["name"] = "我的法术",
-			["spellid"] = false,
-			["target"] = false,
-			["script"] = "				--get the parameters passed\n				local combat, instance_container, instance = ...\n				--declade the values to return\n				local total, top, amount = 0, 0, 0\n\n				local player\n				local role = UnitGroupRolesAssigned (\"player\")\n				local pet_attribute\n\n				if (role == \"DAMAGER\") then\n					player = combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_DAMAGE\n				elseif (role == \"HEALER\") then    \n					player = combat (DETAILS_ATTRIBUTE_HEAL, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_HEAL\n				else\n					player = combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_DAMAGE\n				end\n\n				--do the loop\n\n				if (player) then\n					local spells = player:GetSpellList()\n					for spellid, spell in pairs (spells) do\n						instance_container:AddValue (spell, spell.total)\n						total = total + spell.total\n						if (top < spell.total) then\n							top = spell.total\n						end\n						amount = amount + 1\n					end\n				    \n					for _, PetName in ipairs (player.pets) do\n						local pet = combat (pet_attribute, PetName)\n						if (pet) then\n							for spellid, spell in pairs (pet:GetSpellList()) do\n								instance_container:AddValue (spell, spell.total, nil, \" (\" .. PetName:gsub ((\" <.*\"), \"\") .. \")\")\n								total = total + spell.total\n								if (top < spell.total) then\n									top = spell.total\n								end\n								amount = amount + 1\n							end\n						end\n					end\n				end\n\n				--return the values\n				return total, top, amount\n			",
-			["attribute"] = false,
-			["script_version"] = 5,
-		}, -- [7]
-		{
-			["source"] = false,
-			["author"] = "Details!",
-			["desc"] = "Show the amount of damage applied on targets marked with skull.",
-			["script"] = "				--get the parameters passed\n				local Combat, CustomContainer, Instance = ...\n				--declade the values to return\n				local total, top, amount = 0, 0, 0\n				\n				--raid target flags: \n				-- 128: skull \n				-- 64: cross\n				-- 32: square\n				-- 16: moon\n				-- 8: triangle\n				-- 4: diamond\n				-- 2: circle\n				-- 1: star\n				\n				--do the loop\n				for _, actor in ipairs (Combat:GetActorList (DETAILS_ATTRIBUTE_DAMAGE)) do\n				    if (actor:IsPlayer()) then\n					if (actor.raid_targets [128]) then\n					    CustomContainer:AddValue (actor, actor.raid_targets [128])\n					end        \n				    end\n				end\n\n				--if not managed inside the loop, get the values of total, top and amount\n				total, top = CustomContainer:GetTotalAndHighestValue()\n				amount = CustomContainer:GetNumActors()\n\n				--return the values\n				return total, top, amount\n			",
-			["icon"] = "Interface\\TARGETINGFRAME\\UI-RaidTargetingIcon_8",
-			["name"] = "Damage On Skull Marked Targets",
-			["spellid"] = false,
-			["target"] = false,
-			["tooltip"] = "				--get the parameters passed\n				local actor, combat, instance = ...\n\n				--get the cooltip object (we dont use the convencional GameTooltip here)\n				local GameCooltip = GameCooltip\n\n				--Cooltip code\n				local format_func = Details:GetCurrentToKFunction()\n\n				--Cooltip code\n				local RaidTargets = actor.raid_targets\n\n				local DamageOnStar = RaidTargets [128]\n				if (DamageOnStar) then\n				    --RAID_TARGET_8 is the built-in localized word for 'Skull'.\n				    GameCooltip:AddLine (RAID_TARGET_8 .. \":\", format_func (_, DamageOnStar))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_8\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n			",
-			["attribute"] = false,
-			["script_version"] = 2,
-		}, -- [8]
-		{
-			["source"] = false,
-			["author"] = "Details!",
-			["desc"] = "Show the amount of damage applied on targets marked with any other mark.",
-			["script"] = "				--get the parameters passed\n				local Combat, CustomContainer, Instance = ...\n				--declade the values to return\n				local total, top, amount = 0, 0, 0\n\n				--do the loop\n				for _, actor in ipairs (Combat:GetActorList (DETAILS_ATTRIBUTE_DAMAGE)) do\n				    if (actor:IsPlayer()) then\n					local total = (actor.raid_targets [1] or 0) --star\n					total = total + (actor.raid_targets [2] or 0) --circle\n					total = total + (actor.raid_targets [4] or 0) --diamond\n					total = total + (actor.raid_targets [8] or 0) --tiangle\n					total = total + (actor.raid_targets [16] or 0) --moon\n					total = total + (actor.raid_targets [32] or 0) --square\n					total = total + (actor.raid_targets [64] or 0) --cross\n					\n					if (total > 0) then\n					    CustomContainer:AddValue (actor, total)\n					end\n				    end\n				end\n\n				--if not managed inside the loop, get the values of total, top and amount\n				total, top = CustomContainer:GetTotalAndHighestValue()\n				amount = CustomContainer:GetNumActors()\n\n				--return the values\n				return total, top, amount\n			",
-			["icon"] = "Interface\\TARGETINGFRAME\\UI-RaidTargetingIcon_5",
-			["name"] = "Damage On Other Marked Targets",
-			["spellid"] = false,
-			["target"] = false,
-			["tooltip"] = "				--get the parameters passed\n				local actor, combat, instance = ...\n\n				--get the cooltip object\n				local GameCooltip = GameCooltip\n\n				local format_func = Details:GetCurrentToKFunction()\n\n				--Cooltip code\n				local RaidTargets = actor.raid_targets\n\n				local DamageOnStar = RaidTargets [1]\n				if (DamageOnStar) then\n				    GameCooltip:AddLine (RAID_TARGET_1 .. \":\", format_func (_, DamageOnStar))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_1\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnCircle = RaidTargets [2]\n				if (DamageOnCircle) then\n				    GameCooltip:AddLine (RAID_TARGET_2 .. \":\", format_func (_, DamageOnCircle))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_2\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnDiamond = RaidTargets [4]\n				if (DamageOnDiamond) then\n				    GameCooltip:AddLine (RAID_TARGET_3 .. \":\", format_func (_, DamageOnDiamond))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_3\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnTriangle = RaidTargets [8]\n				if (DamageOnTriangle) then\n				    GameCooltip:AddLine (RAID_TARGET_4 .. \":\", format_func (_, DamageOnTriangle))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_4\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnMoon = RaidTargets [16]\n				if (DamageOnMoon) then\n				    GameCooltip:AddLine (RAID_TARGET_5 .. \":\", format_func (_, DamageOnMoon))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_5\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnSquare = RaidTargets [32]\n				if (DamageOnSquare) then\n				    GameCooltip:AddLine (RAID_TARGET_6 .. \":\", format_func (_, DamageOnSquare))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_6\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n\n				local DamageOnCross = RaidTargets [64]\n				if (DamageOnCross) then\n				    GameCooltip:AddLine (RAID_TARGET_7 .. \":\", format_func (_, DamageOnCross))\n				    GameCooltip:AddIcon (\"Interface\\\\TARGETINGFRAME\\\\UI-RaidTargetingIcon_7\", 1, 1, 14, 14)\n				    Details:AddTooltipBackgroundStatusbar()\n				end\n			",
-			["attribute"] = false,
-			["script_version"] = 2,
-		}, -- [9]
-		{
-			["source"] = false,
-			["author"] = "Details!",
-			["desc"] = "Show overall damage done on the fly.",
-			["total_script"] = "				local value, top, total, combat, instance = ...\n\n				--get the time of overall combat\n				local OverallCombatTime = Details:GetCombat (-1):GetCombatTime()\n\n				--get the time of current combat if the player is in combat\n				if (Details.in_combat) then\n				    local CurrentCombatTime = Details:GetCombat (0):GetCombatTime()\n				    OverallCombatTime = OverallCombatTime + CurrentCombatTime\n				end\n\n				--build the string\n				local ToK = Details:GetCurrentToKFunction()\n				local s = ToK (_, total / OverallCombatTime)\n				s = ToK (_, total) .. \" (\" .. s .. \", \"\n\n				return s\n			",
-			["icon"] = "Interface\\ICONS\\Achievement_Quests_Completed_08",
-			["spellid"] = false,
-			["name"] = "Dynamic Overall Damage",
-			["tooltip"] = "				--get the parameters passed\n				local actor, combat, instance = ...\n\n				--get the cooltip object (we dont use the convencional GameTooltip here)\n				local GameCooltip = GameCooltip2\n\n				--Cooltip code\n				--get the overall combat\n				local OverallCombat = Details:GetCombat (-1)\n				--get the current combat\n				local CurrentCombat = Details:GetCombat (0)\n\n				local AllSpells = {}\n\n				--overall\n				local player = OverallCombat [1]:GetActor (actor.nome)\n				local playerSpells = player:GetSpellList()\n				for spellID, spellTable in pairs (playerSpells) do\n				    AllSpells [spellID] = spellTable.total\n				end\n\n				--current\n				local player = CurrentCombat [1]:GetActor (actor.nome)\n				local playerSpells = player:GetSpellList()\n				for spellID, spellTable in pairs (playerSpells) do\n				    AllSpells [spellID] = (AllSpells [spellID] or 0) + (spellTable.total or 0)\n				end\n\n				local sortedList = {}\n				for spellID, total in pairs (AllSpells) do\n				    tinsert (sortedList, {spellID, total})\n				end\n				table.sort (sortedList, Details.Sort2)\n\n				local format_func = Details:GetCurrentToKFunction()\n\n				--build the tooltip\n				for i, t in ipairs (sortedList) do\n				    local spellID, total = unpack (t)\n				    if (total > 1) then\n					local spellName, _, spellIcon = Details.GetSpellInfo (spellID)\n					\n					GameCooltip:AddLine (spellName, format_func (_, total))\n					Details:AddTooltipBackgroundStatusbar()\n					GameCooltip:AddIcon (spellIcon, 1, 1, 14, 14)\n				    end\n				end\n			",
-			["target"] = false,
-			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the overall combat\n				local OverallCombat = Details:GetCombat (-1)\n				--get the current combat\n				local CurrentCombat = Details:GetCombat (0)\n\n				if (not OverallCombat.GetActorList or not CurrentCombat.GetActorList) then\n				    return 0, 0, 0\n				end\n\n				--get the damage actor container for overall\n				local damage_container_overall = OverallCombat:GetActorList ( DETAILS_ATTRIBUTE_DAMAGE )\n				--get the damage actor container for current\n				local damage_container_current = CurrentCombat:GetActorList ( DETAILS_ATTRIBUTE_DAMAGE )\n\n				--do the loop:\n				for _, player in ipairs ( damage_container_overall ) do \n				    --only player in group\n				    if (player:IsGroupPlayer()) then\n					instance_container:AddValue (player, player.total)\n				    end\n				end\n\n				if (Details.in_combat) then\n				    for _, player in ipairs ( damage_container_current ) do \n					--only player in group\n					if (player:IsGroupPlayer()) then\n					    instance_container:AddValue (player, player.total)        \n					end\n				    end\n				end\n\n				total, top =  instance_container:GetTotalAndHighestValue()\n				amount =  instance_container:GetNumActors()\n\n				--return:\n				return total, top, amount\n			",
-			["attribute"] = false,
-			["script_version"] = 2,
-		}, -- [10]
-		{
-			["source"] = false,
-			["author"] = "Details!",
-			["desc"] = "Show who in your raid used a potion during the encounter.",
-			["tooltip"] = "			--init:\n			local player, combat, instance = ...\n\n			--get the debuff container for potion of focus\n			local debuff_uptime_container = player.debuff_uptime and player.debuff_uptime_spells and player.debuff_uptime_spells._ActorTable\n			if (debuff_uptime_container) then\n			    local focus_potion = debuff_uptime_container [188030] --Legion\n			    if (focus_potion) then\n				local name, _, icon = GetSpellInfo (188030) --Legion\n				GameCooltip:AddLine (name, 1) --> can use only 1 focus potion (can't be pre-potion)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			end\n\n			--get the buff container for all the others potions\n			local buff_uptime_container = player.buff_uptime and player.buff_uptime_spells and player.buff_uptime_spells._ActorTable\n			if (buff_uptime_container) then\n			    --potion of the jade serpent\n			    local jade_serpent_potion = buff_uptime_container [188027] --Legion\n			    if (jade_serpent_potion) then\n				local name, _, icon = GetSpellInfo (188027) --Legion\n				GameCooltip:AddLine (name, jade_serpent_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --potion of mogu power\n			    local mogu_power_potion = buff_uptime_container [188028] --Legion\n			    if (mogu_power_potion) then\n				local name, _, icon = GetSpellInfo (188028) --Legion\n				GameCooltip:AddLine (name, mogu_power_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --mana potion\n			    local mana_potion = buff_uptime_container [188017] --Legion\n			    if (mana_potion) then\n				local name, _, icon = GetSpellInfo (188017) --Legion\n				GameCooltip:AddLine (name, mana_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --prolongued power\n			    local prolongued_power = buff_uptime_container [229206] --Legion\n			    if (prolongued_power) then\n				local name, _, icon = GetSpellInfo (229206) --Legion\n				GameCooltip:AddLine (name, prolongued_power.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			    \n			    --potion of the mountains\n			    local mountains_potion = buff_uptime_container [188029] --Legion\n			    if (mountains_potion) then\n				local name, _, icon = GetSpellInfo (188029) --Legion\n				GameCooltip:AddLine (name, mountains_potion.activedamt)\n				_detalhes:AddTooltipBackgroundStatusbar()\n				GameCooltip:AddIcon (icon, 1, 1, 14, 14)\n			    end\n			end\n		",
-			["icon"] = "Interface\\ICONS\\Trade_Alchemy_PotionD4",
-			["name"] = "Potion Used",
-			["spellid"] = false,
-			["target"] = false,
-			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the misc actor container\n				local misc_container = combat:GetActorList ( DETAILS_ATTRIBUTE_MISC )\n\n				--do the loop:\n				for _, player in ipairs ( misc_container ) do \n				    \n				    --only player in group\n				    if (player:IsGroupPlayer()) then\n					\n					local found_potion = false\n					\n					--get the spell debuff uptime container\n					local debuff_uptime_container = player.debuff_uptime and player.debuff_uptime_spells and player.debuff_uptime_spells._ActorTable\n					if (debuff_uptime_container) then\n					    --potion of focus (can't use as pre-potion, so, its amount is always 1\n					    local focus_potion = debuff_uptime_container [188030] --Legion\n					    if (focus_potion) then\n						total = total + 1\n						found_potion = true\n						if (top < 1) then\n						    top = 1\n						end\n						--add amount to the player \n						instance_container:AddValue (player, 1)\n					    end\n					end\n					\n					--get the spell buff uptime container\n					local buff_uptime_container = player.buff_uptime and player.buff_uptime_spells and player.buff_uptime_spells._ActorTable\n					if (buff_uptime_container) then\n					    \n					    --potion of the jade serpent\n					    local jade_serpent_potion = buff_uptime_container [188027] --Legion\n					    if (jade_serpent_potion) then\n						local used = jade_serpent_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of mogu power\n					    local mogu_power_potion = buff_uptime_container [188028] --Legion\n					    if (mogu_power_potion) then\n						local used = mogu_power_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --mana potion\n					    local mana_potion = buff_uptime_container [188017] --Legion\n					    if (mana_potion) then\n						local used = mana_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of prolongued power\n					    local prolongued_power = buff_uptime_container [229206] --Legion\n					    if (prolongued_power) then\n						local used = prolongued_power.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					    \n					    --potion of the mountains\n					    local mountains_potion = buff_uptime_container [188029] --Legion\n					    if (mountains_potion) then\n						local used = mountains_potion.activedamt\n						if (used > 0) then\n						    total = total + used\n						    found_potion = true\n						    if (used > top) then\n							top = used\n						    end\n						    --add amount to the player \n						    instance_container:AddValue (player, used)\n						end\n					    end\n					end\n					\n					if (found_potion) then\n					    amount = amount + 1\n					end    \n				    end\n				end\n\n				--return:\n				return total, top, amount\n				",
-			["attribute"] = false,
-			["script_version"] = 3,
-		}, -- [11]
-		{
-			["source"] = false,
-			["author"] = "Details!",
-			["tooltip"] = "				\n			",
-			["percent_script"] = "				local value, top, total, combat, instance = ...\n				return string.format (\"%.1f\", value/top*100)\n			",
-			["desc"] = "Tells how much time each character spent doing damage.",
-			["icon"] = "Interface\\ICONS\\Achievement_PVP_H_06",
-			["spellid"] = false,
-			["name"] = "Damage Activity Time",
-			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, amount = 0, 0\n\n				--get the misc actor container\n				local damage_container = combat:GetActorList ( DETAILS_ATTRIBUTE_DAMAGE )\n				\n				--do the loop:\n				for _, player in ipairs ( damage_container ) do \n					if (player.grupo) then\n						local activity = player:Tempo()\n						total = total + activity\n						amount = amount + 1\n						--add amount to the player \n						instance_container:AddValue (player, activity)\n					end\n				end\n				\n				--return:\n				return total, combat:GetCombatTime(), amount\n			",
-			["target"] = false,
-			["total_script"] = "				local value, top, total, combat, instance = ...\n				local minutos, segundos = math.floor (value/60), math.floor (value%60)\n				return minutos .. \"m \" .. segundos .. \"s\"\n			",
-			["attribute"] = false,
-			["script_version"] = 1,
-		}, -- [12]
-		{
-			["source"] = false,
-			["author"] = "Details!",
-			["tooltip"] = "				\n			",
-			["percent_script"] = "				local value, top, total, combat, instance = ...\n				return string.format (\"%.1f\", value/top*100)\n			",
-			["desc"] = "Tells how much time each character spent doing healing.",
-			["icon"] = "Interface\\ICONS\\Achievement_PVP_G_06",
-			["spellid"] = false,
-			["name"] = "Healing Activity Time",
-			["script"] = "				--init:\n				local combat, instance_container, instance = ...\n				local total, top, amount = 0, 0, 0\n\n				--get the misc actor container\n				local damage_container = combat:GetActorList ( DETAILS_ATTRIBUTE_HEAL )\n				\n				--do the loop:\n				for _, player in ipairs ( damage_container ) do \n					if (player.grupo) then\n						local activity = player:Tempo()\n						total = total + activity\n						amount = amount + 1\n						--add amount to the player \n						instance_container:AddValue (player, activity)\n					end\n				end\n				\n				--return:\n				return total, combat:GetCombatTime(), amount\n			",
-			["target"] = false,
-			["total_script"] = "				local value, top, total, combat, instance = ...\n				local minutos, segundos = math.floor (value/60), math.floor (value%60)\n				return minutos .. \"m \" .. segundos .. \"s\"\n			",
-			["attribute"] = false,
-			["script_version"] = 1,
-		}, -- [13]
-		{
-			["source"] = false,
-			["author"] = "Details!",
-			["percent_script"] = "				local value, top, total, combat, instance = ...\n				local dps = _detalhes:ToK (floor (value) / combat:GetCombatTime())\n				local percent = string.format (\"%.1f\", value/total*100)\n				return dps .. \", \" .. percent\n			",
-			["desc"] = "Show your spells in the window.",
-			["tooltip"] = "			--config:\n			--Background RBG and Alpha:\n			local R, G, B, A = 0, 0, 0, 0.75\n			local R, G, B, A = 0.1960, 0.1960, 0.1960, 0.8697\n\n			--get the parameters passed\n			local spell, combat, instance = ...\n\n			--get the cooltip object (we dont use the convencional GameTooltip here)\n			local GC = GameCooltip\n			GC:SetOption (\"YSpacingMod\", 0)\n\n			local role = UnitGroupRolesAssigned (\"player\")\n\n			if (spell.n_dmg) then\n			    \n			    local spellschool, schooltext = spell.spellschool, \"\"\n			    if (spellschool) then\n				local t = _detalhes.spells_school [spellschool]\n				if (t and t.name) then\n				    schooltext = t.formated\n				end\n			    end\n			    \n			    local total_hits = spell.counter\n			    local combat_time = instance.showing:GetCombatTime()\n			    \n			    local debuff_uptime_total, cast_string = \"\", \"\"\n			    local misc_actor = instance.showing (4, _detalhes.playername)\n			    if (misc_actor) then\n				local debuff_uptime = misc_actor.debuff_uptime_spells and misc_actor.debuff_uptime_spells._ActorTable [spell.id] and misc_actor.debuff_uptime_spells._ActorTable [spell.id].uptime\n				if (debuff_uptime) then\n				    debuff_uptime_total = floor (debuff_uptime / instance.showing:GetCombatTime() * 100)\n				end\n				\n				local spell_cast = misc_actor.spell_cast and misc_actor.spell_cast [spell.id]\n				\n				if (not spell_cast and misc_actor.spell_cast) then\n				    local spellname = GetSpellInfo (spell.id)\n				    for casted_spellid, amount in pairs (misc_actor.spell_cast) do\n					local casted_spellname = GetSpellInfo (casted_spellid)\n					if (casted_spellname == spellname) then\n					    spell_cast = amount .. \" (|cFFFFFF00?|r)\"\n					end\n				    end\n				end\n				if (not spell_cast) then\n				    spell_cast = \"(|cFFFFFF00?|r)\"\n				end\n				cast_string = cast_string .. spell_cast\n			    end\n			    \n			    --Cooltip code\n			    GC:AddLine (\"Casts:\", cast_string or \"?\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (debuff_uptime_total ~= \"\") then\n				GC:AddLine (\"Uptime:\", (debuff_uptime_total or \"?\") .. \"%\")\n				GC:AddStatusBar (100, 1, R, G, B, A)\n			    end\n			    \n			    GC:AddLine (\"Hits:\", spell.counter)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local average = spell.total / total_hits\n			    GC:AddLine (\"Average:\", _detalhes:ToK (average))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"E-Dps:\", _detalhes:ToK (spell.total / combat_time))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"School:\", schooltext)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Normal Hits: \", spell.n_amt .. \" (\" ..floor ( spell.n_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local n_average = spell.n_dmg / spell.n_amt\n			    local T = (combat_time*spell.n_dmg)/spell.total\n			    local P = average/n_average*100\n			    T = P*T/100\n			    \n			    GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (n_average) .. \" / \" .. format (\"%.1f\",spell.n_dmg / T ))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Critical Hits: \", spell.c_amt .. \" (\" ..floor ( spell.c_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (spell.c_amt > 0) then\n				local c_average = spell.c_dmg/spell.c_amt\n				local T = (combat_time*spell.c_dmg)/spell.total\n				local P = average/c_average*100\n				T = P*T/100\n				local crit_dps = spell.c_dmg / T\n				\n				GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (c_average) .. \" / \" .. _detalhes:comma_value (crit_dps))\n			    else\n				GC:AddLine (\"Average / E-Dps: \",  \"0 / 0\")    \n			    end\n			    \n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Multistrike: \", spell.m_amt .. \" (\" ..floor ( spell.m_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"On Normal / On Critical:\", spell.m_amt - spell.m_crit .. \"  / \" .. spell.m_crit)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			elseif (spell.n_curado) then\n			    \n			    local spellschool, schooltext = spell.spellschool, \"\"\n			    if (spellschool) then\n				local t = _detalhes.spells_school [spellschool]\n				if (t and t.name) then\n				    schooltext = t.formated\n				end\n			    end\n			    \n			    local total_hits = spell.counter\n			    local combat_time = instance.showing:GetCombatTime()\n			    \n			    --Cooltip code\n			    GC:AddLine (\"Hits:\", spell.counter)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local average = spell.total / total_hits\n			    GC:AddLine (\"Average:\", _detalhes:ToK (average))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"E-Hps:\", _detalhes:ToK (spell.total / combat_time))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"School:\", schooltext)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Normal Hits: \", spell.n_amt .. \" (\" ..floor ( spell.n_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    local n_average = spell.n_curado / spell.n_amt\n			    local T = (combat_time*spell.n_curado)/spell.total\n			    local P = average/n_average*100\n			    T = P*T/100\n			    \n			    GC:AddLine (\"Average / E-Dps: \",  _detalhes:ToK (n_average) .. \" / \" .. format (\"%.1f\",spell.n_curado / T ))\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Critical Hits: \", spell.c_amt .. \" (\" ..floor ( spell.c_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    if (spell.c_amt > 0) then\n				local c_average = spell.c_curado/spell.c_amt\n				local T = (combat_time*spell.c_curado)/spell.total\n				local P = average/c_average*100\n				T = P*T/100\n				local crit_dps = spell.c_curado / T\n				\n				GC:AddLine (\"Average / E-Hps: \",  _detalhes:ToK (c_average) .. \" / \" .. _detalhes:comma_value (crit_dps))\n			    else\n				GC:AddLine (\"Average / E-Hps: \",  \"0 / 0\")    \n			    end\n			    \n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    --GC:AddLine (\" \")\n			    \n			    GC:AddLine (\"Multistrike: \", spell.m_amt .. \" (\" ..floor ( spell.m_amt/total_hits*100) .. \"%)\")\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			    \n			    GC:AddLine (\"On Normal / On Critical:\", spell.m_amt - spell.m_crit .. \"  / \" .. spell.m_crit)\n			    GC:AddStatusBar (100, 1, R, G, B, A)\n			end\n			",
-			["icon"] = "Interface\\ICONS\\ABILITY_MAGE_ARCANEBARRAGE",
-			["name"] = "My Spells",
-			["spellid"] = false,
-			["target"] = false,
-			["script"] = "				--get the parameters passed\n				local combat, instance_container, instance = ...\n				--declade the values to return\n				local total, top, amount = 0, 0, 0\n\n				local player\n				local role = UnitGroupRolesAssigned (\"player\")\n				local pet_attribute\n\n				if (role == \"DAMAGER\") then\n					player = combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_DAMAGE\n				elseif (role == \"HEALER\") then    \n					player = combat (DETAILS_ATTRIBUTE_HEAL, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_HEAL\n				else\n					player = combat (DETAILS_ATTRIBUTE_DAMAGE, _detalhes.playername)\n					pet_attribute = DETAILS_ATTRIBUTE_DAMAGE\n				end\n\n				--do the loop\n\n				if (player) then\n					local spells = player:GetSpellList()\n					for spellid, spell in pairs (spells) do\n						instance_container:AddValue (spell, spell.total)\n						total = total + spell.total\n						if (top < spell.total) then\n							top = spell.total\n						end\n						amount = amount + 1\n					end\n				    \n					for _, PetName in ipairs (player.pets) do\n						local pet = combat (pet_attribute, PetName)\n						if (pet) then\n							for spellid, spell in pairs (pet:GetSpellList()) do\n								instance_container:AddValue (spell, spell.total, nil, \" (\" .. PetName:gsub ((\" <.*\"), \"\") .. \")\")\n								total = total + spell.total\n								if (top < spell.total) then\n									top = spell.total\n								end\n								amount = amount + 1\n							end\n						end\n					end\n				end\n\n				--return the values\n				return total, top, amount\n			",
-			["attribute"] = false,
-			["script_version"] = 5,
-		}, -- [14]
-	},
-	["performance_profiles"] = {
-		["Dungeon"] = {
-			["enabled"] = true,
-			["update_speed"] = 1,
-			["aura"] = true,
-			["miscdata"] = true,
-			["heal"] = true,
-			["use_row_animations"] = true,
-			["energy"] = true,
-			["damage"] = true,
-		},
-		["RaidFinder"] = {
-			["enabled"] = true,
-			["update_speed"] = 1,
-			["aura"] = true,
-			["miscdata"] = true,
-			["heal"] = true,
-			["use_row_animations"] = true,
-			["energy"] = true,
-			["damage"] = true,
-		},
-		["Battleground15"] = {
-			["enabled"] = true,
-			["update_speed"] = 1,
-			["aura"] = true,
-			["miscdata"] = true,
-			["heal"] = true,
-			["use_row_animations"] = true,
-			["energy"] = true,
-			["damage"] = true,
-		},
-		["Raid15"] = {
-			["enabled"] = true,
-			["update_speed"] = 1,
-			["aura"] = true,
-			["miscdata"] = true,
-			["heal"] = true,
-			["use_row_animations"] = true,
-			["energy"] = true,
-			["damage"] = true,
-		},
-		["Mythic"] = {
-			["enabled"] = true,
-			["update_speed"] = 1,
-			["aura"] = true,
-			["miscdata"] = true,
-			["heal"] = true,
-			["use_row_animations"] = true,
-			["energy"] = true,
-			["damage"] = true,
-		},
-		["Arena"] = {
-			["enabled"] = true,
-			["update_speed"] = 1,
-			["aura"] = true,
-			["miscdata"] = true,
-			["heal"] = true,
-			["use_row_animations"] = true,
-			["energy"] = true,
-			["damage"] = true,
-		},
-		["Raid30"] = {
-			["enabled"] = true,
-			["update_speed"] = 1,
-			["aura"] = true,
-			["miscdata"] = true,
-			["heal"] = true,
-			["use_row_animations"] = true,
-			["energy"] = true,
-			["damage"] = true,
-		},
-		["Battleground40"] = {
-			["enabled"] = true,
-			["update_speed"] = 1,
-			["aura"] = true,
-			["miscdata"] = true,
-			["heal"] = true,
-			["use_row_animations"] = true,
-			["energy"] = true,
-			["damage"] = true,
-		},
-	},
-	["exit_log"] = {
-		"1 - Closing Janela Info.", -- [1]
-		"2 - Clearing user place from instances.", -- [2]
-		"4 - Reversing switches.", -- [3]
-		"6 - Saving Config.", -- [4]
-		"7 - Saving Profiles.", -- [5]
-		"8 - Saving nicktag cache.", -- [6]
-	},
-	["spell_school_cache"] = {
-		["中毒"] = 8,
-		["毒性喷吐"] = 8,
-		["黑暗孤寂"] = 32,
-		["酸液喷射"] = 8,
-		["催眠之云"] = 8,
-		["邪能之枪"] = 126,
-		["折磨花粉"] = 8,
-		["新月"] = 64,
-		["破灭"] = 64,
-		["震荡波"] = 8,
-		["邪火弹药"] = 4,
-		["晶化鲜血"] = 1,
-		["腐蚀：毁灭之影"] = 1,
-		["回荡之星"] = 72,
-		["瘟疫长牙"] = 8,
-		["动荡的灵魂"] = 32,
-		["Bane"] = 32,
-		["腐化脊髓"] = 32,
-		["腐蚀新星"] = 32,
-		["渗透暗影"] = 32,
-		["副手旋风斩"] = 1,
-		["扭曲新星"] = 32,
-		["冲刷"] = 16,
-		["骨髓分裂"] = 1,
-		["雷霆一击"] = 1,
-		["吞噬"] = 1,
-		["燃烧烈焰"] = 4,
-		["焰怒"] = 4,
-		["恐惧冲锋"] = 1,
-		["奥术折磨"] = 64,
-		["爆裂风暴"] = 8,
-		["呼潮引浪"] = 16,
-		["衰弱打击"] = 1,
-		["腐蚀焦油"] = 8,
-		["影舞步"] = 1,
-		["严重撞伤"] = 1,
-		["黑冰箭"] = 48,
-		["窒息之雾"] = 8,
-		["腐化之息"] = 4,
-		["疫病冲击"] = 8,
-		["破碎时空"] = 64,
-		["怨恨之环"] = 32,
-		["仇恨"] = 4,
-		["奥能喷发"] = 64,
-		["相位爆炸"] = 64,
-		["腐溃风暴"] = 4,
-		["奥术之蚀"] = 64,
-		["熔岩喷吐"] = 4,
-		["冰锥术"] = 16,
-		["巨喉之怒"] = 16,
-		["虚空流星"] = 68,
-		["低吼"] = 1,
-		["影舌舔舐"] = 32,
-		["舞动之刃"] = 1,
-		["火焰之盾"] = 4,
-		["邪影屠戮"] = 36,
-		["天堂之怒"] = 2,
-		["狂野穿刺"] = 1,
-		["冲击波"] = 4,
-		["风暴之神的涌动"] = 8,
-		["撕碎利爪"] = 1,
-		["腐蚀光环"] = 8,
-		["压制"] = 1,
-		["岩浆喷吐"] = 4,
-		["飞刃"] = 1,
-		["冰中之棺"] = 16,
-		["莱索恩标记"] = 32,
-		["邪能淤泥"] = 4,
-		["梦魇爆发"] = 8,
-		["分筋错骨"] = 1,
-		["碎裂之土"] = 8,
-		["Charge"] = 1,
-		["掠食飞扑"] = 1,
-		["夺命黑鸦"] = 1,
-		["极限风暴"] = 8,
-		["闪击"] = 64,
-		["烬灰"] = 4,
-		["痛苦撕扯"] = 1,
-		["源质刺盾"] = 64,
-		["灵魂哀嚎"] = 32,
-		["Searing Brand"] = 4,
-		["副手灵界打击"] = 1,
-		["冰霜光环"] = 16,
-		["憎恶倾泻"] = 8,
-		["腐烂护甲"] = 1,
-		["阳炎之怒"] = 8,
-		["拆解"] = 1,
-		["漩涡之眼"] = 64,
-		["强化液态地狱火"] = 4,
-		["恶魔之力"] = 32,
-		["爆裂残片"] = 4,
-		["Meteor"] = 4,
-		["水流喷射"] = 16,
-		["黑暗打击"] = 32,
-		["狂风掼"] = 1,
-		["无尽寒冬"] = 16,
-		["严寒新星"] = 16,
-		["梦魇荆棘"] = 32,
-		["折磨"] = 32,
-		["淹没猛击"] = 16,
-		["十字军打击"] = 1,
-		["寒冰投掷"] = 16,
-		["机遇打击"] = 1,
-		["啄击"] = 1,
-		["锯齿刀刃"] = 1,
-		["动脉出血"] = 1,
-		["鲜血召唤"] = 4,
-		["逆流"] = 16,
-		["腐臭毒液"] = 8,
-		["亵渎之地"] = 32,
-		["恐惧猛击"] = 1,
-		["魔魂吸取"] = 8,
-		["电击"] = 8,
-		["Fel Rush"] = 127,
-		["Tiro-Autom�tico"] = 1,
-		["圣殿骑士的裁决"] = 2,
-		["裂伤之触"] = 32,
-		["精神鞭笞"] = 32,
-		["山崩"] = 8,
-		["凋零之箭"] = 32,
-		["盐水唾沫"] = 16,
-		["火焰箭"] = 4,
-		["疾风步"] = 1,
-		["法力割裂"] = 64,
-		["尾击"] = 1,
-		["燃烧之爪"] = 4,
-		["泰坦之雷"] = 8,
-		["灼烧"] = 4,
-		["闪电打击"] = 8,
-		["怒拳冲"] = 4,
-		["死亡横扫"] = 1,
-		["盐渍飞弹"] = 8,
-		["扭曲暗影"] = 32,
-		["暗影幻灵"] = 32,
-		["冰霜疫病"] = 16,
-		["静电力场"] = 8,
-		["饲料池"] = 8,
-		["毁伤血肉"] = 1,
-		["龙息术"] = 4,
-		["法力闪耀"] = 64,
-		["提尔的执行者"] = 2,
-		["黑暗"] = 32,
-		["冲锋"] = 1,
-		["时间漩涡"] = 64,
-		["地狱火山"] = 4,
-		["剧毒泥浆"] = 8,
-		["嚎叫"] = 32,
-		["邪能冲刺"] = 4,
-		["Sear"] = 4,
-		["折磨之眼"] = 32,
-		["飞扑之翼"] = 8,
-		["腐蚀剧毒"] = 8,
-		["钢铁乱舞"] = 1,
-		["Fragment"] = 32,
-		["女巫的诅咒"] = 64,
-		["倒刺射击"] = 1,
-		["活力吸取"] = 32,
-		["奥术宝珠"] = 64,
-		["盾牌猛击"] = 1,
-		["不稳定的法力"] = 64,
-		["衰老疫病"] = 8,
-		["急速射击"] = 1,
-		["Tainted Essence"] = 16,
-		["毁灭风暴"] = 8,
-		["阴魂爆裂"] = 32,
-		["梦魇"] = 32,
-		["Spear of Light"] = 2,
-		["尘土抽击"] = 8,
-		["Arcane Seepage"] = 64,
-		["多重射击"] = 1,
-		["高压"] = 8,
-		["烈焰咒符"] = 4,
-		["针刺"] = 8,
-		["猫鼬撕咬"] = 1,
-		["哀伤之雾"] = 32,
-		["低空突袭"] = 1,
-		["Ravenous Leap"] = 1,
-		["含毒之刺"] = 8,
-		["毁灭之箭"] = 64,
-		["Temporal Charge"] = 64,
-		["特别快递"] = 1,
-		["生命盛宴"] = 32,
-		["黑暗之脊"] = 1,
-		["山峦之击"] = 8,
-		["酸性碎片"] = 64,
-		["虚空毒液"] = 64,
-		["邪能挥发"] = 4,
-		["暗影烈焰新星"] = 36,
-		["猛虎掌"] = 1,
-		["聚焦毁灭"] = 32,
-		["你炸了！"] = 4,
-		["甩尾"] = 1,
-		["奇美拉射击"] = 16,
-		["碧玉疾风"] = 1,
-		["野蛮撕咬"] = 8,
-		["Corrupted Bellow"] = 32,
-		["灵魂之镰"] = 32,
-		["恶毒能量爆炸"] = 32,
-		["暴风雪"] = 16,
-		["漩涡激流"] = 16,
-		["不稳定的防御系统"] = 8,
-		["爆炸陷阱"] = 4,
-		["恶臭溃烂"] = 8,
-		["致命变异"] = 8,
-		["愤怒圣印"] = 2,
-		["邪火"] = 4,
-		["洪荒烈火焚烧"] = 4,
-		["混沌弹幕"] = 126,
-		["虚空链接"] = 64,
-		["亵渎喷发"] = 32,
-		["魔网裂痕"] = 64,
-		["高爆陷阱"] = 4,
-		["幻影打击"] = 32,
-		["锯齿利刃"] = 1,
-		["鲜血箭"] = 32,
-		["丢掷图腾"] = 1,
-		["水晶树皮"] = 64,
-		["星涌术"] = 72,
-		["暗影顺劈"] = 32,
-		["大地之盾"] = 8,
-		["汲取生机"] = 32,
-		["冰霜之拳"] = 16,
-		["暗影之盾"] = 32,
-		["时光珠"] = 64,
-		["反制射击"] = 1,
-		["冰枪术"] = 16,
-		["混乱之雨"] = 4,
-		["感染之咬"] = 1,
-		["战刃"] = 1,
-		["占位字符"] = 32,
-		["奥术迷雾"] = 64,
-		["投掷奥术宝典"] = 64,
-		["毁灭打击"] = 1,
-		["折磨感染"] = 32,
-		["煞能喷溅"] = 32,
-		["地狱冲锋"] = 4,
-		["奥术撕咬"] = 64,
-		["亡者的哭嚎"] = 32,
-		["软泥怪爆炸"] = 8,
-		["堕落者之赐"] = 4,
-		["毁灭之浪"] = 16,
-		["虚空消耗"] = 32,
-		["地狱喷发"] = 4,
-		["破军冲锋"] = 1,
-		["混乱之箭"] = 127,
-		["旋风劈砍"] = 1,
-		["水晶尖刺"] = 8,
-		["腐烂瘟疫"] = 32,
-		["麻痹毒药"] = 8,
-		["烈风之地"] = 16,
-		["消融爆破"] = 64,
-		["邪恶猛击"] = 8,
-		["艾莫莉丝标记"] = 32,
-		["邪能炙烤"] = 4,
-		["军团意志"] = 127,
-		["Intercept"] = 1,
-		["风暴释放"] = 8,
-		["纠缠凝视"] = 32,
-		["腐蚀毒液"] = 32,
-		["明月打击"] = 64,
-		["符文烙印"] = 2,
-		["火耀石"] = 4,
-		["灼烧之伤"] = 4,
-		["恐惧荆棘"] = 32,
-		["巨人打击"] = 1,
-		["治疗诅咒"] = 32,
-		["回旋锯刃"] = 1,
-		["灾祸"] = 32,
-		["撕裂肉体"] = 1,
-		["赤喉之咬"] = 32,
-		["泼溅"] = 4,
-		["燃烧的沥青"] = 4,
-		["起泡软泥"] = 8,
-		["神圣之地"] = 2,
-		["毁灭宝珠"] = 4,
-		["黑化污染"] = 32,
-		["梦魇爆裂"] = 32,
-		["风领主之击"] = 1,
-		["狂暴"] = 64,
-		["野蛮槌击"] = 1,
-		["死亡之寒"] = 16,
-		["Annihilated"] = 1,
-		["重击"] = 1,
-		["削凿"] = 1,
-		["魔火"] = 4,
-		["雷拳之怒"] = 8,
-		["冰刺"] = 16,
-		["折磨挥击"] = 32,
-		["奥丁之怒"] = 4,
-		["箭雨"] = 1,
-		["心灵扭曲"] = 32,
-		["割裂"] = 1,
-		["极寒冰流"] = 16,
-		["Cleansing Rage"] = 64,
-		["共生之击"] = 33,
-		["毒液炸弹"] = 8,
-		["邪能方尖碑"] = 1,
-		["灰烬冲击"] = 4,
-		["熔岩"] = 4,
-		["撕咬"] = 1,
-		["晶化大地"] = 8,
-		["毁灭闪电"] = 8,
-		["眼棱"] = 124,
-		["黑暗之影"] = 32,
-		["标记射击"] = 1,
-		["火焰之雨"] = 4,
-		["邪能呕吐物"] = 4,
-		["酸液洪流"] = 8,
-		["纪元宝珠跌落"] = 64,
-		["灵魂之泉"] = 32,
-		["Rapid Rupture"] = 1,
-		["投掷长矛"] = 1,
-		["扩散感染"] = 40,
-		["气体泡泡"] = 16,
-		["暴风斩"] = 8,
-		["穿冰破雪"] = 1,
-		["烈焰之箭"] = 4,
-		["实验型脉冲手雷"] = 8,
-		["剑刃漩涡"] = 1,
-		["疫病撕咬"] = 8,
-		["力场新星"] = 64,
-		["邪能冲击"] = 1,
-		["熔岩之拳"] = 4,
-		["邪狂之怒"] = 32,
-		["暗影冲击"] = 32,
-		["Burst of Flame"] = 4,
-		["炽燃冲锋"] = 4,
-		["炽燃之骨"] = 4,
-		["吸取生命"] = 32,
-		["腐化胆汁"] = 4,
-		["多汁激素"] = 8,
-		["暗影箭雨"] = 32,
-		["泰坦猛击"] = 1,
-		["Mark of Frost Explosion"] = 16,
-		["怒意宣泄"] = 1,
-		["炽烈横扫"] = 4,
-		["大地猛击"] = 1,
-		["梦魇爆破"] = 32,
-		["闪电爆裂"] = 1,
-		["灼热撕裂"] = 4,
-		["爆裂弹"] = 4,
-		["潜袭喷发"] = 32,
-		["暴虐之风"] = 1,
-		["死水冲击"] = 16,
-		["渗漏之雾"] = 8,
-		["震颤暗影"] = 32,
-		["凤凰重生"] = 4,
-		["缩小"] = 64,
-		["粉碎之握"] = 8,
-		["火球术"] = 4,
-		["静电充能"] = 64,
-		["无形"] = 32,
-		["粉碎意志"] = 32,
-		["混乱之刃"] = 127,
-		["神圣震击"] = 2,
-		["坠星"] = 64,
-		["邪能飞轮"] = 4,
-		["残酷切割"] = 1,
-		["异域奇点"] = 64,
-		["彗星冲击"] = 1,
-		["剑刃乱舞"] = 1,
-		["吞噬之影"] = 32,
-		["灼热射击"] = 4,
-		["寒冷"] = 16,
-		["折跃冲击"] = 64,
-		["梦魇回荡"] = 32,
-		["冰冷触摸"] = 16,
-		["暴乱狂风"] = 8,
-		["净化火焰"] = 2,
-		["圣光普照"] = 2,
-		["暗言术：灭"] = 32,
-		["破碎符文"] = 32,
-		["寒冰暴雨"] = 16,
-		["裂肠者"] = 1,
-		["灵魂释放"] = 2,
-		["神奇辐光"] = 64,
-		["Toxic Slice"] = 8,
-		["恐惧梦魇"] = 32,
-		["月影箭"] = 64,
-		["腐败之息"] = 32,
-		["迸涌"] = 4,
-		["亵渎"] = 32,
-		["冰风暴"] = 16,
-		["抑制光环"] = 32,
-		["封印魔法"] = 64,
-		["Smoldering"] = 4,
-		["闪电链"] = 8,
-		["鲜血浸没"] = 32,
-		["甲壳碎片"] = 1,
-		["痛苦鞭笞"] = 8,
-		["鸣叫"] = 1,
-		["原始狂暴"] = 1,
-		["隔绝怒火"] = 1,
-		["惩击"] = 2,
-		["脱缰烈焰"] = 4,
-		["恶魔之咬"] = 1,
-		["恶酸唾液"] = 4,
-		["暴露的核心"] = 64,
-		["地狱火撞击"] = 1,
-		["毁灭的苏醒"] = 32,
-		["满溢爆发"] = 8,
-		["梦魇孢子"] = 8,
-		["欺诈冲击波"] = 32,
-		["渗漏邪能"] = 4,
-		["瞄准射击"] = 1,
-		["狂热横扫"] = 4,
-		["毒水腐蚀"] = 16,
-		["神圣风暴"] = 2,
-		["霜降"] = 16,
-		["反馈火焰"] = 4,
-		["熔岩波"] = 4,
-		["心中的恶魔"] = 127,
-		["发脾气"] = 1,
-		["压碎护甲"] = 1,
-		["邪恶切割"] = 1,
-		["硫磺剑"] = 4,
-		["火团熔岩"] = 4,
-		["根除"] = 127,
-		["森提纳克斯毁灭区域"] = 127,
-		["逆风"] = 1,
-		["圣洁庇护"] = 2,
-		["午夜诅咒"] = 32,
-		["魔法禁锢"] = 64,
-		["击退"] = 1,
-		["邪能之刃"] = 1,
-		["奥术渗流"] = 64,
-		["法力释放"] = 64,
-		["邪能镰刀"] = 4,
-		["裂痕"] = 1,
-		["撕碎"] = 1,
-		["还击"] = 1,
-		["胡萝卜吐息"] = 8,
-		["暴怒"] = 1,
-		["刺骨挥砍"] = 16,
-		["践踏"] = 1,
-		["漩涡之镰"] = 1,
-		["尖啸旋风"] = 16,
-		["黑心新星"] = 32,
-		["吸取未来"] = 64,
-		["过顶挥砍"] = 1,
-		["暗言术：痛"] = 32,
-		["Seed of Corruption"] = 32,
-		["火之球"] = 4,
-		["审判"] = 2,
-		["屠戮精华"] = 64,
-		["克罗莫格之怒"] = 8,
-		["Arcane Fog"] = 64,
-		["穿刺爪击"] = 1,
-		["枯萎"] = 32,
-		["聚焦冲击"] = 64,
-		["熔火琥珀"] = 4,
-		["邪焰顺劈"] = 4,
-		["石血箭"] = 8,
-		["Throw Dynamite"] = 4,
-		["幻影新星"] = 4,
-		["邪恶腐败"] = 32,
-		["时空爆发"] = 64,
-		["腐坏之喉"] = 8,
-		["缠绕之网"] = 64,
-		["英勇投掷"] = 1,
-		["奥能之环"] = 64,
-		["醉拳"] = 1,
-		["暗夜井能量"] = 64,
-		["被污染的精华"] = 16,
-		["副手剑刃风暴"] = 1,
-		["鲜血炸弹"] = 32,
-		["净化邪恶"] = 4,
-		["极度冰寒"] = 16,
-		["腐臭软泥"] = 8,
-		["折磨引爆"] = 32,
-		["灼热伤口"] = 4,
-		["米尔菲丝的盛怒"] = 8,
-		["混乱打击"] = 127,
-		["软泥怪之池"] = 8,
-		["左右开弓"] = 1,
-		["引力井"] = 32,
-		["发射药剂"] = 8,
-		["爆炸酒桶"] = 4,
-		["翻卷的烈焰狂风"] = 4,
-		["贪婪"] = 1,
-		["熔岩释放"] = 4,
-		["爆炸"] = 32,
-		["Armageddon"] = 64,
-		["瘟疫之种"] = 32,
-		["恶魔之刃"] = 32,
-		["污秽爆破"] = 16,
-		["投掷酒桶"] = 8,
-		["神圣之火"] = 2,
-		["鲜血四溅"] = 1,
-		["战刃大师"] = 1,
-		["风箭"] = 8,
-		["秘法旋风"] = 64,
-		["火焰之息"] = 4,
-		["虹吸魔法"] = 64,
-		["Corpo-a-Corpo"] = 1,
-		["灵魂烈焰"] = 36,
-		["艾露恩之泪"] = 64,
-		["寒冰宝珠"] = 16,
-		["炽炎注视"] = 4,
-		["疾驰列车"] = 4,
-		["燃烧的灵魂"] = 4,
-		["风怒攻击"] = 1,
-		["上古毒瘴"] = 32,
-		["鹰身人的尖叫"] = 1,
-		["黑石弹幕"] = 1,
-		["强化长刀猛刺"] = 1,
-		["恶魔践踏"] = 4,
-		["邪能弹幕"] = 4,
-		["星辰打击"] = 64,
-		["聚焦法力光束"] = 64,
-		["吸血"] = 1,
-		["泰拉尔标记"] = 32,
-		["引爆：冰霜印记"] = 16,
-		["地狱火之力"] = 4,
-		["残酷挥砍"] = 1,
-		["复仇哀嚎"] = 32,
-		["雷霆飞弹"] = 8,
-		["炽热日光"] = 4,
-		["暴风雨"] = 8,
-		["辐射梦魇"] = 32,
-		["冰霜之镰"] = 16,
-		["利刃留痕"] = 1,
-		["深渊猛击"] = 1,
-		["世界击碎者"] = 4,
-		["伊利达雷之愤"] = 127,
-		["根须爆裂"] = 1,
-		["奥术箭"] = 64,
-		["恶魔变形"] = 124,
-		["粘稠沥青"] = 8,
-		["锯齿圆盘"] = 1,
-		["暴怒的风暴元素"] = 8,
-		["火舌"] = 4,
-		["邪能束缚"] = 4,
-		["梦魇花蕾"] = 32,
-		["Burst of Ice"] = 16,
-		["半月"] = 64,
-		["剧毒之矛"] = 8,
-		["爆裂碎片"] = 4,
-		["扭曲炸弹"] = 64,
-		["哀伤之触"] = 32,
-		["无情风暴"] = 16,
-		["时光充能"] = 64,
-		["切割打击"] = 1,
-		["琥珀雕刻刀"] = 8,
-		["火焰爆裂"] = 4,
-		["邪恶光环"] = 32,
-		["邪能燃烬"] = 4,
-		["多头出击"] = 1,
-		["毒血"] = 8,
-		["怒击"] = 1,
-		["炎爆术"] = 4,
-		["净化的幼龙吐息"] = 8,
-		["设置炸弹"] = 4,
-		["水晶弹幕"] = 1,
-		["腐化宝珠"] = 16,
-		["笨拙猛击"] = 1,
-		["引爆：奥术宝珠"] = 64,
-		["Burst of Time"] = 64,
-		["弹幕射击"] = 1,
-		["雷霆风暴"] = 8,
-		["引爆：灼热烙印"] = 4,
-		["混沌能量"] = 4,
-		["腐化物残渣"] = 32,
-		["冰冻陷阱"] = 16,
-		["冲刺打击"] = 1,
-		["怨恨冲锋"] = 1,
-		["岩浆柱"] = 4,
-		["暮光箭"] = 32,
-		["奥术弹幕"] = 64,
-		["Ball Lightning"] = 8,
-		["下冲气流"] = 8,
-		["魔爆术"] = 64,
-		["死灵毒液"] = 8,
-		["灵魂过载"] = 8,
-		["返回岩石形态"] = 32,
-		["散弹射击"] = 4,
-		["迅猛突袭"] = 1,
-		["燃烧之烙"] = 4,
-		["自爆"] = 4,
-		["点燃魔刃"] = 4,
-		["灰烬之雨"] = 4,
-		["黑暗毁灭"] = 32,
-		["火葬"] = 4,
-		["亚煞极的精华"] = 32,
-		["疾风炸弹"] = 8,
-		["鲜血突袭"] = 16,
-		["地狱烈焰"] = 4,
-		["时光过载"] = 64,
-		["发射瘟疫凝胶"] = 8,
-		["主炮轰击"] = 4,
-		["雷霆践踏"] = 8,
-		["黑暗风暴"] = 32,
-		["Bane Nova"] = 32,
-		["毁灭觉醒"] = 64,
-		["邪能冲撞"] = 127,
-		["流星灼烧"] = 4,
-		["短剑痛击"] = 1,
-		["醉酿投"] = 1,
-		["黑暗释放"] = 32,
-		["穿透打击"] = 1,
-		["喷洒沙砾"] = 8,
-		["小蜘蛛毒素"] = 8,
-		["真气波"] = 8,
-		["破碎"] = 32,
-		["快速传染"] = 8,
-		["虚空箭"] = 32,
-		["以太猛刺"] = 16,
-		["蜂拥之影"] = 32,
-		["烈焰狂风"] = 4,
-		["邪能腐蚀"] = 4,
-		["狂乱"] = 1,
-		["吸取灵魂"] = 32,
-		["鸡群火箭"] = 4,
-		["Flurry of Steel"] = 1,
-		["季风"] = 1,
-		["狂怒火焰"] = 4,
-		["套索射击"] = 1,
-		["爆裂溃烂"] = 40,
-		["崩解闪电"] = 8,
-		["影袭"] = 1,
-		["暗影爆裂"] = 32,
-		["近程炸弹爆炸"] = 4,
-		["横扫"] = 1,
-		["刚毛倒刺"] = 8,
-		["魔法之牙"] = 64,
-		["生命分流"] = 32,
-		["神圣之锤"] = 2,
-		["腐蚀宝珠"] = 32,
-		["古尔丹之手"] = 32,
-		["反冲"] = 4,
-		["锯齿劈斩"] = 1,
-		["诅咒之血"] = 32,
-		["闪现突袭"] = 1,
-		["托里姆之箭"] = 8,
-		["粗糙的碎片"] = 1,
-		["潮汐奔涌"] = 16,
-		["怒焰"] = 4,
-		["潮汐重击"] = 16,
-		["炽燃地狱火"] = 4,
-		["空间之镰"] = 64,
-		["暗影愈合"] = 32,
-		["副手风暴轰击"] = 1,
-		["烈火黏质"] = 4,
-		["混乱风暴"] = 8,
-		["斩杀"] = 1,
-		["寻踪虫群"] = 32,
-		["Proximity Bomb Explode"] = 4,
-		["邪能烈焰"] = 4,
-		["水晶之刺"] = 1,
-		["烈火烙印"] = 4,
-		["喷吐脓液"] = 32,
-		["业报之触"] = 8,
-		["伏虎闪雷"] = 8,
-		["震荡践踏"] = 4,
-		["灼热彗星"] = 4,
-		["暗影撕裂"] = 32,
-		["噬咬"] = 1,
-		["暗影波"] = 32,
-		["Detonation"] = 4,
-		["信息素云团"] = 8,
-		["死亡之握"] = 1,
-		["强化邪能束缚"] = 4,
-		["火舌攻击"] = 4,
-		["释能"] = 64,
-		["致命药膏"] = 8,
-		["邪火飞弹"] = 4,
-		["强力爆炸"] = 64,
-		["冰霜爆炸印记"] = 16,
-		["黏呼呼的"] = 8,
-		["丝黛拉苟萨之息"] = 4,
-		["刀扇"] = 1,
-		["粉碎打击"] = 8,
-		["麻痹"] = 64,
-		["荆棘术"] = 8,
-		["莫德古德的疾病"] = 32,
-		["蛛网"] = 8,
-		["暗影之拥"] = 32,
-		["音速爆裂"] = 1,
-		["副手影舞步"] = 1,
-		["易爆的邪能冲击"] = 4,
-		["毁伤"] = 1,
-		["奥术切割者"] = 64,
-		["重击利爪"] = 1,
-		["眼球风暴"] = 4,
-		["孢子炸弹"] = 8,
-		["煞能尖刺"] = 32,
-		["神秘冲击"] = 64,
-		["神圣惩击"] = 2,
-		["奥术飞弹"] = 64,
-		["凛冬将至"] = 16,
-		["抑心光环"] = 1,
-		["不稳定的混合物"] = 8,
-		["嗜血"] = 1,
-		["恐惧连结"] = 32,
-		["冰霜打击"] = 16,
-		["雷铸之矛"] = 1,
-		["天启"] = 32,
-		["剧毒蜕变"] = 8,
-		["残害"] = 1,
-		["势大力沉"] = 1,
-		["荒芜之地"] = 4,
-		["坍缩"] = 32,
-		["复仇打击"] = 1,
-		["袖剑风暴"] = 1,
-		["凶猛撕咬"] = 1,
-		["侵蚀灵魂"] = 1,
-		["死疽溃烂"] = 40,
-		["球状闪电"] = 8,
-		["折魔吐息"] = 32,
-		["闪电吐息"] = 8,
-		["硬化血肉"] = 1,
-		["死亡嚎叫"] = 32,
-		["绝望之破"] = 32,
-		["萨格拉斯之焰"] = 4,
-		["腐臭蜂群"] = 32,
-		["邪恶根须"] = 8,
-		["Pool of Frost"] = 16,
-		["灵魂回响"] = 32,
-		["折磨梦境"] = 32,
-		["信息素痕迹"] = 8,
-		["恶魔突起"] = 4,
-		["邪能火箭"] = 4,
-		["恐惧爆炸"] = 32,
-		["水晶碎片"] = 64,
-		["消散"] = 1,
-		["恶毒之咬"] = 1,
-		["轮回之触"] = 1,
-		["痛苦的灵魂"] = 32,
-		["翻滚冲击"] = 1,
-		["腐烂之咬"] = 8,
-		["副手斩杀"] = 1,
-		["冰河喷发"] = 48,
-		["双管齐下"] = 1,
-		["火焰新星"] = 4,
-		["燃烧剑刃"] = 32,
-		["死水弹幕"] = 16,
-		["恐惧之眼"] = 32,
-		["电能释放"] = 8,
-		["回归打击"] = 1,
-		["狂热"] = 1,
-		["新生光环"] = 8,
-		["净化毁灭"] = 64,
-		["Eye of the Tiger"] = 8,
-		["迟缓毒液"] = 8,
-		["净化之怒"] = 64,
-		["毁灭践踏"] = 1,
-		["Dancing Blade"] = 1,
-		["带钩长矛"] = 1,
-		["灼烧烈焰"] = 4,
-		["酸液喷泉"] = 8,
-		["风怒"] = 1,
-		["燃烧护甲"] = 4,
-		["暗影新星"] = 32,
-		["透心折磨"] = 64,
-		["灵魂收割"] = 4,
-		["切割漩涡"] = 1,
-		["裂体撕扯"] = 1,
-		["黑洞"] = 1,
-		["好奇凝视"] = 1,
-		["Taint of the Sea"] = 16,
-		["浓缩信息素"] = 4,
-		["邪焰泥浆"] = 4,
-		["带电鳞片"] = 8,
-		["腐蚀：虚幻现实"] = 4,
-		["奥术桎梏"] = 64,
-		["邪污暗影"] = 32,
-		["波浪冲击"] = 16,
-		["闪电新星"] = 8,
-		["熔岩爆裂"] = 4,
-		["召唤附魔武器"] = 4,
-		["断裂飞掠"] = 8,
-		["暗影打击"] = 32,
-		["魔法爆裂"] = 64,
-		["邪能之爪"] = 4,
-		["永恒黑暗"] = 32,
-		["野兽狂野"] = 1,
-		["魔精之波"] = 8,
-		["奥术洪流"] = 64,
-		["女妖之祸"] = 8,
-		["邪能锁链"] = 4,
-		["毒水吐息"] = 16,
-		["灼烧土地"] = 4,
-		["刺骨"] = 1,
-		["心碎"] = 1,
-		["动荡宝珠"] = 64,
-		["活动炸弹"] = 4,
-		["旋风倾泻"] = 4,
-		["Stone Block"] = 1,
-		["啸风"] = 1,
-		["荆棘虫群"] = 8,
-		["闪光餐叉"] = 1,
-		["打击"] = 1,
-		["熔岩之池"] = 4,
-		["震地践踏"] = 8,
-		["吞噬之夜"] = 64,
-		["晶体碎块"] = 64,
-		["衰变光束"] = 32,
-		["时光分裂"] = 64,
-		["Power Overwhelming"] = 64,
-		["混沌之源"] = 4,
-		["黑暗冥想"] = 32,
-		["燃烧"] = 4,
-		["离子爆炸"] = 4,
-		["梦魇腐蚀"] = 32,
-		["梦魇伤口"] = 32,
-		["烈焰花环"] = 4,
-		["冰舌舔舐"] = 16,
-		["势不可挡"] = 64,
-		["虚空领域"] = 64,
-		["腐化灌注"] = 1,
-		["污染之地"] = 40,
-		["暗影收割"] = 32,
-		["戈德林之牙"] = 64,
-		["重殴"] = 1,
-		["混乱充能爆炸"] = 64,
-		["烈焰升龙踢"] = 4,
-		["酸性创伤"] = 8,
-		["Runic Brand"] = 2,
-		["回旋之刃"] = 1,
-		["维斯瑞兹的凝视"] = 32,
-		["时间释放"] = 64,
-		["恶臭"] = 8,
-		["盾牌重击"] = 1,
-		["不稳定的脓液"] = 8,
-		["凤凰烈焰"] = 4,
-		["星辰坠落"] = 72,
-		["腐蚀流星"] = 32,
-		["倒刺荆棘"] = 8,
-		["暗影箭"] = 32,
-		["艾露恩的穿刺凝视"] = 64,
-		["惩戒光环"] = 2,
-		["利刃之舞"] = 1,
-		["拉文霍德玺戒"] = 32,
-		["绞袭"] = 32,
-		["鬼灵冲锋"] = 32,
-		["腐蚀之种"] = 32,
-		["邪炽之地"] = 4,
-		["冻结"] = 64,
-		["毁灭之触"] = 32,
-		["火焰核心"] = 4,
-		["隔离区"] = 64,
-		["腐蚀爆发之矛"] = 8,
-		["虚空之刺"] = 64,
-		["邪能爆发"] = 4,
-		["吞噬魔法"] = 124,
-		["颈羽倒竖"] = 8,
-		["邪污爆炸"] = 32,
-		["伊森德雷标记"] = 32,
-		["撕裂"] = 1,
-		["Glowing Fragment"] = 2,
-		["抽取"] = 32,
-		["感染吐息"] = 40,
-		["梦魇长枪"] = 32,
-		["钻孔"] = 8,
-		["剧毒之刃"] = 1,
-		["沙尘暴"] = 8,
-		["腐烂根须"] = 8,
-		["塌缩之影"] = 32,
-		["哀嚎之风"] = 8,
-		["猛虎之眼"] = 8,
-		["强效力量祝福"] = 2,
-		["猛禽一击"] = 1,
-		["永冻"] = 16,
-		["撕裂旋风"] = 1,
-		["重碾"] = 1,
-		["盲目之光"] = 2,
-		["苦修"] = 2,
-		["疯狂斩杀"] = 1,
-		["徘徊暗影"] = 32,
-		["晶化冲击波"] = 1,
-		["雷霆之箭"] = 8,
-		["利爪打击"] = 1,
-		["碎玉闪电"] = 8,
-		["投掷鱼人"] = 1,
-		["黑暗聚集体"] = 32,
-		["猛击"] = 1,
-		["汹涌水流"] = 16,
-		["清道夫"] = 64,
-		["Mana Rupture"] = 64,
-		["黑暗闪电"] = 8,
-		["剧毒匕首"] = 8,
-		["炮弹弹幕"] = 1,
-		["天降杀机"] = 1,
-		["燃烧之焰"] = 4,
-		["阿古斯之印"] = 4,
-		["汤汁泼洒"] = 16,
-		["闪电箭"] = 8,
-		["暗影之怒"] = 32,
-		["太阳之泪"] = 4,
-		["黑暗宣泄"] = 32,
-		["冰川突进"] = 16,
-		["穿刺"] = 1,
-		["冰霜印记"] = 16,
-		["冰霜震击"] = 16,
-		["邪能风暴"] = 4,
-		["冰霜脉冲"] = 16,
-		["召云聚气"] = 1,
-		["碎地"] = 8,
-		["霜寒彗星"] = 16,
-		["嚎镇八方"] = 1,
-		["熔岩爆裂过载"] = 4,
-		["寒冰之刃"] = 17,
-		["巨人重击"] = 1,
-		["漩涡"] = 32,
-		["神鹤引项踢"] = 1,
-		["掷斧"] = 1,
-		["跪拜火焰！"] = 4,
-		["弧光风暴"] = 8,
-		["复仇"] = 1,
-		["腐烂光环"] = 1,
-		["刃雨"] = 1,
-		["梦魇惊魂"] = 1,
-		["末日决战"] = 64,
-		["石拳"] = 8,
-		["全力之击"] = 4,
-		["隐匿萨特之印"] = 4,
-		["血之疫病"] = 32,
-		["刺穿"] = 1,
-		["动荡炙焰"] = 4,
-		["灼热烙印"] = 4,
-		["冰冻"] = 1,
-		["暮光渗透"] = 32,
-		["冰川打击"] = 16,
-		["Detonate: Arcane Orb"] = 64,
-		["梦魇之息"] = 4,
-		["重压"] = 1,
-		["邪能岩弹"] = 4,
-		["守护者新星"] = 64,
-		["过热"] = 4,
-		["液态地狱火"] = 4,
-		["沙尘箭"] = 8,
-		["巨龙怒吼"] = 1,
-		["导管短路"] = 8,
-		["风暴边缘"] = 8,
-		["腐肉波浪"] = 32,
-		["投掷沉默宝典"] = 32,
-		["凋零凝视"] = 32,
-		["真气爆裂"] = 8,
-		["混乱顺劈"] = 124,
-		["灵魂切削"] = 4,
-		["神经冲击"] = 8,
-		["荆棘外壳"] = 8,
-		["恐怖光环"] = 32,
-		["破法者"] = 1,
-		["弹跳闪电"] = 8,
-		["大地咆哮"] = 8,
-		["腐肉瘟疫"] = 32,
-		["脓疮打击"] = 1,
-		["投掷巨石"] = 1,
-		["烈火轰击"] = 4,
-		["光明涌动"] = 4,
-		["末日之刺"] = 32,
-		["副手湮灭"] = 1,
-		["暴乱"] = 1,
-		["撕咬狂乱"] = 1,
-		["扭曲之风"] = 8,
-		["无尽深渊"] = 32,
-		["腐蚀不谐力场"] = 1,
-		["治疗符文"] = 2,
-		["烈焰风暴"] = 4,
-		["火焰的召唤"] = 4,
-		["爆裂"] = 64,
-		["乱舞"] = 1,
-		["虚空冲击"] = 1,
-		["流沙"] = 8,
-		["野兽顺劈"] = 1,
-		["风之爆裂"] = 1,
-		["水泡爆炸"] = 16,
-		["灼烧之雨"] = 4,
-		["天启梦魇"] = 4,
-		["夺魂"] = 32,
-		["野蛮打击"] = 1,
-		["谴责法令"] = 32,
-		["剧毒新星"] = 8,
-		["刀锋之牙"] = 1,
-		["神灵之怒"] = 2,
-		["混乱压制"] = 127,
-		["翔龙在天"] = 1,
-		["圣光冲击"] = 2,
-		["魔精箭雨"] = 8,
-		["奥能脉冲"] = 64,
-		["爆裂充能"] = 64,
-		["折磨箭"] = 32,
-		["奥术撕扯"] = 64,
-		["菌类孢子"] = 8,
-		["刃舞"] = 1,
-		["神智不清"] = 16,
-		["烈焰之矛"] = 4,
-		["恐惧蔓延"] = 1,
-		["暴君之槌"] = 4,
-		["虚空爆炸"] = 32,
-		["死神的抚摩"] = 32,
-		["寒冰洪流"] = 16,
-		["爆发暗影"] = 32,
-		["石血喷泉"] = 8,
-		["灵魂裂劈"] = 32,
-		["火焰冲击"] = 4,
-		["冰封"] = 16,
-		["奥术之球"] = 64,
-		["风暴"] = 8,
-		["月影枪"] = 64,
-		["风暴之眼"] = 8,
-		["针刺虫群"] = 1,
-		["符文之斧"] = 32,
-		["利爪猛击"] = 1,
-		["星爆"] = 64,
-		["君王之灾"] = 8,
-		["炼狱箭"] = 4,
-		["余震"] = 1,
-		["邪能火球"] = 4,
-		["投入萨隆邪铁"] = 1,
-		["圣言术：罚"] = 2,
-		["血之剑刃"] = 1,
-		["燃烧猛击"] = 4,
-		["强烈燃烧"] = 4,
-		["酸息术"] = 8,
-		["死亡苍白"] = 32,
-		["风暴打击"] = 1,
-		["钢铁怒吼"] = 1,
-		["窒息之尘"] = 8,
-		["虚空爆发"] = 32,
-		["虎钳"] = 1,
-		["阴霾"] = 32,
-		["黑暗裂隙"] = 32,
-		["Arise, Fallen"] = 32,
-		["远程大军之印"] = 1,
-		["黑暗收割"] = 32,
-		["爆炸符文"] = 4,
-		["秽物天降"] = 32,
-		["静电冲击"] = 8,
-		["腐化弹幕"] = 8,
-		["恐惧冲击"] = 1,
-		["正中眉心"] = 1,
-		["剧毒之池"] = 8,
-		["荣誉束缚"] = 2,
-		["毒伤"] = 8,
-		["奥术炸弹"] = 64,
-		["致伤打击"] = 1,
-		["腐蚀之触"] = 32,
-		["Immolation"] = 4,
-		["Eye of the Storm"] = 8,
-		["仁慈光环"] = 2,
-		["灵魂虹吸"] = 32,
-		["钢铁风暴"] = 1,
-		["吸取活力"] = 1,
-		["Crystalline Fragments"] = 64,
-		["水晶冻结"] = 64,
-		["魔法燃烧"] = 64,
-		["奥术充能"] = 64,
-		["碎裂波动"] = 16,
-		["晶化双剑"] = 16,
-		["突变"] = 4,
-		["龙焰手雷"] = 4,
-		["爆燃冲刺"] = 1,
-		["寒冰新星"] = 16,
-		["心灵尖刺"] = 48,
-		["能量释放"] = 64,
-		["符文专注"] = 8,
-		["致死打击"] = 1,
-		["符文蚀刻之斧"] = 32,
-		["枯萎的邪火"] = 4,
-		["闪电冲击"] = 8,
-		["眩目闪光"] = 32,
-		["专注闪电爆炸"] = 8,
-		["驱逐之光"] = 2,
-		["冰霜撕咬"] = 16,
-		["毒性几丁质"] = 8,
-		["践踏猛击"] = 1,
-		["Cleansing Destruction"] = 64,
-		["斜掠"] = 1,
-		["石化云雾"] = 8,
-		["聚集风暴"] = 8,
-		["献祭光环"] = 4,
-		["奉献"] = 2,
-		["熔岩冲击"] = 8,
-		["梦魇之刃"] = 1,
-		["轰鸣一击"] = 64,
-		["拍击"] = 1,
-		["引雷针"] = 8,
-		["霜覆"] = 16,
-		["爆裂熔炉"] = 4,
-		["神秘射线"] = 64,
-		["震耳尖啸"] = 1,
-		["梦魇凝视"] = 32,
-		["利刃冲刺"] = 1,
-		["Swirling Water"] = 16,
-		["腐化吐息"] = 32,
-		["星辰耀斑"] = 72,
-		["毒液注射"] = 8,
-		["能量涌动"] = 64,
-		["烧灼"] = 4,
-		["灼热燃烧"] = 4,
-		["受折磨者的哭号"] = 1,
-		["破甲"] = 1,
-		["刺伤"] = 1,
-		["利齿撕咬"] = 1,
-		["手枪射击"] = 1,
-		["淬毒刀刃"] = 8,
-		["禁忌魔法"] = 64,
-		["熔岩猛击"] = 4,
-		["纳鲁之光"] = 2,
-		["暮光血箭"] = 96,
-		["翻滚风暴"] = 8,
-		["熔火之皮"] = 4,
-		["充能箭"] = 64,
-		["双重扫击"] = 1,
-		["焰火"] = 4,
-		["冰封地面"] = 16,
-		["献祭"] = 4,
-		["燃烧的琥珀"] = 4,
-		["生命之种"] = 8,
-		["海盐毒素"] = 8,
-		["流毒獠牙"] = 8,
-		["纠缠之根"] = 8,
-		["烫伤"] = 4,
-		["猛鹫"] = 1,
-		["抓挠"] = 1,
-		["爆裂闪电"] = 8,
-		["烈焰"] = 4,
-		["喧闹之水"] = 16,
-		["能量吸取"] = 64,
-		["雪崩"] = 16,
-		["能量虚空"] = 32,
-		["诸神黄昏"] = 4,
-		["升龙霸"] = 1,
-		["俘虏之潮"] = 16,
-		["岩石吐息"] = 8,
-		["邪焰风暴"] = 4,
-		["喷吐闪电"] = 8,
-		["约束混沌"] = 64,
-		["暗影飓风"] = 32,
-		["阳炎术"] = 8,
-		["压倒能量"] = 4,
-		["风暴之锤"] = 1,
-		["穿刺射击"] = 1,
-		["英勇飞跃"] = 1,
-		["祝福之锤"] = 2,
-		["灵魂残片"] = 32,
-		["烈焰盾"] = 4,
-		["掠夺之根"] = 8,
-		["腐烂之触"] = 8,
-		["风爆弹"] = 8,
-		["漩涡之水"] = 16,
-		["脱水"] = 32,
-		["怒雷破"] = 1,
-		["邪能爆破"] = 4,
-		["幽灵打击"] = 32,
-		["闪光术"] = 64,
-		["轻蔑之触"] = 32,
-		["能量箭"] = 64,
-		["复仇回避"] = 1,
-		["断体劈砍"] = 1,
-		["公正之剑"] = 1,
-		["腐化物"] = 8,
-		["Arcane Tether"] = 64,
-		["黑暗水域"] = 32,
-		["投掷炸弹"] = 4,
-		["连环爆裂"] = 8,
-		["岩浆猛击"] = 4,
-		["爆裂射击"] = 1,
-		["影霜碎片"] = 48,
-		["粉碎巨石"] = 1,
-		["Brackish Bolt"] = 8,
-		["强力撕咬"] = 1,
-		["猩红追击"] = 4,
-		["巨龙冲锋"] = 1,
-		["煞能残渣"] = 32,
-		["利刃冲锋"] = 1,
-		["盾刺"] = 1,
-		["鲜血脓液"] = 32,
-		["粘稠的软泥"] = 8,
-		["不受束缚的烈焰"] = 4,
-		["剃刀之翼"] = 32,
-		["野兽狡诈"] = 1,
-		["放血扫击"] = 1,
-		["不稳定的震荡波"] = 4,
-		["凶猛利爪"] = 1,
-		["蠕行梦魇"] = 32,
-		["直取敌喉"] = 1,
-		["撕裂灵魂"] = 32,
-		["邪能光束"] = 4,
-		["烈焰缠身"] = 4,
-		["能量倾泻"] = 64,
-		["寒冰箭"] = 16,
-		["虚空之触"] = 64,
-		["Focused Blast"] = 64,
-		["血滴子"] = 1,
-		["厄祖玛特的枯萎"] = 32,
-		["聚爆能量"] = 32,
-		["迅捷割裂"] = 1,
-		["炽热光辉"] = 4,
-		["自动射击"] = 1,
-		["不稳定的魔法"] = 64,
-		["制裁之锤"] = 2,
-		["生灵俱灭"] = 1,
-		["见证虚空"] = 32,
-		["腐蚀毒药"] = 8,
-		["晦暗灵魂"] = 1,
-		["暗影震击"] = 32,
-		["邪能烈焰之球"] = 4,
-		["灵魂漩涡"] = 32,
-		["杂技打击"] = 1,
-		["毒性薄片"] = 8,
-		["淬毒长矛"] = 8,
-		["移花接木"] = 8,
-		["灼热打击"] = 4,
-		["Temporal Orb"] = 64,
-		["轰鸣的裂隙"] = 4,
-		["动荡魔法"] = 64,
-		["延绵恐惧"] = 32,
-		["军团标记"] = 32,
-		["神圣之盾"] = 2,
-		["心灵尖刺引爆"] = 48,
-		["提尔之眼"] = 2,
-		["Bloodletting Sweep"] = 1,
-		["湮灭"] = 1,
-		["腐化咆哮"] = 32,
-		["神准冲击"] = 2,
-		["窒息毒气"] = 8,
-		["穿刺飞弹"] = 64,
-		["暗影风暴"] = 32,
-		["Blazing Charge"] = 4,
-		["引力失效"] = 64,
-		["坠落之星"] = 64,
-		["野蛮强击"] = 1,
-		["混乱能量爆炸"] = 64,
-		["群体喷射"] = 16,
-		["不稳定的宝珠"] = 4,
-		["灰烬觉醒"] = 6,
-		["利爪撕扯"] = 1,
-		["末日恶灵"] = 4,
-		["寒冰冲击"] = 16,
-		["聚合爆破"] = 64,
-		["霜寒刺骨"] = 16,
-		["不谐力场"] = 1,
-		["冰霜新星"] = 16,
-		["不稳定的琥珀"] = 8,
-		["冲击"] = 4,
-		["毒舌鞭笞"] = 32,
-		["强化古尔丹之眼"] = 4,
-		["奥术侵蚀"] = 64,
-		["痛苦无常"] = 32,
-		["耀斑"] = 4,
-		["冰霜共鸣"] = 16,
-		["心灵震爆"] = 32,
-		["束缚射击"] = 64,
-		["窒息藤蔓"] = 8,
-		["横向烈风"] = 1,
-		["梦魇毒素"] = 8,
-		["点燃"] = 4,
-		["剑刃旋风"] = 1,
-		["暴龙电击带"] = 8,
-		["幻灭猛击"] = 1,
-		["黑暗提灯"] = 32,
-		["腐蚀震击"] = 8,
-		["闪电箭过载"] = 8,
-		["污染倾泻"] = 32,
-		["灭战者"] = 32,
-		["打断"] = 1,
-		["痛击"] = 1,
-		["煞能箭"] = 32,
-		["暗影觉醒"] = 32,
-		["绞肉机"] = 1,
-		["急促射击"] = 1,
-		["幻灭踢"] = 1,
-		["分裂的能量 "] = 64,
-		["锤拳"] = 1,
-		["陷阱大师"] = 8,
-		["腐蚀：坠入疯狂"] = 1,
-		["折脊碎椎"] = 1,
-		["剧毒风暴"] = 8,
-		["胡椒吐息"] = 4,
-		["灵魂治愈"] = 8,
-		["投掷武器"] = 1,
-		["噬体烈焰"] = 32,
-		["穿透射击"] = 1,
-		["钢铁旋风"] = 1,
-		["邪恶链接"] = 1,
-		["绝望"] = 32,
-		["撕裂重击"] = 1,
-		["黑暗天灾"] = 8,
-		["火舌舔舐"] = 4,
-		["恐惧"] = 32,
-		["邪能引爆"] = 4,
-		["迫击炮冲击"] = 4,
-		["暗影之池"] = 32,
-		["火焰轰炸"] = 4,
-		["恐怖嚎叫"] = 32,
-		["Entombed in Ice"] = 16,
-		["心脏打击"] = 1,
-		["疫病虫群"] = 8,
-		["心脏收缩"] = 32,
-		["邪能献祭"] = 4,
-		["魔刃风暴"] = 1,
-		["珊瑚猛击"] = 1,
-		["圆弧斩"] = 1,
-		["龙卷水涌"] = 16,
-		["吸血撕咬"] = 1,
-		["风暴吐息"] = 8,
-		["被感染"] = 8,
-		["复仇者之盾"] = 2,
-		["邪恶打击"] = 4,
-		["低温"] = 16,
-		["起伏之沙"] = 1,
-		["星力洪流"] = 8,
-		["岩崩"] = 8,
-		["闪电释放"] = 8,
-		["霜冻坚韧"] = 16,
-		["混乱新星"] = 124,
-		["扬尘漫天"] = 8,
-		["锁喉"] = 1,
-		["吸血鬼之吻"] = 1,
-		["血液沸腾"] = 32,
-		["狂热信息素"] = 8,
-		["共鸣挥砍"] = 64,
-		["强化邪焰风暴"] = 4,
-		["震地猛击"] = 1,
-		["剧毒感染"] = 32,
-		["灵魂之池"] = 32,
-		["烧尽"] = 4,
-		["烈焰震击"] = 4,
-		["狂乱之球"] = 32,
-		["坍缩裂隙"] = 64,
-		["烈焰路径"] = 4,
-		["吸血鬼之触"] = 32,
-		["水箭"] = 16,
-		["夜刃"] = 32,
-		["前膛火枪"] = 1,
-		["彗星风暴"] = 16,
-		["势如破竹"] = 1,
-		["激流冲击"] = 8,
-		["光明之枪"] = 2,
-		["英勇打击"] = 1,
-		["燃烧邪能"] = 4,
-		["Furious Flames"] = 4,
-		["寒冰炸弹"] = 16,
-		["冰霜之池"] = 16,
-		["爪击"] = 1,
-		["枯萎凋零"] = 32,
-		["火山"] = 1,
-		["邪能流星"] = 4,
-		["重伤"] = 1,
-		["Time Release"] = 64,
-		["爆裂弹幕"] = 64,
-		["突刺"] = 1,
-		["突袭"] = 1,
-		["风暴之鞭"] = 8,
-		["消散孢子"] = 32,
-		["强力激流"] = 16,
-		["末日井"] = 32,
-		["纠缠梦魇"] = 32,
-		["迷魅"] = 32,
-		["灵魂驱逐"] = 32,
-		["Static Field"] = 8,
-		["Mortal Strike"] = 1,
-		["空气漩涡"] = 8,
-		["灵魂链接"] = 32,
-		["煞能腐蚀"] = 32,
-		["奔踏"] = 1,
-		["邪火箭"] = 4,
-		["死灵罪罚"] = 32,
-		["震爆"] = 8,
-		["熔岩箭"] = 4,
-		["烈焰护体"] = 4,
-		["石块"] = 1,
-		["破裂"] = 1,
-		["献祭打击"] = 4,
-		["生之酷刑"] = 32,
-		["雷霆之颚"] = 8,
-		["投掷利刃"] = 1,
-		["群体虹吸"] = 64,
-		["腐蚀"] = 32,
-		["血爪"] = 1,
-		["挑衅打击"] = 1,
-		["黑暗之槌"] = 32,
-		["热浪"] = 4,
-		["Energy Drain"] = 64,
-		["好痒！"] = 1,
-		["古尔丹之眼"] = 32,
-		["轰"] = 4,
-		["地精龙枪"] = 4,
-		["灼烧光棱"] = 4,
-		["幽灵猛击"] = 32,
-		["裂伤"] = 1,
-		["压迫打击"] = 1,
-		["灾祸新星"] = 32,
-		["易爆能量"] = 64,
-		["轰炸"] = 32,
-		["闪电裂隙"] = 8,
-		["萨萨里安的印记"] = 1,
-		["离开暗夜井"] = 64,
-		["盲目憎恨"] = 32,
-		["Arcane Orb"] = 64,
-		["奥术爆裂"] = 64,
-		["阳光坍缩"] = 4,
-		["痛苦之跃"] = 1,
-		["暗影之环"] = 32,
-		["信息素"] = 8,
-		["炮击"] = 4,
-		["Cosmic Scythe"] = 64,
-		["腐蚀术"] = 32,
-		["邪煞池"] = 32,
-		["召唤闪电"] = 8,
-		["正义盾击"] = 2,
-		["邪火之雨"] = 4,
-		["落石"] = 1,
-		["冰冻灵魂"] = 16,
-		["旭日东升踢"] = 1,
-		["被收割的灵魂"] = 32,
-		["洪荒烈火"] = 4,
-		["邪能冲锋"] = 4,
-		["Burning Ground"] = 4,
-		["多头蛇"] = 1,
-		["锋锐之霜"] = 16,
-		["军刀猛刺"] = 1,
-		["恶毒鬼魅"] = 32,
-		["虚空回响"] = 32,
-		["野蛮践踏"] = 1,
-		["焚烧"] = 4,
-		["邪能小鬼爆炸"] = 4,
-		["蚀心之雾"] = 32,
-		["旋风斩"] = 1,
-		["绞喉"] = 1,
-		["污水喷涌"] = 8,
-		["压制性恐惧"] = 33,
-		["Brackwater Barrage"] = 16,
-		["闷烧"] = 4,
-		["燃烧大地"] = 4,
-		["奥术冲击"] = 64,
-		["碧火"] = 4,
-		["猩红箭雨"] = 32,
-		["眼镜蛇射击"] = 1,
-		["湮没"] = 1,
-		["Mark of Frost"] = 16,
-		["真气流转"] = 8,
-		["闪电链过载"] = 8,
-		["暴龙之咬"] = 1,
-		["秘法陷阱"] = 4,
-		["沸腾腐蚀"] = 4,
-		["扫堂腿"] = 1,
-		["禁锢暗影"] = 32,
-		["死亡冲击"] = 32,
-		["天堂炽焰"] = 4,
-		["冰霜恐惧"] = 16,
-		["寒冰的召唤"] = 16,
-		["反抗引力"] = 32,
-		["痛苦之咒"] = 16,
-		["腐蚀护甲"] = 8,
-		["盐晶利刃"] = 1,
-		["蠕虫胆汁"] = 8,
-		["血红打击"] = 8,
-		["大地之涌"] = 8,
-		["燃烧之地"] = 4,
-		["死灵印记"] = 32,
-		["邪火之球"] = 4,
-		["绝对零度"] = 16,
-		["包围之风"] = 8,
-		["飞弹冲击"] = 4,
-		["女皇赞歌"] = 1,
-		["奥术爆发"] = 64,
-		["响尾蛇"] = 8,
-		["暗影猎杀：处决"] = 1,
-		["苦痛印记"] = 32,
-		["虚空撕裂"] = 32,
-		["灼热撕咬"] = 4,
-		["灵魂腐蚀"] = 32,
-		["毒液喷吐"] = 8,
-		["射线"] = 4,
-		["毒性污秽"] = 8,
-		["黑暗坠落"] = 32,
-		["灼热凝视"] = 4,
-		["轻蔑冲锋"] = 1,
-		["触须猛击"] = 8,
-		["强力一击"] = 1,
-		["Shockwave"] = 8,
-		["不稳定的毒素"] = 8,
-		["冰龙吐息"] = 48,
-		["激光灼烧"] = 4,
-		["Frozen Tempest"] = 16,
-		["凛风冲击"] = 16,
-		["暗影横扫"] = 32,
-		["火焰炸弹易伤"] = 4,
-		["脉冲震荡"] = 8,
-		["意志摧毁"] = 32,
-		["怨嗣引爆"] = 32,
-		["亡者复生"] = 32,
-		["艾露恩之怒"] = 2,
-		["蠕行暗影"] = 32,
-		["折磨飓风"] = 32,
-		["Ragnarok"] = 4,
-		["生命虹吸"] = 32,
-		["血肉撕咬"] = 1,
-		["大地之鳞"] = 1,
-		["弧光之刃"] = 64,
-		["重型撞击"] = 16,
-		["冰雪崩裂"] = 1,
-		["魔精泥浆"] = 8,
-		["钻体寄生虫"] = 8,
-		["剑刃风暴"] = 1,
-		["拦截"] = 1,
-		["秩序之源"] = 2,
-		["呕吐黑石"] = 8,
-		["水疱炸弹"] = 8,
-		["喷泉"] = 16,
-		["Sanctify"] = 2,
-		["杀戮命令"] = 1,
-		["易爆火焰炸弹"] = 4,
-		["烈焰喷薄"] = 4,
-		["岩浆喷泉"] = 4,
-		["穿刺之矛"] = 1,
-		["暗影冲撞"] = 32,
-		["感染意志"] = 40,
-		["星辰之浴"] = 64,
-		["熔岩破裂"] = 4,
-		["暗影激流"] = 32,
-		["吞噬灵魂"] = 4,
-		["感染"] = 40,
-		["光耀碎片"] = 2,
-		["奥术之怒"] = 64,
-		["邪能水晶"] = 4,
-		["粉碎"] = 1,
-		["黑暗冲锋"] = 1,
-		["不幸"] = 64,
-		["末日之刃"] = 4,
-		["消蚀烈焰"] = 4,
-		["寄生镣铐"] = 8,
-		["酸性撕咬"] = 8,
-		["声波脉冲"] = 1,
-		["厄运箭"] = 32,
-		["毁灭之怒"] = 1,
-		["流星"] = 4,
-		["锋锐之斧"] = 1,
-		["安苏之光"] = 4,
-		["灵魂消散"] = 32,
-		["复苏之水"] = 16,
-		["释放虚空"] = 32,
-		["乱射"] = 1,
-		["副手毁伤"] = 1,
-		["咆哮烈焰"] = 4,
-		["闪电之盾"] = 8,
-		["电能震击"] = 8,
-		["裂魂"] = 1,
-		["剧毒花粉"] = 8,
-		["焦灼"] = 4,
-		["弗洛奇的行走烈焰"] = 4,
-		["血腥之爪"] = 1,
-		["夜幕"] = 32,
-		["狂暴挥砍"] = 1,
-		["旋光冲击"] = 4,
-		["释放的生命"] = 8,
-		["战神"] = 1,
-		["眩晕"] = 1,
-		["剧毒喷射"] = 8,
-		["地狱火焰"] = 4,
-		["军团诅咒"] = 32,
-		["毒瘴"] = 32,
-		["烈焰打击"] = 4,
-		["碎裂"] = 16,
-		["命运相连"] = 32,
-		["折磨锁定"] = 1,
-		["反噬"] = 2,
-		["伊利达雷之怒"] = 127,
-		["圣光审判"] = 2,
-		["内力翻涌"] = 64,
-		["风暴冲击"] = 8,
-		["射击"] = 1,
-		["灵魂盛宴"] = 32,
-		["毒水消融"] = 16,
-		["恐惧弹幕"] = 32,
-		["咆哮"] = 1,
-		["海洋污染"] = 16,
-		["月光风暴"] = 64,
-		["野蛮爪击"] = 1,
-		["血染大海"] = 1,
-		["神圣土地"] = 2,
-		["错乱伤痕"] = 1,
-		["能量迸发"] = 4,
-		["强化亵渎"] = 32,
-		["辐射"] = 64,
-		["粉碎黑暗"] = 32,
-		["月火术"] = 64,
-		["痛苦诅咒"] = 32,
-		["烈焰武器"] = 4,
-		["捕熊陷阱"] = 1,
-		["炙燃耀斑"] = 8,
-		["梦魇冲击"] = 32,
-		["酸性爆炸"] = 8,
-		["虚空裂隙"] = 64,
-		["Detonate: Searing Brand"] = 4,
-		["星光之尘"] = 64,
-		["邪能打击"] = 4,
-		["正义之锤"] = 2,
-		["旋风之盾"] = 8,
-		["爆发腐蚀"] = 8,
-		["攻城炮火"] = 4,
-		["Turbulent Waters"] = 16,
-		["树脂残渣"] = 8,
-		["漩涡污泥"] = 8,
-		["灭绝者"] = 1,
-		["倒刺责难"] = 1,
-		["邪能眩光"] = 32,
-		["裂伤横扫"] = 1,
-		["奥术横扫"] = 64,
-		["珊瑚切割"] = 1,
-		["灵界打击"] = 1,
-		["灵魂之井"] = 32,
-		["鞭笞"] = 1,
-		["飞翼打击"] = 1,
-		["龙焰酒"] = 4,
-		["镇压协议"] = 64,
-		["绝不留情"] = 64,
-		["玛诺洛斯之血"] = 4,
-		["群体驱散"] = 2,
-		["邪能烈焰风暴"] = 4,
-		["懦弱"] = 1,
-		["毒水淤泥"] = 16,
-		["恶灵爆破"] = 32,
-		["反刍"] = 8,
-		["感染之爪"] = 8,
-		["基尔加丹的炽燃决心"] = 4,
-		["背刺"] = 1,
-		["副手冰霜打击"] = 16,
-		["献祭燃烧"] = 4,
-		["被吸收的法力"] = 64,
-		["龙火"] = 4,
-		["死亡凝视"] = 8,
-		["黏糊糊的黏质"] = 8,
-		["天启之火"] = 4,
-		["游移余烬"] = 4,
-		["冰霜爆裂"] = 16,
-		["邪能粘液"] = 4,
-		["雷霆打击"] = 8,
-		["魔法共鸣"] = 64,
-		["连发袖剑"] = 1,
-		["锐利鱼腮"] = 1,
-		["吸收活力"] = 32,
-		["亵渎诅咒"] = 32,
-		["痛楚"] = 127,
-		["照明弹"] = 4,
-		["Nether Rip"] = 32,
-		["颤雷"] = 8,
-		["电弧"] = 64,
-		["浸透"] = 16,
-		["海潮之枪"] = 8,
-		["寒冰联结"] = 16,
-		["虹吸精华"] = 32,
-		["幽魂炸弹"] = 4,
-		["燃烧之枪"] = 1,
-		["冷酷严冬"] = 16,
-		["暗影伏击"] = 8,
-		["冰霜吐息"] = 16,
-		["酸液喷涌"] = 8,
-		["刺藤"] = 8,
-		["锯齿利爪"] = 1,
-		["暗影黏质"] = 32,
-		["剧毒之血"] = 8,
-		["爆炸暗影"] = 32,
-		["凶猛狂暴"] = 1,
-		["奥术毁坏"] = 64,
-		["顺劈斩"] = 1,
-		["黑暗冲击"] = 32,
-		["法力脉冲"] = 64,
-		["回旋利刃"] = 1,
-		["不稳定的火焰"] = 4,
-		["毁灭"] = 127,
-		["头戴武器"] = 1,
-	},
-	["lastUpdateWarning"] = 1494925608,
-	["report_where"] = "GUILD",
 }

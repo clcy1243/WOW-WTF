@@ -14,16 +14,16 @@ SkadaDB = {
 		["Default"] = {
 			["scroll"] = {
 				["button"] = "MiddleButton",
-				["speed"] = 2,
-				["icon"] = true,
 				["kspeed"] = 3,
+				["icon"] = true,
+				["speed"] = 2,
 			},
 			["windows"] = {
 				{
 					["y"] = 156.556701660156,
 					["x"] = 0,
 					["point"] = "LEFT",
-					["mode"] = "伤害",
+					["mode"] = "Stagger",
 					["barwidth"] = 302.650299072266,
 					["background"] = {
 						["height"] = 106.199974060059,
@@ -39,25 +39,25 @@ SkadaDB = {
 				["hide"] = true,
 			},
 			["versions"] = {
-				["1.6.4"] = true,
-				["1.6.3"] = true,
 				["1.6.7"] = true,
+				["1.6.3"] = true,
+				["1.6.4"] = true,
 			},
 			["modeclicks"] = {
 				["需要治疗"] = 1,
 				["死亡"] = 1,
-				["Stagger"] = 19,
-				["总计治疗"] = 4,
+				["Stagger"] = 20,
+				["受到伤害"] = 2,
 				["治疗"] = 6,
 				["DPS"] = 3,
 				["每秒伤害+每秒治疗"] = 5,
 				["伤害"] = 3,
 				["每秒伤害"] = 3,
-				["受到伤害"] = 2,
+				["总计治疗"] = 4,
 			},
 			["ffoptions"] = {
-				["ignoreability"] = false,
 				["ignoredefensive"] = true,
+				["ignoreability"] = false,
 			},
 		},
 	},

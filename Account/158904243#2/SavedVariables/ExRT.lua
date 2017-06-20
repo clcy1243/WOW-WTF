@@ -8,6 +8,50 @@ VExRT = {
 	["Arrow"] = {
 	},
 	["Encounter"] = {
+		["names"] = {
+			[1695] = "钢铁女武神",
+			[1837] = "橡树之心",
+			[1778] = "奇袭地狱火",
+			[1786] = "基尔罗格·死眼",
+			[1794] = "永恒者索克雷萨",
+			[1798] = "高阶地狱火议会",
+			[1865] = "时空畸体",
+			[1806] = "赫娅",
+			[1692] = "主管索戈尔",
+			[1696] = "吞噬者奥尔高格",
+			[1704] = "黑手",
+			[1960] = "猎手阿图门",
+			[1964] = "馆长",
+			[1842] = "克洛苏斯",
+			[1783] = "血魔",
+			[1787] = "考莫克",
+			[1862] = "提克迪奥斯",
+			[1866] = "古尔丹",
+			[1807] = "芬雷尔",
+			[1689] = "缚火者卡格拉兹",
+			[1693] = "汉斯加尔与弗兰佐克",
+			[1886] = "高级植物学家特尔安",
+			[1957] = "歌剧院",
+			[1961] = "莫罗斯",
+			[1713] = "克罗莫格，远山传奇",
+			[1788] = "暗影领主艾斯卡",
+			[1800] = "祖霍拉克",
+			[1867] = "崔利艾克斯",
+			[1871] = "魔剑士奥鲁瑞尔",
+			[1690] = "爆裂熔炉",
+			[1694] = "兽王达玛克",
+			[1954] = "贞节圣女",
+			[1836] = "大德鲁伊格兰达里斯",
+			[1777] = "邪能领主扎昆",
+			[1785] = "钢铁掠夺者",
+			[1809] = "奥丁",
+			[1808] = "神王斯科瓦尔德",
+			[1805] = "海姆达尔",
+			[1872] = "大魔导师艾利桑德",
+			[1849] = "斯考匹隆",
+			[1691] = "格鲁尔",
+			[1863] = "占星师艾塔乌斯",
+		},
 		["list"] = {
 			["爱是氧气"] = {
 				"^1957^23^1481565910^181^1^5^875.86^愤怒的小鼻涕", -- [1]
@@ -66,46 +110,13 @@ VExRT = {
 				"^1866^15^1488467680^564^0^20^897.92^龙轻雪", -- [54]
 				"^1866^15^1488468425^649^0^20^897.52^爱是氧气", -- [55]
 				"^1866^15^1488469238^38^0^20^897.66^醉梦若歌", -- [56]
+				"^1805^2^1496379738^40^1^5^878.61^", -- [57]
+				"^1806^2^1496379918^119^1^5^890.45^", -- [58]
+				"^1807^2^1496380182^23^0^5^888.19^", -- [59]
+				"^1807^2^1496380246^38^1^5^891.19^", -- [60]
+				"^1808^2^1496380612^43^1^5^884.19^", -- [61]
+				"^1809^2^1496380706^54^1^5^884.19^", -- [62]
 			},
-		},
-		["names"] = {
-			[1695] = "钢铁女武神",
-			[1837] = "橡树之心",
-			[1778] = "奇袭地狱火",
-			[1786] = "基尔罗格·死眼",
-			[1794] = "永恒者索克雷萨",
-			[1798] = "高阶地狱火议会",
-			[1865] = "时空畸体",
-			[1692] = "主管索戈尔",
-			[1696] = "吞噬者奥尔高格",
-			[1704] = "黑手",
-			[1960] = "猎手阿图门",
-			[1964] = "馆长",
-			[1842] = "克洛苏斯",
-			[1783] = "血魔",
-			[1787] = "考莫克",
-			[1862] = "提克迪奥斯",
-			[1866] = "古尔丹",
-			[1689] = "缚火者卡格拉兹",
-			[1693] = "汉斯加尔与弗兰佐克",
-			[1886] = "高级植物学家特尔安",
-			[1957] = "歌剧院",
-			[1961] = "莫罗斯",
-			[1713] = "克罗莫格，远山传奇",
-			[1788] = "暗影领主艾斯卡",
-			[1800] = "祖霍拉克",
-			[1867] = "崔利艾克斯",
-			[1871] = "魔剑士奥鲁瑞尔",
-			[1690] = "爆裂熔炉",
-			[1694] = "兽王达玛克",
-			[1954] = "贞节圣女",
-			[1836] = "大德鲁伊格兰达里斯",
-			[1777] = "邪能领主扎昆",
-			[1785] = "钢铁掠夺者",
-			[1872] = "大魔导师艾利桑德",
-			[1863] = "占星师艾塔乌斯",
-			[1691] = "格鲁尔",
-			[1849] = "斯考匹隆",
 		},
 	},
 	["Marks"] = {
@@ -212,70 +223,82 @@ VExRT = {
 		},
 		["gnGUIDs"] = {
 			["淡烟细雨西湖"] = 105,
-			["徐鳳年"] = 62,
-			["一枼"] = 70,
+			["忧伤的雪-梅尔加尼"] = 265,
+			["蹦跶的蜗牛"] = 577,
 			["哆啦依梦"] = 264,
-			["隔壁老铁-霍格"] = 253,
-			["奇点丶"] = 63,
-			["张小强厉害"] = 72,
+			["虎将张灵甫-黄金之路"] = 253,
+			["三枼"] = 265,
 			["桃源梦溪"] = 262,
-			["龙轻雪"] = 104,
-			["Insomnium"] = 65,
+			["雾隐森之守护-闪电之刃"] = 253,
+			["魔之阿尔塞斯-麦迪文"] = 251,
+			["克里斯蒂丶-末日行者"] = 65,
 			["一片悾白-罗宁"] = 70,
-			["情若绕指柔"] = 253,
-			["壹生为壹人-远古海滩"] = 577,
-			["明月伊人-铜龙军团"] = 104,
-			["大碗炒削"] = 577,
-			["观世音-耐普图隆"] = 270,
+			["机智的老羊"] = 577,
 			["幻彩泡泡糖"] = 66,
 			["萨克穆斯"] = 102,
-			["呕不习惯"] = 577,
-			["波多野节衣"] = 269,
-			["艾克斯战警"] = 253,
-			["Orphan"] = 264,
-			["三枼"] = 265,
 			["软白白"] = 577,
 			["濃情绕指柔"] = 577,
-			["橘子香水丶"] = 70,
+			["呕不习惯"] = 577,
 			["毅遊未盡"] = 66,
-			["嚻哥嚻"] = 66,
-			["清风洺月"] = 64,
 			["风痕之月"] = 64,
 			["灬澄橙橙"] = 255,
-			["最爱浆果"] = 253,
-			["梦红尘丨丑牛"] = 577,
 			["惹火尤物-玛诺洛斯"] = 267,
-			["愤怒的小鼻涕"] = 70,
-			["爱是氧气"] = 260,
 			["氧气是你"] = 260,
 			["Ieo"] = 65,
-			["花绮罗"] = 70,
-			["机智的老羊"] = 577,
-			["五花肉杀手"] = 71,
-			["难得糊涂闲"] = 577,
-			["蹦跶的蜗牛"] = 577,
-			["捍卫丨徐晴"] = 263,
-			["轻丶丨语"] = 257,
-			["卡奇雲德"] = 577,
-			["眉黛凶兆呀"] = 253,
 			["梦红尘丨怒风"] = 577,
-			["龙剑曦"] = 104,
-			["败絮其中"] = 264,
-			["机器猫的兜儿"] = 577,
-			["泰兰希尔"] = 66,
-			["大兄第"] = 72,
-			["战神雷涛-萨尔"] = 72,
-			["醉梦若歌"] = 251,
-			["萨摩耶德"] = 264,
-			["Auntzéi"] = 259,
+			["轻丶丨语"] = 257,
+			["墨染青衣颜-托尔巴拉德"] = 260,
 			["番茄炸蛋"] = 62,
+			["徐鳳年"] = 62,
+			["一枼"] = 70,
+			["隔壁老铁-霍格"] = 253,
+			["奇点丶"] = 63,
+			["乡下扛把子-奥特兰克"] = 261,
+			["张小强厉害"] = 72,
+			["醉梦若歌"] = 251,
+			["情若绕指柔"] = 253,
+			["明月伊人-铜龙军团"] = 104,
+			["大碗炒削"] = 577,
+			["嚻哥嚻"] = 66,
+			["泰兰希尔"] = 66,
+			["艾克斯战警"] = 253,
+			["波多野节衣"] = 269,
+			["Orphan"] = 264,
+			["阿诈里-苏拉玛"] = 259,
+			["Insomnium"] = 65,
+			["清风洺月"] = 64,
+			["最爱浆果"] = 253,
+			["愤怒的小鼻涕"] = 70,
+			["爱是氧气"] = 260,
+			["壹生为壹人-远古海滩"] = 577,
+			["梦红尘丨丑牛"] = 577,
+			["英俊潇洒的我"] = 104,
+			["萨摩耶德"] = 264,
+			["半丗流离-迅捷微风"] = 63,
+			["有机会再追你-安苏"] = 577,
+			["龙轻雪"] = 104,
+			["Auntzéi"] = 259,
+			["龙剑曦"] = 104,
+			["橘子香水丶"] = 70,
+			["难得糊涂闲"] = 577,
+			["观世音-耐普图隆"] = 270,
+			["五花肉杀手"] = 71,
+			["机器猫的兜儿"] = 577,
+			["卡奇雲德"] = 577,
+			["大兄第"] = 72,
+			["眉黛凶兆呀"] = 253,
+			["战神雷涛-萨尔"] = 72,
+			["花绮罗"] = 70,
+			["斯玛瑞-埃德萨拉"] = 104,
+			["败絮其中"] = 264,
+			["捍卫丨徐晴"] = 263,
 		},
 		["NoRaid"] = true,
 		["CDECol"] = {
 		},
 		["default_userCD"] = {
 		},
-		["userDB"] = {
+		["Save"] = {
 		},
 		["colSet"] = {
 			{
@@ -285,13 +308,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [1]
 			{
 				["enabled"] = true,
@@ -300,13 +323,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [2]
 			{
 				["enabled"] = true,
@@ -315,13 +338,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [3]
 			{
 				["frameGeneral"] = true,
@@ -329,13 +352,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [4]
 			{
 				["frameGeneral"] = true,
@@ -343,13 +366,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [5]
 			{
 				["frameGeneral"] = true,
@@ -357,13 +380,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [6]
 			{
 				["frameGeneral"] = true,
@@ -371,13 +394,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [7]
 			{
 				["frameGeneral"] = true,
@@ -385,13 +408,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [8]
 			{
 				["frameGeneral"] = true,
@@ -399,13 +422,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [9]
 			{
 				["frameGeneral"] = true,
@@ -413,13 +436,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [10]
 			{
 				["frameGeneral"] = true,
@@ -427,20 +450,20 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [11]
 		},
 		["Priority"] = {
 		},
 		["CDE"] = {
 		},
-		["Save"] = {
+		["userDB"] = {
 		},
 	},
 	["Attendance"] = {
@@ -458,13 +481,13 @@ VExRT = {
 				"K淡烟细雨西湖", -- [9]
 				"L大碗炒削", -- [10]
 				"G捍卫丨徐晴", -- [11]
-				["eI"] = 1696,
 				["c"] = "爱是氧气-主宰之剑",
-				["t"] = 1482068117,
-				["eN"] = "吞噬者奥尔高格",
-				["d"] = 16,
-				["g"] = 20,
 				["k"] = true,
+				["d"] = 16,
+				["eN"] = "吞噬者奥尔高格",
+				["t"] = 1482068117,
+				["g"] = 20,
+				["eI"] = 1696,
 			}, -- [1]
 			{
 				"A张小强厉害", -- [1]
@@ -492,13 +515,13 @@ VExRT = {
 				"G桃源梦溪", -- [23]
 				"H风痕之月", -- [24]
 				"G败絮其中", -- [25]
-				["c"] = "爱是氧气-主宰之剑",
-				["k"] = true,
-				["d"] = 14,
 				["eN"] = "斯考匹隆",
+				["k"] = true,
 				["t"] = 1487938125,
-				["g"] = 25,
 				["eI"] = 1849,
+				["d"] = 14,
+				["g"] = 25,
+				["c"] = "爱是氧气-主宰之剑",
 			}, -- [2]
 		},
 		["alts"] = {
@@ -508,9 +531,100 @@ VExRT = {
 		["ColorizeLowIlvl685"] = false,
 		["ColorizeNoEnch"] = true,
 		["ColorizeNoGems"] = true,
-		["ColorizeLowIlvl"] = true,
 		["ColorizeNoTopEnchGems"] = false,
+		["ColorizeLowIlvl"] = true,
 		["ColorizeNoValorUpgrade"] = false,
+	},
+	["WhoPulled"] = {
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 3,
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
+	},
+	["Addon"] = {
+		["Version"] = 3855,
+		["PreVersion"] = 3855,
+		["IconMiniMapTop"] = -21.0285237049968,
+		["Timer"] = 0.1,
+		["IconMiniMapLeft"] = 77.1867941476286,
+	},
+	["InspectArtifact"] = {
+		["players"] = {
+			["爱是氧气-主宰之剑"] = {
+				"44:34:1652-1-1:1052-1-1:1583-1-1:1582-1-1:1581-4-4:1348-1-1:1067-4-4:1066-3-4:1065-3-4:1064-4-5:1063-3-4:1062-3-4:1061-6-6:1060-3-4:1059-3-4:1058-1-1:1057-1-1:1056-1-1:1055-1-1:1054-1-1:1053-1-1:1584-0-50:1385-1-1:128872", -- [1]
+				1496380710, -- [2]
+			},
+			["龙轻雪-主宰之剑"] = {
+				"39:25:960-1-1:979-1-1:962-1-1:961-1-1:1334-1-1:959-1-1:958-1-1:957-1-1:956-4-4:955-3-3:954-3-3:953-3-3:952-4-4:951-3-3:950-4-4:949-3-3:948-3-3:1366-5-20:128821", -- [1]
+				1488469241, -- [2]
+			},
+		},
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["autoSegments"] = {
+		},
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
+		},
+	},
+	["Profiles"] = {
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["Bossmods"] = {
+		["KormrokSetups"] = {
+		},
+		["Mannoroth"] = {
+		},
+		["Ilgynoth"] = {
+		},
+		["Kormrok"] = {
+		},
+		["Kromog"] = {
+		},
+	},
+	["RaidCheck"] = {
+		["FlaskExp"] = 1,
+		["ReadyCheckFrameTimerFade"] = 4,
+	},
+	["Logging"] = {
+	},
+	["MarksBar"] = {
+		["pulltimer"] = 10,
+		["Strata"] = "HIGH",
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+		},
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["FontSize"] = 12,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["AutoLoad"] = {
+		},
+		["Strata"] = "HIGH",
+		["Height"] = 99.9999542236328,
+		["Width"] = 200.000045776367,
 	},
 	["Timers"] = {
 		["specTimes"] = {
@@ -544,105 +658,14 @@ VExRT = {
 			[72] = 10,
 			[104] = 10,
 			[73] = 10,
-			[581] = 10,
-			[105] = 10,
-			[577] = 10,
-			[256] = 10,
-			[254] = 10,
 			[252] = 10,
+			[105] = 10,
+			[254] = 10,
+			[256] = 10,
+			[577] = 10,
+			[581] = 10,
 		},
 		["Strata"] = "HIGH",
 		["timeToKillAnalyze"] = 15,
-	},
-	["Note"] = {
-		["BlackNames"] = {
-		},
-		["FontSize"] = 12,
-		["Black"] = {
-			"", -- [1]
-			"", -- [2]
-			"", -- [3]
-		},
-		["AutoLoad"] = {
-		},
-		["Strata"] = "HIGH",
-		["Height"] = 99.9999542236328,
-		["Width"] = 200.000045776367,
-	},
-	["Addon"] = {
-		["Version"] = 3855,
-		["PreVersion"] = 3842,
-		["IconMiniMapLeft"] = 77.1867941476286,
-		["Timer"] = 0.1,
-		["IconMiniMapTop"] = -21.0285237049968,
-	},
-	["MarksBar"] = {
-		["pulltimer"] = 10,
-		["Strata"] = "HIGH",
-		["Show"] = {
-			true, -- [1]
-			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-		},
-	},
-	["Profiles"] = {
-	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 2,
-		["autoSegments"] = {
-		},
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["trackingDamageSpells"] = {
-		},
-	},
-	["Profile"] = "default",
-	["LootLink"] = {
-	},
-	["RaidCheck"] = {
-		["FlaskExp"] = 1,
-		["ReadyCheckFrameTimerFade"] = 4,
-	},
-	["Bossmods"] = {
-		["KormrokSetups"] = {
-		},
-		["Mannoroth"] = {
-		},
-		["Ilgynoth"] = {
-		},
-		["Kormrok"] = {
-		},
-		["Kromog"] = {
-		},
-	},
-	["Logging"] = {
-	},
-	["InspectArtifact"] = {
-		["players"] = {
-			["爱是氧气-主宰之剑"] = {
-				"42:25:1052-1-1:1055-1-1:1054-1-1:1053-1-1:1348-1-1:1067-3-3:1066-3-3:1065-3-3:1064-4-4:1063-3-3:1062-3-3:1061-5-5:1060-3-3:1059-3-3:1058-1-1:1057-1-1:1056-1-1:1385-8-20:128872", -- [1]
-				1488469241, -- [2]
-			},
-			["龙轻雪-主宰之剑"] = {
-				"39:25:960-1-1:979-1-1:962-1-1:961-1-1:1334-1-1:959-1-1:958-1-1:957-1-1:956-4-4:955-3-3:954-3-3:953-3-3:952-4-4:951-3-3:950-4-4:949-3-3:948-3-3:1366-5-20:128821", -- [1]
-				1488469241, -- [2]
-			},
-		},
-	},
-	["InviteTool"] = {
-		["Words"] = "инв inv byd штм 123",
-		["InvByChat"] = true,
-		["RaidDiff"] = 16,
-		["PromoteRank"] = 3,
-		["LootThreshold"] = 2,
-		["MasterLooters"] = "",
-		["LootMethod"] = "group",
-		["PromoteNames"] = "",
-		["OnlyGuild"] = true,
-		["Rank"] = 1,
-	},
-	["WhoPulled"] = {
 	},
 }

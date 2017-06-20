@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0205,
+	["LastVersion"] = 2.0208,
 	["LastPlayerFullName"] = "龙剑曦-主宰之剑",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

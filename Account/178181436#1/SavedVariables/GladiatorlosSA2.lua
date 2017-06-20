@@ -8,11 +8,11 @@ GladiatorlosSADB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["path"] = "GladiatorlosSA_zhCN\\Voice_zhCN",
+			["warStomp"] = true,
 			["quakingPalm"] = true,
 			["path_menu"] = "GladiatorlosSA_zhCN\\Voice_zhCN",
 			["field"] = false,
-			["warStomp"] = true,
+			["path"] = "GladiatorlosSA_zhCN\\Voice_zhCN",
 			["arcaneTorrent"] = true,
 		},
 	},

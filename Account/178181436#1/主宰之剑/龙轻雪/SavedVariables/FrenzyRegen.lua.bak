@@ -13,8 +13,8 @@ settingsFR = {
 	["artifactBonus"] = 0.2,
 	["ignoreMouseFlag"] = false,
 	["announceChannel"] = "SAY",
-	["announceFlag"] = false,
+	["hideOutOfBearFlag"] = false,
 	["YPos"] = 325.999877929688,
 	["XPos"] = 692.000122070313,
-	["hideOutOfBearFlag"] = false,
+	["announceFlag"] = false,
 }

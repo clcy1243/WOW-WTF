@@ -3,10 +3,10 @@ VER 3 0100000000000013 "SAM_Feral-ST" "INV_MISC_QUESTIONMARK"
 /click [button:2] SAM_Feral-ST RightButton; [button:3] SAM_Feral-ST MiddleButton; [button:4] SAM_Feral-ST Button4; [button:5] SAM_Feral-ST Button5; SAM_Feral-ST
 END
 VER 3 0100000000000006 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1MR[x]1IR1ET1LR2HR2DT2DT2LR2EM3WT3HR3RM3PM3SR4LR4ET4NM4NM4LR5SR5HR5DH5HR5HR6PM6WM6DT6MR6NM7MR7RM7NM7MR7RM8SR8PM8HR8MR8PT1DR[x][x][x][x]0__0__[x][x][x][x][x]0__[x][x][x]0__[x][x][x]0__[x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__[x][x][x]
 END
 VER 3 0100000000000007 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙轻雪[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NArc[x]瓦伦缇血色灵漫天花喵小莫咖啡蛋沁岚无忧小刘子丨老舅晨歌夜黑夜中Jwa戈尔甘猥琐叔阿米鲁雪之心就是一功成拂酸奶过Xua一克冰Hss波波猪低调归幕夜啸夜夜闹清秋小殇年止幻影之蠢驴迷满身都我爱吃干瞪眼火好灭世之右手搂吉卜赛星儿龙轻雪[x][x][x][x]扎克里豹[x][x][x][x][x]宝蓝[x][x][x]瓦克里[x][x][x]金德[x]阿克图[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]安卡[x][x][x]
 END
 VER 3 0100000000000005 "回春" "INV_MISC_QUESTIONMARK"
 #showtooltip 

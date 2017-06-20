@@ -4,6 +4,7 @@ PawnOptions = {
 	["LastPlayerFullName"] = "爱是氧气-主宰之剑",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128872] = {
 			["Relics"] = {
@@ -23,7 +24,6 @@ PawnOptions = {
 			["Name"] = "恐惧之刃",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "ROGUE",

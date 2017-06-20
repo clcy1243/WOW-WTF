@@ -9,6 +9,9 @@ Omen3DB = {
 			["Shown"] = false,
 			["PositionH"] = 82.0000152587891,
 			["PositionY"] = 782.999816894531,
+			["MinimapIcon"] = {
+				["minimapPos"] = 320.937481587731,
+			},
 			["PositionX"] = 31.5001831054688,
 		},
 	},

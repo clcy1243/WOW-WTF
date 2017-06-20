@@ -1,7 +1,5 @@
 
 AucAdvancedConfig = {
-	["users.主宰之剑.龙剑曦"] = "Default",
-	["version"] = 1,
 	["profile.Default"] = {
 		["tooltip"] = {
 			["marketprice"] = {
@@ -10,27 +8,17 @@ AucAdvancedConfig = {
 		},
 		["configator.left"] = 560.000061035156,
 		["scandata.summaryonmicro"] = true,
-		["util"] = {
-			["appraiser"] = {
-				["columnsortcurSort"] = 6,
-				["columnsortcurDir"] = 1,
-				["enable"] = true,
-				["classic"] = false,
-				["item.124102.ignore"] = true,
-				["ownauctions"] = true,
-			},
-			["compactui"] = {
-				["priceperitem"] = true,
-			},
-			["automagic"] = {
-				["ammailguix"] = 160,
-				["SavedMailButtons"] = {
+		["stat"] = {
+			["sales"] = {
+				["upgraded32"] = true,
+				["ignoredsigs"] = {
 				},
-				["ammailguiy"] = 148,
-				["uierrormsg"] = 1,
 			},
-			["ahwindowcontrol"] = {
-				["ahframeanchors"] = "TOPLEFT:TOPLEFT:16.7:-115.3",
+			["histogram"] = {
+				["median"] = true,
+			},
+			["ilevel"] = {
+				["quantmul"] = false,
 			},
 		},
 		["core"] = {
@@ -43,25 +31,35 @@ AucAdvancedConfig = {
 		},
 		["scancommit.targetFPS"] = 5,
 		["ModTTShow"] = "alt",
-		["stat"] = {
-			["sales"] = {
-				["ignoredsigs"] = {
+		["util"] = {
+			["appraiser"] = {
+				["columnsortcurSort"] = 6,
+				["enable"] = true,
+				["columnsortcurDir"] = 1,
+				["item.124102.ignore"] = true,
+				["classic"] = false,
+				["ownauctions"] = true,
+			},
+			["automagic"] = {
+				["ammailguix"] = 160,
+				["uierrormsg"] = 1,
+				["ammailguiy"] = 148,
+				["SavedMailButtons"] = {
 				},
-				["upgraded32"] = true,
 			},
-			["histogram"] = {
-				["median"] = true,
+			["compactui"] = {
+				["priceperitem"] = true,
 			},
-			["ilevel"] = {
-				["quantmul"] = false,
+			["ahwindowcontrol"] = {
+				["ahframeanchors"] = "TOPLEFT:TOPLEFT:16.7:-115.3",
 			},
 		},
 		["configator.top"] = 764.999938964844,
 	},
+	["users.主宰之剑.龙剑曦"] = "Default",
+	["version"] = 1,
 }
 AucAdvancedData = {
-	["Stats"] = {
-	},
 	["UtilSearchUiData"] = {
 		["Current"] = {
 			["columnsortcurSort"] = 10,
@@ -179,14 +177,14 @@ AucAdvancedData = {
 				["general.name"] = "耳语契约合剂",
 				["snatch.columnsortcurSort"] = 1,
 			},
-			["3          　　      　   　  小红瓶"] = {
+			["1                          伊瑟拉莱之种"] = {
 				["columnsortcurSort"] = 11,
 				["general.name.exact"] = true,
 				["snatch.itemsList"] = {
 				},
 				["columnsortcurDir"] = 1,
 				["snatch.columnsortcurDir"] = 1,
-				["general.name"] = "古代治疗药水",
+				["general.name"] = "星光玫瑰",
 				["snatch.columnsortcurSort"] = 1,
 			},
 			["3          　　      　   　  红蓝瓶"] = {
@@ -199,14 +197,14 @@ AucAdvancedData = {
 				["general.name"] = "古代活力药水",
 				["snatch.columnsortcurSort"] = 1,
 			},
-			["0                                 星光玫瑰"] = {
+			["2                                  敏捷合剂"] = {
 				["columnsortcurSort"] = 11,
 				["general.name.exact"] = true,
 				["snatch.itemsList"] = {
 				},
 				["columnsortcurDir"] = 1,
 				["snatch.columnsortcurDir"] = 1,
-				["general.name"] = "星光玫瑰",
+				["general.name"] = "第七恶魔合剂",
 				["snatch.columnsortcurSort"] = 1,
 			},
 			["1                                     入梦叶"] = {
@@ -229,17 +227,7 @@ AucAdvancedData = {
 				["general.name"] = "魔力洪流药水",
 				["snatch.columnsortcurSort"] = 1,
 			},
-			["2                                  敏捷合剂"] = {
-				["columnsortcurSort"] = 11,
-				["general.name.exact"] = true,
-				["snatch.itemsList"] = {
-				},
-				["columnsortcurDir"] = 1,
-				["snatch.columnsortcurDir"] = 1,
-				["general.name"] = "第七恶魔合剂",
-				["snatch.columnsortcurSort"] = 1,
-			},
-			["1                          伊瑟拉莱之种"] = {
+			["0                                 星光玫瑰"] = {
 				["columnsortcurSort"] = 11,
 				["general.name.exact"] = true,
 				["snatch.itemsList"] = {
@@ -249,7 +237,19 @@ AucAdvancedData = {
 				["general.name"] = "星光玫瑰",
 				["snatch.columnsortcurSort"] = 1,
 			},
+			["3          　　      　   　  小红瓶"] = {
+				["columnsortcurSort"] = 11,
+				["general.name.exact"] = true,
+				["snatch.itemsList"] = {
+				},
+				["columnsortcurDir"] = 1,
+				["snatch.columnsortcurDir"] = 1,
+				["general.name"] = "古代治疗药水",
+				["snatch.columnsortcurSort"] = 1,
+			},
 		},
+	},
+	["Stats"] = {
 	},
 }
 AucAdvancedServers = {
@@ -262,48 +262,48 @@ AucAdvancedServers = {
 			"烈焰峰", -- [1]
 			"瓦拉斯塔兹", -- [2]
 		},
-		["#摩摩尔"] = {
-			"摩摩尔", -- [1]
-			"暴风祭坛", -- [2]
-			"熵魔", -- [3]
+		["#主宰之剑"] = {
+			"主宰之剑", -- [1]
+			"霍格", -- [2]
 		},
 		["#巨龙之吼"] = {
 			"巨龙之吼", -- [1]
 			"黑石尖塔", -- [2]
 		},
-		["#太阳之井"] = {
-			"塞拉赞恩", -- [1]
-			"太阳之井", -- [2]
+		["#摩摩尔"] = {
+			"摩摩尔", -- [1]
+			"暴风祭坛", -- [2]
+			"熵魔", -- [3]
 		},
 		["#破碎岭"] = {
 			"破碎岭", -- [1]
 			"祖尔金", -- [2]
 		},
-		["#主宰之剑"] = {
-			"主宰之剑", -- [1]
-			"霍格", -- [2]
+		["#太阳之井"] = {
+			"塞拉赞恩", -- [1]
+			"太阳之井", -- [2]
 		},
 	},
 	["Version"] = 1,
 	["KnownRealms"] = {
+		["瓦拉斯塔兹"] = "#瓦拉斯塔兹",
 		["主宰之剑"] = "#主宰之剑",
-		["太阳之井"] = "#太阳之井",
 		["天空之墙"] = "天空之墙",
 		["破碎岭"] = "#破碎岭",
 		["摩摩尔"] = "#摩摩尔",
 		["巨龙之吼"] = "#巨龙之吼",
 		["卡拉赞"] = "#卡拉赞",
-		["瓦拉斯塔兹"] = "#瓦拉斯塔兹",
-	},
-	["KnownServerKeys"] = {
-		["#卡拉赞"] = 1481117777,
-		["#主宰之剑"] = 1495849689,
-		["天空之墙"] = 1477234038,
-		["#摩摩尔"] = 1483059274,
-		["#巨龙之吼"] = 1495849973,
-		["#太阳之井"] = 1482987909,
-		["#破碎岭"] = 1481117568,
-		["#瓦拉斯塔兹"] = 1483060659,
+		["太阳之井"] = "#太阳之井",
 	},
 	["Timestamp"] = 1475328500,
+	["KnownServerKeys"] = {
+		["#卡拉赞"] = 1481117777,
+		["#瓦拉斯塔兹"] = 1483060659,
+		["天空之墙"] = 1477234038,
+		["#太阳之井"] = 1482987909,
+		["#巨龙之吼"] = 1497885847,
+		["#主宰之剑"] = 1497886075,
+		["#破碎岭"] = 1481117568,
+		["#摩摩尔"] = 1483059274,
+	},
 }

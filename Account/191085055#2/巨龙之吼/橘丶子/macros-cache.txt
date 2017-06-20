@@ -1,0 +1,32 @@
+VER 3 0100000000000002 " " "136139"
+#showtooltip
+/cast [target=focus] 痛楚
+END
+VER 3 0100000000000003 " " "136118"
+#showtooltip
+/cast [@mouseover,exists][] 腐蚀术
+END
+VER 3 0100000000000007 " " "132328"
+/focus
+END
+VER 3 0100000000000008 " " "460695"
+#showtooltip
+/cast [@mouseover,exists][] 浩劫
+END
+VER 3 0100000000000004 " " "136188"
+#showtooltip
+/cast [target=focus] 生命虹吸
+END
+VER 3 0100000000000005 " " "136188"
+#showtooltip
+/cast [@mouseover,exists][] 生命虹吸
+END
+VER 3 0100000000000006 " " "136139"
+#showtooltip
+/cast [@mouseover,exists][] 痛楚
+END
+VER 3 0100000000000001 " " "135727"
+/cast 狂暴
+/use 11
+/use 12
+END

@@ -1,11 +1,11 @@
 
 AdiBagsDB = {
 	["namespaces"] = {
-		["Hearthstones"] = {
-		},
-		["MoneyFrame"] = {
+		["军团再临"] = {
 		},
 		["ItemLevel"] = {
+		},
+		["MoneyFrame"] = {
 		},
 		["FilterOverride"] = {
 			["profiles"] = {
@@ -16,9 +16,19 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["DataSource"] = {
+		["Bound"] = {
 		},
 		["NewItem"] = {
+		},
+		["Garrison"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Legion"] = {
+		},
+		["Equipment"] = {
+		},
+		["ItemSets"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -32,32 +42,22 @@ AdiBagsDB = {
 						["长者的好运符"] = false,
 						["肮脏的铁币"] = false,
 						["埃匹希斯水晶"] = false,
-						["虚空碎片"] = false,
-						["神器碎片"] = false,
-						["勇气点数"] = false,
-						["原油"] = false,
-						["上古神器"] = false,
-						["徘徊之魂碎片"] = false,
 						["破碎命运印记"] = false,
+						["徘徊之魂碎片"] = false,
+						["勇气点数"] = false,
+						["上古神器"] = false,
+						["原油"] = false,
+						["神器碎片"] = false,
+						["虚空碎片"] = false,
 					},
 				},
 			},
 		},
-		["AdiBags_TooltipInfo"] = {
-		},
-		["Legion"] = {
-		},
-		["ItemSets"] = {
-		},
-		["Equipment"] = {
-		},
-		["Garrison"] = {
-		},
-		["Bound"] = {
+		["DataSource"] = {
 		},
 		["Junk"] = {
 		},
-		["军团再临"] = {
+		["Hearthstones"] = {
 		},
 	},
 	["profileKeys"] = {

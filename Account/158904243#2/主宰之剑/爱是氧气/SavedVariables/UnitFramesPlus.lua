@@ -12,9 +12,8 @@ UnitFramesPlusVar = {
 		["y"] = 0,
 		["moved"] = 0,
 	},
-	["player"] = {
+	["party"] = {
 		["moving"] = 0,
-		["moved"] = 1,
 	},
 	["focus"] = {
 		["moving"] = 0,
@@ -27,8 +26,9 @@ UnitFramesPlusVar = {
 		["enable"] = 0,
 		["spellname"] = "",
 	},
-	["party"] = {
+	["player"] = {
 		["moving"] = 0,
+		["moved"] = 1,
 	},
 	["reset"] = 0,
 }
