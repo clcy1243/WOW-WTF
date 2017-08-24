@@ -1,0 +1,37 @@
+
+iKeystonesDB = {
+	["Player-861-04BF171E"] = {
+		["name"] = "橘丶子",
+		["maxCompleted"] = 16,
+		["class"] = "WARLOCK",
+		["key"] = {
+			["map"] = 234,
+			["affix4"] = 6,
+			["level"] = 17,
+			["affix10"] = 9,
+			["affix7"] = 4,
+		},
+		["server"] = "巨龙之吼",
+	},
+	["Player-861-04CAB5CD"] = {
+		["name"] = "霸拿拿",
+		["maxCompleted"] = 0,
+		["class"] = "PRIEST",
+		["key"] = {
+		},
+		["server"] = "巨龙之吼",
+	},
+	["Player-861-04C028CE"] = {
+		["name"] = "芒丶果",
+		["maxCompleted"] = 0,
+		["class"] = "WARRIOR",
+		["key"] = {
+			["map"] = 209,
+			["affix4"] = 6,
+			["level"] = 15,
+			["affix10"] = 9,
+			["affix7"] = 4,
+		},
+		["server"] = "巨龙之吼",
+	},
+}

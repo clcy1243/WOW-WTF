@@ -21,3 +21,4 @@ LookingForGroup: disabled
 GS-SequenceTranslator: enabled
 GS-Core: enabled
 MeetingStone: enabled
+Hekili: disabled

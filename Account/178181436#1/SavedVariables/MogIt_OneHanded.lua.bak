@@ -115,6 +115,10 @@ MogIt_OneHandedDB = {
 				},
 				["faction"] = 3,
 			},
+			[72386] = {
+				["classes"] = 3072,
+				["faction"] = 1,
+			},
 		},
 		[23500] = {
 			[62355] = {
@@ -4215,6 +4219,13 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
+		[6186] = {
+			[39134] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
 		[15606] = {
 			[35769] = {
 				["classes"] = 1536,
@@ -4272,13 +4283,6 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[6186] = {
-			[39134] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-		},
 		[10931] = {
 			[20492] = {
 				["classes"] = 1536,
@@ -4320,6 +4324,18 @@ MogIt_OneHandedDB = {
 						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
+				["faction"] = 3,
+			},
+		},
+		[14583] = {
+			[32079] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[32084] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -4376,13 +4392,8 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[14583] = {
-			[32079] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[32084] = {
+		[318] = {
+			[182] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
@@ -4412,13 +4423,6 @@ MogIt_OneHandedDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["faction"] = 3,
-			},
-		},
-		[318] = {
-			[182] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -4487,6 +4491,26 @@ MogIt_OneHandedDB = {
 			[65962] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[12515] = {
+			[24840] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "巫妖王",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
@@ -4585,23 +4609,15 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[12515] = {
-			[24840] = {
+		[2498] = {
+			[6006] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "巫妖王",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10311] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -4631,15 +4647,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[2498] = {
-			[6006] = {
+		[22166] = {
+			[67330] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[10311] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -4675,13 +4686,6 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[22166] = {
-			[67330] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-		},
 		[19689] = {
 			[53131] = {
 				["classes"] = 512,
@@ -4697,6 +4701,26 @@ MogIt_OneHandedDB = {
 				["classes"] = 512,
 				["sourceType"] = 3,
 				["faction"] = 2,
+			},
+		},
+		[12503] = {
+			[24815] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "普崔塞德教授",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
 			},
 		},
 		[22254] = {
@@ -4765,26 +4789,6 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[12503] = {
-			[24815] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "普崔塞德教授",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-		},
 		[21294] = {
 			[61952] = {
 				["classes"] = 1536,
@@ -4826,6 +4830,27 @@ MogIt_OneHandedDB = {
 							"25人", -- [1]
 						},
 						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[18844] = {
+			[44292] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "皇帝的意志",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
 				["faction"] = 3,
@@ -5074,13 +5099,6 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[22518] = {
-			[81583] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-		},
 		[17756] = {
 			[42909] = {
 				["classes"] = 1536,
@@ -5115,6 +5133,26 @@ MogIt_OneHandedDB = {
 			[41736] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[20303] = {
+			[50315] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "雷神",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
@@ -5280,28 +5318,15 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[20303] = {
-			[50315] = {
+		[9908] = {
+			[18039] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "雷神",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
-		[9908] = {
-			[18039] = {
+		[20410] = {
+			[50359] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -5319,19 +5344,12 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-			},
-		},
-		[20410] = {
-			[50359] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
 			},
 		},
 		[17510] = {
@@ -5386,6 +5404,25 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[21261] = {
+			[61656] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "库卡隆黑暗萨满",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
 		[13335] = {
 			[26988] = {
 				["classes"] = 1536,
@@ -5405,22 +5442,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[21261] = {
-			[61656] = {
+		[156] = {
+			[31536] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "库卡隆黑暗萨满",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "决战奥格瑞玛",
-					}, -- [1]
-				},
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -5444,8 +5469,8 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[156] = {
-			[31536] = {
+		[12888] = {
+			[25938] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
@@ -5478,10 +5503,22 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[12888] = {
-			[25938] = {
+		[8858] = {
+			[15789] = {
 				["classes"] = 1536,
-				["sourceType"] = 2,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "艾瑞达双子",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "太阳之井高地",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
@@ -5526,22 +5563,15 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[8858] = {
-			[15789] = {
+		[10898] = {
+			[20447] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "艾瑞达双子",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "太阳之井高地",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20451] = {
+				["classes"] = 1536,
+				["sourceType"] = 3,
 				["faction"] = 3,
 			},
 		},
@@ -5597,23 +5627,33 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[10898] = {
-			[20447] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-			[20451] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-		},
 		[7499] = {
 			[13017] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
+			},
+		},
+		[25321] = {
+			[70395] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[70542] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71831] = {
+				["classes"] = 512,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[71684] = {
+				["classes"] = 512,
+				["sourceType"] = 3,
+				["faction"] = 2,
 			},
 		},
 		[22167] = {
@@ -5674,39 +5714,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[25321] = {
-			[70395] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[70542] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[71831] = {
-				["classes"] = 512,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[71684] = {
-				["classes"] = 512,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-		},
 		[5967] = {
 			[10313] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[14449] = {
-			[31270] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -5717,8 +5728,22 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[14449] = {
+			[31270] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
 		[21345] = {
 			[67065] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[18650] = {
+			[49673] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -5768,10 +5793,20 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[18650] = {
-			[49673] = {
+		[875] = {
+			[1723] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4536] = {
+				["classes"] = 1536,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[28323] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -5794,20 +5829,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[875] = {
-			[1723] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[4536] = {
+		[15575] = {
+			[35719] = {
 				["classes"] = 1536,
 				["sourceType"] = 6,
-				["faction"] = 3,
-			},
-			[28323] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -5815,13 +5840,6 @@ MogIt_OneHandedDB = {
 			[26229] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-		},
-		[15575] = {
-			[35719] = {
-				["classes"] = 1536,
-				["sourceType"] = 6,
 				["faction"] = 3,
 			},
 		},
@@ -5918,6 +5936,18 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[11880] = {
+			[46958] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+			[46965] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
 		[7001] = {
 			[12121] = {
 				["classes"] = 1536,
@@ -5998,37 +6028,6 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[11880] = {
-			[46958] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-			[46965] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
-		[7013] = {
-			[12140] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "沃匹尔大师",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗影迷宫",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-		},
 		[18870] = {
 			[44359] = {
 				["classes"] = 1536,
@@ -6050,6 +6049,25 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[7013] = {
+			[12140] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "沃匹尔大师",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗影迷宫",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
 		[474] = {
 			[344] = {
 				["classes"] = 1536,
@@ -6063,6 +6081,26 @@ MogIt_OneHandedDB = {
 			[64965] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[11868] = {
+			[22811] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "纯洁者耶德瑞克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "冠军的试炼",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
@@ -6226,21 +6264,22 @@ MogIt_OneHandedDB = {
 				["faction"] = 2,
 			},
 		},
-		[11868] = {
-			[22811] = {
+		[18526] = {
+			[84484] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "纯洁者耶德瑞克",
+						["encounter"] = "疑之煞",
 						["tiers"] = {
-							"巫妖王之怒", -- [1]
+							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
+							"时空漫游", -- [2]
 						},
-						["instance"] = "冠军的试炼",
+						["instance"] = "青龙寺",
 					}, -- [1]
 				},
 				["faction"] = 3,
@@ -6274,27 +6313,6 @@ MogIt_OneHandedDB = {
 			[67861] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[18526] = {
-			[84484] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "疑之煞",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-							"时空漫游", -- [2]
-						},
-						["instance"] = "青龙寺",
-					}, -- [1]
-				},
 				["faction"] = 3,
 			},
 		},
@@ -6343,6 +6361,31 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[33978] = {
+			[89458] = {
+				["classes"] = 1024,
+				["faction"] = 1,
+			},
+		},
+		[5419] = {
+			[7670] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奈法利安",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑翼之巢",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
 		[7974] = {
 			[13927] = {
 				["classes"] = 1536,
@@ -6350,46 +6393,23 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[10311] = {
-			[19291] = {
+		[12347] = {
+			[24600] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "帕奇维克",
+						["encounter"] = "普崔塞德教授",
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
+						["instance"] = "冰冠堡垒",
 					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格拉斯",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [2]
 				},
-				["faction"] = 3,
-			},
-		},
-		[17824] = {
-			[41425] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[42889] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -6414,23 +6434,15 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[12347] = {
-			[24600] = {
+		[17824] = {
+			[41425] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "普崔塞德教授",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[42889] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -6501,24 +6513,15 @@ MogIt_OneHandedDB = {
 				["faction"] = 2,
 			},
 		},
-		[19086] = {
-			[44917] = {
+		[6576] = {
+			[10119] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "皇帝的意志",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "魔古山宝库",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10308] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -6549,23 +6552,35 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[9563] = {
-			[17431] = {
+		[2782] = {
+			[4545] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 3,
 			},
-			[17224] = {
+			[3269] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "加加恩·火锤",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥达曼",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
-			[18259] = {
+			[10414] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
 			},
-			[19954] = {
+			[13513] = {
 				["classes"] = 1536,
 				["sourceType"] = 6,
 				["faction"] = 3,
@@ -6611,54 +6626,64 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[8117] = {
-			[14164] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[6576] = {
-			[10119] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[10308] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[2782] = {
-			[4545] = {
-				["classes"] = 1536,
-				["sourceType"] = 6,
-				["faction"] = 3,
-			},
-			[3269] = {
+		[11623] = {
+			[22190] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "加加恩·火锤",
+						["instanceType"] = 2,
+						["encounter"] = "维扎克斯将军",
 						["tiers"] = {
-							"经典旧世", -- [1]
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
+							"10人", -- [1]
 						},
-						["instance"] = "奥达曼",
+						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 				["faction"] = 3,
 			},
-			[10414] = {
+		},
+		[19086] = {
+			[44917] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "皇帝的意志",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[9563] = {
+			[17431] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17224] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[18259] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
 			},
-			[13513] = {
+			[19954] = {
 				["classes"] = 1536,
 				["sourceType"] = 6,
 				["faction"] = 3,
@@ -6688,34 +6713,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[17585] = {
-			[45308] = {
+		[8117] = {
+			[14164] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[47014] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[84407] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莱公",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-							"时空漫游", -- [2]
-						},
-						["instance"] = "残阳关",
-					}, -- [1]
-				},
 				["faction"] = 3,
 			},
 		},
@@ -6742,25 +6743,6 @@ MogIt_OneHandedDB = {
 						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
-				["faction"] = 3,
-			},
-		},
-		[12673] = {
-			[25306] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-		},
-		[2789] = {
-			[3276] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[30523] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -6798,6 +6780,37 @@ MogIt_OneHandedDB = {
 			[26990] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2789] = {
+			[3276] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[30523] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[7111] = {
+			[12357] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "机械领主卡帕西图斯",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "能源舰",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
@@ -6839,22 +6852,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[7111] = {
-			[12357] = {
+		[12673] = {
+			[25306] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "机械领主卡帕西图斯",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "能源舰",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
 				["faction"] = 3,
 			},
 		},
@@ -7029,33 +7030,11 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[2804] = {
-			[7298] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "托塞德林王子",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "厄运之槌",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-			[3296] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[29304] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
+		[11269] = {
+			[21640] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
 			},
 		},
 		[13220] = {
@@ -7085,23 +7064,32 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[26424] = {
-			[70150] = {
+		[2804] = {
+			[7298] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "阿克蒙德",
+						["instanceType"] = 1,
+						["encounter"] = "托塞德林王子",
 						["tiers"] = {
-							"德拉诺之王", -- [1]
+							"经典旧世", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
+						["instance"] = "厄运之槌",
 					}, -- [1]
 				},
+				["faction"] = 3,
+			},
+			[3296] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[29304] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -7126,11 +7114,24 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[11269] = {
-			[21640] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
+		[26424] = {
+			[70150] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿克蒙德",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
 			},
 		},
 		[21849] = {
@@ -7147,33 +7148,40 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[12250] = {
-			[24480] = {
+		[961] = {
+			[4787] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "巫妖王",
+						["instanceType"] = 1,
+						["encounter"] = "烟网蛛后",
 						["tiers"] = {
-							"巫妖王之怒", -- [1]
+							"经典旧世", -- [1]
 						},
 						["difficulties"] = {
-							"25人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
+						["instance"] = "黑石塔下层",
 					}, -- [1]
 				},
 				["faction"] = 3,
 			},
+			[27910] = {
+				["classes"] = 1536,
+				["faction"] = 3,
+			},
 		},
-		[962] = {
-			[10307] = {
+		[578] = {
+			[78342] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
-			[29329] = {
+			[1930] = {
+				["classes"] = 1536,
+				["faction"] = 3,
+			},
+			[32841] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
@@ -7192,10 +7200,20 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[964] = {
-			[960] = {
+		[22001] = {
+			[66457] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[65463] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[60900] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -7219,19 +7237,23 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[578] = {
-			[78342] = {
+		[12250] = {
+			[24480] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[1930] = {
-				["classes"] = 1536,
-				["faction"] = 3,
-			},
-			[32841] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "巫妖王",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
@@ -7242,30 +7264,42 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[11252] = {
-			[21592] = {
+		[418] = {
+			[288] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[28457] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
-		[6139] = {
-			[18861] = {
+		[21937] = {
+			[61860] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克尔苏加德",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [1]
-				},
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[66385] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[65413] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66380] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[65447] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -7281,30 +7315,33 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[22001] = {
-			[66457] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[65463] = {
+		[6666] = {
+			[10314] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
-			[60900] = {
+			[16134] = {
 				["classes"] = 1536,
-				["sourceType"] = 2,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "女祭司德莉希亚",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "魔导师平台",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
-		[418] = {
-			[288] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[28457] = {
+		[11252] = {
+			[21592] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
@@ -7386,10 +7423,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -7404,10 +7441,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -7427,36 +7464,18 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
 		},
-		[6666] = {
-			[10314] = {
+		[964] = {
+			[960] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[16134] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "女祭司德莉希亚",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "魔导师平台",
-					}, -- [1]
-				},
 				["faction"] = 3,
 			},
 		},
@@ -7498,11 +7517,24 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[6191] = {
-			[39148] = {
-				["classes"] = 512,
-				["sourceType"] = 3,
-				["faction"] = 2,
+		[11300] = {
+			[21674] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "锋鳞",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+				["faction"] = 3,
 			},
 		},
 		[13336] = {
@@ -7573,23 +7605,15 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[11300] = {
-			[21674] = {
+		[8745] = {
+			[15560] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "锋鳞",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[15616] = {
+				["classes"] = 1536,
+				["sourceType"] = 3,
 				["faction"] = 3,
 			},
 		},
@@ -7621,125 +7645,6 @@ MogIt_OneHandedDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
-				["faction"] = 3,
-			},
-		},
-		[7215] = {
-			[12478] = {
-				["classes"] = 1536,
-				["sourceType"] = 6,
-				["faction"] = 3,
-			},
-			[49471] = {
-				["classes"] = 1536,
-				["sourceType"] = 6,
-				["faction"] = 3,
-			},
-		},
-		[5664] = {
-			[8347] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[8608] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "无疤者奥斯里安",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "安其拉废墟",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-		},
-		[14434] = {
-			[30882] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-		},
-		[3454] = {
-			[4254] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "贝尔加",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石深渊",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-		},
-		[20572] = {
-			[50977] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[14905] = {
-			[33305] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[33378] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[65597] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[3369] = {
-			[4101] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[968] = {
-			[964] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[293] = {
-			[154] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[7213] = {
-			[12476] = {
-				["classes"] = 1536,
-				["sourceType"] = 6,
-				["faction"] = 3,
-			},
-			[49467] = {
-				["classes"] = 1536,
-				["sourceType"] = 6,
 				["faction"] = 3,
 			},
 		},
@@ -7803,41 +7708,158 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[14027] = {
-			[29683] = {
+		[5664] = {
+			[8347] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[8608] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "奈法利安的末日",
+						["encounter"] = "无疤者奥斯里安",
 						["tiers"] = {
-							"大地的裂变", -- [1]
+							"经典旧世", -- [1]
 						},
 						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
 						},
-						["instance"] = "黑翼血环",
+						["instance"] = "安其拉废墟",
 					}, -- [1]
 				},
 				["faction"] = 3,
 			},
-			[32613] = {
+		},
+		[3454] = {
+			[4254] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "贝尔加",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石深渊",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[9312] = {
+			[16619] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17478] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17428] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[20572] = {
+			[50977] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[14905] = {
+			[33305] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[33378] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[65597] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[23279] = {
+			[62726] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "奈法利安的末日",
+						["encounter"] = "汉斯加尔与弗兰佐克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[968] = {
+			[964] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[293] = {
+			[154] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[6191] = {
+			[39148] = {
+				["classes"] = 512,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[7215] = {
+			[12478] = {
+				["classes"] = 1536,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[49471] = {
+				["classes"] = 1536,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[16781] = {
+			[39766] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "莫卓克",
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
 						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
+							"随机", -- [1]
 						},
-						["instance"] = "黑翼血环",
+						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 				["faction"] = 3,
@@ -7863,68 +7885,24 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[16781] = {
-			[39766] = {
+		[10901] = {
+			[20450] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "莫卓克",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "巨龙之魂",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
 				["faction"] = 3,
 			},
 		},
-		[18209] = {
-			[42884] = {
+		[591] = {
+			[503] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[14434] = {
+			[30882] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-		},
-		[26281] = {
-			[70148] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "祖霍拉克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-			[70157] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "祖霍拉克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
 				["faction"] = 3,
 			},
 		},
@@ -8021,10 +7999,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[591] = {
-			[503] = {
+		[6239] = {
+			[9357] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 3,
 			},
 		},
@@ -8096,10 +8074,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -8114,10 +8092,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -8133,23 +8111,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[23279] = {
-			[62726] = {
+		[3369] = {
+			[4101] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "汉斯加尔与弗兰佐克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -8185,38 +8150,22 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[10901] = {
-			[20450] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-		},
-		[16780] = {
-			[39748] = {
+		[21259] = {
+			[61657] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "莫卓克",
+						["encounter"] = "库卡隆黑暗萨满",
 						["tiers"] = {
-							"大地的裂变", -- [1]
+							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
 						},
-						["instance"] = "巨龙之魂",
+						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
-				["faction"] = 3,
-			},
-		},
-		[2863] = {
-			[28352] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -8241,6 +8190,13 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[2863] = {
+			[28352] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
 		[6369] = {
 			[78351] = {
 				["classes"] = 1536,
@@ -8255,6 +8211,13 @@ MogIt_OneHandedDB = {
 			[10742] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[297] = {
+			[6010] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -8347,10 +8310,15 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[10961] = {
-			[20528] = {
+		[361] = {
+			[226] = {
 				["classes"] = 1536,
-				["sourceType"] = 6,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10318] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -8419,22 +8387,22 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[361] = {
-			[226] = {
+		[10961] = {
+			[20528] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[10318] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 3,
 			},
 		},
-		[18337] = {
-			[45311] = {
+		[3390] = {
+			[10433] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[13317] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -8450,15 +8418,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[3390] = {
-			[10433] = {
+		[18337] = {
+			[45311] = {
 				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[13317] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -8586,25 +8549,6 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[7315] = {
-			[12623] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "特雷斯坦·邪蹄",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "卡拉赞",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-		},
 		[5842] = {
 			[8625] = {
 				["classes"] = 1536,
@@ -8621,6 +8565,13 @@ MogIt_OneHandedDB = {
 						["instance"] = "安其拉神殿",
 					}, -- [1]
 				},
+				["faction"] = 3,
+			},
+		},
+		[11153] = {
+			[21320] = {
+				["classes"] = 1536,
+				["sourceType"] = 3,
 				["faction"] = 3,
 			},
 		},
@@ -8663,10 +8614,22 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[11153] = {
-			[21320] = {
+		[7315] = {
+			[12623] = {
 				["classes"] = 1536,
-				["sourceType"] = 3,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "特雷斯坦·邪蹄",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "卡拉赞",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
@@ -8724,21 +8687,21 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[12513] = {
-			[24836] = {
+		[6858] = {
+			[11924] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "巫妖王",
+						["instanceType"] = 1,
+						["encounter"] = "无疤者奥摩尔",
 						["tiers"] = {
-							"巫妖王之怒", -- [1]
+							"燃烧的远征", -- [1]
 						},
 						["difficulties"] = {
-							"25人（英雄）", -- [1]
+							"英雄", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
+						["instance"] = "地狱火城墙",
 					}, -- [1]
 				},
 				["faction"] = 3,
@@ -8756,21 +8719,21 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[6858] = {
-			[11924] = {
+		[12513] = {
+			[24836] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "无疤者奥摩尔",
+						["instanceType"] = 2,
+						["encounter"] = "巫妖王",
 						["tiers"] = {
-							"燃烧的远征", -- [1]
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"25人（英雄）", -- [1]
 						},
-						["instance"] = "地狱火城墙",
+						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 				["faction"] = 3,
@@ -8832,17 +8795,30 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[24270] = {
+			[62783] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克罗莫格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
 		[18649] = {
 			[46295] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-		},
-		[14195] = {
-			[30300] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -8869,25 +8845,6 @@ MogIt_OneHandedDB = {
 			[16257] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-		},
-		[8926] = {
-			[15887] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "基尔加丹",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "太阳之井高地",
-					}, -- [1]
-				},
 				["faction"] = 3,
 			},
 		},
@@ -8922,6 +8879,25 @@ MogIt_OneHandedDB = {
 			[10575] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[8926] = {
+			[15887] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "基尔加丹",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "太阳之井高地",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
@@ -9117,23 +9093,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[24270] = {
-			[62783] = {
+		[14195] = {
+			[30300] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克罗莫格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -9298,35 +9261,6 @@ MogIt_OneHandedDB = {
 				},
 			},
 		},
-		[8408] = {
-			[15204] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-			[14978] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-			[14977] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-			[15203] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-		},
-		[12714] = {
-			[25367] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-		},
 		[489] = {
 			[361] = {
 				["classes"] = 1536,
@@ -9346,6 +9280,53 @@ MogIt_OneHandedDB = {
 						["difficulties"] = {
 						},
 						["instance"] = "玛拉顿",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[12714] = {
+			[25367] = {
+				["classes"] = 1536,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[14027] = {
+			[29683] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奈法利安的末日",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "黑翼血环",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[32613] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奈法利安的末日",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "黑翼血环",
 					}, -- [1]
 				},
 				["faction"] = 3,
@@ -9441,13 +9422,6 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[297] = {
-			[6010] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
 		[424] = {
 			[294] = {
 				["classes"] = 1536,
@@ -9455,10 +9429,31 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[6239] = {
-			[9357] = {
+		[16780] = {
+			[39748] = {
 				["classes"] = 1536,
-				["sourceType"] = 6,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "莫卓克",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "巨龙之魂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[18209] = {
+			[42884] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -9494,20 +9489,39 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[21259] = {
-			[61657] = {
+		[26281] = {
+			[70148] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "库卡隆黑暗萨满",
+						["encounter"] = "祖霍拉克",
 						["tiers"] = {
-							"熊猫人之谜", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"英雄", -- [1]
 						},
-						["instance"] = "决战奥格瑞玛",
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[70157] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "祖霍拉克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 3,
@@ -9542,20 +9556,15 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[9312] = {
-			[16619] = {
+		[7213] = {
+			[12476] = {
 				["classes"] = 1536,
-				["sourceType"] = 2,
+				["sourceType"] = 6,
 				["faction"] = 3,
 			},
-			[17478] = {
+			[49467] = {
 				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[17428] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 3,
 			},
 		},
@@ -9571,29 +9580,25 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[8745] = {
-			[15560] = {
+		[8408] = {
+			[15204] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
 			},
-			[15616] = {
+			[14978] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
 			},
-		},
-		[10700] = {
-			[20050] = {
+			[14977] = {
 				["classes"] = 1536,
-				["sourceType"] = 6,
+				["sourceType"] = 3,
 				["faction"] = 3,
 			},
-		},
-		[11249] = {
-			[21582] = {
+			[15203] = {
 				["classes"] = 1536,
-				["sourceType"] = 2,
+				["sourceType"] = 3,
 				["faction"] = 3,
 			},
 		},
@@ -9622,6 +9627,33 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[11249] = {
+			[21582] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[6139] = {
+			[18861] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克尔苏加德",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
 		[22482] = {
 			[64525] = {
 				["classes"] = 1024,
@@ -9629,53 +9661,22 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[21937] = {
-			[61860] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[66385] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[65413] = {
+		[962] = {
+			[10307] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
-			[66380] = {
+			[29329] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[65447] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
-		[961] = {
-			[4787] = {
+		[10700] = {
+			[20050] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "烟网蛛后",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔下层",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-			[27910] = {
-				["classes"] = 1536,
+				["sourceType"] = 6,
 				["faction"] = 3,
 			},
 		},
@@ -9775,21 +9776,32 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[11623] = {
-			[22190] = {
+		[17585] = {
+			[45308] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[47014] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[84407] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "维扎克斯将军",
+						["instanceType"] = 1,
+						["encounter"] = "莱公",
 						["tiers"] = {
-							"巫妖王之怒", -- [1]
+							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"10人", -- [1]
+							"普通", -- [1]
+							"时空漫游", -- [2]
 						},
-						["instance"] = "奥杜尔",
+						["instance"] = "残阳关",
 					}, -- [1]
 				},
 				["faction"] = 3,
@@ -9931,21 +9943,33 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[5419] = {
-			[7670] = {
+		[10311] = {
+			[19291] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "奈法利安",
+						["encounter"] = "帕奇维克",
 						["tiers"] = {
-							"经典旧世", -- [1]
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
+							"25人", -- [1]
 						},
-						["instance"] = "黑翼之巢",
+						["instance"] = "纳克萨玛斯",
 					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [2]
 				},
 				["faction"] = 3,
 			},
@@ -10237,10 +10261,23 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[8719] = {
-			[16586] = {
+		[13415] = {
+			[27379] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "摧骨者罗姆欧格",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石岩窟",
+					}, -- [1]
+				},
 				["faction"] = 3,
 			},
 		},
@@ -10276,76 +10313,6 @@ MogIt_OneHandedDB = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
-			},
-		},
-		[13415] = {
-			[27379] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "摧骨者罗姆欧格",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石岩窟",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-		},
-		[13465] = {
-			[27437] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "希亚玛特",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "托维尔失落之城",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-			[27709] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "希亚玛特",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "托维尔失落之城",
-					}, -- [1]
-				},
-				["faction"] = 3,
-			},
-		},
-		[20774] = {
-			[55505] = {
-				["classes"] = 512,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[55334] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
 			},
 		},
 		[11882] = {
@@ -10400,6 +10367,56 @@ MogIt_OneHandedDB = {
 				["faction"] = 2,
 			},
 		},
+		[13465] = {
+			[27437] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "希亚玛特",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "托维尔失落之城",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[27709] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "希亚玛特",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "托维尔失落之城",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[20774] = {
+			[55505] = {
+				["classes"] = 512,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[55334] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
 		[20530] = {
 			[50118] = {
 				["classes"] = 1536,
@@ -10407,24 +10424,17 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[18844] = {
-			[44292] = {
+		[8719] = {
+			[16586] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "皇帝的意志",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "魔古山宝库",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[22518] = {
+			[81583] = {
+				["classes"] = 1536,
+				["sourceType"] = 3,
 				["faction"] = 3,
 			},
 		},
@@ -10892,11 +10902,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 				},
 			},
@@ -10918,10 +10928,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "血槌炉渣矿井",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "血槌炉渣矿井",
 					}, -- [1]
 				},
 			},
@@ -10936,9 +10946,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "血槌炉渣矿井",
 						["difficulties"] = {
 						},
-						["instance"] = "血槌炉渣矿井",
 					}, -- [1]
 				},
 			},
@@ -10955,10 +10965,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 			},
@@ -10997,9 +11007,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "永恒之井",
 						["difficulties"] = {
 						},
-						["instance"] = "永恒之井",
 					}, -- [1]
 				},
 			},
@@ -11016,11 +11026,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "青龙寺",
 						["difficulties"] = {
 							"普通", -- [1]
 							"时空漫游", -- [2]
 						},
-						["instance"] = "青龙寺",
 					}, -- [1]
 				},
 			},
@@ -11044,10 +11054,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -11081,11 +11091,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "风暴烈酒酿造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 							"时空漫游", -- [2]
 						},
-						["instance"] = "风暴烈酒酿造厂",
 					}, -- [1]
 				},
 			},
@@ -11139,10 +11149,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -11213,9 +11223,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -11264,9 +11274,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [1]
 				},
 			},
@@ -11329,9 +11339,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -11617,10 +11627,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -11702,11 +11712,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 			},
@@ -11730,11 +11740,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "魔古山宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
 			},
@@ -11772,11 +11782,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 			},
@@ -11793,11 +11803,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -11814,10 +11824,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -11832,10 +11842,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -11859,11 +11869,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "影踪禅院",
 						["difficulties"] = {
 							"普通", -- [1]
 							"时空漫游", -- [2]
 						},
-						["instance"] = "影踪禅院",
 					}, -- [1]
 				},
 			},
@@ -11965,10 +11975,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "映像大厅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "映像大厅",
 					}, -- [1]
 				},
 			},
@@ -12023,10 +12033,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "潮汐王座",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "潮汐王座",
 					}, -- [1]
 				},
 			},
@@ -12041,10 +12051,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "潮汐王座",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "潮汐王座",
 					}, -- [1]
 				},
 			},
@@ -12082,10 +12092,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 			},
@@ -12116,10 +12126,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -12143,10 +12153,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "魔环",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "魔环",
 					}, -- [1]
 				},
 			},
@@ -12170,11 +12180,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 				},
 			},
@@ -12275,9 +12285,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 			},
@@ -12354,10 +12364,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "旋云之巅",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "旋云之巅",
 					}, -- [1]
 				},
 			},
@@ -12372,10 +12382,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "旋云之巅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "旋云之巅",
 					}, -- [1]
 				},
 			},
@@ -12409,10 +12419,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "奥金尼地穴",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "奥金尼地穴",
 					}, -- [1]
 				},
 			},
@@ -12429,9 +12439,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "剃刀沼泽",
 						["difficulties"] = {
 						},
-						["instance"] = "剃刀沼泽",
 					}, -- [1]
 				},
 			},
@@ -12508,10 +12518,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "魔导师平台",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "魔导师平台",
 					}, -- [1]
 				},
 			},
@@ -12528,10 +12538,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -12548,10 +12558,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 			},
@@ -12607,9 +12617,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "能源舰",
 						["difficulties"] = {
 						},
-						["instance"] = "能源舰",
 					}, -- [1]
 				},
 			},
@@ -12736,9 +12746,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "祖尔法拉克",
 						["difficulties"] = {
 						},
-						["instance"] = "祖尔法拉克",
 					}, -- [1]
 				},
 			},
@@ -12767,10 +12777,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -12825,11 +12835,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -12846,10 +12856,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -12873,9 +12883,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "风暴要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "风暴要塞",
 					}, -- [1]
 				},
 			},
@@ -12899,9 +12909,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -12949,10 +12959,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -12969,9 +12979,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "斯坦索姆",
 						["difficulties"] = {
 						},
-						["instance"] = "斯坦索姆",
 					}, -- [1]
 				},
 			},
@@ -12993,10 +13003,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 			},
@@ -13070,10 +13080,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 			},
@@ -13105,10 +13115,10 @@ MogIt_OneHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "影牙城堡",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "影牙城堡",
 					}, -- [1]
 				},
 			},
@@ -13123,9 +13133,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "剃刀高地",
 						["difficulties"] = {
 						},
-						["instance"] = "剃刀高地",
 					}, -- [1]
 				},
 			},
@@ -13154,10 +13164,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "紫罗兰监狱",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "紫罗兰监狱",
 					}, -- [1]
 				},
 			},
@@ -13187,10 +13197,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "钢铁码头",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "钢铁码头",
 					}, -- [1]
 				},
 			},
@@ -13205,9 +13215,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "钢铁码头",
 						["difficulties"] = {
 						},
-						["instance"] = "钢铁码头",
 					}, -- [1]
 				},
 			},
@@ -13229,9 +13239,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "阿塔哈卡神庙",
 						["difficulties"] = {
 						},
-						["instance"] = "阿塔哈卡神庙",
 					}, -- [1]
 				},
 			},
@@ -13274,9 +13284,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "卡拉赞",
 						["difficulties"] = {
 						},
-						["instance"] = "卡拉赞",
 					}, -- [1]
 				},
 			},
@@ -13308,10 +13318,10 @@ MogIt_OneHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 			},
@@ -13327,10 +13337,10 @@ MogIt_OneHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 			},
@@ -13366,10 +13376,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -13389,10 +13399,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -13423,11 +13433,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -13509,9 +13519,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -13555,11 +13565,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -13576,10 +13586,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "魔导师平台",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "魔导师平台",
 					}, -- [1]
 				},
 			},
@@ -13630,10 +13640,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "映像大厅",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "映像大厅",
 					}, -- [1]
 				},
 			},
@@ -13684,10 +13694,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "旧希尔斯布莱德丘陵",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "旧希尔斯布莱德丘陵",
 					}, -- [1]
 				},
 			},
@@ -13704,10 +13714,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -13753,10 +13763,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 			},
@@ -13800,10 +13810,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 			},
@@ -13847,10 +13857,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 			},
@@ -13886,9 +13896,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑石深渊",
 						["difficulties"] = {
 						},
-						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
 			},
@@ -13957,10 +13967,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 			},
@@ -13991,9 +14001,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -14017,10 +14027,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -14049,11 +14059,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 			},
@@ -14070,10 +14080,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -14102,11 +14112,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 			},
@@ -14123,10 +14133,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "黑暗神殿",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑暗神殿",
 					}, -- [1]
 				},
 			},
@@ -14143,9 +14153,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -14169,9 +14179,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -14214,10 +14224,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -14237,10 +14247,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -14255,10 +14265,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -14313,10 +14323,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -14331,10 +14341,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -14422,10 +14432,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "魔古山宝库",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
 			},
@@ -14459,10 +14469,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "幽暗沼泽",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "幽暗沼泽",
 					}, -- [1]
 				},
 			},
@@ -14517,11 +14527,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -14529,11 +14539,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [2]
 					{
 						["instanceType"] = 2,
@@ -14541,11 +14551,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [3]
 					{
 						["instanceType"] = 2,
@@ -14553,11 +14563,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [4]
 					{
 						["instanceType"] = 2,
@@ -14565,11 +14575,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [5]
 					{
 						["instanceType"] = 2,
@@ -14577,11 +14587,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [6]
 					{
 						["instanceType"] = 2,
@@ -14589,11 +14599,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [7]
 				},
 			},
@@ -14617,10 +14627,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "血槌炉渣矿井",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "血槌炉渣矿井",
 					}, -- [1]
 				},
 			},
@@ -14637,11 +14647,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -14658,10 +14668,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "灵魂洪炉",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "灵魂洪炉",
 					}, -- [1]
 				},
 			},
@@ -14699,11 +14709,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "魔古山宝库",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
 			},
@@ -14771,10 +14781,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -14782,10 +14792,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [2]
 				},
 			},
@@ -14800,10 +14810,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -14811,10 +14821,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [2]
 				},
 			},
@@ -14829,10 +14839,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -14840,10 +14850,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [2]
 				},
 			},
@@ -14858,10 +14868,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -14869,10 +14879,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [2]
 				},
 			},
@@ -14889,11 +14899,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -14901,11 +14911,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [2]
 					{
 						["instanceType"] = 2,
@@ -14913,11 +14923,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [3]
 					{
 						["instanceType"] = 2,
@@ -14925,11 +14935,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [4]
 					{
 						["instanceType"] = 2,
@@ -14937,11 +14947,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [5]
 					{
 						["instanceType"] = 2,
@@ -14949,11 +14959,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [6]
 					{
 						["instanceType"] = 2,
@@ -14961,11 +14971,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [7]
 				},
 			},
@@ -15003,9 +15013,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑石深渊",
 						["difficulties"] = {
 						},
-						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
 			},
@@ -15149,10 +15159,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "黑暗神殿",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑暗神殿",
 					}, -- [1]
 				},
 			},
@@ -15195,9 +15205,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [1]
 					{
 						["instanceType"] = 1,
@@ -15205,9 +15215,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [2]
 					{
 						["instanceType"] = 1,
@@ -15215,9 +15225,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [3]
 				},
 			},
@@ -15282,9 +15292,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -15344,11 +15354,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "黑翼血环",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "黑翼血环",
 					}, -- [1]
 				},
 			},
@@ -15363,11 +15373,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "黑翼血环",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "黑翼血环",
 					}, -- [1]
 				},
 			},
@@ -15384,10 +15394,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -15404,10 +15414,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "钢铁码头",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "钢铁码头",
 					}, -- [1]
 				},
 			},
@@ -15455,9 +15465,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -15474,9 +15484,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "斯坦索姆",
 						["difficulties"] = {
 						},
-						["instance"] = "斯坦索姆",
 					}, -- [1]
 				},
 			},
@@ -15493,10 +15503,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -15511,10 +15521,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -15538,11 +15548,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -15559,10 +15569,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 				},
 			},
@@ -15579,10 +15589,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -15599,10 +15609,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -15648,10 +15658,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 			},
@@ -15666,10 +15676,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 			},
@@ -15693,10 +15703,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -15729,9 +15739,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "毒蛇神殿",
 						["difficulties"] = {
 						},
-						["instance"] = "毒蛇神殿",
 					}, -- [1]
 				},
 			},
@@ -15748,10 +15758,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -15790,10 +15800,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "黑色沼泽",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑色沼泽",
 					}, -- [1]
 				},
 			},
@@ -15813,10 +15823,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "魔导师平台",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "魔导师平台",
 					}, -- [1]
 				},
 			},
@@ -15852,10 +15862,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -15877,9 +15887,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑石深渊",
 						["difficulties"] = {
 						},
-						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
 			},
@@ -15963,10 +15973,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "奥金顿",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "奥金顿",
 					}, -- [1]
 				},
 			},
@@ -15983,9 +15993,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "能源舰",
 						["difficulties"] = {
 						},
-						["instance"] = "能源舰",
 					}, -- [1]
 				},
 			},
@@ -16028,10 +16038,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -16076,10 +16086,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "闪电大厅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "闪电大厅",
 					}, -- [1]
 				},
 			},
@@ -16096,10 +16106,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -16107,10 +16117,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
 			},
@@ -16166,10 +16176,10 @@ MogIt_OneHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 			},
@@ -16185,10 +16195,10 @@ MogIt_OneHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 			},
@@ -16263,10 +16273,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "灵魂洪炉",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "灵魂洪炉",
 					}, -- [1]
 				},
 			},
@@ -16297,10 +16307,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -16331,11 +16341,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -16343,11 +16353,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [2]
 					{
 						["instanceType"] = 2,
@@ -16355,11 +16365,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [3]
 					{
 						["instanceType"] = 2,
@@ -16367,11 +16377,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [4]
 					{
 						["instanceType"] = 2,
@@ -16379,11 +16389,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [5]
 					{
 						["instanceType"] = 2,
@@ -16391,11 +16401,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [6]
 					{
 						["instanceType"] = 2,
@@ -16403,11 +16413,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [7]
 				},
 			},
@@ -16431,9 +16441,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "玛拉顿",
 						["difficulties"] = {
 						},
-						["instance"] = "玛拉顿",
 					}, -- [1]
 				},
 			},
@@ -16457,9 +16467,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -16476,10 +16486,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "通天峰",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "通天峰",
 					}, -- [1]
 				},
 			},
@@ -16494,9 +16504,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "通天峰",
 						["difficulties"] = {
 						},
-						["instance"] = "通天峰",
 					}, -- [1]
 				},
 			},
@@ -16520,10 +16530,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "永恒之眼",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "永恒之眼",
 					}, -- [1]
 				},
 			},
@@ -16552,10 +16562,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -16572,9 +16582,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "太阳之井高地",
 						["difficulties"] = {
 						},
-						["instance"] = "太阳之井高地",
 					}, -- [1]
 				},
 			},
@@ -16591,11 +16601,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "暮光堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "暮光堡垒",
 					}, -- [1]
 				},
 			},
@@ -16610,11 +16620,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "黑翼血环",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "黑翼血环",
 					}, -- [1]
 				},
 			},
@@ -16629,11 +16639,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "黑翼血环",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "黑翼血环",
 					}, -- [1]
 				},
 			},
@@ -16648,11 +16658,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "暮光堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "暮光堡垒",
 					}, -- [1]
 				},
 			},
@@ -16683,10 +16693,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -16748,10 +16758,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "起源大厅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "起源大厅",
 					}, -- [1]
 				},
 			},
@@ -16766,10 +16776,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "起源大厅",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "起源大厅",
 					}, -- [1]
 				},
 			},
@@ -16800,9 +16810,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "毒蛇神殿",
 						["difficulties"] = {
 						},
-						["instance"] = "毒蛇神殿",
 					}, -- [1]
 				},
 			},
@@ -16826,11 +16836,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -16894,10 +16904,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -16921,10 +16931,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "能源舰",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "能源舰",
 					}, -- [1]
 				},
 			},
@@ -16941,10 +16951,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -16989,10 +16999,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -17009,10 +17019,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石塔上层",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石塔上层",
 					}, -- [1]
 				},
 			},
@@ -17027,10 +17037,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石塔上层",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石塔上层",
 					}, -- [1]
 				},
 			},
@@ -17098,10 +17108,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -17137,9 +17147,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "安其拉神殿",
 						["difficulties"] = {
 						},
-						["instance"] = "安其拉神殿",
 					}, -- [1]
 				},
 			},
@@ -17170,10 +17180,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -17188,10 +17198,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -17208,10 +17218,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "乌特加德之巅",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "乌特加德之巅",
 					}, -- [1]
 				},
 			},
@@ -17291,10 +17301,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -17302,10 +17312,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
 			},
@@ -17341,10 +17351,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "奥金顿",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "奥金顿",
 					}, -- [1]
 				},
 			},
@@ -17359,9 +17369,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "奥金顿",
 						["difficulties"] = {
 						},
-						["instance"] = "奥金顿",
 					}, -- [1]
 				},
 			},
@@ -17378,10 +17388,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -17429,10 +17439,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -17468,10 +17478,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "鲜血熔炉",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "鲜血熔炉",
 					}, -- [1]
 				},
 			},
@@ -17502,10 +17512,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "恐惧之心",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
 			},
@@ -17613,10 +17623,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "映像大厅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "映像大厅",
 					}, -- [1]
 				},
 			},
@@ -17633,9 +17643,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "暗影迷宫",
 						["difficulties"] = {
 						},
-						["instance"] = "暗影迷宫",
 					}, -- [1]
 				},
 			},
@@ -17690,9 +17700,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -17709,10 +17719,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -17743,10 +17753,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -17889,9 +17899,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -17949,11 +17959,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "永春台",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "永春台",
 					}, -- [1]
 				},
 			},
@@ -17984,11 +17994,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "风暴烈酒酿造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 							"时空漫游", -- [2]
 						},
-						["instance"] = "风暴烈酒酿造厂",
 					}, -- [1]
 				},
 			},
@@ -18033,10 +18043,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -18051,10 +18061,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -18071,10 +18081,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -18082,10 +18092,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
 			},
@@ -18102,9 +18112,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "海加尔山之战",
 						["difficulties"] = {
 						},
-						["instance"] = "海加尔山之战",
 					}, -- [1]
 				},
 			},
@@ -18121,9 +18131,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "海加尔山之战",
 						["difficulties"] = {
 						},
-						["instance"] = "海加尔山之战",
 					}, -- [1]
 				},
 			},
@@ -18166,9 +18176,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "太阳之井高地",
 						["difficulties"] = {
 						},
-						["instance"] = "太阳之井高地",
 					}, -- [1]
 				},
 			},
@@ -18197,9 +18207,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -18216,10 +18226,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -18236,10 +18246,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -18256,10 +18266,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -18307,10 +18317,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -18341,9 +18351,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "海加尔山之战",
 						["difficulties"] = {
 						},
-						["instance"] = "海加尔山之战",
 					}, -- [1]
 				},
 			},
@@ -18379,10 +18389,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -18397,10 +18407,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 			},
@@ -18441,10 +18451,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -18461,11 +18471,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "风神王座",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "风神王座",
 					}, -- [1]
 				},
 			},
@@ -18480,11 +18490,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "风神王座",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "风神王座",
 					}, -- [1]
 				},
 			},
@@ -18499,11 +18509,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "风神王座",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "风神王座",
 					}, -- [1]
 				},
 			},
@@ -18518,11 +18528,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "风神王座",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "风神王座",
 					}, -- [1]
 				},
 			},
@@ -18537,11 +18547,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "风神王座",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "风神王座",
 					}, -- [1]
 				},
 			},
@@ -18561,11 +18571,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "风神王座",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "风神王座",
 					}, -- [1]
 				},
 			},
@@ -18603,10 +18613,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -18623,9 +18633,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "祖尔法拉克",
 						["difficulties"] = {
 						},
-						["instance"] = "祖尔法拉克",
 					}, -- [1]
 				},
 			},
@@ -18656,9 +18666,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -18680,11 +18690,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "围攻砮皂寺",
 						["difficulties"] = {
 							"普通", -- [1]
 							"时空漫游", -- [2]
 						},
-						["instance"] = "围攻砮皂寺",
 					}, -- [1]
 				},
 			},
@@ -18720,10 +18730,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 			},
@@ -18740,9 +18750,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [1]
 					{
 						["instanceType"] = 1,
@@ -18750,9 +18760,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [2]
 					{
 						["instanceType"] = 1,
@@ -18760,9 +18770,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [3]
 				},
 			},
@@ -18793,10 +18803,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "奴隶围栏",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "奴隶围栏",
 					}, -- [1]
 				},
 			},
@@ -18827,10 +18837,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -18847,9 +18857,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 			},
@@ -18866,10 +18876,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -18899,10 +18909,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "黑色沼泽",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑色沼泽",
 					}, -- [1]
 				},
 			},
@@ -18917,10 +18927,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "魔导师平台",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "魔导师平台",
 					}, -- [1]
 				},
 			},
@@ -18944,10 +18954,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -18998,11 +19008,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -19019,11 +19029,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 			},
@@ -19047,10 +19057,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 			},
@@ -19065,10 +19075,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 			},
@@ -19137,10 +19147,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -19164,11 +19174,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "永春台",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "永春台",
 					}, -- [1]
 				},
 			},
@@ -19185,10 +19195,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -19217,9 +19227,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "暮光审判",
 						["difficulties"] = {
 						},
-						["instance"] = "暮光审判",
 					}, -- [1]
 				},
 			},
@@ -19275,10 +19285,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "通天峰",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "通天峰",
 					}, -- [1]
 				},
 			},
@@ -19352,10 +19362,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "映像大厅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "映像大厅",
 					}, -- [1]
 				},
 			},
@@ -19406,9 +19416,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "生态船",
 						["difficulties"] = {
 						},
-						["instance"] = "生态船",
 					}, -- [1]
 				},
 			},
@@ -19425,10 +19435,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -19443,10 +19453,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -19463,9 +19473,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -19513,10 +19523,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "祖阿曼",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "祖阿曼",
 					}, -- [1]
 				},
 			},
@@ -19552,9 +19562,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -19578,10 +19588,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -19598,9 +19608,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 			},
@@ -19617,9 +19627,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "斯坦索姆",
 						["difficulties"] = {
 						},
-						["instance"] = "斯坦索姆",
 					}, -- [1]
 				},
 			},
@@ -19648,11 +19658,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "恐惧之心",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
 			},
@@ -19676,11 +19686,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "永春台",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "永春台",
 					}, -- [1]
 				},
 			},
@@ -19697,11 +19707,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "永春台",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "永春台",
 					}, -- [1]
 				},
 			},
@@ -19718,10 +19728,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "乌特加德之巅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "乌特加德之巅",
 					}, -- [1]
 				},
 			},
@@ -19804,10 +19814,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "乌特加德之巅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "乌特加德之巅",
 					}, -- [1]
 				},
 			},
@@ -19824,10 +19834,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "法力陵墓",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "法力陵墓",
 					}, -- [1]
 				},
 			},
@@ -19922,35 +19932,16 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[6243] = {
-			[18802] = {
+		[17754] = {
+			[41172] = {
 				["classes"] = 2560,
-				["sourceType"] = 1,
+				["sourceType"] = 2,
 				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "收割者戈提克",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格拉斯",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [2]
-				},
+			},
+			[41581] = {
+				["classes"] = 2560,
+				["sourceType"] = 4,
+				["faction"] = 3,
 			},
 		},
 		[22249] = {
@@ -19991,10 +19982,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "祖尔格拉布",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "祖尔格拉布",
 					}, -- [1]
 				},
 			},
@@ -20018,10 +20009,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冠军的试炼",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "冠军的试炼",
 					}, -- [1]
 					{
 						["instanceType"] = 1,
@@ -20029,10 +20020,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冠军的试炼",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "冠军的试炼",
 					}, -- [2]
 				},
 			},
@@ -20049,10 +20040,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -20060,10 +20051,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
 			},
@@ -20080,11 +20071,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -20101,10 +20092,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -20138,10 +20129,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -20165,9 +20156,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "阿塔哈卡神庙",
 						["difficulties"] = {
 						},
-						["instance"] = "阿塔哈卡神庙",
 					}, -- [1]
 				},
 			},
@@ -20184,23 +20175,11 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[21331] = {
-			[61698] = {
+		[3892] = {
+			[7062] = {
 				["classes"] = 2560,
-				["sourceType"] = 1,
+				["sourceType"] = 6,
 				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "纳兹戈林将军",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "决战奥格瑞玛",
-					}, -- [1]
-				},
 			},
 		},
 		[18289] = {
@@ -20253,10 +20232,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -20273,10 +20252,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "达克萨隆要塞",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "达克萨隆要塞",
 					}, -- [1]
 				},
 			},
@@ -20311,10 +20290,10 @@ MogIt_OneHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 			},
@@ -20330,10 +20309,10 @@ MogIt_OneHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 			},
@@ -20357,11 +20336,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 				},
 			},
@@ -20390,10 +20369,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -20408,10 +20387,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -20450,11 +20429,23 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[3892] = {
-			[7062] = {
+		[21331] = {
+			[61698] = {
 				["classes"] = 2560,
-				["sourceType"] = 6,
+				["sourceType"] = 1,
 				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "纳兹戈林将军",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["instance"] = "决战奥格瑞玛",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
 			},
 		},
 		[8897] = {
@@ -20477,10 +20468,10 @@ MogIt_OneHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 			},
@@ -20496,10 +20487,10 @@ MogIt_OneHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 			},
@@ -20521,9 +20512,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -20540,9 +20531,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "阿塔哈卡神庙",
 						["difficulties"] = {
 						},
-						["instance"] = "阿塔哈卡神庙",
 					}, -- [1]
 				},
 			},
@@ -20579,9 +20570,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "祖尔法拉克",
 						["difficulties"] = {
 						},
-						["instance"] = "祖尔法拉克",
 					}, -- [1]
 				},
 			},
@@ -20598,9 +20589,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "诺莫瑞根",
 						["difficulties"] = {
 						},
-						["instance"] = "诺莫瑞根",
 					}, -- [1]
 				},
 			},
@@ -20631,10 +20622,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "祖尔格拉布",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "祖尔格拉布",
 					}, -- [1]
 				},
 			},
@@ -20658,10 +20649,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "地狱火城墙",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火城墙",
 					}, -- [1]
 				},
 			},
@@ -20699,10 +20690,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 			},
@@ -20717,10 +20708,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 			},
@@ -20802,10 +20793,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "奥金尼地穴",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "奥金尼地穴",
 					}, -- [1]
 				},
 			},
@@ -20834,10 +20825,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -20854,10 +20845,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -20900,10 +20891,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -20968,11 +20959,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "恐惧之心",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
 			},
@@ -20989,9 +20980,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "安其拉神殿",
 						["difficulties"] = {
 						},
-						["instance"] = "安其拉神殿",
 					}, -- [1]
 				},
 			},
@@ -21034,10 +21025,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -21045,10 +21036,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
 			},
@@ -21065,9 +21056,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "卡拉赞",
 						["difficulties"] = {
 						},
-						["instance"] = "卡拉赞",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -21075,9 +21066,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "卡拉赞",
 						["difficulties"] = {
 						},
-						["instance"] = "卡拉赞",
 					}, -- [2]
 				},
 			},
@@ -21094,11 +21085,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "雷电王座",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 			},
@@ -21119,10 +21110,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -21146,9 +21137,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "卡拉赞",
 						["difficulties"] = {
 						},
-						["instance"] = "卡拉赞",
 					}, -- [1]
 				},
 			},
@@ -21218,10 +21209,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "永春台",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "永春台",
 					}, -- [1]
 				},
 			},
@@ -21255,9 +21246,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "格鲁尔的巢穴",
 						["difficulties"] = {
 						},
-						["instance"] = "格鲁尔的巢穴",
 					}, -- [1]
 				},
 			},
@@ -21274,10 +21265,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "奥金顿",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "奥金顿",
 					}, -- [1]
 				},
 			},
@@ -21292,9 +21283,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "奥金顿",
 						["difficulties"] = {
 						},
-						["instance"] = "奥金顿",
 					}, -- [1]
 				},
 			},
@@ -21325,10 +21316,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "起源大厅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "起源大厅",
 					}, -- [1]
 				},
 			},
@@ -21343,10 +21334,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "起源大厅",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "起源大厅",
 					}, -- [1]
 				},
 			},
@@ -21363,10 +21354,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -21381,10 +21372,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -21423,9 +21414,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑暗深渊",
 						["difficulties"] = {
 						},
-						["instance"] = "黑暗深渊",
 					}, -- [1]
 				},
 			},
@@ -21452,10 +21443,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "黑暗神殿",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑暗神殿",
 					}, -- [1]
 				},
 			},
@@ -21472,10 +21463,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -21490,10 +21481,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -21517,10 +21508,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "托维尔失落之城",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "托维尔失落之城",
 					}, -- [1]
 				},
 			},
@@ -21535,10 +21526,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "托维尔失落之城",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "托维尔失落之城",
 					}, -- [1]
 				},
 			},
@@ -21555,9 +21546,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -21574,10 +21565,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -21613,10 +21604,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 				},
 			},
@@ -21635,16 +21626,35 @@ MogIt_OneHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[17754] = {
-			[41172] = {
+		[6243] = {
+			[18802] = {
 				["classes"] = 2560,
-				["sourceType"] = 2,
+				["sourceType"] = 1,
 				["faction"] = 3,
-			},
-			[41581] = {
-				["classes"] = 2560,
-				["sourceType"] = 4,
-				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "收割者戈提克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+					}, -- [2]
+				},
 			},
 		},
 		[8670] = {
@@ -21666,10 +21676,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "永春台",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "永春台",
 					}, -- [1]
 				},
 			},
@@ -21686,10 +21696,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "乌特加德城堡",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "乌特加德城堡",
 					}, -- [1]
 				},
 			},
@@ -21713,10 +21723,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "净化斯坦索姆",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "净化斯坦索姆",
 					}, -- [1]
 				},
 			},
@@ -21759,9 +21769,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑石深渊",
 						["difficulties"] = {
 						},
-						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
 			},
@@ -21778,10 +21788,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -21803,9 +21813,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "怒焰裂谷",
 						["difficulties"] = {
 						},
-						["instance"] = "怒焰裂谷",
 					}, -- [1]
 				},
 			},
@@ -21876,10 +21886,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -21917,11 +21927,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 				},
 			},
@@ -21970,10 +21980,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "魔环",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "魔环",
 					}, -- [1]
 				},
 			},
@@ -21990,11 +22000,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 				},
 			},
@@ -22011,11 +22021,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -22023,11 +22033,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [2]
 					{
 						["instanceType"] = 2,
@@ -22035,11 +22045,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [3]
 					{
 						["instanceType"] = 2,
@@ -22047,11 +22057,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [4]
 					{
 						["instanceType"] = 2,
@@ -22059,11 +22069,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [5]
 					{
 						["instanceType"] = 2,
@@ -22071,11 +22081,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [6]
 					{
 						["instanceType"] = 2,
@@ -22083,11 +22093,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [7]
 				},
 			},
@@ -22116,11 +22126,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 			},
@@ -22163,10 +22173,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 			},
@@ -22190,10 +22200,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "萨隆矿坑",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "萨隆矿坑",
 					}, -- [1]
 				},
 			},
@@ -22229,10 +22239,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -22249,10 +22259,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "映像大厅",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "映像大厅",
 					}, -- [1]
 				},
 			},
@@ -22269,11 +22279,11 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 				},
 			},
@@ -22290,10 +22300,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "奥金顿",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "奥金顿",
 					}, -- [1]
 				},
 			},
@@ -22349,10 +22359,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨石之核",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "巨石之核",
 					}, -- [1]
 				},
 			},
@@ -22367,10 +22377,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨石之核",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "巨石之核",
 					}, -- [1]
 				},
 			},
@@ -22442,9 +22452,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 			},
@@ -22468,9 +22478,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "能源舰",
 						["difficulties"] = {
 						},
-						["instance"] = "能源舰",
 					}, -- [1]
 				},
 			},
@@ -22499,10 +22509,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -22517,10 +22527,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 			},
@@ -22542,9 +22552,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [1]
 				},
 			},
@@ -22568,9 +22578,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -22587,10 +22597,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -22619,9 +22629,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 			},
@@ -22645,9 +22655,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [1]
 				},
 			},
@@ -22731,10 +22741,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "奴隶围栏",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "奴隶围栏",
 					}, -- [1]
 				},
 			},
@@ -22758,10 +22768,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -22790,10 +22800,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "法力陵墓",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "法力陵墓",
 					}, -- [1]
 				},
 			},
@@ -22810,10 +22820,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "祖尔格拉布",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "祖尔格拉布",
 					}, -- [1]
 				},
 			},
@@ -22830,10 +22840,10 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 			},
@@ -22891,9 +22901,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 			},
@@ -22910,9 +22920,9 @@ MogIt_OneHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "厄运之槌",
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
 					}, -- [1]
 				},
 			},
@@ -24434,25 +24444,15 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[21822] = {
-			[58951] = {
+		[6238] = {
+			[9356] = {
 				["classes"] = 3072,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-			[65340] = {
-				["classes"] = 3072,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[78403] = {
-				["classes"] = 3072,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 1,
 			},
 		},
-		[10927] = {
-			[20487] = {
+		[25399] = {
+			[70562] = {
 				["classes"] = 3072,
 				["sourceType"] = 3,
 				["faction"] = 1,
@@ -27107,23 +27107,42 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[21888] = {
-			[72511] = {
+		[689] = {
+			[9258] = {
+				["classes"] = 3072,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+			[1948] = {
+				["classes"] = 3072,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+			[28110] = {
+				["classes"] = 3072,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[10960] = {
+			[20527] = {
+				["classes"] = 3072,
+				["sourceType"] = 6,
+				["faction"] = 1,
+			},
+		},
+		[21880] = {
+			[63755] = {
+				["classes"] = 3072,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+			[65425] = {
 				["classes"] = 3072,
 				["sourceType"] = 4,
 				["faction"] = 1,
 			},
-			[65392] = {
-				["classes"] = 3072,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[62349] = {
-				["classes"] = 3072,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[60399] = {
+			[65459] = {
 				["classes"] = 3072,
 				["sourceType"] = 4,
 				["faction"] = 1,
@@ -27147,30 +27166,6 @@ MogIt_OneHandedDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-			},
-		},
-		[21880] = {
-			[63755] = {
-				["classes"] = 3072,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-			[65425] = {
-				["classes"] = 3072,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[65459] = {
-				["classes"] = 3072,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[10960] = {
-			[20527] = {
-				["classes"] = 3072,
-				["sourceType"] = 6,
-				["faction"] = 1,
 			},
 		},
 		[9958] = {
@@ -27203,6 +27198,10 @@ MogIt_OneHandedDB = {
 						["instance"] = "奴隶围栏",
 					}, -- [1]
 				},
+			},
+			[72413] = {
+				["classes"] = 3072,
+				["faction"] = 1,
 			},
 		},
 		[2753] = {
@@ -27897,24 +27896,15 @@ MogIt_OneHandedDB = {
 				},
 			},
 		},
-		[12242] = {
-			[24468] = {
+		[2302] = {
+			[2743] = {
 				["classes"] = 3072,
-				["sourceType"] = 1,
 				["faction"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "亡语者女士",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
+			},
+			[10638] = {
+				["classes"] = 3072,
+				["sourceType"] = 2,
+				["faction"] = 1,
 			},
 		},
 		[2807] = {
@@ -28103,10 +28093,25 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[9687] = {
-			[17477] = {
+		[8173] = {
+			[45573] = {
 				["classes"] = 3072,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[21042] = {
+				["classes"] = 3072,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[14320] = {
+				["classes"] = 3072,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[34752] = {
+				["classes"] = 3072,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -28257,15 +28262,24 @@ MogIt_OneHandedDB = {
 				},
 			},
 		},
-		[2302] = {
-			[2743] = {
+		[12242] = {
+			[24468] = {
 				["classes"] = 3072,
+				["sourceType"] = 1,
 				["faction"] = 1,
-			},
-			[10638] = {
-				["classes"] = 3072,
-				["sourceType"] = 2,
-				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "亡语者女士",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
 			},
 		},
 		[10749] = {
@@ -28275,23 +28289,11 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[3846] = {
-			[4851] = {
+		[6662] = {
+			[10299] = {
 				["classes"] = 3072,
-				["sourceType"] = 1,
+				["sourceType"] = 4,
 				["faction"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "奥里克斯·瑞文戴尔领主",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "斯坦索姆",
-					}, -- [1]
-				},
 			},
 		},
 		[1921] = {
@@ -28379,37 +28381,20 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[708] = {
-			[7633] = {
-				["classes"] = 3072,
-				["sourceType"] = 6,
-				["faction"] = 1,
-			},
-			[10105] = {
+		[17897] = {
+			[41638] = {
 				["classes"] = 3072,
 				["sourceType"] = 4,
 				["faction"] = 1,
 			},
-			[7203] = {
-				["classes"] = 3072,
-				["sourceType"] = 1,
-				["faction"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "维利塔恩",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "玛拉顿",
-					}, -- [1]
-				},
-			},
-			[636] = {
+			[41691] = {
 				["classes"] = 3072,
 				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[46774] = {
+				["classes"] = 3072,
+				["sourceType"] = 2,
 				["faction"] = 1,
 			},
 		},
@@ -30041,20 +30026,37 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[17897] = {
-			[41638] = {
+		[708] = {
+			[7633] = {
+				["classes"] = 3072,
+				["sourceType"] = 6,
+				["faction"] = 1,
+			},
+			[10105] = {
 				["classes"] = 3072,
 				["sourceType"] = 4,
 				["faction"] = 1,
 			},
-			[41691] = {
+			[7203] = {
+				["classes"] = 3072,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "维利塔恩",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "玛拉顿",
+					}, -- [1]
+				},
+			},
+			[636] = {
 				["classes"] = 3072,
 				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[46774] = {
-				["classes"] = 3072,
-				["sourceType"] = 2,
 				["faction"] = 1,
 			},
 		},
@@ -30098,11 +30100,23 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[6662] = {
-			[10299] = {
+		[3846] = {
+			[4851] = {
 				["classes"] = 3072,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
 				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "奥里克斯·瑞文戴尔领主",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "斯坦索姆",
+					}, -- [1]
+				},
 			},
 		},
 		[1461] = {
@@ -30137,25 +30151,10 @@ MogIt_OneHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[8173] = {
-			[45573] = {
+		[9687] = {
+			[17477] = {
 				["classes"] = 3072,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[21042] = {
-				["classes"] = 3072,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[14320] = {
-				["classes"] = 3072,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[34752] = {
-				["classes"] = 3072,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 1,
 			},
 		},
@@ -30615,20 +30614,25 @@ MogIt_OneHandedDB = {
 				},
 			},
 		},
-		[689] = {
-			[9258] = {
+		[21888] = {
+			[72511] = {
 				["classes"] = 3072,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
-			[1948] = {
+			[65392] = {
 				["classes"] = 3072,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
-			[28110] = {
+			[62349] = {
 				["classes"] = 3072,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[60399] = {
+				["classes"] = 3072,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -31758,17 +31762,27 @@ MogIt_OneHandedDB = {
 				},
 			},
 		},
-		[25399] = {
-			[70562] = {
+		[10927] = {
+			[20487] = {
 				["classes"] = 3072,
 				["sourceType"] = 3,
 				["faction"] = 1,
 			},
 		},
-		[6238] = {
-			[9356] = {
+		[21822] = {
+			[58951] = {
 				["classes"] = 3072,
-				["sourceType"] = 6,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+			[65340] = {
+				["classes"] = 3072,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[78403] = {
+				["classes"] = 3072,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},

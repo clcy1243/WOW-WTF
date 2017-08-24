@@ -40,12 +40,14 @@ MasterPlanAG = {
 			["class"] = "SHAMAN",
 		},
 	},
+	["IgnoreRewards"] = {
+	},
 	["主宰之剑"] = {
 		["龙轻雪"] = {
-			["lastCacheTime"] = 1483728307,
+			["faction"] = "Alliance",
 			["class"] = "DRUID",
 			["curRes"] = 1813,
-			["faction"] = "Alliance",
+			["lastCacheTime"] = 1483728307,
 		},
 		["龙听雨"] = {
 			["class"] = "MONK",

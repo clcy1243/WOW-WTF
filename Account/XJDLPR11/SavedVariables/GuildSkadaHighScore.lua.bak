@@ -1,0 +1,15 @@
+
+GuildSkadaHighScoreDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["落天一箭 - 瓦拉斯塔兹"] = "Default",
+	},
+	["realm"] = {
+		["瓦拉斯塔兹"] = {
+			["dbVersion"] = 11,
+		},
+	},
+}

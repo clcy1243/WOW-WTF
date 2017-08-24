@@ -2,6 +2,8 @@
 TinyRosterDB = {
 	["TradeSkillFrame.SearchBox"] = {
 		["depands"] = "Blizzard_TradeSkillUI",
+		["list"] = {
+		},
 	},
 	["MountJournalSearchBox"] = {
 		["depands"] = "Blizzard_Collections",
@@ -17,10 +19,14 @@ TinyRosterDB = {
 	},
 	["BrowseName"] = {
 		["depands"] = "Blizzard_AuctionUI",
+		["list"] = {
+			"宠物", -- [1]
+		},
 	},
 	["ToyBox.searchBox"] = {
 		["depands"] = "Blizzard_Collections",
 		["list"] = {
+			"沙袋", -- [1]
 		},
 	},
 	["PetJournalSearchBox"] = {

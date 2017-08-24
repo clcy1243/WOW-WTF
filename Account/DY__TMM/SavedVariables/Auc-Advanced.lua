@@ -14,19 +14,19 @@ AucAdvancedConfig = {
 				["altchatlink_leftclick"] = true,
 			},
 		},
-		["stat"] = {
-			["sales"] = {
-				["upgraded32"] = true,
-				["ignoredsigs"] = {
-				},
-			},
-		},
 		["util"] = {
 			["automagic"] = {
 				["ammailguix"] = 160,
-				["uierrormsg"] = 1,
 				["SavedMailButtons"] = {
 				},
+				["uierrormsg"] = 1,
+			},
+		},
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+				["upgraded32"] = true,
 			},
 		},
 		["configator.top"] = 764.999938964844,
@@ -59,10 +59,10 @@ AucAdvancedServers = {
 		["瓦拉斯塔兹"] = "#瓦拉斯塔兹",
 		["太阳之井"] = "#太阳之井",
 	},
-	["Timestamp"] = 1473171598,
 	["KnownServerKeys"] = {
-		["#太阳之井"] = 1475298072,
-		["#瓦拉斯塔兹"] = 1482148911,
+		["#太阳之井"] = 1500118455,
+		["#瓦拉斯塔兹"] = 1502016118,
 		["#摩摩尔"] = 1481119647,
 	},
+	["Timestamp"] = 1473171598,
 }

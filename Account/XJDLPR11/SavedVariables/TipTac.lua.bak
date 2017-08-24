@@ -1,5 +1,17 @@
 
 TipTac_Config = {
-	["top"] = 524,
-	["left"] = 853.222229003906,
+	["classification_rare"] = "%s|r (Rare) ",
+	["classification_rareelite"] = "+%s|r (Rare) ",
+	["classification_elite"] = "+%s ",
+	["targetYouText"] = "<<YOU>>",
+	["optionsBottom"] = 351,
+	["classification_normal"] = "%s ",
+	["top"] = 125.750091552734,
+	["optionsLeft"] = 748.000061035156,
+	["classification_trivial"] = "~%s ",
+	["if_showSpellIdAndRank"] = true,
+	["classification_minus"] = "-%s ",
+	["classification_worldboss"] = "%s|r (Boss) ",
+	["anchorWorldUnitType"] = "mouse",
+	["left"] = 1690.97229003906,
 }

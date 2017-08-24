@@ -1,6 +1,6 @@
 
 BPBID_Options = {
-	["ManualChange"] = "r148",
+	["ManualChange"] = "r150",
 	["Tooltips"] = {
 		["Enabled"] = true,
 		["FBPT"] = true,

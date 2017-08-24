@@ -20,7 +20,7 @@ SkadaDB = {
 			},
 			["windows"] = {
 				{
-					["y"] = 156.556701660156,
+					["y"] = 156.557342529297,
 					["x"] = 0,
 					["point"] = "LEFT",
 					["mode"] = "Stagger",
@@ -38,6 +38,9 @@ SkadaDB = {
 				["minimapPos"] = 309.185092979611,
 				["hide"] = true,
 			},
+			["report"] = {
+				["mode"] = "Stagger",
+			},
 			["versions"] = {
 				["1.6.7"] = true,
 				["1.6.3"] = true,
@@ -46,7 +49,7 @@ SkadaDB = {
 			["modeclicks"] = {
 				["需要治疗"] = 1,
 				["死亡"] = 1,
-				["Stagger"] = 20,
+				["Stagger"] = 21,
 				["受到伤害"] = 2,
 				["治疗"] = 6,
 				["DPS"] = 3,

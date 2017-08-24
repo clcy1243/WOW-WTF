@@ -279,9 +279,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -598,10 +598,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1028,10 +1028,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1046,10 +1046,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2349,9 +2349,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -3687,9 +3687,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -3764,10 +3764,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -4730,10 +4730,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -5717,10 +5717,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -5822,9 +5822,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -6736,9 +6736,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -6767,9 +6767,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7045,10 +7045,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7094,10 +7094,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7112,10 +7112,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7130,10 +7130,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7257,9 +7257,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7713,9 +7713,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7979,9 +7979,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -8402,10 +8402,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -9845,23 +9845,9 @@ MogIt_LeatherDB = {
 					}, -- [1]
 				},
 			},
-			[17574] = {
-				["classes"] = 3584,
-				["sourceType"] = 1,
-				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "残忍的斯卡迪",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "乌特加德之巅",
-					}, -- [1]
-				},
+			[72591] = {
+				["classes"] = 3072,
+				["faction"] = 1,
 			},
 			[72700] = {
 				["classes"] = 3584,
@@ -9882,6 +9868,24 @@ MogIt_LeatherDB = {
 							"英雄", -- [1]
 						},
 						["instance"] = "魔枢",
+					}, -- [1]
+				},
+			},
+			[17574] = {
+				["classes"] = 3584,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "残忍的斯卡迪",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "乌特加德之巅",
 					}, -- [1]
 				},
 			},
@@ -11058,10 +11062,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -11303,6 +11307,10 @@ MogIt_LeatherDB = {
 						["instance"] = "法力陵墓",
 					}, -- [1]
 				},
+			},
+			[72452] = {
+				["classes"] = 3072,
+				["faction"] = 1,
 			},
 		},
 		[5950] = {
@@ -11592,9 +11600,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -16433,9 +16441,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -17758,9 +17766,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -19703,6 +19711,10 @@ MogIt_LeatherDB = {
 					}, -- [1]
 				},
 			},
+			[72390] = {
+				["classes"] = 3072,
+				["faction"] = 1,
+			},
 		},
 		[28084] = {
 			[80875] = {
@@ -20711,9 +20723,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -21556,9 +21568,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -21573,9 +21585,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -22653,9 +22665,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -22861,10 +22873,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -22879,10 +22891,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -22897,10 +22909,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -22951,9 +22963,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23144,10 +23156,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23185,10 +23197,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23226,10 +23238,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23249,10 +23261,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23267,10 +23279,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23285,10 +23297,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23380,9 +23392,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23767,10 +23779,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23785,10 +23797,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23808,10 +23820,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -24100,10 +24112,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -26730,10 +26742,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -26750,10 +26762,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -26768,10 +26780,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -26786,10 +26798,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -27968,9 +27980,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -27985,9 +27997,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28007,9 +28019,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28276,9 +28288,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28414,10 +28426,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28516,9 +28528,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28552,9 +28564,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28588,9 +28600,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28684,10 +28696,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28939,10 +28951,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -29271,6 +29283,24 @@ MogIt_LeatherDB = {
 			},
 		},
 		[9224] = {
+			[17775] = {
+				["classes"] = 3584,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "残忍的斯卡迪",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "乌特加德之巅",
+					}, -- [1]
+				},
+			},
 			[16516] = {
 				["classes"] = 3584,
 				["sourceType"] = 1,
@@ -29289,23 +29319,9 @@ MogIt_LeatherDB = {
 					}, -- [1]
 				},
 			},
-			[17775] = {
-				["classes"] = 3584,
-				["sourceType"] = 1,
-				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "残忍的斯卡迪",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "乌特加德之巅",
-					}, -- [1]
-				},
+			[72611] = {
+				["classes"] = 3072,
+				["faction"] = 1,
 			},
 		},
 		[15836] = {
@@ -29338,13 +29354,13 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 							"10人（英雄）", -- [3]
 							"25人（英雄）", -- [4]
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -29359,13 +29375,13 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 							"10人（英雄）", -- [3]
 							"25人（英雄）", -- [4]
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -29380,13 +29396,13 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 							"10人（英雄）", -- [3]
 							"25人（英雄）", -- [4]
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -30764,9 +30780,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -31461,10 +31477,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -31479,10 +31495,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -31497,10 +31513,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -32646,9 +32662,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -32668,9 +32684,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -32685,9 +32701,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -32851,10 +32867,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -33861,9 +33877,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -34025,9 +34041,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -34315,9 +34331,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -34383,10 +34399,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -35235,10 +35251,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -35246,10 +35262,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [2]
 				},
 				["faction"] = 1,
@@ -35426,9 +35442,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -35485,10 +35501,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -38094,10 +38110,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
-						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
+						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 			},
@@ -38684,9 +38700,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -38803,9 +38819,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -38973,10 +38989,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -38991,10 +39007,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -39009,10 +39025,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -39027,10 +39043,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -39045,10 +39061,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -39063,10 +39079,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥妮克希亚的巢穴",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -39382,11 +39398,23 @@ MogIt_LeatherDB = {
 				["faction"] = 3,
 			},
 		},
-		[8131] = {
-			[14200] = {
+		[33685] = {
+			[86690] = {
 				["classes"] = 3584,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
 				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "月之姐妹",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "萨格拉斯之墓",
+					}, -- [1]
+				},
 			},
 		},
 		[7095] = {
@@ -39456,17 +39484,13 @@ MogIt_LeatherDB = {
 				},
 			},
 		},
-		[7620] = {
-			[13174] = {
-				["classes"] = 3584,
-				["sourceType"] = 6,
-				["faction"] = 3,
-			},
-			[14761] = {
-				["classes"] = 3584,
+		[11647] = {
+			{
+				["classes"] = 8,
 				["sourceType"] = 3,
-				["faction"] = 3,
-			},
+				["sourceID"] = 22249,
+				["faction"] = 2,
+			}, -- [1]
 		},
 		[23741] = {
 			[60303] = {
@@ -39482,13 +39506,17 @@ MogIt_LeatherDB = {
 				["faction"] = 3,
 			},
 		},
-		[11647] = {
-			{
-				["classes"] = 8,
+		[7620] = {
+			[13174] = {
+				["classes"] = 3584,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[14761] = {
+				["classes"] = 3584,
 				["sourceType"] = 3,
-				["sourceID"] = 22249,
-				["faction"] = 2,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[33669] = {
 			[86688] = {
@@ -39509,23 +39537,11 @@ MogIt_LeatherDB = {
 				},
 			},
 		},
-		[33685] = {
-			[86690] = {
+		[8131] = {
+			[14200] = {
 				["classes"] = 3584,
-				["sourceType"] = 1,
+				["sourceType"] = 4,
 				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "月之姐妹",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "萨格拉斯之墓",
-					}, -- [1]
-				},
 			},
 		},
 		[22767] = {
@@ -40271,10 +40287,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -40282,10 +40298,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [2]
 				},
 				["faction"] = 1,
@@ -41623,10 +41639,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -41661,10 +41677,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -43782,9 +43798,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -43897,10 +43913,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -44085,9 +44101,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -44203,10 +44219,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -44740,9 +44756,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -44750,10 +44766,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [2]
 				},
 				["faction"] = 1,
@@ -44896,10 +44912,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -44907,10 +44923,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [2]
 				},
 				["faction"] = 1,
@@ -45388,10 +45404,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -46637,13 +46653,13 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 							"10人（英雄）", -- [3]
 							"25人（英雄）", -- [4]
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -46682,13 +46698,13 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 							"10人（英雄）", -- [3]
 							"25人（英雄）", -- [4]
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -46703,13 +46719,13 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 							"10人（英雄）", -- [3]
 							"25人（英雄）", -- [4]
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -46743,9 +46759,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -46826,9 +46842,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -47357,10 +47373,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -47375,10 +47391,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -47393,10 +47409,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -47566,10 +47582,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -48718,9 +48734,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -48833,10 +48849,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -49025,9 +49041,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -49148,10 +49164,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -49166,10 +49182,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -49184,10 +49200,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -49234,10 +49250,10 @@ MogIt_LeatherDB = {
 				["faction"] = 3,
 			},
 		},
-		[10006] = {
-			[18399] = {
+		[4500] = {
+			[6192] = {
 				["classes"] = 3584,
-				["sourceType"] = 6,
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -49915,43 +49931,13 @@ MogIt_LeatherDB = {
 				["faction"] = 1,
 			},
 		},
-		[26112] = {
-			[69738] = {
-				["classes"] = 3584,
-				["sourceType"] = 1,
-				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "阿克蒙德",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-			},
-			[69744] = {
-				["classes"] = 512,
-				["sourceType"] = 1,
+		[16403] = {
+			{
+				["classes"] = 8,
+				["sourceType"] = 3,
+				["sourceID"] = 37722,
 				["faction"] = 2,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "永恒者索克雷萨",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-					}, -- [1]
-				},
-			},
+			}, -- [1]
 		},
 		[3278] = {
 			[3965] = {
@@ -50077,9 +50063,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -50087,9 +50073,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [2]
 					{
 						["instanceType"] = 2,
@@ -50097,9 +50083,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [3]
 				},
 				["faction"] = 1,
@@ -50774,10 +50760,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -50792,10 +50778,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -50810,10 +50796,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -51308,10 +51294,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -51481,10 +51467,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52046,10 +52032,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52064,10 +52050,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52082,10 +52068,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52178,9 +52164,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52195,9 +52181,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52217,9 +52203,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巴拉丁监狱",
 						["difficulties"] = {
 						},
-						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52272,9 +52258,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52294,9 +52280,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52316,9 +52302,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -52421,30 +52407,10 @@ MogIt_LeatherDB = {
 				["faction"] = 1,
 			},
 		},
-		[13001] = {
-			[31278] = {
+		[593] = {
+			[506] = {
 				["classes"] = 3584,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[31741] = {
-				["classes"] = 3584,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[31736] = {
-				["classes"] = 3584,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[31275] = {
-				["classes"] = 3584,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[28565] = {
-				["classes"] = 3584,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -52566,40 +52532,21 @@ MogIt_LeatherDB = {
 				["faction"] = 1,
 			},
 		},
-		[11468] = {
-			[21920] = {
+		[5742] = {
+			[8462] = {
 				["classes"] = 3584,
 				["sourceType"] = 1,
 				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "霍迪尔",
+						["encounter"] = "无疤者奥斯里安",
 						["tiers"] = {
-							"巫妖王之怒", -- [1]
+							"经典旧世", -- [1]
 						},
 						["difficulties"] = {
-							"25人", -- [1]
 						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-			},
-			[21953] = {
-				["classes"] = 3584,
-				["sourceType"] = 1,
-				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "维扎克斯将军",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "奥杜尔",
+						["instance"] = "安其拉废墟",
 					}, -- [1]
 				},
 			},
@@ -54179,9 +54126,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -54216,9 +54163,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -54238,9 +54185,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -54367,10 +54314,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -54824,21 +54771,40 @@ MogIt_LeatherDB = {
 				},
 			},
 		},
-		[5742] = {
-			[8462] = {
+		[11468] = {
+			[21920] = {
 				["classes"] = 3584,
 				["sourceType"] = 1,
 				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "无疤者奥斯里安",
+						["encounter"] = "霍迪尔",
 						["tiers"] = {
-							"经典旧世", -- [1]
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
+							"25人", -- [1]
 						},
-						["instance"] = "安其拉废墟",
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+			},
+			[21953] = {
+				["classes"] = 3584,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "维扎克斯将军",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 			},
@@ -54870,10 +54836,30 @@ MogIt_LeatherDB = {
 				},
 			},
 		},
-		[593] = {
-			[506] = {
+		[13001] = {
+			[31278] = {
 				["classes"] = 3584,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[31741] = {
+				["classes"] = 3584,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[31736] = {
+				["classes"] = 3584,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[31275] = {
+				["classes"] = 3584,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[28565] = {
+				["classes"] = 3584,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -55288,9 +55274,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -55741,13 +55727,43 @@ MogIt_LeatherDB = {
 				["faction"] = 2,
 			},
 		},
-		[16403] = {
-			{
-				["classes"] = 8,
-				["sourceType"] = 3,
-				["sourceID"] = 37722,
+		[26112] = {
+			[69738] = {
+				["classes"] = 3584,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿克蒙德",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+			[69744] = {
+				["classes"] = 512,
+				["sourceType"] = 1,
 				["faction"] = 2,
-			}, -- [1]
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "永恒者索克雷萨",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+					}, -- [1]
+				},
+			},
 		},
 		[10746] = {
 			{
@@ -55852,10 +55868,10 @@ MogIt_LeatherDB = {
 				["faction"] = 3,
 			},
 		},
-		[4500] = {
-			[6192] = {
+		[10006] = {
+			[18399] = {
 				["classes"] = 3584,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 3,
 			},
 		},
@@ -55986,9 +56002,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -56064,9 +56080,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -56150,9 +56166,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -56391,9 +56407,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -57001,10 +57017,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -57019,10 +57035,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -57037,10 +57053,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -57055,10 +57071,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -57078,10 +57094,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -57101,10 +57117,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "阿尔卡冯的宝库",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -57518,9 +57534,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -60624,9 +60640,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -60646,9 +60662,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -62092,9 +62108,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -65212,9 +65228,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -67251,10 +67267,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -67339,9 +67355,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -67896,9 +67912,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -67969,10 +67985,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -68617,9 +68633,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -68958,10 +68974,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -69406,10 +69422,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -70263,9 +70279,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -70395,9 +70411,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -70790,9 +70806,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -70944,6 +70960,10 @@ MogIt_LeatherDB = {
 				["sourceType"] = 3,
 				["faction"] = 1,
 			},
+			[89036] = {
+				["classes"] = 1024,
+				["faction"] = 1,
+			},
 		},
 		[11060] = {
 			[20898] = {
@@ -71061,10 +71081,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -71961,9 +71981,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -72031,9 +72051,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -72176,9 +72196,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -73023,10 +73043,10 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -75743,9 +75763,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -77396,9 +77416,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -78312,10 +78332,15 @@ MogIt_LeatherDB = {
 			},
 		},
 		[9865] = {
-			[20706] = {
+			[20981] = {
 				["classes"] = 3584,
-				["sourceType"] = 2,
+				["sourceType"] = 6,
 				["faction"] = 3,
+			},
+			[21679] = {
+				["classes"] = 3072,
+				["sourceType"] = 3,
+				["faction"] = 1,
 			},
 			[18053] = {
 				["classes"] = 3584,
@@ -78334,11 +78359,6 @@ MogIt_LeatherDB = {
 						["instance"] = "闪电大厅",
 					}, -- [1]
 				},
-			},
-			[20981] = {
-				["classes"] = 3584,
-				["sourceType"] = 6,
-				["faction"] = 3,
 			},
 			[17934] = {
 				["classes"] = 3584,
@@ -78363,6 +78383,11 @@ MogIt_LeatherDB = {
 				["sourceType"] = 3,
 				["faction"] = 2,
 			},
+			[20706] = {
+				["classes"] = 3584,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 			[21299] = {
 				["classes"] = 3584,
 				["sourceType"] = 2,
@@ -78386,9 +78411,8 @@ MogIt_LeatherDB = {
 					}, -- [1]
 				},
 			},
-			[21679] = {
+			[72626] = {
 				["classes"] = 3072,
-				["sourceType"] = 3,
 				["faction"] = 1,
 			},
 		},
@@ -78464,9 +78488,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -78481,9 +78505,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -82006,7 +82030,7 @@ MogIt_LeatherDB = {
 			},
 		},
 		[21601] = {
-			[57484] = {
+			[66498] = {
 				["classes"] = 3584,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -82021,7 +82045,7 @@ MogIt_LeatherDB = {
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
-			[60746] = {
+			[60879] = {
 				["classes"] = 3584,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -82031,12 +82055,12 @@ MogIt_LeatherDB = {
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
-			[60879] = {
+			[60746] = {
 				["classes"] = 3584,
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
-			[66498] = {
+			[57484] = {
 				["classes"] = 3584,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -82096,9 +82120,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -82677,9 +82701,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -84332,6 +84356,10 @@ MogIt_LeatherDB = {
 						["instance"] = "法力陵墓",
 					}, -- [1]
 				},
+			},
+			[72439] = {
+				["classes"] = 3072,
+				["faction"] = 1,
 			},
 		},
 		[2390] = {
@@ -86983,6 +87011,10 @@ MogIt_LeatherDB = {
 					}, -- [1]
 				},
 			},
+			[72399] = {
+				["classes"] = 3072,
+				["faction"] = 1,
+			},
 		},
 		[792] = {
 			[733] = {
@@ -87060,9 +87092,9 @@ MogIt_LeatherDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 				["faction"] = 1,

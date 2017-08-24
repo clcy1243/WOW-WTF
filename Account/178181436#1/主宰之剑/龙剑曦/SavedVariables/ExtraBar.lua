@@ -89,7 +89,7 @@ ExtraBarsSave = {
 					},
 				}, -- [2]
 			},
-			["Left"] = 1232.00024414063,
+			["Left"] = 1232.00036621094,
 			["ShowTooltips"] = true,
 			["NumberOfButtons"] = 12,
 			["FlyoutDirections"] = {
@@ -198,7 +198,7 @@ ExtraBarsSave = {
 					},
 				}, -- [2]
 			},
-			["Left"] = 1232.00024414063,
+			["Left"] = 1232.00036621094,
 			["ShowTooltips"] = true,
 			["NumberOfButtons"] = 12,
 			["FlyoutDirections"] = {
@@ -307,7 +307,7 @@ ExtraBarsSave = {
 					},
 				}, -- [2]
 			},
-			["Left"] = 1232.00024414063,
+			["Left"] = 1232.00036621094,
 			["ShowTooltips"] = true,
 			["NumberOfButtons"] = 12,
 			["FlyoutDirections"] = {
@@ -324,7 +324,7 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 298.000030517578,
+			["Top"] = 298.000061035156,
 			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
 			["Scale"] = 1,
@@ -416,7 +416,7 @@ ExtraBarsSave = {
 					},
 				}, -- [2]
 			},
-			["Left"] = 1232.00024414063,
+			["Left"] = 1232.00036621094,
 			["ShowTooltips"] = true,
 			["NumberOfButtons"] = 12,
 			["FlyoutDirections"] = {
@@ -433,7 +433,7 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 367.999969482422,
+			["Top"] = 368,
 			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
 			["Scale"] = 1,

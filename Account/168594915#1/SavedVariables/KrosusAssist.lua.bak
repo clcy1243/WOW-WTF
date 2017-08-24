@@ -5,9 +5,9 @@ KrosusAssistDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["font"] = "默认",
-			["height"] = 160.000015258789,
 			["fontSize"] = 18,
+			["height"] = 160.000015258789,
+			["font"] = "默认",
 			["width"] = 180.000045776367,
 		},
 	},

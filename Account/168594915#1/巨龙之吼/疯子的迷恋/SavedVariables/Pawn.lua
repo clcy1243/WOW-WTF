@@ -1,10 +1,28 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0204,
+	["LastVersion"] = 2.0209,
 	["LastPlayerFullName"] = "疯子的迷恋-巨龙之吼",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
+		[128306] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 67,
+					["Type"] = "Life",
+				}, -- [1]
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Frost",
+				}, -- [2]
+				{
+					["ItemLevel"] = 65,
+					["Type"] = "Life",
+				}, -- [3]
+			},
+			["Name"] = "加尼尔，母亲之树",
+		},
 		[128860] = {
 			["Relics"] = {
 				{
@@ -21,23 +39,6 @@ PawnOptions = {
 				}, -- [3]
 			},
 			["Name"] = "阿莎曼之牙",
-		},
-		[128821] = {
-			["Relics"] = {
-				{
-					["ItemLevel"] = 53,
-					["Type"] = "Fire",
-				}, -- [1]
-				{
-					["ItemLevel"] = 52,
-					["Type"] = "Blood",
-				}, -- [2]
-				{
-					["ItemLevel"] = 56,
-					["Type"] = "Life",
-				}, -- [3]
-			},
-			["Name"] = "乌索克之爪",
 		},
 		[128858] = {
 			["Relics"] = {
@@ -56,25 +57,24 @@ PawnOptions = {
 			},
 			["Name"] = "月神镰刀",
 		},
-		[128306] = {
+		[128821] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 58,
-					["Type"] = "Life",
+					["ItemLevel"] = 56,
+					["Type"] = "Fire",
 				}, -- [1]
 				{
-					["ItemLevel"] = 56,
-					["Type"] = "Frost",
+					["ItemLevel"] = 58,
+					["Type"] = "Blood",
 				}, -- [2]
 				{
-					["ItemLevel"] = 55,
+					["ItemLevel"] = 64,
 					["Type"] = "Life",
 				}, -- [3]
 			},
-			["Name"] = "加尼尔，母亲之树",
+			["Name"] = "乌索克之爪",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

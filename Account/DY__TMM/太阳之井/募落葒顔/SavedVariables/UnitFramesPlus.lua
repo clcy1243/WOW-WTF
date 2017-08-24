@@ -20,7 +20,7 @@ UnitFramesPlusVar = {
 	},
 	["target"] = {
 		["moving"] = 0,
-		["moved"] = 0,
+		["moved"] = 1,
 	},
 	["rangecheck"] = {
 		["enable"] = 1,
@@ -28,7 +28,7 @@ UnitFramesPlusVar = {
 	},
 	["player"] = {
 		["moving"] = 0,
-		["moved"] = 0,
+		["moved"] = 1,
 	},
 	["reset"] = 0,
 }

@@ -5,10 +5,17 @@ MogItDB = {
 		["落天一箭 - 瓦拉斯塔兹"] = "Default",
 	},
 	["global"] = {
-		["version"] = "3.7.1 beta",
+		["version"] = "3.8.1",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["previewProps"] = {
+				{
+					["y"] = 0,
+					["x"] = 0,
+					["h"] = 384.999938964844,
+				}, -- [1]
+			},
 			["x"] = 0,
 			["slotLabels"] = {
 				["Waist"] = "腰部",
@@ -35,14 +42,17 @@ MogItDB = {
 				["Shoulder"] = "肩部",
 				["Staff"] = "法杖",
 			},
+			["minimap"] = {
+				["minimapPos"] = 198.088612575645,
+				["hide"] = true,
+			},
 			["y"] = 0,
 		},
 	},
 }
-MogItItemDB = nil
 MogItWishlist = {
 	["global"] = {
-		["version"] = 70100,
+		["version"] = 70200,
 	},
 	["profileKeys"] = {
 		["露易十八岁 - 瓦拉斯塔兹"] = "露易十八岁 - 瓦拉斯塔兹",

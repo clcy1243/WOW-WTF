@@ -1,0 +1,2 @@
+
+MogIt_ClothDB = nil

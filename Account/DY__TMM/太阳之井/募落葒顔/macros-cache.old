@@ -1,0 +1,70 @@
+VER 3 010000000000002C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] 天堂之羽
+END
+VER 3 010000000000002A "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000002B "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]募落葒[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000002E "压制" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1]痛苦压制;[spec:2]守护之魂
+/cast [@target,help,nodead,spec:1]痛苦压制;[@target,help,nodead,spec:2]守护之魂
+END
+VER 3 0100000000000010 "快速" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 快速治疗
+END
+VER 3 0100000000000014 "恢复" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,spec:2][spec:2] 恢复;[@mouseover,help,nodead,spec:1][spec:1] 恳求
+END
+VER 3 0100000000000029 "惩击" "INV_MISC_QUESTIONMARK"
+#showtooltip 惩击
+/cast [@targettarget,harm][]惩击
+END
+VER 3 0100000000000026 "愈合" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 愈合祷言
+END
+VER 3 0100000000000011 "治疗" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 治疗术
+END
+VER 3 0100000000000013 "环" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] 治疗之环
+END
+VER 3 0100000000000019 "盾" "INV_MISC_QUESTIONMARK"
+#showtooltip 真言术：盾
+/cast  [@mouseover,help][@target,help][@targettarget,help][]真言术：盾
+END
+VER 3 0100000000000028 "神火" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,spec:2][@target,harm,spec:2][@targettarget,harm,spec:2][spec:2]神圣之火;[@mouseover,harm][@target,harm][@targettarget,harm][]暗言术：痛
+END
+VER 3 0100000000000012 "群" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,spec:1][spec:1]真言术：耀;[@mouseover,help,nodead,spec:2][spec:2]治疗祷言
+END
+VER 3 0100000000000018 "联结" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,talent:5/2][@target,help,talent:5/2]联结治疗;[@mouseover,help,nodead,talent:7/3][talent:7/3]治疗之环;[@mouseover,help,nodead][]治疗祷言
+END
+VER 3 010000000000001A "苦修" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@target,harm][@targettarget,harm][]苦修
+END
+VER 3 010000000000002F "触" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][@target,harm][@targettarget,harm][]吸血鬼之触
+END
+VER 3 010000000000002D "静" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]圣言术：静
+END
+VER 3 0100000000000016 "驱散" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead]驱散魔法;[@mouseover,help,nodead]纯净术;[@target,harm,nodead]驱散魔法;[]纯净术
+END

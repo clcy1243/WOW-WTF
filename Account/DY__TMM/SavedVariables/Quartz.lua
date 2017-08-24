@@ -12,7 +12,7 @@ Quartz3DB = {
 		["Pet"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 860,
+					["x"] = 875.238098144531,
 				},
 			},
 		},
@@ -21,7 +21,7 @@ Quartz3DB = {
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 835,
+					["x"] = 850.238098144531,
 				},
 			},
 		},
@@ -30,14 +30,14 @@ Quartz3DB = {
 		["Focus"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 860,
+					["x"] = 875.238098144531,
 				},
 			},
 		},
 		["Target"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 860,
+					["x"] = 875.238098144531,
 				},
 			},
 		},
@@ -49,13 +49,18 @@ Quartz3DB = {
 		},
 	},
 	["profileKeys"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = "Default",
+		["Etaasdfafa - 瓦拉斯塔兹"] = "Default",
 		["倾城丨小贼 - 摩摩尔"] = "Default",
+		["国王走下神探 - 瓦拉斯塔兹"] = "Default",
 		["妹子你坑我 - 太阳之井"] = "Default",
 		["募落葒顔 - 太阳之井"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["modules"] = {
+				["Mirror"] = false,
+				["Buff"] = false,
+			},
 		},
 	},
 }

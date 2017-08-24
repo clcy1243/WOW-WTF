@@ -15,10 +15,10 @@ VER 3 0100000000000006 "SBNevTank" "INV_MISC_QUESTIONMARK"
 /click SBNevTank
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-R2NM1NM1NM[x]1IH1DT2RM2WM2NM2NM3DH3DH3DH3SH3MR4HR4MR4HR4HR4HR5DM5EM5RM5NM5HR6LR[x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-N氵曼珠夏姬叭我后接[x]流影离缘起缘我嚓嘞欧阳岚Liu万骨枯曼头陀休闲熊南宫德不想选符豪牧色飞疯狂的Shr銀鈅逐风者二超女狂乱骑纳塔娅月夜十女猎夏天微[x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙剑曦[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]狼王[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙剑曦[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 010000000000000E "原地跳" "INV_MISC_QUESTIONMARK"
 #showtooltip

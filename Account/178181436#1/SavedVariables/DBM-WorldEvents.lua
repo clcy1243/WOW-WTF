@@ -1112,7 +1112,8 @@ DBMWorldEvents_AllSavedVars = {
 				["Voice235085"] = true,
 				["Voice238005"] = true,
 			}, -- [1]
-			[3] = {
+			nil, -- [2]
+			{
 				["SpecWarn238005dodgeSWNote"] = true,
 				["SpecWarn235085dodgeSWSound"] = 3,
 				["SpecWarn234660dodgeSWSound"] = 4,
@@ -1127,7 +1128,23 @@ DBMWorldEvents_AllSavedVars = {
 				["SpecWarn235085dodgeSWNote"] = true,
 				["SpecWarn234660dodge"] = true,
 				["Enabled"] = true,
-			},
+			}, -- [3]
+			{
+				["SpecWarn238005dodgeSWNote"] = true,
+				["SpecWarn235085dodgeSWSound"] = 3,
+				["SpecWarn234660dodgeSWSound"] = 4,
+				["HealthFrame"] = false,
+				["SpecWarn238005dodgeSWSound"] = 4,
+				["SpecWarn238005dodge"] = true,
+				["Enabled"] = true,
+				["SpecWarn234660dodge"] = true,
+				["SpecWarn235085dodge"] = true,
+				["SpecWarn234660dodgeSWNote"] = true,
+				["Voice234660"] = true,
+				["SpecWarn235085dodgeSWNote"] = true,
+				["Voice235085"] = true,
+				["Voice238005"] = true,
+			}, -- [4]
 		},
 		["Greench"] = {
 			{
@@ -1236,24 +1253,7 @@ DBMWorldEvents_AllSavedVars = {
 		},
 		["talent3"] = "守护",
 		["talent1"] = "平衡",
-		["Brew"] = {
-			{
-				["NormalizeVolume"] = true,
-				["Enabled"] = true,
-				["HealthFrame"] = false,
-			}, -- [1]
-			nil, -- [2]
-			{
-				["NormalizeVolume"] = true,
-				["HealthFrame"] = false,
-				["Enabled"] = true,
-			}, -- [3]
-			{
-				["NormalizeVolume"] = true,
-				["HealthFrame"] = false,
-				["Enabled"] = true,
-			}, -- [4]
-		},
+		["talent4"] = "恢复",
 		["d285"] = {
 			{
 				["warnHorsemanHead"] = true,
@@ -1338,7 +1338,24 @@ DBMWorldEvents_AllSavedVars = {
 				["SpecWarn26540moveSWSound"] = 1,
 			}, -- [4]
 		},
-		["talent4"] = "恢复",
+		["Brew"] = {
+			{
+				["NormalizeVolume"] = true,
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["NormalizeVolume"] = true,
+				["HealthFrame"] = false,
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["NormalizeVolume"] = true,
+				["HealthFrame"] = false,
+				["Enabled"] = true,
+			}, -- [4]
+		},
 	},
 	["龙剑曦-主宰之剑"] = {
 		["d288"] = {

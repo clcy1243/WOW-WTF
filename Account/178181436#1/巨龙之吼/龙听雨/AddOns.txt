@@ -228,3 +228,9 @@ HandyNotes_TreasureHunter: disabled
 HandyNotes_WitheredChests: disabled
 HandyNotes_WorldMapButton: disabled
 GS-Core: enabled
+DBM-Archaeology: enabled
+DBM-TombofSargeras: enabled
+DBM-VPYike: enabled
+DBM: enabled
+TrufiGCD: disabled
+LibChatAnims: enabled

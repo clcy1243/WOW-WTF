@@ -1,0 +1,92 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["霸拿拿 - 巨龙之吼"] = "霸拿拿 - 巨龙之吼",
+	},
+	["profiles"] = {
+		["霸拿拿 - 巨龙之吼"] = {
+			["recent"] = {
+				["1-124-469-0"] = {
+					{
+						["role"] = "DAMAGER",
+						["name"] = "罗生门之鬼-血环",
+						["iLvl"] = 925,
+						["time"] = 1502289330,
+						["class"] = 6,
+						["leader"] = true,
+						["bTag"] = "凯恩#56308",
+					}, -- [1]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "丶牛奶-迪瑟洛克",
+						["time"] = 1502289330,
+						["class"] = 5,
+					}, -- [2]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "Crazyblood-燃烧军团",
+						["iLvl"] = 904,
+						["time"] = 1502289305,
+						["class"] = 4,
+						["bTag"] = "crazyblood#5849",
+					}, -- [3]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "纯属巧合丶-死亡之翼",
+						["iLvl"] = 928,
+						["time"] = 1502289305,
+						["class"] = 1,
+						["bTag"] = "晅哥#5738",
+					}, -- [4]
+					{
+						["role"] = "TANK",
+						["name"] = "小小的手心-血环",
+						["iLvl"] = 933,
+						["time"] = 1502289360,
+						["class"] = 6,
+						["leader"] = true,
+						["bTag"] = "琳娜的微笑#5571",
+					}, -- [5]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "丶绯雪猫猫-熊猫酒仙",
+						["iLvl"] = 929,
+						["time"] = 1502289360,
+						["class"] = 8,
+						["bTag"] = "慵懒的猫#5518",
+					}, -- [6]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "绝世好名字-诺兹多姆",
+						["iLvl"] = 928,
+						["time"] = 1502289360,
+						["class"] = 3,
+						["bTag"] = "雷诺#514937",
+					}, -- [7]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "随机身寸一炮-克尔苏加德",
+						["iLvl"] = 910,
+						["time"] = 1502289360,
+						["class"] = 3,
+						["bTag"] = "邻水#5685",
+					}, -- [8]
+				},
+			},
+			["chatGroupListening"] = {
+				["APP_WHISPER"] = {
+					nil, -- [1]
+					nil, -- [2]
+					nil, -- [3]
+					false, -- [4]
+					false, -- [5]
+					false, -- [6]
+					false, -- [7]
+					false, -- [8]
+					false, -- [9]
+					false, -- [10]
+				},
+			},
+		},
+	},
+}

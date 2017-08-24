@@ -4,7 +4,15 @@ AucAdvancedFilterBasic_IgnoreList = {
 		["List"] = {
 		},
 	},
+	["主宰之剑"] = {
+		["List"] = {
+		},
+	},
 	["天空之墙"] = {
+		["List"] = {
+		},
+	},
+	["破碎岭"] = {
 		["List"] = {
 		},
 	},
@@ -12,11 +20,15 @@ AucAdvancedFilterBasic_IgnoreList = {
 		["List"] = {
 		},
 	},
-	["海克泰尔"] = {
+	["瓦拉斯塔兹"] = {
 		["List"] = {
 		},
 	},
-	["主宰之剑"] = {
+	["卡拉赞"] = {
+		["List"] = {
+		},
+	},
+	["巨龙之吼"] = {
 		["List"] = {
 		},
 	},

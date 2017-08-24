@@ -73,26 +73,17 @@ RSADB = {
 					["UrsolsVortex"] = {
 						["SmartGroup"] = true,
 					},
-					["FrenziedRegeneration"] = {
-						["SmartGroup"] = true,
-					},
 					["Revive"] = {
 						["Whisper"] = false,
-					},
-					["RageOfTheSleeper"] = {
-						["SmartGroup"] = true,
 					},
 					["Rebirth"] = {
 						["Whisper"] = false,
 					},
-					["Barkskin"] = {
-						["SmartGroup"] = true,
-					},
 				},
 			},
 			["General"] = {
-				["Race"] = "NightElf",
 				["Class"] = "DRUID",
+				["Race"] = "NightElf",
 			},
 		},
 		["斯特莱夫 - 瓦拉斯塔兹"] = {

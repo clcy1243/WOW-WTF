@@ -13,7 +13,9 @@ Healers_Have_To_Die = {
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
 	},
 	["global"] = {
+		["Enabled"] = false,
 		["HealerUnderAttackAlerts"] = false,
+		["settingsTransmuted"] = "settings switched to new H.H.T.D add-on",
 		["SetFriendlyHealersRole"] = false,
 	},
 }

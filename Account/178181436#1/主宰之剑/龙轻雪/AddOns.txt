@@ -43,3 +43,10 @@ Bagnon: enabled
 Titan: enabled
 LibTTScan-1.0: enabled
 SR13-TimeRecord: enabled
+TrufiGCD: disabled
+SkadaPlayerScore: disabled
+UnitFramesPlus: enabled
+ShadowedUnitFrames: disabled
+TipTac: enabled
+TinyTooltip: disabled
+Gnosis: disabled

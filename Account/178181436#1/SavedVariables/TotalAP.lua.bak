@@ -1,0 +1,59 @@
+
+TotalArtifactPowerSettings = {
+	["profileKeys"] = {
+		["龙轻雪 - 主宰之剑"] = "Default",
+		["龙剑曦 - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TotalArtifactPowerCache = {
+	["龙轻雪 - 主宰之剑"] = {
+		{
+			["thisLevelUnspentAP"] = 17872735,
+			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 52,
+			["isIgnored"] = false,
+		}, -- [1]
+		{
+			["thisLevelUnspentAP"] = 12718270,
+			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 52,
+			["isIgnored"] = false,
+		}, -- [2]
+		{
+			["thisLevelUnspentAP"] = 73703668,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 53,
+			["artifactTier"] = 2,
+		}, -- [3]
+		{
+			["thisLevelUnspentAP"] = 238001765,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 53,
+			["artifactTier"] = 2,
+		}, -- [4]
+		["bankCache"] = {
+			["isIgnored"] = false,
+		},
+	},
+	["龙剑曦 - 主宰之剑"] = {
+		{
+			["thisLevelUnspentAP"] = 237423700,
+			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 49,
+			["isIgnored"] = false,
+		}, -- [1]
+		{
+			["thisLevelUnspentAP"] = 182495795,
+			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 49,
+			["isIgnored"] = false,
+		}, -- [2]
+		["bankCache"] = {
+			["isIgnored"] = false,
+		},
+	},
+}

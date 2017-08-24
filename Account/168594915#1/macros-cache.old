@@ -40,6 +40,9 @@ END
 VER 3 000000000000001C "DS" "136120"
 /click ExtraActionButton1
 END
+VER 3 0000000000000036 "VuhDoDCShieldData" "132281"
+R1PT1PT1NM1PT1NM2PM2EM2EM3HR3PH3MR3MR[x]4SH4HR4IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]4DH[x][x][x][x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
 VER 3 0000000000000025 "VuhDoDCShieldData" "132281"
 P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

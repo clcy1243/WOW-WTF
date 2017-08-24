@@ -1,5 +1,5 @@
 
 TranscriptDB = {
-	["ignoredEvents"] = {
-	},
+}
+TranscriptIgnore = {
 }

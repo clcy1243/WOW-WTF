@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.011,
+	["LastVersion"] = 2.0209,
 	["LastPlayerFullName"] = "国王走下神探-瓦拉斯塔兹",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

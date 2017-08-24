@@ -81,7 +81,7 @@ MogItDB = {
 				["minimapPos"] = 216.529018045614,
 				["hide"] = true,
 			},
-			["gridWidth"] = 1028.99963378906,
+			["gridWidth"] = 1028.99951171875,
 			["tooltip"] = false,
 			["y"] = 93.7501373291016,
 		},

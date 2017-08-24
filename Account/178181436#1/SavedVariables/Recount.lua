@@ -12,12 +12,16 @@ RecountDB = {
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = 462.000244140625,
-					["x"] = -803.000015258789,
-					["w"] = 294.999969482422,
-					["h"] = 121.999992370605,
+					["x"] = -802.999633789063,
+					["w"] = 295.000030517578,
+					["h"] = 121.999847412109,
 				},
 			},
 			["MainWindowMode"] = 2,
+			["LastInstanceName"] = "暗夜要塞",
+			["MainWindowHeight"] = 122.400001525879,
+			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 295.199951171875,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -28,15 +32,12 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowHeight"] = 122.400001525879,
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 295.199951171875,
-			["LastInstanceName"] = "暗夜要塞",
 		},
 		["龙剑曦 - 主宰之剑"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["h"] = 199.999984741211,
+					["h"] = 199.999954223633,
+					["w"] = 140.000122070313,
 				},
 			},
 			["Colors"] = {
@@ -50,7 +51,7 @@ RecountDB = {
 				},
 			},
 			["MainWindowVis"] = false,
-			["LastInstanceName"] = "黑暗神殿",
+			["LastInstanceName"] = "奈萨里奥的巢穴",
 			["CurDataSet"] = "OverallData",
 		},
 		["龙听雨 - 主宰之剑"] = {
@@ -187,7 +188,7 @@ RecountDB = {
 					},
 				},
 			},
-			["LastInstanceName"] = "群星庭院",
+			["LastInstanceName"] = "突袭紫罗兰监狱",
 			["CurDataSet"] = "OverallData",
 		},
 	},

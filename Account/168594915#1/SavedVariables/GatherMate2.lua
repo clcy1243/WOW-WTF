@@ -1,10 +1,10 @@
 
 GatherMate2DB = {
-	["profileKeys"] = {
-		["疯子的迷恋 - 巨龙之吼"] = "Default",
-	},
 	["global"] = {
 		["data_version"] = 4,
+	},
+	["profileKeys"] = {
+		["疯子的迷恋 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -1,0 +1,28 @@
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 纯净术
+/cast  [@mouseover,help][@target,help][]纯净术
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 暗影愈合
+/cast  [@mouseover,help][@target,help][]暗影愈合
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 真言术：耀
+/cast  [@mouseover,help][@target,help][]真言术：耀
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] 天堂之羽
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 真言术：盾
+/cast  [@mouseover,help][@target,help][]真言术：盾
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 恳求
+/cast  [@mouseover,help][@target,help][]恳求
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 暗言术：痛
+/cast  [@mouseover,harm][@target,harm][]暗言术：痛
+END

@@ -12,10 +12,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "奥金顿",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "奥金顿",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -30,9 +30,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "奥金顿",
 						["difficulties"] = {
 						},
-						["instance"] = "奥金顿",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -70,10 +70,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "禁魔监狱",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "禁魔监狱",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -151,10 +151,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -209,9 +209,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑翼之巢",
 						["difficulties"] = {
 						},
-						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -242,10 +242,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"随机", -- [1]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -262,9 +262,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑石深渊",
 						["difficulties"] = {
 						},
-						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -320,10 +320,10 @@ MogIt_TwoHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -339,10 +339,10 @@ MogIt_TwoHandedDB = {
 							"大地的裂变", -- [1]
 							"经典旧世", -- [2]
 						},
+						["instance"] = "死亡矿井",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -402,9 +402,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑石深渊",
 						["difficulties"] = {
 						},
-						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -502,10 +502,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "奥金顿",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "奥金顿",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -576,9 +576,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "玛拉顿",
 						["difficulties"] = {
 						},
-						["instance"] = "玛拉顿",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -616,10 +616,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "达克萨隆要塞",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "达克萨隆要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -723,9 +723,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -754,10 +754,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -814,10 +814,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "法力陵墓",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "法力陵墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -881,9 +881,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -901,10 +901,10 @@ MogIt_TwoHandedDB = {
 							"经典旧世", -- [1]
 							"熊猫人之谜", -- [2]
 						},
+						["instance"] = "血色大厅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "血色大厅",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -921,10 +921,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -972,11 +972,11 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "影踪禅院",
 						["difficulties"] = {
 							"普通", -- [1]
 							"时空漫游", -- [2]
 						},
-						["instance"] = "影踪禅院",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -993,10 +993,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1013,10 +1013,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "格瑞姆巴托",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "格瑞姆巴托",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1031,10 +1031,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "格瑞姆巴托",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "格瑞姆巴托",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1085,10 +1085,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1103,10 +1103,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1130,10 +1130,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "幽暗沼泽",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "幽暗沼泽",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1192,10 +1192,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1210,10 +1210,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1277,10 +1277,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -1288,10 +1288,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
 				["faction"] = 1,
@@ -1358,10 +1358,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "地狱火城墙",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "地狱火城墙",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1385,11 +1385,11 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "黑翼血环",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "黑翼血环",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1404,11 +1404,11 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "黑翼血环",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "黑翼血环",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1432,10 +1432,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1452,9 +1452,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑石塔下层",
 						["difficulties"] = {
 						},
-						["instance"] = "黑石塔下层",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1471,9 +1471,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "奥达曼",
 						["difficulties"] = {
 						},
-						["instance"] = "奥达曼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1531,9 +1531,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "斯坦索姆",
 						["difficulties"] = {
 						},
-						["instance"] = "斯坦索姆",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1569,10 +1569,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石塔上层",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石塔上层",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1603,9 +1603,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1676,10 +1676,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "祖尔格拉布",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "祖尔格拉布",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1696,9 +1696,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "安其拉神殿",
 						["difficulties"] = {
 						},
-						["instance"] = "安其拉神殿",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1722,10 +1722,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1740,10 +1740,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "黑石铸造厂",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1786,9 +1786,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "熔火之心",
 						["difficulties"] = {
 						},
-						["instance"] = "熔火之心",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1836,9 +1836,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "永恒之井",
 						["difficulties"] = {
 						},
-						["instance"] = "永恒之井",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1870,9 +1870,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "毒蛇神殿",
 						["difficulties"] = {
 						},
-						["instance"] = "毒蛇神殿",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -1894,10 +1894,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 					{
 						["instanceType"] = 2,
@@ -1905,10 +1905,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "纳克萨玛斯",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
 				["faction"] = 1,
@@ -1968,9 +1968,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "诺莫瑞根",
 						["difficulties"] = {
 						},
-						["instance"] = "诺莫瑞根",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2001,10 +2001,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2054,9 +2054,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "格鲁尔的巢穴",
 						["difficulties"] = {
 						},
-						["instance"] = "格鲁尔的巢穴",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2142,10 +2142,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "萨隆矿坑",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "萨隆矿坑",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2173,10 +2173,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "奥杜尔",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2244,11 +2244,11 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2317,10 +2317,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2335,10 +2335,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2376,10 +2376,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "黑暗神殿",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑暗神殿",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2396,10 +2396,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"燃烧的远征", -- [1]
 						},
+						["instance"] = "破碎大厅",
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "破碎大厅",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2437,9 +2437,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "决战奥格瑞玛",
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2480,9 +2480,9 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
+						["instance"] = "黑石深渊",
 						["difficulties"] = {
 						},
-						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2499,11 +2499,11 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "巨龙之魂",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "巨龙之魂",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2527,11 +2527,11 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 							"25人（英雄）", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2546,11 +2546,11 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"大地的裂变", -- [1]
 						},
+						["instance"] = "火焰之地",
 						["difficulties"] = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "火焰之地",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2631,10 +2631,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "岩石大厅",
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "岩石大厅",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2695,10 +2695,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "悬槌堡",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2779,10 +2779,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2797,10 +2797,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
+						["instance"] = "地狱火堡垒",
 						["difficulties"] = {
 							"史诗", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2828,10 +2828,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -2846,10 +2846,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "冰冠堡垒",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -3005,10 +3005,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -3023,10 +3023,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -5712,10 +5712,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -5730,10 +5730,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7366,10 +7366,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7384,10 +7384,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7402,10 +7402,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -7420,10 +7420,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"10人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -9556,6 +9556,10 @@ MogIt_TwoHandedDB = {
 						},
 					}, -- [1]
 				},
+			},
+			[72565] = {
+				["classes"] = 1024,
+				["faction"] = 1,
 			},
 		},
 		[5017] = {
@@ -13889,10 +13893,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -14651,10 +14655,10 @@ MogIt_TwoHandedDB = {
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
+						["instance"] = "十字军的试炼",
 						["difficulties"] = {
 							"25人（英雄）", -- [1]
 						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 1,

@@ -1,0 +1,35 @@
+
+TotalArtifactPowerSettings = {
+	["profileKeys"] = {
+		["落天一箭 - 瓦拉斯塔兹"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TotalArtifactPowerCache = {
+	["落天一箭 - 瓦拉斯塔兹"] = {
+		{
+			["thisLevelUnspentAP"] = 56239770,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 43,
+			["artifactTier"] = 2,
+		}, -- [1]
+		{
+			["thisLevelUnspentAP"] = 34889120,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 52,
+			["artifactTier"] = 2,
+		}, -- [2]
+		{
+			["thisLevelUnspentAP"] = 3844570,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 46,
+			["artifactTier"] = 2,
+		}, -- [3]
+		["bankCache"] = {
+			["isIgnored"] = false,
+		},
+	},
+}

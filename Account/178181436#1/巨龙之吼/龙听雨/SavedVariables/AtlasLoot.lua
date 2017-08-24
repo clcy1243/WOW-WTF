@@ -10,20 +10,6 @@ AtlasLootCharDB = {
 		},
 		["shown"] = false,
 	},
-	["QuickLootFrame"] = {
-		["point"] = {
-			[3] = "CENTER",
-			[4] = -6.565175135619940e-005,
-			[5] = 3.282587567809970e-005,
-		},
-	},
-	["Button"] = {
-		["Item"] = {
-			["alwaysShowPreviewTT"] = true,
-			["alwaysShowCompareTT"] = true,
-		},
-	},
-	["__addonrevision"] = 4325,
 	["GUI"] = {
 		["classFilter"] = true,
 		["selected"] = {
@@ -36,6 +22,20 @@ AtlasLootCharDB = {
 			[5] = 0.999974608421326,
 		},
 	},
+	["Button"] = {
+		["Item"] = {
+			["alwaysShowPreviewTT"] = true,
+			["alwaysShowCompareTT"] = true,
+		},
+	},
+	["QuickLootFrame"] = {
+		["point"] = {
+			[3] = "CENTER",
+			[4] = -6.565175135619940e-005,
+			[5] = 0.75003844499588,
+		},
+	},
+	["__addonrevision"] = 4325,
 	["minimap"] = {
 		["minimapPos"] = 145.346613414799,
 	},

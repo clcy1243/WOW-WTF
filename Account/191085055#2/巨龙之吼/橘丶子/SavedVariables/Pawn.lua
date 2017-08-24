@@ -1,0 +1,65 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0209,
+	["LastPlayerFullName"] = "橘丶子-巨龙之吼",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128943] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 65,
+					["Type"] = "Shadow",
+				}, -- [1]
+				{
+					["ItemLevel"] = 56,
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Fel",
+				}, -- [3]
+			},
+			["Name"] = "堕落者之颅",
+		},
+		[128941] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Fel",
+				}, -- [1]
+				{
+					["ItemLevel"] = 55,
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["ItemLevel"] = 55,
+					["Type"] = "Fel",
+				}, -- [3]
+			},
+			["Name"] = "萨格拉斯权杖",
+		},
+		[128942] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 67,
+					["Type"] = "Shadow",
+				}, -- [1]
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Shadow",
+				}, -- [3]
+			},
+			["Name"] = "乌萨勒斯，逆风收割者",
+		},
+	},
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "WARLOCK",
+	["LastAdded"] = 1,
+}

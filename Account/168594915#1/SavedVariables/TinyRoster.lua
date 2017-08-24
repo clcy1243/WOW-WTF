@@ -2,6 +2,8 @@
 TinyRosterDB = {
 	["TradeSkillFrame.SearchBox"] = {
 		["depands"] = "Blizzard_TradeSkillUI",
+		["list"] = {
+		},
 	},
 	["MountJournalSearchBox"] = {
 		["depands"] = "Blizzard_Collections",

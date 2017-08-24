@@ -5,13 +5,6 @@ HHTD_SavedVariables = {
 			["settingsMigrated"] = false,
 		},
 	},
-	["global"] = {
-		["settingsMigrated"] = false,
-		["oldNameEnableState"] = 2,
-	},
-	["profileKeys"] = {
-		["疯子的迷恋 - 巨龙之吼"] = "疯子的迷恋 - 巨龙之吼",
-	},
 	["namespaces"] = {
 		["Announcer"] = {
 		},
@@ -19,5 +12,12 @@ HHTD_SavedVariables = {
 		},
 		["NPH"] = {
 		},
+	},
+	["global"] = {
+		["settingsMigrated"] = false,
+		["oldNameEnableState"] = 2,
+	},
+	["profileKeys"] = {
+		["疯子的迷恋 - 巨龙之吼"] = "疯子的迷恋 - 巨龙之吼",
 	},
 }

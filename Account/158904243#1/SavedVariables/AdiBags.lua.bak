@@ -18,7 +18,7 @@ AdiBagsDB = {
 		},
 		["NewItem"] = {
 		},
-		["MoneyFrame"] = {
+		["ItemSets"] = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
@@ -26,7 +26,7 @@ AdiBagsDB = {
 		},
 		["Equipment"] = {
 		},
-		["ItemSets"] = {
+		["MoneyFrame"] = {
 		},
 		["CurrencyFrame"] = {
 		},

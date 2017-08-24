@@ -1,8 +1,6 @@
 
 BattlegroundTargets_Options = {
-	["FramePosition"] = {
-	},
-	["version"] = 27,
+	["FirstRun"] = true,
 	["Friend"] = {
 		["ButtonRangeDisplay"] = {
 			[40] = 7,
@@ -215,8 +213,35 @@ BattlegroundTargets_Options = {
 			[15] = 1,
 		},
 	},
-	["MinimapButtonPos"] = -90,
+	["FramePosition"] = {
+		["EnemyMainFrame40"] = {
+			["y"] = -228.75,
+			["x"] = 370.24951171875,
+			["point"] = "TOP",
+			["s"] = 1,
+		},
+		["OptionsFrame"] = {
+			["y"] = -7.50000762939453,
+			["x"] = -14.9999694824219,
+			["point"] = "CENTER",
+			["s"] = 1,
+		},
+		["EnemyMainFrame10"] = {
+			["y"] = 170.249633789063,
+			["x"] = 390.749450683594,
+			["point"] = "CENTER",
+			["s"] = 1,
+		},
+		["EnemyMainFrame15"] = {
+			["y"] = -220.499755859375,
+			["x"] = 370.499877929688,
+			["point"] = "TOP",
+			["s"] = 1,
+		},
+	},
+	["version"] = 27,
 	["TransliterationToggle"] = false,
+	["MinimapButtonPos"] = -90,
 	["MinimapButton"] = false,
 	["Enemy"] = {
 		["ButtonRangeDisplay"] = {
@@ -255,12 +280,12 @@ BattlegroundTargets_Options = {
 			[15] = 60,
 		},
 		["ButtonSpecToggle"] = {
-			[40] = false,
-			[10] = false,
-			[15] = false,
+			[40] = true,
+			[10] = true,
+			[15] = true,
 		},
 		["ButtonHealthTextToggle"] = {
-			[40] = false,
+			[40] = true,
 			[10] = false,
 			[15] = false,
 		},
@@ -295,9 +320,9 @@ BattlegroundTargets_Options = {
 			[15] = 8,
 		},
 		["ButtonHealthBarToggle"] = {
-			[40] = false,
-			[10] = false,
-			[15] = false,
+			[40] = true,
+			[10] = true,
+			[15] = true,
 		},
 		["ButtonToTToggle"] = {
 			[40] = false,
@@ -315,9 +340,9 @@ BattlegroundTargets_Options = {
 			[15] = 1.2,
 		},
 		["EnableBracket"] = {
-			[40] = false,
-			[10] = false,
-			[15] = false,
+			[40] = true,
+			[10] = true,
+			[15] = true,
 		},
 		["ButtonHeight"] = {
 			[40] = 16,
@@ -330,14 +355,14 @@ BattlegroundTargets_Options = {
 			[15] = true,
 		},
 		["ButtonRoleToggle"] = {
-			[40] = true,
-			[10] = true,
-			[15] = true,
-		},
-		["ButtonETargetCountToggle"] = {
 			[40] = false,
 			[10] = false,
 			[15] = false,
+		},
+		["ButtonETargetCountToggle"] = {
+			[40] = false,
+			[10] = true,
+			[15] = true,
 		},
 		["ButtonFontNameSize"] = {
 			[40] = 10,
@@ -380,9 +405,9 @@ BattlegroundTargets_Options = {
 			[15] = 1,
 		},
 		["ButtonPvPTrinketToggle"] = {
-			[40] = false,
-			[10] = false,
-			[15] = false,
+			[40] = true,
+			[10] = true,
+			[15] = true,
 		},
 		["ButtonSortBy"] = {
 			[40] = 1,
@@ -391,8 +416,8 @@ BattlegroundTargets_Options = {
 		},
 		["ButtonRealmToggle"] = {
 			[40] = false,
-			[10] = true,
-			[15] = true,
+			[10] = false,
+			[15] = false,
 		},
 		["ButtonAssistPosition"] = {
 			[40] = 70,

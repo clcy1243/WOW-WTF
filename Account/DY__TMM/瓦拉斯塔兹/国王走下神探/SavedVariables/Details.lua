@@ -1,1743 +1,15 @@
 
 _detalhes_database = {
-	["announce_interrupts"] = {
-		["enabled"] = false,
-		["whisper"] = "",
-		["channel"] = "SAY",
-		["custom"] = "",
-		["next"] = "",
-	},
-	["announce_prepots"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-		["reverse"] = false,
-	},
-	["active_profile"] = "国王走下神探-瓦拉斯塔兹",
-	["last_day"] = "19",
-	["ignore_nicktag"] = false,
-	["tabela_historico"] = {
-		["tabelas"] = {
-			{
-				{
-					["combatId"] = 8,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["训练假人"] = 24985,
-							},
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["classe"] = "WARLOCK",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 24985.007372,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1482150131,
-							["friendlyfire_total"] = 0,
-							["spec"] = 265,
-							["nome"] = "国王走下神探",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[233490] = {
-										["c_amt"] = 5,
-										["b_amt"] = 0,
-										["c_dmg"] = 14077,
-										["g_amt"] = 0,
-										["n_max"] = 1408,
-										["targets"] = {
-											["训练假人"] = 23931,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 9854,
-										["n_min"] = 1407,
-										["g_dmg"] = 0,
-										["counter"] = 12,
-										["total"] = 23931,
-										["c_max"] = 2816,
-										["id"] = 233490,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
-										["c_min"] = 2815,
-									},
-									[127802] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1054,
-										["targets"] = {
-											["训练假人"] = 1054,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1054,
-										["n_min"] = 1054,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1054,
-										["c_max"] = 0,
-										["id"] = 127802,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["total"] = 24985.007372,
-							["serial"] = "Player-727-0342CCA5",
-							["last_dps"] = 3088.38162818289,
-							["custom"] = 0,
-							["last_event"] = 1482150131,
-							["damage_taken"] = 0.007372,
-							["start_time"] = 1482150123,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 8,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["combatId"] = 8,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["combatId"] = 8,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[233497] = {
-										["uptime"] = 6,
-										["activedamt"] = 0,
-										["id"] = 233497,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[233496] = {
-										["uptime"] = 7,
-										["activedamt"] = 0,
-										["id"] = 233496,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[233490] = {
-										["uptime"] = 5,
-										["activedamt"] = 0,
-										["id"] = 233490,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 24,
-							["classe"] = "WARLOCK",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[108366] = {
-										["uptime"] = 8,
-										["activedamt"] = 1,
-										["id"] = 108366,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[165830] = {
-										["uptime"] = 8,
-										["activedamt"] = 1,
-										["id"] = 165830,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[126659] = {
-										["uptime"] = 8,
-										["activedamt"] = 1,
-										["id"] = 126659,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["debuff_uptime"] = 18,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 265,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[30108] = 2,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["last_event"] = 1482150131,
-							["nome"] = "国王走下神探",
-							["pets"] = {
-							},
-							["serial"] = "Player-727-0342CCA5",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 8,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["国王走下神探"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["enemy"] = "训练假人",
-				["combat_counter"] = 20,
-				["playing_solo"] = true,
-				["totals"] = {
-					24984.9565040014, -- [1]
-					-0.004879, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						[6] = -0.00565800000000039,
-						[3] = -0.00813799999999532,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = -0.00685700000000011,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["国王走下神探"] = 24985.007372,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 2604.213,
-				["combat_id"] = 8,
-				["instance_type"] = "none",
-				["frags"] = {
-				},
-				["data_fim"] = "20:22:12",
-				["data_inicio"] = "20:22:04",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					24985, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 2596.123,
-				["TimeData"] = {
-				},
-				["pvp"] = true,
-			}, -- [1]
-			{
-				{
-					["combatId"] = 7,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["训练假人"] = 19385,
-							},
-							["spec"] = 265,
-							["pets"] = {
-							},
-							["colocacao"] = 1,
-							["end_time"] = 1482150123,
-							["classe"] = "WARLOCK",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 19385.004927,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["total"] = 19385.004927,
-							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
-							["nome"] = "国王走下神探",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[233490] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2815,
-										["g_amt"] = 0,
-										["n_max"] = 1408,
-										["targets"] = {
-											["训练假人"] = 18302,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 15487,
-										["n_min"] = 1407,
-										["g_dmg"] = 0,
-										["counter"] = 12,
-										["total"] = 18302,
-										["c_max"] = 2815,
-										["id"] = 233490,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 11,
-										["r_amt"] = 0,
-										["c_min"] = 2815,
-									},
-									[127802] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1083,
-										["targets"] = {
-											["训练假人"] = 1083,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1083,
-										["n_min"] = 1083,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1083,
-										["c_max"] = 0,
-										["id"] = 127802,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["serial"] = "Player-727-0342CCA5",
-							["last_dps"] = 3631.51085181703,
-							["custom"] = 0,
-							["last_event"] = 1482149711,
-							["damage_taken"] = 0.004927,
-							["start_time"] = 1482150113,
-							["delay"] = 1482149711,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 7,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["combatId"] = 7,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["combatId"] = 7,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[233497] = {
-										["uptime"] = 5,
-										["activedamt"] = 2,
-										["id"] = 233497,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[233496] = {
-										["uptime"] = 5,
-										["activedamt"] = 1,
-										["id"] = 233496,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[233490] = {
-										["uptime"] = 5,
-										["activedamt"] = 1,
-										["id"] = 233490,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 7,
-							["classe"] = "WARLOCK",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[108366] = {
-										["uptime"] = 4,
-										["activedamt"] = 2,
-										["id"] = 108366,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[126659] = {
-										["uptime"] = 3,
-										["activedamt"] = 2,
-										["id"] = 126659,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["debuff_uptime"] = 15,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 265,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[30108] = 1,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["last_event"] = 1482149707,
-							["nome"] = "国王走下神探",
-							["pets"] = {
-								"拜特克希亚 <国王走下神探>", -- [1]
-							},
-							["serial"] = "Player-727-0342CCA5",
-							["tipo"] = 4,
-						}, -- [1]
-						{
-							["flag_original"] = 4369,
-							["ownerName"] = "国王走下神探",
-							["nome"] = "拜特克希亚 <国王走下神探>",
-							["pets"] = {
-							},
-							["classe"] = "PET",
-							["tipo"] = 4,
-							["spell_cast"] = {
-								[7870] = 1,
-							},
-							["serial"] = "Pet-0-3906-0-16231-1863-01014A83D5",
-							["last_event"] = 0,
-						}, -- [2]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 7,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["国王走下神探"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["enemy"] = "训练假人",
-				["combat_counter"] = 19,
-				["playing_solo"] = true,
-				["totals"] = {
-					19384.8592350044, -- [1]
-					0, -- [2]
-					{
-						-0.0192430000000137, -- [1]
-						[0] = 0,
-						[6] = -0.0114560000000115,
-						[3] = -0.0192460000000831,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = -0.0139690000000001,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["国王走下神探"] = 9530.004927,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 2180.646,
-				["combat_id"] = 7,
-				["instance_type"] = "none",
-				["frags"] = {
-				},
-				["data_fim"] = "20:15:08",
-				["data_inicio"] = "20:15:03",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					19385, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 2175.308,
-				["TimeData"] = {
-				},
-				["pvp"] = true,
-			}, -- [2]
-			{
-				{
-					["combatId"] = 6,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["训练假人"] = 5038,
-							},
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["classe"] = "WARLOCK",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 5038.003482,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1482149602,
-							["friendlyfire_total"] = 0,
-							["spec"] = 265,
-							["nome"] = "国王走下神探",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[980] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 1062,
-										["g_amt"] = 0,
-										["n_max"] = 691,
-										["targets"] = {
-											["训练假人"] = 2995,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1933,
-										["n_min"] = 21,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 2995,
-										["c_max"] = 1062,
-										["id"] = 980,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
-										["c_min"] = 1062,
-									},
-									[146739] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 473,
-										["targets"] = {
-											["训练假人"] = 1114,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1114,
-										["n_min"] = 169,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 1114,
-										["c_max"] = 0,
-										["id"] = 146739,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[127802] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 929,
-										["targets"] = {
-											["训练假人"] = 929,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 929,
-										["n_min"] = 929,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 929,
-										["c_max"] = 0,
-										["id"] = 127802,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["total"] = 5038.003482,
-							["serial"] = "Player-727-0342CCA5",
-							["last_dps"] = 883.240442145835,
-							["custom"] = 0,
-							["last_event"] = 1482149602,
-							["damage_taken"] = 0.003482,
-							["start_time"] = 1482149596,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 6,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["combatId"] = 6,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["resource"] = 1.008809,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARLOCK",
-							["total"] = 0.008809,
-							["nome"] = "国王走下神探",
-							["spec"] = 265,
-							["grupo"] = true,
-							["resource_type"] = 7,
-							["tipo"] = 3,
-							["received"] = 0.008809,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-								},
-							},
-							["serial"] = "Player-727-0342CCA5",
-							["last_event"] = 1482149597,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 6,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime"] = 11,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[980] = {
-										["uptime"] = 6,
-										["activedamt"] = 0,
-										["id"] = 980,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[146739] = {
-										["uptime"] = 5,
-										["activedamt"] = 0,
-										["id"] = 146739,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 265,
-							["grupo"] = true,
-							["nome"] = "国王走下神探",
-							["pets"] = {
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["buff_uptime"] = 11,
-							["classe"] = "WARLOCK",
-							["tipo"] = 4,
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[108366] = {
-										["uptime"] = 6,
-										["activedamt"] = 1,
-										["id"] = 108366,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[126659] = {
-										["uptime"] = 5,
-										["activedamt"] = 1,
-										["id"] = 126659,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["serial"] = "Player-727-0342CCA5",
-							["last_event"] = 1482149602,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 6,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["国王走下神探"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["enemy"] = "训练假人",
-				["combat_counter"] = 18,
-				["playing_solo"] = true,
-				["totals"] = {
-					5037.9161280011, -- [1]
-					-0.0247239999989688, -- [2]
-					{
-						-0.0123510000000067, -- [1]
-						[0] = -200.001792,
-						[6] = -0.00366699999995035,
-						[3] = 199.978508,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = -0.0149509999999999,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["国王走下神探"] = 5038.003482,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 2074.858,
-				["combat_id"] = 6,
-				["instance_type"] = "none",
-				["frags"] = {
-					["蹒跚的血僵尸"] = 1,
-				},
-				["data_fim"] = "20:13:22",
-				["data_inicio"] = "20:13:17",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					5038, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 2069.154,
-				["TimeData"] = {
-				},
-				["pvp"] = true,
-			}, -- [3]
-			{
-				{
-					["combatId"] = 5,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["训练假人"] = 15245,
-							},
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["classe"] = "WARLOCK",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 15245.005019,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1482149596,
-							["friendlyfire_total"] = 0,
-							["spec"] = 265,
-							["nome"] = "国王走下神探",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[980] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 478,
-										["targets"] = {
-											["训练假人"] = 2369,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2369,
-										["n_min"] = 119,
-										["g_dmg"] = 0,
-										["counter"] = 8,
-										["total"] = 2369,
-										["c_max"] = 0,
-										["id"] = 980,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 8,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[233490] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1408,
-										["targets"] = {
-											["训练假人"] = 8447,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 8447,
-										["n_min"] = 1407,
-										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 8447,
-										["c_max"] = 0,
-										["id"] = 233490,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[127802] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1066,
-										["targets"] = {
-											["训练假人"] = 1066,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1066,
-										["n_min"] = 1066,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1066,
-										["c_max"] = 0,
-										["id"] = 127802,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[146739] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 529,
-										["targets"] = {
-											["训练假人"] = 3363,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3363,
-										["n_min"] = 472,
-										["g_dmg"] = 0,
-										["counter"] = 7,
-										["total"] = 3363,
-										["c_max"] = 0,
-										["id"] = 146739,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["total"] = 15245.005019,
-							["serial"] = "Player-727-0342CCA5",
-							["last_dps"] = 1346.59965050652,
-							["custom"] = 0,
-							["last_event"] = 1482149596,
-							["damage_taken"] = 0.005019,
-							["start_time"] = 1482149581,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 5,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["combatId"] = 5,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["resource"] = 1.003879,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARLOCK",
-							["total"] = 0.003879,
-							["nome"] = "国王走下神探",
-							["spec"] = 265,
-							["grupo"] = true,
-							["resource_type"] = 7,
-							["tipo"] = 3,
-							["received"] = 0.003879,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-								},
-							},
-							["serial"] = "Player-727-0342CCA5",
-							["last_event"] = 1482149594,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 5,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[980] = {
-										["uptime"] = 4,
-										["activedamt"] = 1,
-										["id"] = 980,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[233496] = {
-										["actived_at"] = 1482149584,
-										["uptime"] = 0,
-										["activedamt"] = -1,
-										["id"] = 233496,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[146739] = {
-										["uptime"] = 4,
-										["activedamt"] = 1,
-										["id"] = 146739,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[233490] = {
-										["uptime"] = 10,
-										["activedamt"] = 1,
-										["id"] = 233490,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 18,
-							["classe"] = "WARLOCK",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[108366] = {
-										["uptime"] = 10,
-										["activedamt"] = 1,
-										["id"] = 108366,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[126659] = {
-										["uptime"] = 8,
-										["activedamt"] = 2,
-										["id"] = 126659,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[165830] = {
-										["uptime"] = 0,
-										["activedamt"] = 0,
-										["id"] = 165830,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["debuff_uptime"] = 18,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 265,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[980] = 1,
-								[30108] = 1,
-								[172] = 1,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["last_event"] = 1482149591,
-							["nome"] = "国王走下神探",
-							["pets"] = {
-							},
-							["serial"] = "Player-727-0342CCA5",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 5,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["国王走下神探"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["enemy"] = "训练假人",
-				["combat_counter"] = 17,
-				["playing_solo"] = true,
-				["totals"] = {
-					15244.9448029988, -- [1]
-					-0.0327210000105109, -- [2]
-					{
-						-0.00432699999999997, -- [1]
-						[0] = -15.0068829999969,
-						[6] = 109,
-						[3] = -94.021798,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = -0.004019,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["国王走下神探"] = 11025.005019,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 2064.299,
-				["combat_id"] = 5,
-				["instance_type"] = "none",
-				["frags"] = {
-				},
-				["data_fim"] = "20:13:12",
-				["data_inicio"] = "20:13:02",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					15245, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 2054.625,
-				["TimeData"] = {
-				},
-				["pvp"] = true,
-			}, -- [4]
-			{
-				{
-					["combatId"] = 4,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["训练假人"] = 38676,
-							},
-							["spec"] = 265,
-							["pets"] = {
-							},
-							["colocacao"] = 1,
-							["end_time"] = 1482149581,
-							["classe"] = "WARLOCK",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 38676.001283,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["total"] = 38676.001283,
-							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
-							["nome"] = "国王走下神探",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[980] = {
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["c_dmg"] = 6507,
-										["g_amt"] = 0,
-										["n_max"] = 1190,
-										["targets"] = {
-											["训练假人"] = 15270,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 8763,
-										["n_min"] = 93,
-										["g_dmg"] = 0,
-										["counter"] = 13,
-										["total"] = 15270,
-										["c_max"] = 2260,
-										["id"] = 980,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 10,
-										["r_amt"] = 0,
-										["c_min"] = 2123,
-									},
-									[146739] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 1058,
-										["g_amt"] = 0,
-										["n_max"] = 529,
-										["targets"] = {
-											["训练假人"] = 4341,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3283,
-										["n_min"] = 223,
-										["g_dmg"] = 0,
-										["counter"] = 8,
-										["total"] = 4341,
-										["c_max"] = 1058,
-										["id"] = 146739,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
-										["c_min"] = 1058,
-									},
-									[127802] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2170,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["训练假人"] = 2170,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 2170,
-										["c_max"] = 2170,
-										["id"] = 127802,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 2170,
-									},
-									[233490] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["c_dmg"] = 5632,
-										["g_amt"] = 0,
-										["n_max"] = 1408,
-										["targets"] = {
-											["训练假人"] = 16895,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 11263,
-										["n_min"] = 1407,
-										["g_dmg"] = 0,
-										["counter"] = 10,
-										["total"] = 16895,
-										["c_max"] = 2816,
-										["id"] = 233490,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 8,
-										["r_amt"] = 0,
-										["c_min"] = 2816,
-									},
-								},
-							},
-							["grupo"] = true,
-							["serial"] = "Player-727-0342CCA5",
-							["last_dps"] = 4577.81615071867,
-							["custom"] = 0,
-							["last_event"] = 1482149581,
-							["damage_taken"] = 0.001283,
-							["start_time"] = 1482149554,
-							["delay"] = 1482149382,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 4,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["combatId"] = 4,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["resource"] = 1.001146,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARLOCK",
-							["total"] = 0.001146,
-							["nome"] = "国王走下神探",
-							["spec"] = 265,
-							["grupo"] = true,
-							["resource_type"] = 7,
-							["tipo"] = 3,
-							["received"] = 0.001146,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-								},
-							},
-							["serial"] = "Player-727-0342CCA5",
-							["last_event"] = 1482149378,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 4,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[980] = {
-										["uptime"] = 8,
-										["activedamt"] = 1,
-										["id"] = 980,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[146739] = {
-										["uptime"] = 8,
-										["activedamt"] = 1,
-										["id"] = 146739,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[233496] = {
-										["uptime"] = 3,
-										["activedamt"] = 1,
-										["id"] = 233496,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[233490] = {
-										["uptime"] = 8,
-										["activedamt"] = 2,
-										["id"] = 233490,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 8,
-							["classe"] = "WARLOCK",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[108366] = {
-										["uptime"] = 8,
-										["activedamt"] = 1,
-										["id"] = 108366,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[126659] = {
-										["uptime"] = 0,
-										["activedamt"] = 0,
-										["id"] = 126659,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["debuff_uptime"] = 27,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 265,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[30108] = 2,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["last_event"] = 1482149369,
-							["nome"] = "国王走下神探",
-							["pets"] = {
-							},
-							["serial"] = "Player-727-0342CCA5",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 4,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["国王走下神探"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["enemy"] = "训练假人",
-				["combat_counter"] = 14,
-				["playing_solo"] = true,
-				["totals"] = {
-					38675.8502689852, -- [1]
-					-0.007601, -- [2]
-					{
-						-0.0249389999999963, -- [1]
-						[0] = -200.007538,
-						[6] = 0,
-						[3] = 199.980502,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = -0.00205000000000055,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["国王走下神探"] = 26067.008302,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 1842.116,
-				["combat_id"] = 4,
-				["instance_type"] = "none",
-				["resincked"] = true,
-				["frags"] = {
-				},
-				["data_fim"] = "20:09:30",
-				["data_inicio"] = "20:09:22",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					38676, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 1833.975,
-				["TimeData"] = {
-				},
-				["pvp"] = true,
-			}, -- [5]
-		},
-	},
-	["combat_counter"] = 20,
 	["savedbuffs"] = {
 	},
+	["last_instance_time"] = 0,
+	["active_profile"] = "募落葒顔-太阳之井",
+	["last_realversion"] = 123,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_version"] = "v7.2.5.4275",
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
 			["lasttry"] = {
@@ -1790,17 +62,6 @@ _detalhes_database = {
 			["opened"] = 0,
 			["hide_on_combat"] = false,
 		},
-		["DETAILS_PLUGIN_RAIDCHECK"] = {
-			["enabled"] = true,
-			["food_tier1"] = true,
-			["mythic_1_4"] = true,
-			["food_tier2"] = true,
-			["author"] = "Details! Team",
-			["use_report_panel"] = true,
-			["pre_pot_healers"] = false,
-			["pre_pot_tanks"] = false,
-			["food_tier3"] = true,
-		},
 		["DETAILS_PLUGIN_CHART_VIEWER"] = {
 			["enabled"] = true,
 			["author"] = "Details! Team",
@@ -1819,20 +80,6 @@ _detalhes_database = {
 				["auto_create"] = true,
 				["window_scale"] = 1,
 			},
-		},
-		["DETAILS_PLUGIN_TINY_THREAT"] = {
-			["updatespeed"] = 1,
-			["enabled"] = true,
-			["animate"] = false,
-			["useplayercolor"] = false,
-			["author"] = "Details! Team",
-			["useclasscolors"] = false,
-			["playercolor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			},
-			["showamount"] = false,
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -1855,15 +102,21 @@ _detalhes_database = {
 			["minimap"] = {
 				["minimapPos"] = 160,
 				["radius"] = 160,
-				["hide"] = false,
+				["hide"] = true,
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["author"] = "Details! Team",
+			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
+			["main_frame_strata"] = "LOW",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["arrow_anchor_y"] = 0,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -1871,17 +124,9 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
 			["y"] = 4.577636718750e-005,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -1893,10 +138,38 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
 			["font_size"] = 10,
+			["use_spark"] = true,
 			["point"] = "CENTER",
 			["row_height"] = 20,
 			["scale"] = 1,
+		},
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["enabled"] = true,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["author"] = "Details! Team",
+			["useclasscolors"] = false,
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["showamount"] = false,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
 		},
 		["DETAILS_PLUGIN_TIME_ATTACK"] = {
 			["enabled"] = true,
@@ -1946,33 +219,1287 @@ _detalhes_database = {
 			["author"] = "Details! Team",
 		},
 	},
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["character_data"] = {
+		["logons"] = 10,
+	},
+	["last_day"] = "06",
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 10,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003781,
+							["spec"] = 265,
+							["damage_from"] = {
+								["国王走下神探"] = true,
+							},
+							["targets"] = {
+								["训练假人"] = 516573,
+							},
+							["pets"] = {
+								"塞里考 <国王走下神探>", -- [1]
+							},
+							["friendlyfire"] = {
+								["国王走下神探"] = {
+									["spells"] = {
+										[1454] = 10957,
+									},
+									["total"] = 10957,
+								},
+							},
+							["timeMachine"] = 1,
+							["friendlyfire_total"] = 10957,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 374020.003781,
+							["fight_component"] = true,
+							["colocacao"] = 1,
+							["dps_started"] = true,
+							["total"] = 516573.003781,
+							["classe"] = "WARLOCK",
+							["on_hold"] = true,
+							["nome"] = "国王走下神探",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[127802] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2718,
+										["g_amt"] = 0,
+										["n_max"] = 1291,
+										["targets"] = {
+											["训练假人"] = 10150,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7432,
+										["n_min"] = 1127,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 10150,
+										["c_max"] = 2718,
+										["id"] = 127802,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 2718,
+									},
+									[980] = {
+										["c_amt"] = 20,
+										["b_amt"] = 0,
+										["c_dmg"] = 39246,
+										["g_amt"] = 0,
+										["n_max"] = 1250,
+										["targets"] = {
+											["训练假人"] = 92951,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 53705,
+										["n_min"] = 217,
+										["g_dmg"] = 0,
+										["counter"] = 70,
+										["total"] = 92951,
+										["c_max"] = 2499,
+										["id"] = 980,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 50,
+										["r_amt"] = 0,
+										["c_min"] = 290,
+									},
+									[233490] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 33416,
+										["g_amt"] = 0,
+										["n_max"] = 2089,
+										["targets"] = {
+											["训练假人"] = 116963,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 83547,
+										["n_min"] = 2088,
+										["g_dmg"] = 0,
+										["counter"] = 48,
+										["total"] = 116963,
+										["c_max"] = 4177,
+										["id"] = 233490,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 40,
+										["r_amt"] = 0,
+										["c_min"] = 4177,
+									},
+									[198590] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 10924,
+										["g_amt"] = 0,
+										["n_max"] = 1904,
+										["targets"] = {
+											["训练假人"] = 107912,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 96988,
+										["n_min"] = 1655,
+										["g_dmg"] = 0,
+										["counter"] = 58,
+										["total"] = 107912,
+										["c_max"] = 3807,
+										["id"] = 198590,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 55,
+										["r_amt"] = 0,
+										["c_min"] = 3310,
+									},
+									[146739] = {
+										["c_amt"] = 11,
+										["b_amt"] = 0,
+										["c_dmg"] = 13607,
+										["g_amt"] = 0,
+										["n_max"] = 746,
+										["targets"] = {
+											["训练假人"] = 46044,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 32437,
+										["n_min"] = 298,
+										["g_dmg"] = 0,
+										["counter"] = 59,
+										["total"] = 46044,
+										["c_max"] = 1492,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 48,
+										["r_amt"] = 0,
+										["c_min"] = 50,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-727-0342CCA5",
+							["last_dps"] = 4994.66283568545,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 10957.003781,
+							["start_time"] = 1502017855,
+							["delay"] = 1502017967,
+							["last_event"] = 1502017967,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.001634,
+							["serial"] = "Pet-0-3904-870-30856-78158-0401B305CF",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 142553,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 142553.001634,
+							["dps_started"] = false,
+							["total"] = 142553.001634,
+							["classe"] = "PET",
+							["ownerName"] = "国王走下神探",
+							["nome"] = "塞里考 <国王走下神探>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[85692] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 36397,
+										["g_amt"] = 0,
+										["n_max"] = 3034,
+										["targets"] = {
+											["训练假人"] = 142553,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 106156,
+										["n_min"] = 3033,
+										["g_dmg"] = 0,
+										["counter"] = 41,
+										["total"] = 142553,
+										["c_max"] = 6067,
+										["id"] = 85692,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 35,
+										["r_amt"] = 0,
+										["c_min"] = 6066,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1502017958,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.001634,
+							["start_time"] = 1502017857,
+							["delay"] = 0,
+							["last_event"] = 1502017955,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 10,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 10,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 22211.006502,
+							["resource"] = 0.006502,
+							["targets"] = {
+								["国王走下神探"] = 22211,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "WARLOCK",
+							["fight_component"] = true,
+							["total"] = 22211.006502,
+							["nome"] = "国王走下神探",
+							["spec"] = 265,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["last_event"] = 1502017961,
+							["alternatepower"] = 0.006502,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[17941] = {
+										["id"] = 17941,
+										["total"] = 11,
+										["targets"] = {
+											["国王走下神探"] = 11,
+										},
+										["counter"] = 11,
+									},
+									[1454] = {
+										["id"] = 1454,
+										["total"] = 22200,
+										["targets"] = {
+											["国王走下神探"] = 22200,
+										},
+										["counter"] = 2,
+									},
+								},
+							},
+							["serial"] = "Player-727-0342CCA5",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 10,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[233499] = {
+										["refreshamt"] = 0,
+										["uptime"] = 7,
+										["activedamt"] = 0,
+										["id"] = 233499,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[980] = {
+										["refreshamt"] = 0,
+										["uptime"] = 103,
+										["activedamt"] = 1,
+										["id"] = 980,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[233496] = {
+										["refreshamt"] = 0,
+										["uptime"] = 26,
+										["activedamt"] = 0,
+										["id"] = 233496,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[233490] = {
+										["refreshamt"] = 0,
+										["uptime"] = 26,
+										["activedamt"] = 0,
+										["id"] = 233490,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[233498] = {
+										["refreshamt"] = 0,
+										["uptime"] = 7,
+										["activedamt"] = 0,
+										["id"] = 233498,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[198590] = {
+										["refreshamt"] = 1,
+										["uptime"] = 49,
+										["activedamt"] = 0,
+										["id"] = 198590,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[233497] = {
+										["refreshamt"] = 0,
+										["uptime"] = 13,
+										["activedamt"] = 0,
+										["id"] = 233497,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[146739] = {
+										["refreshamt"] = 5,
+										["uptime"] = 89,
+										["activedamt"] = 1,
+										["id"] = 146739,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 337,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5697] = {
+										["refreshamt"] = 0,
+										["uptime"] = 103,
+										["activedamt"] = 1,
+										["id"] = 5697,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[126659] = {
+										["refreshamt"] = 0,
+										["uptime"] = 20,
+										["activedamt"] = 1,
+										["id"] = 126659,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[127230] = {
+										["refreshamt"] = 0,
+										["uptime"] = 103,
+										["activedamt"] = 1,
+										["id"] = 127230,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[165830] = {
+										["refreshamt"] = 0,
+										["uptime"] = 8,
+										["activedamt"] = 2,
+										["id"] = 165830,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[108366] = {
+										["refreshamt"] = 0,
+										["uptime"] = 103,
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 320,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[172] = 6,
+								[1454] = 2,
+								[198590] = 12,
+								[980] = 6,
+								[30108] = 12,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1502017958,
+							["nome"] = "国王走下神探",
+							["pets"] = {
+								"塞里考 <国王走下神探>", -- [1]
+							},
+							["serial"] = "Player-727-0342CCA5",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "国王走下神探",
+							["nome"] = "塞里考 <国王走下神探>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[85692] = 41,
+							},
+							["serial"] = "Pet-0-3904-870-30856-78158-0401B305CF",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 10,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["国王走下神探"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 41,
+				["playing_solo"] = true,
+				["totals"] = {
+					516572.938095998, -- [1]
+					0, -- [2]
+					{
+						27, -- [1]
+						[0] = 22159.959104,
+						["alternatepower"] = 0,
+						[3] = 24,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["国王走下神探"] = 508267.003781,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 1064707.208,
+				["combat_id"] = 10,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "19:12:38",
+				["data_inicio"] = "19:10:55",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					384977, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 22211,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 1064603.783,
+				["TimeData"] = {
+					["Player Damage Done"] = {
+						1297.003781, -- [1]
+						939, -- [2]
+						4377, -- [3]
+						1297, -- [4]
+						1326, -- [5]
+						6066, -- [6]
+						6502, -- [7]
+						11703, -- [8]
+						5484, -- [9]
+						14804, -- [10]
+						8169, -- [11]
+						5405.00000000001, -- [12]
+						13000, -- [13]
+						7736, -- [14]
+						2380, -- [15]
+						4688, -- [16]
+						2452, -- [17]
+						3975, -- [18]
+						0, -- [19]
+						1015, -- [20]
+						10154, -- [21]
+						3992, -- [22]
+						8088, -- [23]
+						4587, -- [24]
+						2089, -- [25]
+						5532, -- [26]
+						4588, -- [27]
+						7118, -- [28]
+						4738, -- [29]
+						6186, -- [30]
+						5986, -- [31]
+						11232, -- [32]
+						4039, -- [33]
+						1087, -- [34]
+						6715, -- [35]
+						5045, -- [36]
+						5775, -- [37]
+						6263, -- [38]
+						5985, -- [39]
+						2384, -- [40]
+						5774, -- [41]
+						649, -- [42]
+						7153, -- [43]
+						746, -- [44]
+						5333, -- [45]
+						4282, -- [46]
+						4923, -- [47]
+						10363, -- [48]
+						2649, -- [49]
+						15222, -- [50]
+						7436, -- [51]
+						4393, -- [52]
+						4120, -- [53]
+						1297, -- [54]
+						3010, -- [55]
+						5774, -- [56]
+						2304, -- [57]
+						4120, -- [58]
+						648, -- [59]
+						2821, -- [60]
+						6861, -- [61]
+						2304, -- [62]
+						8808, -- [63]
+						2304, -- [64]
+						3389, -- [65]
+						4120, -- [66]
+						648, -- [67]
+						4120, -- [68]
+						649, -- [69]
+						5045, -- [70]
+						8516, -- [71]
+						2304, -- [72]
+						8125, -- [73]
+						649, -- [74]
+						1086, -- [75]
+						5417, -- [76]
+						649, -- [77]
+						1087, -- [78]
+						3681, -- [79]
+						1996, -- [80]
+						6372, -- [81]
+						4923, -- [82]
+						9406, -- [83]
+						9100, -- [84]
+						8075, -- [85]
+						14540, -- [86]
+						8731, -- [87]
+						8621, -- [88]
+						11948, -- [89]
+						1249, -- [90]
+						8040, -- [91]
+						648, -- [92]
+						2742, -- [93]
+						5336, -- [94]
+						3828, -- [95]
+						8079, -- [96]
+						2303, -- [97]
+						2173, -- [98]
+						3683, -- [99]
+						1736, -- [100]
+						4120, -- [101]
+						648, -- [102]
+						1086, -- [103]
+						["max_value"] = 15222,
+					},
+					["Raid Damage Done"] = {
+						1297, -- [1]
+						939, -- [2]
+						1344, -- [3]
+						1297, -- [4]
+						1326, -- [5]
+						0, -- [6]
+						6502, -- [7]
+						8670, -- [8]
+						5484, -- [9]
+						8738, -- [10]
+						8169, -- [11]
+						5405, -- [12]
+						9967, -- [13]
+						7736, -- [14]
+						2380, -- [15]
+						1655, -- [16]
+						2452, -- [17]
+						942, -- [18]
+						0, -- [19]
+						1015, -- [20]
+						7121, -- [21]
+						3992, -- [22]
+						5055, -- [23]
+						4587, -- [24]
+						2089, -- [25]
+						2499, -- [26]
+						4588, -- [27]
+						4085, -- [28]
+						4738, -- [29]
+						3153, -- [30]
+						5986, -- [31]
+						8199, -- [32]
+						4039, -- [33]
+						1087, -- [34]
+						649, -- [35]
+						5045, -- [36]
+						2742, -- [37]
+						6263, -- [38]
+						2952, -- [39]
+						2384, -- [40]
+						2741, -- [41]
+						649, -- [42]
+						1087, -- [43]
+						746, -- [44]
+						5333, -- [45]
+						1249, -- [46]
+						4923, -- [47]
+						7330, -- [48]
+						2649, -- [49]
+						15222, -- [50]
+						4403, -- [51]
+						4393, -- [52]
+						1087, -- [53]
+						1297, -- [54]
+						3010, -- [55]
+						2741, -- [56]
+						2304, -- [57]
+						1087, -- [58]
+						648, -- [59]
+						2821, -- [60]
+						3828, -- [61]
+						2304, -- [62]
+						2742, -- [63]
+						2304, -- [64]
+						3389, -- [65]
+						6565, -- [66]
+						648, -- [67]
+						1087, -- [68]
+						649, -- [69]
+						5045, -- [70]
+						5483, -- [71]
+						2304, -- [72]
+						5092, -- [73]
+						649, -- [74]
+						1086, -- [75]
+						7863, -- [76]
+						649, -- [77]
+						1087, -- [78]
+						648, -- [79]
+						1996, -- [80]
+						3339, -- [81]
+						4923, -- [82]
+						3339, -- [83]
+						9100, -- [84]
+						8075, -- [85]
+						11507, -- [86]
+						8731, -- [87]
+						8621, -- [88]
+						8915, -- [89]
+						1249, -- [90]
+						5007, -- [91]
+						648, -- [92]
+						2742, -- [93]
+						2303, -- [94]
+						3828, -- [95]
+						5046, -- [96]
+						2303, -- [97]
+						2173, -- [98]
+						649, -- [99]
+						1736, -- [100]
+						1087, -- [101]
+						648, -- [102]
+						1086, -- [103]
+						["max_value"] = 15222,
+					},
+				},
+				["pvp"] = true,
+			}, -- [1]
+			{
+				{
+					["combatId"] = 9,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002656,
+							["spec"] = 267,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 48881,
+							},
+							["pets"] = {
+								"塞里考 <国王走下神探>", -- [1]
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1502017855,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 36805.002656,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 48881.002656,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "国王走下神探",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[157736] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 4678,
+										["g_amt"] = 0,
+										["n_max"] = 1214,
+										["targets"] = {
+											["训练假人"] = 10765,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6087,
+										["n_min"] = 227,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 10765,
+										["c_max"] = 2406,
+										["id"] = 157736,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 2272,
+									},
+									[127802] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1207,
+										["targets"] = {
+											["训练假人"] = 1207,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1207,
+										["n_min"] = 1207,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1207,
+										["c_max"] = 0,
+										["id"] = 127802,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[152108] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 24833,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["训练假人"] = 24833,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 24833,
+										["c_max"] = 24833,
+										["id"] = 152108,
+										["r_dmg"] = 0,
+										["spellschool"] = 36,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 24833,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-727-0342CCA5",
+							["last_dps"] = 2816.86179079492,
+							["custom"] = 0,
+							["last_event"] = 1502017195,
+							["damage_taken"] = 0.002656,
+							["start_time"] = 1502017836,
+							["delay"] = 1502017195,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.00704,
+							["serial"] = "Pet-0-3904-870-30856-78158-0201B305CF",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 12076,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 12076.00704,
+							["dps_started"] = false,
+							["total"] = 12076.00704,
+							["classe"] = "PET",
+							["ownerName"] = "国王走下神探",
+							["nome"] = "塞里考 <国王走下神探>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[85692] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3019,
+										["targets"] = {
+											["训练假人"] = 12076,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12076,
+										["n_min"] = 3019,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 12076,
+										["c_max"] = 0,
+										["id"] = 85692,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1502017194,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.00704,
+							["start_time"] = 1502017182,
+							["delay"] = 0,
+							["last_event"] = 1502017189,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 9,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 9,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 9,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime"] = 17,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[157736] = {
+										["refreshamt"] = 0,
+										["uptime"] = 17,
+										["activedamt"] = 1,
+										["id"] = 157736,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["spec"] = 267,
+							["grupo"] = true,
+							["nome"] = "国王走下神探",
+							["pets"] = {
+								"塞里考 <国王走下神探>", -- [1]
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 25,
+							["classe"] = "WARLOCK",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[165830] = {
+										["refreshamt"] = 0,
+										["uptime"] = 10,
+										["activedamt"] = 1,
+										["id"] = 165830,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[108366] = {
+										["refreshamt"] = 0,
+										["uptime"] = 15,
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-727-0342CCA5",
+							["last_event"] = 1502017194,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "国王走下神探",
+							["nome"] = "塞里考 <国王走下神探>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[85692] = 4,
+							},
+							["serial"] = "Pet-0-3904-870-30856-78158-0201B305CF",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 9,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["国王走下神探"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 40,
+				["playing_solo"] = true,
+				["totals"] = {
+					48880.9548629706, -- [1]
+					-0.00428, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.0172880000001214,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["国王走下神探"] = 47466.002656,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 1063942.978,
+				["combat_id"] = 9,
+				["instance_type"] = "none",
+				["frags"] = {
+					["丶谜恋-血色十字军"] = 1,
+				},
+				["data_fim"] = "18:59:54",
+				["data_inicio"] = "18:59:37",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					36805, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 1063925.625,
+				["TimeData"] = {
+					["Player Damage Done"] = {
+						26040.002656, -- [1]
+						0, -- [2]
+						2272, -- [3]
+						0, -- [4]
+						0, -- [5]
+						4233, -- [6]
+						0, -- [7]
+						4227, -- [8]
+						0, -- [9]
+						2406, -- [10]
+						3019, -- [11]
+						0, -- [12]
+						4132, -- [13]
+						0, -- [14]
+						1137, -- [15]
+						0, -- [16]
+						0, -- [17]
+						["max_value"] = 26040.002656,
+					},
+					["Raid Damage Done"] = {
+						26040, -- [1]
+						0, -- [2]
+						2272, -- [3]
+						0, -- [4]
+						0, -- [5]
+						1214, -- [6]
+						0, -- [7]
+						1208, -- [8]
+						0, -- [9]
+						2406, -- [10]
+						0, -- [11]
+						0, -- [12]
+						1113, -- [13]
+						0, -- [14]
+						1137, -- [15]
+						0, -- [16]
+						0, -- [17]
+						["max_value"] = 26040,
+					},
+				},
+				["pvp"] = true,
+			}, -- [2]
+		},
+	},
+	["ignore_nicktag"] = false,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["character_data"] = {
-		["logons"] = 2,
-	},
-	["last_instance_time"] = 0,
 	["tabela_instancias"] = {
 	},
-	["combat_id"] = 8,
+	["combat_id"] = 10,
 	["savedStyles"] = {
 	},
-	["SoloTablesSaved"] = {
-		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
-		["Mode"] = 1,
-	},
-	["cached_talents"] = {
-		["Player-727-0342CCA5"] = {
-			22044, -- [1]
-			19280, -- [2]
-			22046, -- [3]
-			22090, -- [4]
-			19291, -- [5]
-			19294, -- [6]
-		},
-	},
+	["combat_counter"] = 41,
+	["force_font_outline"] = "",
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -1983,6 +1510,314 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.014773,
+					["friendlyfire"] = {
+						["国王走下神探"] = {
+							["spells"] = {
+								[1454] = 10957,
+							},
+							["total"] = 10957,
+						},
+					},
+					["damage_from"] = {
+						["国王走下神探"] = true,
+					},
+					["targets"] = {
+						["训练假人"] = 555733,
+					},
+					["pets"] = {
+						"塞里考 <国王走下神探> <国王走下神探>", -- [1]
+					},
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["classe"] = "WARLOCK",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 401104.014773,
+					["friendlyfire_total"] = 10957,
+					["dps_started"] = false,
+					["end_time"] = 1502017194,
+					["on_hold"] = false,
+					["spec"] = 267,
+					["nome"] = "国王走下神探",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[127802] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 2718,
+								["g_amt"] = 0,
+								["n_max"] = 1291,
+								["targets"] = {
+									["训练假人"] = 11357,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8639,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 11357,
+								["c_max"] = 2718,
+								["id"] = 127802,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[980] = {
+								["c_amt"] = 19,
+								["b_amt"] = 0,
+								["c_dmg"] = 37073,
+								["g_amt"] = 0,
+								["n_max"] = 1250,
+								["targets"] = {
+									["训练假人"] = 85344,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 48271,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 64,
+								["total"] = 85344,
+								["c_max"] = 2499,
+								["id"] = 980,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 45,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[157736] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 4678,
+								["g_amt"] = 0,
+								["n_max"] = 1214,
+								["targets"] = {
+									["训练假人"] = 9350,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4672,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 9350,
+								["c_max"] = 2406,
+								["id"] = 157736,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[146739] = {
+								["c_amt"] = 10,
+								["b_amt"] = 0,
+								["c_dmg"] = 13557,
+								["g_amt"] = 0,
+								["n_max"] = 746,
+								["targets"] = {
+									["训练假人"] = 45345,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 31788,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 57,
+								["total"] = 45345,
+								["c_max"] = 1492,
+								["id"] = 146739,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 47,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[198590] = {
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 10924,
+								["g_amt"] = 0,
+								["n_max"] = 1904,
+								["targets"] = {
+									["训练假人"] = 107912,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 96988,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 58,
+								["total"] = 107912,
+								["c_max"] = 3807,
+								["id"] = 198590,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 55,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[233490] = {
+								["c_amt"] = 8,
+								["b_amt"] = 0,
+								["c_dmg"] = 33416,
+								["g_amt"] = 0,
+								["n_max"] = 2089,
+								["targets"] = {
+									["训练假人"] = 116963,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 83547,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 48,
+								["total"] = 116963,
+								["c_max"] = 4177,
+								["id"] = 233490,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 40,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[152108] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 24833,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["训练假人"] = 24833,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 24833,
+								["c_max"] = 24833,
+								["id"] = 152108,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["total"] = 555733.014773,
+					["serial"] = "Player-727-0342CCA5",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 10957.014773,
+					["start_time"] = 1502017071,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 4369,
+					["totalabsorbed"] = 0.012146,
+					["last_event"] = 0,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["训练假人"] = 154629,
+					},
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["classe"] = "PET",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 154629.012146,
+					["damage_taken"] = 0.012146,
+					["dps_started"] = false,
+					["total"] = 154629.012146,
+					["friendlyfire_total"] = 0,
+					["ownerName"] = "国王走下神探",
+					["nome"] = "塞里考 <国王走下神探> <国王走下神探>",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[85692] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 36397,
+								["g_amt"] = 0,
+								["n_max"] = 3034,
+								["targets"] = {
+									["训练假人"] = 154629,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 118232,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 45,
+								["total"] = 154629,
+								["c_max"] = 6067,
+								["id"] = 85692,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 39,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["end_time"] = 1502017958,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1502017854,
+					["delay"] = 0,
+					["serial"] = "Pet-0-3904-870-30856-78158-0201B305CF",
+				}, -- [2]
 			},
 		}, -- [1]
 		{
@@ -1993,11 +1828,230 @@ _detalhes_database = {
 		{
 			["tipo"] = 7,
 			["_ActorTable"] = {
+				{
+					["received"] = 22210.014937,
+					["resource"] = 0.014937,
+					["targets"] = {
+						["国王走下神探"] = 22210,
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["classe"] = "WARLOCK",
+					["fight_component"] = true,
+					["total"] = 22210.014937,
+					["nome"] = "国王走下神探",
+					["spec"] = 265,
+					["grupo"] = true,
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+							[17941] = {
+								["id"] = 17941,
+								["total"] = 10,
+								["targets"] = {
+									["国王走下神探"] = 10,
+								},
+								["counter"] = 10,
+							},
+							[1454] = {
+								["id"] = 1454,
+								["total"] = 22200,
+								["targets"] = {
+									["国王走下神探"] = 22200,
+								},
+								["counter"] = 2,
+							},
+						},
+					},
+					["tipo"] = 3,
+					["flag_original"] = 1297,
+					["last_event"] = 0,
+					["alternatepower"] = 0.014937,
+					["serial"] = "Player-727-0342CCA5",
+				}, -- [1]
 			},
 		}, -- [3]
 		{
 			["tipo"] = 9,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[233497] = {
+								["uptime"] = 13,
+								["activedamt"] = 0,
+								["id"] = 233497,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[233499] = {
+								["uptime"] = 7,
+								["activedamt"] = 0,
+								["id"] = 233499,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[157736] = {
+								["uptime"] = 17,
+								["activedamt"] = 1,
+								["id"] = 157736,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[233490] = {
+								["uptime"] = 26,
+								["activedamt"] = 0,
+								["id"] = 233490,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[980] = {
+								["uptime"] = 103,
+								["activedamt"] = 1,
+								["id"] = 980,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[233496] = {
+								["uptime"] = 26,
+								["activedamt"] = 0,
+								["id"] = 233496,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[233498] = {
+								["uptime"] = 7,
+								["activedamt"] = 0,
+								["id"] = 233498,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[198590] = {
+								["uptime"] = 49,
+								["activedamt"] = 0,
+								["id"] = 198590,
+								["refreshamt"] = 1,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[146739] = {
+								["uptime"] = 89,
+								["activedamt"] = 1,
+								["id"] = 146739,
+								["refreshamt"] = 5,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["buff_uptime"] = 362,
+					["classe"] = "WARLOCK",
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[5697] = {
+								["uptime"] = 103,
+								["activedamt"] = 1,
+								["id"] = 5697,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[126659] = {
+								["uptime"] = 20,
+								["activedamt"] = 1,
+								["id"] = 126659,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[127230] = {
+								["uptime"] = 103,
+								["activedamt"] = 1,
+								["id"] = 127230,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[165830] = {
+								["uptime"] = 18,
+								["activedamt"] = 3,
+								["id"] = 165830,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[108366] = {
+								["uptime"] = 118,
+								["activedamt"] = 2,
+								["id"] = 108366,
+								["refreshamt"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 337,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 267,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[172] = 6,
+						[30108] = 12,
+						[198590] = 12,
+						[980] = 6,
+						[1454] = 2,
+					},
+					["debuff_uptime_targets"] = {
+					},
+					["tipo"] = 4,
+					["nome"] = "国王走下神探",
+					["pets"] = {
+						"塞里考 <国王走下神探> <国王走下神探>", -- [1]
+					},
+					["serial"] = "Player-727-0342CCA5",
+					["last_event"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 4369,
+					["ownerName"] = "国王走下神探",
+					["nome"] = "塞里考 <国王走下神探> <国王走下神探>",
+					["spell_cast"] = {
+						[85692] = 45,
+					},
+					["pets"] = {
+					},
+					["classe"] = "PET",
+					["last_event"] = 0,
+					["serial"] = "Pet-0-3904-870-30856-78158-0201B305CF",
+					["tipo"] = 4,
+				}, -- [2]
 			},
 		}, -- [4]
 		{
@@ -2005,58 +2059,22 @@ _detalhes_database = {
 			["_ActorTable"] = {
 			},
 		}, -- [5]
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-			["damage"] = {
-			},
-		},
-		["start_time"] = 0,
-		["data_inicio"] = 0,
-		["combat_counter"] = 7,
-		["last_events_tables"] = {
-		},
 		["raid_roster"] = {
 		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
+		["last_events_tables"] = {
 		},
-		["frags"] = {
+		["alternate_power"] = {
 		},
-		["data_fim"] = 0,
+		["combat_counter"] = 39,
 		["totals"] = {
-			0, -- [1]
-			0, -- [2]
+			1970720.013409, -- [1]
+			-0.004484, -- [2]
 			{
 				0, -- [1]
-				[0] = 0,
-				[6] = 0,
+				[0] = 22234.004784,
+				["alternatepower"] = 0,
 				[3] = 0,
+				[6] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
@@ -2071,25 +2089,86 @@ _detalhes_database = {
 			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
 		},
-		["CombatSkillCache"] = {
-		},
 		["player_last_events"] = {
 		},
 		["frags_need_refresh"] = false,
+		["__call"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["end_time"] = 1064707.208,
+		["data_inicio"] = "18:59:37",
+		["frags"] = {
+		},
+		["data_fim"] = "19:12:38",
+		["overall_enemy_name"] = "训练假人",
+		["CombatSkillCache"] = {
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 103.425000000047,
+				["name"] = "训练假人",
+				["clock"] = "19:10:55",
+			}, -- [1]
+			{
+				["elapsed"] = 17.3530000001192,
+				["name"] = "训练假人",
+				["clock"] = "18:59:37",
+			}, -- [2]
+		},
+		["start_time"] = 1064586.43,
 		["TimeData"] = {
 			["Player Damage Done"] = {
 			},
 			["Raid Damage Done"] = {
 			},
 		},
-		["__call"] = {
+		["totals_grupo"] = {
+			555733.006437, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 22210.006502,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
 		},
 	},
-	["last_realversion"] = 115,
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
 	["local_instances_config"] = {
 		{
 			["segment"] = 0,
 			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = true,
+			["is_open"] = true,
+			["isLocked"] = false,
 			["sub_atributo_last"] = {
 				1, -- [1]
 				1, -- [2]
@@ -2097,18 +2176,17 @@ _detalhes_database = {
 				1, -- [4]
 				1, -- [5]
 			},
-			["is_open"] = true,
-			["isLocked"] = false,
 			["snap"] = {
+				[2] = 2,
 			},
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = 191.250061035156,
-					["x"] = -607.999969482422,
+					["y"] = 122.001831054688,
+					["x"] = -800,
 					["w"] = 320,
-					["h"] = 130.000045776367,
+					["h"] = 129.999984741211,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -2118,8 +2196,51 @@ _detalhes_database = {
 				},
 			},
 		}, -- [1]
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = true,
+			["is_open"] = true,
+			["isLocked"] = false,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+				[4] = 1,
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -27.9982299804688,
+					["x"] = -800,
+					["w"] = 320,
+					["h"] = 129.999984741211,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
 	},
-	["last_version"] = "v7.1.0.3231",
+	["cached_talents"] = {
+		["Player-727-0342CCA5"] = {
+			21182, -- [1]
+			22044, -- [2]
+			19280, -- [3]
+			22046, -- [4]
+			22090, -- [5]
+			19291, -- [6]
+		},
+	},
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
@@ -2128,21 +2249,13 @@ _detalhes_database = {
 		["channel"] = "RAID",
 	},
 	["nick_tag_cache"] = {
-		["nextreset"] = 1483444638,
-		["last_version"] = 8,
+		["nextreset"] = 1503311863,
+		["last_version"] = 9,
 	},
 	["last_instance_id"] = 0,
 	["cached_specs"] = {
-		["Player-741-041DC331"] = 260,
-		["Player-741-0226D34C"] = 270,
-		["Player-741-03EA7FB4"] = 64,
-		["Player-886-02886559"] = 252,
-		["Player-886-04C31C0E"] = 581,
-		["Player-727-03E3C55A"] = 269,
-		["Player-727-02A7B6F4"] = 259,
-		["Player-727-045905ED"] = 71,
-		["Player-741-0458B350"] = 269,
+		["Player-710-03FA75FC"] = 72,
+		["Player-2121-0AEF20FB"] = 577,
 		["Player-727-0342CCA5"] = 265,
-		["Player-886-028203A6"] = 259,
 	},
 }

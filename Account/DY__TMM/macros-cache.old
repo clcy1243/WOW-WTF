@@ -1,0 +1,33 @@
+VER 3 0000000000000024 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,talent:5/2][talent:5/2]意志洞悉; [@mouseover,help,nodead,talent:5/3][talent:5/3]暗影盟约
+END
+VER 3 0000000000000025 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/1]能量灌注;[talent:7/3]福音;[@targettarget,harm][]暗影魔
+END
+VER 3 0000000000000027 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 漂浮术
+/cast [btn:1]漂浮术
+/cancelaura [btn:2]漂浮术
+END
+VER 3 0000000000000022 "1" "INV_MISC_QUESTIONMARK"
+/run for k, v in pairs({ ["炮舰"] = 32098, ["怒之煞"] = 32099, ["纳拉克"] = 32518, ["乌达斯塔"] = 32519}) do print(format("%s: %s", k, IsQuestFlaggedCompleted(v) and "\124cff00ff00已杀\124r" or "\124cffff0000未杀\124r")) end
+END
+VER 3 0000000000000026 "buff_prisst" "INV_MISC_QUESTIONMARK"
+#showtooltop
+/cast [@vuhdo,spec:1] 恳求;[@vuhdo,spec:2] 恢复;[@vuhdo,spec:3] 真言术：盾
+END
+VER 3 000000000000001B "cleansing_prisst" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@vuhdo,spec:1][@vuhdo,spec:2]纯净术; [@vuhdo,spec:3] 净化疾病
+END
+VER 3 0000000000000018 "DS" "SPELL_SHADOW_ANTIMAGICSHELL"
+/click ExtraActionButton1
+END
+VER 3 0000000000000028 "远古魔力" "INV_MISC_QUESTIONMARK"
+/run local a={41138,42230,42488,42833,42792,42842,43988,43989,43986,43987}for i,q in ipairs(a)do print(i,IsQuestFlaggedCompleted(q))end
+END
+VER 3 0000000000000023 "防掉线" "INV_MISC_QUESTIONMARK"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript("OnUpdate",X)
+END

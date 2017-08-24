@@ -89,7 +89,7 @@ ExtraBarsSave = {
 					},
 				}, -- [2]
 			},
-			["Left"] = 1232.00024414063,
+			["Left"] = 1232.00036621094,
 			["ShowTooltips"] = true,
 			["NumberOfButtons"] = 12,
 			["FlyoutDirections"] = {
@@ -198,7 +198,7 @@ ExtraBarsSave = {
 					},
 				}, -- [2]
 			},
-			["Left"] = 1232.00024414063,
+			["Left"] = 1232.00036621094,
 			["ShowTooltips"] = true,
 			["NumberOfButtons"] = 12,
 			["FlyoutDirections"] = {
@@ -307,7 +307,7 @@ ExtraBarsSave = {
 					},
 				}, -- [2]
 			},
-			["Left"] = 1232.00024414063,
+			["Left"] = 1232.00036621094,
 			["ShowTooltips"] = true,
 			["NumberOfButtons"] = 12,
 			["FlyoutDirections"] = {
@@ -327,7 +327,7 @@ ExtraBarsSave = {
 			["Scale"] = 1,
 			["UseVerticalLayout"] = false,
 			["HideEmptyButtons"] = false,
-			["Top"] = 298.000030517578,
+			["Top"] = 298.000061035156,
 		}, -- [3]
 		{
 			["Enabled"] = false,
@@ -416,7 +416,7 @@ ExtraBarsSave = {
 					},
 				}, -- [2]
 			},
-			["Left"] = 1232.00024414063,
+			["Left"] = 1232.00036621094,
 			["ShowTooltips"] = true,
 			["NumberOfButtons"] = 12,
 			["FlyoutDirections"] = {
@@ -436,7 +436,7 @@ ExtraBarsSave = {
 			["Scale"] = 1,
 			["UseVerticalLayout"] = false,
 			["HideEmptyButtons"] = false,
-			["Top"] = 367.999969482422,
+			["Top"] = 368,
 		}, -- [4]
 	},
 	["VersionMinor"] = 0,

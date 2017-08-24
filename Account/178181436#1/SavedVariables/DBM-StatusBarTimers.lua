@@ -4,6 +4,7 @@ DBT_AllPersistentOptions = {
 		["DBM"] = {
 			["StartColorPR"] = 1,
 			["Scale"] = 0.899999976158142,
+			["HugeBarsEnabled"] = false,
 			["EnlargeBarsPercent"] = 0.125,
 			["StartColorR"] = 1,
 			["EndColorPR"] = 0.501960784313726,

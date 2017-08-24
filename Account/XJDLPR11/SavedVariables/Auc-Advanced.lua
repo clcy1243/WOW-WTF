@@ -37,6 +37,6 @@ AucAdvancedServers = {
 	},
 	["Timestamp"] = 1477303136,
 	["KnownServerKeys"] = {
-		["#瓦拉斯塔兹"] = 1484805671,
+		["#瓦拉斯塔兹"] = 1502176964,
 	},
 }

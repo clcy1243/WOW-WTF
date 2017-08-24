@@ -168,22 +168,26 @@ EnchantConfig = {
 				["price5"] = 322931,
 				["timestamp"] = 1488331789,
 			},
-			[14343] = {
-				["market"] = 23000,
-				["timestamp"] = 1477311979,
-			},
 			[129034] = {
 				["timestamp"] = 1478784876,
 				["price5"] = 1730836,
 				["market"] = 500000,
 			},
-			[76140] = {
-				["market"] = 40000,
-				["timestamp"] = 1477310951,
+			[14343] = {
+				["market"] = 23000,
+				["timestamp"] = 1477311979,
 			},
 			[130175] = {
 				["timestamp"] = 1477234233,
 				["market"] = 90000,
+			},
+			[76140] = {
+				["market"] = 40000,
+				["timestamp"] = 1477310951,
+			},
+			[124440] = {
+				["market"] = 50000,
+				["timestamp"] = 1477234583,
 			},
 			[52177] = {
 				["market"] = 10000,
@@ -193,17 +197,17 @@ EnchantConfig = {
 				["market"] = 10000,
 				["timestamp"] = 1478754931,
 			},
-			[11176] = {
-				["timestamp"] = 1478631878,
-				["market"] = 10000,
-			},
-			[124440] = {
-				["market"] = 50000,
-				["timestamp"] = 1477234583,
-			},
 			[52193] = {
 				["market"] = 10000,
 				["timestamp"] = 1478754931,
+			},
+			[11175] = {
+				["timestamp"] = 1478631878,
+				["market"] = 7000,
+			},
+			[11176] = {
+				["timestamp"] = 1478631878,
+				["market"] = 10000,
 			},
 			[133588] = {
 				["price5"] = 36647,
@@ -213,13 +217,13 @@ EnchantConfig = {
 				["timestamp"] = 1477234233,
 				["market"] = 400000,
 			},
-			[76133] = {
-				["market"] = 10000,
-				["timestamp"] = 1477310951,
-			},
 			[130174] = {
 				["timestamp"] = 1477234233,
 				["market"] = 90000,
+			},
+			[34052] = {
+				["timestamp"] = 1477311032,
+				["market"] = 70000,
 			},
 			[52721] = {
 				["timestamp"] = 1487784742,
@@ -230,24 +234,24 @@ EnchantConfig = {
 				["timestamp"] = 1477311033,
 				["market"] = 35000,
 			},
-			[130180] = {
-				["timestamp"] = 1477234233,
-				["market"] = 400000,
-			},
 			[90407] = {
 				["timestamp"] = 1477310951,
 			},
-			[133589] = {
-				["price5"] = 16527,
-				["timestamp"] = 1484151068,
+			[10940] = {
+				["market"] = 7000,
+				["timestamp"] = 1477311981,
+			},
+			[76133] = {
+				["market"] = 10000,
+				["timestamp"] = 1477310951,
 			},
 			[76141] = {
 				["market"] = 40000,
 				["timestamp"] = 1477310951,
 			},
-			[136654] = {
-				["price5"] = 40448,
-				["timestamp"] = 1484737653,
+			[10939] = {
+				["timestamp"] = 1483057407,
+				["market"] = 7000,
 			},
 			[74252] = {
 				["market"] = 40000,
@@ -257,9 +261,9 @@ EnchantConfig = {
 				["market"] = 50000,
 				["timestamp"] = 1477311994,
 			},
-			[10940] = {
-				["market"] = 7000,
-				["timestamp"] = 1477311981,
+			[136654] = {
+				["price5"] = 40448,
+				["timestamp"] = 1484737653,
 			},
 			[124441] = {
 				["timestamp"] = 1478981073,
@@ -274,9 +278,9 @@ EnchantConfig = {
 				["timestamp"] = 1477234233,
 				["market"] = 90000,
 			},
-			[79253] = {
-				["market"] = 70000,
-				["timestamp"] = 1483624792,
+			[130180] = {
+				["timestamp"] = 1477234233,
+				["market"] = 400000,
 			},
 			[11178] = {
 				["timestamp"] = 1478631878,
@@ -286,9 +290,10 @@ EnchantConfig = {
 				["price5"] = 4841133,
 				["timestamp"] = 1478784781,
 			},
-			[11175] = {
-				["timestamp"] = 1478631878,
-				["market"] = 7000,
+			[3371] = {
+				["timestamp"] = 1499862786,
+				["price5"] = 10692,
+				["market"] = 20,
 			},
 			[133592] = {
 				["price5"] = 39739,
@@ -377,17 +382,17 @@ EnchantConfig = {
 				["timestamp"] = 1477234233,
 				["market"] = 1,
 			},
-			[22450] = {
-				["timestamp"] = 1478776837,
-				["market"] = 10000,
+			[79253] = {
+				["market"] = 70000,
+				["timestamp"] = 1483624792,
 			},
 			[123919] = {
 				["price5"] = 371938,
 				["timestamp"] = 1484153330,
 			},
-			[10939] = {
-				["timestamp"] = 1483057407,
-				["market"] = 7000,
+			[133589] = {
+				["price5"] = 16527,
+				["timestamp"] = 1484151068,
 			},
 			[22445] = {
 				["market"] = 12500,
@@ -405,9 +410,9 @@ EnchantConfig = {
 				["timestamp"] = 1477234233,
 				["market"] = 400000,
 			},
-			[34052] = {
-				["timestamp"] = 1477311032,
-				["market"] = 70000,
+			[22450] = {
+				["timestamp"] = 1478776837,
+				["market"] = 10000,
 			},
 			[124102] = {
 				["price5"] = 137255,
@@ -471,7 +476,7 @@ EnchantConfig = {
 			[130180] = "晨光石#|cff0070dd|Hitem:130180::::::::100:250::::::|h[晨光石]|h|r#3#110#1#商业技能#珠宝加工#200##1379200",
 			[21886] = "Primal Life#|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:73|h[Primal Life]|h|r#2#65#0#Trade Goods#Elemental#20##Interface\\Icons\\INV_Elemental_Primal_Life",
 			[76142] = "日曜石#|cff0070dd|Hitem:76142::::::::90:70::::::|h[日曜石]|h|r#3#90#0#商业技能#珠宝加工#200##629527",
-			[22445] = "奥法之尘#|cffffffff|Hitem:22445::::::::110:105::::::|h[奥法之尘]|h|r#1#60#0#弹药#附魔材料#200##132854",
+			[22445] = "奥法之尘#|cffffffff|Hitem:22445::::::::110:105::::::|h[奥法之尘]|h|r#1#60#0#商业技能#附魔材料#200##132854",
 			[37704] = "Crystallized Life#|cffffffff|Hitem:37704:0:0:0:0:0:0:0:62|h[Crystallized Life]|h|r#1#75#0#Trade Goods#Elemental#10##Interface\\Icons\\INV_Elemental_Crystal_Life",
 			[52555] = "催眠之尘#|cffffffff|Hitem:52555::::::::80:250::::::|h[催眠之尘]|h|r#1#81#0#商业技能#附魔材料#200##463877",
 			[130181] = "邪魔绿晶#|cff0070dd|Hitem:130181::::::::100:250::::::|h[邪魔绿晶]|h|r#3#110#1#商业技能#珠宝加工#200##1379196",
@@ -495,7 +500,7 @@ EnchantConfig = {
 			[7909] = "Aquamarine#|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:100:251:0:0:0|h[Aquamarine]|h|r#2#45#0#Gem#Simple#200##Interface\\ICONS\\INV_Misc_Gem_Crystal_02.blp",
 			[111245] = "辉光碎片#|cff0070dd|Hitem:111245::::::::110:581::::::|h[辉光碎片]|h|r#3#100#0#弹药#附魔材料#200##1003593",
 			[23436] = "Living Ruby#|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:100:251:0:0:0|h[Living Ruby]|h|r#3#70#0#Gem#Red#200##Interface\\ICONS\\INV_Jewelcrafting_LivingRuby_02.blp",
-			[22446] = "强效位面精华#|cff1eff00|Hitem:22446::::::::110:105::::::|h[强效位面精华]|h|r#2#65#0#弹药#附魔材料#200##132860",
+			[22446] = "强效位面精华#|cff1eff00|Hitem:22446::::::::110:105::::::|h[强效位面精华]|h|r#2#65#0#商业技能#附魔材料#200##132860",
 			[12800] = "Azerothian Diamond#|cff1eff00|Hitem:12800:0:0:0:0:0:0:0:100:251:0:0:0|h[Azerothian Diamond]|h|r#2#60#0#Gem#Simple#200##Interface\\ICONS\\INV_Misc_Gem_Diamond_01.blp",
 			[12808] = "Essence of Undeath#|cff1eff00|Hitem:12808:0:0:0:0:0:0:0:82:0|h[Essence of Undeath]|h|r#2#55#0#Trade Goods#Elemental#10##Interface\\Icons\\Spell_Shadow_ShadeTrueSight",
 			[36860] = "Eternal Fire#|cff1eff00|Hitem:36860:0:0:0:0:0:0:0:80|h[Eternal Fire]|h|r#2#75#0#Trade Goods#Elemental#20##Interface\\Icons\\INV_Elemental_Eternal_Fire",
@@ -541,7 +546,7 @@ EnchantConfig = {
 			[136654] = "野外急救包#|cffffffff|Hitem:136654::::::::110:270::::::|h[野外急救包]|h|r#1#105#1#商业技能#其它#200##1387611",
 			[34052] = "梦境碎片#|cff0070dd|Hitem:34052::::::::110:269::::::|h[梦境碎片]|h|r#3#80#0#商业技能#附魔材料#200##237015",
 			[133589] = "达拉佩诺胡椒#|cffffffff|Hitem:133589::::::::110:104::::::|h[达拉佩诺胡椒]|h|r#1#1#0#商业技能#烹饪#200##1387643",
-			[124442] = "混沌水晶#|cffa335ee|Hitem:124442::::::::110:268::::::|h[混沌水晶]|h|r#4#110#0#商业技能#附魔材料#200##1379176",
+			[124442] = "混沌水晶#|cffa335ee|Hitem:124442::::::::110:577::::::|h[混沌水晶]|h|r#4#110#0#商业技能#附魔材料#200##1379176",
 			[113264] = "Sorcerous Air#|cff1eff00|Hitem:113264:0:0:0:0:0:0:0:100:267:0:0:0|h[Sorcerous Air]|h|r#2#100#0#Trade Goods#Elemental#200##Interface\\ICONS\\INV_TRADESKILLITEM_SORCERERSWIND_TONG.blp",
 			[39338] = "Golden Pigment#|cffffffff|Hitem:39338:0:0:0:0:0:0:0:93:0:0:0|h[Golden Pigment]|h|r#1#20#0#Trade Goods#Other#200##Interface\\ICONS\\INV_Inscription_Pigment_Golden.blp",
 			[39354] = "Light Parchment#|cffffffff|Hitem:39354:0:0:0:0:0:0:0:96:0:0:0|h[Light Parchment]|h|r#1#1#0#Trade Goods#Other#200##Interface\\ICONS\\INV_Inscription_Papyrus.blp",
@@ -572,18 +577,18 @@ EnchantConfig = {
 			[34054] = "无限之尘#|cffffffff|Hitem:34054::::::::110:105::::::|h[无限之尘]|h|r#1#70#0#商业技能#附魔材料#200##237286",
 			[37663] = "Titansteel Bar#|cff1eff00|Hitem:37663:0:0:0:0:0:0:0:43|h[Titansteel Bar]|h|r#2#80#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ingot_Titansteel_blue",
 			[39340] = "Violet Pigment#|cffffffff|Hitem:39340:0:0:0:0:0:0:0:93:0:0:0|h[Violet Pigment]|h|r#1#40#0#Trade Goods#Other#200##Interface\\ICONS\\INV_Inscription_Pigment_Violet.blp",
-			[3371] = "Crystal Vial#|cffffffff|Hitem:3371:0:0:0:0:0:0:0:84:0|h[Crystal Vial]|h|r#1#1#0#Trade Goods#Other#20##Interface\\Icons\\INV_Alchemy_LeadedVial",
+			[3371] = "水晶瓶#|cffffffff|Hitem:3371::::::::110:105::::::|h[水晶瓶]|h|r#1#1#0#商业技能#其它#200##132380",
 			[52179] = "Alicite#|cff1eff00|Hitem:52179:0:0:0:0:0:0:0:100:251:0:0:0|h[Alicite]|h|r#2#81#0#Gem#Yellow#200##Interface\\ICONS\\INV_MISC_UNCUTGEMSUPERIOR.BLP",
 			[115504] = "Fractured Temporal Crystal#|cffa335ee|Hitem:115504:0:0:0:0:0:0:0:15:0:0:0|h[Fractured Temporal Crystal]|h|r#4#95#0#Trade Goods#Enchanting#200##interface\\ICONS\\INV_Enchanting_WOD_crystalshard4.blp",
 			[52722] = "漩涡水晶#|cffa335ee|Hitem:52722::::::::110:102::::::|h[漩涡水晶]|h|r#4#85#0#商业技能#附魔材料#200##463517",
 			[36913] = "Saronite Bar#|cffffffff|Hitem:36913:0:0:0:0:0:0:0:80:0|h[Saronite Bar]|h|r#1#80#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ingot_Yoggthorite",
 			[36929] = "Huge Citrine#|cff1eff00|Hitem:36929:0:0:0:0:0:0:0:100:251:0:0:0|h[Huge Citrine]|h|r#2#75#0#Gem#Orange#200##Interface\\ICONS\\INV_Jewelcrafting_Gem_09.blp",
-			[90146] = "修补匠的工具箱#|cffffffff|Hitem:90146::::::::110:105::::::|h[修补匠的工具箱]|h|r#1#60#0#弹药#零件#200##133875",
+			[90146] = "修补匠的工具箱#|cffffffff|Hitem:90146::::::::110:104::::::|h[修补匠的工具箱]|h|r#1#60#0#商业技能#零件#200##133875",
 			[43109] = "Icy Pigment#|cff1eff00|Hitem:43109:0:0:0:0:0:0:0:100:105:0:0:0|h[Icy Pigment]|h|r#2#80#0#Trade Goods#Other#200##Interface\\ICONS\\INV_Inscription_Pigment_Icy.blp",
 			[38558] = "Nerubian Chitin#|cffffffff|Hitem:38558:0:0:0:0:0:0:0:85:0|h[Nerubian Chitin]|h|r#1#70#0#Trade Goods#Leather#20##Interface\\Icons\\INV_Misc_NerubianChitin_01",
 			[23439] = "Noble Topaz#|cff0070dd|Hitem:23439:0:0:0:0:0:0:0:100:251:0:0:0|h[Noble Topaz]|h|r#3#70#0#Gem#Orange#200##Interface\\ICONS\\INV_Jewelcrafting_NobleTopaz_02.blp",
 			[34055] = "强效宇宙精华#|cff1eff00|Hitem:34055::::::::110:105::::::|h[强效宇宙精华]|h|r#2#75#0#商业技能#附魔材料#200##237016",
-			[22449] = "大块棱光碎片#|cff0070dd|Hitem:22449::::::::110:105::::::|h[大块棱光碎片]|h|r#3#70#0#弹药#附魔材料#200##132881",
+			[22449] = "大块棱光碎片#|cff0070dd|Hitem:22449::::::::110:105::::::|h[大块棱光碎片]|h|r#3#70#0#商业技能#附魔材料#200##132881",
 			[22457] = "Primal Mana#|cff1eff00|Hitem:22457:0:0:0:0:0:0:0:69:0|h[Primal Mana]|h|r#2#65#0#Trade Goods#Elemental#20##Interface\\Icons\\INV_Elemental_Primal_Mana",
 			[109693] = "德拉诺之尘#|cffffffff|Hitem:109693::::::::110:581::::::|h[德拉诺之尘]|h|r#1#100#0#弹药#附魔材料#200##1003597",
 			[39341] = "Silvery Pigment#|cffffffff|Hitem:39341:0:0:0:0:0:0:0:93:0:0:0|h[Silvery Pigment]|h|r#1#50#0#Trade Goods#Other#200##Interface\\ICONS\\INV_Inscription_Pigment_Silvery.blp",
@@ -613,7 +618,7 @@ EnchantConfig = {
 			[23440] = "Dawnstone#|cff0070dd|Hitem:23440:0:0:0:0:0:0:0:100:251:0:0:0|h[Dawnstone]|h|r#3#70#0#Gem#Yellow#200##Interface\\ICONS\\INV_Jewelcrafting_Dawnstone_02.blp",
 			[34057] = "深渊水晶#|cffa335ee|Hitem:34057::::::::110:105::::::|h[深渊水晶]|h|r#4#80#0#商业技能#附魔材料#200##237013",
 			[35622] = "Eternal Water#|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:80|h[Eternal Water]|h|r#2#75#0#Trade Goods#Elemental#20##Interface\\Icons\\INV_Elemental_Eternal_Water",
-			[22450] = "虚空水晶#|cffa335ee|Hitem:22450::::::::110:268::::::|h[虚空水晶]|h|r#4#70#0#商业技能#附魔材料#200##132885",
+			[22450] = "虚空水晶#|cffa335ee|Hitem:22450::::::::110:102::::::|h[虚空水晶]|h|r#4#70#0#商业技能#附魔材料#200##132885",
 			[36926] = "Shadow Crystal#|cff1eff00|Hitem:36926:0:0:0:0:0:0:0:100:251:0:0:0|h[Shadow Crystal]|h|r#2#75#0#Gem#Purple#200##Interface\\ICONS\\INV_Jewelcrafting_Gem_11.blp",
 			[36784] = "Siren's Tear#|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:80|h[Siren's Tear]|h|r#3#75#0#Gem#Simple#20##Interface\\Icons\\INV_Misc_Gem_Pearl_11",
 			[128304] = "伊瑟拉莱之种#|cffffffff|Hitem:128304::::::::110:102::::::|h[伊瑟拉莱之种]|h|r#1#101#0#商业技能#草药#200##1416160",
@@ -735,25 +740,26 @@ EnchantConfig = {
 			["日曜石"] = "item:76142:0:0:0",
 			["朱砂玛瑙"] = "item:76140:0:0:0",
 			["修补匠的工具箱"] = "item:90146:0:0:0",
-			["宝石碎片"] = "item:129100:0:0:0",
 			["入梦叶"] = "item:124102:0:0:0",
-			["野外急救包"] = "item:136654:0:0:0",
+			["宝石碎片"] = "item:129100:0:0:0",
 			["布林顿电路设计教程"] = "item:132518:0:0:0",
+			["野外急救包"] = "item:136654:0:0:0",
 			["伊瑟拉莱之种"] = "item:128304:0:0:0",
-			["星光玫瑰"] = "item:124105:0:0:0",
 			["源红石"] = "item:76131:0:0:0",
+			["星光玫瑰"] = "item:124105:0:0:0",
+			["混沌水晶"] = "item:124442:0:0:0",
 			["漩涡水晶"] = "item:52722:0:0:0",
 			["虚空水晶"] = "item:22450:0:0:0",
-			["混沌水晶"] = "item:124442:0:0:0",
-			["阿卡纳精华"] = "item:124440:0:0:0",
 			["夏斯卡格草"] = "item:124104:0:0:0",
+			["阿卡纳精华"] = "item:124440:0:0:0",
 			["混沌尖晶"] = "item:130175:0:0:0",
 			["邪煞水晶碎片"] = "item:105718:0:0:0",
 			["晨光石"] = "item:130180:0:0:0",
-			["时光水晶"] = "item:113588:0:0:0",
 			["邪煞水晶"] = "item:74248:0:0:0",
-			["邪能页岩"] = "item:123919:0:0:0",
 			["暗影紫玉"] = "item:130183:0:0:0",
+			["水晶瓶"] = "item:3371:0:0:0",
+			["邪能页岩"] = "item:123919:0:0:0",
+			["时光水晶"] = "item:113588:0:0:0",
 			["荒玉"] = "item:76139:0:0:0",
 			["灵魂尘"] = "item:74249:0:0:0",
 			["漩涡蓝玉"] = "item:130182:0:0:0",

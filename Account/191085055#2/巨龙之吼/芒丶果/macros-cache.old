@@ -1,0 +1,16 @@
+VER 3 0100000000000001 "RUA" "458972"
+#showtooltip
+/cast 战吼
+/cast 天神下凡
+END
+VER 3 0100000000000002 "刷碎片一键宏" "132369"
+#showtooltip
+/cast 战吼
+/cast 浴血奋战
+/cast 旋风斩
+END
+VER 3 0100000000000003 "宏" "970854"
+#showtooltip
+/cast 战吼
+/cast [@cursor] 破坏者
+END

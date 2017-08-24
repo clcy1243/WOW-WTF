@@ -89,36 +89,36 @@ BeanCounterDBSettings = {
 	["configator.left"] = 560.000061035156,
 	["太阳之井"] = {
 		["募落葒顔"] = {
-			["tasks.sortArray"] = 1481513578,
+			["tasks.sortArray"] = 1502268652,
 			["version"] = 3.04,
 			["faction"] = "Horde",
-			["tasks.compactDB"] = 1481513578,
+			["tasks.compactDB"] = 1502268652,
 			["wealth"] = 129173082,
-			["tasks.prunePostedDB"] = 1481513578,
+			["tasks.prunePostedDB"] = 1502268652,
 			["mailbox"] = {
 			},
 		},
 	},
 	["摩摩尔"] = {
 		["倾城丨小贼"] = {
-			["tasks.sortArray"] = 1481463679,
+			["tasks.sortArray"] = 1502114745,
 			["version"] = 3.04,
 			["faction"] = "Horde",
-			["tasks.compactDB"] = 1481463679,
+			["tasks.compactDB"] = 1502114745,
 			["wealth"] = 5002201,
-			["tasks.prunePostedDB"] = 1481463679,
+			["tasks.prunePostedDB"] = 1502114745,
 			["mailbox"] = {
 			},
 		},
 	},
 	["瓦拉斯塔兹"] = {
 		["国王走下神探"] = {
-			["tasks.sortArray"] = 1481456772,
+			["tasks.sortArray"] = 1502128586,
 			["version"] = 3.04,
 			["faction"] = "Horde",
-			["tasks.compactDB"] = 1481456772,
+			["tasks.compactDB"] = 1502128586,
 			["wealth"] = 5168259,
-			["tasks.prunePostedDB"] = 1481456772,
+			["tasks.prunePostedDB"] = 1502128586,
 			["mailbox"] = {
 			},
 		},

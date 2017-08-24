@@ -1,9 +1,12 @@
 
 InformantConfig = {
+	["welcomed"] = true,
+	["profile.Default"] = {
+	},
 	["position"] = {
-		["y"] = 512.000061035156,
+		["y"] = 752,
 		["x"] = 910.22216796875,
 	},
-	["welcomed"] = true,
 }
-InformantLocalUpdates = nil
+InformantLocalUpdates = {
+}

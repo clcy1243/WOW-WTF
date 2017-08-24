@@ -1,0 +1,60 @@
+BINDINGMODE 0
+bind BUTTON3 NONE
+bind A STRAFELEFT
+bind LEFT NONE
+bind D STRAFERIGHT
+bind RIGHT NONE
+bind Q CLICK BT4Button49:LeftButton
+bind E CLICK BT4Button50:LeftButton
+bind X ACTIONBUTTON12
+bind Z ACTIONBUTTON11
+bind NUMLOCK NONE
+bind R CLICK BT4Button51:LeftButton
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind 0 NONE
+bind - NONE
+bind = NONE
+bind CTRL-4 NONE
+bind CTRL-5 NONE
+bind CTRL-6 NONE
+bind CTRL-7 NONE
+bind CTRL-8 NONE
+bind CTRL-9 NONE
+bind CTRL-0 NONE
+bind F2 CLICK BT4Button52:LeftButton
+bind F3 CLICK BT4Button53:LeftButton
+bind F4 CLICK BT4Button54:LeftButton
+bind F5 NONE
+bind F CLICK BT4Button60:LeftButton
+bind U NONE
+bind T NONE
+bind ` CLICK BT4Button30:LeftButton
+bind ALT-Q CLICK BT4Button55:LeftButton
+bind ALT-E CLICK BT4Button56:LeftButton
+bind ALT-A NONE
+bind ALT-D NONE
+bind SHIFT-Q NONE
+bind SHIFT-E NONE
+bind SHIFT-S NONE
+bind CAPSLOCK NONE
+bind ALT-1 ACTIONBUTTON7
+bind ALT-2 ACTIONBUTTON8
+bind ALT-3 ACTIONBUTTON9
+bind ALT-4 ACTIONBUTTON10
+bind ALT-5 NONE
+bind ALT-6 NONE
+bind ALT-7 NONE
+bind ALT-8 NONE
+bind ALT-9 NONE
+bind ALT-0 NONE
+bind ALT-- NONE
+bind ALT-= NONE
+bind ALT-` CLICK BT4Button25:LeftButton
+bind ALT-R CLICK BT4Button57:LeftButton
+bind ALT-W NONE
+bind ALT-F CLICK BT4Button58:LeftButton
+bind , NONE
+bind CTRL-` NONE
+modifiedclick NONE SELFCAST

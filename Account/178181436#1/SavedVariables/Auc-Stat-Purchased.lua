@@ -22,7 +22,7 @@ AucAdvancedStatPurchasedData = {
 				[3860] = "0:1;2;101995.0;101995.0;101995.0",
 			},
 			["daily"] = {
-				["created"] = 1497885833,
+				["created"] = 1503575502,
 			},
 		},
 	},

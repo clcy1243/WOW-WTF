@@ -1,7 +1,7 @@
 
 AdiBagsDB = {
 	["namespaces"] = {
-		["军团再临"] = {
+		["Hearthstones"] = {
 		},
 		["ItemLevel"] = {
 		},
@@ -14,31 +14,32 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["Garrison"] = {
-		},
 		["NewItem"] = {
 		},
-		["ItemSets"] = {
+		["Garrison"] = {
+		},
+		["DataSource"] = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
 		["Legion"] = {
 		},
-		["Equipment"] = {
+		["CurrencyFrame"] = {
 		},
 		["MoneyFrame"] = {
 		},
-		["CurrencyFrame"] = {
+		["Equipment"] = {
 		},
-		["DataSource"] = {
+		["ItemSets"] = {
 		},
 		["Junk"] = {
 		},
-		["Hearthstones"] = {
+		["军团再临"] = {
 		},
 	},
 	["profileKeys"] = {
 		["雪丶小喵 - 太阳之井"] = "Default",
+		["雪丶小喵 - 能源舰"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

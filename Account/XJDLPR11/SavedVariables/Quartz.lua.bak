@@ -12,47 +12,52 @@ Quartz3DB = {
 		["Pet"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 810.22216796875,
+					["x"] = 875.238098144531,
 				},
 			},
-		},
-		["EnemyCasts"] = {
 		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 785.22216796875,
+					["x"] = 850.238098144531,
 				},
 			},
+		},
+		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},
 		["Focus"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 810.22216796875,
+					["x"] = 875.238098144531,
 				},
 			},
 		},
 		["Target"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 810.22216796875,
+					["x"] = 875.238098144531,
 				},
 			},
 		},
-		["Range"] = {
-		},
 		["Mirror"] = {
+		},
+		["Range"] = {
 		},
 		["Latency"] = {
 		},
 	},
 	["profileKeys"] = {
 		["落天一箭 - 瓦拉斯塔兹"] = "Default",
+		["露易十八岁 - 瓦拉斯塔兹"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["modules"] = {
+				["Mirror"] = false,
+				["Buff"] = false,
+			},
 		},
 	},
 }

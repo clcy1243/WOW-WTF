@@ -1,3 +1,16 @@
+VER 3 0000000000000005 "1" "INV_MISC_QUESTIONMARK"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button1
+END
+VER 3 0000000000000002 "DS" "136120"
+/click ExtraActionButton1
+END
+VER 3 0000000000000003 "取消保护" "135964"
+/cancelaura 保护祝福
+END
+VER 3 0000000000000004 "换T" "INV_MISC_QUESTIONMARK"
+/s 换T
+END
 VER 3 0000000000000001 "虚弱宏" "INV_MISC_QUESTIONMARK"
 /run RepopMe() RetrieveCorpse() 
 /run RepopMe() AcceptResurrect() AcceptXPLoss()

@@ -5794,8 +5794,8 @@ MogIt_OtherDB = {
 				["faction"] = 3,
 			},
 		},
-		[8275] = {
-			[14610] = {
+		[32424] = {
+			[81608] = {
 				["classes"] = 3584,
 				["sourceType"] = 3,
 				["faction"] = 3,
@@ -5961,11 +5961,11 @@ MogIt_OtherDB = {
 				["faction"] = 3,
 			},
 		},
-		[24677] = {
-			[66832] = {
-				["classes"] = 3072,
+		[8275] = {
+			[14610] = {
+				["classes"] = 3584,
 				["sourceType"] = 3,
-				["faction"] = 1,
+				["faction"] = 3,
 			},
 		},
 		[20536] = {
@@ -5982,10 +5982,10 @@ MogIt_OtherDB = {
 				["faction"] = 3,
 			},
 		},
-		[24550] = {
-			[66538] = {
+		[24677] = {
+			[66832] = {
 				["classes"] = 3072,
-				["sourceType"] = 2,
+				["sourceType"] = 3,
 				["faction"] = 1,
 			},
 		},
@@ -5996,18 +5996,18 @@ MogIt_OtherDB = {
 				["faction"] = 2,
 			},
 		},
+		[24550] = {
+			[66538] = {
+				["classes"] = 3072,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
 		[11704] = {
 			[22466] = {
 				["classes"] = 512,
 				["sourceType"] = 3,
 				["faction"] = 2,
-			},
-		},
-		[32424] = {
-			[81608] = {
-				["classes"] = 3584,
-				["sourceType"] = 3,
-				["faction"] = 3,
 			},
 		},
 		[31730] = {
@@ -7640,6 +7640,10 @@ MogIt_OtherDB = {
 						["instance"] = "魔导师平台",
 					}, -- [1]
 				},
+			},
+			[69441] = {
+				["classes"] = 3072,
+				["faction"] = 1,
 			},
 			[76743] = {
 				["classes"] = 3584,
@@ -14130,9 +14134,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -15505,9 +15509,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -16523,9 +16527,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -17634,9 +17638,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -19959,6 +19963,10 @@ MogIt_OtherDB = {
 			},
 		},
 		[2409] = {
+			[72438] = {
+				["classes"] = 3072,
+				["faction"] = 1,
+			},
 			[2805] = {
 				["classes"] = 3584,
 				["sourceType"] = 4,
@@ -20601,9 +20609,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -21540,9 +21548,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -21656,9 +21664,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -21737,9 +21745,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -23028,9 +23036,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -26985,9 +26993,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28044,9 +28052,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28076,9 +28084,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
+						["instance"] = "潘达利亚",
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 1,
@@ -28433,9 +28441,9 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "萨格拉斯之墓",
 						["difficulties"] = {
 						},
-						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
 				["faction"] = 1,

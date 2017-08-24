@@ -1,22 +1,23 @@
 
 AucAdvancedConfig = {
-	["version"] = 1,
 	["profile.Default"] = {
 		["stat"] = {
 			["sales"] = {
-				["upgraded32"] = true,
 				["ignoredsigs"] = {
 				},
+				["upgraded32"] = true,
 			},
 		},
 		["util"] = {
 			["automagic"] = {
-				["uierrormsg"] = 1,
+				["ammailguix"] = 160,
 				["SavedMailButtons"] = {
 				},
+				["uierrormsg"] = 1,
 			},
 		},
 	},
+	["version"] = 1,
 	["users.瓦拉斯塔兹.落天一箭"] = "Default",
 }
 AucAdvancedData = {
@@ -34,8 +35,8 @@ AucAdvancedServers = {
 	["KnownRealms"] = {
 		["瓦拉斯塔兹"] = "#瓦拉斯塔兹",
 	},
-	["Timestamp"] = 1477303136,
 	["KnownServerKeys"] = {
-		["#瓦拉斯塔兹"] = 1477303144,
+		["#瓦拉斯塔兹"] = 1502152184,
 	},
+	["Timestamp"] = 1477303136,
 }

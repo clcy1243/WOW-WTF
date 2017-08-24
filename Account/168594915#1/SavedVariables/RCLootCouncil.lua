@@ -4,9 +4,6 @@ RCLootCouncilDB = {
 		["ExtraUtilities"] = {
 		},
 	},
-	["profileKeys"] = {
-		["疯子的迷恋 - 巨龙之吼"] = "Default",
-	},
 	["global"] = {
 		["localizedSubTypes"] = {
 			["战刃"] = "Warglaives",
@@ -17,21 +14,26 @@ RCLootCouncilDB = {
 			["单手斧"] = "One-Handed Axes",
 			["弓"] = "Bows",
 			["created"] = true,
-			["板甲"] = "Plate",
+			["盾牌"] = "Shields",
 			["布甲"] = "Cloth",
 			["神器圣物"] = "Artifact Relic",
 			["法杖"] = "Staves",
-			["长柄武器"] = "Polearms",
+			["魔杖"] = "Wands",
 			["单手锤"] = "One-Handed Maces",
-			["单手剑"] = "One-Handed Swords",
+			["拳套"] = "Fist Weapons",
 			["锁甲"] = "Mail",
 			["枪械"] = "Guns",
 			["匕首"] = "Daggers",
-			["拳套"] = "Fist Weapons",
-			["魔杖"] = "Wands",
+			["单手剑"] = "One-Handed Swords",
+			["长柄武器"] = "Polearms",
 			["双手剑"] = "Two-Handed Swords",
-			["盾牌"] = "Shields",
+			["板甲"] = "Plate",
 		},
+		["verTestCandidates"] = {
+			["龙听雨-巨龙之吼"] = "2.3.0-nil: - 疯子的迷恋-巨龙之吼",
+		},
+		["version"] = "2.4.2",
+		["oldVersion"] = "2.3.0",
 		["log"] = {
 			"04/20/17", -- [1]
 			"21:11:41 - Logged In", -- [2]
@@ -180,11 +182,28 @@ RCLootCouncilDB = {
 			"22:03:23 - GetPlayersGuildRank()", -- [145]
 			"22:03:23 - Found Guild Rank: 勇士", -- [146]
 			"22:03:23 - Comm received:^1^SverTest^T^N1^S2.3.0^t^^ (from:) (疯子的迷恋) (distri:) (GUILD)", -- [147]
+			"06/25/17", -- [148]
+			"15:10:55 - Logged In", -- [149]
+			"15:10:55 - ML initialized!", -- [150]
+			"15:10:55 - Using ExtraUtilities (0.4.1)", -- [151]
+			"15:10:55 - EU:UpdateGuildInfo", -- [152]
+			"15:10:55 - GroupGear (1.2.3) (enabled)", -- [153]
+			"15:11:04 - 疯子的迷恋-巨龙之吼 (2.4.2) (nil)", -- [154]
+			"15:11:05 - Event: (PLAYER_ENTERING_WORLD)", -- [155]
+			"15:11:05 - GetML()", -- [156]
+			"15:11:05 - LootMethod =  (personalloot)", -- [157]
+			"15:11:05 - GetPlayersGuildRank()", -- [158]
+			"15:11:05 - Found Guild Rank: 督军", -- [159]
+			"15:11:05 - Comm received:^1^SverTest^T^N1^S2.4.2^t^^ (from:) (疯子的迷恋) (distri:) (GUILD)", -- [160]
+			"15:11:09 - Trying to extract non-english history update data", -- [161]
+			"15:11:09 - Result: (The Nighthold) (Trial of Valor) (The Emerald Nightmare) (Normal) (Heroic) (Mythic)", -- [162]
+			"15:17:58 - Event: (PARTY_LOOT_METHOD_CHANGED)", -- [163]
+			"15:17:58 - GetML()", -- [164]
+			"15:17:58 - LootMethod =  (personalloot)", -- [165]
 		},
-		["version"] = "2.3.0",
-		["verTestCandidates"] = {
-			["龙听雨-巨龙之吼"] = "2.3.0-nil: - 疯子的迷恋-巨龙之吼",
-		},
+	},
+	["profileKeys"] = {
+		["疯子的迷恋 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -7,9 +7,9 @@ raquantrepeatach = 5
 raquantrepeatachtm = 2
 raoldvern2 = 0
 raaddoninstalledsins = "7/12/2016"
-raminibutshowt = true
+raminibutshowt = false
 RA_Settings = {
-	["RAMinimapPos"] = -176,
+	["RAMinimapPos"] = -30.1030629224487,
 }
 rasoundtoplay = {
 	1, -- [1]
@@ -21,4 +21,4 @@ rasoundtoplay = {
 }
 raenablebg = 1
 psdonaspanvar = nil
-radonateq1 = 12
+radonateq1 = 50

@@ -4,12 +4,26 @@ END
 VER 3 000000000000000C "BF_Pet" "achievement_worldevent_brewmaster"
 /BFPET
 END
+VER 3 0000000000000010 "乞讨" "237554"
+/script SendChatMessage("请问这件装备你要吗？不要给我好吗？","whisper",GetDefaultLanguage("target"),UnitName("target")) 
+END
 VER 3 000000000000000D "坐骑" "Ability_Mount_Charger"
 /RandomMount
+END
+VER 3 0000000000000011 "最大视距" "INV_MISC_QUESTIONMARK"
+/run SetCVar("cameraDistanceMaxZoomFactor", 2.6)
+END
+VER 3 0000000000000013 "火箭靴" "132307"
+#showtooltip 6
+/use 6
 END
 VER 3 000000000000000E "确定按钮" "INV_MISC_QUESTIONMARK"
 /click StaticPopup1Button1
 END
-VER 3 000000000000000F "鼠标标记大饼" "INV_MISC_QUESTIONMARK"
-/script SetRaidTarget("mouseover",2)
+VER 3 0000000000000014 "缓落" "135992"
+#showtooltip 15
+/use 15
+END
+VER 3 0000000000000012 "血条显示距离" "INV_MISC_QUESTIONMARK"
+/run SetCVar("nameplateMaxDistance",40)
 END

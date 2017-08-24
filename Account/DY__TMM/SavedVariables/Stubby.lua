@@ -1,12 +1,12 @@
 
 StubbyConfig = {
 	["addinfo"] = {
-		["Enchantrix"] = "Enchantrix|Display information in item tooltips pertaining to disenchanting, prospecting, and milling results.  [7.2.5688] This AddOn is licensed under the GNU GPL, see GPL.txt for details.",
 		["Informant"] = "Informant|Displays detailed item information in tooltips, such as use, vendor sales information, and more.",
+		["Enchantrix"] = "Enchantrix|Display information in item tooltips pertaining to disenchanting, prospecting, and milling results.  [7.4.5714] This AddOn is licensed under the GNU GPL, see GPL.txt for details.",
 	},
 	["inspected"] = {
-		["Enchantrix"] = true,
 		["Informant"] = true,
+		["Enchantrix"] = true,
 	},
 	["configs"] = {
 		["informant"] = {

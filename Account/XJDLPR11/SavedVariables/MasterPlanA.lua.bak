@@ -5,5 +5,9 @@ MasterPlanAG = {
 			["class"] = "HUNTER",
 			["faction"] = "Horde",
 		},
+		["露易十八岁"] = {
+			["faction"] = "Horde",
+			["class"] = "MAGE",
+		},
 	},
 }

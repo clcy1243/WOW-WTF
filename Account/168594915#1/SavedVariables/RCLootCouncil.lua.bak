@@ -4,6 +4,9 @@ RCLootCouncilDB = {
 		["ExtraUtilities"] = {
 		},
 	},
+	["profileKeys"] = {
+		["疯子的迷恋 - 巨龙之吼"] = "Default",
+	},
 	["global"] = {
 		["localizedSubTypes"] = {
 			["战刃"] = "Warglaives",
@@ -14,25 +17,21 @@ RCLootCouncilDB = {
 			["单手斧"] = "One-Handed Axes",
 			["弓"] = "Bows",
 			["created"] = true,
-			["盾牌"] = "Shields",
+			["板甲"] = "Plate",
 			["布甲"] = "Cloth",
 			["神器圣物"] = "Artifact Relic",
 			["法杖"] = "Staves",
+			["长柄武器"] = "Polearms",
 			["单手锤"] = "One-Handed Maces",
-			["魔杖"] = "Wands",
-			["拳套"] = "Fist Weapons",
+			["单手剑"] = "One-Handed Swords",
 			["锁甲"] = "Mail",
 			["枪械"] = "Guns",
 			["匕首"] = "Daggers",
-			["单手剑"] = "One-Handed Swords",
-			["长柄武器"] = "Polearms",
+			["拳套"] = "Fist Weapons",
+			["魔杖"] = "Wands",
 			["双手剑"] = "Two-Handed Swords",
-			["板甲"] = "Plate",
+			["盾牌"] = "Shields",
 		},
-		["verTestCandidates"] = {
-			["龙听雨-巨龙之吼"] = "2.3.0-nil: - 疯子的迷恋-巨龙之吼",
-		},
-		["version"] = "2.3.0",
 		["log"] = {
 			"04/20/17", -- [1]
 			"21:11:41 - Logged In", -- [2]
@@ -168,10 +167,24 @@ RCLootCouncilDB = {
 			"21:41:19 - GetPlayersGuildRank()", -- [132]
 			"21:41:19 - Found Guild Rank: 勇士", -- [133]
 			"21:41:19 - Comm received:^1^SverTest^T^N1^S2.3.0^t^^ (from:) (疯子的迷恋) (distri:) (GUILD)", -- [134]
+			"04/20/17", -- [135]
+			"22:03:20 - Logged In", -- [136]
+			"22:03:20 - ML initialized!", -- [137]
+			"22:03:20 - Using ExtraUtilities (0.4.1)", -- [138]
+			"22:03:20 - EU:UpdateGuildInfo", -- [139]
+			"22:03:20 - GroupGear (1.2.3) (enabled)", -- [140]
+			"22:03:22 - 疯子的迷恋-巨龙之吼 (2.3.0) (nil)", -- [141]
+			"22:03:23 - Event: (PLAYER_ENTERING_WORLD)", -- [142]
+			"22:03:23 - GetML()", -- [143]
+			"22:03:23 - LootMethod =  (personalloot)", -- [144]
+			"22:03:23 - GetPlayersGuildRank()", -- [145]
+			"22:03:23 - Found Guild Rank: 勇士", -- [146]
+			"22:03:23 - Comm received:^1^SverTest^T^N1^S2.3.0^t^^ (from:) (疯子的迷恋) (distri:) (GUILD)", -- [147]
 		},
-	},
-	["profileKeys"] = {
-		["疯子的迷恋 - 巨龙之吼"] = "Default",
+		["version"] = "2.3.0",
+		["verTestCandidates"] = {
+			["龙听雨-巨龙之吼"] = "2.3.0-nil: - 疯子的迷恋-巨龙之吼",
+		},
 	},
 	["profiles"] = {
 		["Default"] = {

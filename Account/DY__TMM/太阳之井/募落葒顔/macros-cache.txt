@@ -1,19 +1,16 @@
-VER 3 0100000000000021 " 灵魂护壳" "INV_MISC_QUESTIONMARK"
-#showtooltip 灵魂护壳
-/cast 天使长
-/cast 灵魂护壳
-END
-VER 3 0100000000000028 "dot输出" "INV_MISC_QUESTIONMARK"
+VER 3 010000000000002C " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/click dot输出
+/cast [@player] 天堂之羽
 END
-VER 3 0100000000000020 "回蓝" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@targettarget,harm][]摧心魔
+VER 3 010000000000002A "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
-VER 3 010000000000000F "强效" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@mouseover,help,nodead][] 强效治疗术
+VER 3 010000000000002B "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]募落葒[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000002E "压制" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1]痛苦压制;[spec:2]守护之魂
+/cast [@target,help,nodead,spec:1]痛苦压制;[@target,help,nodead,spec:2]守护之魂
 END
 VER 3 0100000000000010 "快速" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -21,7 +18,7 @@ VER 3 0100000000000010 "快速" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000014 "恢复" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@mouseover,help,nodead][] 恢复
+/cast [@mouseover,help,nodead,spec:2][spec:2] 恢复;[@mouseover,help,nodead,spec:1][spec:1] 恳求
 END
 VER 3 0100000000000029 "惩击" "INV_MISC_QUESTIONMARK"
 #showtooltip 惩击
@@ -31,42 +28,41 @@ VER 3 0100000000000026 "愈合" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover,help,nodead][] 愈合祷言
 END
-VER 3 0100000000000024 "攻击" "SPELL_HOLY_PENANCE"
-#showtooltip
-/castsequence [@target,harm,nodead][@targettarget,harm,nodead][@targettargettarget,harm,nodead] reset=10 神圣之火,惩击,惩击,惩击,惩击,惩击;[help] 治疗术;治疗术
-END
 VER 3 0100000000000011 "治疗" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover,help,nodead][] 治疗术
-END
-VER 3 0100000000000022 "消失宏" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cancelaura 幽灵伪装
-/cast 幽灵伪装
-END
-VER 3 0100000000000019 "焦点盾" "INV_MISC_QUESTIONMARK"
-#showtooltip 真言术：盾
-/cast [@mouseover,help][]真言术：盾
 END
 VER 3 0100000000000013 "环" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover,help,nodead][] 治疗之环
 END
-VER 3 010000000000001F "神火" "INV_MISC_QUESTIONMARK"
-#showtooltip 神圣之火
-/cast [@targettarget,harm][]神圣之火
+VER 3 0100000000000019 "盾" "INV_MISC_QUESTIONMARK"
+#showtooltip 真言术：盾
+/cast  [@mouseover,help][@target,help][@targettarget,help][]真言术：盾
 END
-VER 3 0100000000000012 "群疗" "INV_MISC_QUESTIONMARK"
+VER 3 0100000000000028 "神火" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@mouseover,help,nodead][] 治疗祷言
+/cast [@mouseover,harm,spec:2][@target,harm,spec:2][@targettarget,harm,spec:2][spec:2]神圣之火;[@mouseover,harm][@target,harm][@targettarget,harm][]暗言术：痛
+END
+VER 3 0100000000000012 "群" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,spec:1][spec:1]真言术：耀;[@mouseover,help,nodead,spec:2][spec:2]治疗祷言
 END
 VER 3 0100000000000018 "联结" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@mouseover,help,nodead][] 联结治疗
+/cast [@mouseover,help,nodead,talent:5/2][@target,help,talent:5/2]联结治疗;[@mouseover,help,nodead,talent:7/3][talent:7/3]治疗之环;[@mouseover,help,nodead][]治疗祷言
 END
 VER 3 010000000000001A "苦修" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@mouseover,help,nodead][] 苦修
+/cast [@target,harm][@targettarget,harm][]苦修
+END
+VER 3 010000000000002F "触" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][@target,harm][@targettarget,harm][]吸血鬼之触
+END
+VER 3 010000000000002D "静" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]圣言术：静
 END
 VER 3 0100000000000016 "驱散" "INV_MISC_QUESTIONMARK"
 #showtooltip

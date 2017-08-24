@@ -49,6 +49,36 @@ RSADB = {
 			["Modules"] = {
 				["Priest"] = true,
 			},
+			["Priest"] = {
+				["Spells"] = {
+					["GuardianSpirit"] = {
+						["SmartGroup"] = true,
+					},
+					["Resurrection"] = {
+						["SmartGroup"] = false,
+						["Whisper"] = false,
+					},
+					["PowerInfusion"] = {
+						["SmartGroup"] = true,
+						["Local"] = false,
+					},
+					["DispelMagic"] = {
+						["SmartGroup"] = false,
+					},
+					["PowerWordBarrier"] = {
+						["SmartGroup"] = true,
+					},
+					["BodyAndSoul"] = {
+						["Whisper"] = false,
+					},
+					["MassRess"] = {
+						["SmartGroup"] = false,
+					},
+					["LeapOfFaith"] = {
+						["Whisper"] = false,
+					},
+				},
+			},
 		},
 	},
 }

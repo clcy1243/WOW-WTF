@@ -1,5 +1,47 @@
 
 Keyedv4DB = {
+	["factionrealm"] = {
+		["Horde - 巨龙之吼"] = {
+			["Player-861-04B9A7DE"] = {
+				["uid"] = "Player-861-04B9A7DE",
+				["name"] = "龙听雨",
+				["keystones"] = {
+					"|cffa335ee|Hkeystone:200:10:1:6:4:9|h[钥石：英灵殿]|h|r", -- [1]
+				},
+				["time"] = 1494501121,
+				["class"] = "MONK",
+			},
+		},
+		["Alliance - 主宰之剑"] = {
+			["Player-1955-01B843ED"] = {
+				["uid"] = "Player-1955-01B843ED",
+				["name"] = "龙轻雪",
+				["class"] = "DRUID",
+				["keystones"] = {
+					"|cffa335ee|Hkeystone:209:17:8:12:10|h[钥石：魔法回廊]|h|r", -- [1]
+				},
+				["time"] = 1503595853,
+				["weeklybest"] = {
+					["level"] = "16",
+					["mapID"] = "200",
+				},
+			},
+			["Player-1955-01C5F28F"] = {
+				["uid"] = "Player-1955-01C5F28F",
+				["time"] = 1503294323,
+				["class"] = "DEMONHUNTER",
+				["keystones"] = {
+					"|cffa335ee|Hkeystone:210:3:0:0:0|h[钥石：群星庭院]|h|r", -- [1]
+				},
+				["name"] = "龙剑曦",
+			},
+		},
+	},
+	["profileKeys"] = {
+		["龙轻雪 - 主宰之剑"] = "龙轻雪 - 主宰之剑",
+		["龙剑曦 - 主宰之剑"] = "龙剑曦 - 主宰之剑",
+		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
+	},
 	["profiles"] = {
 		["龙轻雪 - 主宰之剑"] = {
 			["minimap"] = {
@@ -14,41 +56,6 @@ Keyedv4DB = {
 		["龙听雨 - 巨龙之吼"] = {
 			["minimap"] = {
 				["minimapPos"] = 345.916368355509,
-			},
-		},
-	},
-	["profileKeys"] = {
-		["龙轻雪 - 主宰之剑"] = "龙轻雪 - 主宰之剑",
-		["龙剑曦 - 主宰之剑"] = "龙剑曦 - 主宰之剑",
-		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
-	},
-	["factionrealm"] = {
-		["Alliance - 主宰之剑"] = {
-			["Player-1955-01B843ED"] = {
-				["uid"] = "Player-1955-01B843ED",
-				["time"] = 1497501125,
-				["class"] = "DRUID",
-				["keystones"] = {
-					"|cffa335ee|Hkeystone:197:7:11:14:0|h[钥石：艾萨拉之眼]|h|r", -- [1]
-				},
-				["name"] = "龙轻雪",
-			},
-			["Player-1955-01C5F28F"] = {
-				["uid"] = "Player-1955-01C5F28F",
-				["class"] = "DEMONHUNTER",
-				["name"] = "龙剑曦",
-				["time"] = 1497506582,
-			},
-		},
-		["Horde - 巨龙之吼"] = {
-			["Player-861-04B9A7DE"] = {
-				["uid"] = "Player-861-04B9A7DE",
-				["name"] = "龙听雨",
-				["keystones"] = {
-					"|cffa335ee|Hkeystone:200:10:1:6:4:9|h[钥石：英灵殿]|h|r", -- [1]
-				},
-				["class"] = "MONK",
-				["time"] = 1494501121,
 			},
 		},
 	},

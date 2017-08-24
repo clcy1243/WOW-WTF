@@ -51,28 +51,40 @@ ExtraBarsSave = {
 				{
 					["Buttons"] = {
 						{
+							["Type"] = "empty",
 						}, -- [1]
 						{
+							["Type"] = "empty",
 						}, -- [2]
 						{
+							["Type"] = "empty",
 						}, -- [3]
 						{
+							["Type"] = "empty",
 						}, -- [4]
 						{
+							["Type"] = "empty",
 						}, -- [5]
 						{
+							["Type"] = "empty",
 						}, -- [6]
 						{
+							["Type"] = "empty",
 						}, -- [7]
 						{
+							["Type"] = "empty",
 						}, -- [8]
 						{
+							["Type"] = "empty",
 						}, -- [9]
 						{
+							["Type"] = "empty",
 						}, -- [10]
 						{
+							["Type"] = "empty",
 						}, -- [11]
 						{
+							["Type"] = "empty",
 						}, -- [12]
 					},
 				}, -- [2]
@@ -135,9 +147,9 @@ ExtraBarsSave = {
 				"UP", -- [12]
 			},
 			["Top"] = 157.999984741211,
-			["Scale"] = 1,
 			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
+			["Scale"] = 1,
 		}, -- [1]
 		{
 			["Enabled"] = true,
@@ -188,28 +200,40 @@ ExtraBarsSave = {
 				{
 					["Buttons"] = {
 						{
+							["Type"] = "empty",
 						}, -- [1]
 						{
+							["Type"] = "empty",
 						}, -- [2]
 						{
+							["Type"] = "empty",
 						}, -- [3]
 						{
+							["Type"] = "empty",
 						}, -- [4]
 						{
+							["Type"] = "empty",
 						}, -- [5]
 						{
+							["Type"] = "empty",
 						}, -- [6]
 						{
+							["Type"] = "empty",
 						}, -- [7]
 						{
+							["Type"] = "empty",
 						}, -- [8]
 						{
+							["Type"] = "empty",
 						}, -- [9]
 						{
+							["Type"] = "empty",
 						}, -- [10]
 						{
+							["Type"] = "empty",
 						}, -- [11]
 						{
+							["Type"] = "empty",
 						}, -- [12]
 					},
 				}, -- [2]
@@ -272,9 +296,9 @@ ExtraBarsSave = {
 				"UP", -- [12]
 			},
 			["Top"] = 228,
-			["Scale"] = 1,
 			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
+			["Scale"] = 1,
 		}, -- [2]
 		{
 			["Enabled"] = true,
@@ -325,28 +349,40 @@ ExtraBarsSave = {
 				{
 					["Buttons"] = {
 						{
+							["Type"] = "empty",
 						}, -- [1]
 						{
+							["Type"] = "empty",
 						}, -- [2]
 						{
+							["Type"] = "empty",
 						}, -- [3]
 						{
+							["Type"] = "empty",
 						}, -- [4]
 						{
+							["Type"] = "empty",
 						}, -- [5]
 						{
+							["Type"] = "empty",
 						}, -- [6]
 						{
+							["Type"] = "empty",
 						}, -- [7]
 						{
+							["Type"] = "empty",
 						}, -- [8]
 						{
+							["Type"] = "empty",
 						}, -- [9]
 						{
+							["Type"] = "empty",
 						}, -- [10]
 						{
+							["Type"] = "empty",
 						}, -- [11]
 						{
+							["Type"] = "empty",
 						}, -- [12]
 					},
 				}, -- [2]
@@ -409,9 +445,9 @@ ExtraBarsSave = {
 				"UP", -- [12]
 			},
 			["Top"] = 298.000030517578,
-			["Scale"] = 1,
 			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
+			["Scale"] = 1,
 		}, -- [3]
 		{
 			["Enabled"] = true,
@@ -462,28 +498,40 @@ ExtraBarsSave = {
 				{
 					["Buttons"] = {
 						{
+							["Type"] = "empty",
 						}, -- [1]
 						{
+							["Type"] = "empty",
 						}, -- [2]
 						{
+							["Type"] = "empty",
 						}, -- [3]
 						{
+							["Type"] = "empty",
 						}, -- [4]
 						{
+							["Type"] = "empty",
 						}, -- [5]
 						{
+							["Type"] = "empty",
 						}, -- [6]
 						{
+							["Type"] = "empty",
 						}, -- [7]
 						{
+							["Type"] = "empty",
 						}, -- [8]
 						{
+							["Type"] = "empty",
 						}, -- [9]
 						{
+							["Type"] = "empty",
 						}, -- [10]
 						{
+							["Type"] = "empty",
 						}, -- [11]
 						{
+							["Type"] = "empty",
 						}, -- [12]
 					},
 				}, -- [2]
@@ -546,9 +594,9 @@ ExtraBarsSave = {
 				"UP", -- [12]
 			},
 			["Top"] = 367.999969482422,
-			["Scale"] = 1,
 			["HideEmptyButtons"] = false,
 			["UseVerticalLayout"] = false,
+			["Scale"] = 1,
 		}, -- [4]
 	},
 	["VersionMinor"] = 0,

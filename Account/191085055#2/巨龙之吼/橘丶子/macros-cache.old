@@ -1,0 +1,47 @@
+VER 3 0100000000000007 " " "132328"
+/focus [btn:1]
+/clearfocus [btn:2]
+END
+VER 3 0100000000000008 " " "460695"
+#showtooltip
+/cast [@mouseover,harm,exists][] 浩劫
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:4/1]诡异魅影;[talent:4/3]灵魂收割;[]腐蚀之种
+END
+VER 3 0100000000000005 " " "136188"
+#showtooltip
+/cast [@mouseover,harm,exists][] 生命虹吸
+END
+VER 3 0100000000000006 " " "136139"
+#showtooltip
+/cast [@mouseover,harm,exists][] 痛楚
+END
+VER 3 0100000000000001 " " "135727"
+#showtooltip 狂暴
+/cast 狂暴
+/use 11
+/use 12
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura 恶魔法阵
+/cast 恶魔法阵
+END
+VER 3 0100000000000003 " " "136118"
+#showtooltip
+/cast [@mouseover,harm,exists][] 腐蚀术
+END
+VER 3 0100000000000004 " 焦点" "136188"
+#showtooltip
+/cast [@focus] 生命虹吸
+END
+VER 3 010000000000000B "焦点" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] 腐蚀术
+END
+VER 3 0100000000000002 "焦点" "136139"
+#showtooltip
+/cast [@focus] 痛楚
+END

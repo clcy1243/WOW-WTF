@@ -1,0 +1,41 @@
+
+AucAdvancedConfig = {
+	["users.巨龙之吼.橘丶子"] = "Default",
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["upgraded32"] = true,
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["uierrormsg"] = 1,
+				["SavedMailButtons"] = {
+				},
+			},
+		},
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["Stats"] = {
+	},
+}
+AucAdvancedServers = {
+	["ConnectedRealmTables"] = {
+		["#巨龙之吼"] = {
+			"巨龙之吼", -- [1]
+			"黑石尖塔", -- [2]
+		},
+	},
+	["Version"] = 1,
+	["KnownRealms"] = {
+		["巨龙之吼"] = "#巨龙之吼",
+	},
+	["Timestamp"] = 1501157403,
+	["KnownServerKeys"] = {
+		["#巨龙之吼"] = 1502341453,
+	},
+}

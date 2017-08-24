@@ -25,8 +25,8 @@ RSADB = {
 	["profiles"] = {
 		["龙剑曦 - 主宰之剑"] = {
 			["Modules"] = {
-				["Druid"] = true,
 				["DemonHunter"] = true,
+				["Druid"] = true,
 			},
 			["Druid"] = {
 				["Spells"] = {
@@ -51,8 +51,8 @@ RSADB = {
 				},
 			},
 			["General"] = {
-				["Race"] = "NightElf",
 				["Class"] = "DEMONHUNTER",
+				["Race"] = "NightElf",
 			},
 		},
 		["信仰丶圣光 - 摩摩尔"] = {
@@ -65,34 +65,25 @@ RSADB = {
 			},
 		},
 		["龙轻雪 - 主宰之剑"] = {
+			["General"] = {
+				["Race"] = "NightElf",
+				["Class"] = "DRUID",
+			},
 			["Modules"] = {
 				["Druid"] = true,
 			},
 			["Druid"] = {
 				["Spells"] = {
-					["UrsolsVortex"] = {
-						["SmartGroup"] = true,
-					},
-					["FrenziedRegeneration"] = {
-						["SmartGroup"] = true,
+					["Revive"] = {
+						["Whisper"] = false,
 					},
 					["Rebirth"] = {
 						["Whisper"] = false,
 					},
-					["RageOfTheSleeper"] = {
-						["SmartGroup"] = true,
-					},
-					["Revive"] = {
-						["Whisper"] = false,
-					},
-					["Barkskin"] = {
+					["UrsolsVortex"] = {
 						["SmartGroup"] = true,
 					},
 				},
-			},
-			["General"] = {
-				["Class"] = "DRUID",
-				["Race"] = "NightElf",
 			},
 		},
 		["斯特莱夫 - 瓦拉斯塔兹"] = {
@@ -184,6 +175,9 @@ RSADB = {
 			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
+			["Modules"] = {
+				["Monk"] = true,
+			},
 			["General"] = {
 				["Race"] = "Pandaren",
 				["Class"] = "MONK",
@@ -194,9 +188,6 @@ RSADB = {
 						["Whisper"] = false,
 					},
 				},
-			},
-			["Modules"] = {
-				["Monk"] = true,
 			},
 		},
 	},

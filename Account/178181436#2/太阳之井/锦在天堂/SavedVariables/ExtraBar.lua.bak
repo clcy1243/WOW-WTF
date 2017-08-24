@@ -134,10 +134,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 157.999984741211,
+			["UseVerticalLayout"] = false,
 			["Scale"] = 1,
 			["HideEmptyButtons"] = false,
-			["UseVerticalLayout"] = false,
+			["Top"] = 157.999984741211,
 		}, -- [1]
 		{
 			["Enabled"] = true,
@@ -271,10 +271,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 228,
+			["UseVerticalLayout"] = false,
 			["Scale"] = 1,
 			["HideEmptyButtons"] = false,
-			["UseVerticalLayout"] = false,
+			["Top"] = 228,
 		}, -- [2]
 		{
 			["Enabled"] = true,
@@ -408,10 +408,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 298.000030517578,
+			["UseVerticalLayout"] = false,
 			["Scale"] = 1,
 			["HideEmptyButtons"] = false,
-			["UseVerticalLayout"] = false,
+			["Top"] = 298.000030517578,
 		}, -- [3]
 		{
 			["Enabled"] = true,
@@ -545,10 +545,10 @@ ExtraBarsSave = {
 				"UP", -- [11]
 				"UP", -- [12]
 			},
-			["Top"] = 367.999969482422,
+			["UseVerticalLayout"] = false,
 			["Scale"] = 1,
 			["HideEmptyButtons"] = false,
-			["UseVerticalLayout"] = false,
+			["Top"] = 367.999969482422,
 		}, -- [4]
 	},
 	["VersionMinor"] = 0,

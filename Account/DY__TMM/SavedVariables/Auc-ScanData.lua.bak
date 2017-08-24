@@ -4,7 +4,7 @@ AucScanData = {
 	["scans"] = {
 		["#太阳之井"] = {
 			["scanstats"] = {
-				["ImageUpdated"] = 1473171655,
+				["ImageUpdated"] = 1500116980,
 			},
 			["image"] = "rope",
 			["ropes"] = {

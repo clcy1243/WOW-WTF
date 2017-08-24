@@ -1,93 +1,215 @@
 
 MogIt_OtherDB = {
-	["Back"] = {
-		[18206] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42875,
-			}, -- [1]
+	["Holdable"] = {
+		[22547] = {
+			[62221] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
-		[2038] = {
-			{
-				["classes"] = 256,
+		[24096] = {
+			[62360] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "卡加斯·刃拳",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[7066] = {
+			[12310] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "灰葬男爵",
+						["encounter"] = "坦普卢斯",
 						["tiers"] = {
-							"大地的裂变", -- [1]
-							"经典旧世", -- [2]
+							"燃烧的远征", -- [1]
 						},
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "影牙城堡",
+						["instance"] = "黑色沼泽",
 					}, -- [1]
 				},
-				["sourceID"] = 2340,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2527,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "深渊守护者",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑暗深渊",
-					}, -- [1]
-				},
-				["sourceID"] = 2641,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3528,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "刽子手戈尔",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑暗深渊",
-					}, -- [1]
-				},
-				["sourceID"] = 67922,
-				["faction"] = 2,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
-		[6110] = {
-			{
-				["classes"] = 256,
+		[316] = {
+			[4893] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "苍白的玛勒基",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "斯坦索姆",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[37355] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[20559] = {
+			[50316] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "雷神",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[2520] = {
+			[4202] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "审讯官格斯塔恩",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石深渊",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[6557] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[888] = {
+			[2625] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+		},
+		[22667] = {
+			[60193] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 13113,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+		},
+		[21142] = {
+			[54948] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[54951] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[55119] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[55122] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[22699] = {
+			[64531] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[19130] = {
+			[45189] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[26292] = {
+			[69693] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛诺洛斯",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[1525] = {
+			[10092] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17204] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6534] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[33161] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[10116] = {
+			[18789] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
@@ -113,16 +235,1901 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
-				["sourceID"] = 18781,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+		},
+		[893] = {
+			[8737] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[766] = {
+			[4324] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "达格兰·索瑞森大帝",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石深渊",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[12437] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "末日预言者达尔莉安",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "禁魔监狱",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[21302] = {
+			[61849] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "克尔苏加德",
+						["encounter"] = "嗜血的索克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[1787] = {
+			[26200] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[8631] = {
+			[15360] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[895] = {
+			[869] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17545] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[1790] = {
+			[1967] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[7160] = {
+			[16311] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20579] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[14979] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[12414] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20581] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[16251] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[16259] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[15740] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20584] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[15609] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[25266] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[15554] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[25264] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20571] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20572] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[14665] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[24006] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20573] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20578] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20574] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[15201] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20582] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20583] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20576] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[25253] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20577] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[25265] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[19394] = {
+			[47020] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[771] = {
+			[6511] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[9729] = {
+			[17597] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塑血者沙尔拉姆",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "净化斯坦索姆",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[8216] = {
+			[14430] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[15893] = {
+			[36592] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "护门人贝尔洛克",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "火焰之地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[5659] = {
+			[32889] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[11817] = {
+			[22686] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加拉克苏斯大王",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[22753] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加拉克苏斯大王",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[20568] = {
+			[50916] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "铁穹",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[11841] = {
+			[22712] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瓦格里双子",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[22779] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瓦格里双子",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[14927] = {
+			[34094] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[10340] = {
+			[19370] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "天启四骑士",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [2]
+				},
+				["faction"] = 3,
+			},
+		},
+		[14943] = {
+			[34194] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[47078] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[19131] = {
+			[45190] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[46320] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "受诅者魔封",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[3618] = {
+			[6514] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[3619] = {
+			[4846] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "巴纳扎尔",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "斯坦索姆",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[7645] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[12404] = {
+			[24684] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "逃离阿尔萨斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "映像大厅",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[4689] = {
+			[6482] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[17175] = {
+			[40212] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[14496] = {
+			[31540] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[4703] = {
+			[6513] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10084] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4705] = {
+			[6519] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4707] = {
+			[29303] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[10091] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6521] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[33155] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[4709] = {
+			[6523] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4711] = {
+			[7390] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "戈多克大王",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "厄运之槌",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[17196] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6529] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[35707] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[4713] = {
+			[6532] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4715] = {
+			[6536] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4717] = {
+			[6545] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4719] = {
+			[6550] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4721] = {
+			[6552] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[5747] = {
+			[8475] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "莫阿姆",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安其拉废墟",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[19363] = {
+			[46801] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[3648] = {
+			[13066] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[3649] = {
+			[6873] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[19395] = {
+			[47072] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[3651] = {
+			[7618] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛格曼达",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "熔火之心",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加尔",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "熔火之心",
+					}, -- [2]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "迦顿男爵",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "熔火之心",
+					}, -- [3]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "焚化者古雷曼格",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "熔火之心",
+					}, -- [4]
+				},
+				["faction"] = 3,
+			},
+			[18484] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[29744] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[3652] = {
+			[21054] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[7415] = {
+				["classes"] = 256,
+				["faction"] = 2,
+			},
+			[21058] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[7647] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[3653] = {
+			[49048] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[4864] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "档案管理员加尔福特",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "斯坦索姆",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[21297] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[7437] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[21055] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[69217] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[3654] = {
+			[7646] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[21057] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[21051] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[21059] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[17553] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[22090] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[18332] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[16652] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[16121] = {
+			[39818] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥卓克希昂",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "巨龙之魂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[5787] = {
+			[8539] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "双子皇帝",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安其拉神殿",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[19004] = {
+			[44706] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "刀锋领主塔亚克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "恐惧之心",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[10049] = {
+			[18552] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[7336] = {
+			[12682] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "埃兰之影",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "卡拉赞",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[7340] = {
+			[14928] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "灵魂之匣",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑暗神殿",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[12686] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "虚空幽龙",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "卡拉赞",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[14578] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[22158] = {
+			[66852] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "远古的保卫者",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[66853] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "远古的保卫者",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[26286] = {
+			[69692] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "血魔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[21232] = {
+			[61016] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "堕落的守护者",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[6859] = {
+			[11925] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "无疤者奥摩尔",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火城墙",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[17569] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "戈托克·苍蹄",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "乌特加德之巅",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[25336] = {
+			[71739] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[70450] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71738] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[70449] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[17176] = {
+			[40213] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[46319] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "受诅者魔封",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[1339] = {
+			[6525] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21304] = {
+			[61847] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "嗜血的索克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[13742] = {
+			[28616] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[21352] = {
+			[61954] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加尔鲁什·地狱咆哮",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[6889] = {
+			[11962] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "酋长卡加斯·刃拳",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "破碎大厅",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[69452] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+		},
+		[25456] = {
+			[70989] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[73157] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛诺洛斯",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[71522] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[19332] = {
+			[47021] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[13271] = {
+			[26887] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "厄祖玛特",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "潮汐王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[27637] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "厄祖玛特",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "潮汐王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[19364] = {
+			[47075] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[19380] = {
+			[46318] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "受诅者魔封",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[3716] = {
+			[10089] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17200] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6512] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[8179] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[31756] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[27963] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[4669] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[27959] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[3717] = {
+			[4671] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21983] = {
+			[62156] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[932] = {
+			[7328] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "践踏者克雷格",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "厄运之槌",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[16386] = {
+			[37673] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[9247] = {
+			[16544] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔达拉姆王子",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "安卡赫特：古代王国",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[935] = {
+			[10083] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[22159] = {
+			[66854] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "远古的保卫者",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[20131] = {
+			[53308] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[53311] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[7989] = {
+			[13949] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "雷基·冬寒",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "海加尔山之战",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[938] = {
+			[2071] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[13937] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[939] = {
+			[3244] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[31263] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[2356] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "沃登勋爵",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+							"经典旧世", -- [2]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影牙城堡",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[29405] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[14453] = {
+			[31299] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[13439] = {
+			[27404] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "高阶女祭司艾苏尔",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "巨石之核",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[27677] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "高阶女祭司艾苏尔",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "巨石之核",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[7496] = {
+			[13014] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[2731] = {
+			[10086] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[18329] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[9878] = {
+			[17966] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "召唤者诺沃斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "达克萨隆要塞",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[34177] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[11942] = {
+			[22958] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瓦格里双子",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[23126] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瓦格里双子",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+		},
+		[22838] = {
+			[67582] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[21824] = {
+			[65523] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21353] = {
+			[61953] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加尔鲁什·地狱咆哮",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[1886] = {
+			[6543] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[11978] = {
+			[23093] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瓦格里双子",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[23188] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瓦格里双子",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[13519] = {
+			[27559] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[7538] = {
+			[13062] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[7540] = {
+			[13064] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[7542] = {
+			[13067] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[8433] = {
+			[15018] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[7552] = {
+			[13083] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[21984] = {
+			[65529] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2250] = {
+			[6516] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6539] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[8465] = {
+			[15067] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[15623] = {
+			[35786] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[13619] = {
+			[27897] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[27900] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[1901] = {
+			[6555] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[6568] = {
+			[10087] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10093] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[17553] = {
+			[84398] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "跳跳大王",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+							"时空漫游", -- [2]
+						},
+						["instance"] = "风暴烈酒酿造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[10074] = {
+			[18719] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "黑女巫法琳娜",
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
@@ -131,13 +2138,3298 @@ MogIt_OtherDB = {
 						},
 						["instance"] = "纳克萨玛斯",
 					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [2]
 				},
-				["sourceID"] = 18863,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+		},
+		[26288] = {
+			[69690] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "血魔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[21737] = {
+			[66377] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[7113] = {
+			[21056] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[16533] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "阿诺玛鲁斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "魔枢",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[12359] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "灵术师塞比瑟蕾",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "能源舰",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[31296] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[11148] = {
+			[21298] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[25338] = {
+			[70827] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[70828] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[71360] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71361] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[20236] = {
+			[49645] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "墨格瑞拉",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[8605] = {
+			[15317] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[19141] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[3823] = {
+			[4819] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[8625] = {
+			[15352] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[2804] = {
+			[3581] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[13743] = {
+			[28617] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[6117] = {
+			[19298] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "帕奇维克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [2]
+				},
+				["faction"] = 3,
+			},
+		},
+		[21354] = {
+			[61955] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加尔鲁什·地狱咆哮",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[22392] = {
+			[62220] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[24452] = {
+			[62690] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[72752] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[481] = {
+			[6548] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[3837] = {
+			[6540] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[5113] = {
+			[24197] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥妮克希亚",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥妮克希亚的巢穴",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[962] = {
+			[17201] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17207] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[18392] = {
+			[47746] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[21985] = {
+			[67870] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[65527] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[72526] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[3848] = {
+			[4853] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[32279] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[11869] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[6527] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17197] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6538] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[32274] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[3338] = {
+			[4078] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "火眼莫德雷斯",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "剃刀高地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[10085] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[25637] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[21570] = {
+			[61612] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁战蝎",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[12342] = {
+			[24595] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[24825] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "鲜血王子议会",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[6185] = {
+			[39172] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[14406] = {
+			[30719] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[6193] = {
+			[39171] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[11356] = {
+			[21755] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "科隆加恩",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[26289] = {
+			[69694] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛诺洛斯",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[22209] = {
+			[59639] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[61169] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[14454] = {
+			[31300] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[5193] = {
+			[7190] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "兰斯利德",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "玛拉顿",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[8841] = {
+			[15772] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "布鲁塔卢斯",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "太阳之井高地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[717] = {
+			[6530] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[20237] = {
+			[50854] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "墨格瑞拉",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[22835] = {
+			[64006] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[22668] = {
+			[64532] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[718] = {
+			[6558] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4700] = {
+			[15010] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[14587] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[26994] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6506] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17199] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26992] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4702] = {
+			[6508] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4704] = {
+			[6518] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17209] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4706] = {
+			[6520] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26993] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26997] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6546] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26995] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26999] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41583] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6535] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41689] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41532] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41795] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[8114] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41742] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41636] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[9911] = {
+			[18046] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[19236] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "药剂师诺斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [2]
+				},
+				["faction"] = 3,
+			},
+		},
+		[4710] = {
+			[6524] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4712] = {
+			[6531] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4714] = {
+			[6533] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10094] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26998] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[14586] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[34250] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[10438] = {
+			[19604] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[4718] = {
+			[6549] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17206] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4720] = {
+			[6551] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4722] = {
+			[6553] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[24453] = {
+			[62689] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[4701] = {
+			[6507] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[19359] = {
+			[52016] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[52015] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[47074] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[7285] = {
+			[12578] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+				},
+				["faction"] = 3,
+			},
+		},
+		[11735] = {
+			[22528] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加拉克苏斯大王",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[22536] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加拉克苏斯大王",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+		},
+		[12007] = {
+			[89201] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[6184] = {
+			[39173] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[931] = {
+			[2904] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6541] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[13552] = {
+			[27648] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "如花",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石岩窟",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[22992] = {
+			[67583] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[3398] = {
+			[78333] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6509] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[8967] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[9244] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[18435] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[6510] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17208] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21986] = {
+			[67868] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[25457] = {
+			[71900] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[70611] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[7089] = {
+			[12333] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "德拉克中尉",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "旧希尔斯布莱德丘陵",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[21559] = {
+			[61613] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁战蝎",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[15624] = {
+			[35787] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[24451] = {
+			[62688] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[3620] = {
+			[21050] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[21015] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[14637] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[28326] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[78353] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[7644] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[31298] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[22991] = {
+			[65226] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "独眼魔双子",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[64007] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[24094] = {
+			[62359] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "卡加斯·刃拳",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[19503] = {
+			[47039] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[23088] = {
+			[66558] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[2899] = {
+			[3437] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[14052] = {
+			[29721] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "升腾者议会",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "暮光堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[32688] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "升腾者议会",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "暮光堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[13282] = {
+			[26899] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "如花",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石岩窟",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[7541] = {
+			[13065] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[7539] = {
+			[13063] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[14934] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿卡玛之影",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑暗神殿",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[21826] = {
+			[65535] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[10249] = {
+			[19089] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "迈克斯纳",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [2]
+				},
+				["faction"] = 3,
+			},
+		},
+		[16088] = {
+			[39511] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21825] = {
+			[65521] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66488] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21921] = {
+			[65517] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[65998] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[6921] = {
+			[12010] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "夸格米拉",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奴隶围栏",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[9924] = {
+			[18081] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2912] = {
+			[25830] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[6556] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[31559] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17203] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[3468] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[7481] = {
+				["classes"] = 256,
+				["faction"] = 2,
+			},
+		},
+		[5816] = {
+			[8575] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "沙尔图拉",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安其拉神殿",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[26290] = {
+			[69695] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛诺洛斯",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[22210] = {
+			[61170] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[1204] = {
+			[7648] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[731] = {
+			[7596] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+		},
+		[21505] = {
+			[61611] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁战蝎",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[7361] = {
+			[12727] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛瑟里顿",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "玛瑟里顿的巢穴",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[1206] = {
+			[21579] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[62341] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21738] = {
+			[65531] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[58975] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[65537] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21739] = {
+			[66619] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[65533] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67867] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[17148] = {
+			[39811] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥卓克希昂",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "巨龙之魂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[8024] = {
+			[13984] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿克蒙德",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "海加尔山之战",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[17174] = {
+			[40211] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[24326] = {
+			[62849] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "主管索戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[11707] = {
+			[22472] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[7774] = {
+			[13494] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "不稳定的海度斯",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "毒蛇神殿",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[3646] = {
+			[35541] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "疯狂之缘——格里雷克",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "祖尔格拉布",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "疯狂之缘——哈扎拉尔",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "祖尔格拉布",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "疯狂之缘——雷纳塔基",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "祖尔格拉布",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "疯狂之缘——乌苏雷",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "祖尔格拉布",
+					}, -- [4]
+				},
+				["faction"] = 3,
+			},
+		},
+		[20239] = {
+			[50230] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "墨格瑞拉",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[990] = {
+			[990] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2497] = {
+			[4051] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+			[18664] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[58172] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4093] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "梦境守望者",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "阿塔哈卡神庙",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[6537] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[18434] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[32114] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17587] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[32110] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[19712] = {
+			[52978] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[52982] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[7194] = {
+			[12456] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "预言者斯克瑞斯",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "禁魔监狱",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[991] = {
+			[3370] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[29264] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[22160] = {
+			[61138] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "戈洛克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[4716] = {
+			[6544] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[11523] = {
+			[22019] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "观察者奥尔加隆",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[16189] = {
+			[37309] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "佩罗萨恩",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永恒之井",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[12427] = {
+			[24714] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[24759] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "辛达苟萨",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[3616] = {
+			[21049] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[18376] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[21052] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[21393] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[26265] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[18852] = {
+			[44310] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "刀锋领主塔亚克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "恐惧之心",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[15824] = {
+			[36398] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "沙恩诺克斯",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "火焰之地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[11256] = {
+			[21637] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[4708] = {
+			[6522] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[14436] = {
+			[30888] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[67049] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[19392] = {
+			[46802] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[1220] = {
+			[2901] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[11760] = {
+			[22583] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瓦格里双子",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[22589] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瓦格里双子",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+		},
+		[1732] = {
+			[1888] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[1889] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[1184] = {
+			[9114] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4670] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26093] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[612] = {
+			[24866] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "亡语者女士",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[437] = {
+			[6517] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[6263] = {
+			[9396] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[9740] = {
+			[17619] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "大魔导师泰蕾丝塔",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "魔枢",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[8215] = {
+			[14429] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[11281] = {
+			[21652] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "烈焰巨兽",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[2957] = {
+			[3550] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4283] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+		},
+		[18391] = {
+			[47742] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[5399] = {
+			[7649] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[24095] = {
+			[62358] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "卡加斯·刃拳",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[21101] = {
+			[55474] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[55303] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[55299] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[55470] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[19049] = {
+			[44818] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "刀锋领主塔亚克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "恐惧之心",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[3478] = {
+			[4291] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17198] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[8259] = {
+			[14570] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[19365] = {
+			[47073] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[1313] = {
+			[30315] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[15924] = {
+			[36677] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "沙恩诺克斯",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "火焰之地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[15928] = {
+			[36690] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "护门人贝尔洛克",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "火焰之地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[2458] = {
+			[10095] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17205] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[28227] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[27511] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[30778] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[33199] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[26996] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[29797] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[10096] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[9804] = {
+			[17753] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[14407] = {
+			[30720] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[5425] = {
+			[7676] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[22666] = {
+			[67050] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[5961] = {
+			[8787] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[1731] = {
+			[1887] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[1981] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4329] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "玛格姆斯",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石深渊",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[17069] = {
+			[38959] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥卓克希昂",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "巨龙之魂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[6194] = {
+			[39170] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[392] = {
+			[4443] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2359] = {
+			[30403] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[9844] = {
+			[28559] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[20525] = {
+			[50107] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "雷神",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[50292] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "铁穹",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[11385] = {
+			[21785] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "掌炉者伊格尼斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[14455] = {
+			[31301] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[65595] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[14038] = {
+			[29701] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "哈尔弗斯·碎龙者",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "暮光堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[32706] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "哈尔弗斯·碎龙者",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "暮光堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[5962] = {
+			[8791] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[7699] = {
+			[13386] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "风暴要塞",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[311] = {
+			[6528] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21922] = {
+			[61126] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[65519] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[24327] = {
+			[62851] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "主管索戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[8862] = {
+			[15793] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "艾瑞达双子",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "太阳之井高地",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[21233] = {
+			[61017] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "堕落的守护者",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[326] = {
+			[190] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[10088] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21234] = {
+			[61015] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "堕落的守护者",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[2994] = {
+			[3611] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10090] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21303] = {
+			[61848] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "嗜血的索克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[19407] = {
+			[46495] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[2486] = {
+			[2896] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6554] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[18670] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[2487] = {
+			[2897] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2488] = {
+			[2899] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6542] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2489] = {
+			[2900] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[10439] = {
+			[19605] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[16086] = {
+			[37677] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[2492] = {
+			[2905] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2493] = {
+			[2907] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6547] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[7256] = {
+			[12528] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "莫罗斯",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "卡拉赞",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[1009] = {
+			[2906] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[19361] = {
+			[47038] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[78387] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[21924] = {
+			[65525] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66482] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[67869] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[22157] = {
+			[59647] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "戈洛克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[61137] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "戈洛克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[1010] = {
+			[2898] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[22391] = {
+			[62218] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[62219] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[22700] = {
+			[60192] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[22837] = {
+			[65246] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "爆裂熔炉",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[9980] = {
+			[18336] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[78376] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[11006] = {
+			[20725] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[2021] = {
+			[17202] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[9992] = {
+			[18362] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[24325] = {
+			[62850] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "主管索戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[26284] = {
+			[69691] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "血魔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[25459] = {
+			[71899] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[70610] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[20495] = {
+			[49775] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "铁穹",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[50940] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "雷神",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[25458] = {
+			[73329] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "血魔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[71521] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[70988] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+	},
+	["Back"] = {
+		[18206] = {
+			[42875] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[2038] = {
+			[3528] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67922] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "刽子手戈尔",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑暗深渊",
+					}, -- [1]
+				},
+			},
+			[2641] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "深渊守护者",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑暗深渊",
+					}, -- [1]
+				},
+			},
+			[2527] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[2340] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "灰葬男爵",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+							"经典旧世", -- [2]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影牙城堡",
+					}, -- [1]
+				},
+			},
+		},
+		[6110] = {
+			[13113] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[19284] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -184,52 +5476,92 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [4]
 				},
-				["sourceID"] = 19284,
-				["faction"] = 2,
-			}, -- [4]
+			},
+			[18781] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "教官拉苏维奥斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [2]
+				},
+			},
+			[18863] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克尔苏加德",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+				},
+			},
 		},
 		[511] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1682,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[5350] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2536,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5200,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5350,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25838] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25838,
-			}, -- [5]
+				["faction"] = 3,
+			},
+			[5200] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[2536] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[1682] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
 		[4088] = {
-			{
-				["classes"] = 256,
+			[5428] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5428,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[12197] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -243,64 +5575,35 @@ MogIt_OtherDB = {
 						["instance"] = "黑色沼泽",
 					}, -- [1]
 				},
-				["sourceID"] = 12197,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[22445] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14261,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[14261] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 22445,
-			}, -- [4]
+				["faction"] = 3,
+			},
 		},
 		[24488] = {
-			{
-				["classes"] = 256,
+			[65524] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65524,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66824] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66824,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[5111] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 7074,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[11976] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奈法利安",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑翼之巢",
-					}, -- [1]
-				},
-				["sourceID"] = 7685,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -314,20 +5617,40 @@ MogIt_OtherDB = {
 						["instance"] = "奴隶围栏",
 					}, -- [1]
 				},
-				["sourceID"] = 11976,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[7685] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奈法利安",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑翼之巢",
+					}, -- [1]
+				},
+			},
+			[7074] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 13874,
-			}, -- [4]
+				["faction"] = 3,
+			},
+			[13874] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[5127] = {
-			{
-				["classes"] = 256,
+			[7093] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -340,12 +5663,11 @@ MogIt_OtherDB = {
 						["instance"] = "熔火之心",
 					}, -- [1]
 				},
-				["sourceID"] = 7093,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[12135] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -358,14 +5680,13 @@ MogIt_OtherDB = {
 						["instance"] = "暗影迷宫",
 					}, -- [1]
 				},
-				["sourceID"] = 12135,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[29715] = {
-			{
-				["classes"] = 256,
+			[82857] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -378,62 +5699,54 @@ MogIt_OtherDB = {
 						["instance"] = "破碎群岛",
 					}, -- [1]
 				},
-				["sourceID"] = 82857,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[4120] = {
-			{
-				["classes"] = 256,
+			[5498] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5498,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[31246] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31246,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[31927] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31927,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[517] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 882,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[2367] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2367,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[882] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[29746] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29746,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[3091] = {
-			{
-				["classes"] = 256,
+			[3729] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3729,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[26742] = {
-			{
-				["classes"] = 256,
+			[69547] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -447,14 +5760,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69547,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[24712] = {
-			{
-				["classes"] = 256,
+			[59590] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -512,12 +5824,11 @@ MogIt_OtherDB = {
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 59574,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[66766] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -526,7 +5837,6 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "奥金顿",
 					}, -- [1]
@@ -537,7 +5847,6 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "血槌炉渣矿井",
 					}, -- [2]
@@ -548,7 +5857,6 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "影月墓地",
 					}, -- [3]
@@ -559,7 +5867,6 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "永茂林地",
 					}, -- [4]
@@ -570,17 +5877,15 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 59576,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[66776] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -589,7 +5894,6 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "奥金顿",
 					}, -- [1]
@@ -600,7 +5904,6 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "血槌炉渣矿井",
 					}, -- [2]
@@ -611,7 +5914,6 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "影月墓地",
 					}, -- [3]
@@ -622,7 +5924,6 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "永茂林地",
 					}, -- [4]
@@ -633,197 +5934,20 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 59590,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[63138] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63138,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66841] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66762,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66766,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66776,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -837,48 +5961,223 @@ MogIt_OtherDB = {
 						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 66841,
-				["faction"] = 2,
-			}, -- [8]
+			},
+			[66762] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[59574] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[59576] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
 		},
 		[14418] = {
-			{
-				["classes"] = 256,
+			[30745] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30745,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[33174] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33174,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[4148] = {
-			{
-				["classes"] = 256,
+			[5577] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5577,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[3101] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3739,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[18334] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10418,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[10418] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[11950] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -892,12 +6191,16 @@ MogIt_OtherDB = {
 						["instance"] = "破碎大厅",
 					}, -- [1]
 				},
-				["sourceID"] = 11950,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[3739] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[16124] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -911,49 +6214,11 @@ MogIt_OtherDB = {
 						["instance"] = "魔导师平台",
 					}, -- [1]
 				},
-				["sourceID"] = 16124,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[31827] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "沃尔坎",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "闪电大厅",
-					}, -- [1]
-				},
-				["sourceID"] = 18052,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18333,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18334,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 21301,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -968,58 +6233,84 @@ MogIt_OtherDB = {
 						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
-				["sourceID"] = 31827,
-				["faction"] = 2,
-			}, -- [9]
+			},
+			[18333] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[18052] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "沃尔坎",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "闪电大厅",
+					}, -- [1]
+				},
+			},
+			[21301] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[4160] = {
-			{
-				["classes"] = 256,
+			[5594] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5594,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[14498] = {
-			{
-				["classes"] = 256,
+			[31571] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31571,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[14506] = {
-			{
-				["classes"] = 256,
+			[31607] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31607,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[1051] = {
-			{
-				["classes"] = 256,
+			[1057] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1057,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25840] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25840,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[3125] = {
-			{
-				["classes"] = 256,
+			[5419] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3765,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3765] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4857] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -1032,64 +6323,13 @@ MogIt_OtherDB = {
 						["instance"] = "斯坦索姆",
 					}, -- [1]
 				},
-				["sourceID"] = 4857,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5419,
-			}, -- [3]
+			},
 		},
 		[10446] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 19614,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[24824] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "科隆加恩",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-				["sourceID"] = 22053,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "鲜血王子议会",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 24538,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1103,125 +6343,157 @@ MogIt_OtherDB = {
 						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 24824,
-				["faction"] = 2,
-			}, -- [4]
+			},
+			[22053] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "科隆加恩",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+			},
+			[24538] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "鲜血王子议会",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
+			[19614] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[5231] = {
-			{
-				["classes"] = 256,
+			[7278] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 7278,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[31554] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31554,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[3135] = {
-			{
-				["classes"] = 256,
+			[3775] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3775,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[16687] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 16687,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[11517] = {
-			{
-				["classes"] = 256,
+			[22008] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 22008,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[22429] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 22429,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[24073] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59581,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[63140] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63140,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[59581] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66680] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -1279,12 +6551,11 @@ MogIt_OtherDB = {
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 66680,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[66758] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -1337,72 +6608,52 @@ MogIt_OtherDB = {
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 66758,
-				["faction"] = 2,
-			}, -- [4]
+			},
 		},
 		[28181] = {
-			{
-				["classes"] = 256,
+			[79365] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 79365,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[79367] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 79367,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 83669,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 83941,
-			}, -- [4]
+			},
 		},
 		[17967] = {
-			{
-				["classes"] = 256,
+			[41943] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41940,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[41940] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41941,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[41942] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41942,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[41944] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41943,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[41941] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41944,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
 		[19006] = {
-			{
-				["classes"] = 256,
+			[44715] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1416,40 +6667,35 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44715,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[25176] = {
-			{
-				["classes"] = 256,
+			[64298] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 64298,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[67951] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 67951,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[67955] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 67955,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[69177] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 69177,
-			}, -- [4]
+				["faction"] = 3,
+			},
 		},
 		[19054] = {
-			{
-				["classes"] = 256,
+			[44834] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1464,12 +6710,11 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44834,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[49670] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1484,37 +6729,11 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49670,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[50876] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "遗忘者杜鲁姆",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 50252,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50564,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1529,18 +6748,11 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50876,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51188,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+			[61002] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1553,14 +6765,50 @@ MogIt_OtherDB = {
 						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
-				["sourceID"] = 61002,
-				["faction"] = 2,
-			}, -- [7]
+			},
+			[50252] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "遗忘者杜鲁姆",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+		},
+		[31346] = {
+			[86903] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格罗斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "萨格拉斯之墓",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
 		},
 		[29332] = {
-			{
-				["classes"] = 256,
+			[78686] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -1573,38 +6821,33 @@ MogIt_OtherDB = {
 						["instance"] = "黑鸦堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 78686,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[3163] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3812,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[18124] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 17769,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18124,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[18377] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 18377,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[17769] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[21295] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[20964] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -1618,178 +6861,227 @@ MogIt_OtherDB = {
 						["instance"] = "紫罗兰监狱",
 					}, -- [1]
 				},
-				["sourceID"] = 20964,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 21295,
-			}, -- [6]
+			},
+			[3812] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[14698] = {
-			{
-				["classes"] = 256,
+			[32516] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32515,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[32517] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32516,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[32515] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32517,
-			}, -- [3]
+			},
 		},
 		[30419] = {
-			{
-				["classes"] = 256,
+			[68280] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 68280,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[74014] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 74014,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[80928] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 80928,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[24313] = {
-			{
-				["classes"] = 256,
+			[71737] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 70825,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[64096] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 70826,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 1,
+			},
+			[70718] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[67744] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 70986,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 70987,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 1,
+			},
+			[71096] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 71096,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[70447] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71629] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[70825] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 71736,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+			[64168] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[70986] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 71737,
-			}, -- [7]
-			{
-				["classes"] = 256,
+			},
+			[71736] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 71897,
-			}, -- [8]
-			{
-				["classes"] = 256,
+			},
+			[71520] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71897] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 71898,
-			}, -- [9]
-			{
-				["classes"] = 256,
+			},
+			[67745] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71519] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71359] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[70448] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71358] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[70826] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[70609] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[70608] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[72007] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 72007,
-			}, -- [10]
+			},
+			[70987] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[64095] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71898] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
 		},
 		[13707] = {
-			{
-				["classes"] = 256,
+			[28262] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 28262,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[30738] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30738,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[32155] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32151,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[32151] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32155,
-			}, -- [4]
+				["faction"] = 3,
+			},
 		},
 		[18207] = {
-			{
-				["classes"] = 256,
+			[42876] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42876,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[13723] = {
-			{
-				["classes"] = 256,
+			[28391] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 28391,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[31611] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31611,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[14778] = {
-			{
-				["classes"] = 256,
+			[32846] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32846,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[15817] = {
-			{
-				["classes"] = 256,
+			[36383] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1804,52 +7096,47 @@ MogIt_OtherDB = {
 						["instance"] = "火焰之地",
 					}, -- [1]
 				},
-				["sourceID"] = 36383,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[36533] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 36533,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[13779] = {
-			{
-				["classes"] = 256,
+			[34187] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 28811,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[29716] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "升腾者议会",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "暮光堡垒",
+					}, -- [1]
+				},
+			},
+			[29689] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 29689,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[32693] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "升腾者议会",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "暮光堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 29716,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1864,24 +7151,11 @@ MogIt_OtherDB = {
 						["instance"] = "暮光堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 32693,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 34185,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 34187,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+			[35576] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1896,12 +7170,11 @@ MogIt_OtherDB = {
 						["instance"] = "风神王座",
 					}, -- [1]
 				},
-				["sourceID"] = 35576,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
+			},
+			[35590] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1916,30 +7189,98 @@ MogIt_OtherDB = {
 						["instance"] = "风神王座",
 					}, -- [1]
 				},
-				["sourceID"] = 35590,
-				["faction"] = 2,
-			}, -- [8]
+			},
+			[34185] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[28811] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[24489] = {
-			{
-				["classes"] = 256,
+			[63936] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 63936,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[5367] = {
-			{
-				["classes"] = 256,
+			[7571] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 7571,
-			}, -- [1]
+			},
 		},
 		[19454] = {
-			{
-				["classes"] = 256,
+			[49902] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[50839] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "托多斯",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[49637] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "托多斯",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[50215] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "托多斯",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[46696] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -1953,121 +7294,39 @@ MogIt_OtherDB = {
 						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
-				["sourceID"] = 46696,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "托多斯",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 49637,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 49902,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "托多斯",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 50215,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50527,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "托多斯",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 50839,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51151,
-			}, -- [7]
+			},
 		},
 		[14858] = {
-			{
-				["classes"] = 256,
+			[33166] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33166,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[15889] = {
-			{
-				["classes"] = 256,
+			[36550] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 36550,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[4372] = {
-			{
-				["classes"] = 256,
+			[5922] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5922,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[33361] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33361,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[26727] = {
-			{
-				["classes"] = 256,
+			[69528] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -2081,62 +7340,54 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69528,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[4392] = {
-			{
-				["classes"] = 256,
+			[5977] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5977,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[14922] = {
-			{
-				["classes"] = 256,
+			[34066] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 34066,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10870] = {
-			{
-				["classes"] = 256,
+			[25214] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20361,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[20361] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20365,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[20365] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 25201,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25201] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 25214,
-			}, -- [4]
+				["faction"] = 3,
+			},
 		},
 		[5443] = {
-			{
-				["classes"] = 256,
+			[7710] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 7710,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[12723] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -2149,48 +7400,39 @@ MogIt_OtherDB = {
 						["instance"] = "玛瑟里顿的巢穴",
 					}, -- [1]
 				},
-				["sourceID"] = 12723,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[5447] = {
-			{
-				["classes"] = 256,
+			[7723] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 7723,
-			}, -- [1]
+			},
+		},
+		[32066] = {
+			[84559] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[4468] = {
-			{
-				["classes"] = 256,
+			[6101] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6101,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[14059] = {
-			{
-				["classes"] = 256,
+			[29792] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29792,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29794,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 31366,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[31832] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -2205,14 +7447,23 @@ MogIt_OtherDB = {
 						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
-				["sourceID"] = 31832,
-				["faction"] = 2,
-			}, -- [4]
+			},
+			[31366] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[29794] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[26088] = {
-			{
-				["classes"] = 256,
+			[72834] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -2226,14 +7477,13 @@ MogIt_OtherDB = {
 						["instance"] = "德拉诺",
 					}, -- [1]
 				},
-				["sourceID"] = 72834,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[16129] = {
-			{
-				["classes"] = 256,
+			[37331] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -2246,14 +7496,75 @@ MogIt_OtherDB = {
 						["instance"] = "暮光审判",
 					}, -- [1]
 				},
-				["sourceID"] = 37331,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[24074] = {
-			{
-				["classes"] = 256,
+			[66688] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[59588] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -2311,12 +7622,11 @@ MogIt_OtherDB = {
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 59588,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[59589] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -2374,329 +7684,197 @@ MogIt_OtherDB = {
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 59589,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[66678] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66679] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66770] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63342] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63342,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[63343] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63343,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66840] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66678,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66679,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66688,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66767,
-				["faction"] = 2,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66770,
-				["faction"] = 2,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -2710,74 +7888,136 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 66840,
-				["faction"] = 2,
-			}, -- [10]
+			},
+			[66767] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
 		},
 		[2256] = {
-			{
-				["classes"] = 256,
+			[3031] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2614,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[5302] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3031,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[5409] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5302,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[2614] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5409,
-			}, -- [4]
+				["faction"] = 3,
+			},
 		},
 		[25177] = {
-			{
-				["classes"] = 256,
+			[67956] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 64297,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[64297] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 67952,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[67952] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 67956,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[69176] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 69176,
-			}, -- [4]
+				["faction"] = 3,
+			},
 		},
 		[4532] = {
-			{
-				["classes"] = 256,
+			[6250] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6250,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[2270] = {
-			{
-				["classes"] = 256,
+			[5290] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[62474] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4200] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -2790,18 +8030,11 @@ MogIt_OtherDB = {
 						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
-				["sourceID"] = 4200,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5290,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[17909] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -2815,32 +8048,13 @@ MogIt_OtherDB = {
 						["instance"] = "古达克",
 					}, -- [1]
 				},
-				["sourceID"] = 17909,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 62474,
-			}, -- [4]
+			},
 		},
 		[5563] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 12227,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 12228,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[12711] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -2853,34 +8067,40 @@ MogIt_OtherDB = {
 						["instance"] = "卡拉赞",
 					}, -- [1]
 				},
-				["sourceID"] = 12711,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[12228] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[24730] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 19615,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[12227] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[19615] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 24730,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
 		[4548] = {
-			{
-				["classes"] = 256,
+			[6268] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6268,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[11142] = {
-			{
-				["classes"] = 256,
+			[21275] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -2894,12 +8114,11 @@ MogIt_OtherDB = {
 						["instance"] = "黑曜石圣殿",
 					}, -- [1]
 				},
-				["sourceID"] = 21275,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[22195] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -2913,31 +8132,11 @@ MogIt_OtherDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 22195,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[24790] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "腐面",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 24494,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -2951,124 +8150,145 @@ MogIt_OtherDB = {
 						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 24790,
-				["faction"] = 2,
-			}, -- [4]
+			},
+			[24494] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "腐面",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
 		},
 		[24330] = {
-			{
-				["classes"] = 256,
+			[62015] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 62015,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[62141] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 62141,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[18208] = {
-			{
-				["classes"] = 256,
+			[42877] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42877,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18224] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42957,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42958,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[48684] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 48684,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[48686] = {
+				["classes"] = 16,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 48685,
-			}, -- [4]
+				["faction"] = 3,
+			},
+			[42957] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[42959] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[84577] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[48685] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[42958] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[14259] = {
-			{
-				["classes"] = 256,
+			[30491] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30491,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[30530] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30530,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[3321] = {
-			{
-				["classes"] = 256,
+			[10055] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10055,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[29773] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29773,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[33141] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33141,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[24490] = {
-			{
-				["classes"] = 256,
+			[63935] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 63935,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[65534] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65534,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[19391] = {
-			{
-				["classes"] = 256,
+			[46408] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[51432] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 46408,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[51427] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 51432,
-			}, -- [2]
+				["faction"] = 1,
+			},
 		},
 		[32772] = {
-			{
-				["classes"] = 256,
+			[83103] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -3081,14 +8301,28 @@ MogIt_OtherDB = {
 						["instance"] = "勇气试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 83103,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[7701] = {
-			{
-				["classes"] = 256,
+			[20366] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[30349] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20363] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[13388] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -3101,70 +8335,50 @@ MogIt_OtherDB = {
 						["instance"] = "风暴要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 13388,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[30350] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20363,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25408] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20366,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25203] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 25203,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[30348] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 25218,
-			}, -- [5]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25218] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 25408,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 30348,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 30349,
-			}, -- [8]
+				["faction"] = 3,
+			},
 		},
 		[2322] = {
-			{
-				["classes"] = 256,
+			[2693] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2693,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[5952] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5952,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[26728] = {
-			{
-				["classes"] = 256,
+			[69530] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -3178,14 +8392,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69530,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[30836] = {
-			{
-				["classes"] = 256,
+			[80818] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -3198,14 +8411,13 @@ MogIt_OtherDB = {
 						["instance"] = "群星庭院",
 					}, -- [1]
 				},
-				["sourceID"] = 80818,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[24714] = {
-			{
-				["classes"] = 256,
+			[59572] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -3263,462 +8475,16 @@ MogIt_OtherDB = {
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 59572,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59575,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59591,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[63345] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63035,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63036,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63345,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63447,
-			}, -- [7]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66842] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66686,
-				["faction"] = 2,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66689,
-				["faction"] = 2,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66763,
-				["faction"] = 2,
-			}, -- [10]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66764,
-				["faction"] = 2,
-			}, -- [11]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66772,
-				["faction"] = 2,
-			}, -- [12]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -3732,28 +8498,478 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 66842,
-				["faction"] = 2,
-			}, -- [13]
+			},
+			[66763] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[59575] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66686] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[59591] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66772] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63447] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[63035] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66689] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63036] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66764] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+		},
+		[34083] = {
+			[86271] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "绝望的聚合体",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "萨格拉斯之墓",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
 		},
 		[585] = {
-			{
-				["classes"] = 256,
+			[497] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 497,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[19952] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 19952,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[7741] = {
-			{
-				["classes"] = 256,
+			[13449] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -3766,12 +8982,16 @@ MogIt_OtherDB = {
 						["instance"] = "风暴要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 13449,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[15734] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[15013] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -3780,81 +9000,30 @@ MogIt_OtherDB = {
 							"燃烧的远征", -- [1]
 						},
 						["difficulties"] = {
+							"普通", -- [1]
 						},
 						["instance"] = "黑暗神殿",
 					}, -- [1]
 				},
-				["sourceID"] = 15013,
-				["faction"] = 2,
-			}, -- [2]
-			{
+			},
+		},
+		[33220] = {
+			[84661] = {
 				["classes"] = 256,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
-				["sourceID"] = 15734,
-			}, -- [3]
+			},
+			[85310] = {
+				["classes"] = 256,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
 		},
 		[13452] = {
-			{
-				["classes"] = 256,
+			[27732] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "西风君王阿萨德",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "旋云之巅",
-					}, -- [1]
-				},
-				["sourceID"] = 27422,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "拉夏，太阳的造物",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "起源大厅",
-					}, -- [1]
-				},
-				["sourceID"] = 27557,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "西风君王阿萨德",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "旋云之巅",
-					}, -- [1]
-				},
-				["sourceID"] = 27693,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -3868,30 +9037,39 @@ MogIt_OtherDB = {
 						["instance"] = "起源大厅",
 					}, -- [1]
 				},
-				["sourceID"] = 27732,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29859,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29862,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+			[31336] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 31336,
-			}, -- [7]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[29859] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[27557] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "拉夏，太阳的造物",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "起源大厅",
+					}, -- [1]
+				},
+			},
+			[31810] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -3906,142 +9084,167 @@ MogIt_OtherDB = {
 						["instance"] = "影牙城堡",
 					}, -- [1]
 				},
-				["sourceID"] = 31810,
-				["faction"] = 2,
-			}, -- [8]
-			{
-				["classes"] = 256,
+			},
+			[34171] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 34171,
-			}, -- [9]
+				["faction"] = 3,
+			},
+			[27693] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "西风君王阿萨德",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "旋云之巅",
+					}, -- [1]
+				},
+			},
+			[29862] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[27422] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "西风君王阿萨德",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "旋云之巅",
+					}, -- [1]
+				},
+			},
 		},
 		[18720] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 44086,
-			}, -- [1]
-			{
+			[45169] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[84529] = {
 				["classes"] = 256,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 45169,
-			}, -- [2]
+			},
+			[44086] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
 		[17745] = {
-			{
-				["classes"] = 256,
+			[41163] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41163,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[17777] = {
-			{
-				["classes"] = 256,
+			[42044] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 41266,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42412] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 41267,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42045] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 41268,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42413] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 41269,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[41266] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 41270,
-			}, -- [5]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42414] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42041,
-			}, -- [6]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[41267] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42042,
-			}, -- [7]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[41268] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42043,
-			}, -- [8]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42041] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42044,
-			}, -- [9]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[41269] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42045,
-			}, -- [10]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42042] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42410,
-			}, -- [11]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[41270] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42411,
-			}, -- [12]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42043] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42412,
-			}, -- [13]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42411] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42413,
-			}, -- [14]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42410] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 42414,
-			}, -- [15]
+				["faction"] = 3,
+			},
 		},
 		[14531] = {
-			{
-				["classes"] = 256,
+			[31747] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 31747,
-			}, -- [1]
+			},
 		},
 		[18848] = {
-			{
-				["classes"] = 256,
+			[44297] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4056,12 +9259,11 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44297,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[44311] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4076,36 +9278,32 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44311,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[18864] = {
-			{
-				["classes"] = 256,
+			[44353] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 44353,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[13556] = {
-			{
-				["classes"] = 256,
+			[27757] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 27757,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[31752] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31752,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[26089] = {
-			{
-				["classes"] = 256,
+			[69520] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4119,33 +9317,20 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69520,
-				["faction"] = 2,
-			}, -- [1]
+			},
+		},
+		[32291] = {
+			[84554] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[19008] = {
-			{
-				["classes"] = 256,
+			[49823] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "风领主梅尔加拉克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "恐惧之心",
-					}, -- [1]
-				},
-				["sourceID"] = 44727,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4160,20 +9345,36 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49823,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[49900] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 49900,
-			}, -- [3]
+				["faction"] = 3,
+			},
+			[44727] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "风领主梅尔加拉克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "恐惧之心",
+					}, -- [1]
+				},
+			},
 		},
 		[3407] = {
-			{
-				["classes"] = 256,
+			[4167] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -4186,17 +9387,14 @@ MogIt_OtherDB = {
 						["instance"] = "奥达曼",
 					}, -- [1]
 				},
-				["sourceID"] = 4167,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[2386] = {
-			{
-				["classes"] = 256,
+			[2773] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2773,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18049] = {
 			{
@@ -4221,9 +9419,10 @@ MogIt_OtherDB = {
 			}, -- [1]
 		},
 		[5803] = {
-			{
-				["classes"] = 256,
+			[8560] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4236,12 +9435,21 @@ MogIt_OtherDB = {
 						["instance"] = "安其拉神殿",
 					}, -- [1]
 				},
-				["sourceID"] = 8560,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[17748] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[21361] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[17722] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -4255,32 +9463,18 @@ MogIt_OtherDB = {
 						["instance"] = "魔环",
 					}, -- [1]
 				},
-				["sourceID"] = 17722,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[18107] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 17748,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18107,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 21361,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
 		[5807] = {
-			{
-				["classes"] = 256,
+			[8565] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4293,12 +9487,11 @@ MogIt_OtherDB = {
 						["instance"] = "安其拉神殿",
 					}, -- [1]
 				},
-				["sourceID"] = 8565,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[12553] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4311,116 +9504,100 @@ MogIt_OtherDB = {
 						["instance"] = "卡拉赞",
 					}, -- [1]
 				},
-				["sourceID"] = 12553,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[2396] = {
-			{
-				["classes"] = 256,
+			[14621] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[2792] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2792,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[31624] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 14621,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31624,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[8553] = {
-			{
-				["classes"] = 256,
+			[31794] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 31794,
-			}, -- [1]
+			},
 		},
 		[14699] = {
-			{
-				["classes"] = 256,
+			[32519] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32518,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[32520] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32519,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[32518] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32520,
-			}, -- [3]
+			},
 		},
 		[30421] = {
-			{
-				["classes"] = 256,
+			[73810] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 73810,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[74003] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 74003,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[24315] = {
-			{
-				["classes"] = 256,
+			[67665] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 60190,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[67666] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 60191,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[60191] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 67665,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[60190] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 67666,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[67738] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 67738,
-			}, -- [5]
+			},
 		},
 		[18193] = {
-			{
-				["classes"] = 256,
+			[42779] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42779,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[3433] = {
-			{
-				["classes"] = 256,
+			[4216] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -4433,46 +9610,40 @@ MogIt_OtherDB = {
 						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
-				["sourceID"] = 4216,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[5587] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5587,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[2418] = {
-			{
-				["classes"] = 256,
+			[2814] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2814,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3557] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3557,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[27510] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 27510,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[13780] = {
-			{
-				["classes"] = 256,
+			[28812] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 28812,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[32614] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4481,18 +9652,17 @@ MogIt_OtherDB = {
 							"大地的裂变", -- [1]
 						},
 						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
 						},
 						["instance"] = "黑翼血环",
 					}, -- [1]
 				},
-				["sourceID"] = 29681,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[29986] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4507,12 +9677,16 @@ MogIt_OtherDB = {
 						["instance"] = "暮光堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 29986,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[34180] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[29681] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4521,82 +9695,66 @@ MogIt_OtherDB = {
 							"大地的裂变", -- [1]
 						},
 						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
+							"10人", -- [1]
+							"25人", -- [2]
 						},
 						["instance"] = "黑翼血环",
 					}, -- [1]
 				},
-				["sourceID"] = 32614,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 34180,
-			}, -- [5]
+			},
 		},
 		[24587] = {
-			{
-				["classes"] = 256,
+			[66025] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66025,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[1222] = {
-			{
-				["classes"] = 256,
+			[3545] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3545,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[29782] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29782,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[17490] = {
-			{
-				["classes"] = 256,
+			[40663] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 40663,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[3473] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 4282,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6390,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 13321,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			[4282] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+			[69100] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 69100,
-			}, -- [4]
+				["faction"] = 3,
+			},
+			[6390] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[13321] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[26729] = {
-			{
-				["classes"] = 256,
+			[69510] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4610,12 +9768,11 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69510,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[69544] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -4629,172 +9786,278 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69544,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[2454] = {
-			{
-				["classes"] = 256,
+			[5633] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2852,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3506] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3506,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[2852] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5633,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[24715] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59580,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59586,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[63038] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63038,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66682] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[59580] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66691] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66778] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63240] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63240,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66765] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -4852,12 +10115,11 @@ MogIt_OtherDB = {
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 66682,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[59586] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -4866,6 +10128,7 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"普通", -- [1]
 						},
 						["instance"] = "奥金顿",
 					}, -- [1]
@@ -4876,6 +10139,7 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"普通", -- [1]
 						},
 						["instance"] = "血槌炉渣矿井",
 					}, -- [2]
@@ -4886,6 +10150,7 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"普通", -- [1]
 						},
 						["instance"] = "影月墓地",
 					}, -- [3]
@@ -4896,6 +10161,7 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"普通", -- [1]
 						},
 						["instance"] = "永茂林地",
 					}, -- [4]
@@ -4906,139 +10172,42 @@ MogIt_OtherDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"普通", -- [1]
 						},
 						["instance"] = "黑石塔上层",
 					}, -- [5]
 				},
-				["sourceID"] = 66691,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+		},
+		[34085] = {
+			[86273] = {
+				["classes"] = 16,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
+						["instanceType"] = 2,
+						["encounter"] = "绝望的聚合体",
 						["tiers"] = {
-							"德拉诺之王", -- [1]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
 						},
-						["instance"] = "奥金顿",
+						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
 				},
-				["sourceID"] = 66765,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66778,
-				["faction"] = 2,
-			}, -- [8]
+				["faction"] = 3,
+			},
 		},
 		[17602] = {
-			{
-				["classes"] = 256,
+			[45114] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[84416] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -5047,140 +10216,95 @@ MogIt_OtherDB = {
 							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
+							"时空漫游", -- [2]
 						},
 						["instance"] = "青龙寺",
 					}, -- [1]
 				},
-				["sourceID"] = 40922,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45114,
-			}, -- [2]
+			},
 		},
 		[9840] = {
-			{
-				["classes"] = 256,
+			[17880] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 17880,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[35451] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 35451,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[10871] = {
-			{
-				["classes"] = 256,
+			[20364] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20362,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25202] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20364,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25407] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 25202,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25213] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 25213,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[20362] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 25407,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
 		[5963] = {
-			{
-				["classes"] = 256,
+			[19026] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[29440] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[8792] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 8792,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 19026,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29440,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[1238] = {
-			{
-				["classes"] = 256,
+			[1289] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1289,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3786] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3786,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[5613] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5613,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[6399] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6399,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6418,
-			}, -- [5]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[22788] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "阿努巴拉克",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "十字军的试炼",
-					}, -- [1]
-				},
-				["sourceID"] = 22721,
 				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5194,38 +10318,57 @@ MogIt_OtherDB = {
 						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 22788,
+			},
+			[22721] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
 				["faction"] = 2,
-			}, -- [7]
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿努巴拉克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[6418] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[17746] = {
-			{
-				["classes"] = 256,
+			[41164] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41164,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[16803] = {
-			{
-				["classes"] = 256,
+			[38418] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 38418,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18865] = {
-			{
-				["classes"] = 256,
+			[44354] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 44354,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[7034] = {
-			{
-				["classes"] = 256,
+			[12167] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -5238,12 +10381,11 @@ MogIt_OtherDB = {
 						["instance"] = "塞泰克大厅",
 					}, -- [1]
 				},
-				["sourceID"] = 12167,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[13536] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5256,14 +10398,13 @@ MogIt_OtherDB = {
 						["instance"] = "毒蛇神殿",
 					}, -- [1]
 				},
-				["sourceID"] = 13536,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[32212] = {
-			{
-				["classes"] = 256,
+			[81826] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5276,44 +10417,46 @@ MogIt_OtherDB = {
 						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 81826,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[14076] = {
-			{
-				["classes"] = 256,
+			[29913] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29913,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[7046] = {
-			{
-				["classes"] = 256,
+			[12229] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 12229,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[25115] = {
-			{
-				["classes"] = 256,
+			[67836] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67836,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[67845] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67845,
-			}, -- [2]
+				["faction"] = 3,
+			},
+		},
+		[32292] = {
+			[84553] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[29335] = {
-			{
-				["classes"] = 256,
+			[80808] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -5326,14 +10469,13 @@ MogIt_OtherDB = {
 						["instance"] = "突袭紫罗兰监狱",
 					}, -- [1]
 				},
-				["sourceID"] = 80808,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[29351] = {
-			{
-				["classes"] = 256,
+			[79047] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -5346,68 +10488,90 @@ MogIt_OtherDB = {
 						["instance"] = "突袭紫罗兰监狱",
 					}, -- [1]
 				},
-				["sourceID"] = 79047,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[14212] = {
-			{
-				["classes"] = 256,
+			[30392] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30392,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18194] = {
-			{
-				["classes"] = 256,
+			[42780] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42780,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19249] = {
-			{
-				["classes"] = 256,
+			[45947] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45947,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[45949] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45948,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[45951] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45949,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[45948] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45950,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[45950] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45951,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
 		[6103] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 14971,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[21287] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "萨塔里奥",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "黑曜石圣殿",
+					}, -- [1]
+				},
+			},
+			[19398] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克尔苏加德",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+				},
+			},
+			[19282] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5454,60 +10618,24 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [4]
 				},
-				["sourceID"] = 19282,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克尔苏加德",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [1]
-				},
-				["sourceID"] = 19398,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "萨塔里奥",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "黑曜石圣殿",
-					}, -- [1]
-				},
-				["sourceID"] = 21287,
-				["faction"] = 2,
-			}, -- [4]
+			},
+			[14971] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
 		[5096] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 7046,
-			}, -- [1]
+			[7046] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
 		},
 		[6123] = {
-			{
-				["classes"] = 256,
+			[18855] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5521,12 +10649,11 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 				},
-				["sourceID"] = 18855,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[21919] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5540,22 +10667,20 @@ MogIt_OtherDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 21919,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[1278] = {
-			{
-				["classes"] = 256,
+			[30382] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30382,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[20432] = {
-			{
-				["classes"] = 256,
+			[49627] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5570,12 +10695,11 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49627,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[50211] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5589,18 +10713,11 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50211,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50523,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[50835] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5615,42 +10732,27 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50835,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51147,
-			}, -- [5]
+			},
 		},
 		[21503] = {
-			{
-				["classes"] = 256,
+			[62185] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 62185,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[4113] = {
-			{
-				["classes"] = 256,
+			[5468] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5468,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19505] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 47085,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[49601] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5665,37 +10767,11 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49601,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[50809] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "赫利东",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 50185,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50497,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5710,18 +10786,29 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50809,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51121,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+			[50185] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "赫利东",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[61070] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5734,36 +10821,37 @@ MogIt_OtherDB = {
 						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
-				["sourceID"] = 61070,
-				["faction"] = 2,
-			}, -- [7]
+			},
+			[47085] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[4121] = {
-			{
-				["classes"] = 256,
+			[5506] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5506,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[17491] = {
-			{
-				["classes"] = 256,
+			[40664] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 40664,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[68898] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 68898,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[26714] = {
-			{
-				["classes"] = 256,
+			[69523] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5777,14 +10865,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69523,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[26730] = {
-			{
-				["classes"] = 256,
+			[69511] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5798,12 +10885,11 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69511,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[69545] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5817,67 +10903,57 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69545,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[4141] = {
-			{
-				["classes"] = 256,
+			[5550] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5550,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[5567] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5567,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[4145] = {
-			{
-				["classes"] = 256,
+			[5558] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5558,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[648] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 571,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2516,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[9054] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 9054,
-			}, -- [3]
+			},
+			[571] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[2516] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[2604] = {
-			{
-				["classes"] = 256,
+			[3049] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3049,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[17747] = {
-			{
-				["classes"] = 256,
+			[41165] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41165,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[17763] = {
 			{
@@ -5902,23 +10978,27 @@ MogIt_OtherDB = {
 			}, -- [1]
 		},
 		[4197] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5643,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[30887] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30887,
-			}, -- [2]
+				["faction"] = 3,
+			},
+			[5643] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[7570] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[29048] = {
-			{
-				["classes"] = 256,
+			[82860] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5931,22 +11011,20 @@ MogIt_OtherDB = {
 						["instance"] = "破碎群岛",
 					}, -- [1]
 				},
-				["sourceID"] = 82860,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[18866] = {
-			{
-				["classes"] = 256,
+			[44355] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 44355,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[11495] = {
-			{
-				["classes"] = 256,
+			[21964] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5960,28 +11038,25 @@ MogIt_OtherDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 21964,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[24731] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 24731,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[8434] = {
-			{
-				["classes"] = 256,
+			[15021] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 15021,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[26091] = {
-			{
-				["classes"] = 256,
+			[69527] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -5995,14 +11070,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69527,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[18946] = {
-			{
-				["classes"] = 256,
+			[49822] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6017,26 +11091,18 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49822,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[330] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 194,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1977,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[19124] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[7286] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -6049,26 +11115,28 @@ MogIt_OtherDB = {
 						["instance"] = "厄运之槌",
 					}, -- [1]
 				},
-				["sourceID"] = 7286,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[194] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[1977] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[15069] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 15069,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 19124,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
 		[7322] = {
-			{
-				["classes"] = 256,
+			[12633] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6081,110 +11149,58 @@ MogIt_OtherDB = {
 						["instance"] = "卡拉赞",
 					}, -- [1]
 				},
-				["sourceID"] = 12633,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[32869] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32869,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[1322] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 1389,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[2761] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2761,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[12026] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 12026,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[25839] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25839,
-			}, -- [4]
+				["faction"] = 3,
+			},
+			[1389] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
 		},
 		[9537] = {
-			{
-				["classes"] = 256,
+			[17170] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17170,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[13645] = {
-			{
-				["classes"] = 256,
+			[27988] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 27988,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[27989] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 27989,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[6319] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 9478,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[45686] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "歌剧院",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "卡拉赞",
-					}, -- [1]
-				},
-				["sourceID"] = 12562,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "玛克扎尔王子",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "卡拉赞",
-					}, -- [1]
-				},
-				["sourceID"] = 12713,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -6199,26 +11215,62 @@ MogIt_OtherDB = {
 						["instance"] = "血色修道院",
 					}, -- [1]
 				},
-				["sourceID"] = 45686,
-				["faction"] = 2,
-			}, -- [4]
+			},
+			[12713] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛克扎尔王子",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "卡拉赞",
+					}, -- [1]
+				},
+			},
+			[12562] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "歌剧院",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "卡拉赞",
+					}, -- [1]
+				},
+			},
+			[9478] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
 		[2652] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 3116,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[5341] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5341,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3116] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[18493] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -6232,86 +11284,133 @@ MogIt_OtherDB = {
 						["instance"] = "岩石大厅",
 					}, -- [1]
 				},
-				["sourceID"] = 18493,
-				["faction"] = 2,
-			}, -- [3]
+			},
+		},
+		[14692] = {
+			[32498] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32499] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32497] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[14700] = {
-			{
-				["classes"] = 256,
+			[32522] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32521,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[32523] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32522,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[32521] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32523,
-			}, -- [3]
+			},
 		},
 		[30423] = {
-			{
-				["classes"] = 256,
+			[68699] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 68699,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[17140] = {
-			{
-				["classes"] = 256,
+			[39741] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 39741,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[29432] = {
-			{
-				["classes"] = 256,
+			[80925] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 80925,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18195] = {
-			{
-				["classes"] = 256,
+			[42781] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42781,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[2670] = {
-			{
-				["classes"] = 256,
+			[3135] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3135,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[2676] = {
-			{
-				["classes"] = 256,
+			[3142] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3142,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[10675] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10675,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[28564] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[22622] = {
+				["classes"] = 16,
 				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿努巴拉克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[22614] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿努巴拉克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[12079] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -6324,66 +11423,37 @@ MogIt_OtherDB = {
 						["instance"] = "蒸汽地窟",
 					}, -- [1]
 				},
-				["sourceID"] = 12079,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 28564,
-			}, -- [4]
+			},
 		},
 		[13781] = {
-			{
-				["classes"] = 256,
+			[29722] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瑟纳利昂和瓦里昂娜",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "暮光堡垒",
+					}, -- [1]
+				},
+			},
+			[28813] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 28813,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[35577] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "瑟纳利昂和瓦里昂娜",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "暮光堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 29722,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "瑟纳利昂和瓦里昂娜",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "暮光堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 32687,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6398,12 +11468,30 @@ MogIt_OtherDB = {
 						["instance"] = "风神王座",
 					}, -- [1]
 				},
-				["sourceID"] = 35577,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[32687] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "瑟纳利昂和瓦里昂娜",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "暮光堡垒",
+					}, -- [1]
+				},
+			},
+			[35591] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6418,97 +11506,102 @@ MogIt_OtherDB = {
 						["instance"] = "风神王座",
 					}, -- [1]
 				},
-				["sourceID"] = 35591,
-				["faction"] = 2,
-			}, -- [5]
+			},
 		},
 		[31670] = {
-			{
-				["classes"] = 256,
+			[85979] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 77628,
-			}, -- [1]
+				["faction"] = 3,
+			},
+			[77628] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[86046] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[86047] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[86048] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[86004] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[86005] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[86021] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[86006] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[5380] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 7601,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[7601] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+			[31247] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31247,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[2694] = {
-			{
-				["classes"] = 256,
+			[3162] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3162,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[4365] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5901,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6327,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[18422] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 18422,
-			}, -- [3]
+				["faction"] = 3,
+			},
+			[6327] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[5901] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[15891] = {
-			{
-				["classes"] = 256,
+			[36552] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 36552,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[4373] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 5925,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[22187] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "米米尔隆",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-				["sourceID"] = 21943,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6522,26 +11615,36 @@ MogIt_OtherDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 22187,
-				["faction"] = 2,
-			}, -- [3]
+			},
+			[21943] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "米米尔隆",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+			},
+			[5925] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
 		[1352] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1813,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1849,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[2419] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -6554,28 +11657,35 @@ MogIt_OtherDB = {
 						["instance"] = "哀嚎洞穴",
 					}, -- [1]
 				},
-				["sourceID"] = 2419,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[1849] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6108,
-			}, -- [4]
+				["faction"] = 3,
+			},
+			[6108] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[1813] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[17492] = {
-			{
-				["classes"] = 256,
+			[40665] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 40665,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[26715] = {
-			{
-				["classes"] = 256,
+			[69521] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6589,20 +11699,18 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69521,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[4389] = {
-			{
-				["classes"] = 256,
+			[5970] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5970,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[7494] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6615,14 +11723,13 @@ MogIt_OtherDB = {
 						["instance"] = "熔火之心",
 					}, -- [1]
 				},
-				["sourceID"] = 7494,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[26747] = {
-			{
-				["classes"] = 256,
+			[69550] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6636,34 +11743,35 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69550,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[14924] = {
-			{
-				["classes"] = 256,
+			[34072] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 34072,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[1360] = {
-			{
-				["classes"] = 256,
+			[17177] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2399,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3981] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 3981,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[2399] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4083] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -6676,20 +11784,13 @@ MogIt_OtherDB = {
 						["instance"] = "剃刀高地",
 					}, -- [1]
 				},
-				["sourceID"] = 4083,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17177,
-			}, -- [4]
+			},
 		},
 		[24797] = {
-			{
-				["classes"] = 256,
+			[62677] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6703,56 +11804,16 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 62677,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "钢铁女武神",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 62877,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[63549] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63549,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66797] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格鲁尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66796,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6766,12 +11827,11 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 66797,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[66806] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6785,12 +11845,29 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 66806,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+			[66796] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格鲁尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[66807] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6804,14 +11881,60 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 66807,
+			},
+			[62877] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁女武神",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+		},
+		[33226] = {
+			[86344] = {
+				["classes"] = 256,
+				["sourceType"] = 1,
 				["faction"] = 2,
-			}, -- [7]
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "绝望的聚合体",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["instance"] = "萨格拉斯之墓",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+			},
 		},
 		[5448] = {
-			{
-				["classes"] = 256,
+			[17169] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[7727] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[9518] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -6825,20 +11948,13 @@ MogIt_OtherDB = {
 						["instance"] = "奴隶围栏",
 					}, -- [1]
 				},
-				["sourceID"] = 9518,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17169,
-			}, -- [2]
+			},
 		},
 		[8850] = {
-			{
-				["classes"] = 256,
+			[15781] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6851,36 +11967,32 @@ MogIt_OtherDB = {
 						["instance"] = "太阳之井高地",
 					}, -- [1]
 				},
-				["sourceID"] = 15781,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[18723] = {
-			{
-				["classes"] = 256,
+			[45075] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45075,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[45303] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 45303,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[17748] = {
-			{
-				["classes"] = 256,
+			[41166] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41166,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18787] = {
-			{
-				["classes"] = 256,
+			[44174] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6895,20 +12007,17 @@ MogIt_OtherDB = {
 						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
-				["sourceID"] = 44174,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[30056] = {
-			{
-				["classes"] = 256,
+			[80920] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 80920,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[29049] = {
-			{
+			[81561] = {
 				["classes"] = 256,
 				["sourceType"] = 1,
 				["drops"] = {
@@ -6918,27 +12027,26 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 81561,
 				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[17812] = {
-			{
-				["classes"] = 256,
+			[41411] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41411,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18851] = {
-			{
-				["classes"] = 256,
+			[44308] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6953,28 +12061,25 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44308,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[18867] = {
-			{
-				["classes"] = 256,
+			[44356] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 44356,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[45299] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 45299,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[32214] = {
-			{
-				["classes"] = 256,
+			[81825] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -6987,28 +12092,25 @@ MogIt_OtherDB = {
 						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 81825,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[4489] = {
-			{
-				["classes"] = 256,
+			[10644] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10644,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[69103] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 69103,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[32779] = {
-			{
-				["classes"] = 256,
+			[83102] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7021,88 +12123,80 @@ MogIt_OtherDB = {
 						["instance"] = "勇气试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 83102,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[7566] = {
-			{
-				["classes"] = 256,
+			[20085] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[25219] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 13105,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[38243] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[14318] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14318,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 20084,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 20085,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[13105] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20367,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 25219,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 32371,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 32373,
-			}, -- [8]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[38238] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 38238,
-			}, -- [9]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[32372] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[38242] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 38242,
-			}, -- [10]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[20084] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 38243,
-			}, -- [11]
+				["faction"] = 3,
+			},
+			[32373] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[32371] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20367] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[7570] = {
-			{
-				["classes"] = 256,
+			[13112] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 13112,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[16146] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -7116,88 +12210,72 @@ MogIt_OtherDB = {
 						["instance"] = "魔导师平台",
 					}, -- [1]
 				},
-				["sourceID"] = 16146,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[6563] = {
-			{
-				["classes"] = 256,
+			[10056] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10056,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[30344] = {
-			{
-				["classes"] = 256,
+			[79359] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 79359,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 83670,
-			}, -- [2]
+			},
 		},
 		[19123] = {
-			{
-				["classes"] = 256,
+			[45113] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45113,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[45117] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45117,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[30408] = {
-			{
-				["classes"] = 256,
+			[76021] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 76021,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[13182] = {
-			{
-				["classes"] = 256,
+			[26727] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26727,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[14213] = {
-			{
-				["classes"] = 256,
+			[30402] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30402,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[24334] = {
-			{
-				["classes"] = 256,
+			[61993] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 61993,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[62139] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 62139,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[26396] = {
-			{
-				["classes"] = 256,
+			[69512] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7211,12 +12289,11 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69512,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[69543] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7230,14 +12307,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69543,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[12191] = {
-			{
-				["classes"] = 256,
+			[24406] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -7251,14 +12327,13 @@ MogIt_OtherDB = {
 						["instance"] = "映像大厅",
 					}, -- [1]
 				},
-				["sourceID"] = 24406,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[12199] = {
-			{
-				["classes"] = 256,
+			[24416] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -7272,118 +12347,109 @@ MogIt_OtherDB = {
 						["instance"] = "映像大厅",
 					}, -- [1]
 				},
-				["sourceID"] = 24416,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[13254] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "纳兹夏尔女士",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "潮汐王座",
-					}, -- [1]
-				},
-				["sourceID"] = 26870,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "达加·燃影者",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "格瑞姆巴托",
-					}, -- [1]
-				},
-				["sourceID"] = 27570,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "纳兹夏尔女士",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "潮汐王座",
-					}, -- [1]
-				},
-				["sourceID"] = 27623,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "达加·燃影者",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "格瑞姆巴托",
-					}, -- [1]
-				},
-				["sourceID"] = 27742,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 27822,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			[31325] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 31325,
-			}, -- [6]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[27623] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "纳兹夏尔女士",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "潮汐王座",
+					}, -- [1]
+				},
+			},
+			[34061] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 34061,
-			}, -- [7]
+				["faction"] = 3,
+			},
+			[27570] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "达加·燃影者",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "格瑞姆巴托",
+					}, -- [1]
+				},
+			},
+			[27822] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[26870] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "纳兹夏尔女士",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "潮汐王座",
+					}, -- [1]
+				},
+			},
+			[27742] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "达加·燃影者",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "格瑞姆巴托",
+					}, -- [1]
+				},
+			},
 		},
 		[4601] = {
-			{
-				["classes"] = 256,
+			[6341] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6341,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[3841] = {
-			{
-				["classes"] = 256,
+			[4840] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -7396,38 +12462,28 @@ MogIt_OtherDB = {
 						["instance"] = "斯坦索姆",
 					}, -- [1]
 				},
-				["sourceID"] = 4840,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[66664] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66664,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[69099] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 69099,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[2826] = {
-			{
-				["classes"] = 256,
+			[7373] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3327,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 7373,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[12626] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7440,14 +12496,28 @@ MogIt_OtherDB = {
 						["instance"] = "卡拉赞",
 					}, -- [1]
 				},
-				["sourceID"] = 12626,
-				["faction"] = 2,
-			}, -- [3]
+			},
+			[3327] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[3855] = {
-			{
-				["classes"] = 256,
+			[9473] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[12998] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[4865] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -7460,26 +12530,13 @@ MogIt_OtherDB = {
 						["instance"] = "斯坦索姆",
 					}, -- [1]
 				},
-				["sourceID"] = 4865,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 9473,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 12998,
-			}, -- [3]
+			},
 		},
 		[26716] = {
-			{
-				["classes"] = 256,
+			[69525] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7493,14 +12550,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69525,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[26732] = {
-			{
-				["classes"] = 256,
+			[69507] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7514,14 +12570,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69507,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[26748] = {
-			{
-				["classes"] = 256,
+			[69549] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7535,14 +12590,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69549,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[30856] = {
-			{
-				["classes"] = 256,
+			[80815] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -7555,28 +12609,40 @@ MogIt_OtherDB = {
 						["instance"] = "黑鸦堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 80815,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[1422] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 2138,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[35161] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35161,
-			}, -- [2]
+				["faction"] = 3,
+			},
+			[2138] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[7728] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[24798] = {
-			{
-				["classes"] = 256,
+			[67017] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67011] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[62379] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7590,12 +12656,49 @@ MogIt_OtherDB = {
 						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 62379,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[67016] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67009] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67010] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66801] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "卡加斯·刃拳",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+			},
+			[67015] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[62607] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7609,50 +12712,11 @@ MogIt_OtherDB = {
 						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 62607,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[66804] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "卡加斯·刃拳",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66800,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "卡加斯·刃拳",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66801,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7666,12 +12730,11 @@ MogIt_OtherDB = {
 						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 66804,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[66805] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7685,12 +12748,11 @@ MogIt_OtherDB = {
 						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 66805,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+			[66836] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7704,50 +12766,31 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 66836,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67009,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67010,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67011,
-			}, -- [10]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67015,
-			}, -- [11]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67016,
-			}, -- [12]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67017,
-			}, -- [13]
+			},
+			[66800] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "卡加斯·刃拳",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+			},
 		},
 		[5716] = {
-			{
-				["classes"] = 256,
+			[12065] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -7760,14 +12803,13 @@ MogIt_OtherDB = {
 						["instance"] = "蒸汽地窟",
 					}, -- [1]
 				},
-				["sourceID"] = 12065,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[31032] = {
-			{
-				["classes"] = 256,
+			[79557] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7780,22 +12822,25 @@ MogIt_OtherDB = {
 						["instance"] = "翡翠梦魇",
 					}, -- [1]
 				},
-				["sourceID"] = 79557,
-				["faction"] = 2,
-			}, -- [1]
+			},
+			[84550] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[17749] = {
-			{
-				["classes"] = 256,
+			[41167] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41167,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[32087] = {
-			{
-				["classes"] = 256,
+			[82005] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7807,29 +12852,36 @@ MogIt_OtherDB = {
 						},
 						["instance"] = "暗夜要塞",
 					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "大魔导师艾利桑德",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [2]
 				},
-				["sourceID"] = 82005,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[2868] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 3385,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[3385] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+			[7385] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 7385,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[5740] = {
-			{
-				["classes"] = 256,
+			[8460] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -7842,118 +12894,114 @@ MogIt_OtherDB = {
 						["instance"] = "安其拉废墟",
 					}, -- [1]
 				},
-				["sourceID"] = 8460,
-				["faction"] = 2,
-			}, -- [1]
+			},
+			[12999] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[18868] = {
-			{
-				["classes"] = 256,
+			[44357] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 44357,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[45072] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45072,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[8435] = {
-			{
-				["classes"] = 256,
+			[15022] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 15022,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[32901] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32901,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[3907] = {
-			{
-				["classes"] = 256,
+			[5029] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 5029,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[35567] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35567,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[25086] = {
-			{
-				["classes"] = 256,
+			[67811] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 67811,
-			}, -- [1]
+			},
 		},
 		[25102] = {
-			{
-				["classes"] = 256,
+			[62337] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 62337,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66822] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66822,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[25118] = {
-			{
-				["classes"] = 256,
+			[67840] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67840,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[70377] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 70377,
-			}, -- [2]
+				["faction"] = 3,
+			},
+		},
+		[32295] = {
+			[84552] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[9538] = {
-			{
-				["classes"] = 256,
+			[25697] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17179,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 25696,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 25697,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[28563] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 28563,
-			}, -- [4]
+				["faction"] = 3,
+			},
+			[25696] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17179] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[6831] = {
-			{
-				["classes"] = 256,
+			[11889] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -7967,12 +13015,11 @@ MogIt_OtherDB = {
 						["instance"] = "旧希尔斯布莱德丘陵",
 					}, -- [1]
 				},
-				["sourceID"] = 11889,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[16136] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -7986,88 +13033,98 @@ MogIt_OtherDB = {
 						["instance"] = "魔导师平台",
 					}, -- [1]
 				},
-				["sourceID"] = 16136,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[1455] = {
-			{
-				["classes"] = 256,
+			[65957] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65954,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[65954] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65956,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[65958] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65957,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[65959] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65958,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[65956] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65959,
-			}, -- [5]
+				["faction"] = 3,
+			},
+		},
+		[14693] = {
+			[32501] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32502] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32500] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[14701] = {
-			{
-				["classes"] = 256,
+			[32525] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32524,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[32526] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32525,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[32524] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32526,
-			}, -- [3]
+			},
 		},
 		[13702] = {
-			{
-				["classes"] = 256,
+			[28237] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 28237,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[24335] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 62014,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[86094] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 70372,
-			}, -- [2]
+				["faction"] = 3,
+			},
+			[70372] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[62014] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[26397] = {
-			{
-				["classes"] = 256,
+			[69508] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8081,12 +13138,11 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69508,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[72840] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8100,26 +13156,23 @@ MogIt_OtherDB = {
 						["instance"] = "德拉诺",
 					}, -- [1]
 				},
-				["sourceID"] = 72840,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[8619] = {
-			{
-				["classes"] = 256,
+			[16409] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 15343,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[15343] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 16409,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[35484] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -8133,14 +13186,13 @@ MogIt_OtherDB = {
 						["instance"] = "祖阿曼",
 					}, -- [1]
 				},
-				["sourceID"] = 35484,
-				["faction"] = 2,
-			}, -- [3]
+			},
 		},
 		[21506] = {
-			{
-				["classes"] = 256,
+			[61649] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8153,12 +13205,11 @@ MogIt_OtherDB = {
 						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
-				["sourceID"] = 61647,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[61648] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8171,12 +13222,11 @@ MogIt_OtherDB = {
 						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
-				["sourceID"] = 61648,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[61647] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8189,14 +13239,13 @@ MogIt_OtherDB = {
 						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
-				["sourceID"] = 61649,
-				["faction"] = 2,
-			}, -- [3]
+			},
 		},
 		[11800] = {
-			{
-				["classes"] = 256,
+			[22668] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 2,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8210,12 +13259,11 @@ MogIt_OtherDB = {
 						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 22668,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[22735] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 2,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8229,14 +13277,13 @@ MogIt_OtherDB = {
 						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 22735,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[15900] = {
-			{
-				["classes"] = 256,
+			[36647] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8251,14 +13298,13 @@ MogIt_OtherDB = {
 						["instance"] = "火焰之地",
 					}, -- [1]
 				},
-				["sourceID"] = 36647,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[11816] = {
-			{
-				["classes"] = 256,
+			[22685] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 2,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8272,12 +13318,11 @@ MogIt_OtherDB = {
 						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 22685,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[22752] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 2,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8291,22 +13336,20 @@ MogIt_OtherDB = {
 						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 22752,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[17494] = {
-			{
-				["classes"] = 256,
+			[40667] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 40667,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[26717] = {
-			{
-				["classes"] = 256,
+			[69526] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8320,28 +13363,25 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69526,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[14909] = {
-			{
-				["classes"] = 256,
+			[33325] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33325,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[34675] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 34675,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[26749] = {
-			{
-				["classes"] = 256,
+			[69553] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8355,116 +13395,100 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69553,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[12879] = {
-			{
-				["classes"] = 256,
+			[25919] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25919,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[13934] = {
-			{
-				["classes"] = 256,
+			[29302] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29302,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[373] = {
-			{
-				["classes"] = 256,
+			[4734] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 239,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[239] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2088,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3473] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3473,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[2088] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4734,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[29267] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29267,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
 		[18693] = {
-			{
-				["classes"] = 256,
+			[44085] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 44085,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[4007] = {
-			{
-				["classes"] = 256,
+			[5271] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5271,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18725] = {
-			{
-				["classes"] = 256,
+			[48464] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 45168,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[48424] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 46393,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[51905] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 48424,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[54379] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 48464,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[46393] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51905,
-			}, -- [5]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[45168] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 54379,
-			}, -- [6]
+				["faction"] = 3,
+			},
 		},
 		[30010] = {
-			{
-				["classes"] = 256,
+			[81998] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8477,20 +13501,68 @@ MogIt_OtherDB = {
 						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 81998,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[7003] = {
-			{
-				["classes"] = 256,
+			[20359] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20352] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20345] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20360] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20353] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[60783] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 12123,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[12123] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[20346] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[60781] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[22064] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[60780] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17972] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -8515,100 +13587,18 @@ MogIt_OtherDB = {
 						["instance"] = "魔枢",
 					}, -- [2]
 				},
-				["sourceID"] = 17972,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20345,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20346,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20352,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20353,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20359,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20360,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 22064,
-			}, -- [9]
-			{
-				["classes"] = 256,
+			},
+			[60782] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 60780,
-			}, -- [10]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 60781,
-			}, -- [11]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 60782,
-			}, -- [12]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 60783,
-			}, -- [13]
+				["faction"] = 3,
+			},
 		},
 		[17766] = {
-			{
-				["classes"] = 256,
+			[49820] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "科洛夫修士",
-						["tiers"] = {
-							"经典旧世", -- [1]
-							"熊猫人之谜", -- [2]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血色修道院",
-					}, -- [1]
-				},
-				["sourceID"] = 41190,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8623,36 +13613,32 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49820,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[4021] = {
-			{
-				["classes"] = 256,
+			[5310] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5310,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[6191] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6191,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[17814] = {
-			{
-				["classes"] = 256,
+			[41413] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41413,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18853] = {
-			{
-				["classes"] = 256,
+			[44319] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8667,70 +13653,65 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44319,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[3006] = {
-			{
-				["classes"] = 256,
+			[32273] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[3626] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3626,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 8426,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 9471,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[14262] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14262,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[32278] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[15258] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 15258,
-			}, -- [5]
-			{
+				["faction"] = 3,
+			},
+			[29631] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[29665] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[8426] = {
 				["classes"] = 256,
 				["sourceType"] = 2,
 				["faction"] = 2,
-				["sourceID"] = 29631,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29665,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32273,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32278,
-			}, -- [9]
+			},
+			[78815] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[9471] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
 		[32216] = {
-			{
-				["classes"] = 256,
+			[82535] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8743,100 +13724,138 @@ MogIt_OtherDB = {
 						["instance"] = "破碎群岛",
 					}, -- [1]
 				},
-				["sourceID"] = 82535,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[25087] = {
-			{
-				["classes"] = 256,
+			[67812] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 70928,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 1,
+			},
+			[71670] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[71461] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 71065,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 1,
+			},
+			[72048] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 71137,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[71839] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 71839,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[70550] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71976] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 71976,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[71137] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 72048,
-			}, -- [6]
+			},
+			[70928] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[71598] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71065] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[70759] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[70687] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[25103] = {
-			{
-				["classes"] = 256,
+			[65516] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 59035,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[62140] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 62140,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[59035] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65516,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[25119] = {
-			{
-				["classes"] = 256,
+			[67841] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67841,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[32328] = {
-			{
-				["classes"] = 256,
+			[73828] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 73828,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[1088] = {
+			[26768] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[1734] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[24258] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[25939] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17176] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[1515] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 1619,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5240,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[9573] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -8850,12 +13869,20 @@ MogIt_OtherDB = {
 						["instance"] = "幽暗沼泽",
 					}, -- [1]
 				},
-				["sourceID"] = 9573,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[5240] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[1619] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+			[12425] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -8869,14 +13896,13 @@ MogIt_OtherDB = {
 						["instance"] = "禁魔监狱",
 					}, -- [1]
 				},
-				["sourceID"] = 12425,
-				["faction"] = 2,
-			}, -- [4]
+			},
 		},
 		[16196] = {
-			{
-				["classes"] = 256,
+			[37316] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -8889,14 +13915,13 @@ MogIt_OtherDB = {
 						["instance"] = "永恒之井",
 					}, -- [1]
 				},
-				["sourceID"] = 37316,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[29323] = {
-			{
-				["classes"] = 256,
+			[79066] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -8909,22 +13934,32 @@ MogIt_OtherDB = {
 						["instance"] = "群星庭院",
 					}, -- [1]
 				},
-				["sourceID"] = 79066,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[17063] = {
-			{
-				["classes"] = 256,
+			[38875] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 38875,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[30474] = {
+			[81649] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
 		},
 		[6072] = {
-			{
-				["classes"] = 256,
+			[29616] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[8941] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -8937,158 +13972,172 @@ MogIt_OtherDB = {
 						["instance"] = "安其拉神殿",
 					}, -- [1]
 				},
-				["sourceID"] = 8941,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[29650] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29616,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29650,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[29387] = {
-			{
-				["classes"] = 256,
+			[80924] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 80924,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[13175] = {
-			{
-				["classes"] = 256,
+			[26705] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26705,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[13183] = {
-			{
-				["classes"] = 256,
+			[26730] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26730,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[30458] = {
-			{
-				["classes"] = 256,
+			[68900] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 68900,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[24336] = {
-			{
-				["classes"] = 256,
+			[58978] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 58978,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[62016] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 62016,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[65520] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65520,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[4073] = {
-			{
-				["classes"] = 256,
+			[5389] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5389,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[17172] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17172,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[764] = {
-			{
-				["classes"] = 256,
+			[741] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 741,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[32888] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32888,
-			}, -- [2]
+				["faction"] = 3,
+			},
+		},
+		[30019] = {
+			[81647] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
 		},
 		[765] = {
-			{
-				["classes"] = 256,
+			[17178] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 699,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 1859,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 1865,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[10716] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10716,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[12274] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 12274,
-			}, -- [5]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[699] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17178,
-			}, -- [6]
+				["faction"] = 3,
+			},
+			[7572] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[1859] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[1865] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[383] = {
-			{
-				["classes"] = 256,
+			[5173] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5173,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[35150] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35150,
-			}, -- [2]
+				["faction"] = 3,
+			},
+		},
+		[31033] = {
+			[84551] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[28373] = {
+			[79372] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[83914] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
 		},
 		[7147] = {
-			{
-				["classes"] = 256,
+			[35564] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[18027] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[12400] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -9101,44 +14150,13 @@ MogIt_OtherDB = {
 						["instance"] = "生态船",
 					}, -- [1]
 				},
-				["sourceID"] = 12400,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 18027,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35564,
-			}, -- [3]
+			},
 		},
 		[6128] = {
-			{
-				["classes"] = 256,
+			[18760] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "指挥官萨拉妮丝",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "生态船",
-					}, -- [1]
-				},
-				["sourceID"] = 12378,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9163,12 +14181,29 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
-				["sourceID"] = 18760,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[24935] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "烂肠",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
+			[19281] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9215,56 +14250,11 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [4]
 				},
-				["sourceID"] = 19281,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 19403,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[25607] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "欧尔莉亚",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-				["sourceID"] = 21790,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "烂肠",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 24935,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9278,88 +14268,210 @@ MogIt_OtherDB = {
 						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 25607,
-				["faction"] = 2,
-			}, -- [7]
+			},
+			[21790] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "欧尔莉亚",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+			},
+			[19403] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[12378] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "指挥官萨拉妮丝",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "生态船",
+					}, -- [1]
+				},
+			},
 		},
 		[8178] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14327,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[28338] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[27481] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17175] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17175,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[27480] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 27480,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[30295] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 27481,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 28338,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30295,
-			}, -- [6]
+				["faction"] = 3,
+			},
+			[14327] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[25535] = {
-			{
-				["classes"] = 256,
+			[69072] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 69072,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[69076] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 69076,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[3074] = {
-			{
-				["classes"] = 256,
+		[28150] = {
+			[79351] = {
+				["classes"] = 16,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3710,
-			}, -- [1]
+				["faction"] = 1,
+			},
+			[79353] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[32728] = {
+			[86905] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "堕落的化身",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "萨格拉斯之墓",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[30426] = {
+			[68630] = {
+				["classes"] = 16,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[14691] = {
+			[32495] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32496] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32494] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[14541] = {
+			[31793] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[14530] = {
+			[31746] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[5141] = {
-			{
-				["classes"] = 256,
+			[10064] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10064,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[29387] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29387,
-			}, -- [2]
+				["faction"] = 3,
+			},
+		},
+		[18721] = {
+			[44087] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[45074] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[26734] = {
+			[69518] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛诺洛斯",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
 		},
 		[26718] = {
-			{
-				["classes"] = 256,
+			[69524] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9373,52 +14485,90 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69524,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[24688] = {
-			{
-				["classes"] = 256,
+			[64169] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[71458] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71669] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[71595] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71836] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 70925,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 71062,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[72047] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 71136,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[71973] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 71836,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[70684] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[70925] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 71973,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[71136] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 72047,
-			}, -- [6]
+			},
+			[71062] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[70758] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[70547] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[67743] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[64097] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[26750] = {
-			{
-				["classes"] = 256,
+			[69554] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9432,58 +14582,204 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69554,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[3108] = {
-			{
-				["classes"] = 256,
+		[2880] = {
+			[3405] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3747,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[8178] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6358,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 14403,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
-		[4170] = {
-			{
-				["classes"] = 256,
+		[537] = {
+			[35146] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5605,
-			}, -- [1]
-		},
-		[18726] = {
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[35148] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 45300,
-			}, -- [1]
+				["faction"] = 3,
+			},
+			[5911] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[1379] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[734] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
-		[14510] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31654,
-			}, -- [1]
+		[2906] = {
+			[3454] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[3596] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
-		[32089] = {
-			{
+		[19389] = {
+			[51431] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[51426] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[46406] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[29028] = {
+			[81560] = {
 				["classes"] = 256,
 				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "崔利艾克斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["instance"] = "暗夜要塞",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[3108] = {
+			[6358] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[3747] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[14403] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[33232] = {
+			[86343] = {
+				["classes"] = 256,
+				["sourceType"] = 1,
+				["faction"] = 2,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "绝望的聚合体",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["instance"] = "萨格拉斯之墓",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+			},
+		},
+		[4170] = {
+			[5605] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2051] = {
+			[2364] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[2559] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+		},
+		[18726] = {
+			[45300] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[32196] = {
+			[81656] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+		},
+		[5835] = {
+			[8607] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[15524] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[12529] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "莫罗斯",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "卡拉赞",
+					}, -- [1]
+				},
+			},
+		},
+		[14510] = {
+			[31654] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[32089] = {
+			[82004] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9492,42 +14788,105 @@ MogIt_OtherDB = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "大魔导师艾利桑德",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [2]
+				},
+			},
+		},
+		[30231] = {
+			[81565] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "崔利艾克斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
 						},
 						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 82004,
-				["faction"] = 2,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[4202] = {
-			{
-				["classes"] = 256,
+			[5655] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5655,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[17815] = {
-			{
-				["classes"] = 256,
+			[41414] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41414,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[5261] = {
+			[7386] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[35496] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[1584] = {
+			[1697] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[17174] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[30139] = {
+			[81651] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[83908] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
 		},
 		[8436] = {
-			{
-				["classes"] = 256,
+			[15023] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 15023,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[32217] = {
-			{
-				["classes"] = 256,
+			[81827] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9540,124 +14899,146 @@ MogIt_OtherDB = {
 						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 81827,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[2117] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6308,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[28358] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 28358,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[6308] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35145,
-			}, -- [3]
+				["faction"] = 3,
+			},
+			[35145] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[25088] = {
-			{
-				["classes"] = 256,
+			[60188] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 60188,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[67663] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 67663,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[67737] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 67737,
-			}, -- [3]
+			},
 		},
 		[15629] = {
-			{
-				["classes"] = 256,
+			[37806] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 35920,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[35920] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 35921,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[35922] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 37805,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[37805] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 37806,
-			}, -- [4]
+				["faction"] = 3,
+			},
+			[35921] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[37804] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[16936] = {
-			{
-				["classes"] = 256,
+			[38877] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[32297] = {
+			[84555] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[14702] = {
+			[32528] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 38877,
-			}, -- [1]
+			},
+			[32529] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[32527] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
 		},
 		[13615] = {
-			{
-				["classes"] = 256,
+			[27882] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 27882,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[13623] = {
-			{
-				["classes"] = 256,
+			[66972] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66972,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[9539] = {
-			{
-				["classes"] = 256,
+			[17180] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17180,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[31548] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31548,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[3158] = {
-			{
-				["classes"] = 256,
+			[13880] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3801,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3801] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4119] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -9670,88 +15051,137 @@ MogIt_OtherDB = {
 						["instance"] = "阿塔哈卡神庙",
 					}, -- [1]
 				},
-				["sourceID"] = 4119,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[5250] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5250,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 13880,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[15315] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 15315,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
 		[6316] = {
-			{
-				["classes"] = 256,
+			[9472] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 9472,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[6320] = {
-			{
-				["classes"] = 256,
+			[9479] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 9479,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[1584] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1697,
-			}, -- [1]
-			{
-				["classes"] = 256,
+		[18829] = {
+			[48523] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17174,
-			}, -- [2]
+				["faction"] = 3,
+			},
+			[54398] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[51964] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[46394] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[54346] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[51973] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[48425] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
-		[14702] = {
-			{
-				["classes"] = 256,
+		[14694] = {
+			[32504] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 32527,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 1,
+			},
+			[32505] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 32528,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 1,
+			},
+			[32503] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 32529,
-			}, -- [3]
+				["faction"] = 1,
+			},
+		},
+		[3168] = {
+			[3821] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[30842] = {
+			[79060] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "鲜血公主萨安娜",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "突袭紫罗兰监狱",
+					}, -- [1]
+				},
+			},
 		},
 		[794] = {
-			{
-				["classes"] = 256,
+			[2784] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[2509] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[2424] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 736,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[21201] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[1985] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -9766,126 +15196,150 @@ MogIt_OtherDB = {
 						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
-				["sourceID"] = 1985,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[736] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2424,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2509,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2784,
-			}, -- [5]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+		},
+		[15890] = {
+			[36551] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 21201,
-			}, -- [6]
+				["faction"] = 3,
+			},
 		},
 		[24337] = {
-			{
-				["classes"] = 256,
+			[66817] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66817,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18215] = {
-			{
-				["classes"] = 256,
+			[42930] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42927,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42927] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42928,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42929] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42929,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42931] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42930,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42928] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42931,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
-		[3180] = {
-			{
-				["classes"] = 256,
+		[24369] = {
+			[63545] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3839,
-			}, -- [1]
+				["faction"] = 3,
+			},
+			[70375] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[31174] = {
+			[82859] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "胡墨格里斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "破碎群岛",
+					}, -- [1]
+				},
+			},
+		},
+		[8879] = {
+			[15812] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "基尔加丹",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "太阳之井高地",
+					}, -- [1]
+				},
+			},
+		},
+		[31685] = {
+			[82787] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[3188] = {
-			{
-				["classes"] = 256,
+			[4735] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3851,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[6181] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4735,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[5940] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5940,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3851] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6181,
-			}, -- [4]
+				["faction"] = 3,
+			},
 		},
 		[2167] = {
-			{
-				["classes"] = 256,
+			[2499] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2499,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10706] = {
-			{
-				["classes"] = 256,
+			[20086] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 20086,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[22176] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9899,20 +15353,18 @@ MogIt_OtherDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 22176,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[3194] = {
-			{
-				["classes"] = 256,
+			[3858] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3858,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[4203] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -9925,14 +15377,205 @@ MogIt_OtherDB = {
 						["instance"] = "黑石深渊",
 					}, -- [1]
 				},
-				["sourceID"] = 4203,
-				["faction"] = 2,
-			}, -- [2]
+			},
+		},
+		[32088] = {
+			[82003] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "大魔导师艾利桑德",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "大魔导师艾利桑德",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [2]
+				},
+			},
+		},
+		[30840] = {
+			[80819] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "审判官托蒙托鲁姆",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "守望者地窟",
+					}, -- [1]
+				},
+			},
+		},
+		[2764] = {
+			[5262] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4645] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[3248] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26211] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "海里昂",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "红玉圣殿",
+					}, -- [1]
+				},
+			},
+			[24616] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "踏梦者瓦莉瑟瑞娅",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
+			[26521] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "海里昂",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "红玉圣殿",
+					}, -- [1]
+				},
+			},
+			[24754] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "踏梦者瓦莉瑟瑞娅",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
+			[8474] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "莫阿姆",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安其拉废墟",
+					}, -- [1]
+				},
+			},
+		},
+		[3559] = {
+			[4438] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "梦境守望者",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "阿塔哈卡神庙",
+					}, -- [1]
+				},
+			},
+			[8601] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "预言者斯克拉姆",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安其拉神殿",
+					}, -- [1]
+				},
+			},
 		},
 		[19446] = {
-			{
-				["classes"] = 256,
+			[46600] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9947,28 +15590,51 @@ MogIt_OtherDB = {
 						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
-				["sourceID"] = 46600,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[3208] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3876,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4748,
-			}, -- [2]
-		},
-		[15901] = {
-			{
+		[33214] = {
+			[86345] = {
 				["classes"] = 256,
 				["sourceType"] = 1,
+				["faction"] = 2,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "绝望的聚合体",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["instance"] = "萨格拉斯之墓",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+			},
+		},
+		[3208] = {
+			[3876] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[4748] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[18197] = {
+			[42783] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[15901] = {
+			[36664] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -9983,44 +15649,75 @@ MogIt_OtherDB = {
 						["instance"] = "火焰之地",
 					}, -- [1]
 				},
-				["sourceID"] = 36664,
-				["faction"] = 2,
-			}, -- [1]
+			},
+		},
+		[32843] = {
+			[83204] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "海拉",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "勇气试炼",
+					}, -- [1]
+				},
+			},
 		},
 		[12848] = {
-			{
-				["classes"] = 256,
+			[25837] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25837,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[4386] = {
-			{
-				["classes"] = 256,
+			[5960] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5960,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[3220] = {
-			{
-				["classes"] = 256,
+			[3894] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3894,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[6428] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6428,
-			}, -- [2]
+				["faction"] = 3,
+			},
+		},
+		[1400] = {
+			[10068] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10067] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[33168] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[26767] = {
-			{
-				["classes"] = 256,
+			[73148] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -10034,294 +15731,154 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 73148,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[3525] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 4377,
-			}, -- [1]
-			{
-				["classes"] = 256,
+		[30436] = {
+			[80927] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 7470,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+		},
+		[26773] = {
+			[73156] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "血魔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[14950] = {
+			[34257] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[2967] = {
+			[3565] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[7689] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克洛玛古斯",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑翼之巢",
+					}, -- [1]
+				},
+			},
+		},
+		[998] = {
+			[26058] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[29352] = {
+			[80810] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "制造者",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "鲜血熔炉",
-					}, -- [1]
-				},
-				["sourceID"] = 11928,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 14044,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "阿努巴拉克",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "十字军的试炼",
-					}, -- [1]
-				},
-				["sourceID"] = 22728,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "阿努巴拉克",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人（英雄）", -- [1]
-						},
-						["instance"] = "十字军的试炼",
-					}, -- [1]
-				},
-				["sourceID"] = 22795,
-				["faction"] = 2,
-			}, -- [6]
-		},
-		[14950] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 34257,
-			}, -- [1]
-		},
-		[4461] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6088,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6139,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 7725,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 7726,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 8075,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10061,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26171,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31553,
-			}, -- [8]
-		},
-		[501] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2547,
-			}, -- [1]
-		},
-		[32263] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "沙索斯",
+						["encounter"] = "深须国王",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "破碎群岛",
+						["instance"] = "艾萨拉之眼",
 					}, -- [1]
 				},
-				["sourceID"] = 82861,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[2427] = {
-			{
-				["classes"] = 256,
+		[30440] = {
+			[80929] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2823,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 21180,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[18721] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 44087,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45074,
-			}, -- [2]
+		[30839] = {
+			[76913] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "哈布隆",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "噬魂之喉",
+					}, -- [1]
+				},
+			},
 		},
-		[18985] = {
-			{
-				["classes"] = 256,
+		[29350] = {
+			[78989] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "石头守卫",
+						["instanceType"] = 1,
+						["encounter"] = "科蒂拉克斯",
 						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "魔古山宝库",
-					}, -- [1]
-				},
-				["sourceID"] = 44645,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "马尔考罗克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
+						["instance"] = "魔法回廊",
 					}, -- [1]
 				},
-				["sourceID"] = 61750,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "马尔考罗克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "决战奥格瑞玛",
-					}, -- [1]
-				},
-				["sourceID"] = 61751,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "马尔考罗克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "决战奥格瑞玛",
-					}, -- [1]
-				},
-				["sourceID"] = 61752,
-				["faction"] = 2,
-			}, -- [4]
+			},
 		},
-		[2906] = {
-			{
-				["classes"] = 256,
+		[31035] = {
+			[84548] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3454,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[84549] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3596,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[30012] = {
-			{
-				["classes"] = 256,
+			[82000] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -10334,28 +15891,40 @@ MogIt_OtherDB = {
 						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 82000,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[5261] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 7386,
-			}, -- [1]
-			{
-				["classes"] = 256,
+		[995] = {
+			[5378] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35496,
-			}, -- [2]
+				["faction"] = 3,
+			},
+			[1860] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[2114] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[10060] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26180] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[32090] = {
-			{
-				["classes"] = 256,
+			[82002] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -10364,87 +15933,77 @@ MogIt_OtherDB = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
+							"普通", -- [1]
 						},
 						["instance"] = "暗夜要塞",
 					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "大魔导师艾利桑德",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [2]
 				},
-				["sourceID"] = 82002,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[2880] = {
-			{
-				["classes"] = 256,
+		[501] = {
+			[2547] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3405,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 8178,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[30039] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 81658,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 83482,
-			}, -- [2]
+		[17493] = {
+			[40666] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[17816] = {
-			{
-				["classes"] = 256,
+			[41415] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41415,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[32196] = {
-			{
-				["classes"] = 256,
+		[1611] = {
+			[14643] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 81656,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[18153] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[3095] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[10518] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[1728] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 83939,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[24194] = {
-			{
-				["classes"] = 256,
+		[24382] = {
+			[62789] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克拉戈",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 62633,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -10458,18 +16017,11 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 62805,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63547,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[66812] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -10483,12 +16035,11 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 66792,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[66813] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -10502,185 +16053,49 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 66793,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克拉戈",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66794,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克拉戈",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66795,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67018,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67019,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67020,
-			}, -- [10]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格鲁尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 67782,
-				["faction"] = 2,
-			}, -- [11]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格鲁尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 67783,
-				["faction"] = 2,
-			}, -- [12]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格鲁尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 67784,
-				["faction"] = 2,
-			}, -- [13]
+			},
 		},
-		[29028] = {
-			{
-				["classes"] = 256,
+		[29334] = {
+			[80806] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "崔利艾克斯",
+						["instanceType"] = 1,
+						["encounter"] = "哈布隆",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
+						["instance"] = "噬魂之喉",
 					}, -- [1]
 				},
-				["sourceID"] = 81560,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[3559] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "梦境守望者",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "阿塔哈卡神庙",
-					}, -- [1]
-				},
-				["sourceID"] = 4438,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "预言者斯克拉姆",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "安其拉神殿",
-					}, -- [1]
-				},
-				["sourceID"] = 8601,
-				["faction"] = 2,
-			}, -- [2]
+		[4482] = {
+			[6160] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[14641] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[27839] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[32218] = {
-			{
-				["classes"] = 256,
+			[81824] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -10693,200 +16108,346 @@ MogIt_OtherDB = {
 						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 81824,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[14777] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 32835,
-			}, -- [1]
+		[32234] = {
+			[84544] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[25089] = {
-			{
-				["classes"] = 256,
+			[71517] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71356] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71895] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 70823,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[70606] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[67747] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71628] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[71734] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 70984,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[70445] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[72006] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 71095,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[70717] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[70823] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 71734,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 71895,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[71095] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 72006,
-			}, -- [6]
+			},
+			[64093] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[64167] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[70984] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
 		},
 		[25105] = {
-			{
-				["classes"] = 256,
+			[67026] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67026,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[24098] = {
-			{
-				["classes"] = 256,
+			[63717] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 63717,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[63723] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 63720,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[63720] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 63723,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
-		[2246] = {
-			{
-				["classes"] = 256,
+		[3962] = {
+			[27465] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 2602,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14639,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29376,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30852,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30854,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33144,
-			}, -- [6]
+				["faction"] = 3,
+			},
 		},
-		[24901] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 70949,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 71076,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 71860,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 71987,
-			}, -- [4]
+		[30405] = {
+			[74625] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
-		[30504] = {
-			{
-				["classes"] = 256,
+		[24194] = {
+			[66792] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "塞纳留斯",
+						["encounter"] = "克罗莫格",
 						["tiers"] = {
-							"军团再临", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"英雄", -- [1]
 						},
-						["instance"] = "翡翠梦魇",
+						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 81048,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[30506] = {
-			{
-				["classes"] = 256,
+			},
+			[63547] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66794] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "塞纳留斯",
+						["encounter"] = "克拉戈",
 						["tiers"] = {
-							"军团再临", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"英雄", -- [1]
 						},
-						["instance"] = "翡翠梦魇",
+						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 81047,
-				["faction"] = 2,
-			}, -- [1]
+			},
+			[62633] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克拉戈",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+			},
+			[67784] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格鲁尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[67783] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格鲁尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[67782] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格鲁尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[67020] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67019] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67018] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[62805] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克罗莫格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[66795] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克拉戈",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+			},
+			[66793] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克罗莫格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+		},
+		[26256] = {
+			[69536] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "永恒者索克雷萨",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
 		},
 		[6564] = {
-			{
-				["classes"] = 256,
+			[10057] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10057,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[32378] = {
-			{
-				["classes"] = 256,
+			[83070] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -10899,34 +16460,62 @@ MogIt_OtherDB = {
 						["instance"] = "重返卡拉赞",
 					}, -- [1]
 				},
-				["sourceID"] = 83070,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[1645] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 1867,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29312,
-			}, -- [2]
+		[29325] = {
+			[80809] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "萨维斯之影",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑心林地",
+					}, -- [1]
+				},
+			},
 		},
 		[412] = {
-			{
-				["classes"] = 256,
+			[26166] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[5191] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2488,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3438] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[25836] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[2488] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[25920] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[2544] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -10939,66 +16528,27 @@ MogIt_OtherDB = {
 						["instance"] = "哀嚎洞穴",
 					}, -- [1]
 				},
-				["sourceID"] = 2544,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3438,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5191,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25836,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25920,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26166,
-			}, -- [7]
+			},
 		},
-		[15890] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 36551,
-			}, -- [1]
-		},
-		[30396] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 68631,
-			}, -- [1]
-		},
-		[1649] = {
-			{
-				["classes"] = 256,
+		[14777] = {
+			[32835] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 1861,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+		},
+		[30396] = {
+			[68631] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[1649] = {
+			[7310] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -11011,132 +16561,105 @@ MogIt_OtherDB = {
 						["instance"] = "厄运之槌",
 					}, -- [1]
 				},
-				["sourceID"] = 7310,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[10058] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10058,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[17173] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17173,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[1861] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[30388] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30388,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
-		[1400] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10067,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10068,
-			}, -- [2]
-			{
-				["classes"] = 256,
+		[1652] = {
+			[34246] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33168,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
-		[30395] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 80930,
-			}, -- [1]
+		[30508] = {
+			[80544] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "塞纳留斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "翡翠梦魇",
+					}, -- [1]
+				},
+			},
 		},
 		[4554] = {
-			{
-				["classes"] = 256,
+			[6275] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6275,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[6350] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6350,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[24338] = {
-			{
-				["classes"] = 256,
+			[70373] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 70373,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18216] = {
-			{
-				["classes"] = 256,
+			[42944] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42941,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42941] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42942,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42943] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42943,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42945] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42944,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[42942] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42945,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
 		[1655] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5163,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 7724,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30285,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			[42164] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -11149,254 +16672,32 @@ MogIt_OtherDB = {
 						["instance"] = "怒焰裂谷",
 					}, -- [1]
 				},
-				["sourceID"] = 42164,
-				["faction"] = 2,
-			}, -- [4]
-		},
-		[17493] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 40666,
-			}, -- [1]
-		},
-		[1657] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1819,
-			}, -- [1]
-		},
-		[29533] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 72289,
-			}, -- [1]
-		},
-		[19319] = {
-			{
-				["classes"] = 256,
+			},
+			[7724] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 46153,
-			}, -- [1]
-		},
-		[30436] = {
-			{
-				["classes"] = 256,
+			},
+			[5163] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 80927,
-			}, -- [1]
-		},
-		[18829] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 46394,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 48425,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 48523,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51964,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51973,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 54346,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 54398,
-			}, -- [7]
-		},
-		[10203] = {
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[30285] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 19025,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 21375,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[12257] = {
-			{
-				["classes"] = 256,
+		[30850] = {
+			[79108] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "死亡使者萨鲁法尔",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 24491,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "死亡使者萨鲁法尔",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 24782,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[25537] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 69073,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 72530,
-			}, -- [2]
-		},
-		[1665] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1801,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1814,
-			}, -- [2]
-		},
-		[13304] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 26929,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 26931,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32053,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32056,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 41539,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 41582,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 41635,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 41688,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 41741,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 41794,
-			}, -- [10]
-		},
-		[29677] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 80918,
-			}, -- [1]
-		},
-		[30840] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "审判官托蒙托鲁姆",
+						["encounter"] = "科达娜·邪歌",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
@@ -11405,54 +16706,95 @@ MogIt_OtherDB = {
 						["instance"] = "守望者地窟",
 					}, -- [1]
 				},
-				["sourceID"] = 80819,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[2764] = {
-			{
-				["classes"] = 256,
+		[1657] = {
+			[1819] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3248,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4645,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5262,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+		},
+		[29533] = {
+			[72289] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[19319] = {
+			[46153] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[84376] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[26761] = {
+			[73306] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "莫阿姆",
+						["encounter"] = "暴君维哈里",
 						["tiers"] = {
-							"经典旧世", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"随机", -- [1]
 						},
-						["instance"] = "安其拉废墟",
+						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 8474,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+		},
+		[26400] = {
+			[69548] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "踏梦者瓦莉瑟瑞娅",
+						["encounter"] = "钢铁掠夺者",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[10203] = {
+			[19025] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[21375] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[12257] = {
+			[24491] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "死亡使者萨鲁法尔",
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
@@ -11462,16 +16804,15 @@ MogIt_OtherDB = {
 						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 24616,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[24782] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "踏梦者瓦莉瑟瑞娅",
+						["encounter"] = "死亡使者萨鲁法尔",
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
@@ -11481,139 +16822,222 @@ MogIt_OtherDB = {
 						["instance"] = "冰冠堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 24754,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "海里昂",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "红玉圣殿",
-					}, -- [1]
-				},
-				["sourceID"] = 26211,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "海里昂",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人（英雄）", -- [1]
-						},
-						["instance"] = "红玉圣殿",
-					}, -- [1]
-				},
-				["sourceID"] = 26521,
-				["faction"] = 2,
-			}, -- [8]
+			},
 		},
-		[1670] = {
-			{
-				["classes"] = 256,
+		[25537] = {
+			[69073] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1807,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[72530] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2882,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6122,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 9243,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32231,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
-		[16130] = {
-			{
-				["classes"] = 256,
+		[1665] = {
+			[1801] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[1814] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[13304] = {
+			[26929] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[32056] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[41582] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41635] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41688] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41741] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26931] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[41794] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[32053] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[41539] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[29677] = {
+			[80918] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[1645] = {
+			[1867] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[29312] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[2660] = {
+			[3124] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[24397] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "希尔瓦娜斯的残影",
+						["encounter"] = "天灾领主泰兰努斯",
 						["tiers"] = {
-							"大地的裂变", -- [1]
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
 						},
-						["instance"] = "时光之末",
+						["instance"] = "萨隆矿坑",
 					}, -- [1]
 				},
-				["sourceID"] = 37291,
-				["faction"] = 2,
-			}, -- [1]
+			},
+		},
+		[1670] = {
+			[2882] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6122] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[9243] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[32231] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[1807] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[9761] = {
+			[17659] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[2319] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2690,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[26753] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26753,
-			}, -- [2]
-		},
-		[8879] = {
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[22562] = {
+				["classes"] = 16,
 				["sourceType"] = 1,
+				["faction"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "基尔加丹",
+						["encounter"] = "部落的冠军",
 						["tiers"] = {
-							"燃烧的远征", -- [1]
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
+							"25人（英雄）", -- [1]
 						},
-						["instance"] = "太阳之井高地",
+						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 15812,
-				["faction"] = 2,
-			}, -- [1]
+			},
+			[2690] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[22556] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "部落的冠军",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+		},
+		[30395] = {
+			[80930] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[26720] = {
-			{
-				["classes"] = 256,
+			[69519] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -11627,48 +17051,47 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69519,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[6692] = {
-			{
-				["classes"] = 256,
+			[10413] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10413,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[31516] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31516,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[1676] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1816,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[7927] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 7927,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[1816] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10444] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10444,
-			}, -- [3]
+				["faction"] = 3,
+			},
+			[7930] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[26768] = {
-			{
-				["classes"] = 256,
+			[73152] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -11682,68 +17105,67 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 73152,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[1678] = {
-			{
-				["classes"] = 256,
+			[1818] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1818,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[17710] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 17710,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[25106] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67081,
-			}, -- [1]
+		[17641] = {
+			[84429] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莱公",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+							"时空漫游", -- [2]
+						},
+						["instance"] = "残阳关",
+					}, -- [1]
+				},
+			},
 		},
 		[1680] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1822,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14642,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[30845] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30845,
-			}, -- [3]
+				["faction"] = 3,
+			},
+			[14642] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[1822] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[14447] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31243,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 33398,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[33398] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+			[45712] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -11758,174 +17180,68 @@ MogIt_OtherDB = {
 						["instance"] = "通灵学院",
 					}, -- [1]
 				},
-				["sourceID"] = 45712,
-				["faction"] = 2,
-			}, -- [3]
+			},
+			[31243] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[4674] = {
-			{
-				["classes"] = 256,
+			[7569] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 7569,
-			}, -- [1]
+			},
 		},
 		[1683] = {
-			{
-				["classes"] = 256,
+			[10059] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1825,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[1825] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10059,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[26264] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26264,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
-		[19389] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46406,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 51431,
-			}, -- [2]
-		},
-		[10445] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 19613,
-			}, -- [1]
-			{
-				["classes"] = 256,
+		[17608] = {
+			[84421] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "玛洛加尔领主",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 24850,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "玛洛加尔领主",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 25648,
-				["faction"] = 2,
-			}, -- [3]
-		},
-		[1686] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1829,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4792,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26043,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66663,
-			}, -- [4]
-		},
-		[17646] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "杰翰",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "魔古山宫殿",
-					}, -- [1]
-				},
-				["sourceID"] = 40977,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "杰翰",
+						["encounter"] = "跳跳大王",
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
 							"普通", -- [1]
+							"时空漫游", -- [2]
 						},
-						["instance"] = "魔古山宫殿",
+						["instance"] = "风暴烈酒酿造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 43609,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[3374] = {
-			{
-				["classes"] = 256,
+			[5222] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5222,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[7275] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -11938,96 +17254,477 @@ MogIt_OtherDB = {
 						["instance"] = "厄运之槌",
 					}, -- [1]
 				},
-				["sourceID"] = 7275,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[10063] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10063,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
-		[18196] = {
-			{
-				["classes"] = 256,
+		[1686] = {
+			[4792] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26043] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42782,
-			}, -- [1]
-		},
-		[30853] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "芬雷尔",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "英灵殿",
-					}, -- [1]
-				},
-				["sourceID"] = 80804,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[1691] = {
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[1829] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1834,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5280,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 9477,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66663] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10577,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+		},
+		[19100] = {
+			[44990] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "莫加尔大王",
+						["encounter"] = "烛龙",
 						["tiers"] = {
-							"燃烧的远征", -- [1]
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "永春台",
+					}, -- [1]
+				},
+			},
+			[62184] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[24898] = {
+			[59583] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63141] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[59573] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66690] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66771] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66774] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "格鲁尔的巢穴",
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63137] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66685] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+		},
+		[29006] = {
+			[85086] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[85735] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[26741] = {
+			[69546] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁掠夺者",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 12734,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17637,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+		},
+		[1691] = {
+			[10577] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[20944] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -12041,18 +17738,11 @@ MogIt_OtherDB = {
 						["instance"] = "安卡赫特：古代王国",
 					}, -- [1]
 				},
-				["sourceID"] = 20944,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 22023,
-			}, -- [8]
-			{
-				["classes"] = 256,
+			},
+			[24068] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -12066,12 +17756,43 @@ MogIt_OtherDB = {
 						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
-				["sourceID"] = 24068,
-				["faction"] = 2,
-			}, -- [9]
-			{
-				["classes"] = 256,
+			},
+			[17637] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[9477] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[12734] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "莫加尔大王",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "格鲁尔的巢穴",
+					}, -- [1]
+				},
+			},
+			[22023] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[24198] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -12085,1028 +17806,23 @@ MogIt_OtherDB = {
 						["instance"] = "奥妮克希亚的巢穴",
 					}, -- [1]
 				},
-				["sourceID"] = 24198,
-				["faction"] = 2,
-			}, -- [10]
-		},
-		[30508] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "塞纳留斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "翡翠梦魇",
-					}, -- [1]
-				},
-				["sourceID"] = 80544,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[1693] = {
-			{
-				["classes"] = 256,
+			},
+			[5280] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1837,
-			}, -- [1]
-		},
-		[18197] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42783,
-			}, -- [1]
-		},
-		[29336] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "审判官托蒙托鲁姆",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "守望者地窟",
-					}, -- [1]
-				},
-				["sourceID"] = 79107,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[30842] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "鲜血公主萨安娜",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "突袭紫罗兰监狱",
-					}, -- [1]
-				},
-				["sourceID"] = 79060,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[8437] = {
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[1834] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 15024,
-			}, -- [1]
-		},
-		[24195] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥尔高格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 62687,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63546,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥尔高格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66781,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥尔高格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66782,
-				["faction"] = 2,
-			}, -- [4]
-		},
-		[2967] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3565,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克洛玛古斯",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑翼之巢",
-					}, -- [1]
-				},
-				["sourceID"] = 7689,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[998] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26058,
-			}, -- [1]
-		},
-		[32789] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "高姆",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "勇气试炼",
-					}, -- [1]
-				},
-				["sourceID"] = 83100,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[25122] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63443,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67844,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 72529,
-			}, -- [3]
-		},
-		[19000] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "皇家宰相佐尔洛克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "恐惧之心",
-					}, -- [1]
-				},
-				["sourceID"] = 44693,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "加拉隆",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "恐惧之心",
-					}, -- [1]
-				},
-				["sourceID"] = 44707,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[26769] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "钢铁掠夺者",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 73154,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[1705] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2226,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3499,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6371,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 64223,
-			}, -- [4]
-		},
-		[2885] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5138,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5179,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29477,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29726,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35158,
-			}, -- [5]
-		},
-		[9540] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17181,
-			}, -- [1]
-		},
-		[3414] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32905,
-			}, -- [1]
-		},
-		[26257] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "霸主卡扎克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "德拉诺",
-					}, -- [1]
-				},
-				["sourceID"] = 72837,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[29342] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "库塔洛斯·拉文凯斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑鸦堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 78626,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[17608] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "跳跳大王",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "风暴烈酒酿造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 40930,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[30839] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "哈布隆",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "噬魂之喉",
-					}, -- [1]
-				},
-				["sourceID"] = 76913,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[30413] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 74518,
-			}, -- [1]
-		},
-		[13688] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 28190,
-			}, -- [1]
-		},
-		[5829] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "安其拉三宝",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "安其拉神殿",
-					}, -- [1]
-				},
-				["sourceID"] = 8598,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 19373,
-			}, -- [2]
-		},
-		[29350] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "科蒂拉克斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "魔法回廊",
-					}, -- [1]
-				},
-				["sourceID"] = 78989,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[2409] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2805,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔瓦洛克",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "法力陵墓",
-					}, -- [1]
-				},
-				["sourceID"] = 10657,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26260,
-			}, -- [3]
-		},
-		[26401] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "霸主卡扎克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "德拉诺",
-					}, -- [1]
-				},
-				["sourceID"] = 72843,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[995] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 1860,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2114,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5378,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10060,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26180,
-			}, -- [5]
-		},
-		[2712] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3180,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10506,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10507,
-			}, -- [3]
-		},
-		[29518] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 72298,
-			}, -- [1]
-		},
-		[29534] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 72280,
-			}, -- [1]
-		},
-		[19320] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46154,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 46391,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 48422,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 48481,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51922,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 54396,
-			}, -- [6]
-		},
-		[1611] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1728,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 3095,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10518,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14643,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18153,
-			}, -- [5]
-		},
-		[10707] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 20087,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 24729,
-			}, -- [2]
-		},
-		[9692] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "瓦尔洛斯·云击",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "魔环",
-					}, -- [1]
-				},
-				["sourceID"] = 17494,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 62472,
-			}, -- [2]
-		},
-		[18947] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 47087,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 49901,
-			}, -- [2]
-		},
-		[25538] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 69075,
-			}, -- [1]
-		},
-		[30429] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 73841,
-			}, -- [1]
-		},
-		[3458] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "弗莱拉斯总大使",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石深渊",
-					}, -- [1]
-				},
-				["sourceID"] = 4258,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66660,
-			}, -- [2]
-		},
-		[2437] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2834,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 13330,
-			}, -- [2]
-		},
-		[7973] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 13926,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14165,
-			}, -- [2]
-		},
-		[26736] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "玛诺洛斯",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69517,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[3962] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 27465,
-			}, -- [1]
-		},
-		[2445] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2843,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 3115,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17168,
-			}, -- [3]
-		},
-		[24643] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66820,
-			}, -- [1]
-		},
-		[26761] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "暴君维哈里",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 73306,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[26721] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "永恒者索克雷萨",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69535,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[26737] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "高阶地狱火议会",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69539,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "永恒者索克雷萨",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69542,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[30845] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "融合之魂",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑鸦堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 80817,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[30861] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "科蒂拉克斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "魔法回廊",
-					}, -- [1]
-				},
-				["sourceID"] = 80807,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[12889] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25947,
-			}, -- [1]
-		},
-		[1652] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 34246,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[26765] = {
-			{
-				["classes"] = 256,
+			[73302] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -13120,396 +17836,20 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 73302,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[24898] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59573,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59583,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+		[1693] = {
+			[1837] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63137,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63141,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66685,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66690,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66771,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66774,
-				["faction"] = 2,
-			}, -- [8]
+				["faction"] = 3,
+			},
 		},
 		[26760] = {
-			{
-				["classes"] = 256,
+			[73150] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -13523,14 +17863,137 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 73150,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[19046] = {
-			{
-				["classes"] = 256,
+		[29341] = {
+			[76872] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "芬雷尔",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "英灵殿",
+					}, -- [1]
+				},
+			},
+		},
+		[8437] = {
+			[15024] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[32203] = {
+			[86904] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "主母萨丝琳",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "萨格拉斯之墓",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[32789] = {
+			[83100] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "高姆",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "勇气试炼",
+					}, -- [1]
+				},
+			},
+		},
+		[30189] = {
+			[81564] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "崔利艾克斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[24179] = {
+			[64980] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[64986] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[64983] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[25106] = {
+			[67081] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[25122] = {
+			[63443] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[72529] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67844] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[19000] = {
+			[44693] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -13539,62 +18002,740 @@ MogIt_OtherDB = {
 							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
+							"随机", -- [1]
 						},
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44807,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[44707] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "受诅者魔封",
+						["encounter"] = "加拉隆",
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
+							"随机", -- [1]
 						},
-						["instance"] = "魔古山宝库",
+						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44878,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+		},
+		[24195] = {
+			[62687] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "受诅者魔封",
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[66781] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[63546] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66782] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+		},
+		[1705] = {
+			[3499] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[2226] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[64223] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6371] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[29326] = {
+			[80805] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "奥丁",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "英灵殿",
+					}, -- [1]
+				},
+			},
+		},
+		[9540] = {
+			[17181] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[3414] = {
+			[32905] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[26257] = {
+			[72837] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "霸主卡扎克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "德拉诺",
+					}, -- [1]
+				},
+			},
+		},
+		[29342] = {
+			[78626] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "库塔洛斯·拉文凯斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑鸦堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[11524] = {
+			[22020] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[22430] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[14695] = {
+			[32507] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32508] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32506] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[30413] = {
+			[74518] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[30429] = {
+			[73841] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[5829] = {
+			[8598] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "安其拉三宝",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安其拉神殿",
+					}, -- [1]
+				},
+			},
+			[19373] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[26736] = {
+			[69517] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛诺洛斯",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[2409] = {
+			[10657] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔瓦洛克",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "法力陵墓",
+					}, -- [1]
+				},
+			},
+			[2805] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26260] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[8422] = {
+				["classes"] = 16,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[26401] = {
+			[72843] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "霸主卡扎克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "德拉诺",
+					}, -- [1]
+				},
+			},
+		},
+		[29354] = {
+			[78687] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "伊莉萨娜·拉文凯斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑鸦堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[26816] = {
+			[70376] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[29518] = {
+			[72298] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[29534] = {
+			[72280] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[19320] = {
+			[48481] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[46154] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[54396] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[46391] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[51922] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[48422] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2427] = {
+			[22535] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加拉克苏斯大王",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[21180] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[22525] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加拉克苏斯大王",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[2823] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[10707] = {
+			[20087] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[24729] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[22492] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "诺森德猛兽",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[22491] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "诺森德猛兽",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+		},
+		[9692] = {
+			[17494] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "瓦尔洛斯·云击",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "魔环",
+					}, -- [1]
+				},
+			},
+			[62472] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[1585] = {
+			[17990] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[13098] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "大主教玛拉达尔",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金尼地穴",
+					}, -- [1]
+				},
+			},
+			[16410] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[12712] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛克扎尔王子",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "卡拉赞",
+					}, -- [1]
+				},
+			},
+			[13829] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[15359] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[1698] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[2873] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[25538] = {
+			[69075] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[17604] = {
+			[84417] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "疑之煞",
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
+							"普通", -- [1]
+							"时空漫游", -- [2]
 						},
-						["instance"] = "魔古山宝库",
+						["instance"] = "青龙寺",
 					}, -- [1]
 				},
-				["sourceID"] = 44893,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+		},
+		[3458] = {
+			[4258] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "弗莱拉斯总大使",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石深渊",
+					}, -- [1]
+				},
+			},
+			[66660] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[2437] = {
+			[2834] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[13330] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[10445] = {
+			[25648] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "季鹍",
+						["encounter"] = "玛洛加尔领主",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
+			[22485] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "诺森德猛兽",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[22486] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "诺森德猛兽",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[19613] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[24850] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛洛加尔领主",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[18789] = {
+			[44179] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "受诅者魔封",
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
@@ -13602,151 +18743,357 @@ MogIt_OtherDB = {
 							"10人", -- [1]
 							"25人", -- [2]
 						},
-						["instance"] = "雷电王座",
+						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
-				["sourceID"] = 49660,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[44252] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "季鹍",
+						["encounter"] = "受诅者魔封",
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"随机", -- [1]
+							"10人", -- [1]
+							"25人", -- [2]
 						},
-						["instance"] = "雷电王座",
+						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
-				["sourceID"] = 50235,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50547,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "季鹍",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 50859,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51171,
-			}, -- [8]
+			},
 		},
-		[7736] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "凯尔萨斯·逐日者",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "风暴要塞",
-					}, -- [1]
-				},
-				["sourceID"] = 13444,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "塔隆·血魔",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑暗神殿",
-					}, -- [1]
-				},
-				["sourceID"] = 14904,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "古尔图格·血沸",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑暗神殿",
-					}, -- [1]
-				},
-				["sourceID"] = 14916,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 15732,
-			}, -- [4]
+		[30412] = {
+			[68766] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
-		[17641] = {
-			{
-				["classes"] = 256,
+		[2445] = {
+			[3115] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[2843] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[17168] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[24643] = {
+			[66820] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[26090] = {
+			[69522] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "莱公",
+						["instanceType"] = 2,
+						["encounter"] = "基尔罗格·死眼",
 						["tiers"] = {
-							"熊猫人之谜", -- [1]
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[26721] = {
+			[69535] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "永恒者索克雷萨",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "残阳关",
+						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 40969,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[8861] = {
-			{
+		[26737] = {
+			[69539] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "高阶地狱火议会",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+			[69542] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "永恒者索克雷萨",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[30845] = {
+			[80817] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "融合之魂",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑鸦堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[26769] = {
+			[73154] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁掠夺者",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[12889] = {
+			[25947] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[24902] = {
+			[67661] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[67736] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+		},
+		[19124] = {
+			[45116] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[4743] = {
+			[21504] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[21505] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20082] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[12430] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[20083] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[24370] = {
+			[67014] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66815] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "布兰肯斯波",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+			},
+			[67012] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[62449] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "布兰肯斯波",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+			},
+			[66814] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "布兰肯斯波",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+			},
+			[67013] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[33238] = {
+			[86346] = {
 				["classes"] = 256,
 				["sourceType"] = 1,
+				["faction"] = 2,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "绝望的聚合体",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["instance"] = "萨格拉斯之墓",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+			},
+		},
+		[5781] = {
+			[8532] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克苏恩",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安其拉神殿",
+					}, -- [1]
+				},
+			},
+			[10598] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[28439] = {
+			[68632] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+		},
+		[8861] = {
+			[15792] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -13759,12 +19106,11 @@ MogIt_OtherDB = {
 						["instance"] = "太阳之井高地",
 					}, -- [1]
 				},
-				["sourceID"] = 15792,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[21793] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -13778,14 +19124,678 @@ MogIt_OtherDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 21793,
-				["faction"] = 2,
-			}, -- [2]
+			},
+		},
+		[32060] = {
+			[81106] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "崔利艾克斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+			[84556] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[24899] = {
+			[66692] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66769] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66681] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[59579] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63242] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66838] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+		},
+		[30861] = {
+			[80807] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "科蒂拉克斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "魔法回廊",
+					}, -- [1]
+				},
+			},
+		},
+		[7736] = {
+			[14904] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "塔隆·血魔",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑暗神殿",
+					}, -- [1]
+				},
+			},
+			[15732] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[13444] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "凯尔萨斯·逐日者",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "风暴要塞",
+					}, -- [1]
+				},
+			},
+			[14916] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "古尔图格·血沸",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑暗神殿",
+					}, -- [1]
+				},
+			},
+		},
+		[2485] = {
+			[2893] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[29476] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[25117] = {
+			[67838] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[25180] = {
+			[67967] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2357] = {
+			[2736] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[18873] = {
+			[47063] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "无尽守护者",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "永春台",
+					}, -- [1]
+				},
+			},
+			[49821] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "莱登",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[44369] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "无尽守护者",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "永春台",
+					}, -- [1]
+				},
+			},
+		},
+		[11340] = {
+			[21734] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁议会",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+			},
+		},
+		[30857] = {
+			[80811] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "邪能领主贝图格",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "突袭紫罗兰监狱",
+					}, -- [1]
+				},
+			},
+		},
+		[26399] = {
+			[69537] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "高阶地狱火议会",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+			[69514] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "暗影领主艾斯卡",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+			[72831] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "霸主卡扎克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "德拉诺",
+					}, -- [1]
+				},
+			},
+		},
+		[17064] = {
+			[38876] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[5244] = {
+			[20955] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "迦尔达拉",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "古达克",
+					}, -- [1]
+				},
+			},
+			[7323] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[17566] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "戈托克·苍蹄",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "乌特加德之巅",
+					}, -- [1]
+				},
+			},
+			[18335] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17514] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "沃尔坎",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "闪电大厅",
+					}, -- [1]
+				},
+			},
+			[21302] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[21396] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[19612] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[31637] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[25107] = {
+			[60878] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[1766] = {
+			[29270] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[444] = {
-			{
-				["classes"] = 256,
+			[7374] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -13818,604 +19828,13 @@ MogIt_OtherDB = {
 						["instance"] = "厄运之槌",
 					}, -- [3]
 				},
-				["sourceID"] = 7374,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[24899] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59579,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63242,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66681,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66692,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66769,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥尔高格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66838,
-				["faction"] = 2,
-			}, -- [6]
-		},
-		[24344] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 63937,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65536,
-			}, -- [2]
-		},
-		[26816] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 70376,
-			}, -- [1]
-		},
-		[2485] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2893,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29476,
-			}, -- [2]
-		},
-		[9761] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 17659,
-			}, -- [1]
-		},
-		[1088] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1734,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17176,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 24258,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25939,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26768,
-			}, -- [5]
-		},
-		[26400] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "钢铁掠夺者",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69548,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[18873] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "无尽守护者",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "永春台",
-					}, -- [1]
-				},
-				["sourceID"] = 44369,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "无尽守护者",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "永春台",
-					}, -- [1]
-				},
-				["sourceID"] = 47063,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "莱登",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 49821,
-				["faction"] = 2,
-			}, -- [3]
-		},
-		[17604] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "疑之煞",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "青龙寺",
-					}, -- [1]
-				},
-				["sourceID"] = 40925,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[18789] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "受诅者魔封",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "魔古山宝库",
-					}, -- [1]
-				},
-				["sourceID"] = 44179,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "受诅者魔封",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "魔古山宝库",
-					}, -- [1]
-				},
-				["sourceID"] = 44252,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[19100] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "烛龙",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "永春台",
-					}, -- [1]
-				},
-				["sourceID"] = 44990,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 62184,
-			}, -- [2]
-		},
-		[19124] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45116,
-			}, -- [1]
-		},
-		[26726] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "血魔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69531,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[25107] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 60878,
-			}, -- [1]
-		},
-		[1766] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29270,
-			}, -- [1]
-		},
-		[26090] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "基尔罗格·死眼",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69522,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[19017] = {
-			{
-				["classes"] = 256,
+			[44742] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -14429,50 +19848,56 @@ MogIt_OtherDB = {
 						["instance"] = "永春台",
 					}, -- [1]
 				},
-				["sourceID"] = 44742,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[2357] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2736,
-			}, -- [1]
+		[33942] = {
+			[84580] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "阿格洛诺克斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永夜大教堂",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
 		},
 		[10044] = {
-			{
-				["classes"] = 256,
+			[21563] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 21563,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[24180] = {
-			{
-				["classes"] = 256,
+			[64985] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 64982,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[64988] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 64985,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[64982] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 64988,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[24196] = {
-			{
-				["classes"] = 256,
+			[66839] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -14486,34 +19911,53 @@ MogIt_OtherDB = {
 						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 66839,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[29327] = {
-			{
-				["classes"] = 256,
+		[19097] = {
+			[44983] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "颤栗之喉",
+						["instanceType"] = 2,
+						["encounter"] = "无尽守护者",
 						["tiers"] = {
-							"军团再临", -- [1]
+							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
 						},
-						["instance"] = "突袭紫罗兰监狱",
+						["instance"] = "永春台",
 					}, -- [1]
 				},
-				["sourceID"] = 79020,
-				["faction"] = 2,
-			}, -- [1]
+			},
+			[47053] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "无尽守护者",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "永春台",
+					}, -- [1]
+				},
+			},
 		},
 		[29343] = {
-			{
-				["classes"] = 256,
+			[80813] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -14526,168 +19970,80 @@ MogIt_OtherDB = {
 						["instance"] = "魔法回廊",
 					}, -- [1]
 				},
-				["sourceID"] = 80813,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[19129] = {
-			{
-				["classes"] = 256,
+			[45166] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 45166,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[46151] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46151,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[2660] = {
-			{
-				["classes"] = 256,
+		[1948] = {
+			[4378] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[2220] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[17171] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3124,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+		},
+		[30414] = {
+			[74375] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[25116] = {
+			[67837] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[34262] = {
+			[84596] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "天灾领主泰兰努斯",
+						["encounter"] = "多玛塔克斯",
 						["tiers"] = {
-							"巫妖王之怒", -- [1]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
-						["instance"] = "萨隆矿坑",
+						["instance"] = "永夜大教堂",
 					}, -- [1]
 				},
-				["sourceID"] = 24397,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[30414] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 74375,
-			}, -- [1]
-		},
-		[26738] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "暗影领主艾斯卡",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69513,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "高阶地狱火议会",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69538,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "永恒者索克雷萨",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69540,
-				["faction"] = 2,
-			}, -- [3]
-		},
-		[26398] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "玛诺洛斯",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69516,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "永恒者索克雷萨",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69541,
-				["faction"] = 2,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[8135] = {
-			{
-				["classes"] = 256,
+			[14215] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14215,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[24372] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -14701,22 +20057,20 @@ MogIt_OtherDB = {
 						["instance"] = "灵魂洪炉",
 					}, -- [1]
 				},
-				["sourceID"] = 24372,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[24340] = {
-			{
-				["classes"] = 256,
+			[58977] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 58977,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[7120] = {
-			{
-				["classes"] = 256,
+			[12366] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -14729,12 +20083,11 @@ MogIt_OtherDB = {
 						["instance"] = "能源舰",
 					}, -- [1]
 				},
-				["sourceID"] = 12366,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[12619] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -14747,284 +20100,153 @@ MogIt_OtherDB = {
 						["instance"] = "卡拉赞",
 					}, -- [1]
 				},
-				["sourceID"] = 12619,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[13108] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 13108,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
-		[24799] = {
-			{
-				["classes"] = 256,
+		[11478] = {
+			[21935] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "奥尔高格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 62697,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "缚火者卡格拉兹",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 62761,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63548,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥尔高格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66798,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥尔高格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66799,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "缚火者卡格拉兹",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66808,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "缚火者卡格拉兹",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66809,
-				["faction"] = 2,
-			}, -- [7]
-		},
-		[1585] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1698,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2873,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "玛克扎尔王子",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "卡拉赞",
-					}, -- [1]
-				},
-				["sourceID"] = 12712,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "大主教玛拉达尔",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金尼地穴",
-					}, -- [1]
-				},
-				["sourceID"] = 13098,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 13829,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 15359,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 16410,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17990,
-			}, -- [8]
-		},
-		[29519] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 72292,
-			}, -- [1]
-		},
-		[11524] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 22020,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 22430,
-			}, -- [2]
-		},
-		[19321] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46155,
-			}, -- [1]
-		},
-		[3574] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4458,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4875,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 12350,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塑血者沙尔拉姆",
+						["encounter"] = "弗蕾亚",
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
+							"25人", -- [1]
 						},
-						["instance"] = "净化斯坦索姆",
+						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 17596,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[22102] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "霍迪尔",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+			},
+		},
+		[19506] = {
+			[47092] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[29519] = {
+			[72292] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[18985] = {
+			[44645] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "石头守卫",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+			},
+			[61750] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "马尔考罗克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+			},
+			[61752] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "马尔考罗克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+			},
+			[61751] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "马尔考罗克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+			},
+		},
+		[19321] = {
+			[46155] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[84377] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[3574] = {
+			[20940] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -15038,12 +20260,16 @@ MogIt_OtherDB = {
 						["instance"] = "安卡赫特：古代王国",
 					}, -- [1]
 				},
-				["sourceID"] = 20940,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[4458] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[21788] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -15057,12 +20283,29 @@ MogIt_OtherDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 21788,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+			[17596] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塑血者沙尔拉姆",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "净化斯坦索姆",
+					}, -- [1]
+				},
+			},
+			[24875] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -15087,363 +20330,139 @@ MogIt_OtherDB = {
 						["instance"] = "冰冠堡垒",
 					}, -- [2]
 				},
-				["sourceID"] = 24875,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "冰冠冰川炮舰战",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "冰冠冰川炮舰战",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [2]
-				},
-				["sourceID"] = 25628,
-				["faction"] = 2,
-			}, -- [8]
-			{
-				["classes"] = 256,
+			},
+			[12350] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[69098] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 69098,
-			}, -- [9]
+				["faction"] = 3,
+			},
+			[4875] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[25628] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "冰冠冰川炮舰战",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "冰冠冰川炮舰战",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [2]
+				},
+			},
 		},
-		[24713] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59578,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+		[25539] = {
+			[69074] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63139,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63243,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63341,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66677,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66684,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66775,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 76267,
-			}, -- [8]
+				["faction"] = 3,
+			},
 		},
 		[10204] = {
-			{
-				["classes"] = 256,
+			[19028] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 19028,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[537] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 734,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1379,
-			}, -- [2]
-			{
-				["classes"] = 256,
+		[20426] = {
+			[50797] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "击碎者金罗克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[49903] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[62200] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5911,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35146,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35148,
-			}, -- [5]
+				["faction"] = 3,
+			},
+			[49592] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "击碎者金罗克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[50173] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "击碎者金罗克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
 		},
 		[6137] = {
-			{
-				["classes"] = 256,
+			[18728] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -15468,12 +20487,11 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
-				["sourceID"] = 18728,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[19285] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -15520,12 +20538,11 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [4]
 				},
-				["sourceID"] = 19285,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[19397] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -15539,136 +20556,127 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 				},
-				["sourceID"] = 19397,
-				["faction"] = 2,
-			}, -- [3]
+			},
 		},
-		[30404] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
+		[19387] = {
+			[51424] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[51429] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 68832,
-			}, -- [1]
+			},
+			[46404] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[13305] = {
-			{
-				["classes"] = 256,
+			[26936] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 26930,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[26930] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 26932,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[26932] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 26934,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[26934] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 26936,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[30794] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30794,
-			}, -- [5]
+				["faction"] = 3,
+			},
 		},
-		[30412] = {
-			{
-				["classes"] = 256,
+		[24329] = {
+			[58976] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 68766,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[5835] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 8607,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "莫罗斯",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "卡拉赞",
-					}, -- [1]
-				},
-				["sourceID"] = 12529,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+		[25178] = {
+			[64301] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 15524,
-			}, -- [3]
-		},
-		[3168] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3821,
-			}, -- [1]
-		},
-		[1948] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2220,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[69175] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 4378,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[65672] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[65673] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[13955] = {
+			[31251] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[29443] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[31515] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[451] = {
+			[5476] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17171,
-			}, -- [3]
+				["faction"] = 3,
+			},
+			[10715] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[4119] = {
-			{
-				["classes"] = 256,
+			[5487] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5487,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[5541] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5541,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[24644] = {
-			{
-				["classes"] = 256,
+			[73308] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -15682,39 +20690,18 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 73308,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[1801] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1979,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[32235] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[22765] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "联盟的冠军",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "十字军的试炼",
-					}, -- [1]
-				},
-				["sourceID"] = 22698,
 				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -15728,26 +20715,41 @@ MogIt_OtherDB = {
 						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 22765,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[32238] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[22698] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
 				["faction"] = 2,
-				["sourceID"] = 32235,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32238,
-			}, -- [5]
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "联盟的冠军",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[1979] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[26722] = {
-			{
-				["classes"] = 256,
+			[69534] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -15761,14 +20763,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69534,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[30830] = {
-			{
-				["classes"] = 256,
+			[78917] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -15781,923 +20782,168 @@ MogIt_OtherDB = {
 						["instance"] = "黑心林地",
 					}, -- [1]
 				},
-				["sourceID"] = 78917,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[19318] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46152,
-			}, -- [1]
+		[2087] = {
+			[2406] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6286] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
-		[5781] = {
-			{
-				["classes"] = 256,
+		[24380] = {
+			[66837] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "克苏恩",
+						["encounter"] = "卡加斯·刃拳",
 						["tiers"] = {
-							"经典旧世", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
+							"随机", -- [1]
 						},
-						["instance"] = "安其拉神殿",
+						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 8532,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10598,
-			}, -- [2]
-		},
-		[25117] = {
-			{
-				["classes"] = 256,
+			},
+			[67021] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67838,
-			}, -- [1]
-		},
-		[24902] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 67661,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[67022] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67736,
-			}, -- [2]
-		},
-		[25116] = {
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[67023] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67837,
-			}, -- [1]
-		},
-		[30857] = {
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[62643] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "邪能领主贝图格",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "突袭紫罗兰监狱",
-					}, -- [1]
-				},
-				["sourceID"] = 80811,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[787] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 726,
-			}, -- [1]
-		},
-		[2597] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3042,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3702,
-			}, -- [2]
-		},
-		[5194] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "被诅咒的塞雷布拉斯",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "玛拉顿",
-					}, -- [1]
-				},
-				["sourceID"] = 7192,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 14602,
-			}, -- [2]
-		},
-		[19387] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46404,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 51429,
-			}, -- [2]
-		},
-		[25120] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67842,
-			}, -- [1]
-		},
-		[17064] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 38876,
-			}, -- [1]
-		},
-		[9389] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 16717,
-			}, -- [1]
-		},
-		[18778] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45115,
-			}, -- [1]
-		},
-		[5244] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 7323,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "沃尔坎",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "闪电大厅",
-					}, -- [1]
-				},
-				["sourceID"] = 17514,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "戈托克·苍蹄",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "乌特加德之巅",
-					}, -- [1]
-				},
-				["sourceID"] = 17566,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18335,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 19612,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "迦尔达拉",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "古达克",
-					}, -- [1]
-				},
-				["sourceID"] = 20955,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 21302,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 21396,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31637,
-			}, -- [9]
-		},
-		[29040] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "崔利艾克斯",
+						["encounter"] = "元首马尔高克",
 						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
-					}, -- [1]
-				},
-				["sourceID"] = 81559,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[13418] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "升腾者领主奥西迪斯",
-						["tiers"] = {
-							"大地的裂变", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "黑石岩窟",
+						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 27382,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[66802] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "胡辛姆将军",
+						["instanceType"] = 2,
+						["encounter"] = "屠夫",
 						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "托维尔失落之城",
-					}, -- [1]
-				},
-				["sourceID"] = 27427,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "希亚玛特",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "托维尔失落之城",
-					}, -- [1]
-				},
-				["sourceID"] = 27436,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "升腾者领主奥西迪斯",
-						["tiers"] = {
-							"大地的裂变", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "黑石岩窟",
+						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 27655,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[66803] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "胡辛姆将军",
+						["instanceType"] = 2,
+						["encounter"] = "屠夫",
 						["tiers"] = {
-							"大地的裂变", -- [1]
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+			},
+			[66790] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "元首马尔高克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "托维尔失落之城",
+						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 27698,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[66791] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "希亚玛特",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "托维尔失落之城",
-					}, -- [1]
-				},
-				["sourceID"] = 27710,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 27791,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 27821,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 31328,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "“船长”曲奇",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-							"经典旧世", -- [2]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "死亡矿井",
-					}, -- [1]
-				},
-				["sourceID"] = 32738,
-				["faction"] = 2,
-			}, -- [10]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 34073,
-			}, -- [11]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 34120,
-			}, -- [12]
-		},
-		[19453] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "先王之魂",
+						["encounter"] = "元首马尔高克",
 						["tiers"] = {
-							"熊猫人之谜", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
+							"史诗", -- [1]
 						},
-						["instance"] = "魔古山宝库",
+						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 46665,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 62199,
-			}, -- [2]
-		},
-		[12626] = {
-			{
-				["classes"] = 256,
+			},
+			[62414] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "鲜血王子议会",
+						["encounter"] = "屠夫",
 						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 25240,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "鲜血王子议会",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 25574,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "海里昂",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "红玉圣殿",
-					}, -- [1]
-				},
-				["sourceID"] = 26023,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "海里昂",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-						},
-						["instance"] = "红玉圣殿",
-					}, -- [1]
-				},
-				["sourceID"] = 26507,
-				["faction"] = 2,
-			}, -- [4]
-		},
-		[11478] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "弗蕾亚",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-				["sourceID"] = 21935,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "霍迪尔",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-				["sourceID"] = 22102,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[11340] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "钢铁议会",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-				["sourceID"] = 21734,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[3680] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66661,
-			}, -- [1]
-		},
-		[32221] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "艾乐瑞瑟·雷弗拉尔",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "翡翠梦魇",
-					}, -- [1]
-				},
-				["sourceID"] = 81046,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[19506] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 47092,
-			}, -- [1]
-		},
-		[25092] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 60145,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 70780,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 71691,
-			}, -- [3]
-		},
-		[5262] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 7387,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10562,
-			}, -- [2]
-		},
-		[18948] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 47089,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 62189,
-			}, -- [2]
-		},
-		[5220] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "巨钳鲁克玛尔",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "奴隶围栏",
+						["instance"] = "悬槌堡",
 					}, -- [1]
 				},
-				["sourceID"] = 9524,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 21018,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "米米尔隆",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-				["sourceID"] = 22156,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 22450,
-			}, -- [4]
-		},
-		[1832] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2024,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "苍白的玛勒基",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "斯坦索姆",
-					}, -- [1]
-				},
-				["sourceID"] = 7461,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "利爪之王艾吉斯",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "塞泰克大厅",
-					}, -- [1]
-				},
-				["sourceID"] = 12193,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 18378,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18908,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 19169,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 21409,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "黑骑士",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "冠军的试炼",
-					}, -- [1]
-				},
-				["sourceID"] = 22651,
-				["faction"] = 2,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "冰冠冰川炮舰战",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "冰冠冰川炮舰战",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [2]
-				},
-				["sourceID"] = 24481,
-				["faction"] = 2,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "冰冠冰川炮舰战",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "冰冠冰川炮舰战",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [2]
-				},
-				["sourceID"] = 24772,
-				["faction"] = 2,
-			}, -- [10]
+			},
 		},
 		[20493] = {
-			{
-				["classes"] = 256,
+			[49753] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -16712,12 +20958,11 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49753,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[50268] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -16731,18 +20976,11 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50268,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50580,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[50892] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -16757,20 +20995,1070 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50892,
-				["faction"] = 2,
-			}, -- [4]
-			{
+			},
+		},
+		[24368] = {
+			[66810] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁女武神",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[66811] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁女武神",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[62876] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "钢铁女武神",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+		},
+		[1672] = {
+			[1809] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[18204] = {
+			[42873] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[29058] = {
+			[81665] = {
 				["classes"] = 256,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 51204,
-			}, -- [5]
+			},
+			[83927] = {
+				["classes"] = 256,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
 		},
-		[19050] = {
-			{
+		[2597] = {
+			[3042] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[3702] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[5194] = {
+			[7192] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "被诅咒的塞雷布拉斯",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "玛拉顿",
+					}, -- [1]
+				},
+			},
+			[14602] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[24710] = {
+			[66675] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63037] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[59577] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66761] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+		},
+		[24097] = {
+			[63721] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[63724] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[63718] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[909] = {
+			[9568] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "沼地领主穆塞雷克",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "幽暗沼泽",
+					}, -- [1]
+				},
+			},
+			[25923] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[32061] = {
+			[84557] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[18778] = {
+			[45115] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[17526] = {
+			[84400] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "刘·焰心",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+							"时空漫游", -- [2]
+						},
+						["instance"] = "青龙寺",
+					}, -- [1]
+				},
+			},
+		},
+		[29040] = {
+			[81559] = {
 				["classes"] = 256,
 				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "崔利艾克斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["instance"] = "暗夜要塞",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[29056] = {
+			[85736] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[85093] = {
+				["classes"] = 256,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[85742] = {
+				["classes"] = 256,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[85087] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+		},
+		[7739] = {
+			[15043] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[21667] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "锋鳞",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+			},
+			[13447] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "凯尔萨斯·逐日者",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "风暴要塞",
+					}, -- [1]
+				},
+			},
+			[14911] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "伊利达雷议会",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑暗神殿",
+					}, -- [1]
+				},
+			},
+		},
+		[24099] = {
+			[63716] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[63715] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[63714] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[5220] = {
+			[22156] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "米米尔隆",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
+			},
+			[9524] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "巨钳鲁克玛尔",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奴隶围栏",
+					}, -- [1]
+				},
+			},
+			[22450] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[21018] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[32189] = {
+			[81645] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[25108] = {
+			[63445] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67025] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[13561] = {
+			[29879] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[78373] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[27766] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[29882] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[32237] = {
+			[84547] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[25092] = {
+			[67749] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[60145] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[71691] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[71313] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[70402] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[70780] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[5262] = {
+			[7387] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[10562] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[1516] = {
+			[1620] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[3691] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[24642] = {
+			[65526] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66819] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[1832] = {
+			[21409] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[18908] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[22651] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "黑骑士",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "冠军的试炼",
+					}, -- [1]
+				},
+			},
+			[2024] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[24481] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "冰冠冰川炮舰战",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "冰冠冰川炮舰战",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [2]
+				},
+			},
+			[24772] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "冰冠冰川炮舰战",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "冰冠冰川炮舰战",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [2]
+				},
+			},
+			[19169] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[18378] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[12193] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "利爪之王艾吉斯",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "塞泰克大厅",
+					}, -- [1]
+				},
+			},
+			[7461] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "苍白的玛勒基",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "斯坦索姆",
+					}, -- [1]
+				},
+			},
+		},
+		[24711] = {
+			[63239] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66683] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66773] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66779] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63039] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[59585] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+		},
+		[19050] = {
+			[44819] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -16785,14 +22073,13 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44819,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[6309] = {
-			{
-				["classes"] = 256,
+			[9462] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -16806,22 +22093,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火城墙",
 					}, -- [1]
 				},
-				["sourceID"] = 9462,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[1663] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3447,
-			}, -- [1]
+			},
 		},
 		[26259] = {
-			{
-				["classes"] = 256,
+			[69529] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -16835,14 +22113,87 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69529,
-				["faction"] = 2,
-			}, -- [1]
+			},
+		},
+		[12626] = {
+			[25574] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "鲜血王子议会",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
+			[26507] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "海里昂",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+						},
+						["instance"] = "红玉圣殿",
+					}, -- [1]
+				},
+			},
+			[26023] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "海里昂",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "红玉圣殿",
+					}, -- [1]
+				},
+			},
+			[25240] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "鲜血王子议会",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
 		},
 		[29344] = {
-			{
-				["classes"] = 256,
+			[80820] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -16855,145 +22206,112 @@ MogIt_OtherDB = {
 						["instance"] = "守望者地窟",
 					}, -- [1]
 				},
-				["sourceID"] = 80820,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[24329] = {
-			{
-				["classes"] = 256,
+		[3680] = {
+			[66661] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 58976,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19146] = {
-			{
-				["classes"] = 256,
+			[45302] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 45302,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[30415] = {
-			{
-				["classes"] = 256,
+			[68333] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 68333,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[68386] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 68386,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[13955] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29443,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31251,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31515,
-			}, -- [3]
+		[25104] = {
+			[60652] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
-		[909] = {
-			{
-				["classes"] = 256,
+		[2094] = {
+			[2414] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[3686] = {
+			[10579] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[4624] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[14640] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[31715] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[31710] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[18948] = {
+			[47089] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[62189] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[26403] = {
+			[69552] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "沼地领主穆塞雷克",
+						["instanceType"] = 2,
+						["encounter"] = "祖霍拉克",
 						["tiers"] = {
-							"燃烧的远征", -- [1]
+							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
 							"普通", -- [1]
 						},
-						["instance"] = "幽暗沼泽",
+						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 9568,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25923,
-			}, -- [2]
-		},
-		[3686] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4624,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10579,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14640,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31710,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31715,
-			}, -- [5]
-		},
-		[25108] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63445,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67025,
-			}, -- [2]
-		},
-		[29472] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 72301,
-			}, -- [1]
+			},
 		},
 		[30511] = {
-			{
-				["classes"] = 256,
+			[81049] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -17006,68 +22324,52 @@ MogIt_OtherDB = {
 						["instance"] = "翡翠梦魇",
 					}, -- [1]
 				},
-				["sourceID"] = 81049,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[30527] = {
-			{
-				["classes"] = 256,
+			[81660] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 81660,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 83481,
-			}, -- [2]
+			},
 		},
 		[3696] = {
-			{
-				["classes"] = 256,
+			[5623] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4647,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5623,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[13712] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 13712,
-			}, -- [3]
-		},
-		[2087] = {
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[4647] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2406,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6286,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[926] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 1866,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[18620] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[16697] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[29395] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[7707] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -17080,38 +22382,40 @@ MogIt_OtherDB = {
 						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
-				["sourceID"] = 7707,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[1866] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[29269] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 16697,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18620,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29269,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29395,
-			}, -- [6]
+				["faction"] = 3,
+			},
+		},
+		[14784] = {
+			[32906] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[15815] = {
-			{
-				["classes"] = 256,
+			[36535] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[36534] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[36381] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -17126,26 +22430,13 @@ MogIt_OtherDB = {
 						["instance"] = "火焰之地",
 					}, -- [1]
 				},
-				["sourceID"] = 36381,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 36534,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 36535,
-			}, -- [3]
+			},
 		},
 		[927] = {
-			{
-				["classes"] = 256,
+			[2104] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -17160,1659 +22451,42 @@ MogIt_OtherDB = {
 						["instance"] = "死亡矿井",
 					}, -- [1]
 				},
-				["sourceID"] = 2104,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[24485] = {
-			{
-				["classes"] = 256,
+			[63743] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 63743,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[65530] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65530,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[19386] = {
-			{
-				["classes"] = 256,
+			[51428] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 46403,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[51423] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 51428,
-			}, -- [2]
-		},
-		[20426] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "击碎者金罗克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 49592,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 1,
+			},
+			[46403] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 49903,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "击碎者金罗克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 50173,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50485,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "击碎者金罗克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 50797,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51109,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 62200,
-			}, -- [7]
-		},
-		[31694] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 80926,
-			}, -- [1]
-		},
-		[1858] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25841,
-			}, -- [1]
-		},
-		[24381] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "兽王达玛克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 62821,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "兽王达玛克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66789,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "元首马尔高克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66834,
-				["faction"] = 2,
-			}, -- [3]
-		},
-		[32765] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "高姆",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "勇气试炼",
-					}, -- [1]
-				},
-				["sourceID"] = 83101,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[26739] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "暗影领主艾斯卡",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69515,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[24380] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "屠夫",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 62414,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "元首马尔高克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 62643,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "元首马尔高克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66790,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "元首马尔高克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66791,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "屠夫",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66802,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "屠夫",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66803,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "卡加斯·刃拳",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66837,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67021,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67022,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67023,
-			}, -- [10]
-		},
-		[4375] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5934,
-			}, -- [1]
-		},
-		[24097] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 63718,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 63721,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 63724,
-			}, -- [3]
-		},
-		[2705] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3173,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5323,
-			}, -- [2]
-		},
-		[30815] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "艾乐瑞瑟·雷弗拉尔",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "翡翠梦魇",
-					}, -- [1]
-				},
-				["sourceID"] = 81045,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[30831] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "颤栗之喉",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "突袭紫罗兰监狱",
-					}, -- [1]
-				},
-				["sourceID"] = 80814,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[30847] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "纳尔提拉",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "魔法回廊",
-					}, -- [1]
-				},
-				["sourceID"] = 78998,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[26771] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "祖霍拉克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 73304,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[17526] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "刘·焰心",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "青龙寺",
-					}, -- [1]
-				},
-				["sourceID"] = 40705,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "刘·焰心",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "青龙寺",
-					}, -- [1]
-				},
-				["sourceID"] = 40892,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[24710] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59577,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63037,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66675,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66761,
-				["faction"] = 2,
-			}, -- [4]
-		},
-		[11883] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥拉基尔",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "风神王座",
-					}, -- [1]
-				},
-				["sourceID"] = 35575,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥拉基尔",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "风神王座",
-					}, -- [1]
-				},
-				["sourceID"] = 35589,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[19207] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "科洛夫修士",
-						["tiers"] = {
-							"经典旧世", -- [1]
-							"熊猫人之谜", -- [2]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血色修道院",
-					}, -- [1]
-				},
-				["sourceID"] = 45688,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[17813] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 41412,
-			}, -- [1]
-		},
-		[17660] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "将军帕瓦拉克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "围攻砮皂寺",
-					}, -- [1]
-				},
-				["sourceID"] = 40999,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45076,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "将军帕瓦拉克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "围攻砮皂寺",
-					}, -- [1]
-				},
-				["sourceID"] = 53848,
-				["faction"] = 2,
-			}, -- [3]
-		},
-		[24333] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 61991,
-			}, -- [1]
-		},
-		[4057] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5361,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5369,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10065,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26097,
-			}, -- [4]
-		},
-		[18204] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42873,
-			}, -- [1]
-		},
-		[3593] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4480,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5331,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 18379,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "埃雷克姆",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "紫罗兰监狱",
-					}, -- [1]
-				},
-				["sourceID"] = 20971,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 21300,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31735,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31740,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 62473,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66662,
-			}, -- [9]
-		},
-		[30016] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "占星师艾塔乌斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
-					}, -- [1]
-				},
-				["sourceID"] = 82001,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[24711] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59585,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63039,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63239,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66683,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66773,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66779,
-				["faction"] = 2,
-			}, -- [6]
-		},
-		[25104] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 60652,
-			}, -- [1]
-		},
-		[2094] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2414,
-			}, -- [1]
-		},
-		[24900] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59582,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59584,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63344,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63446,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66687,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66759,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66760,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66777,
-				["faction"] = 2,
-			}, -- [8]
+				["faction"] = 3,
+			},
 		},
 		[7168] = {
-			{
-				["classes"] = 256,
+			[12424] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -18825,78 +22499,81 @@ MogIt_OtherDB = {
 						["instance"] = "生态船",
 					}, -- [1]
 				},
-				["sourceID"] = 12424,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[18859] = {
-			{
-				["classes"] = 256,
+		[31694] = {
+			[80926] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[1858] = {
+			[25841] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[24689] = {
+			[60260] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[67667] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[67739] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+		},
+		[32765] = {
+			[83101] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "风领主梅尔加拉克",
+						["encounter"] = "高姆",
 						["tiers"] = {
-							"熊猫人之谜", -- [1]
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "勇气试炼",
+					}, -- [1]
+				},
+			},
+		},
+		[6134] = {
+			[18845] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "萨菲隆",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
 							"10人", -- [1]
-							"25人", -- [2]
 						},
-						["instance"] = "恐惧之心",
+						["instance"] = "纳克萨玛斯",
 					}, -- [1]
 				},
-				["sourceID"] = 44338,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[354] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3462,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 8907,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 10607,
-			}, -- [3]
-		},
-		[11134] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 21236,
-			}, -- [1]
-		},
-		[4479] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6132,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 31519,
-			}, -- [2]
-		},
-		[6134] = {
-			{
-				["classes"] = 256,
+			},
+			[18739] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -18921,31 +22598,11 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [2]
 				},
-				["sourceID"] = 18739,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[19283] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "萨菲隆",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [1]
-				},
-				["sourceID"] = 18845,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -18992,20 +22649,480 @@ MogIt_OtherDB = {
 						["instance"] = "纳克萨玛斯",
 					}, -- [4]
 				},
-				["sourceID"] = 19283,
-				["faction"] = 2,
-			}, -- [3]
+			},
 		},
-		[4080] = {
-			{
-				["classes"] = 256,
+		[11134] = {
+			[21236] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[4375] = {
+			[5934] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[26771] = {
+			[73304] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "祖霍拉克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[2705] = {
+			[3173] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[5323] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[30815] = {
+			[81045] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "艾乐瑞瑟·雷弗拉尔",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "翡翠梦魇",
+					}, -- [1]
+				},
+			},
+		},
+		[26739] = {
+			[69515] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "暗影领主艾斯卡",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[30847] = {
+			[78998] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "纳尔提拉",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "魔法回廊",
+					}, -- [1]
+				},
+			},
+		},
+		[34073] = {
+			[84654] = {
+				["classes"] = 16,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+			[85303] = {
+				["classes"] = 16,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[24339] = {
+			[61992] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[66816] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[24345] = {
+			[65528] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[11883] = {
+			[35575] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥拉基尔",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "风神王座",
+					}, -- [1]
+				},
+			},
+			[35589] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥拉基尔",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "风神王座",
+					}, -- [1]
+				},
+			},
+		},
+		[24333] = {
+			[61991] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[3575] = {
+			[4459] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[7303] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "托塞德林王子",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "厄运之槌",
+					}, -- [1]
+				},
+			},
+		},
+		[17660] = {
+			[45076] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[84447] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "将军帕瓦拉克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+							"时空漫游", -- [2]
+						},
+						["instance"] = "围攻砮皂寺",
+					}, -- [1]
+				},
+			},
+		},
+		[3593] = {
+			[21300] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[18379] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20971] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "埃雷克姆",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "紫罗兰监狱",
+					}, -- [1]
+				},
+			},
+			[4480] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[31735] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[66662] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[62473] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[5331] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[31740] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[24901] = {
+			[70949] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[71987] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 5399,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[70698] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[71076] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[71482] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71609] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[64091] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[71860] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[70571] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[64166] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[4585] = {
+			[6316] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[32894] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[24381] = {
+			[66789] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "兽王达玛克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[62821] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "兽王达玛克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[66834] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "元首马尔高克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
+			},
+		},
+		[30016] = {
+			[82001] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "占星师艾塔乌斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+			},
+		},
+		[18763] = {
+			[45073] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[8878] = {
+			[15811] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "基尔加丹",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "太阳之井高地",
+					}, -- [1]
+				},
+			},
+			[24733] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[4080] = {
+			[5399] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[35516] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -19019,74 +23136,531 @@ MogIt_OtherDB = {
 						["instance"] = "祖尔格拉布",
 					}, -- [1]
 				},
-				["sourceID"] = 35516,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
-		[24345] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65528,
-			}, -- [1]
-		},
-		[4585] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6316,
-			}, -- [1]
-			{
-				["classes"] = 256,
+		[10265] = {
+			[19181] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32894,
-			}, -- [2]
+				["faction"] = 3,
+			},
+			[30848] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[24900] = {
+			[59582] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63344] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66777] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66760] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[59584] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66759] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66687] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63446] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[18859] = {
+			[44338] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "风领主梅尔加拉克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "恐惧之心",
+					}, -- [1]
+				},
+			},
+		},
+		[30831] = {
+			[80814] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "颤栗之喉",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "突袭紫罗兰监狱",
+					}, -- [1]
+				},
+			},
+		},
+		[19381] = {
+			[54354] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[51955] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[46392] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[48423] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[48514] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[4479] = {
+			[7730] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[7729] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[31519] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[6132] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[8076] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[354] = {
+			[8907] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[3462] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10607] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[17062] = {
+			[38873] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[29504] = {
+			[72286] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[29472] = {
+			[72301] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
 		[18987] = {
-			{
-				["classes"] = 256,
+			[49603] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "受诅者魔封",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "魔古山宝库",
-					}, -- [1]
-				},
-				["sourceID"] = 44650,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "受诅者魔封",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "魔古山宝库",
-					}, -- [1]
-				},
-				["sourceID"] = 44670,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -19101,12 +23675,29 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49603,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[44670] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "受诅者魔封",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+			},
+			[50178] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -19120,18 +23711,29 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50178,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50490,
-			}, -- [5]
-			{
-				["classes"] = 256,
+			},
+			[44650] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "受诅者魔封",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+			},
+			[50802] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -19146,20 +23748,13 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50802,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51114,
-			}, -- [7]
+			},
 		},
 		[19003] = {
-			{
-				["classes"] = 256,
+			[44704] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -19173,57 +23768,11 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44704,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[50905] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "黑暗意志",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 49771,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "黑暗意志",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 50281,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50593,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -19238,228 +23787,219 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50905,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51217,
-			}, -- [6]
-		},
-		[3575] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4459,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[50281] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "托塞德林王子",
+						["instanceType"] = 2,
+						["encounter"] = "黑暗意志",
 						["tiers"] = {
-							"经典旧世", -- [1]
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[49771] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "黑暗意志",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+		},
+		[14696] = {
+			[32510] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32511] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[32509] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[4511] = {
+			[12025] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[30282] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[4057] = {
+			[10065] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[5369] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[5361] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26097] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[6565] = {
+			[10062] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[13308] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[32221] = {
+			[81046] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "艾乐瑞瑟·雷弗拉尔",
+						["tiers"] = {
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "厄运之槌",
+						["instance"] = "翡翠梦魇",
 					}, -- [1]
 				},
-				["sourceID"] = 7303,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[4511] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 12025,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30282,
-			}, -- [2]
-		},
-		[18763] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 45073,
-			}, -- [1]
-		},
-		[6565] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10062,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 13308,
-			}, -- [2]
-		},
-		[10265] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 19181,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30848,
-			}, -- [2]
+			},
 		},
 		[29329] = {
-			{
-				["classes"] = 256,
+			[68174] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 68174,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[19381] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 46392,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 48423,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 48514,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51955,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 54354,
-			}, -- [5]
+		[8680] = {
+			[15464] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
-		[24689] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 60260,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 67667,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67739,
-			}, -- [3]
+		[24346] = {
+			[63744] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[66825] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[4539] = {
-			{
-				["classes"] = 256,
+			[6257] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6257,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[17062] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 38873,
-			}, -- [1]
+		[9389] = {
+			[16717] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[1906] = {
-			{
-				["classes"] = 256,
+			[18555] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[18556] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[18909] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[3515] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2467,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[18553] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[18554] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[27903] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[10066] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3515,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[2467] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 10066,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18553,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18554,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18555,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18556,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18909,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 27903,
-			}, -- [9]
+				["faction"] = 3,
+			},
 		},
 		[10117] = {
-			{
-				["classes"] = 256,
+			[21941] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -19473,648 +24013,91 @@ MogIt_OtherDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 21941,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 21970,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[24732] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 24732,
-			}, -- [3]
+				["faction"] = 3,
+			},
+			[21970] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
-		[8878] = {
-			{
-				["classes"] = 256,
+		[19207] = {
+			[45688] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "基尔加丹",
+						["instanceType"] = 1,
+						["encounter"] = "科洛夫修士",
 						["tiers"] = {
-							"燃烧的远征", -- [1]
+							"经典旧世", -- [1]
+							"熊猫人之谜", -- [2]
 						},
 						["difficulties"] = {
+							"普通", -- [1]
 						},
-						["instance"] = "太阳之井高地",
+						["instance"] = "血色修道院",
 					}, -- [1]
 				},
-				["sourceID"] = 15811,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 24733,
-			}, -- [2]
+			},
 		},
 		[28434] = {
-			{
+			[83917] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[79369] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[79370] = {
 				["classes"] = 256,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 79370,
-			}, -- [1]
-			{
+			},
+			[83929] = {
 				["classes"] = 256,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 83929,
-			}, -- [2]
+			},
 		},
 		[29473] = {
-			{
-				["classes"] = 256,
+			[72295] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 72295,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[4567] = {
-			{
-				["classes"] = 256,
+			[6296] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6296,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[29505] = {
-			{
-				["classes"] = 256,
+			[72277] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 72277,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[1516] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 1620,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3691,
-			}, -- [2]
-		},
-		[24339] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 61992,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66816,
-			}, -- [2]
-		},
-		[8680] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 15464,
-			}, -- [1]
-		},
-		[13258] = {
-			{
-				["classes"] = 256,
+		[26738] = {
+			[69513] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "指挥官乌尔索克，腐烂王子",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "潮汐王座",
-					}, -- [1]
-				},
-				["sourceID"] = 26874,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "卡尔什·断钢",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石岩窟",
-					}, -- [1]
-				},
-				["sourceID"] = 26894,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 27407,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "西风君王阿萨德",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "旋云之巅",
-					}, -- [1]
-				},
-				["sourceID"] = 27419,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 27609,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "指挥官乌尔索克，腐烂王子",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "潮汐王座",
-					}, -- [1]
-				},
-				["sourceID"] = 27630,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "卡尔什·断钢",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石岩窟",
-					}, -- [1]
-				},
-				["sourceID"] = 27646,
-				["faction"] = 2,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "西风君王阿萨德",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "旋云之巅",
-					}, -- [1]
-				},
-				["sourceID"] = 27692,
-				["faction"] = 2,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 27792,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 32050,
-			}, -- [10]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 34141,
-			}, -- [11]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 34154,
-			}, -- [12]
-		},
-		[1917] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2175,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 19027,
-			}, -- [2]
-		},
-		[24486] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 63745,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65522,
-			}, -- [2]
-		},
-		[18364] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "怒之煞",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "潘达利亚",
-					}, -- [1]
-				},
-				["sourceID"] = 43273,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "怒之煞",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "潘达利亚",
-					}, -- [1]
-				},
-				["sourceID"] = 43275,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 47739,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 47740,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "暴风领主纳拉克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "潘达利亚",
-					}, -- [1]
-				},
-				["sourceID"] = 49353,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "暴风领主纳拉克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "潘达利亚",
-					}, -- [1]
-				},
-				["sourceID"] = 49440,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 52122,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 52123,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 53211,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 53298,
-			}, -- [10]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 53719,
-			}, -- [11]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 53806,
-			}, -- [12]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 55022,
-			}, -- [13]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 55109,
-			}, -- [14]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 55467,
-			}, -- [15]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 55468,
-			}, -- [16]
-		},
-		[31679] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 68458,
-			}, -- [1]
-		},
-		[24368] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "钢铁女武神",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 62876,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "钢铁女武神",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66810,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "钢铁女武神",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66811,
-				["faction"] = 2,
-			}, -- [3]
-		},
-		[13306] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 26933,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 26935,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 28252,
-			}, -- [3]
-		},
-		[24099] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 63714,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 63715,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 63716,
-			}, -- [3]
-		},
-		[24346] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 63744,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66825,
-			}, -- [2]
-		},
-		[7739] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "凯尔萨斯·逐日者",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "风暴要塞",
-					}, -- [1]
-				},
-				["sourceID"] = 13447,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "伊利达雷议会",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑暗神殿",
-					}, -- [1]
-				},
-				["sourceID"] = 14911,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 15043,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "锋鳞",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-				["sourceID"] = 21667,
-				["faction"] = 2,
-			}, -- [4]
-		},
-		[29504] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 72286,
-			}, -- [1]
-		},
-		[26403] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "祖霍拉克",
+						["encounter"] = "暗影领主艾斯卡",
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
@@ -20124,92 +24107,853 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69552,
-				["faction"] = 2,
-			}, -- [1]
+			},
+			[69538] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "高阶地狱火议会",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+			[69540] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "永恒者索克雷萨",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[24178] = {
+			[64984] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[64987] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[64981] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
 		[25121] = {
-			{
-				["classes"] = 256,
+			[64300] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[67954] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[69179] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[67843] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[67950] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[13258] = {
+			[34154] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[27630] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "指挥官乌尔索克，腐烂王子",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "潮汐王座",
+					}, -- [1]
+				},
+			},
+			[27792] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[27646] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "卡尔什·断钢",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石岩窟",
+					}, -- [1]
+				},
+			},
+			[27609] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[27692] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "西风君王阿萨德",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "旋云之巅",
+					}, -- [1]
+				},
+			},
+			[34141] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[32050] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[26894] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "卡尔什·断钢",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石岩窟",
+					}, -- [1]
+				},
+			},
+			[27419] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "西风君王阿萨德",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "旋云之巅",
+					}, -- [1]
+				},
+			},
+			[26874] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "指挥官乌尔索克，腐烂王子",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "潮汐王座",
+					}, -- [1]
+				},
+			},
+			[27407] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[1917] = {
+			[2175] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[19027] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[24486] = {
+			[63745] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[65522] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[18364] = {
+			[52123] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[49353] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 2,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "暴风领主纳拉克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+			},
+			[55468] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 64300,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[55096] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[55297] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[47739] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[47741] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[47428] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "暴风领主纳拉克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+			},
+			[53793] = {
+				["classes"] = 16,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 67843,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[53354] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[52122] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[52124] = {
+				["classes"] = 16,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[55467] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 67950,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[55469] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 67954,
-			}, -- [4]
-			{
-				["classes"] = 256,
+			},
+			[49427] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 2,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "暴风领主纳拉克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+			},
+			[55109] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 69179,
-			}, -- [5]
+			},
+			[53211] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[54851] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[53719] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[55296] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[55298] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[47740] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[52977] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[47429] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "暴风领主纳拉克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+			},
+			[53353] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[43275] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "怒之煞",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+			},
+			[54925] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[53355] = {
+				["classes"] = 16,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[53298] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[54938] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[53806] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[52976] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[52975] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[47430] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "暴风领主纳拉克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+			},
+			[49440] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 2,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "暴风领主纳拉克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+			},
+			[53285] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[43273] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "怒之煞",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+			},
+			[43274] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "怒之煞",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+			},
+			[55022] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
 		},
-		[25178] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 64301,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 65672,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 65673,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 69175,
-			}, -- [4]
+		[31679] = {
+			[68458] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
-		[24179] = {
-			{
-				["classes"] = 256,
+		[1663] = {
+			[3447] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[13306] = {
+			[26933] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26935] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[28252] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[19453] = {
+			[46665] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "先王之魂",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+			},
+			[62199] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[13418] = {
+			[27791] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 64980,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[27698] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "胡辛姆将军",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "托维尔失落之城",
+					}, -- [1]
+				},
+			},
+			[27436] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "希亚玛特",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "托维尔失落之城",
+					}, -- [1]
+				},
+			},
+			[27710] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "希亚玛特",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "托维尔失落之城",
+					}, -- [1]
+				},
+			},
+			[34120] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[34073] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[27382] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "升腾者领主奥西迪斯",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石岩窟",
+					}, -- [1]
+				},
+			},
+			[27655] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "升腾者领主奥西迪斯",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石岩窟",
+					}, -- [1]
+				},
+			},
+			[31328] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[27821] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 64983,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 64986,
-			}, -- [3]
+				["faction"] = 3,
+			},
+			[27427] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "胡辛姆将军",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "托维尔失落之城",
+					}, -- [1]
+				},
+			},
+			[32738] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "“船长”曲奇",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+							"经典旧世", -- [2]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "死亡矿井",
+					}, -- [1]
+				},
+			},
+		},
+		[26402] = {
+			[69551] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "血魔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[24331] = {
+			[66821] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[26258] = {
+			[69532] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "血魔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
+		},
+		[29327] = {
+			[79020] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "颤栗之喉",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "突袭紫罗兰监狱",
+					}, -- [1]
+				},
+			},
+		},
+		[25120] = {
+			[67842] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[787] = {
+			[726] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[30832] = {
-			{
-				["classes"] = 256,
+			[80812] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -20222,12 +24966,10 @@ MogIt_OtherDB = {
 						["instance"] = "奈萨里奥的巢穴",
 					}, -- [1]
 				},
-				["sourceID"] = 80812,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[31871] = {
-			{
+			[81562] = {
 				["classes"] = 256,
 				["sourceType"] = 1,
 				["drops"] = {
@@ -20237,61 +24979,53 @@ MogIt_OtherDB = {
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
+						["instance"] = "暗夜要塞",
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
-				["sourceID"] = 81562,
 				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[24178] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 64981,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 64984,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 64987,
-			}, -- [3]
+		[24332] = {
+			[72528] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[14425] = {
-			{
-				["classes"] = 256,
+			[30792] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 30792,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[24642] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65526,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66819,
-			}, -- [2]
+		[26726] = {
+			[69531] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "血魔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
+			},
 		},
 		[4667] = {
-			{
-				["classes"] = 256,
+			[7088] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -20304,61 +25038,11 @@ MogIt_OtherDB = {
 						["instance"] = "熔火之心",
 					}, -- [1]
 				},
-				["sourceID"] = 7088,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 8797,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10595,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[16120] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "巡视者加戈玛",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "地狱火城墙",
-					}, -- [1]
-				},
-				["sourceID"] = 11899,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "机械领主卡帕西图斯",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "能源舰",
-					}, -- [1]
-				},
-				["sourceID"] = 12356,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -20372,66 +25056,70 @@ MogIt_OtherDB = {
 						["instance"] = "魔导师平台",
 					}, -- [1]
 				},
-				["sourceID"] = 16120,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
+			},
+			[18030] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 18030,
-			}, -- [7]
+				["faction"] = 3,
+			},
+			[10595] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[12356] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "机械领主卡帕西图斯",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "能源舰",
+					}, -- [1]
+				},
+			},
+			[8797] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[11899] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "巡视者加戈玛",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "地狱火城墙",
+					}, -- [1]
+				},
+			},
 		},
-		[1672] = {
-			{
-				["classes"] = 256,
+		[30407] = {
+			[68227] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1809,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[11388] = {
-			{
-				["classes"] = 256,
+			[22736] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "掌炉者伊格尼斯",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
-				["sourceID"] = 21789,
 				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "诺森德猛兽",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "十字军的试炼",
-					}, -- [1]
-				},
-				["sourceID"] = 22669,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -20445,243 +25133,63 @@ MogIt_OtherDB = {
 						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 22736,
-				["faction"] = 2,
-			}, -- [3]
-		},
-		[14465] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 31340,
-			}, -- [1]
-		},
-		[13561] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 27766,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29879,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29882,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 78373,
-			}, -- [4]
-		},
-		[24331] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66821,
-			}, -- [1]
-		},
-		[5714] = {
-			{
-				["classes"] = 256,
+			},
+			[21789] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "纯洁者耶德瑞克",
+						["instanceType"] = 2,
+						["encounter"] = "掌炉者伊格尼斯",
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"10人", -- [1]
 						},
-						["instance"] = "冠军的试炼",
+						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 22804,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26236,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 78358,
-			}, -- [3]
-		},
-		[31024] = {
-			{
-				["classes"] = 256,
+			},
+			[22669] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 2,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "艾乐瑞瑟·雷弗拉尔",
+						["encounter"] = "诺森德猛兽",
 						["tiers"] = {
-							"军团再临", -- [1]
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
+							"25人", -- [1]
 						},
-						["instance"] = "翡翠梦魇",
+						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
-				["sourceID"] = 81044,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 82855,
-			}, -- [2]
+			},
 		},
-		[32063] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "冷血的杜贡",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "破碎群岛",
-					}, -- [1]
-				},
-				["sourceID"] = 82858,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[18780] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 45167,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 45301,
-			}, -- [2]
-		},
-		[24332] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 72528,
-			}, -- [1]
-		},
-		[25180] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67967,
-			}, -- [1]
-		},
-		[29058] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 81665,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 83927,
-			}, -- [2]
-		},
-		[30407] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 68227,
-			}, -- [1]
-		},
-		[28439] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 68632,
-			}, -- [1]
-		},
-		[1951] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2224,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 17526,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 17879,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26061,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26096,
-			}, -- [5]
-		},
-		[2879] = {
-			{
-				["classes"] = 256,
+		[14465] = {
+			[31340] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 37557,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[25539] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 69074,
-			}, -- [1]
+		[19318] = {
+			[46152] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[26733] = {
-			{
-				["classes"] = 256,
+			[69509] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -20695,63 +25203,501 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69509,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[4743] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20082,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20083,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 21504,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 21505,
-			}, -- [4]
-		},
-		[26399] = {
-			{
-				["classes"] = 256,
+		[5714] = {
+			[78358] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[26236] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[22804] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "纯洁者耶德瑞克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "冠军的试炼",
+					}, -- [1]
+				},
+			},
+		},
+		[31024] = {
+			[81044] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "暗影领主艾斯卡",
+						["encounter"] = "艾乐瑞瑟·雷弗拉尔",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "翡翠梦魇",
+					}, -- [1]
+				},
+			},
+			[82855] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[32063] = {
+			[82858] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "冷血的杜贡",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "破碎群岛",
+					}, -- [1]
+				},
+			},
+			[84558] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[18780] = {
+			[45167] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[45301] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[24713] = {
+			[63139] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[59578] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66684] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "地狱火堡垒",
+						["instance"] = "奥金顿",
 					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
 				},
-				["sourceID"] = 69514,
-				["faction"] = 2,
-			}, -- [1]
-			{
+			},
+			[63341] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[76267] = {
 				["classes"] = 256,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[66775] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66677] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[63243] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[30404] = {
+			[68832] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[18828] = {
+			[45165] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[24799] = {
+			[62761] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "高阶地狱火议会",
+						["encounter"] = "缚火者卡格拉兹",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[66808] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "缚火者卡格拉兹",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[66798] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[62697] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[66799] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥尔高格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+			[63548] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66809] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "缚火者卡格拉兹",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+			},
+		},
+		[26398] = {
+			[69516] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛诺洛斯",
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
@@ -20761,110 +25707,202 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69537,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[69541] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "霸主卡扎克",
+						["encounter"] = "永恒者索克雷萨",
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
 							"英雄", -- [1]
 						},
-						["instance"] = "德拉诺",
+						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 72831,
-				["faction"] = 2,
-			}, -- [3]
+			},
 		},
-		[25110] = {
-			{
+		[1951] = {
+			[26061] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17879] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[17526] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[26096] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[2224] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2879] = {
+			[37555] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[37557] = {
 				["classes"] = 256,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[30161] = {
+			[81662] = {
+				["classes"] = 16,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 65555,
-			}, -- [1]
-		},
-		[6801] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10674,
-			}, -- [1]
-		},
-		[2893] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 6796,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33348,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33393,
-			}, -- [3]
-			{
-				["classes"] = 256,
+			},
+			[83911] = {
+				["classes"] = 16,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 35164,
-			}, -- [4]
+			},
 		},
-		[451] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5476,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 10715,
-			}, -- [2]
-		},
-		[26734] = {
-			{
-				["classes"] = 256,
+		[30177] = {
+			[81563] = {
+				["classes"] = 16,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "玛诺洛斯",
+						["encounter"] = "崔利艾克斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[2885] = {
+			[29477] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[5179] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[29726] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[5138] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[35158] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[13688] = {
+			[28190] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[25110] = {
+			[65555] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[6801] = {
+			[10674] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[2893] = {
+			[37554] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[33393] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[33348] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[6796] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+			[35164] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[32235] = {
+			[84545] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[26762] = {
+			[73310] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "永恒者索克雷萨",
 						["tiers"] = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"史诗", -- [1]
+							"随机", -- [1]
 						},
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69518,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[19052] = {
-			{
-				["classes"] = 256,
+			[44821] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -20879,14 +25917,13 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44821,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[19068] = {
-			{
-				["classes"] = 256,
+			[44870] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -20901,35 +25938,25 @@ MogIt_OtherDB = {
 						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
-				["sourceID"] = 44870,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[26258] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "血魔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69532,
-				["faction"] = 2,
-			}, -- [1]
+		[4625] = {
+			[6379] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6408] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[30353] = {
-			{
-				["classes"] = 256,
+			[83057] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -20942,110 +25969,171 @@ MogIt_OtherDB = {
 						["instance"] = "重返卡拉赞",
 					}, -- [1]
 				},
-				["sourceID"] = 83057,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[29341] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "芬雷尔",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "英灵殿",
-					}, -- [1]
-				},
-				["sourceID"] = 76872,
-				["faction"] = 2,
-			}, -- [1]
+		[24344] = {
+			[63937] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[65536] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
-		[26256] = {
-			{
-				["classes"] = 256,
+		[19046] = {
+			[44878] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "永恒者索克雷萨",
+						["encounter"] = "受诅者魔封",
 						["tiers"] = {
-							"德拉诺之王", -- [1]
+							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"史诗", -- [1]
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
 						},
-						["instance"] = "地狱火堡垒",
+						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
-				["sourceID"] = 69536,
-				["faction"] = 2,
-			}, -- [1]
+			},
+			[50235] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "季鹍",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[44807] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "皇家宰相佐尔洛克",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "恐惧之心",
+					}, -- [1]
+				},
+			},
+			[44893] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "受诅者魔封",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+			},
+			[50859] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "季鹍",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[49660] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "季鹍",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
 		},
 		[14697] = {
-			{
-				["classes"] = 256,
+			[32513] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32512,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[32514] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32513,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[32512] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32514,
-			}, -- [3]
+			},
 		},
-		[26402] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "血魔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69551,
-				["faction"] = 2,
-			}, -- [1]
+		[2979] = {
+			[3586] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[2915] = {
-			{
-				["classes"] = 256,
+			[3480] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3480,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[3940] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 5096,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[7699] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -21058,495 +26146,370 @@ MogIt_OtherDB = {
 						["instance"] = "黑翼之巢",
 					}, -- [1]
 				},
-				["sourceID"] = 7699,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[5096] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[14167] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14167,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[18028] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 18028,
-			}, -- [4]
+				["faction"] = 3,
+			},
 		},
 		[2919] = {
-			{
-				["classes"] = 256,
+			[5231] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3490,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4747,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5210,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5231,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[26076] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 26076,
-			}, -- [5]
+				["faction"] = 3,
+			},
+			[4747] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[3490] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[5210] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[18205] = {
-			{
-				["classes"] = 256,
+			[42874] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 42874,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[19097] = {
-			{
-				["classes"] = 256,
+		[29324] = {
+			[78947] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "无尽守护者",
+						["instanceType"] = 1,
+						["encounter"] = "纳拉萨斯",
 						["tiers"] = {
-							"熊猫人之谜", -- [1]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
 						},
-						["instance"] = "永春台",
+						["instance"] = "奈萨里奥的巢穴",
 					}, -- [1]
 				},
-				["sourceID"] = 44983,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "无尽守护者",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "永春台",
-					}, -- [1]
-				},
-				["sourceID"] = 47053,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[26741] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "钢铁掠夺者",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 69546,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[4625] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6379,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6408,
-			}, -- [2]
-		},
-		[15792] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 36333,
-			}, -- [1]
-		},
-		[3954] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 5118,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 5149,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 12027,
-			}, -- [3]
-		},
-		[12739] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "踏梦者瓦莉瑟瑞娅",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 25421,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "踏梦者瓦莉瑟瑞娅",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 25554,
-				["faction"] = 2,
-			}, -- [2]
-		},
-		[24370] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "布兰肯斯波",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 62449,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "布兰肯斯波",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66814,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "布兰肯斯波",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["sourceID"] = 66815,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67012,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67013,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67014,
-			}, -- [6]
-		},
-		[13778] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 28809,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 28810,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "马洛拉克",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "黑翼血环",
-					}, -- [1]
-				},
-				["sourceID"] = 29593,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "马洛拉克",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "黑翼血环",
-					}, -- [1]
-				},
-				["sourceID"] = 32628,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 34183,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥拉基尔",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "风神王座",
-					}, -- [1]
-				},
-				["sourceID"] = 35574,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "奥拉基尔",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "风神王座",
-					}, -- [1]
-				},
-				["sourceID"] = 35592,
-				["faction"] = 2,
-			}, -- [7]
-		},
-		[24487] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65518,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 70374,
-			}, -- [2]
-		},
-		[19388] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46405,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 51430,
-			}, -- [2]
-		},
-		[26762] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "永恒者索克雷萨",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 73310,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[2945] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3535,
-			}, -- [1]
+			},
 		},
 		[15881] = {
-			{
-				["classes"] = 256,
+			[36532] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 36532,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[30405] = {
-			{
-				["classes"] = 256,
+		[30460] = {
+			[80931] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[15792] = {
+			[36333] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[3954] = {
+			[5149] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[5118] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[12027] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 74625,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[12739] = {
+			[25421] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "踏梦者瓦莉瑟瑞娅",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
+			[25554] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "踏梦者瓦莉瑟瑞娅",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+			},
 		},
 		[32394] = {
-			{
-				["classes"] = 256,
+			[76500] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[13778] = {
+			[32628] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "马洛拉克",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "黑翼血环",
+					}, -- [1]
+				},
+			},
+			[28809] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[34183] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[35574] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥拉基尔",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "风神王座",
+					}, -- [1]
+				},
+			},
+			[28810] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[35592] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奥拉基尔",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "风神王座",
+					}, -- [1]
+				},
+			},
+			[29593] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "马洛拉克",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+						["instance"] = "黑翼血环",
+					}, -- [1]
+				},
+			},
+		},
+		[24487] = {
+			[65518] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[70374] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[19388] = {
+			[51425] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[51430] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 76500,
-			}, -- [1]
+			},
+			[46405] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[18947] = {
+			[47087] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[49901] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[2945] = {
+			[3535] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[32181] = {
+			[82856] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "尼索格",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "破碎群岛",
+					}, -- [1]
+				},
+			},
+		},
+		[7973] = {
+			[13926] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[14165] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2712] = {
+			[10506] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[3180] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10507] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[15888] = {
-			{
-				["classes"] = 256,
+			[36549] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 36549,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[9758] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17655,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 18141,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			[21019] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 21019,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[17655] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[21721] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -21560,62 +26523,64 @@ MogIt_OtherDB = {
 						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
-				["sourceID"] = 21721,
-				["faction"] = 2,
-			}, -- [4]
+			},
+			[18141] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[14881] = {
-			{
-				["classes"] = 256,
+			[33215] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 33215,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[29354] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "伊莉萨娜·拉文凯斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑鸦堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 78687,
-				["faction"] = 2,
-			}, -- [1]
+		[2246] = {
+			[14639] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[30852] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[29376] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[30854] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[33144] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[2602] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
-		[29324] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "纳拉萨斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奈萨里奥的巢穴",
-					}, -- [1]
-				},
-				["sourceID"] = 78947,
-				["faction"] = 2,
-			}, -- [1]
+		[18196] = {
+			[42782] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[26725] = {
-			{
-				["classes"] = 256,
+			[69533] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -21629,14 +26594,13 @@ MogIt_OtherDB = {
 						["instance"] = "地狱火堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 69533,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[30833] = {
-			{
-				["classes"] = 256,
+			[76910] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -21649,14 +26613,13 @@ MogIt_OtherDB = {
 						["instance"] = "英灵殿",
 					}, -- [1]
 				},
-				["sourceID"] = 76910,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
 		[30849] = {
-			{
-				["classes"] = 256,
+			[80816] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -21669,193 +26632,96 @@ MogIt_OtherDB = {
 						["instance"] = "黑鸦堡垒",
 					}, -- [1]
 				},
-				["sourceID"] = 80816,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[26773] = {
-			{
-				["classes"] = 256,
+		[34077] = {
+			[86272] = {
+				["classes"] = 16,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "血魔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["sourceID"] = 73156,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[1998] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 2279,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 13116,
-			}, -- [2]
-		},
-		[2973] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3575,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3605,
-			}, -- [2]
-		},
-		[30850] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "科达娜·邪歌",
+						["encounter"] = "绝望的聚合体",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "守望者地窟",
+						["instance"] = "萨格拉斯之墓",
 					}, -- [1]
 				},
-				["sourceID"] = 79108,
-				["faction"] = 2,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[10869] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20340,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20341,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20342,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20343,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20344,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20347,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20348,
-			}, -- [7]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20349,
-			}, -- [8]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20350,
-			}, -- [9]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20351,
-			}, -- [10]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20354,
-			}, -- [11]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20355,
-			}, -- [12]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20356,
-			}, -- [13]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20357,
-			}, -- [14]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20358,
-			}, -- [15]
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 22063,
-			}, -- [16]
-		},
-		[2979] = {
-			{
-				["classes"] = 256,
+		[1998] = {
+			[2279] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3586,
-			}, -- [1]
+				["faction"] = 3,
+			},
+			[13116] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
-		[29326] = {
-			{
-				["classes"] = 256,
+		[2973] = {
+			[22644] = {
+				["classes"] = 16,
 				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿努巴拉克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[22656] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["faction"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿努巴拉克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[3575] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[3605] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[30853] = {
+			[80804] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "奥丁",
+						["encounter"] = "芬雷尔",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
@@ -21864,98 +26730,135 @@ MogIt_OtherDB = {
 						["instance"] = "英灵殿",
 					}, -- [1]
 				},
-				["sourceID"] = 80805,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[29334] = {
-			{
-				["classes"] = 256,
+		[10869] = {
+			[20351] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20340] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20344] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20348] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20341] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20356] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20342] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20349] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[22063] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[20357] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20358] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20350] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20354] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20343] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20347] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20355] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[17646] = {
+			[84433] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "哈布隆",
+						["encounter"] = "杰翰",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+							"时空漫游", -- [2]
+						},
+						["instance"] = "魔古山宫殿",
+					}, -- [1]
+				},
+			},
+		},
+		[30504] = {
+			[81048] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "塞纳留斯",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "噬魂之喉",
+						["instance"] = "翡翠梦魇",
 					}, -- [1]
 				},
-				["sourceID"] = 80806,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[29325] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "萨维斯之影",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑心林地",
-					}, -- [1]
-				},
-				["sourceID"] = 80809,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[29352] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "深须国王",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "艾萨拉之眼",
-					}, -- [1]
-				},
-				["sourceID"] = 80810,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[32048] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 82854,
-			}, -- [1]
-		},
-		[24903] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67024,
-			}, -- [1]
-		},
-		[18828] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 45165,
-			}, -- [1]
+			},
 		},
 		[30855] = {
-			{
-				["classes"] = 256,
+			[78969] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -21968,54 +26871,126 @@ MogIt_OtherDB = {
 						["instance"] = "艾萨拉之眼",
 					}, -- [1]
 				},
-				["sourceID"] = 78969,
-				["faction"] = 2,
-			}, -- [1]
+			},
+		},
+		[30506] = {
+			[81047] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "塞纳留斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "翡翠梦魇",
+					}, -- [1]
+				},
+			},
+		},
+		[16130] = {
+			[37291] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "希尔瓦娜斯的残影",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "时光之末",
+					}, -- [1]
+				},
+			},
+		},
+		[32048] = {
+			[82854] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[24903] = {
+			[67024] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[29336] = {
+			[79107] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "审判官托蒙托鲁姆",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "守望者地窟",
+					}, -- [1]
+				},
+			},
+		},
+		[3180] = {
+			[3839] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[14018] = {
-			{
-				["classes"] = 256,
+			[29636] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 29636,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[2999] = {
-			{
-				["classes"] = 256,
+			[3618] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3618,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[3885] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 3885,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6150,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[15316] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 15316,
-			}, -- [4]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[17923] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 17923,
-			}, -- [5]
+				["faction"] = 3,
+			},
+			[6150] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[16799] = {
-			{
-				["classes"] = 256,
+			[38410] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -22028,22 +27003,20 @@ MogIt_OtherDB = {
 						["instance"] = "暮光审判",
 					}, -- [1]
 				},
-				["sourceID"] = 38410,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[30440] = {
-			{
-				["classes"] = 256,
+		[30315] = {
+			[79354] = {
+				["classes"] = 16,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 80929,
-			}, -- [1]
+				["faction"] = 1,
+			},
 		},
 		[18877] = {
-			{
-				["classes"] = 256,
+			[44376] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -22058,299 +27031,254 @@ MogIt_OtherDB = {
 						["instance"] = "永春台",
 					}, -- [1]
 				},
-				["sourceID"] = 44376,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[49899] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 49899,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[30460] = {
-			{
-				["classes"] = 256,
+		[28157] = {
+			[86902] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "马利费库斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "破碎群岛",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
+		},
+		[32233] = {
+			[84546] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 80931,
-			}, -- [1]
-		},
-		[24382] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克罗莫格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 62789,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克罗莫格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66812,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克罗莫格",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["sourceID"] = 66813,
-				["faction"] = 2,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
 		[16120] = {
-			{
-				["classes"] = 256,
+			[38874] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 38874,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[7045] = {
-			{
-				["classes"] = 256,
+			[12224] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 12224,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[24072] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 59587,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			[63444] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63241,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[59587] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66676] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[66768] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塔隆戈尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奥金顿",
+					}, -- [1]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "罗托尔",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "血槌炉渣矿井",
+					}, -- [2]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莎达娜·血怒",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "影月墓地",
+					}, -- [3]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "枯木",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永茂林地",
+					}, -- [4]
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石塔上层",
+					}, -- [5]
+				},
+			},
+			[67839] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63444,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[63241] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[66833] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66676,
-				["faction"] = 2,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塔隆戈尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奥金顿",
-					}, -- [1]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "罗托尔",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "血槌炉渣矿井",
-					}, -- [2]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莎达娜·血怒",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "影月墓地",
-					}, -- [3]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "枯木",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永茂林地",
-					}, -- [4]
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石塔上层",
-					}, -- [5]
-				},
-				["sourceID"] = 66768,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -22364,62 +27292,56 @@ MogIt_OtherDB = {
 						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
-				["sourceID"] = 66833,
-				["faction"] = 2,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 67839,
-			}, -- [7]
+			},
 		},
 		[25111] = {
-			{
-				["classes"] = 256,
+			[72531] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 65532,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[66613] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 66613,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[65532] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 72531,
-			}, -- [3]
+				["faction"] = 3,
+			},
 		},
-		[2860] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 3374,
-			}, -- [1]
+		[30009] = {
+			[81999] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "占星师艾塔乌斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+			},
 		},
-		[2051] = {
-			{
-				["classes"] = 256,
+		[30039] = {
+			[81658] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 2364,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 2559,
-			}, -- [2]
+			},
 		},
 		[19021] = {
-			{
-				["classes"] = 256,
+			[44749] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -22433,12 +27355,11 @@ MogIt_OtherDB = {
 						["instance"] = "永春台",
 					}, -- [1]
 				},
-				["sourceID"] = 44749,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[49824] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -22453,40 +27374,35 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49824,
-				["faction"] = 2,
-			}, -- [2]
+			},
 		},
 		[25175] = {
-			{
-				["classes"] = 256,
+			[67953] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 64299,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[69178] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 67949,
-			}, -- [2]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[67949] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 67953,
-			}, -- [3]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[64299] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 69178,
-			}, -- [4]
+				["faction"] = 3,
+			},
 		},
 		[19053] = {
-			{
-				["classes"] = 256,
+			[44827] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -22501,12 +27417,46 @@ MogIt_OtherDB = {
 						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
-				["sourceID"] = 44827,
-				["faction"] = 2,
-			}, -- [1]
-			{
-				["classes"] = 256,
+			},
+			[60936] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "伊墨苏斯",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+			},
+			[50256] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "遗忘者杜鲁姆",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+			},
+			[49746] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -22521,37 +27471,11 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 49746,
-				["faction"] = 2,
-			}, -- [2]
-			{
-				["classes"] = 256,
+			},
+			[50880] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "遗忘者杜鲁姆",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["sourceID"] = 50256,
-				["faction"] = 2,
-			}, -- [3]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 50568,
-			}, -- [4]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
@@ -22566,162 +27490,20 @@ MogIt_OtherDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
-				["sourceID"] = 50880,
-				["faction"] = 2,
-			}, -- [5]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 51192,
-			}, -- [6]
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "伊墨苏斯",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "决战奥格瑞玛",
-					}, -- [1]
-				},
-				["sourceID"] = 60936,
-				["faction"] = 2,
-			}, -- [7]
+			},
 		},
 		[32368] = {
-			{
-				["classes"] = 256,
+			[81290] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 81290,
-			}, -- [1]
-		},
-		[4482] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 6160,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14641,
-			}, -- [2]
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 27839,
-			}, -- [3]
-		},
-		[30009] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "占星师艾塔乌斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
-					}, -- [1]
-				},
-				["sourceID"] = 81999,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[32088] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "大魔导师艾利桑德",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
-					}, -- [1]
-				},
-				["sourceID"] = 82003,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[31685] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 82787,
-			}, -- [1]
-		},
-		[32181] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "尼索格",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "破碎群岛",
-					}, -- [1]
-				},
-				["sourceID"] = 82856,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[31174] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "胡墨格里斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "破碎群岛",
-					}, -- [1]
-				},
-				["sourceID"] = 82859,
-				["faction"] = 2,
-			}, -- [1]
-		},
-		[11133] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 21235,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[29465] = {
-			{
-				["classes"] = 256,
+			[83072] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
@@ -22734,1365 +27516,1712 @@ MogIt_OtherDB = {
 						["instance"] = "重返卡拉赞",
 					}, -- [1]
 				},
-				["sourceID"] = 83072,
-				["faction"] = 2,
-			}, -- [1]
+			},
 		},
-		[24369] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 63545,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 70375,
-			}, -- [2]
-		},
-		[32843] = {
-			{
-				["classes"] = 256,
+		[32263] = {
+			[82861] = {
+				["classes"] = 272,
 				["sourceType"] = 1,
+				["faction"] = 3,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "海拉",
+						["encounter"] = "沙索斯",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "勇气试炼",
+						["instance"] = "破碎群岛",
 					}, -- [1]
 				},
-				["sourceID"] = 83204,
+			},
+		},
+		[4461] = {
+			[10061] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[7725] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
 				["faction"] = 2,
-			}, -- [1]
+			},
+			[8075] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[26171] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[31553] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[7726] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[6139] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[6088] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[3525] = {
+			[4377] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[7470] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[22795] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 2,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿努巴拉克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人（英雄）", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[11928] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "制造者",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "鲜血熔炉",
+					}, -- [1]
+				},
+			},
+			[22728] = {
+				["classes"] = 272,
+				["sourceType"] = 1,
+				["faction"] = 2,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿努巴拉克",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "十字军的试炼",
+					}, -- [1]
+				},
+			},
+			[14044] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[3074] = {
+			[3710] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[2860] = {
+			[3374] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[11133] = {
+			[21235] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[17813] = {
+			[41412] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[34079] = {
+			[84655] = {
+				["classes"] = 16,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[85304] = {
+				["classes"] = 16,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+		},
+		[34091] = {
+			[86274] = {
+				["classes"] = 16,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "绝望的聚合体",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "萨格拉斯之墓",
+					}, -- [1]
+				},
+				["faction"] = 3,
+			},
 		},
 	},
 	["Shirt"] = {
 		[4126] = {
-			{
-				["classes"] = 256,
+			[5518] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 5518,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[20824] = {
-			{
-				["classes"] = 256,
+			[52027] = {
+				["classes"] = 272,
 				["sourceType"] = 5,
-				["faction"] = 2,
-				["sourceID"] = 52027,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[11241] = {
-			{
-				["classes"] = 256,
+			[21566] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 21566,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[2271] = {
-			{
-				["classes"] = 256,
+			[2633] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[3669] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 3669,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18677] = {
-			{
-				["classes"] = 256,
+			[43852] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 43852,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[2272] = {
 			{
 				["classes"] = 256,
 				["sourceType"] = 2,
-				["faction"] = 2,
 				["sourceID"] = 51871,
+				["faction"] = 2,
 			}, -- [1]
+		},
+		[33808] = {
+			[84535] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[33812] = {
+			[51867] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[33816] = {
+			[51869] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[1208] = {
-			{
-				["classes"] = 256,
+			[1254] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 1254,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[902] = {
-			{
-				["classes"] = 256,
+			[877] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 877,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[1590] = {
-			{
-				["classes"] = 256,
+			[1703] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1703,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19344] = {
-			{
-				["classes"] = 256,
+			[46207] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46207,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19346] = {
-			{
-				["classes"] = 256,
+			[46209] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46209,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19348] = {
-			{
-				["classes"] = 256,
+			[46211] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46211,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[1797] = {
-			{
-				["classes"] = 256,
+			[1974] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 1974,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[11265] = {
-			{
-				["classes"] = 256,
+			[21629] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 21629,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[1591] = {
-			{
-				["classes"] = 256,
+			[1704] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1704,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[2055] = {
-			{
-				["classes"] = 256,
+			[2371] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2371,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[509] = {
 			{
 				["classes"] = 256,
 				["sourceType"] = 2,
-				["faction"] = 2,
 				["sourceID"] = 51874,
+				["faction"] = 2,
 			}, -- [1]
 		},
 		[903] = {
-			{
-				["classes"] = 256,
+			[878] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 878,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[6581] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 6581,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[11526] = {
-			{
-				["classes"] = 256,
+			[22027] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22027,
-			}, -- [1]
+			},
+		},
+		[11527] = {
+			[22029] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[1592] = {
-			{
-				["classes"] = 256,
+			[1705] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1705,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[12799] = {
-			{
-				["classes"] = 256,
+			[25708] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 25708,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[11530] = {
-			{
-				["classes"] = 256,
+			[22032] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22032,
-			}, -- [1]
+			},
+		},
+		[11531] = {
+			[22033] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[11532] = {
+			[22034] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[11533] = {
-			{
-				["classes"] = 256,
+			[22035] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22035,
-			}, -- [1]
+			},
 		},
 		[1180] = {
-			{
-				["classes"] = 256,
+			[1215] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 1215,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[51872] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 51872,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[11535] = {
-			{
-				["classes"] = 256,
+			[22037] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22037,
-			}, -- [1]
+			},
 		},
 		[2154] = {
 			{
 				["classes"] = 256,
 				["sourceType"] = 2,
-				["faction"] = 2,
 				["sourceID"] = 51868,
+				["faction"] = 2,
 			}, -- [1]
+		},
+		[11529] = {
+			[22031] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[11528] = {
+			[22030] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[33809] = {
+			[84536] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[5221] = {
+			[7244] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
 		[904] = {
-			{
-				["classes"] = 256,
+			[879] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 879,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[912] = {
-			{
-				["classes"] = 256,
+			[888] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 888,
-			}, -- [1]
-			{
-				["classes"] = 256,
+				["faction"] = 3,
+			},
+			[1255] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 1255,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
 		[10654] = {
-			{
-				["classes"] = 256,
+			[19960] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 19960,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10655] = {
-			{
-				["classes"] = 256,
+			[19961] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 19961,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10656] = {
-			{
-				["classes"] = 256,
+			[19962] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 19962,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10657] = {
-			{
-				["classes"] = 256,
+			[19963] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 19963,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10658] = {
-			{
-				["classes"] = 256,
+			[19964] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 19964,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10659] = {
-			{
-				["classes"] = 256,
+			[19965] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 19965,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10660] = {
-			{
-				["classes"] = 256,
+			[19966] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 19966,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10661] = {
-			{
-				["classes"] = 256,
+			[19967] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 19967,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[264] = {
-			{
-				["classes"] = 256,
+		[33804] = {
+			[84531] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[1207] = {
+			[1253] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 80190,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[1596] = {
-			{
-				["classes"] = 256,
+		[2054] = {
+			[2370] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1709,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 6580,
-			}, -- [2]
+				["faction"] = 3,
+			},
 		},
-		[18676] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 43851,
-			}, -- [1]
-		},
-		[18678] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 43853,
-			}, -- [1]
-		},
-		[3051] = {
-			{
-				["classes"] = 256,
+		[1594] = {
+			[1707] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 3683,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[10934] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20495,
-			}, -- [1]
-		},
-		[10935] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20496,
-			}, -- [1]
-		},
-		[10937] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20498,
-			}, -- [1]
+		[33821] = {
+			[51873] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[10938] = {
-			{
-				["classes"] = 256,
+			[20500] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20500,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[1588] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1701,
-			}, -- [1]
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 35134,
-			}, -- [2]
-		},
-		[2259] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2619,
-			}, -- [1]
-		},
-		[3053] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 3685,
-			}, -- [1]
-		},
-		[10942] = {
-			{
-				["classes"] = 256,
+		[264] = {
+			[80190] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20504,
-			}, -- [1]
-		},
-		[10943] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20505,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[2260] = {
-			{
-				["classes"] = 256,
+			[2620] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2620,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[3054] = {
-			{
-				["classes"] = 256,
+			[3686] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 3686,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[1596] = {
+			[1709] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[6580] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[18676] = {
+			[43851] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[18678] = {
+			[43853] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[3467] = {
-			{
-				["classes"] = 256,
+			[4268] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 4268,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[33806] = {
+			[84532] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[33810] = {
+			[84537] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[33814] = {
+			[51868] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[33818] = {
+			[51870] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[3051] = {
+			[3683] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[10934] = {
+			[20495] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[10935] = {
+			[20496] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[10948] = {
+			[20510] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[10937] = {
+			[20498] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[906] = {
+			[881] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[10949] = {
+			[20511] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[2259] = {
+			[2619] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[3053] = {
+			[3685] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+		},
+		[10942] = {
+			[20504] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[10943] = {
+			[20505] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[10944] = {
+			[20506] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[10945] = {
+			[20507] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[10946] = {
+			[20508] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[10947] = {
-			{
-				["classes"] = 256,
+			[20509] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20509,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[2896] = {
 			{
 				["classes"] = 256,
 				["sourceType"] = 2,
-				["faction"] = 2,
 				["sourceID"] = 51870,
+				["faction"] = 2,
 			}, -- [1]
 		},
 		[3055] = {
-			{
-				["classes"] = 256,
+			[3687] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 3687,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[10950] = {
-			{
-				["classes"] = 256,
+			[20512] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20512,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[906] = {
-			{
-				["classes"] = 256,
+		[5190] = {
+			[7184] = {
+				["classes"] = 272,
 				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 881,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19347] = {
-			{
-				["classes"] = 256,
+			[46210] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46210,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[2795] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 51875,
-			}, -- [1]
-		},
-		[10944] = {
-			{
-				["classes"] = 256,
+		[19345] = {
+			[46208] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20506,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[19343] = {
+			[46206] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[17122] = {
 			{
 				["classes"] = 256,
 				["sourceType"] = 2,
-				["faction"] = 2,
 				["sourceID"] = 51867,
+				["faction"] = 2,
 			}, -- [1]
+		},
+		[10941] = {
+			[20503] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[11242] = {
+			[21567] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[34684] = {
+			[89278] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[14074] = {
 			{
 				["classes"] = 256,
 				["sourceType"] = 2,
-				["faction"] = 2,
 				["sourceID"] = 51864,
+				["faction"] = 2,
 			}, -- [1]
 		},
-		[10948] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20510,
-			}, -- [1]
+		[33803] = {
+			[84530] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
-		[2054] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 2370,
-			}, -- [1]
+		[33807] = {
+			[84533] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
-		[1594] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1707,
-			}, -- [1]
-		},
-		[10949] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20511,
-			}, -- [1]
-		},
-		[10940] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20502,
-			}, -- [1]
-		},
-		[10945] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20507,
-			}, -- [1]
+		[33811] = {
+			[51864] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[5704] = {
 			{
 				["classes"] = 256,
 				["sourceType"] = 2,
-				["faction"] = 2,
 				["sourceID"] = 51869,
-			}, -- [1]
-		},
-		[5221] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
 				["faction"] = 2,
-				["sourceID"] = 7244,
 			}, -- [1]
 		},
-		[1593] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 6,
-				["faction"] = 2,
-				["sourceID"] = 1706,
-			}, -- [1]
+		[33819] = {
+			[51871] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
-		[1207] = {
-			{
-				["classes"] = 256,
+		[33823] = {
+			[51875] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[10940] = {
+			[20502] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 1253,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[10941] = {
+		[33822] = {
+			[51874] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[2795] = {
 			{
 				["classes"] = 256,
-				["sourceType"] = 3,
+				["sourceType"] = 2,
+				["sourceID"] = 51875,
 				["faction"] = 2,
-				["sourceID"] = 20503,
 			}, -- [1]
 		},
-		[11534] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 22036,
-			}, -- [1]
-		},
-		[11242] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 21567,
-			}, -- [1]
+		[20799] = {
+			[51866] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[2584] = {
 			{
 				["classes"] = 256,
 				["sourceType"] = 2,
-				["faction"] = 2,
 				["sourceID"] = 51873,
+				["faction"] = 2,
 			}, -- [1]
 		},
 		[20798] = {
-			{
-				["classes"] = 256,
+			[51865] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 51865,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[19343] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46206,
-			}, -- [1]
+		[1593] = {
+			[1706] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
 		},
-		[19345] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46208,
-			}, -- [1]
+		[34766] = {
+			[89324] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
 		},
 		[13006] = {
-			{
-				["classes"] = 256,
+			[26321] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[1588] = {
+			[1701] = {
+				["classes"] = 272,
+				["sourceType"] = 6,
+				["faction"] = 3,
+			},
+			[35134] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[11534] = {
+			[22036] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 26321,
-			}, -- [1]
-		},
-		[10946] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20508,
-			}, -- [1]
-		},
-		[20799] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 51866,
-			}, -- [1]
+			},
 		},
 	},
 	["Tabard"] = {
 		[8187] = {
-			{
-				["classes"] = 256,
+			[14349] = {
+				["classes"] = 272,
 				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14349,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[24503] = {
-			{
-				["classes"] = 256,
+			[66829] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 66829,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[14542] = {
-			{
-				["classes"] = 256,
+			[31795] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 31795,
-			}, -- [1]
+			},
+		},
+		[14543] = {
+			[31796] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[19435] = {
-			{
-				["classes"] = 256,
+			[46577] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46577,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[18931] = {
-			{
-				["classes"] = 256,
+			[44454] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 44454,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19441] = {
-			{
-				["classes"] = 256,
+			[46587] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46587,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19443] = {
-			{
-				["classes"] = 256,
+			[46589] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46589,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[19445] = {
-			{
-				["classes"] = 256,
+			[46591] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46591,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[1954] = {
-			{
-				["classes"] = 256,
+			[2228] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 2228,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[11505] = {
+			[21996] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[11507] = {
+			[21998] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[11508] = {
+			[21999] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[11509] = {
+			[22000] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[11510] = {
+			[22001] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[11511] = {
-			{
-				["classes"] = 256,
+			[22002] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22002,
-			}, -- [1]
+			},
 		},
 		[11512] = {
-			{
-				["classes"] = 256,
+			[22003] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22003,
-			}, -- [1]
+			},
 		},
 		[11513] = {
-			{
-				["classes"] = 256,
+			[22004] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22004,
-			}, -- [1]
+			},
 		},
 		[11514] = {
-			{
-				["classes"] = 256,
+			[22005] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22005,
-			}, -- [1]
+			},
 		},
 		[11515] = {
-			{
-				["classes"] = 256,
+			[22006] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22006,
-			}, -- [1]
+			},
 		},
 		[5536] = {
-			{
-				["classes"] = 256,
+			[7975] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 7975,
-			}, -- [1]
+			},
+		},
+		[12025] = {
+			[23986] = {
+				["classes"] = 16,
+				["sourceType"] = 5,
+				["faction"] = 1,
+			},
 		},
 		[12026] = {
-			{
-				["classes"] = 256,
+			[23987] = {
+				["classes"] = 272,
 				["sourceType"] = 5,
 				["faction"] = 2,
-				["sourceID"] = 23987,
-			}, -- [1]
+			},
 		},
 		[15457] = {
-			{
-				["classes"] = 256,
+			[35447] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 35447,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[15458] = {
-			{
-				["classes"] = 256,
+			[35448] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 35448,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[4396] = {
+			[5983] = {
+				["classes"] = 16,
+				["faction"] = 1,
+			},
+		},
+		[34277] = {
+			[86060] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[4397] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
+			[5984] = {
+				["classes"] = 272,
 				["faction"] = 2,
-				["sourceID"] = 5984,
-			}, -- [1]
+			},
+		},
+		[4398] = {
+			[5985] = {
+				["classes"] = 16,
+				["faction"] = 1,
+			},
 		},
 		[4399] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
+			[5986] = {
+				["classes"] = 272,
 				["faction"] = 2,
-				["sourceID"] = 5986,
-			}, -- [1]
+			},
 		},
 		[5355] = {
-			{
-				["classes"] = 256,
+			[7548] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 7548,
-			}, -- [1]
+			},
 		},
 		[18118] = {
-			{
-				["classes"] = 256,
+			[42327] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 42327,
-			}, -- [1]
+			},
+		},
+		[5356] = {
+			[7549] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[20535] = {
+			[50146] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
 		},
 		[12810] = {
-			{
-				["classes"] = 256,
+			[25723] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 25723,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[8502] = {
-			{
-				["classes"] = 256,
+		[24795] = {
+			[66828] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 15131,
-			}, -- [1]
+				["faction"] = 1,
+			},
 		},
-		[8157] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 4,
-				["faction"] = 2,
-				["sourceID"] = 14348,
-			}, -- [1]
-		},
-		[27177] = {
-			{
-				["classes"] = 256,
+		[24676] = {
+			[64423] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 73486,
-			}, -- [1]
+				["faction"] = 1,
+			},
 		},
-		[11050] = {
-			{
-				["classes"] = 256,
+		[14688] = {
+			[32491] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20871,
-			}, -- [1]
+				["faction"] = 1,
+			},
 		},
-		[11051] = {
-			{
-				["classes"] = 256,
+		[5537] = {
+			[7976] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20872,
-			}, -- [1]
-		},
-		[11052] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20873,
-			}, -- [1]
-		},
-		[11053] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 20874,
-			}, -- [1]
-		},
-		[19440] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46586,
-			}, -- [1]
-		},
-		[19442] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46588,
-			}, -- [1]
-		},
-		[19444] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46590,
-			}, -- [1]
-		},
-		[11085] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 5,
-				["faction"] = 2,
-				["sourceID"] = 20961,
-			}, -- [1]
-		},
-		[8276] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14611,
-			}, -- [1]
-		},
-		[8275] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14610,
-			}, -- [1]
-		},
-		[11708] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 22473,
-			}, -- [1]
-		},
-		[8269] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14604,
-			}, -- [1]
-		},
-		[19369] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 46296,
-			}, -- [1]
-		},
-		[8271] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14606,
-			}, -- [1]
-		},
-		[8272] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14607,
-			}, -- [1]
-		},
-		[8273] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14608,
-			}, -- [1]
-		},
-		[32422] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 81609,
-			}, -- [1]
-		},
-		[32424] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 81608,
-			}, -- [1]
-		},
-		[32426] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 81708,
-			}, -- [1]
-		},
-		[32428] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 81606,
-			}, -- [1]
-		},
-		[9689] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 0,
-				["faction"] = 2,
-				["sourceID"] = 17489,
-			}, -- [1]
-		},
-		[8406] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14975,
-			}, -- [1]
-		},
-		[9184] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 16406,
-			}, -- [1]
-		},
-		[9181] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 16402,
-			}, -- [1]
-		},
-		[14896] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 33276,
-			}, -- [1]
+				["faction"] = 1,
+			},
 		},
 		[24698] = {
-			{
-				["classes"] = 256,
+			[66831] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 66831,
-			}, -- [1]
-		},
-		[20575] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 51417,
-			}, -- [1]
-		},
-		[24697] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 66827,
-			}, -- [1]
-		},
-		[5445] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 7718,
-			}, -- [1]
-		},
-		[8287] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14630,
-			}, -- [1]
-		},
-		[11082] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 5,
-				["faction"] = 2,
-				["sourceID"] = 20953,
-			}, -- [1]
+			},
 		},
 		[14689] = {
-			{
-				["classes"] = 256,
+			[32492] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 32492,
-			}, -- [1]
+			},
 		},
-		[24675] = {
-			{
-				["classes"] = 256,
+		[24677] = {
+			[66832] = {
+				["classes"] = 16,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 64424,
-			}, -- [1]
+				["faction"] = 1,
+			},
 		},
-		[6273] = {
-			{
-				["classes"] = 256,
+		[8502] = {
+			[15131] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 9409,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[11086] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 5,
-				["faction"] = 2,
-				["sourceID"] = 20962,
-			}, -- [1]
+		[8157] = {
+			[14348] = {
+				["classes"] = 272,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
 		},
-		[14897] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 33277,
-			}, -- [1]
-		},
-		[14898] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 33278,
-			}, -- [1]
-		},
-		[14899] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 33279,
-			}, -- [1]
-		},
-		[9185] = {
-			{
-				["classes"] = 256,
+		[24550] = {
+			[66538] = {
+				["classes"] = 16,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 16407,
-			}, -- [1]
+				["faction"] = 1,
+			},
 		},
-		[14901] = {
-			{
-				["classes"] = 256,
+		[20575] = {
+			[51417] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 33281,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
-		[24055] = {
-			{
-				["classes"] = 256,
+		[11703] = {
+			[22465] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[8275] = {
+			[14610] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[8276] = {
+			[14611] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[27177] = {
+			[73486] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[11050] = {
+			[20871] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[11051] = {
+			[20872] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[11052] = {
+			[20873] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[11053] = {
+			[20874] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[19440] = {
+			[46586] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[19442] = {
+			[46588] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[19444] = {
+			[46590] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[18117] = {
+			[42326] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[14900] = {
+			[33280] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[9184] = {
+			[16406] = {
+				["classes"] = 272,
 				["sourceType"] = 2,
-				["faction"] = 2,
-				["sourceID"] = 66537,
-			}, -- [1]
-		},
-		[24813] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 66830,
-			}, -- [1]
-		},
-		[20536] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 50147,
-			}, -- [1]
-		},
-		[27178] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 73485,
-			}, -- [1]
-		},
-		[31730] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 80214,
-			}, -- [1]
-		},
-		[32427] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 81604,
-			}, -- [1]
-		},
-		[32423] = {
-			{
-				["classes"] = 256,
-				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 81605,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[8277] = {
-			{
-				["classes"] = 256,
+			[14612] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[8406] = {
+			[14975] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[11086] = {
+			[20962] = {
+				["classes"] = 272,
+				["sourceType"] = 5,
+				["faction"] = 3,
+			},
+		},
+		[8269] = {
+			[14604] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 14612,
-			}, -- [1]
+			},
+		},
+		[8270] = {
+			[14605] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[8271] = {
+			[14606] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[8272] = {
+			[14607] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[8273] = {
+			[14608] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[24675] = {
+			[64424] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[32424] = {
+			[81608] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[32426] = {
+			[81708] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[32428] = {
+			[81606] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[19349] = {
+			[46212] = {
+				["classes"] = 16,
+				["faction"] = 1,
+			},
+		},
+		[11708] = {
+			[22473] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[6273] = {
+			[9409] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[24055] = {
+			[66537] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+		},
+		[5446] = {
+			[7719] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[11082] = {
+			[20953] = {
+				["classes"] = 272,
+				["sourceType"] = 5,
+				["faction"] = 3,
+			},
+		},
+		[24813] = {
+			[66830] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[24697] = {
+			[66827] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[5445] = {
+			[7718] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[8287] = {
+			[14630] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[19369] = {
+			[46296] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[6272] = {
+			[9408] = {
+				["classes"] = 16,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[6336] = {
+			[9505] = {
+				["classes"] = 16,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[11085] = {
+			[20961] = {
+				["classes"] = 272,
+				["sourceType"] = 5,
+				["faction"] = 3,
+			},
+		},
+		[9689] = {
+			[17489] = {
+				["classes"] = 272,
+				["faction"] = 3,
+			},
+		},
+		[14897] = {
+			[33277] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[14898] = {
+			[33278] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[14899] = {
+			[33279] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[9185] = {
+			[16407] = {
+				["classes"] = 272,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[14901] = {
+			[33281] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
 		},
 		[10435] = {
-			{
-				["classes"] = 256,
+			[19567] = {
+				["classes"] = 272,
 				["sourceType"] = 5,
-				["faction"] = 2,
-				["sourceID"] = 19567,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 		[11704] = {
-			{
-				["classes"] = 256,
+			[22466] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
 				["faction"] = 2,
-				["sourceID"] = 22466,
-			}, -- [1]
+			},
+		},
+		[20536] = {
+			[50147] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[14896] = {
+			[33276] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[8274] = {
-			{
-				["classes"] = 256,
+			[14609] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 14609,
-			}, -- [1]
+				["faction"] = 3,
+			},
+		},
+		[9181] = {
+			[16402] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[32422] = {
+			[81609] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[27178] = {
+			[73485] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[31730] = {
+			[80214] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[32427] = {
+			[81604] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[32423] = {
+			[81605] = {
+				["classes"] = 272,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
 		},
 		[32425] = {
-			{
-				["classes"] = 256,
+			[81607] = {
+				["classes"] = 272,
 				["sourceType"] = 3,
-				["faction"] = 2,
-				["sourceID"] = 81607,
-			}, -- [1]
+				["faction"] = 3,
+			},
 		},
 	},
 }

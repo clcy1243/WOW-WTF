@@ -1,0 +1,60 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0209,
+	["LastPlayerFullName"] = "霸拿拿-巨龙之吼",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["Artifacts"] = {
+		[128868] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 46,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Shadow",
+				}, -- [2]
+				{
+					["ItemLevel"] = 36,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "圣光之怒",
+		},
+		[128827] = {
+			["Relics"] = {
+				{
+					["Type"] = "Shadow",
+				}, -- [1]
+				{
+					["ItemLevel"] = 52,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["Type"] = "Shadow",
+				}, -- [3]
+			},
+			["Name"] = "萨拉塔斯，黑暗帝国之刃",
+		},
+		[128825] = {
+			["Relics"] = {
+				{
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "图雷，纳鲁道标",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PRIEST",
+	["LastAdded"] = 1,
+}

@@ -44,8 +44,8 @@ MasterPlanAG = {
 	},
 	["主宰之剑"] = {
 		["龙轻雪"] = {
-			["class"] = "DRUID",
 			["lastCacheTime"] = 1483728307,
+			["class"] = "DRUID",
 			["curRes"] = 1813,
 			["faction"] = "Alliance",
 		},

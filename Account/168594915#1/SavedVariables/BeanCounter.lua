@@ -33,12 +33,12 @@ BeanCounterDBSettings = {
 	["configator.left"] = 560.000061035156,
 	["巨龙之吼"] = {
 		["疯子的迷恋"] = {
-			["tasks.sortArray"] = 1492997803,
+			["tasks.sortArray"] = 1498626553,
 			["version"] = 3.04,
 			["faction"] = "Horde",
-			["tasks.compactDB"] = 1492997803,
-			["wealth"] = 231603374,
-			["tasks.prunePostedDB"] = 1492997803,
+			["tasks.compactDB"] = 1498626553,
+			["wealth"] = 701562913,
+			["tasks.prunePostedDB"] = 1498626553,
 			["mailbox"] = {
 			},
 		},
