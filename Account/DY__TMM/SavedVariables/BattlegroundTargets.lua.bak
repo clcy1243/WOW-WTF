@@ -1,11 +1,8 @@
 
 BattlegroundTargets_Options = {
-	["version"] = 27,
 	["FramePosition"] = {
 	},
-	["MinimapButton"] = false,
-	["MinimapButtonPos"] = -90,
-	["TransliterationToggle"] = false,
+	["version"] = 27,
 	["Friend"] = {
 		["ButtonRangeDisplay"] = {
 			[40] = 7,
@@ -132,10 +129,10 @@ BattlegroundTargets_Options = {
 			[10] = 12,
 			[15] = 12,
 		},
-		["ButtonFocusScale"] = {
-			[40] = 1,
-			[10] = 1,
-			[15] = 1,
+		["ButtonWidth"] = {
+			[40] = 100,
+			[10] = 175,
+			[15] = 175,
 		},
 		["ButtonScale"] = {
 			[40] = 1,
@@ -157,15 +154,15 @@ BattlegroundTargets_Options = {
 			[10] = true,
 			[15] = true,
 		},
-		["ButtonTargetScale"] = {
-			[40] = 1,
-			[10] = 1.5,
-			[15] = 1.5,
+		["ButtonFontNumberSize"] = {
+			[40] = 10,
+			[10] = 10,
+			[15] = 10,
 		},
-		["ButtonFocusToggle"] = {
-			[40] = false,
-			[10] = false,
-			[15] = false,
+		["SummaryPos"] = {
+			[40] = 1,
+			[10] = 1,
+			[15] = 1,
 		},
 		["ButtonPvPTrinketToggle"] = {
 			[40] = false,
@@ -177,47 +174,50 @@ BattlegroundTargets_Options = {
 			[10] = 1,
 			[15] = 1,
 		},
-		["ButtonFocusPosition"] = {
-			[40] = 55,
-			[10] = 70,
-			[15] = 70,
+		["ButtonRealmToggle"] = {
+			[40] = false,
+			[10] = true,
+			[15] = true,
 		},
 		["ButtonAssistPosition"] = {
 			[40] = 70,
 			[10] = 100,
 			[15] = 100,
 		},
-		["ButtonRealmToggle"] = {
-			[40] = false,
-			[10] = true,
-			[15] = true,
+		["ButtonFocusPosition"] = {
+			[40] = 55,
+			[10] = 70,
+			[15] = 70,
 		},
 		["ButtonFlagScale"] = {
 			[40] = 1,
 			[10] = 1.2,
 			[15] = 1.2,
 		},
-		["SummaryPos"] = {
-			[40] = 1,
-			[10] = 1,
-			[15] = 1,
+		["ButtonFocusToggle"] = {
+			[40] = false,
+			[10] = false,
+			[15] = false,
 		},
-		["ButtonFontNumberSize"] = {
-			[40] = 10,
-			[10] = 10,
-			[15] = 10,
+		["ButtonTargetScale"] = {
+			[40] = 1,
+			[10] = 1.5,
+			[15] = 1.5,
 		},
 		["ButtonFontNameStyle"] = {
 			[40] = 10,
 			[10] = 10,
 			[15] = 10,
 		},
-		["ButtonWidth"] = {
-			[40] = 100,
-			[10] = 175,
-			[15] = 175,
+		["ButtonFocusScale"] = {
+			[40] = 1,
+			[10] = 1,
+			[15] = 1,
 		},
 	},
+	["MinimapButtonPos"] = -90,
+	["TransliterationToggle"] = false,
+	["MinimapButton"] = false,
 	["Enemy"] = {
 		["ButtonRangeDisplay"] = {
 			[40] = 7,
@@ -344,10 +344,10 @@ BattlegroundTargets_Options = {
 			[10] = 12,
 			[15] = 12,
 		},
-		["ButtonFocusScale"] = {
-			[40] = 1,
-			[10] = 1,
-			[15] = 1,
+		["ButtonWidth"] = {
+			[40] = 100,
+			[10] = 175,
+			[15] = 175,
 		},
 		["ButtonScale"] = {
 			[40] = 1,
@@ -369,15 +369,15 @@ BattlegroundTargets_Options = {
 			[10] = true,
 			[15] = true,
 		},
-		["ButtonTargetScale"] = {
-			[40] = 1,
-			[10] = 1.5,
-			[15] = 1.5,
+		["ButtonFontNumberSize"] = {
+			[40] = 10,
+			[10] = 10,
+			[15] = 10,
 		},
-		["ButtonFocusToggle"] = {
-			[40] = false,
-			[10] = false,
-			[15] = false,
+		["SummaryPos"] = {
+			[40] = 1,
+			[10] = 1,
+			[15] = 1,
 		},
 		["ButtonPvPTrinketToggle"] = {
 			[40] = false,
@@ -389,45 +389,45 @@ BattlegroundTargets_Options = {
 			[10] = 1,
 			[15] = 1,
 		},
-		["ButtonFocusPosition"] = {
-			[40] = 55,
-			[10] = 70,
-			[15] = 70,
+		["ButtonRealmToggle"] = {
+			[40] = false,
+			[10] = true,
+			[15] = true,
 		},
 		["ButtonAssistPosition"] = {
 			[40] = 70,
 			[10] = 100,
 			[15] = 100,
 		},
-		["ButtonRealmToggle"] = {
-			[40] = false,
-			[10] = true,
-			[15] = true,
+		["ButtonFocusPosition"] = {
+			[40] = 55,
+			[10] = 70,
+			[15] = 70,
 		},
 		["ButtonFlagScale"] = {
 			[40] = 1,
 			[10] = 1.2,
 			[15] = 1.2,
 		},
-		["SummaryPos"] = {
-			[40] = 1,
-			[10] = 1,
-			[15] = 1,
+		["ButtonFocusToggle"] = {
+			[40] = false,
+			[10] = false,
+			[15] = false,
 		},
-		["ButtonFontNumberSize"] = {
-			[40] = 10,
-			[10] = 10,
-			[15] = 10,
+		["ButtonTargetScale"] = {
+			[40] = 1,
+			[10] = 1.5,
+			[15] = 1.5,
 		},
 		["ButtonFontNameStyle"] = {
 			[40] = 10,
 			[10] = 10,
 			[15] = 10,
 		},
-		["ButtonWidth"] = {
-			[40] = 100,
-			[10] = 175,
-			[15] = 175,
+		["ButtonFocusScale"] = {
+			[40] = 1,
+			[10] = 1,
+			[15] = 1,
 		},
 	},
 }

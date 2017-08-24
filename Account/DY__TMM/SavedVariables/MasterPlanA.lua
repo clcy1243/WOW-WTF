@@ -2,44 +2,44 @@
 MasterPlanAG = {
 	["摩摩尔"] = {
 		["倾城丨小贼"] = {
-			["faction"] = "Horde",
 			["class"] = "ROGUE",
+			["faction"] = "Horde",
 		},
 	},
 	["太阳之井"] = {
 		["妹子你坑我"] = {
-			["faction"] = "Horde",
 			["class"] = "DEATHKNIGHT",
+			["faction"] = "Horde",
 		},
 		["募落葒顔"] = {
-			["class"] = "PRIEST",
+			["faction"] = "Horde",
 			["recruitTime"] = 1467979888,
 			["summary"] = {
 				["inProgress"] = {
-					[243] = 1475328026,
+					[363] = 1475335250,
 					[665] = 1475338830,
-					[300] = 1475326771,
 					[335] = 1475333981,
+					[243] = 1475328026,
 					[371] = 1475342432,
 					[267] = 1475338835,
 					[125] = 1475338836,
-					[363] = 1475335250,
+					[300] = 1475326771,
 				},
 			},
 			["curOil"] = 350,
-			["lastCacheTime"] = 1481564083,
+			["class"] = "PRIEST",
 			["curRes"] = 5978,
-			["faction"] = "Horde",
+			["lastCacheTime"] = 1481564083,
 		},
 	},
 	["瓦拉斯塔兹"] = {
 		["Etaasdfafa"] = {
-			["class"] = "PRIEST",
 			["faction"] = "Alliance",
+			["class"] = "PRIEST",
 		},
 		["国王走下神探"] = {
-			["faction"] = "Horde",
 			["class"] = "WARLOCK",
+			["faction"] = "Horde",
 		},
 	},
 	["IgnoreRewards"] = {

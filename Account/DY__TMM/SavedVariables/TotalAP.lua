@@ -19,21 +19,21 @@ TotalArtifactPowerCache = {
 	["募落葒顔 - 太阳之井"] = {
 		{
 			["thisLevelUnspentAP"] = 524805107,
-			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 54,
 			["isIgnored"] = false,
+			["numTraitsPurchased"] = 54,
+			["artifactTier"] = 2,
 		}, -- [1]
 		{
 			["thisLevelUnspentAP"] = 9050415,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 52,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 52,
+			["isIgnored"] = false,
 		}, -- [2]
 		{
 			["thisLevelUnspentAP"] = 149578175,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 52,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 52,
+			["isIgnored"] = false,
 		}, -- [3]
 		["bankCache"] = {
 			["isIgnored"] = false,

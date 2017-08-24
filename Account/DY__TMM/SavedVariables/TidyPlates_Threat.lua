@@ -2,31 +2,31 @@
 TidyPlatesThreatDB = {
 	["char"] = {
 		["国王走下神探 - 瓦拉斯塔兹"] = {
-			["welcome"] = true,
 			["specInfo"] = {
 				["id"] = 265,
 				["role"] = "DAMAGER",
 				["name"] = "痛苦",
 				["index"] = 1,
 			},
+			["welcome"] = true,
 		},
 		["Etaasdfafa - 瓦拉斯塔兹"] = {
-			["welcome"] = true,
 			["specInfo"] = {
 				["id"] = 256,
 				["role"] = "HEALER",
 				["name"] = "戒律",
 				["index"] = 1,
 			},
+			["welcome"] = true,
 		},
 		["募落葒顔 - 太阳之井"] = {
-			["welcome"] = true,
 			["specInfo"] = {
 				["id"] = 257,
 				["role"] = "HEALER",
 				["name"] = "神圣",
 				["index"] = 2,
 			},
+			["welcome"] = true,
 		},
 	},
 	["profileKeys"] = {

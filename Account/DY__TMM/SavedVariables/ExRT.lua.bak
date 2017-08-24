@@ -12,128 +12,14 @@ VExRT = {
 	["Arrow"] = {
 	},
 	["Encounter"] = {
-		["names"] = {
-			[1920] = "时空领主德亚",
-			[1936] = "高阶术士奈瑟库斯",
-			[1825] = "科蒂拉克斯",
-			[1841] = "乌索克",
-			[1873] = "伊格诺斯，腐蚀之心",
-			[2032] = "格罗斯",
-			[2048] = "恶魔审判庭",
-			[655] = "歌剧院",
-			[1826] = "纳尔提拉",
-			[1842] = "克洛苏斯",
-			[2001] = "科瑞克",
-			[2050] = "月之姐妹",
-			[1938] = "酋长卡加斯·刃拳",
-			[1827] = "伊凡尔",
-			[2051] = "基尔加丹",
-			[2052] = "戒卫侍女",
-			[656] = "馆长",
-			[1828] = "萨卡尔将军",
-			[2053] = "多玛塔克斯",
-			[1876] = "艾乐瑞瑟·雷弗拉尔",
-			[1968] = "传令官沃拉兹",
-			[2054] = "绝望的聚合体",
-			[1813] = "瑟芬崔斯克",
-			[1829] = "顾问凡多斯",
-			[2000] = "天灾领主泰兰努斯",
-			[2055] = "阿格洛诺克斯",
-			[1877] = "塞纳留斯",
-			[1999] = "熔炉之主加弗斯特",
-			[2036] = "哈亚坦",
-			[1983] = "达卡莱巨像",
-			[1941] = "巨钳鲁克玛尔",
-			[1810] = "督军帕杰什",
-			[1824] = "海拉",
-			[2057] = "轻蔑的萨什比特",
-			[1935] = "血卫士伯鲁恩",
-			[1792] = "纳拉萨斯",
-			[2037] = "主母萨丝琳",
-			[1939] = "背叛者门努",
-			[1815] = "提拉宋·萨瑟利尔",
-			[729] = "基尔加丹",
-			[1940] = "夸格米拉",
-			[1863] = "占星师艾塔乌斯",
-			[1814] = "艾萨拉之怒",
-			[658] = "埃兰之影",
-			[2038] = "堕落的化身",
-			[1966] = "塔达拉姆王子",
-			[1816] = "阿什高姆",
-			[1832] = "融合之魂",
-			[725] = "布鲁塔卢斯",
-			[1864] = "萨维斯",
-			[1811] = "积怨夫人",
-			[1817] = "格雷泽",
-			[2039] = "孟菲斯托斯",
-			[1420] = "织焰者孔格勒",
-			[1690] = "爆裂熔炉",
-			[1833] = "伊莉萨娜·拉文凯斯",
-			[1849] = "斯考匹隆",
-			[1865] = "时空畸体",
-			[1808] = "神王斯科瓦尔德",
-			[1809] = "奥丁",
-			[659] = "虚空幽龙",
-			[1421] = "武器大师哈兰",
-			[1818] = "科达娜·邪歌",
-			[1834] = "可恨的斯麦斯帕",
-			[1850] = "审判官托蒙托鲁姆",
-			[1866] = "古尔丹",
-			[1981] = "迦尔达拉",
-			[1838] = "德萨隆",
-			[661] = "玛克扎尔王子",
-			[1422] = "驯犬者布兰恩",
-			[653] = "莫罗斯",
-			[1835] = "库塔洛斯·拉文凯斯",
-			[1978] = "斯拉德兰",
-			[1867] = "崔利艾克斯",
-			[660] = "国际象棋",
-			[1899] = "节点亲王沙法尔",
-			[2028] = "伊米隆国王",
-			[652] = "猎手阿图门",
-			[1185] = "管理者鹿盔",
-			[1836] = "大德鲁伊格兰达里斯",
-			[1852] = "阿努贝斯特",
-			[1868] = "巡逻队长加多",
-			[1812] = "深须国王",
-			[1900] = "潘德莫努斯",
-			[657] = "特雷斯坦·邪蹄",
-			[1805] = "海姆达尔",
-			[724] = "卡雷苟斯",
-			[1837] = "橡树之心",
-			[1980] = "莫拉比",
-			[1869] = "塔丽克萨·火冠",
-			[1937] = "战争使者沃姆罗格",
-			[1901] = "塔瓦洛克",
-			[1790] = "洛克莫拉",
-			[1806] = "赫娅",
-			[1822] = "堕落君王伊米隆",
-			[1203] = "拉格纳罗斯",
-			[1854] = "梦魇之龙",
-			[1870] = "顾问麦兰杜斯",
-			[1921] = "坦普卢斯",
-			[2029] = "残忍的斯卡迪",
-			[1791] = "乌拉罗格·塑山",
-			[1807] = "芬雷尔",
-			[1823] = "哈布隆",
-			[1839] = "萨维斯之影",
-			[1855] = "鲜血公主萨安娜",
-			[1871] = "魔剑士奥鲁瑞尔",
-			[727] = "艾瑞达双子",
-			[728] = "穆鲁",
-			[1919] = "埃欧努斯",
-			[654] = "贞节圣女",
-			[662] = "夜之魇",
-			[1862] = "提克迪奥斯",
-			[1856] = "邪能领主贝图格",
-			[1872] = "大魔导师艾利桑德",
-			[726] = "菲米丝",
-			[1793] = "地底之王达古尔",
-		},
 		["list"] = {
 			["倾城丨小贼"] = {
 			},
 			["Etaasdfafa"] = {
+			},
+			["国王走下神探"] = {
+			},
+			["妹子你坑我"] = {
 			},
 			["募落葒顔"] = {
 				"^1805^1^1500101208^64^1^5^739.29^", -- [1]
@@ -494,10 +380,124 @@ VExRT = {
 				"^1829^8^1503568942^190^0^5^924.69^传奇疯神恋雅-巨龙之吼", -- [356]
 				"^1829^8^1503569246^255^1^5^924.69^橘丶子-巨龙之吼", -- [357]
 			},
-			["妹子你坑我"] = {
-			},
-			["国王走下神探"] = {
-			},
+		},
+		["names"] = {
+			[1920] = "时空领主德亚",
+			[1936] = "高阶术士奈瑟库斯",
+			[1825] = "科蒂拉克斯",
+			[1841] = "乌索克",
+			[1873] = "伊格诺斯，腐蚀之心",
+			[2032] = "格罗斯",
+			[2048] = "恶魔审判庭",
+			[655] = "歌剧院",
+			[1826] = "纳尔提拉",
+			[1842] = "克洛苏斯",
+			[2001] = "科瑞克",
+			[2050] = "月之姐妹",
+			[1938] = "酋长卡加斯·刃拳",
+			[1827] = "伊凡尔",
+			[2051] = "基尔加丹",
+			[2052] = "戒卫侍女",
+			[656] = "馆长",
+			[1828] = "萨卡尔将军",
+			[2053] = "多玛塔克斯",
+			[1876] = "艾乐瑞瑟·雷弗拉尔",
+			[1793] = "地底之王达古尔",
+			[2054] = "绝望的聚合体",
+			[1813] = "瑟芬崔斯克",
+			[1829] = "顾问凡多斯",
+			[726] = "菲米丝",
+			[2055] = "阿格洛诺克斯",
+			[1877] = "塞纳留斯",
+			[1872] = "大魔导师艾利桑德",
+			[2036] = "哈亚坦",
+			[1856] = "邪能领主贝图格",
+			[1941] = "巨钳鲁克玛尔",
+			[1862] = "提克迪奥斯",
+			[662] = "夜之魇",
+			[2057] = "轻蔑的萨什比特",
+			[654] = "贞节圣女",
+			[1919] = "埃欧努斯",
+			[2037] = "主母萨丝琳",
+			[728] = "穆鲁",
+			[1815] = "提拉宋·萨瑟利尔",
+			[729] = "基尔加丹",
+			[727] = "艾瑞达双子",
+			[1863] = "占星师艾塔乌斯",
+			[1814] = "艾萨拉之怒",
+			[1816] = "阿什高姆",
+			[2038] = "堕落的化身",
+			[1839] = "萨维斯之影",
+			[658] = "埃兰之影",
+			[1832] = "融合之魂",
+			[1823] = "哈布隆",
+			[1864] = "萨维斯",
+			[1811] = "积怨夫人",
+			[1690] = "爆裂熔炉",
+			[2039] = "孟菲斯托斯",
+			[1420] = "织焰者孔格勒",
+			[1817] = "格雷泽",
+			[1833] = "伊莉萨娜·拉文凯斯",
+			[1849] = "斯考匹隆",
+			[1865] = "时空畸体",
+			[1808] = "神王斯科瓦尔德",
+			[1921] = "坦普卢斯",
+			[1818] = "科达娜·邪歌",
+			[1421] = "武器大师哈兰",
+			[659] = "虚空幽龙",
+			[1834] = "可恨的斯麦斯帕",
+			[1850] = "审判官托蒙托鲁姆",
+			[1866] = "古尔丹",
+			[1854] = "梦魇之龙",
+			[1203] = "拉格纳罗斯",
+			[1822] = "堕落君王伊米隆",
+			[1422] = "驯犬者布兰恩",
+			[1806] = "赫娅",
+			[1835] = "库塔洛斯·拉文凯斯",
+			[1978] = "斯拉德兰",
+			[1867] = "崔利艾克斯",
+			[1185] = "管理者鹿盔",
+			[1899] = "节点亲王沙法尔",
+			[1901] = "塔瓦洛克",
+			[652] = "猎手阿图门",
+			[660] = "国际象棋",
+			[1836] = "大德鲁伊格兰达里斯",
+			[1852] = "阿努贝斯特",
+			[1868] = "巡逻队长加多",
+			[1937] = "战争使者沃姆罗格",
+			[1900] = "潘德莫努斯",
+			[657] = "特雷斯坦·邪蹄",
+			[1805] = "海姆达尔",
+			[724] = "卡雷苟斯",
+			[1837] = "橡树之心",
+			[1980] = "莫拉比",
+			[1869] = "塔丽克萨·火冠",
+			[1812] = "深须国王",
+			[2028] = "伊米隆国王",
+			[1790] = "洛克莫拉",
+			[653] = "莫罗斯",
+			[661] = "玛克扎尔王子",
+			[1838] = "德萨隆",
+			[1981] = "迦尔达拉",
+			[1870] = "顾问麦兰杜斯",
+			[1809] = "奥丁",
+			[2029] = "残忍的斯卡迪",
+			[1791] = "乌拉罗格·塑山",
+			[1807] = "芬雷尔",
+			[725] = "布鲁塔卢斯",
+			[1966] = "塔达拉姆王子",
+			[1855] = "鲜血公主萨安娜",
+			[1871] = "魔剑士奥鲁瑞尔",
+			[1940] = "夸格米拉",
+			[1939] = "背叛者门努",
+			[1792] = "纳拉萨斯",
+			[1935] = "血卫士伯鲁恩",
+			[1824] = "海拉",
+			[1810] = "督军帕杰什",
+			[1983] = "达卡莱巨像",
+			[1999] = "熔炉之主加弗斯特",
+			[2000] = "天灾领主泰兰努斯",
+			[1968] = "传令官沃拉兹",
 		},
 	},
 	["Marks"] = {
@@ -899,11 +899,11 @@ VExRT = {
 		["default_userDuration"] = {
 		},
 		["gnGUIDs"] = {
-			["传奇疯神恋雅-巨龙之吼"] = 102,
 			["橘丶子-巨龙之吼"] = 265,
-			["募落葒顔"] = 256,
-			["快活的地沟油-巨龙之吼"] = 253,
 			["伊莉雅乂星塵-巨龙之吼"] = 581,
+			["传奇疯神恋雅-巨龙之吼"] = 102,
+			["快活的地沟油-巨龙之吼"] = 253,
+			["募落葒顔"] = 257,
 		},
 		["NoRaid"] = true,
 		["CDECol"] = {
@@ -911,7 +911,7 @@ VExRT = {
 		["default_userCD"] = {
 		},
 		["Top"] = 1072.5,
-		["Save"] = {
+		["userDB"] = {
 		},
 		["Left"] = 20.9998455047607,
 		["lock"] = true,
@@ -923,13 +923,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [1]
 			{
 				["enabled"] = true,
@@ -938,13 +938,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [2]
 			{
 				["enabled"] = true,
@@ -953,13 +953,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [3]
 			{
 				["frameGeneral"] = true,
@@ -967,13 +967,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [4]
 			{
 				["frameGeneral"] = true,
@@ -981,13 +981,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [5]
 			{
 				["frameGeneral"] = true,
@@ -995,13 +995,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [6]
 			{
 				["frameGeneral"] = true,
@@ -1009,13 +1009,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [7]
 			{
 				["frameGeneral"] = true,
@@ -1023,13 +1023,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [8]
 			{
 				["frameGeneral"] = true,
@@ -1037,13 +1037,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [9]
 			{
 				["frameGeneral"] = true,
@@ -1051,13 +1051,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [10]
 			{
 				["fontSize"] = 12,
@@ -1069,17 +1069,17 @@ VExRT = {
 				["frameLines"] = 15,
 				["textureAlphaTimeLine"] = 0.8,
 				["textureBorderSize"] = 0,
-				["textureAnimation"] = true,
-				["frameBlackBack"] = 0,
-				["frameScale"] = 100,
-				["blacklistGeneral"] = true,
-				["methodsAlphaNotInRangeNum"] = 90,
-				["textureSmoothAnimationDuration"] = 50,
-				["frameAlpha"] = 100,
-				["frameColumns"] = 1,
-				["iconSize"] = 16,
-				["textureAlphaBackground"] = 0.3,
 				["frameWidth"] = 130,
+				["frameBlackBack"] = 0,
+				["textureAlphaBackground"] = 0.3,
+				["blacklistGeneral"] = true,
+				["iconSize"] = 16,
+				["textureSmoothAnimationDuration"] = 50,
+				["frameColumns"] = 1,
+				["frameAlpha"] = 100,
+				["methodsAlphaNotInRangeNum"] = 90,
+				["frameScale"] = 100,
+				["textureAnimation"] = true,
 				["textureAlphaCooldown"] = 1,
 			}, -- [11]
 		},
@@ -1096,19 +1096,19 @@ VExRT = {
 			[97462] = true,
 			[33206] = true,
 			[116849] = true,
-			[204150] = true,
+			[47788] = true,
 			[6940] = true,
 			[31842] = true,
 			[15286] = true,
 			[102342] = true,
 			[207399] = true,
-			[62618] = true,
 			[196718] = true,
+			[62618] = true,
 			[108280] = true,
 			[20484] = true,
-			[47788] = true,
+			[204150] = true,
 		},
-		["userDB"] = {
+		["Save"] = {
 		},
 	},
 	["Attendance"] = {
@@ -1138,25 +1138,25 @@ VExRT = {
 				"L红梅丶-伊利丹", -- [20]
 				"E募落葒顔", -- [21]
 				[36] = "J龙听雨-巨龙之吼",
-				["eN"] = "格罗斯",
-				["k"] = true,
-				["t"] = 1500297210,
-				["eI"] = 2032,
-				["d"] = 14,
-				["g"] = 21,
 				["c"] = "募落葒顔-太阳之井",
+				["k"] = true,
+				["d"] = 14,
+				["eN"] = "格罗斯",
+				["t"] = 1500297210,
+				["g"] = 21,
+				["eI"] = 2032,
 			}, -- [1]
 			{
 				"K我爱小德-天空之墙", -- [1]
 				"B圣光的拯救-天空之墙", -- [2]
 				"E募落葒顔", -- [3]
-				["eN"] = "爆裂熔炉",
-				["c"] = "募落葒顔-太阳之井",
-				["t"] = 1500482234,
-				["eI"] = 1690,
-				["d"] = 16,
-				["g"] = 20,
 				["k"] = true,
+				["c"] = "募落葒顔-太阳之井",
+				["d"] = 16,
+				["eN"] = "爆裂熔炉",
+				["t"] = 1500482234,
+				["g"] = 20,
+				["eI"] = 1690,
 			}, -- [2]
 			{
 				"C快活的地沟油-巨龙之吼", -- [1]
@@ -1175,13 +1175,13 @@ VExRT = {
 				"F灬夜小蛇-巨龙之吼", -- [14]
 				"B丨三千院凪丨-巨龙之吼", -- [15]
 				"A鹹丨鱼-巨龙之吼", -- [16]
-				["k"] = true,
-				["c"] = "募落葒顔-太阳之井",
-				["d"] = 14,
-				["eI"] = 2032,
-				["t"] = 1500553402,
-				["g"] = 16,
 				["eN"] = "格罗斯",
+				["k"] = true,
+				["t"] = 1500553402,
+				["eI"] = 2032,
+				["d"] = 14,
+				["g"] = 16,
+				["c"] = "募落葒顔-太阳之井",
 			}, -- [3]
 			{
 				"E募落葒顔", -- [1]
@@ -1202,13 +1202,13 @@ VExRT = {
 				"G零度大奶-海克泰尔", -- [16]
 				"G惡魔术-梅尔加尼", -- [17]
 				"B安吉丽娜珠莉-摩摩尔", -- [18]
-				["k"] = true,
-				["c"] = "募落葒顔-太阳之井",
-				["d"] = 15,
-				["eI"] = 1872,
-				["t"] = 1500823235,
-				["g"] = 17,
 				["eN"] = "大魔导师艾利桑德",
+				["k"] = true,
+				["t"] = 1500823235,
+				["eI"] = 1872,
+				["d"] = 15,
+				["g"] = 17,
+				["c"] = "募落葒顔-太阳之井",
 			}, -- [4]
 			{
 				"D我吻过你的脸-死亡之翼", -- [1]
@@ -1227,13 +1227,13 @@ VExRT = {
 				"H法外之地-克尔苏加德", -- [14]
 				"C东坡肘子-奥妮克希亚", -- [15]
 				"E募落葒顔", -- [16]
-				["eN"] = "伊格诺斯，腐蚀之心",
-				["k"] = true,
-				["t"] = 1500889442,
-				["eI"] = 1873,
-				["d"] = 15,
-				["g"] = 15,
 				["c"] = "募落葒顔-太阳之井",
+				["k"] = true,
+				["d"] = 15,
+				["eN"] = "伊格诺斯，腐蚀之心",
+				["t"] = 1500889442,
+				["g"] = 15,
+				["eI"] = 1873,
 			}, -- [5]
 			{
 				"K我老婆出轨了-死亡之翼", -- [1]
@@ -1257,13 +1257,13 @@ VExRT = {
 				"C巫马绛-死亡之翼", -- [19]
 				"I兵长一米六-龙骨平原", -- [20]
 				"E募落葒顔", -- [21]
-				["c"] = "募落葒顔-太阳之井",
-				["k"] = true,
-				["d"] = 14,
-				["eI"] = 2036,
-				["t"] = 1501035030,
-				["g"] = 21,
 				["eN"] = "哈亚坦",
+				["c"] = "募落葒顔-太阳之井",
+				["t"] = 1501035030,
+				["eI"] = 2036,
+				["d"] = 14,
+				["g"] = 21,
+				["k"] = true,
 			}, -- [6]
 			{
 				"F只是没智商-能源舰", -- [1]
@@ -1284,13 +1284,13 @@ VExRT = {
 				"E募落葒顔", -- [16]
 				"J龙听雨-巨龙之吼", -- [17]
 				"A地板牛-能源舰", -- [18]
-				["eN"] = "占星师艾塔乌斯",
-				["c"] = "募落葒顔-太阳之井",
-				["t"] = 1501427581,
-				["eI"] = 1863,
-				["d"] = 15,
-				["g"] = 18,
 				["k"] = true,
+				["c"] = "募落葒顔-太阳之井",
+				["d"] = 15,
+				["eN"] = "占星师艾塔乌斯",
+				["t"] = 1501427581,
+				["g"] = 18,
+				["eI"] = 1863,
 			}, -- [7]
 			{
 				"B箐箐酱-死亡之翼", -- [1]
@@ -1317,13 +1317,13 @@ VExRT = {
 				"HTaseya-血色十字军", -- [22]
 				"L舔菿倪销魂-影之哀伤", -- [23]
 				"D可可香奈儿-凯恩血蹄", -- [24]
-				["eI"] = 1872,
-				["k"] = true,
-				["t"] = 1501495690,
-				["eN"] = "大魔导师艾利桑德",
-				["d"] = 15,
-				["g"] = 24,
 				["c"] = "募落葒顔-太阳之井",
+				["k"] = true,
+				["d"] = 15,
+				["eI"] = 1872,
+				["t"] = 1501495690,
+				["g"] = 24,
+				["eN"] = "大魔导师艾利桑德",
 			}, -- [8]
 			{
 				"K传奇疯神恋雅-巨龙之吼", -- [1]
@@ -1341,13 +1341,13 @@ VExRT = {
 				"L祖魔-巨龙之吼", -- [13]
 				"FCarzydk-阿拉希", -- [14]
 				"E传奇穆师小菲-巨龙之吼", -- [15]
-				["c"] = "募落葒顔-太阳之井",
-				["k"] = true,
-				["d"] = 15,
-				["eN"] = "格罗斯",
-				["t"] = 1501937570,
-				["g"] = 15,
 				["eI"] = 2032,
+				["c"] = "募落葒顔-太阳之井",
+				["t"] = 1501937570,
+				["eN"] = "格罗斯",
+				["d"] = 15,
+				["g"] = 15,
+				["k"] = true,
 			}, -- [9]
 			{
 				"F戴斯沃克-死亡之翼", -- [1]
@@ -1370,13 +1370,13 @@ VExRT = {
 				"E募落葒顔", -- [18]
 				"E诺诺唯唯-摩摩尔", -- [19]
 				"L零利丹怒风-通灵学院", -- [20]
-				["c"] = "募落葒顔-太阳之井",
-				["k"] = true,
-				["d"] = 14,
-				["eN"] = "恶魔审判庭",
-				["t"] = 1502522118,
-				["g"] = 19,
 				["eI"] = 2048,
+				["c"] = "募落葒顔-太阳之井",
+				["t"] = 1502522118,
+				["eN"] = "恶魔审判庭",
+				["d"] = 14,
+				["g"] = 19,
+				["k"] = true,
 			}, -- [10]
 			{
 				"F巡山丨小妖-奥妮克希亚", -- [1]
@@ -1399,13 +1399,13 @@ VExRT = {
 				"E诺诺唯唯-摩摩尔", -- [18]
 				"E煙花易冷-安其拉", -- [19]
 				"F戴斯沃克-死亡之翼", -- [20]
-				["eN"] = "基尔加丹",
-				["k"] = true,
-				["t"] = 1502526451,
-				["eI"] = 2051,
-				["d"] = 14,
-				["g"] = 20,
 				["c"] = "募落葒顔-太阳之井",
+				["k"] = true,
+				["d"] = 14,
+				["eN"] = "基尔加丹",
+				["t"] = 1502526451,
+				["g"] = 20,
+				["eI"] = 2051,
 			}, -- [11]
 			{
 				"F夜已夜-洛萨", -- [1]
@@ -1432,13 +1432,13 @@ VExRT = {
 				"G快插根基巴-洛萨", -- [22]
 				"ITendesry-索瑞森", -- [23]
 				"E募落葒顔", -- [24]
-				["c"] = "募落葒顔-太阳之井",
-				["k"] = true,
-				["d"] = 15,
-				["eI"] = 2032,
-				["t"] = 1502625637,
-				["g"] = 24,
 				["eN"] = "格罗斯",
+				["c"] = "募落葒顔-太阳之井",
+				["t"] = 1502625637,
+				["eI"] = 2032,
+				["d"] = 15,
+				["g"] = 24,
+				["k"] = true,
 			}, -- [12]
 		},
 		["alts"] = {
@@ -1448,100 +1448,11 @@ VExRT = {
 		["ColorizeLowIlvl685"] = false,
 		["ColorizeNoEnch"] = true,
 		["ColorizeNoGems"] = true,
-		["ColorizeNoTopEnchGems"] = false,
 		["ColorizeLowIlvl"] = true,
+		["ColorizeNoTopEnchGems"] = false,
 		["ColorizeNoValorUpgrade"] = false,
 	},
-	["InviteTool"] = {
-		["Words"] = "инв inv byd штм 123",
-		["InvByChat"] = true,
-		["RaidDiff"] = 16,
-		["PromoteRank"] = 3,
-		["LootThreshold"] = 2,
-		["MasterLooters"] = "",
-		["LootMethod"] = "group",
-		["PromoteNames"] = "",
-		["OnlyGuild"] = true,
-		["Rank"] = 1,
-	},
-	["Note"] = {
-		["BlackNames"] = {
-		},
-		["Strata"] = "HIGH",
-		["LastUpdateName"] = "龙听雨-巨龙之吼",
-		["AutoLoad"] = {
-		},
-		["LastUpdateTime"] = 1501940838,
-		["Width"] = 199.999908447266,
-		["Black"] = {
-			"", -- [1]
-			"", -- [2]
-			"", -- [3]
-		},
-		["Height"] = 99.9999542236328,
-		["DefName"] = "鸡蛋",
-		["Text1"] = "P1      小怪结束 88.5%               陨石1 {圣骑士}\nP1-2   大圈→陨石→奇点→射线     陨石2{法师}\n            陨石＋射线 →奇点→红圈   陨石3{法师}\nP2  SX ① 小怪+射线\n           ②  t像+陨石                       陨石4{法师}\n           ③射线+奇点                        \n           ④红圈+中场奇点                 咆哮\n           ⑤陨石+小怪+射线               陨石5 {猎人}\nP2-3 LR\nP3    千魂→宝珠→方尖碑→大圈\n          宝珠+大圈→方尖碑→射线\n          千魂\n          宝珠→方尖碑→大圈\n          宝珠→大圈→方尖碑 ",
-		["FontSize"] = 12,
-	},
-	["Addon"] = {
-		["Scale"] = 1,
-		["Version"] = 3880,
-		["PreVersion"] = 3880,
-		["IconMiniMapLeft"] = -68.0847526796746,
-		["IconMiniMapTop"] = -42.0055526394731,
-		["IconMiniMapHide"] = true,
-		["Timer"] = 0.1,
-	},
-	["InspectArtifact"] = {
-		["players"] = {
-		},
-	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 15,
-		["trackingDamageSpells"] = {
-		},
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["enabled"] = true,
-	},
-	["Profiles"] = {
-	},
-	["Profile"] = "default",
-	["LootLink"] = {
-	},
-	["RaidCheck"] = {
-		["FlaskExp"] = 1,
-		["BuffsCheck"] = true,
-		["ReadyCheckFrameTimerFade"] = 4,
-		["ReadyCheck"] = true,
-		["SendSelf"] = true,
-	},
-	["Bossmods"] = {
-		["Mannoroth"] = {
-		},
-		["Ilgynoth"] = {
-		},
-		["Kormrok"] = {
-		},
-		["ModuleViewed3580"] = true,
-		["Kromog"] = {
-		},
-	},
-	["Logging"] = {
-	},
-	["MarksBar"] = {
-		["Show"] = {
-			true, -- [1]
-			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-		},
-		["Strata"] = "HIGH",
-		["pulltimer"] = 10,
-		["enabled"] = true,
-		["Left"] = 421,
-		["Top"] = 1033.99987792969,
+	["WhoPulled"] = {
 	},
 	["Timers"] = {
 		["specTimes"] = {
@@ -1575,16 +1486,105 @@ VExRT = {
 			[72] = 10,
 			[104] = 10,
 			[73] = 10,
-			[252] = 10,
-			[105] = 10,
-			[254] = 10,
-			[256] = 10,
-			[577] = 10,
 			[581] = 10,
+			[105] = 10,
+			[577] = 10,
+			[256] = 10,
+			[254] = 10,
+			[252] = 10,
 		},
 		["Strata"] = "HIGH",
 		["timeToKillAnalyze"] = 15,
 	},
-	["WhoPulled"] = {
+	["Addon"] = {
+		["Timer"] = 0.1,
+		["Version"] = 3880,
+		["IconMiniMapHide"] = true,
+		["Scale"] = 1,
+		["IconMiniMapTop"] = -42.0055526394731,
+		["IconMiniMapLeft"] = -68.0847526796746,
+		["PreVersion"] = 3880,
+	},
+	["MarksBar"] = {
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+		},
+		["Strata"] = "HIGH",
+		["pulltimer"] = 10,
+		["Top"] = 1033.99987792969,
+		["Left"] = 421,
+		["enabled"] = true,
+	},
+	["Profiles"] = {
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 15,
+		["enabled"] = true,
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
+		},
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["Bossmods"] = {
+		["Mannoroth"] = {
+		},
+		["Ilgynoth"] = {
+		},
+		["Kormrok"] = {
+		},
+		["ModuleViewed3580"] = true,
+		["Kromog"] = {
+		},
+	},
+	["RaidCheck"] = {
+		["FlaskExp"] = 1,
+		["BuffsCheck"] = true,
+		["ReadyCheckFrameTimerFade"] = 4,
+		["ReadyCheck"] = true,
+		["SendSelf"] = true,
+	},
+	["Logging"] = {
+	},
+	["InspectArtifact"] = {
+		["players"] = {
+		},
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["Strata"] = "HIGH",
+		["LastUpdateName"] = "龙听雨-巨龙之吼",
+		["AutoLoad"] = {
+		},
+		["LastUpdateTime"] = 1501940838,
+		["Width"] = 199.999908447266,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["Height"] = 99.9999542236328,
+		["FontSize"] = 12,
+		["Text1"] = "P1      小怪结束 88.5%               陨石1 {圣骑士}\nP1-2   大圈→陨石→奇点→射线     陨石2{法师}\n            陨石＋射线 →奇点→红圈   陨石3{法师}\nP2  SX ① 小怪+射线\n           ②  t像+陨石                       陨石4{法师}\n           ③射线+奇点                        \n           ④红圈+中场奇点                 咆哮\n           ⑤陨石+小怪+射线               陨石5 {猎人}\nP2-3 LR\nP3    千魂→宝珠→方尖碑→大圈\n          宝珠+大圈→方尖碑→射线\n          千魂\n          宝珠→方尖碑→大圈\n          宝珠→大圈→方尖碑 ",
+		["DefName"] = "鸡蛋",
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 3,
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
 	},
 }

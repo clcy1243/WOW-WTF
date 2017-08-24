@@ -2,8 +2,6 @@
 ACP_Data = {
 	["sorter"] = "按名称分组",
 	["NoRecurse"] = false,
-	["NoChildren"] = true,
-	["scale"] = 0.709814944418232,
 	["AddonSet"] = {
 		{
 			"_NPCScan.Overlay", -- [1]
@@ -317,6 +315,8 @@ ACP_Data = {
 			"UnitFramesPlus_Options", -- [309]
 		}, -- [1]
 	},
+	["scale"] = 0.709814944418232,
+	["NoChildren"] = true,
 	["collapsed"] = {
 		["MikScrollingBattleText"] = true,
 		["GladiatorlosSA"] = true,
@@ -332,8 +332,8 @@ ACP_Data = {
 		["GarrisonMissionManager"] = true,
 		["MogIt"] = true,
 		["Skada"] = true,
-		["DBM"] = true,
 		["GatherMate2"] = true,
+		["DBM"] = true,
 		["RaidAchievement"] = true,
 	},
 	["ProtectedAddons"] = {

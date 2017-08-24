@@ -5,56 +5,22 @@ SwatterData = {
 	["combat"] = false,
 	["errors"] = {
 		{
-			["message"] = "Note: AddOn ACP attempted to call a protected function (CompactRaidFrameManagerContainerResizeFrame:Hide()) during combat lockdown.",
+			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
 			["count"] = 1,
-			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  Babylonian, v5.1.DEV.332(/embedded)\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv69.1\n  BigWigsAutoReply, v1.2\n  BigWigsCommonAuras, vv7.2.1\n  BigWigsCore, v\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsPlugins, v\n  BigWigsRecordKills, v2.04\n  BigWigsTombOfSargeras, v\n  BigWigsTranscriptor, vv7.2.3\n  BigWigsVoice, vv7.2.5\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  Configator, v5.1.DEV.406(/embedded)\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.17\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMGUI, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMTombofSargeras, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDataStorage, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  Informant, v7.4.5714 (TasmanianThylacine)\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibExtraTip, v5.12.DEV.423(/embedded)\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementLegionRaids, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipHelper, v5.12.DEV.405(/embedded)\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.4.1 (r24-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=e76)\n",
-			["timestamp"] = "2017-08-21 19:28:16",
-			["context"] = "AddOn: ACP",
-			["stack"] = "[C]: in function `Hide'\n...mpactRaidFrames\\Blizzard_CompactRaidFrameManager.lua:571: in function `CompactRaidFrameManager_LockContainer'\n...mpactRaidFrames\\Blizzard_CompactRaidFrameManager.lua:564: in function `CompactRaidFrameManager_UpdateContainerLockVisibility'\n...mpactRaidFrames\\Blizzard_CompactRaidFrameManager.lua:57: in function <...mpactRaidFrames\\Blizzard_CompactRaidFrameManager.lua:50>\n",
+			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv69.1\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.17\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=cc0)\n",
+			["timestamp"] = "2017-08-22 01:30:30",
+			["context"] = "Global",
+			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
 		}, -- [1]
 		{
-			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
+			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
 			["count"] = 1,
 			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv69.1\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.17\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=cc0)\n",
-			["timestamp"] = "2017-08-21 20:14:33",
+			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n Frame_SavePosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5297\n CreateFrames = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1204\n DisableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5642\n CheckPlayerHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7787\n GroupUnitIDUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7424\n BattlefieldCheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6985\n LDBcheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1154\n CheckPlayerTarget = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7850\n SetupButtonTextures = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5106\n InitOptions = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:771\n CheckCarrierDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8496\n UpdateAllPvPTrinkets = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8993\n UpdatePvPTrinket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9024\n Carrier_TOK = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8900\n CopyAllSettings = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6271\n CheckLeader = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7989\n Carrier_EOTS = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8736\n CheckFlagCarrierEND = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8411\n SetConfigButtonValues = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5736\n BattlefieldScoreUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6754\n UpdateToTButton = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7459\n MainDataUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6418\n EnableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5573\n Carrier_WG_TP = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8584\n OptionsFrameShow = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5390\n Frame_Toggle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5238\n CheckAssist = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8023\n CheckUnitHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8179\n CheckForEnabledBracket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:4038\n DefaultShuffle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6022\n RangeInfoText = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5194\n FriendLeaderUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7969\n CheckIfPlayerIsGhost = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9566\n CheckFaction = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9492\n SetFlagDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8426\n Frame_SetupPosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5250\n ClickOnFractionTab = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:3795\n LocalizedFontNameTest = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5451\n CheckPlayerLevel = <function> defined @In",
+			["timestamp"] = "2017-08-22 01:30:30",
 			["context"] = "Global",
-			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
+			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
 		}, -- [2]
-		{
-			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv69.1\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.17\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=cc0)\n",
-			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n Frame_SavePosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5297\n CreateFrames = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1204\n DisableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5642\n CheckPlayerHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7787\n GroupUnitIDUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7424\n BattlefieldCheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6985\n LDBcheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1154\n CheckPlayerTarget = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7850\n SetupButtonTextures = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5106\n InitOptions = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:771\n CheckCarrierDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8496\n UpdateAllPvPTrinkets = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8993\n UpdatePvPTrinket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9024\n Carrier_TOK = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8900\n CopyAllSettings = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6271\n CheckLeader = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7989\n Carrier_EOTS = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8736\n CheckFlagCarrierEND = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8411\n SetConfigButtonValues = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5736\n BattlefieldScoreUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6754\n UpdateToTButton = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7459\n MainDataUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6418\n EnableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5573\n Carrier_WG_TP = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8584\n OptionsFrameShow = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5390\n Frame_Toggle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5238\n CheckAssist = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8023\n CheckUnitHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8179\n CheckForEnabledBracket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:4038\n DefaultShuffle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6022\n RangeInfoText = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5194\n FriendLeaderUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7969\n CheckIfPlayerIsGhost = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9566\n CheckFaction = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9492\n SetFlagDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8426\n Frame_SetupPosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5250\n ClickOnFractionTab = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:3795\n LocalizedFontNameTest = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5451\n CheckPlayerLevel = <function> defined @In",
-			["timestamp"] = "2017-08-21 20:14:33",
-			["context"] = "Global",
-			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [3]
-		{
-			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  Babylonian, v5.1.DEV.332(/embedded)\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv69.1\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  Configator, v5.1.DEV.406(/embedded)\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.17\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  Informant, v7.4.5714 (TasmanianThylacine)\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibExtraTip, v5.12.DEV.423(/embedded)\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipHelper, v5.12.DEV.405(/embedded)\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=d86)\n",
-			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n Frame_SavePosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5297\n CreateFrames = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1204\n DisableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5642\n CheckPlayerHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7787\n GroupUnitIDUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7424\n BattlefieldCheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6985\n LDBcheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1154\n CheckPlayerTarget = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7850\n SetupButtonTextures = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5106\n InitOptions = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:771\n CheckCarrierDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8496\n UpdateAllPvPTrinkets = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8993\n UpdatePvPTrinket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9024\n Carrier_TOK = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8900\n CopyAllSettings = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6271\n CheckLeader = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7989\n Carrier_EOTS = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8736\n CheckFlagCarrierEND = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8411\n SetConfigButtonValues = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5736\n BattlefieldScoreUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6754\n UpdateToTButton = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7459\n MainDataUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6418\n EnableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5573\n Carrier_WG_TP = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8584\n OptionsFrameShow = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5390\n Frame_Toggle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5238\n CheckAssist = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8023\n CheckUnitHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8179\n CheckForEnabledBracket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:4038\n DefaultShuffle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6022\n RangeInfoText = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5194\n FriendLeaderUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7969\n CheckIfPlayerIsGhost = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9566\n CheckFaction = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9492\n SetFlagDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8426\n Frame_SetupPosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5250\n ClickOnFractionTab = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:3795\n LocalizedFontNameTest = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5451\n CheckPlayerLevel = <function> defined @In",
-			["timestamp"] = "2017-08-21 20:14:34",
-			["context"] = "Global",
-			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [4]
-		{
-			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv69.1\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.17\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=cc0)\n",
-			["timestamp"] = "2017-08-22 01:30:30",
-			["context"] = "Global",
-			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
-		}, -- [5]
-		{
-			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv69.1\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.17\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=cc0)\n",
-			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n Frame_SavePosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5297\n CreateFrames = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1204\n DisableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5642\n CheckPlayerHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7787\n GroupUnitIDUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7424\n BattlefieldCheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6985\n LDBcheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1154\n CheckPlayerTarget = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7850\n SetupButtonTextures = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5106\n InitOptions = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:771\n CheckCarrierDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8496\n UpdateAllPvPTrinkets = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8993\n UpdatePvPTrinket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9024\n Carrier_TOK = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8900\n CopyAllSettings = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6271\n CheckLeader = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7989\n Carrier_EOTS = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8736\n CheckFlagCarrierEND = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8411\n SetConfigButtonValues = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5736\n BattlefieldScoreUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6754\n UpdateToTButton = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7459\n MainDataUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6418\n EnableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5573\n Carrier_WG_TP = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8584\n OptionsFrameShow = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5390\n Frame_Toggle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5238\n CheckAssist = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8023\n CheckUnitHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8179\n CheckForEnabledBracket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:4038\n DefaultShuffle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6022\n RangeInfoText = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5194\n FriendLeaderUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7969\n CheckIfPlayerIsGhost = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9566\n CheckFaction = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9492\n SetFlagDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8426\n Frame_SetupPosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5250\n ClickOnFractionTab = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:3795\n LocalizedFontNameTest = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5451\n CheckPlayerLevel = <function> defined @In",
-			["timestamp"] = "2017-08-22 01:30:30",
-			["context"] = "Global",
-			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [6]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
 			["count"] = 1,
@@ -63,7 +29,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 01:30:31",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [7]
+		}, -- [3]
 		{
 			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
 			["count"] = 1,
@@ -71,7 +37,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 01:57:59",
 			["context"] = "Global",
 			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
-		}, -- [8]
+		}, -- [4]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -80,7 +46,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 01:57:59",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [9]
+		}, -- [5]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
 			["count"] = 1,
@@ -89,7 +55,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 01:57:59",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [10]
+		}, -- [6]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton11:Show()) during combat lockdown.",
 			["count"] = 8,
@@ -97,7 +63,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 02:09:21",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:720: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:207: in function <Interface\\FrameXML\\ActionButton.lua:204>\n",
-		}, -- [11]
+		}, -- [7]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton9:Show()) during combat lockdown.",
 			["count"] = 7,
@@ -105,7 +71,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 02:09:28",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:720: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:207: in function <Interface\\FrameXML\\ActionButton.lua:204>\n",
-		}, -- [12]
+		}, -- [8]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (OverrideActionBarButton1:Show()) during combat lockdown.",
 			["count"] = 17,
@@ -113,7 +79,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 02:14:25",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:720: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:207: in function <Interface\\FrameXML\\ActionButton.lua:204>\n",
-		}, -- [13]
+		}, -- [9]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton12:Show()) during combat lockdown.",
 			["count"] = 17,
@@ -121,7 +87,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 02:14:25",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:720: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:207: in function <Interface\\FrameXML\\ActionButton.lua:204>\n",
-		}, -- [14]
+		}, -- [10]
 		{
 			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
 			["count"] = 1,
@@ -129,7 +95,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 06:37:24",
 			["context"] = "Global",
 			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
-		}, -- [15]
+		}, -- [11]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -138,7 +104,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 06:37:24",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [16]
+		}, -- [12]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
 			["count"] = 1,
@@ -147,7 +113,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 06:37:24",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [17]
+		}, -- [13]
 		{
 			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
 			["count"] = 1,
@@ -155,7 +121,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 07:18:30",
 			["context"] = "Global",
 			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
-		}, -- [18]
+		}, -- [14]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -164,7 +130,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 07:18:30",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [19]
+		}, -- [15]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
 			["count"] = 4,
@@ -173,7 +139,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 07:18:30",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [20]
+		}, -- [16]
 		{
 			["message"] = "Interface\\AddOns\\AdiBags\\core\\Utility.lua:89: script ran too long",
 			["count"] = 1,
@@ -182,7 +148,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 07:27:49",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\AdiBags\\core\\Utility.lua:89: in function <Interface\\AddOns\\AdiBags\\core\\Utility.lua:81>\nInterface\\AddOns\\AdiBags\\widgets\\LayeredRegion.lua:119: in function <Interface\\AddOns\\AdiBags\\widgets\\LayeredRegion.lua:108>\n",
-		}, -- [21]
+		}, -- [17]
 		{
 			["message"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: attempt to compare number with nil",
 			["count"] = 243,
@@ -191,7 +157,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 07:35:27",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:191>\nInterface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:267: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:265>\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:408: in function `SetBagItem'\nInterface\\FrameXML\\ContainerFrame.lua:1149: in function `ContainerFrameItemButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n",
-		}, -- [22]
+		}, -- [18]
 		{
 			["message"] = "Interface\\FrameXML\\StaticPopup.lua:3983: bad argument #2 to 'SetFormattedText' (number expected, got nil)",
 			["count"] = 3,
@@ -200,7 +166,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 07:48:59",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `SetFormattedText'\nInterface\\FrameXML\\StaticPopup.lua:3983: in function `StaticPopup_Show'\nInterface\\FrameXML\\LFGList.lua:162: in function <Interface\\FrameXML\\LFGList.lua:107>\n",
-		}, -- [23]
+		}, -- [19]
 		{
 			["message"] = "Interface\\AddOns\\!RAHT\\core.lua:87: bad argument #2 to 'strsplit' (string expected, got nil)",
 			["count"] = 1,
@@ -209,7 +175,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:06:00",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `strsplit'\nInterface\\AddOns\\!RAHT\\core.lua:87: in function <Interface\\AddOns\\!RAHT\\core.lua:82>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:408: in function `SetBagItem'\nInterface\\FrameXML\\ContainerFrame.lua:1149: in function `ContainerFrameItemButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n",
-		}, -- [24]
+		}, -- [20]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton8:Show()) during combat lockdown.",
 			["count"] = 92,
@@ -217,7 +183,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:25",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:720: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:207: in function <Interface\\FrameXML\\ActionButton.lua:204>\n",
-		}, -- [25]
+		}, -- [21]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton3:Show()) during combat lockdown.",
 			["count"] = 208,
@@ -225,7 +191,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:720: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:207: in function <Interface\\FrameXML\\ActionButton.lua:204>\n",
-		}, -- [26]
+		}, -- [22]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (OverrideActionBarButton3:Show()) during combat lockdown.",
 			["count"] = 208,
@@ -233,7 +199,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:720: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:207: in function <Interface\\FrameXML\\ActionButton.lua:204>\n",
-		}, -- [27]
+		}, -- [23]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton9:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -241,7 +207,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [28]
+		}, -- [24]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarRightButton5:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -249,7 +215,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [29]
+		}, -- [25]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarRightButton3:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -257,7 +223,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [30]
+		}, -- [26]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton10:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -265,7 +231,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [31]
+		}, -- [27]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton5:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -273,7 +239,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [32]
+		}, -- [28]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton9:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -281,7 +247,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [33]
+		}, -- [29]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarRightButton10:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -289,7 +255,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [34]
+		}, -- [30]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarLeftButton12:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -297,7 +263,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [35]
+		}, -- [31]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton1:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -305,7 +271,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [36]
+		}, -- [32]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (OverrideActionBarButton2:Show()) during combat lockdown.",
 			["count"] = 71,
@@ -313,7 +279,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [37]
+		}, -- [33]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton12:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -321,7 +287,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [38]
+		}, -- [34]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton2:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -329,7 +295,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [39]
+		}, -- [35]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarRightButton2:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -337,7 +303,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [40]
+		}, -- [36]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton10:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -345,7 +311,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [41]
+		}, -- [37]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton6:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -353,7 +319,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [42]
+		}, -- [38]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomLeftButton7:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -361,7 +327,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [43]
+		}, -- [39]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (OverrideActionBarButton1:Show()) during combat lockdown.",
 			["count"] = 71,
@@ -369,7 +335,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [44]
+		}, -- [40]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarRightButton6:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -377,7 +343,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [45]
+		}, -- [41]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarLeftButton2:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -385,7 +351,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [46]
+		}, -- [42]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton8:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -393,7 +359,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [47]
+		}, -- [43]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarLeftButton10:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -401,7 +367,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [48]
+		}, -- [44]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomLeftButton9:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -409,7 +375,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [49]
+		}, -- [45]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton3:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -417,7 +383,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [50]
+		}, -- [46]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton4:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -425,7 +391,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [51]
+		}, -- [47]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomLeftButton5:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -433,7 +399,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [52]
+		}, -- [48]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarLeftButton6:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -441,7 +407,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [53]
+		}, -- [49]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomLeftButton1:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -449,7 +415,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [54]
+		}, -- [50]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarRightButton8:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -457,7 +423,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [55]
+		}, -- [51]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (OverrideActionBarButton5:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -465,7 +431,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [56]
+		}, -- [52]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarRightButton1:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -473,7 +439,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [57]
+		}, -- [53]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarRightButton4:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -481,7 +447,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [58]
+		}, -- [54]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarLeftButton3:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -489,7 +455,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [59]
+		}, -- [55]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarLeftButton7:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -497,7 +463,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [60]
+		}, -- [56]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton7:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -505,7 +471,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [61]
+		}, -- [57]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton1:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -513,7 +479,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [62]
+		}, -- [58]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomLeftButton11:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -521,7 +487,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [63]
+		}, -- [59]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarRightButton12:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -529,7 +495,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [64]
+		}, -- [60]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton11:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -537,7 +503,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [65]
+		}, -- [61]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton12:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -545,7 +511,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [66]
+		}, -- [62]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton4:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -553,7 +519,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [67]
+		}, -- [63]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarLeftButton1:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -561,7 +527,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [68]
+		}, -- [64]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (OverrideActionBarButton4:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -569,7 +535,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [69]
+		}, -- [65]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomLeftButton6:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -577,7 +543,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [70]
+		}, -- [66]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomRightButton5:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -585,7 +551,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [71]
+		}, -- [67]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomLeftButton3:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -593,7 +559,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [72]
+		}, -- [68]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomLeftButton12:Show()) during combat lockdown.",
 			["count"] = 66,
@@ -601,7 +567,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [73]
+		}, -- [69]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (MultiBarBottomLeftButton4:Show()) during combat lockdown.",
 			["count"] = 71,
@@ -609,7 +575,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [74]
+		}, -- [70]
 		{
 			["message"] = "Note: AddOn Informant attempted to call a protected function (ActionButton2:Show()) during combat lockdown.",
 			["count"] = 71,
@@ -617,7 +583,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 08:39:31",
 			["context"] = "AddOn: Informant",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:364: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:813: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:253: in function <Interface\\FrameXML\\ActionButton.lua:245>\n",
-		}, -- [75]
+		}, -- [71]
 		{
 			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
 			["count"] = 1,
@@ -625,7 +591,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 17:05:23",
 			["context"] = "Global",
 			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
-		}, -- [76]
+		}, -- [72]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -634,7 +600,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 17:05:23",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [77]
+		}, -- [73]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
 			["count"] = 13,
@@ -643,7 +609,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 17:05:24",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [78]
+		}, -- [74]
 		{
 			["message"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: attempt to compare number with nil",
 			["count"] = 79,
@@ -652,7 +618,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 17:05:46",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:191>\nInterface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:267: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:265>\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: in function `SetItemByID'\n[string \"*:OnEnter\"]:3: in function <[string \"*:OnEnter\"]:1>\n",
-		}, -- [79]
+		}, -- [75]
 		{
 			["message"] = "Interface\\AddOns\\!RAHT\\core.lua:87: bad argument #2 to 'strsplit' (string expected, got nil)",
 			["count"] = 6,
@@ -661,7 +627,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 17:28:53",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `strsplit'\nInterface\\AddOns\\!RAHT\\core.lua:87: in function <Interface\\AddOns\\!RAHT\\core.lua:82>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:408: in function `SetBagItem'\nInterface\\FrameXML\\ContainerFrame.lua:1149: in function `ContainerFrameItemButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n",
-		}, -- [80]
+		}, -- [76]
 		{
 			["message"] = "Interface\\FrameXML\\StaticPopup.lua:3983: bad argument #2 to 'SetFormattedText' (number expected, got nil)",
 			["count"] = 2,
@@ -670,7 +636,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-22 17:30:15",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `SetFormattedText'\nInterface\\FrameXML\\StaticPopup.lua:3983: in function `StaticPopup_Show'\nInterface\\FrameXML\\LFGList.lua:162: in function <Interface\\FrameXML\\LFGList.lua:107>\n",
-		}, -- [81]
+		}, -- [77]
 		{
 			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
 			["count"] = 1,
@@ -678,7 +644,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-23 19:13:34",
 			["context"] = "Global",
 			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
-		}, -- [82]
+		}, -- [78]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -687,7 +653,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-23 19:13:34",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [83]
+		}, -- [79]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
 			["count"] = 3,
@@ -696,7 +662,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-23 19:13:34",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [84]
+		}, -- [80]
 		{
 			["message"] = "Interface\\FrameXML\\StaticPopup.lua:3983: bad argument #2 to 'SetFormattedText' (number expected, got nil)",
 			["count"] = 2,
@@ -705,7 +671,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-23 19:23:23",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `SetFormattedText'\nInterface\\FrameXML\\StaticPopup.lua:3983: in function `StaticPopup_Show'\nInterface\\FrameXML\\LFGList.lua:162: in function <Interface\\FrameXML\\LFGList.lua:107>\n",
-		}, -- [85]
+		}, -- [81]
 		{
 			["message"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: attempt to compare number with nil",
 			["count"] = 6,
@@ -714,7 +680,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-23 19:32:02",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:191>\nInterface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:267: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:265>\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:408: in function `SetBagItem'\nInterface\\FrameXML\\ContainerFrame.lua:1149: in function `ContainerFrameItemButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n",
-		}, -- [86]
+		}, -- [82]
 		{
 			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
 			["count"] = 1,
@@ -722,7 +688,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 12:44:31",
 			["context"] = "Global",
 			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
-		}, -- [87]
+		}, -- [83]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -731,7 +697,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 12:44:32",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [88]
+		}, -- [84]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
 			["count"] = 2,
@@ -740,7 +706,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 12:44:32",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [89]
+		}, -- [85]
 		{
 			["message"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: attempt to compare number with nil",
 			["count"] = 25,
@@ -749,7 +715,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 12:45:28",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:191>\nInterface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:267: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:265>\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: in function `SetItemByID'\n[string \"*:OnEnter\"]:3: in function <[string \"*:OnEnter\"]:1>\n",
-		}, -- [90]
+		}, -- [86]
 		{
 			["message"] = "Interface\\AddOns\\!RAHT\\core.lua:87: bad argument #2 to 'strsplit' (string expected, got nil)",
 			["count"] = 7,
@@ -758,7 +724,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 12:46:24",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `strsplit'\nInterface\\AddOns\\!RAHT\\core.lua:87: in function <Interface\\AddOns\\!RAHT\\core.lua:82>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:408: in function `SetBagItem'\nInterface\\FrameXML\\ContainerFrame.lua:1149: in function `ContainerFrameItemButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n",
-		}, -- [91]
+		}, -- [87]
 		{
 			["message"] = "Interface\\FrameXML\\StaticPopup.lua:3983: bad argument #2 to 'SetFormattedText' (number expected, got nil)",
 			["count"] = 1,
@@ -767,7 +733,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 12:58:24",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `SetFormattedText'\nInterface\\FrameXML\\StaticPopup.lua:3983: in function `StaticPopup_Show'\nInterface\\FrameXML\\LFGList.lua:162: in function <Interface\\FrameXML\\LFGList.lua:107>\n",
-		}, -- [92]
+		}, -- [88]
 		{
 			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
 			["count"] = 1,
@@ -775,7 +741,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 16:54:26",
 			["context"] = "Global",
 			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
-		}, -- [93]
+		}, -- [89]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -784,7 +750,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 16:54:26",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [94]
+		}, -- [90]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
 			["count"] = 4,
@@ -793,7 +759,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 16:54:26",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [95]
+		}, -- [91]
 		{
 			["message"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: attempt to compare number with nil",
 			["count"] = 47,
@@ -802,7 +768,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 17:02:02",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:191>\nInterface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:267: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:265>\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:408: in function `SetBagItem'\nInterface\\FrameXML\\ContainerFrame.lua:1149: in function `ContainerFrameItemButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n",
-		}, -- [96]
+		}, -- [92]
 		{
 			["message"] = "Interface\\AddOns\\!RAHT\\core.lua:87: bad argument #2 to 'strsplit' (string expected, got nil)",
 			["count"] = 1,
@@ -811,7 +777,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 17:07:18",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `strsplit'\nInterface\\AddOns\\!RAHT\\core.lua:87: in function <Interface\\AddOns\\!RAHT\\core.lua:82>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:408: in function `SetBagItem'\nInterface\\FrameXML\\ContainerFrame.lua:1149: in function `ContainerFrameItemButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n",
-		}, -- [97]
+		}, -- [93]
 		{
 			["message"] = "Note: AddOn TinyUntitled attempted to call a protected function (MinimapCluster:SetHitRectInsets()) during combat lockdown.",
 			["count"] = 2,
@@ -819,7 +785,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 17:55:11",
 			["context"] = "AddOn: TinyUntitled",
 			["stack"] = "[C]: in function `SetHitRectInsets'\nInterface\\AddOns\\TinyUntitled\\Player.lua:51: in function <Interface\\AddOns\\TinyUntitled\\Player.lua:46>\n[C]: in function `SetUIVisibility'\n[string \"TOGGLEUI\"]:4: in function <[string \"TOGGLEUI\"]:1>\n",
-		}, -- [98]
+		}, -- [94]
 		{
 			["message"] = "Note: AddOn TinyUntitled attempted to call a protected function (MinimapCluster:SetPoint()) during combat lockdown.",
 			["count"] = 2,
@@ -827,7 +793,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 17:55:11",
 			["context"] = "AddOn: TinyUntitled",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\AddOns\\TinyUntitled\\Player.lua:52: in function <Interface\\AddOns\\TinyUntitled\\Player.lua:46>\n[C]: in function `SetUIVisibility'\n[string \"TOGGLEUI\"]:4: in function <[string \"TOGGLEUI\"]:1>\n",
-		}, -- [99]
+		}, -- [95]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 8,
@@ -835,7 +801,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 18:09:43",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:429: in function <Interface\\FrameXML\\WorldMapFrame.lua:392>\n[C]: ?\n[C]: in function `Hide'\nInterface\\FrameXML\\UIParent.lua:2405: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2432: in function `MoveUIPanel'\nInterface\\FrameXML\\UIParent.lua:2463: in function `HideUIPanel'\nInterface\\FrameXML\\UIParent.lua:2137: in function <Interface\\FrameXML\\UIParent.lua:2129>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2931: in function `HideUIPanel'\nInterface\\FrameXML\\UIParent.lua:2897: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:244: in function <Interface\\FrameXML\\WorldMapFrame.lua:235>\n[C]: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [100]
+		}, -- [96]
 		{
 			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
 			["count"] = 1,
@@ -843,7 +809,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 18:51:08",
 			["context"] = "Global",
 			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
-		}, -- [101]
+		}, -- [97]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -852,7 +818,7 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 18:51:08",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [102]
+		}, -- [98]
 		{
 			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
 			["count"] = 2,
@@ -861,13 +827,48 @@ SwatterData = {
 			["timestamp"] = "2017-08-24 18:51:09",
 			["context"] = "Global",
 			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
-		}, -- [103]
+		}, -- [99]
 		{
 			["message"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: attempt to compare number with nil",
 			["count"] = 1,
 			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  Babylonian, v5.1.DEV.332(/embedded)\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv70\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  Configator, v5.1.DEV.406(/embedded)\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.18\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  Informant, v7.4.5714 (TasmanianThylacine)\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibExtraTip, v5.12.DEV.423(/embedded)\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipHelper, v5.12.DEV.405(/embedded)\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WeakAurasOptions, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=da0)\n",
 			["locals"] = "self = GameTooltip {\n 0 = <userdata>\n SetQuestLogRewardSpell = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetSpellBookItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetExistingSocketGem = <function> defined =[C]:-1\n SetCurrencyToken = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetShapeshift = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetVoidItem = <function> defined =[C]:-1\n hasMoney = 1\n SetVoidDepositItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n SetQuestRewardSpell = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetGuildBankItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n comparing = false\n SetSocketGem = <function> defined =[C]:-1\n Show = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n shownMoneyFrames = 1\n SetPetAction = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetUnitDebuff = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetItemByID = <function> defined =[C]:-1\n SetLootItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetQuestItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetHyperlink = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetTrainerService = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n numMoneyFrames = 1\n SetHeirloomByItemID = <function> defined =[C]:-1\n ttGradient = <unnamed> {\n }\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetBuybackItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n shoppingTooltips = <table> {\n }\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\core.lua:906\n LibExtraTipLeft = <table> {\n }\n SetQuestLogItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetInboxItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetUnitBuff = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetTalent = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetTradePlayerItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\core.lua:53\n SetSendMailItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:209\n updateTooltip = 0.015999990329146\n SetInventoryItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetMerchantItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n ttCount = <unnamed> {\n }\n SetLootRollItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetUnitAura = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetAuctionSellItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetBagItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n LibExtraTipRight = <table> {\n }\n ttIcon = <unnamed> {\n }\n needsReset = false\n SetRecipeResultItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetAuctionItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n}\nbutton = nil\nhide = nil\n_ = \"胡言乱语\"\ntempItemLink = \"|cff1eff00|Hitem:141705::",
 			["timestamp"] = "2017-08-24 19:02:06",
+			["context"] = "Global",
+			["stack"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:191>\nInterface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:267: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:265>\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: in function `SetItemByID'\n[string \"*:OnEnter\"]:3: in function <[string \"*:OnEnter\"]:1>\n",
+		}, -- [100]
+		{
+			["message"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: attempt to perform arithmetic on field 'inBankAP' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv70\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.18\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=cbe)\n",
+			["timestamp"] = "2017-08-25 03:15:04",
+			["context"] = "Global",
+			["stack"] = "...erface\\AddOns\\TotalAP\\Core\\GUI\\Views\\DefaultView.lua:975: in function `Update'\n...nterface\\AddOns\\TotalAP\\Core\\GUI\\Views\\Prototype.lua:83: in function `Render'\nInterface\\AddOns\\TotalAP\\Core\\Controllers\\GUI.lua:127: in function `RenderGUI'\nInterface\\AddOns\\TotalAP\\TotalAP.lua:92: in function <Interface\\AddOns\\TotalAP\\TotalAP.lua:85>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\AddOns\\Rarity\\Core.lua:4016: in function `ScanToys'\nInterface\\AddOns\\Rarity\\Core.lua:3971: in function `ScanExistingItems'\nInterface\\AddOns\\Rarity\\Core.lua:499: in function `DoEnable'\nInterface\\AddOns\\Rarity\\Core.lua:451: in function <Interface\\AddOns\\Rarity\\Core.lua:450>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:420: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:515: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1069: in function <Interface\\FrameXML\\UIParent.lua:966>\n",
+		}, -- [101]
+		{
+			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: attempt to index field '?' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv70\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.18\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=cbe)\n",
+			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n Frame_SavePosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5297\n CreateFrames = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1204\n DisableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5642\n CheckPlayerHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7787\n GroupUnitIDUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7424\n BattlefieldCheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6985\n LDBcheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1154\n CheckPlayerTarget = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7850\n SetupButtonTextures = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5106\n InitOptions = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:771\n CheckCarrierDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8496\n UpdateAllPvPTrinkets = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8993\n UpdatePvPTrinket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9024\n Carrier_TOK = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8900\n CopyAllSettings = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6271\n CheckLeader = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7989\n Carrier_EOTS = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8736\n CheckFlagCarrierEND = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8411\n SetConfigButtonValues = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5736\n BattlefieldScoreUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6754\n UpdateToTButton = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7459\n MainDataUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6418\n EnableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5573\n Carrier_WG_TP = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8584\n OptionsFrameShow = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5390\n Frame_Toggle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5238\n CheckAssist = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8023\n CheckUnitHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8179\n CheckForEnabledBracket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:4038\n DefaultShuffle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6022\n RangeInfoText = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5194\n FriendLeaderUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7969\n CheckIfPlayerIsGhost = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9566\n CheckFaction = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9492\n SetFlagDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8426\n Frame_SetupPosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5250\n ClickOnFractionTab = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:3795\n LocalizedFontNameTest = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5451\n CheckPlayerLevel = <function> defined @In",
+			["timestamp"] = "2017-08-25 03:15:04",
+			["context"] = "Global",
+			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6053: in function `DefaultShuffle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1709: in function `CreateOptionsFrame'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9900: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
+		}, -- [102]
+		{
+			["message"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: attempt to index local 'frame' (a nil value)",
+			["count"] = 2,
+			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  Babylonian, v5.1.DEV.332(/embedded)\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv70\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  Configator, v5.1.DEV.406(/embedded)\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.18\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  Informant, v7.4.5714 (TasmanianThylacine)\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibExtraTip, v5.12.DEV.423(/embedded)\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipHelper, v5.12.DEV.405(/embedded)\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=d84)\n",
+			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n Frame_SavePosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5297\n CreateFrames = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1204\n DisableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5642\n CheckPlayerHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7787\n GroupUnitIDUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7424\n BattlefieldCheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6985\n LDBcheck = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:1154\n CheckPlayerTarget = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7850\n SetupButtonTextures = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5106\n InitOptions = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:771\n CheckCarrierDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8496\n UpdateAllPvPTrinkets = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8993\n UpdatePvPTrinket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9024\n Carrier_TOK = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8900\n CopyAllSettings = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6271\n CheckLeader = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7989\n Carrier_EOTS = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8736\n CheckFlagCarrierEND = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8411\n SetConfigButtonValues = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5736\n BattlefieldScoreUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6754\n UpdateToTButton = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7459\n MainDataUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6418\n EnableConfigMode = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5573\n Carrier_WG_TP = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8584\n OptionsFrameShow = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5390\n Frame_Toggle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5238\n CheckAssist = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8023\n CheckUnitHealth = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8179\n CheckForEnabledBracket = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:4038\n DefaultShuffle = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:6022\n RangeInfoText = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5194\n FriendLeaderUpdate = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:7969\n CheckIfPlayerIsGhost = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9566\n CheckFaction = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9492\n SetFlagDebuff = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:8426\n Frame_SetupPosition = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5250\n ClickOnFractionTab = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:3795\n LocalizedFontNameTest = <function> defined @Interface\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5451\n CheckPlayerLevel = <function> defined @In",
+			["timestamp"] = "2017-08-25 03:15:05",
+			["context"] = "Global",
+			["stack"] = "...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:5242: in function `Frame_Toggle'\n...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9912: in function <...e\\AddOns\\BattlegroundTargets\\BattlegroundTargets.lua:9779>\n",
+		}, -- [103]
+		{
+			["message"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: attempt to compare number with nil",
+			["count"] = 1,
+			["addons"] = "  RAHT, v2.0.4\n  Swatter, v7.4.5714 (TasmanianThylacine)\n  NPCScanOverlay, v7.1.0.1\n  ACP, vr245 \n  AdiBags, vv1.9.6\n  AdiBagsGarrison, vv1.6\n  AdiBagsHearthstones, v7.2-release4\n  AdiBagsLegion, vv1.6\n  AdiBagsLegionFilters, v1.5.4\n  AdvancedInterfaceOptions, v1.1.4\n  AngryKeystones, v\n  AutoRepair, v\n  Babylonian, v5.1.DEV.332(/embedded)\n  BattlegroundTargets, v70000-1\n  BattlePetBreedID, vr150\n  BigWigs, vv70\n  BigWigsAutoReply, v1.2\n  BigWigsCountdownHeroesOfTheStorm, v1.1.2\n  BigWigsCountdownOverwatch, v1.0.11\n  BigWigsRecordKills, v2.04\n  BigWigsVoiceQuake3, v3\n  BloodShieldTracker, v7.2.1\n  BloodTrader, v2.1.2\n  Configator, v5.1.DEV.406(/embedded)\n  CritVsMastery, v1.2\n  DBMArchaeology, v\n  DBMCore, v7.2.18\n  DBMCountPackHoTS, v1.2\n  DBMCountPackOverwatch, v1.1\n  DBMDefaultSkin, v\n  DBMLDB, v\n  DBMSpellTimers, v\n  DBMStatusBarTimers, v\n  DBMVPVEM, v7.2.7\n  DBMVPYike, v7.3.0\n  DebugLib, v5.1.DEV.337(/embedded)\n  Details, v\n  DetailsChartViewer, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoBlackrockFoundry, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoHighmaul, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoSiegeOfOrgrimmar, v\n  DetailsRaidInfoThroneOfThunder, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsRaidPowerBars, v\n  DetailsStreamer, v\n  DetailsTargetCaller, v\n  DetailsTimeAttack, v\n  DetailsTimeLine, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v3880\n  FrenzyRegen, v1.0\n  GarrisonMissionManager, vv55\n  GarrisonMissionManagerLoadOnLogin, vv1\n  GladiatorlosSA2, v1.16\n  GladiatorlosSAzhCN, v20160725\n  Gladius, v5.1.8\n  HardYards, v2.09\n  HealersHaveToDie, v2.4.5-deprecated\n  HereBeDragons10, v1.18-release\n  HHTD, v2.4.5\n  ImprovedStableFrame, v3.1.2\n  Informant, v7.4.5714 (TasmanianThylacine)\n  InstancePortals, v8\n  KeystoneHelper, v7.2.5.0\n  KrosusAssist, v\n  LegionInvasionTimer, vv7.2.11\n  LgTiger, v0.2\n  LibExtraTip, v5.12.DEV.423(/embedded)\n  LibSink20, v\n  MasterPlanA, vA\n  MeetingStone, v70200.04\n  MikScrollingBattleText, v5.7.147\n  MogIt, v3.8.1\n  MogItCloth, v3.8.1\n  MogItOneHanded, v3.8.1\n  MogItOther, v3.8.1\n  MogItRanged, v3.8.1\n  MogItTwoHanded, v3.8.1\n  MyConsoleVariables, v\n  Myslot, vv5.2.4\n  MythicPlusProgress, v0.3e for Patch 7.1.0\n  NomiCakes, v7.2.5.5\n  Pawn, v2.2.11\n  Quartz, v3.3.5\n  RaidAchievement, v\n  RaidAchievementOldModules, v\n  Rarity, v1.0\n  RarityOptions, v\n  RelicInspector, v1.11.11\n  RSA, v3.2752\n  RSAPriest, v\n  Simulationcraft, v1.7.5\n  SlideBar, v7.4.5714 (TasmanianThylacine)\n  Stubby, v7.4.5714 (TasmanianThylacine)\n  SubSpec, v2.1.5.0\n  TargetNameplateIndicator, v1.16\n  TellMeWhen, v8.4.1\n  TidyPlates, v6.18.11\n  TidyPlatesBlizzardPlates, v1.5\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesThreat, vv1.31\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TinyCharacterStats, v\n  TinyInspect, v7.2.9.2\n  TinyParty, v7.2.0\n  TinyRoster, v7.2.0\n  TinyUntitled, v7.2.0\n  TipHelper, v5.12.DEV.405(/embedded)\n  TipTac, v16.10.27\n  TipTacItemRef, v16.10.27\n  TipTacTalents, v16.10.27\n  TomTom, vv70200-1.0.0\n  TotalAP, v1.5.0 (r25-beta)\n  ToyPlus, v1.6\n  Transcriptor, vv7.2.9\n  UnitFramesPlus, v1.26.1\n  VuhDo, v3.87\n  VuhDoOptions, v3.87\n  WeakAuras, v2.4.17\n  WeakAurasOptions, v2.4.17\n  WorldQuestGroupFinder, v0.26.3\n  WorldQuestTracker, v\n  WowLua, vv70100-1.0.0\n  BlizRuntimeLib_zhCN v7.2.5.70200 <none>\n  (ck=da0)\n",
+			["locals"] = "self = GameTooltip {\n 0 = <userdata>\n SetQuestLogRewardSpell = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetSpellBookItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetExistingSocketGem = <function> defined =[C]:-1\n SetHyperlink = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetGuildBankItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetVoidItem = <function> defined =[C]:-1\n SetVoidDepositItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n hasMoney = 1\n SetQuestRewardSpell = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetCurrencyToken = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n comparing = false\n SetSocketGem = <function> defined =[C]:-1\n Show = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n shownMoneyFrames = 1\n SetPetAction = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetUnitDebuff = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetHeirloomByItemID = <function> defined =[C]:-1\n SetLootItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetQuestItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\core.lua:906\n numMoneyFrames = 1\n SetShapeshift = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetTradeTargetItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetInboxItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetBuybackItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:209\n Hide = <function> defined =[C]:-1\n SetMerchantItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetQuestLogItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetTrainerService = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetUnitBuff = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetTalent = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetTradePlayerItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\core.lua:53\n ttIcon = <unnamed> {\n }\n SetRecipeResultItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n updateTooltip = 0.13499999493361\n SetInventoryItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n ttGradient = <unnamed> {\n }\n ttCount = <unnamed> {\n }\n SetLootRollItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetUnitAura = <function> defined =[C]:-1\n SetSendMailItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetAuctionSellItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetBagItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n needsReset = false\n shoppingTooltips = <table> {\n }\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n SetItemByID = <function> defined =[C]:-1\n SetAuctionItem = <function> defined @Interface\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:402\n}\nbutton = nil\nhide = nil\n_ = \"勇士的战利品\"\ntempItemLink = \"|cff0070dd|Hitem:147548::::::::110:257::::::|h[勇士的战利品]|h|r\"\ntooltipItemID",
+			["timestamp"] = "2017-08-25 03:15:17",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:226: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:191>\nInterface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:267: in function <Interface\\AddOns\\TotalAP\\Core\\GUI\\Tooltips.lua:265>\n[C]: ?\n[C]: ?\n...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:453: in function <...ce\\AddOns\\Informant\\Libs\\LibExtraTip\\LibExtraTip.lua:447>\n[C]: ?\n[C]: ?\n[C]: in function `SetItemByID'\n[string \"*:OnEnter\"]:3: in function <[string \"*:OnEnter\"]:1>\n",
 		}, -- [104]
