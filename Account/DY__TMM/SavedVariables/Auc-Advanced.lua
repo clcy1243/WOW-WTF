@@ -14,19 +14,19 @@ AucAdvancedConfig = {
 				["altchatlink_leftclick"] = true,
 			},
 		},
+		["stat"] = {
+			["sales"] = {
+				["upgraded32"] = true,
+				["ignoredsigs"] = {
+				},
+			},
+		},
 		["util"] = {
 			["automagic"] = {
 				["ammailguix"] = 160,
+				["uierrormsg"] = 1,
 				["SavedMailButtons"] = {
 				},
-				["uierrormsg"] = 1,
-			},
-		},
-		["stat"] = {
-			["sales"] = {
-				["ignoredsigs"] = {
-				},
-				["upgraded32"] = true,
 			},
 		},
 		["configator.top"] = 764.999938964844,
@@ -39,6 +39,10 @@ AucAdvancedData = {
 }
 AucAdvancedServers = {
 	["ConnectedRealmTables"] = {
+		["#能源舰"] = {
+			"白骨荒野", -- [1]
+			"能源舰", -- [2]
+		},
 		["#太阳之井"] = {
 			"塞拉赞恩", -- [1]
 			"太阳之井", -- [2]
@@ -57,12 +61,14 @@ AucAdvancedServers = {
 	["KnownRealms"] = {
 		["摩摩尔"] = "#摩摩尔",
 		["瓦拉斯塔兹"] = "#瓦拉斯塔兹",
+		["能源舰"] = "#能源舰",
 		["太阳之井"] = "#太阳之井",
 	},
+	["Timestamp"] = 1473171598,
 	["KnownServerKeys"] = {
+		["#能源舰"] = 1503925024,
 		["#太阳之井"] = 1500118455,
 		["#瓦拉斯塔兹"] = 1502016118,
 		["#摩摩尔"] = 1481119647,
 	},
-	["Timestamp"] = 1473171598,
 }

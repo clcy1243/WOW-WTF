@@ -19,7 +19,6 @@ ACP_Data = {
 		["BigWigs"] = true,
 		["Details"] = true,
 		["GarrisonMissionManager"] = true,
-		["HandyNotes"] = true,
 		["MogIt"] = true,
 		["Skada"] = true,
 		["MikScrollingBattleText"] = true,

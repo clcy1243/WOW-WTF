@@ -1,3 +1,16 @@
 
 iKeystonesDB = {
+	["Player-1936-05DBAC99"] = {
+		["name"] = "Willam",
+		["maxCompleted"] = 6,
+		["class"] = "HUNTER",
+		["key"] = {
+			["map"] = 209,
+			["affix4"] = 5,
+			["level"] = 10,
+			["affix10"] = 10,
+			["affix7"] = 13,
+		},
+		["server"] = "能源舰",
+	},
 }

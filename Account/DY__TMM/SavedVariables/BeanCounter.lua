@@ -16,7 +16,7 @@ BeanCounterDB = {
 			},
 			["failedBidsNeutral"] = {
 			},
-			["failedBids"] = {
+			["completedBidsBuyouts"] = {
 			},
 			["completedAuctions"] = {
 			},
@@ -24,7 +24,7 @@ BeanCounterDB = {
 			},
 			["completedAuctionsNeutral"] = {
 			},
-			["completedBidsBuyouts"] = {
+			["failedBids"] = {
 			},
 		},
 	},
@@ -44,7 +44,7 @@ BeanCounterDB = {
 			},
 			["failedBidsNeutral"] = {
 			},
-			["completedBidsBuyouts"] = {
+			["failedBids"] = {
 			},
 			["completedAuctions"] = {
 			},
@@ -52,7 +52,35 @@ BeanCounterDB = {
 			},
 			["completedAuctionsNeutral"] = {
 			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+	["能源舰"] = {
+		["Willam"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
 			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
 			},
 		},
 	},
@@ -72,7 +100,7 @@ BeanCounterDB = {
 			},
 			["failedBidsNeutral"] = {
 			},
-			["completedBidsBuyouts"] = {
+			["failedBids"] = {
 			},
 			["completedAuctions"] = {
 			},
@@ -80,7 +108,7 @@ BeanCounterDB = {
 			},
 			["completedAuctionsNeutral"] = {
 			},
-			["failedBids"] = {
+			["completedBidsBuyouts"] = {
 			},
 		},
 	},
@@ -94,7 +122,19 @@ BeanCounterDBSettings = {
 			["faction"] = "Horde",
 			["tasks.compactDB"] = 1502268652,
 			["wealth"] = 129173082,
-			["tasks.prunePostedDB"] = 1502268652,
+			["tasks.prunePostedDB"] = 1504305688,
+			["mailbox"] = {
+			},
+		},
+	},
+	["能源舰"] = {
+		["Willam"] = {
+			["tasks.sortArray"] = 1504110654,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1504110654,
+			["wealth"] = 219390882,
+			["tasks.prunePostedDB"] = 1504110654,
 			["mailbox"] = {
 			},
 		},
@@ -106,7 +146,7 @@ BeanCounterDBSettings = {
 			["faction"] = "Horde",
 			["tasks.compactDB"] = 1502114745,
 			["wealth"] = 5002201,
-			["tasks.prunePostedDB"] = 1502114745,
+			["tasks.prunePostedDB"] = 1504231312,
 			["mailbox"] = {
 			},
 		},
@@ -118,13 +158,13 @@ BeanCounterDBSettings = {
 			["faction"] = "Horde",
 			["tasks.compactDB"] = 1502128586,
 			["wealth"] = 5168259,
-			["tasks.prunePostedDB"] = 1502128586,
+			["tasks.prunePostedDB"] = 1504104282,
 			["mailbox"] = {
 			},
 		},
 	},
+	["configator.top"] = 1004.99993896484,
 	["util.beancounter.ButtonuseDateCheck"] = false,
-	["configator.top"] = 956.999877929688,
 }
 BeanCounterDBNames = {
 }

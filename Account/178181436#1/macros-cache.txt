@@ -11,6 +11,9 @@ END
 VER 3 0000000000000078 "啊" "INV_MISC_QUESTIONMARK"
 /tar 老鼠
 END
+VER 3 00000000000000E1 "打球" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover]月火术
+END
 VER 3 000000000000000B "挂机" "INV_MISC_QUESTIONMARK"
 /run local c=C_PetBattles;local a,c,d=c.UseAbility,c.ChangePet,c.IsInBattle;if d() and not PetBattleUtil_PetHasAura(2,1,918) then a(2)end;a(1)a(3)c(1)c(2)c(3)a(2)
 /tar 幸运的小艺
@@ -33,7 +36,14 @@ VER 3 000000000000000D "火箭靴" "132307"
 #showtooltip 6
 /use 6
 END
+VER 3 00000000000000E0 "重置副本" "INV_MISC_QUESTIONMARK"
+/run ResetInstances()
+END
 VER 3 000000000000000E "降落伞" "135992"
 #showtooltip 15
 /use 15
+END
+VER 3 00000000000000E2 "饰品1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
 END

@@ -18,7 +18,7 @@ MogItDB = {
 		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["global"] = {
-		["version"] = "3.8.1",
+		["version"] = "3.8.2",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -90,7 +90,7 @@ MogItDB = {
 }
 MogItWishlist = {
 	["global"] = {
-		["version"] = 70200,
+		["version"] = 70300,
 	},
 	["profileKeys"] = {
 		["星界旅行者 - 瓦拉斯塔兹"] = "星界旅行者 - 瓦拉斯塔兹",

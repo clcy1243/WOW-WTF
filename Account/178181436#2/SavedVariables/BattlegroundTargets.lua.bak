@@ -240,8 +240,8 @@ BattlegroundTargets_Options = {
 		},
 	},
 	["version"] = 27,
-	["TransliterationToggle"] = false,
 	["MinimapButtonPos"] = -90,
+	["TransliterationToggle"] = false,
 	["MinimapButton"] = false,
 	["Enemy"] = {
 		["ButtonRangeDisplay"] = {

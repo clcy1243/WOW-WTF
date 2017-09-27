@@ -11,9 +11,9 @@ TotalArtifactPowerSettings = {
 TotalArtifactPowerCache = {
 	["落天一箭 - 瓦拉斯塔兹"] = {
 		{
-			["thisLevelUnspentAP"] = 56239770,
+			["thisLevelUnspentAP"] = 8640170,
 			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 43,
+			["numTraitsPurchased"] = 44,
 			["isIgnored"] = false,
 		}, -- [1]
 		{
@@ -23,13 +23,10 @@ TotalArtifactPowerCache = {
 			["isIgnored"] = false,
 		}, -- [2]
 		{
-			["thisLevelUnspentAP"] = 3844570,
+			["thisLevelUnspentAP"] = 184656920,
 			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 46,
+			["numTraitsPurchased"] = 48,
 			["isIgnored"] = false,
 		}, -- [3]
-		["bankCache"] = {
-			["isIgnored"] = false,
-		},
 	},
 }

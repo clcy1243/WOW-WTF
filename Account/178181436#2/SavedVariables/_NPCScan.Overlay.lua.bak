@@ -6,7 +6,7 @@ _NPCScanOverlayOptions = {
 		["Minimap"] = true,
 		["OmegaMap"] = true,
 		["BattlefieldMinimap"] = true,
-		["WorldMap"] = true,
+		["WorldMap"] = false,
 	},
 	["ModulesAlpha"] = {
 		["Minimap"] = 0.5,

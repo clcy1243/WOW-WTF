@@ -24,17 +24,18 @@ MEETINGSTONE_UI_DB = {
 				["new"] = false,
 			},
 			["FilterData"] = {
-				["data"] = "^1^S老板^S消费^S马云^S有偿^S![Tt][Bb]^S![Vv][Xx]^S下单^S![Ww][Xx]^S散拍^S收费^S![Vv][Ii][Pp]^S付款^S代练^S大佬^S手工^S某宝^S微%h*信^S包团^S老店^S速成^S观影^S廉价^S价钱^S可包^S价格^S旺旺^S飞冕废^S看影^S来爷^S输入^S掉线宏^S嗖数字^S扣%h*Q^S老dian^SV望^S熊宝小站^S来太子^S差价^S躺票^S地板^S单鸡蛋^S防暂离^S出%h*买^S无ya^S出装付^S都接^S映像^S0起^S個人^S趟%h*打^^",
+				["data"] = "^1^S老板^S消费^S马云^S有偿^S![Tt][Bb]^S![Vv][Xx]^S下单^S![Ww][Xx]^S收费^S![Vv][Ii][Pp]^S付款^S代练^S大佬^S手工^S某宝^S微%h*信^S包团^S老店^S速成^S观影^S价钱^S可包^S价格^S旺旺^S差价^S躺票^S出装付^S0起^S趟%h*打^S老木反^S优惠^S上帝^S跟%h*躺^S电影^S鋿尸^S卧铺^S皇帝^S陪练^S低价^S直播^S睡%h*跟^S睡%h*帮^S降价^S可T^S维护^S座驾^S安全放心^S卧票^S无押^S大杨树^^",
 				["new"] = true,
 			},
 			["MallData"] = {
 				["data"] = "^1^SMallData^T^S宠物#2^S2003;1000,,每周限量;49287;30157#3001;850,,每周限量;93669;47348^S消耗品#3#1^S1001;60;49288;30141;2#1001;60;49289;30518;1^S玩具#1^S3005;750,,每周限量;46780#3007;450,,每周限量;69227#4002;800,,每周限量;93672^t^^",
 			},
 			["ActivitiesData"] = {
-				["data"] = "$1$Z$S131`你搞活动我买单`3v3竞技场`8月26日（周六）20点，3v3竞技场*J荒野半神阿莎曼的牺牲之地，暗夜领袖拉文凯斯的怨念之所，如今都成为了艾泽拉斯勇士们追逐荣耀的竞技场，想要属于自己的胜利，那就与活动主持人：熊猫TV-闹小闹闹（房间号：309685）携嘉宾：熊猫TV-Aracy（房间号：268291）一起参与吧！*J集合石活动QQ报名群：108885849*J集合石活动专题页面：{URL}`http://w.163.com/special/convene-stone/`1`3$$",
+				["data"] = "$1$Z$S135`你搞活动我买单`带萌新闯萨墓`9月23日（周六）20点，带萌新闯萨墓*J装等刚刚及格，苦于无处提升；药水药剂齐备，却没有经验；输出治疗坦克，没团长信任。面对窘境，无需担心，魔兽带新月，让我们与活动嘉宾：斗鱼TV-YOYO超人（房间号：175997）一起勇闯英雄萨格拉斯之墓，领略团本魅力，实现自我价值，从此萌新变强力！*J集合石活动QQ报名群：108885849*J集合石活动专题页面：{URL}`http://w.163.com/special/convene-stone/`1`3$$",
+				["new"] = false,
 			},
 		},
-		["version"] = "70200.04",
+		["version"] = "70300.02",
 		["ActivityProfiles"] = {
 			["黑鸦堡垒（史诗钥石）"] = {
 				["ItemLevel"] = 0,
@@ -69,6 +70,14 @@ MEETINGSTONE_UI_DB = {
 				["MinLevel"] = 1,
 				["HonorLevel"] = 0,
 			},
+			["翡翠梦魇（史诗）"] = {
+				["ItemLevel"] = 880,
+				["Summary"] = "Ｍ翡翠全通速推来奶骑和DPS",
+				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
+				["HonorLevel"] = 0,
+			},
 			["英灵殿（史诗钥石）"] = {
 				["ItemLevel"] = 880,
 				["Summary"] = "11英灵殿 来强力奶",
@@ -77,9 +86,9 @@ MEETINGSTONE_UI_DB = {
 				["PvPRating"] = 0,
 				["HonorLevel"] = 0,
 			},
-			["翡翠梦魇（史诗）"] = {
-				["ItemLevel"] = 880,
-				["Summary"] = "Ｍ翡翠全通速推来奶骑和DPS",
+			["永夜大教堂（史诗钥石）"] = {
+				["ItemLevel"] = 930,
+				["Summary"] = "10 教堂",
 				["PvPRating"] = 0,
 				["MaxLevel"] = 110,
 				["MinLevel"] = 110,
@@ -101,17 +110,17 @@ MEETINGSTONE_UI_DB = {
 				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
-			["群星庭院（史诗钥石）"] = {
-				["ItemLevel"] = 880,
-				["Summary"] = "13层群星来个DPS",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
+			["勇气试炼（英雄）"] = {
+				["ItemLevel"] = 885,
+				["Summary"] = "H海拉来强力人士",
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
 			["世界首领（军团再临）"] = {
 				["ItemLevel"] = 0,
-				["Summary"] = "马利费库斯",
+				["Summary"] = "丝瓦什",
 				["MinLevel"] = 110,
 				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
@@ -134,8 +143,8 @@ MEETINGSTONE_UI_DB = {
 				["HonorLevel"] = 0,
 			},
 			["魔法回廊（史诗钥石）"] = {
-				["ItemLevel"] = 0,
-				["Summary"] = "9回廊来DPS 奶",
+				["ItemLevel"] = 930,
+				["Summary"] = "14回廊来DPS 奶",
 				["PvPRating"] = 0,
 				["MaxLevel"] = 0,
 				["MinLevel"] = 0,
@@ -157,20 +166,20 @@ MEETINGSTONE_UI_DB = {
 				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
-			["勇气试炼（英雄）"] = {
-				["ItemLevel"] = 885,
-				["Summary"] = "H海拉来强力人士",
-				["PvPRating"] = 0,
-				["MaxLevel"] = 110,
+			["群星庭院（史诗钥石）"] = {
+				["ItemLevel"] = 880,
+				["Summary"] = "13层群星来个DPS",
 				["MinLevel"] = 110,
+				["MaxLevel"] = 110,
+				["PvPRating"] = 0,
 				["HonorLevel"] = 0,
 			},
 			["破碎海滩"] = {
 				["ItemLevel"] = 0,
-				["Summary"] = "阿波克隆",
-				["PvPRating"] = 0,
-				["MaxLevel"] = 110,
+				["Summary"] = "丝瓦什",
 				["MinLevel"] = 1,
+				["MaxLevel"] = 110,
+				["PvPRating"] = 0,
 				["HonorLevel"] = 0,
 			},
 			["黑心林地（史诗钥石）"] = {
@@ -230,8 +239,8 @@ MEETINGSTONE_UI_DB = {
 				["HonorLevel"] = 0,
 			},
 			["守望者地窟（史诗钥石）"] = {
-				["ItemLevel"] = 870,
-				["Summary"] = "2守望来DPS奶",
+				["ItemLevel"] = 920,
+				["Summary"] = "12地窟  来治疗 ",
 				["MinLevel"] = 110,
 				["MaxLevel"] = 110,
 				["PvPRating"] = 0,

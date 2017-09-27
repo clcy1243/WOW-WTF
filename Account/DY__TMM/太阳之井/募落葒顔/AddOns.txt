@@ -474,3 +474,7 @@ GTFO: enabled
 LibButtonGlow-1.0: enabled
 Gatherer: enabled
 Gnosis: disabled
+Stuf_Range: enabled
+StufRaid: disabled
+StufRaid_Options: disabled
+Stuf: disabled

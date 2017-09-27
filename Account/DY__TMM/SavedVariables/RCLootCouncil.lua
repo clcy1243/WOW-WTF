@@ -4,31 +4,13 @@ RCLootCouncilDB = {
 		["ExtraUtilities"] = {
 		},
 	},
+	["profileKeys"] = {
+		["国王走下神探 - 瓦拉斯塔兹"] = "Default",
+		["Willam - 能源舰"] = "Default",
+		["募落葒顔 - 太阳之井"] = "Default",
+	},
 	["global"] = {
-		["localizedSubTypes"] = {
-			["战刃"] = "Warglaives",
-			["双手斧"] = "Two-Handed Axes",
-			["弩"] = "Crossbows",
-			["双手锤"] = "Two-Handed Maces",
-			["皮甲"] = "Leather",
-			["单手斧"] = "One-Handed Axes",
-			["弓"] = "Bows",
-			["created"] = true,
-			["盾牌"] = "Shields",
-			["布甲"] = "Cloth",
-			["神器圣物"] = "Artifact Relic",
-			["法杖"] = "Staves",
-			["单手锤"] = "One-Handed Maces",
-			["魔杖"] = "Wands",
-			["拳套"] = "Fist Weapons",
-			["锁甲"] = "Mail",
-			["枪械"] = "Guns",
-			["匕首"] = "Daggers",
-			["单手剑"] = "One-Handed Swords",
-			["长柄武器"] = "Polearms",
-			["双手剑"] = "Two-Handed Swords",
-			["板甲"] = "Plate",
-		},
+		["oldVersion"] = "2.4.5",
 		["log"] = {
 			"07/15/17", -- [1]
 			"14:19:04 - Logged In", -- [2]
@@ -332,13 +314,42 @@ RCLootCouncilDB = {
 			"18:39:57 - Event: (PLAYER_ENTERING_WORLD)", -- [300]
 			"18:39:57 - GetML()", -- [301]
 			"18:39:57 - LootMethod =  (personalloot)", -- [302]
+			"08/28/17", -- [303]
+			"20:56:50 - Logged In", -- [304]
+			"20:56:50 - ML initialized!", -- [305]
+			"20:56:50 - Using ExtraUtilities (0.5.1)", -- [306]
+			"20:56:50 - EU:UpdateGuildInfo", -- [307]
+			"20:56:50 - GroupGear (1.2.4) (enabled)", -- [308]
+			"20:57:02 - Willam-能源舰 (2.4.6) (nil)", -- [309]
+			"20:57:04 - Event: (PLAYER_ENTERING_WORLD)", -- [310]
+			"20:57:04 - GetML()", -- [311]
+			"20:57:04 - LootMethod =  (personalloot)", -- [312]
 		},
-		["version"] = "2.4.5",
-		["oldVersion"] = "2.4.4",
-	},
-	["profileKeys"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = "Default",
-		["募落葒顔 - 太阳之井"] = "Default",
+		["version"] = "2.4.6",
+		["localizedSubTypes"] = {
+			["战刃"] = "Warglaives",
+			["双手斧"] = "Two-Handed Axes",
+			["弩"] = "Crossbows",
+			["双手锤"] = "Two-Handed Maces",
+			["皮甲"] = "Leather",
+			["单手斧"] = "One-Handed Axes",
+			["弓"] = "Bows",
+			["created"] = true,
+			["板甲"] = "Plate",
+			["布甲"] = "Cloth",
+			["神器圣物"] = "Artifact Relic",
+			["法杖"] = "Staves",
+			["长柄武器"] = "Polearms",
+			["单手锤"] = "One-Handed Maces",
+			["单手剑"] = "One-Handed Swords",
+			["锁甲"] = "Mail",
+			["枪械"] = "Guns",
+			["匕首"] = "Daggers",
+			["拳套"] = "Fist Weapons",
+			["魔杖"] = "Wands",
+			["双手剑"] = "Two-Handed Swords",
+			["盾牌"] = "Shields",
+		},
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -348,6 +359,7 @@ RCLootCouncilDB = {
 RCLootCouncilLootDB = {
 	["profileKeys"] = {
 		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
+		["Willam - 能源舰"] = "Willam - 能源舰",
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
 	},
 }

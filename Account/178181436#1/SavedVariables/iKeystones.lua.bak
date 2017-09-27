@@ -2,14 +2,14 @@
 iKeystonesDB = {
 	["Player-1955-01B843ED"] = {
 		["name"] = "龙剑曦",
-		["maxCompleted"] = 16,
+		["maxCompleted"] = 14,
 		["class"] = "DRUID",
 		["key"] = {
-			["map"] = 209,
-			["affix4"] = 8,
-			["level"] = 17,
+			["map"] = 239,
+			["affix4"] = 5,
+			["level"] = 14,
 			["affix10"] = 10,
-			["affix7"] = 12,
+			["affix7"] = 13,
 		},
 		["server"] = "主宰之剑",
 	},
@@ -18,6 +18,11 @@ iKeystonesDB = {
 		["maxCompleted"] = 0,
 		["class"] = "DEMONHUNTER",
 		["key"] = {
+			["map"] = 198,
+			["affix4"] = 5,
+			["level"] = 6,
+			["affix7"] = 0,
+			["affix10"] = 0,
 		},
 		["server"] = "主宰之剑",
 	},

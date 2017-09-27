@@ -5,31 +5,24 @@ RSADB = {
 		},
 	},
 	["profileKeys"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
-		["妹子你坑我 - 太阳之井"] = "妹子你坑我 - 太阳之井",
+		["Justpalymage - 太阳之井"] = "Justpalymage - 太阳之井",
 		["倾城丨小贼 - 摩摩尔"] = "倾城丨小贼 - 摩摩尔",
+		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
+		["Willam - 能源舰"] = "Willam - 能源舰",
+		["妹子你坑我 - 太阳之井"] = "妹子你坑我 - 太阳之井",
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
 	},
 	["global"] = {
 		["version"] = "3.2752",
 	},
 	["profiles"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = {
+		["Justpalymage - 太阳之井"] = {
 			["General"] = {
-				["Class"] = "WARLOCK",
-				["Race"] = "Scourge",
+				["Class"] = "MAGE",
+				["Race"] = "BloodElf",
 			},
 			["Modules"] = {
-				["Warlock"] = true,
-			},
-		},
-		["妹子你坑我 - 太阳之井"] = {
-			["General"] = {
-				["Class"] = "DEATHKNIGHT",
-				["Race"] = "Goblin",
-			},
-			["Modules"] = {
-				["DeathKnight"] = true,
+				["Mage"] = true,
 			},
 		},
 		["倾城丨小贼 - 摩摩尔"] = {
@@ -41,40 +34,67 @@ RSADB = {
 				["Rogue"] = true,
 			},
 		},
+		["国王走下神探 - 瓦拉斯塔兹"] = {
+			["General"] = {
+				["Class"] = "WARLOCK",
+				["Race"] = "Scourge",
+			},
+			["Modules"] = {
+				["Warlock"] = true,
+			},
+		},
+		["Willam - 能源舰"] = {
+			["General"] = {
+				["Race"] = "Troll",
+				["Class"] = "HUNTER",
+			},
+			["Modules"] = {
+				["Hunter"] = true,
+			},
+		},
+		["妹子你坑我 - 太阳之井"] = {
+			["General"] = {
+				["Class"] = "DEATHKNIGHT",
+				["Race"] = "Goblin",
+			},
+			["Modules"] = {
+				["DeathKnight"] = true,
+			},
+		},
 		["募落葒顔 - 太阳之井"] = {
+			["Modules"] = {
+				["Priest"] = true,
+			},
 			["General"] = {
 				["Race"] = "BloodElf",
 				["Class"] = "PRIEST",
-			},
-			["Modules"] = {
-				["Priest"] = true,
 			},
 			["Priest"] = {
 				["Spells"] = {
 					["GuardianSpirit"] = {
 						["SmartGroup"] = true,
 					},
-					["Resurrection"] = {
-						["SmartGroup"] = false,
-						["Whisper"] = false,
-					},
-					["PowerInfusion"] = {
-						["SmartGroup"] = true,
-						["Local"] = false,
-					},
 					["DispelMagic"] = {
 						["SmartGroup"] = false,
 					},
-					["PowerWordBarrier"] = {
-						["SmartGroup"] = true,
-					},
-					["BodyAndSoul"] = {
+					["Resurrection"] = {
+						["SmartGroup"] = false,
 						["Whisper"] = false,
 					},
 					["MassRess"] = {
 						["SmartGroup"] = false,
 					},
 					["LeapOfFaith"] = {
+						["Whisper"] = false,
+					},
+					["PowerInfusion"] = {
+						["SmartGroup"] = true,
+						["Local"] = false,
+					},
+					["PowerWordBarrier"] = {
+						["SmartGroup"] = true,
+					},
+					["BodyAndSoul"] = {
 						["Whisper"] = false,
 					},
 				},

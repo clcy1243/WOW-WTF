@@ -1,11 +1,34 @@
 
 Gladius2DB = {
 	["profileKeys"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
+		["Justpalymage - 太阳之井"] = "Justpalymage - 太阳之井",
 		["Etaasdfafa - 瓦拉斯塔兹"] = "Etaasdfafa - 瓦拉斯塔兹",
+		["Willam - 能源舰"] = "Willam - 能源舰",
+		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
 	},
 	["profiles"] = {
+		["Justpalymage - 太阳之井"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
+		["Etaasdfafa - 瓦拉斯塔兹"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
+		["Willam - 能源舰"] = {
+			["tagsVersion"] = 4,
+			["locked"] = true,
+			["y"] = {
+				["arena1"] = 629.39996486732,
+			},
+			["x"] = {
+				["arena1"] = 1099.20027424948,
+			},
+			["direction"] = 2,
+			["trinketCooldownReverse"] = true,
+			["auraVersion"] = 1,
+		},
 		["国王走下神探 - 瓦拉斯塔兹"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
@@ -15,10 +38,6 @@ Gladius2DB = {
 			["x"] = {
 				["arena1"] = 969.77788806591,
 			},
-		},
-		["Etaasdfafa - 瓦拉斯塔兹"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
 		},
 		["募落葒顔 - 太阳之井"] = {
 			["auraVersion"] = 1,

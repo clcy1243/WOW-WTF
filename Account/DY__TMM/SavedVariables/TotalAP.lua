@@ -1,8 +1,8 @@
 
 TotalArtifactPowerSettings = {
 	["profileKeys"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = "Default",
-		["Etaasdfafa - 瓦拉斯塔兹"] = "Default",
+		["Willam - 能源舰"] = "Default",
+		["Justpalymage - 太阳之井"] = "Default",
 		["募落葒顔 - 太阳之井"] = "Default",
 	},
 	["profiles"] = {
@@ -11,32 +11,55 @@ TotalArtifactPowerSettings = {
 	},
 }
 TotalArtifactPowerCache = {
-	["国王走下神探 - 瓦拉斯塔兹"] = {
-		["bankCache"] = {
-			["isIgnored"] = false,
-		},
-	},
-	["募落葒顔 - 太阳之井"] = {
+	["Willam - 能源舰"] = {
 		{
-			["thisLevelUnspentAP"] = 524805107,
+			["thisLevelUnspentAP"] = 1039117420,
 			["isIgnored"] = false,
-			["numTraitsPurchased"] = 54,
+			["numTraitsPurchased"] = 53,
 			["artifactTier"] = 2,
 		}, -- [1]
 		{
-			["thisLevelUnspentAP"] = 9050415,
+			["thisLevelUnspentAP"] = 2402920420,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 59,
 			["artifactTier"] = 2,
+		}, -- [2]
+		{
+			["thisLevelUnspentAP"] = 1068870,
+			["isIgnored"] = false,
 			["numTraitsPurchased"] = 52,
+			["artifactTier"] = 2,
+		}, -- [3]
+	},
+	["Justpalymage - 太阳之井"] = {
+		{
+			["isIgnored"] = false,
+		}, -- [1]
+		{
 			["isIgnored"] = false,
 		}, -- [2]
 		{
-			["thisLevelUnspentAP"] = 149578175,
-			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 52,
 			["isIgnored"] = false,
 		}, -- [3]
-		["bankCache"] = {
+	},
+	["募落葒顔 - 太阳之井"] = {
+		{
+			["thisLevelUnspentAP"] = 4087074607,
 			["isIgnored"] = false,
-		},
+			["numTraitsPurchased"] = 59,
+			["artifactTier"] = 2,
+		}, -- [1]
+		{
+			["thisLevelUnspentAP"] = 61175765,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 53,
+			["artifactTier"] = 2,
+		}, -- [2]
+		{
+			["thisLevelUnspentAP"] = 992160875,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 54,
+			["artifactTier"] = 2,
+		}, -- [3]
 	},
 }

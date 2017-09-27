@@ -2,7 +2,6 @@
 ACP_Data = {
 	["sorter"] = "按名称分组",
 	["NoRecurse"] = false,
-	["NoChildren"] = true,
 	["AddonSet"] = {
 		{
 			"_NPCScan.Overlay", -- [1]
@@ -147,23 +146,24 @@ ACP_Data = {
 			"UnitFramesPlus_Options", -- [140]
 		}, -- [1]
 	},
+	["NoChildren"] = true,
 	["collapsed"] = {
 		["RCLootCouncil"] = true,
 		["Skada"] = true,
 		["GladiatorlosSA"] = true,
 		["BigWigs"] = true,
-		["RaidAchievement"] = true,
+		["AdiBags"] = true,
 		["GatherMate"] = true,
-		["GatherMate2"] = true,
 		["HandyNotes"] = true,
+		["GatherMate2"] = true,
 		["RSA"] = true,
-		["Rarity"] = true,
+		["Hekili"] = true,
 		["GarrisonMissionManager"] = true,
 		["AtlasLoot"] = true,
-		["Hekili"] = true,
+		["Rarity"] = true,
 		["Auctioneer"] = true,
 		["TellMeWhen"] = true,
-		["AdiBags"] = true,
+		["RaidAchievement"] = true,
 	},
 	["ProtectedAddons"] = {
 		["ACP"] = true,

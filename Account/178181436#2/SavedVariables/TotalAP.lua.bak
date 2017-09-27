@@ -12,48 +12,42 @@ TotalArtifactPowerSettings = {
 TotalArtifactPowerCache = {
 	["锦在天堂 - 太阳之井"] = {
 		{
-			["thisLevelUnspentAP"] = 41490585,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 52,
-			["artifactTier"] = 2,
-		}, -- [1]
-		{
-			["thisLevelUnspentAP"] = 105668670,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 50,
-			["artifactTier"] = 2,
-		}, -- [2]
-		{
-			["thisLevelUnspentAP"] = 78841770,
-			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 44,
-			["isIgnored"] = false,
-		}, -- [3]
-		["bankCache"] = {
-			["isIgnored"] = false,
-		},
-	},
-	["龙听雨 - 巨龙之吼"] = {
-		{
-			["thisLevelUnspentAP"] = 430560250,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 58,
-			["artifactTier"] = 2,
-		}, -- [1]
-		{
-			["thisLevelUnspentAP"] = 15956155,
+			["thisLevelUnspentAP"] = 392438485,
 			["artifactTier"] = 2,
 			["numTraitsPurchased"] = 57,
 			["isIgnored"] = false,
+		}, -- [1]
+		{
+			["thisLevelUnspentAP"] = 251479670,
+			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 52,
+			["isIgnored"] = false,
 		}, -- [2]
 		{
-			["thisLevelUnspentAP"] = 300632325,
+			["thisLevelUnspentAP"] = 277733770,
+			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 52,
+			["isIgnored"] = false,
+		}, -- [3]
+	},
+	["龙听雨 - 巨龙之吼"] = {
+		{
+			["thisLevelUnspentAP"] = 4997829300,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 60,
+			["artifactTier"] = 2,
+		}, -- [1]
+		{
+			["thisLevelUnspentAP"] = 1540216755,
+			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 58,
+			["isIgnored"] = false,
+		}, -- [2]
+		{
+			["thisLevelUnspentAP"] = 897429875,
 			["artifactTier"] = 2,
 			["numTraitsPurchased"] = 53,
 			["isIgnored"] = false,
 		}, -- [3]
-		["bankCache"] = {
-			["isIgnored"] = false,
-		},
 	},
 }

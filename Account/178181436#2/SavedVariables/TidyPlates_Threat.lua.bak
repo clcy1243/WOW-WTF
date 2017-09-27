@@ -28,7 +28,7 @@ TidyPlatesThreatDB = {
 		["Default"] = {
 			["nameplate"] = {
 				["toggle"] = {
-					["Totem"] = false,
+					["Totem"] = true,
 				},
 			},
 			["uniqueSettings"] = {

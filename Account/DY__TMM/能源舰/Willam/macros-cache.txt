@@ -1,0 +1,56 @@
+VER 3 0100000000000029 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000002A "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Wil[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000030 "取消威慑" "252184"
+/canclearua 灵龟守护
+END
+VER 3 010000000000002C "嗜血战复" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [pet:熔岩犬]远古狂乱;[pet:虚空鳐]虚空之风;[pet:魁麟]永恒守护者;[pet:蛾子]生命之尘;[pet:鹤]赤精之赐;[pet:蠕虫]潜地攻击;[pet:奇美拉]冰霜风暴吐息;[help,@player,pet:灵魂兽]灵魂治愈
+END
+VER 3 010000000000002D "宠物天赋" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 破釜沉舟
+/cast 凤凰之心
+/cast 顽强
+END
+VER 3 010000000000001E "披风后跳" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 逃脱
+/use 15
+END
+VER 3 010000000000001F "沉默" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [spec:3]压制;反制射击
+END
+VER 3 0100000000000019 "生存AOE" "INV_MISC_QUESTIONMARK"
+#showtooltip 多重射击
+/castsequence reset=0 0,眼镜蛇射击
+/cast 多重射击
+END
+VER 3 010000000000002B "翼龙" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopattack
+/cast 翼龙钉刺
+END
+VER 3 010000000000001B "误导" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus,help,exists][@target,help,exists][@pet,nodead]误导
+END
+VER 3 010000000000002E "酱油宏" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence 奥术射击,奥术射击,标记射击,奥术射击,瞄准射击,瞄准射击
+END
+VER 3 010000000000002F "雄鹰" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 雄鹰守护
+/cast 狂暴
+END
+VER 3 010000000000000B "鹰眼术" "INV_Misc_QuestionMark"
+#showtooltip
+/cast !鹰眼术
+END

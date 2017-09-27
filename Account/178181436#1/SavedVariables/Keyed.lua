@@ -16,22 +16,22 @@ Keyedv4DB = {
 			["Player-1955-01B843ED"] = {
 				["uid"] = "Player-1955-01B843ED",
 				["name"] = "龙轻雪",
-				["class"] = "DRUID",
-				["keystones"] = {
-					"|cffa335ee|Hkeystone:209:17:8:12:10|h[钥石：魔法回廊]|h|r", -- [1]
-				},
-				["time"] = 1503595853,
 				["weeklybest"] = {
-					["level"] = "16",
-					["mapID"] = "200",
+					["mapID"] = "210",
+					["level"] = "14",
 				},
+				["keystones"] = {
+					"|cffa335ee|Hkeystone:239:14:5:13:10|h[钥石：执政团之座]|h|r", -- [1]
+				},
+				["class"] = "DRUID",
+				["time"] = 1506177938,
 			},
 			["Player-1955-01C5F28F"] = {
 				["uid"] = "Player-1955-01C5F28F",
-				["time"] = 1503294323,
+				["time"] = 1504194151,
 				["class"] = "DEMONHUNTER",
 				["keystones"] = {
-					"|cffa335ee|Hkeystone:210:3:0:0:0|h[钥石：群星庭院]|h|r", -- [1]
+					"|cffa335ee|Hkeystone:199:2:0:0:0|h[钥石：黑鸦堡垒]|h|r", -- [1]
 				},
 				["name"] = "龙剑曦",
 			},

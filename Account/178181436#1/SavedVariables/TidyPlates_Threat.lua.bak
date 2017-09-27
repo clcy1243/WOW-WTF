@@ -4,18 +4,18 @@ TidyPlatesThreatDB = {
 		["龙轻雪 - 主宰之剑"] = {
 			["welcome"] = true,
 			["specInfo"] = {
-				["id"] = 103,
-				["role"] = "DAMAGER",
-				["name"] = "野性",
-				["index"] = 2,
+				["id"] = 105,
+				["role"] = "HEALER",
+				["name"] = "恢复",
+				["index"] = 4,
 			},
 		},
 		["龙剑曦 - 主宰之剑"] = {
 			["specInfo"] = {
-				["id"] = 577,
-				["role"] = "DAMAGER",
-				["name"] = "浩劫",
-				["index"] = 1,
+				["id"] = 581,
+				["role"] = "TANK",
+				["name"] = "复仇",
+				["index"] = 2,
 			},
 			["welcome"] = true,
 		},

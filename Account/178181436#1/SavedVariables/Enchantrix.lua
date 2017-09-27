@@ -5,8 +5,8 @@ EnchantConfig = {
 		["configator.left"] = 560.000061035156,
 		["AutoDeRareItems"] = false,
 		["miniicon.enable"] = false,
-		["ModTTShow"] = "ctrl",
 		["AutoDeEpicItems"] = false,
+		["ModTTShow"] = "ctrl",
 		["miniicon.angle"] = 151.055955586332,
 		["configator.top"] = 764.999938964844,
 	},
@@ -185,9 +185,9 @@ EnchantConfig = {
 				["market"] = 40000,
 				["timestamp"] = 1477310951,
 			},
-			[124440] = {
-				["market"] = 50000,
-				["timestamp"] = 1477234583,
+			[11175] = {
+				["timestamp"] = 1478631878,
+				["market"] = 7000,
 			},
 			[52177] = {
 				["market"] = 10000,
@@ -201,9 +201,9 @@ EnchantConfig = {
 				["market"] = 10000,
 				["timestamp"] = 1478754931,
 			},
-			[11175] = {
-				["timestamp"] = 1478631878,
-				["market"] = 7000,
+			[124440] = {
+				["market"] = 50000,
+				["timestamp"] = 1477234583,
 			},
 			[11176] = {
 				["timestamp"] = 1478631878,
@@ -237,13 +237,13 @@ EnchantConfig = {
 			[90407] = {
 				["timestamp"] = 1477310951,
 			},
-			[10940] = {
-				["market"] = 7000,
-				["timestamp"] = 1477311981,
+			[136654] = {
+				["price5"] = 40448,
+				["timestamp"] = 1484737653,
 			},
-			[76133] = {
-				["market"] = 10000,
-				["timestamp"] = 1477310951,
+			[133589] = {
+				["price5"] = 16527,
+				["timestamp"] = 1484151068,
 			},
 			[76141] = {
 				["market"] = 40000,
@@ -261,9 +261,9 @@ EnchantConfig = {
 				["market"] = 50000,
 				["timestamp"] = 1477311994,
 			},
-			[136654] = {
-				["price5"] = 40448,
-				["timestamp"] = 1484737653,
+			[130180] = {
+				["timestamp"] = 1477234233,
+				["market"] = 400000,
 			},
 			[124441] = {
 				["timestamp"] = 1478981073,
@@ -278,9 +278,9 @@ EnchantConfig = {
 				["timestamp"] = 1477234233,
 				["market"] = 90000,
 			},
-			[130180] = {
-				["timestamp"] = 1477234233,
-				["market"] = 400000,
+			[79253] = {
+				["market"] = 70000,
+				["timestamp"] = 1483624792,
 			},
 			[11178] = {
 				["timestamp"] = 1478631878,
@@ -331,9 +331,9 @@ EnchantConfig = {
 				["market"] = 100000,
 				["timestamp"] = 1478784738,
 			},
-			[52190] = {
-				["market"] = 10000,
-				["timestamp"] = 1478754931,
+			[124442] = {
+				["timestamp"] = 1475328988,
+				["market"] = 1000000,
 			},
 			[52194] = {
 				["market"] = 10000,
@@ -374,25 +374,25 @@ EnchantConfig = {
 				["market"] = 10000,
 				["timestamp"] = 1477310951,
 			},
-			[124442] = {
-				["timestamp"] = 1475328988,
-				["market"] = 1000000,
+			[52190] = {
+				["market"] = 10000,
+				["timestamp"] = 1478754931,
 			},
 			[129100] = {
 				["timestamp"] = 1477234233,
 				["market"] = 1,
 			},
-			[79253] = {
-				["market"] = 70000,
-				["timestamp"] = 1483624792,
+			[10940] = {
+				["market"] = 7000,
+				["timestamp"] = 1477311981,
 			},
 			[123919] = {
 				["price5"] = 371938,
 				["timestamp"] = 1484153330,
 			},
-			[133589] = {
-				["price5"] = 16527,
-				["timestamp"] = 1484151068,
+			[76133] = {
+				["market"] = 10000,
+				["timestamp"] = 1477310951,
 			},
 			[22445] = {
 				["market"] = 12500,
@@ -546,7 +546,7 @@ EnchantConfig = {
 			[136654] = "野外急救包#|cffffffff|Hitem:136654::::::::110:270::::::|h[野外急救包]|h|r#1#105#1#商业技能#其它#200##1387611",
 			[34052] = "梦境碎片#|cff0070dd|Hitem:34052::::::::110:269::::::|h[梦境碎片]|h|r#3#80#0#商业技能#附魔材料#200##237015",
 			[133589] = "达拉佩诺胡椒#|cffffffff|Hitem:133589::::::::110:104::::::|h[达拉佩诺胡椒]|h|r#1#1#0#商业技能#烹饪#200##1387643",
-			[124442] = "混沌水晶#|cffa335ee|Hitem:124442::::::::110:577::::::|h[混沌水晶]|h|r#4#110#0#商业技能#附魔材料#200##1379176",
+			[124442] = "混沌水晶#|cffa335ee|Hitem:124442::::::::110:104::::::|h[混沌水晶]|h|r#4#110#0#商业技能#附魔材料#200##1379176",
 			[113264] = "Sorcerous Air#|cff1eff00|Hitem:113264:0:0:0:0:0:0:0:100:267:0:0:0|h[Sorcerous Air]|h|r#2#100#0#Trade Goods#Elemental#200##Interface\\ICONS\\INV_TRADESKILLITEM_SORCERERSWIND_TONG.blp",
 			[39338] = "Golden Pigment#|cffffffff|Hitem:39338:0:0:0:0:0:0:0:93:0:0:0|h[Golden Pigment]|h|r#1#20#0#Trade Goods#Other#200##Interface\\ICONS\\INV_Inscription_Pigment_Golden.blp",
 			[39354] = "Light Parchment#|cffffffff|Hitem:39354:0:0:0:0:0:0:0:96:0:0:0|h[Light Parchment]|h|r#1#1#0#Trade Goods#Other#200##Interface\\ICONS\\INV_Inscription_Papyrus.blp",
@@ -755,9 +755,9 @@ EnchantConfig = {
 			["混沌尖晶"] = "item:130175:0:0:0",
 			["邪煞水晶碎片"] = "item:105718:0:0:0",
 			["晨光石"] = "item:130180:0:0:0",
-			["邪煞水晶"] = "item:74248:0:0:0",
-			["暗影紫玉"] = "item:130183:0:0:0",
 			["水晶瓶"] = "item:3371:0:0:0",
+			["暗影紫玉"] = "item:130183:0:0:0",
+			["邪煞水晶"] = "item:74248:0:0:0",
 			["邪能页岩"] = "item:123919:0:0:0",
 			["时光水晶"] = "item:113588:0:0:0",
 			["荒玉"] = "item:76139:0:0:0",

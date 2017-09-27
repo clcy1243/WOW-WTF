@@ -37,13 +37,13 @@ BeanCounterDBSettings = {
 			["version"] = 3.04,
 			["faction"] = "Horde",
 			["tasks.compactDB"] = 1481105578,
-			["wealth"] = 139201190,
+			["wealth"] = 139659006,
 			["tasks.prunePostedDB"] = 1481105578,
 			["mailbox"] = {
 			},
 		},
 	},
-	["configator.top"] = 769,
+	["configator.top"] = 865.000122070313,
 	["util.beancounter.ButtonuseDateCheck"] = false,
 }
 BeanCounterDBNames = {

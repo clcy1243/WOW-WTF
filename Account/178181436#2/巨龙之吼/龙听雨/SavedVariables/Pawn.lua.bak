@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0211,
+	["LastVersion"] = 2.0214,
 	["LastPlayerFullName"] = "龙听雨-巨龙之吼",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

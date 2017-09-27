@@ -1,0 +1,65 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0214,
+	["LastPlayerFullName"] = "Willam-能源舰",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["Artifacts"] = {
+		[128826] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Wind",
+				}, -- [1]
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Life",
+				}, -- [3]
+			},
+			["Name"] = "萨斯多拉，风行者的遗产",
+		},
+		[128861] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 56,
+					["Type"] = "Wind",
+				}, -- [1]
+				{
+					["ItemLevel"] = 58,
+					["Type"] = "Arcane",
+				}, -- [2]
+				{
+					["ItemLevel"] = 52,
+					["Type"] = "Iron",
+				}, -- [3]
+			},
+			["Name"] = "泰坦之击",
+		},
+		[128808] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 59,
+					["Type"] = "Wind",
+				}, -- [1]
+				{
+					["ItemLevel"] = 56,
+					["Type"] = "Iron",
+				}, -- [2]
+				{
+					["ItemLevel"] = 55,
+					["Type"] = "Blood",
+				}, -- [3]
+			},
+			["Name"] = "雄鹰之爪，荒野诸神之矛",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "HUNTER",
+	["LastAdded"] = 1,
+}

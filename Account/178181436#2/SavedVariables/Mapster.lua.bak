@@ -13,7 +13,10 @@ MapsterDB = {
 		["FogClear"] = {
 			["profiles"] = {
 				["Default"] = {
+					["colorR"] = 0.603921568627451,
 					["version"] = 2,
+					["colorB"] = 0.603921568627451,
+					["colorG"] = 0.603921568627451,
 				},
 			},
 		},
@@ -39,7 +42,6 @@ MapsterDB = {
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["FogClear"] = false,
 				["Coords"] = false,
 			},
 			["scale"] = 0.954513669013977,

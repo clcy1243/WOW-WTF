@@ -1,10 +1,10 @@
-VER 3 000000000000002D "1" "INV_Misc_QuestionMark"
-#showtooltip 神圣震击
-/use [@mouseover,harm] [@target,harm] [@targettarget,harm] [@targettargettarget,harm] [@boss1,harm] [@boss2,harm] [@boss3,harm] 神圣震击
-END
 VER 3 000000000000002E "1" "INV_Misc_QuestionMark"
 #showtooltip 审判
 /use [@mouseover,harm] [@target,harm] [@targettarget,harm] [@targettargettarget,harm] [@boss1,harm] [@boss2,harm] [@boss3,harm] 审判
+END
+VER 3 000000000000002D "1" "INV_Misc_QuestionMark"
+#showtooltip 神圣震击
+/use [@mouseover,harm] [@target,harm] [@targettarget,harm] [@targettargettarget,harm] [@boss1,harm] [@boss2,harm] [@boss3,harm] 神圣震击
 END
 VER 3 000000000000002F "3" "INV_MISC_QUESTIONMARK"
 /click PVPReadyDialogEnterBattleButton
@@ -46,10 +46,6 @@ VER 3 0000000000000035 "BX" "INV_Misc_QuestionMark"
 /cancelAura 寒冰屏障
 /cast 寒冰屏障
 END
-VER 3 000000000000001F "Decursive" "INV_MISC_QUESTIONMARK"
-/stopcasting
-/cast [@mouseover,nomod,exists] 牺牲之手;  [@mouseover,exists,mod:ctrl] 清洁术; [@mouseover,exists,mod:shift] 牺牲之手
-END
 VER 3 0000000000000036 "Decursive" "INV_MISC_QUESTIONMARK"
 /stopcasting
 /cast [@mouseover,nomod,exists] 净化灵魂;  [@mouseover,exists,mod:ctrl] 妖术; [@mouseover,exists,mod:shift] 净化灵魂
@@ -57,6 +53,10 @@ END
 VER 3 0000000000000037 "Decursive" "INV_MISC_QUESTIONMARK"
 /stopcasting
 /cast [@mouseover,nomod,exists] 清洁术;  [@mouseover,exists,mod:ctrl] 清洁术; [@mouseover,exists,mod:shift] 清洁术
+END
+VER 3 000000000000001F "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 牺牲之手;  [@mouseover,exists,mod:ctrl] 清洁术; [@mouseover,exists,mod:shift] 牺牲之手
 END
 VER 3 0000000000000038 "FishingBuddy" "INV_Misc_QuestionMark"
 #showtooltip Fishing

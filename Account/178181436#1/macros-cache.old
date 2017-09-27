@@ -5,206 +5,15 @@ END
 VER 3 0000000000000005 "DS" "SPELL_SHADOW_ANTIMAGICSHELL"
 /click ExtraActionButton1
 END
-VER 3 00000000000000A9 "偷袭" "INV_Misc_QuestionMark"
-#showtooltip 偷袭
-/施放 搜索
-/施放 偷袭
-END
-VER 3 00000000000000AA "光" "135955"
-/RA   二组 红黄 蓝
-      三组 黄 蓝 红 
-      四组  蓝 红 黄
-END
-VER 3 00000000000000AB "冬拥湖" "132093"
-/run BattlefieldMgrQueueRequest(1) 
-END
-VER 3 00000000000000AC "冲动" "INV_Misc_QuestionMark"
-#showtooltip 冲动
-/cast 冲动
-/cast 暗影之刃
-/use 13
-/use 兔妖之啮
-END
-VER 3 00000000000000AD "冲动" "INV_Misc_QuestionMark"
-#showtooltip 冲动
-/cast 冲动
-/cast 暗影之刃
-/USE 荆棘刺客手套
-END
-VER 3 00000000000000AE "出血" "INV_Misc_QuestionMark"
-#showtooltip 出血 
-/startattack 
-/cast 出血
-/use 恶孽角斗士的皮甲手套
-END
-VER 3 00000000000000AF "出血" "INV_Misc_QuestionMark"
-#showtooltip 出血
-/startattack
-/cast 出血
-END
-VER 3 00000000000000B0 "凿击" "INV_Misc_QuestionMark"
-#showtooltip 凿击
-/console targetNearestDistance 10,000000
-/targetenemy [noharm][dead]
-/console targetNearestDistance 41.000000
-/cast [harm,nodead] 凿击
-/startattack
-/stopattack
-END
-VER 3 00000000000000B2 "刀扇" "INV_Misc_QuestionMark"
-#showtooltips 刀扇
-/startattack 
-/cast 刀扇
-END
-VER 3 00000000000000B1 "刀扇" "INV_Misc_QuestionMark"
-#showtooltip 刀扇
-/startattack
-/cast 刀扇
-END
-VER 3 00000000000000B3 "切割" "132306"
-/施放 切割
-/施放 
-END
-VER 3 00000000000000B4 "切武器姿态换武器" "132349"
-/equipslot 16 恶毒角斗士的军刀
-END
-VER 3 00000000000000B5 "刺杀爆发" "132331"
-/施放 消失
-/施放 预谋
-END
-VER 3 00000000000000B6 "剔骨" "132292"
-/施放 刺骨
-/use 荆棘刺客手套
-END
-VER 3 00000000000000B7 "割裂" "135561"
-/cast 割裂
-/use 荆棘刺客手套
-/use 恶毒角斗士的皮甲手套
-END
-VER 3 00000000000000B8 "卖卡" "627485"
-/6 65收黄金莲，40收潘达利亚草药
-END
 VER 3 0000000000000075 "取消保护" "135964"
 /cancelaura 保护祝福
-END
-VER 3 00000000000000B9 "取消炸弹" "136242"
-/cancelaura 魂飞魄散
-END
-VER 3 00000000000000BA "吐痰" "311430"
-/E 一口粘痰吐进了%T嘴里，%T幸福的吞了下去
 END
 VER 3 0000000000000078 "啊" "INV_MISC_QUESTIONMARK"
 /tar 老鼠
 END
-VER 3 00000000000000BB "喊人" "413591"
-/4 {猥琐}丨悬念丨{胜利}地狱1-13HG团，来消费布{rt3}皮{rt4}板{rt4}锁{rt1}武器饰品的老板！包团包毕业老板！品牌保障，斗鱼全程直播！玛胖面前
-END
-VER 3 00000000000000BD "喊话" "132874"
-/5 <辰 月> 9h黑石G团，来QSM ZLS老板 打工就位。
-END
-VER 3 00000000000000BC "喊话" "134400"
-/script T,F=T or 0,F or CreateFrame("frame")if X then print("off") X=nil else print("on") X=function()local t=GetTime()if t-T>10 then SendChatMessage(ps,"channel",nil,4)T=t end end end F:SetScript("OnUpdate",X)
-END
-VER 3 00000000000000BE "固定" "INV_Misc_QuestionMark"
-#showtooltip 嫁祸诀窍 
-/tar 凝霜灵月
-/cast 嫁祸诀窍
-/targetlasttarget
-END
-VER 3 00000000000000BF "圣" "1030095"
-/bfmount
-/施放 信仰道标
-/施放 圣光术
-END
-VER 3 00000000000000C1 "坐骑" "132226"
-/RandomMount
-END
-VER 3 00000000000000C0 "坐骑" "132226"
-/use 深渊海马
-/use 魔法扫帚
-/use 米米尔隆的头部
-/use 奥的灰烬
-/use 黑色其拉作战坦克
-END
-VER 3 00000000000000C3 "坐骑" "132226"
-/DBM PULL 8
-END
-VER 3 00000000000000C2 "坐骑" "132242"
-/cancelaura 伪装
-/castrandom [noflyable] 瑞文戴尔的死亡战马,炽热战马,库卡隆战蝎
-/stopmacro [noflyable] 
-/castrandom 奥的灰烬,无头骑士的坐骑
-END
-VER 3 00000000000000C4 "复仇" "458726"
-/cast 仇杀
-/cast 暗影之刃
-/cast 拳手之灵巧药水
-/cast 荆棘刺客手套
-/cast 
-END
-VER 3 00000000000000C5 "天神视角" "132093"
-/console CameraDistanceMaxFactor 150
-END
-VER 3 00000000000000C6 "天鬼" "INV_Misc_QuestionMark"
-#showtooltip 召唤石像鬼
-/cast 10
-/cast 召唤石像鬼
-END
-VER 3 00000000000000C7 "嫁祸" "INV_Misc_QuestionMark"
-#showtooltip
-/cast [@focus,help,exists]嫁祸诀窍
-/script SendChatMessage("嫁祸已给","whisper",GetDefaultLanguage("focus"),UnitName("focus"))
-END
-VER 3 00000000000000C8 "嫁祸指向" "INV_Misc_QuestionMark"
-#showtooltip 嫁祸诀窍
-/cast [target=mouseover,help,nodead] 嫁祸诀窍
-END
-VER 3 00000000000000C9 "小雨" "413591"
-/cast [target= 雨涟漪] 嫁祸诀窍
-END
-VER 3 00000000000000CA "巴黎" "603962"
-/目标 你笑的很巴黎
-/目标 情丝指间绕
-/目标 黑暗符文战争使者
-END
-VER 3 00000000000000CB "广告" "134400"
-/script ps=" {微笑}-《名人堂》- 1-10 H黑石开打新CD强力打工就位-来各种消费老板, 29=1 比例极低";sc=SendChatMessage;
-END
-VER 3 00000000000000CD "开怪" "457636"
-/PS PULL 10
-END
-VER 3 00000000000000CC "开怪" "236149"
-/dbm pull 10
-END
-VER 3 00000000000000CE "开怪倒数" "413590"
-/dbm pull 5
-END
-VER 3 0000000000000010 "开怪宏" "INV_MISC_QUESTIONMARK"
-/pull 10
-END
-VER 3 00000000000000CF "开箱子" "134400"
-/cast 回收
-/use 一袋回收的物资
-/use 一箱回收物资
-/use 一大箱回收物资 
-END
-VER 3 00000000000000D0 "强" "135358"
-/stopcasting
-/targetenemy 
-/script SetCVar("targetNearestDistance", 8) 
-/cast 斩杀
-END
-VER 3 00000000000000D1 "影舞" "458737"
-/cast 暗影之舞
-/cast 暗影之刃
-/use 恶孽角斗士的征服徽章
-END
-VER 3 00000000000000D2 "找" "538241"
-/目标 神秘骆驼刻像
-/tar 库卡隆军旗
-/tar 阴郁的化身
-/tar 龙喉碎骨者
-/TAR 加尔鲁什
+VER 3 00000000000000E1 "打球" "INV_MISC_QUESTIONMARK"
+/tar 邪能炸药
+/cast 月火术
 END
 VER 3 000000000000000B "挂机" "INV_MISC_QUESTIONMARK"
 /run local c=C_PetBattles;local a,c,d=c.UseAbility,c.ChangePet,c.IsInBattle;if d() and not PetBattleUtil_PetHasAura(2,1,918) then a(2)end;a(1)a(3)c(1)c(2)c(3)a(2)
@@ -214,63 +23,9 @@ END
 VER 3 0000000000000077 "收人" "INV_MISC_QUESTIONMARK"
 /4 —————25满级公会（2700成就)   →【星陨】←来满级PVE精英PVP达人  ，公会H暗夜要塞开荒阶段中.招收新人工会全力培养————欢迎来到无基友不魔兽的大型娱乐公会————
 END
-VER 3 00000000000000D3 "斩杀" "INV_Misc_QuestionMark"
-#showtooltip 斩杀
-/cast [@mouseover,harm,nodead] [] 斩杀
-END
-VER 3 00000000000000D4 "方块" "603529"
-/script SetRaidTarget("target",2)
-END
-VER 3 00000000000000D5 "旋风斩" "INV_Misc_QuestionMark"
-#showtooltip 旋风斩
-/stopcasting
-/cast 旋风斩
-END
-VER 3 00000000000000D6 "暂停" "132305"
-/PS BREAK 10
-END
-VER 3 00000000000000D7 "暗" "INV_Misc_QuestionMark"
-#showtooltip 脚踢
-/目标 落樊
-/cast 暗影步 
-END
-VER 3 00000000000000D8 "暗步肾击" "INV_Misc_QuestionMark"
-#showtooltip 肾击
-/cast 暗影步 
-/cast 肾击
-END
-VER 3 00000000000000D9 "暗舞" "236279"
-/施放 暗影之舞
-/use 14
-/use 13
-/use 10
-END
-VER 3 00000000000000DA "杀戮" "INV_Misc_QuestionMark"
-#showtooltip 影舞步
-/施放 血性狂怒(种族特长)
-/use 13
-/cast 影舞步
-END
 VER 3 0000000000000076 "标记宏" "INV_MISC_QUESTIONMARK"
 /script SetRaidTarget("mouseover",2)
 /click ExtraActionButton1
-END
-VER 3 00000000000000DB "死握" "INV_Misc_QuestionMark"
-#showtooltip 死亡之握 
-/cast [modifier:alt,target=focus,exists] [target=mouseover,exists,harm]死亡之握; 死亡之握
-END
-VER 3 00000000000000DC "毁伤" "INV_Misc_QuestionMark"
-#showtooltip 毁伤
-/startattack
-/cast 毁伤
-END
-VER 3 00000000000000DD "毁伤" "132304"
-/施放 毁伤
-/use 荆棘刺客手套
-END
-VER 3 00000000000000DE "消失闷" "457635"
-/施放 消失
-/施放 闷棍
 END
 VER 3 00000000000000DF "潜行消失" "INV_Misc_QuestionMark"
 #showtooltip
@@ -282,47 +37,14 @@ VER 3 000000000000000D "火箭靴" "132307"
 #showtooltip 6
 /use 6
 END
-VER 3 00000000000000E0 "灵界打击" "237517"
-/cast 灵界打击
-/cast 活力分流
-/cast 白骨之盾
-END
-VER 3 00000000000000E1 "灵界打击" "237517"
-/cast 灵界打击
-/cast 活力分流
-END
-VER 3 00000000000000E2 "烟雾弹" "458733"
-/施放 烟雾弹
-/S 烟雾弹开启，7秒全团小铁人 
-/IN 2 /S 剩余时间五秒 
-/IN 3 /S 剩余时间四秒 
-/IN 4 /S 剩余时间三秒 
-/IN 5 /S 剩余时间二秒
-/IN 6 /S 剩余时间一秒
-/IN 7 /S 烟雾弹结束
-END
-VER 3 00000000000000E3 "烹饪" "133971"
-#show 烹饪
-/equipslot 1 大厨的帽子
-/cast 烹饪
-END
-VER 3 00000000000000E4 "焦点" "134400"
-/focus
-END
-VER 3 00000000000000E5 "焦点T" "INV_Misc_QuestionMark"
-#showtooltip 暗影步
-/stopcasting
-/Cast [target=focus,exists] 暗影步;暗影步
-/Cast [target=focus,exists] 脚踢;脚踢
-END
-VER 3 00000000000000E6 "焦点盲" "136175"
-/Cast [target=focus,exists] 致盲;致盲
-END
-VER 3 00000000000000E7 "焦踢" "654235"
-/cast [target=focus, exists] 脚踢; 脚踢;
-/y 我已第2打断，2组玻璃渣请准备
+VER 3 00000000000000E0 "重置副本" "INV_MISC_QUESTIONMARK"
+/run ResetInstances()
 END
 VER 3 000000000000000E "降落伞" "135992"
 #showtooltip 15
 /use 15
+END
+VER 3 00000000000000E2 "饰品1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
 END

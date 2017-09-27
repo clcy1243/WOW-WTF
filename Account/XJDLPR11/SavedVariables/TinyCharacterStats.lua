@@ -1,6 +1,6 @@
 
 TinyCharacterStatsDB = {
-	["落天一箭:瓦拉斯塔兹:1"] = {
+	["落天一箭:瓦拉斯塔兹:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -98,7 +98,7 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "落天一箭:瓦拉斯塔兹:1",
+		["uniqueKey"] = "落天一箭:瓦拉斯塔兹:3",
 	},
 	["落天一箭:瓦拉斯塔兹:2"] = {
 		{
@@ -300,7 +300,7 @@ TinyCharacterStatsDB = {
 		}, -- [32]
 		["uniqueKey"] = "露易十八岁:瓦拉斯塔兹:3",
 	},
-	["落天一箭:瓦拉斯塔兹:3"] = {
+	["落天一箭:瓦拉斯塔兹:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -398,6 +398,6 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "落天一箭:瓦拉斯塔兹:3",
+		["uniqueKey"] = "落天一箭:瓦拉斯塔兹:1",
 	},
 }

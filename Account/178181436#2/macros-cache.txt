@@ -15,3 +15,7 @@ VER 3 0000000000000001 "虚弱宏" "INV_MISC_QUESTIONMARK"
 /run RepopMe() RetrieveCorpse() 
 /run RepopMe() AcceptResurrect() AcceptXPLoss()
 END
+VER 3 0000000000000006 "饰品1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END

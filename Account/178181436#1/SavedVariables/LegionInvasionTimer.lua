@@ -19,16 +19,17 @@ legionTimerDB = {
 		1, -- [4]
 	},
 	["barTexture"] = "Blizzard Raid Bar",
+	["tooltipHideAchiev"] = true,
 	["width"] = 200,
 	["timeText"] = true,
-	["font"] = "默认",
+	["alignZone"] = "LEFT",
 	["colorBarBackground"] = {
 		0, -- [1]
 		0, -- [2]
 		0, -- [3]
 		0.75, -- [4]
 	},
-	["prev"] = 1503554402,
+	["prev"] = 1506418198,
 	["height"] = 20,
 	["colorNext"] = {
 		0.25, -- [1]
@@ -42,5 +43,5 @@ legionTimerDB = {
 		1, -- [3]
 		1, -- [4]
 	},
-	["alignZone"] = "LEFT",
+	["font"] = "默认",
 }

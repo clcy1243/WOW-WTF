@@ -1609,7 +1609,7 @@ TinyCharacterStatsDB = {
 		}, -- [32]
 		["uniqueKey"] = "斯特莱夫:瓦拉斯塔兹:3",
 	},
-	["龙听雨:主宰之剑:3"] = {
+	["信仰丶圣光:摩摩尔:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -1707,7 +1707,7 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "龙听雨:主宰之剑:3",
+		["uniqueKey"] = "信仰丶圣光:摩摩尔:1",
 	},
 	["龙剑曦:主宰之剑:3"] = {
 		{
@@ -2316,7 +2316,7 @@ TinyCharacterStatsDB = {
 		}, -- [32]
 		["uniqueKey"] = "龙听雨:巨龙之吼:2",
 	},
-	["信仰丶圣光:摩摩尔:1"] = {
+	["龙听雨:主宰之剑:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -2414,7 +2414,7 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "信仰丶圣光:摩摩尔:1",
+		["uniqueKey"] = "龙听雨:主宰之剑:3",
 	},
 	["龙听雨:主宰之剑:2"] = {
 		{

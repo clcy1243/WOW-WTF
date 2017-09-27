@@ -2,13 +2,13 @@
 TidyPlatesThreatDB = {
 	["char"] = {
 		["落天一箭 - 瓦拉斯塔兹"] = {
+			["welcome"] = true,
 			["specInfo"] = {
 				["id"] = 255,
 				["role"] = "DAMAGER",
 				["name"] = "生存",
 				["index"] = 3,
 			},
-			["welcome"] = true,
 		},
 	},
 	["profileKeys"] = {

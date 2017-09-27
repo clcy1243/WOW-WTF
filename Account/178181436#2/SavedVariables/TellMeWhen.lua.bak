@@ -1,6 +1,6 @@
 
 TellMeWhenDB = {
-	["Version"] = 84105,
+	["Version"] = 84201,
 	["profileKeys"] = {
 		["倾城丨猫爷 - 太阳之井"] = "倾城丨猫爷 - 太阳之井",
 		["龙听雨 - 主宰之剑"] = "龙听雨 - 主宰之剑",
@@ -2728,10 +2728,10 @@ TellMeWhenDB = {
 									["Level"] = 1,
 								}, -- [3]
 								{
-									["Level"] = 1,
 									["Type"] = "SPELLCHARGES",
-									["PrtsAfter"] = 1,
+									["Level"] = 1,
 									["Name"] = "185123",
+									["PrtsAfter"] = 1,
 								}, -- [4]
 								["n"] = 4,
 							},
@@ -5977,7 +5977,7 @@ TellMeWhenDB = {
 		},
 		["锦在天堂 - 太阳之井"] = {
 			["Locked"] = true,
-			["Version"] = 84105,
+			["Version"] = 84201,
 			["Groups"] = {
 				{
 					["Icons"] = {
@@ -6031,14 +6031,10 @@ TellMeWhenDB = {
 			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
-			["Version"] = 84105,
+			["Version"] = 84201,
 			["NumGroups"] = 2,
 			["Groups"] = {
 				{
-					["Point"] = {
-						["y"] = -98.265624475044,
-						["x"] = 156.684301362254,
-					},
 					["Scale"] = 1.63332951068878,
 					["Rows"] = 6,
 					["EnabledSpecs"] = {
@@ -6051,8 +6047,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "215479",
 							["ShowTimerText"] = true,
+							["Name"] = "215479",
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -6118,8 +6114,8 @@ TellMeWhenDB = {
 										{
 											["Type"] = "DEBUFFDUR",
 											["Checked"] = true,
-											["Operator"] = "<",
 											["Unit"] = "target",
+											["Operator"] = "<",
 											["Name"] = "123725",
 											["Level"] = 1.3,
 										}, -- [1]
@@ -6668,11 +6664,17 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1OS8knAxTvDZ",
+					["Point"] = {
+						["y"] = 64.562744140625,
+						["x"] = 163.681659668702,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+					},
 				}, -- [1]
 				{
 					["Point"] = {
-						["y"] = -61.1247711181641,
-						["x"] = -89.6250305175781,
+						["y"] = -96.934310913086,
+						["x"] = -113.244079589844,
 					},
 					["Rows"] = 3,
 					["EnabledSpecs"] = {

@@ -37,8 +37,8 @@ ExtraBarsSave = {
 						{
 							["Type"] = "item",
 							["ItemName"] = "要塞炉石",
-							["ItemLink"] = "|cffffffff|Hitem:110560::::::::110:102::::::|h[要塞炉石]|h|r",
 							["ItemID"] = 110560,
+							["ItemLink"] = "|cffffffff|Hitem:110560::::::::110:102::::::|h[要塞炉石]|h|r",
 						}, -- [9]
 						{
 							["Type"] = "empty",
@@ -46,14 +46,14 @@ ExtraBarsSave = {
 						{
 							["Type"] = "item",
 							["ItemName"] = "达拉然炉石",
-							["ItemLink"] = "|cffffffff|Hitem:140192::::::::110:102::::::|h[达拉然炉石]|h|r",
 							["ItemID"] = 140192,
+							["ItemLink"] = "|cffffffff|Hitem:140192::::::::110:102::::::|h[达拉然炉石]|h|r",
 						}, -- [11]
 						{
 							["Type"] = "item",
 							["ItemName"] = "飞行管理员的哨子",
-							["ItemLink"] = "|cff0070dd|Hitem:141605::::::::110:102::::::|h[飞行管理员的哨子]|h|r",
 							["ItemID"] = 141605,
+							["ItemLink"] = "|cff0070dd|Hitem:141605::::::::110:102::::::|h[飞行管理员的哨子]|h|r",
 						}, -- [12]
 					},
 				}, -- [1]
@@ -151,22 +151,22 @@ ExtraBarsSave = {
 				{
 					["Buttons"] = {
 						{
-							["ItemName"] = "太阳花粉",
-							["Type"] = "item",
 							["ItemLink"] = "|cff1eff00|Hitem:140439::::::::110:105::::::|h[太阳花粉]|h|r",
+							["Type"] = "item",
 							["ItemID"] = 140439,
+							["ItemName"] = "太阳花粉",
 						}, -- [1]
 						{
-							["ItemName"] = "加尼尔之花",
-							["Type"] = "item",
 							["ItemLink"] = "|cff1eff00|Hitem:140397::::::::110:105::::::|h[加尼尔之花]|h|r",
+							["Type"] = "item",
 							["ItemID"] = 140397,
+							["ItemName"] = "加尼尔之花",
 						}, -- [2]
 						{
-							["ItemName"] = "移形换影装置",
-							["Type"] = "item",
 							["ItemLink"] = "|cff0070dd|Hitem:111820::::::::110:105::::::|h[移形换影装置]|h|r",
+							["Type"] = "item",
 							["ItemID"] = 111820,
+							["ItemName"] = "移形换影装置",
 						}, -- [3]
 						{
 							["Type"] = "spell",
@@ -177,16 +177,16 @@ ExtraBarsSave = {
 							["Type"] = "empty",
 						}, -- [5]
 						{
-							["ItemName"] = "魔法汉堡",
-							["Type"] = "item",
 							["ItemLink"] = "|cffffffff|Hitem:113509::::::::110:105::::::|h[魔法汉堡]|h|r",
+							["Type"] = "item",
 							["ItemID"] = 113509,
+							["ItemName"] = "魔法汉堡",
 						}, -- [6]
 						{
-							["ItemName"] = "强化钓鱼竿",
-							["Type"] = "item",
 							["ItemLink"] = "|cffffffff|Hitem:6365::::::::110:105::::::|h[强化钓鱼竿]|h|r",
+							["Type"] = "item",
 							["ItemID"] = 6365,
+							["ItemName"] = "强化钓鱼竿",
 						}, -- [7]
 						{
 							["Type"] = "empty",

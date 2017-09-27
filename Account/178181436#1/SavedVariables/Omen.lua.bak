@@ -43,15 +43,15 @@ Omen3DB = {
 		},
 		["龙轻雪 - 主宰之剑"] = {
 			["PositionW"] = 164.000061035156,
-			["PositionH"] = 116.500022888184,
+			["PositionH"] = 116.500045776367,
 			["VGrip2"] = 94.3000247421284,
-			["PositionY"] = 443.500213623047,
+			["PositionY"] = 283.500122070313,
 			["Shown"] = false,
 			["MinimapIcon"] = {
 				["minimapPos"] = 149.153406891088,
 			},
 			["VGrip1"] = 69.7000182876601,
-			["PositionX"] = 354.700897216797,
+			["PositionX"] = 459.081573486328,
 		},
 		["斯特莱夫 - 瓦拉斯塔兹"] = {
 			["PositionX"] = 274.499938964844,
@@ -61,9 +61,9 @@ Omen3DB = {
 				["minimapPos"] = 231.614614842906,
 				["hide"] = true,
 			},
-			["Shown"] = false,
-			["ClampToScreen"] = false,
 			["IgnorePlayerPets"] = false,
+			["ClampToScreen"] = false,
+			["Shown"] = false,
 			["PositionH"] = 82.0000152587891,
 		},
 		["倾城丨烟雨 - 摩摩尔"] = {

@@ -1,7 +1,18 @@
 
 GrailDatabase = {
+	["BadQuestData"] = {
+		"G89|41778|65536|Title:启动熔炉|Locale:zhCN", -- [1]
+		"G89|41778|65536|Title:启动熔炉|Locale:zhCN", -- [2]
+		"G89|45422|0|Level:0", -- [3]
+		"G89|39986|0|Level:0", -- [4]
+		"G89|39987|0|Level:0", -- [5]
+		"G89|40008|0|Level:0", -- [6]
+		"G89|40123|0|Level:0", -- [7]
+		"G89|40009|0|Level:0", -- [8]
+		"G89|44672|0|Level:0", -- [9]
+		"G89|40011|0|Level:0", -- [10]
+	},
 	["delayEventsHandled"] = true,
-	["delayEvents"] = true,
 	["learned"] = {
 		["QUEST_NAME"] = {
 			"zhCN|24461|48021|克罗米", -- [1]
@@ -96,16 +107,5 @@ GrailDatabase = {
 		"New quest completed 44672", -- [11]
 		"New quest completed 40012", -- [12]
 	},
-	["BadQuestData"] = {
-		"G89|41778|65536|Title:启动熔炉|Locale:zhCN", -- [1]
-		"G89|41778|65536|Title:启动熔炉|Locale:zhCN", -- [2]
-		"G89|45422|0|Level:0", -- [3]
-		"G89|39986|0|Level:0", -- [4]
-		"G89|39987|0|Level:0", -- [5]
-		"G89|40008|0|Level:0", -- [6]
-		"G89|40123|0|Level:0", -- [7]
-		"G89|40009|0|Level:0", -- [8]
-		"G89|44672|0|Level:0", -- [9]
-		"G89|40011|0|Level:0", -- [10]
-	},
+	["delayEvents"] = true,
 }

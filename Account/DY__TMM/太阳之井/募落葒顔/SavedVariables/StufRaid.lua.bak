@@ -1,0 +1,56 @@
+
+StufRaidCharLayoutDB = nil
+StufRaidCharDB = {
+	["balert"] = {
+		["激活"] = true,
+		["装死"] = true,
+		["暗影斗篷"] = true,
+		["盾墙"] = true,
+		["圣佑术"] = true,
+		["部落军旗"] = true,
+		["复活盟友"] = true,
+		["保护祝福"] = true,
+		["寒冰屏障"] = true,
+		["假死"] = true,
+		["牺牲祝福"] = true,
+		["误导"] = true,
+		["暗影视界"] = true,
+		["狂暴"] = true,
+		["虚空风暴旗帜"] = true,
+		["联盟军旗"] = true,
+		["闪避"] = true,
+		["隐形术"] = true,
+		["痛苦压制"] = true,
+		["破釜沉舟"] = true,
+		["渐隐术"] = true,
+		["守护之魂"] = true,
+		["消失"] = true,
+		["救赎之魂"] = true,
+		["圣盾术"] = true,
+	},
+	["bshow"] = "raid",
+	["dalert"] = {
+		["致命伤"] = true,
+		["奥术吐息"] = true,
+		["蛛网裹体"] = true,
+		["瞄准射击"] = true,
+		["专注打击"] = true,
+		["复活虚弱"] = true,
+		["冰霜冲击"] = true,
+		["猛攻"] = true,
+		["致死打击"] = true,
+		["寒冰箭"] = true,
+		["克尔苏加德锁链"] = true,
+		["旋风"] = true,
+	},
+	["dinclude"] = {
+	},
+	["dexclude"] = {
+		["变异注射"] = true,
+	},
+	["binclude"] = {
+	},
+	["bexclude"] = {
+	},
+	["dshow"] = "raid",
+}

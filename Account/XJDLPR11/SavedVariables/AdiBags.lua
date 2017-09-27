@@ -1,11 +1,11 @@
 
 AdiBagsDB = {
 	["namespaces"] = {
-		["军团再临"] = {
-		},
-		["ItemLevel"] = {
+		["Hearthstones"] = {
 		},
 		["MoneyFrame"] = {
+		},
+		["ItemLevel"] = {
 		},
 		["FilterOverride"] = {
 			["profiles"] = {
@@ -22,30 +22,15 @@ AdiBagsDB = {
 						["消耗品"] = true,
 						["杂项"] = true,
 						["商业技能"] = true,
-						["宝石"] = true,
 						["配方"] = true,
+						["宝石"] = true,
 					},
 				},
 			},
 		},
-		["Bound"] = {
+		["DataSource"] = {
 		},
 		["NewItem"] = {
-		},
-		["Garrison"] = {
-		},
-		["AdiBags_TooltipInfo"] = {
-		},
-		["Legion"] = {
-		},
-		["Equipment"] = {
-			["profiles"] = {
-				["Default"] = {
-					["dispatchRule"] = "slot",
-				},
-			},
-		},
-		["ItemSets"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -60,27 +45,42 @@ AdiBagsDB = {
 						["托尔巴拉德奖章"] = false,
 						["原油"] = false,
 						["黑暗之尘"] = false,
-						["时空扭曲徽章"] = false,
+						["铁掌徽记"] = false,
 						["世界之树的印记"] = false,
 						["抗魔联军战争物资"] = false,
-						["永恒铸币"] = false,
+						["要塞物资"] = false,
 						["长者的好运符"] = false,
 						["魔古命运符文"] = false,
 						["美食家奖章"] = false,
 						["勇气点数"] = false,
 						["死亡之翼的堕落精华"] = false,
-						["要塞物资"] = false,
+						["永恒铸币"] = false,
 						["冠军的徽记"] = false,
-						["铁掌徽记"] = false,
+						["时空扭曲徽章"] = false,
 					},
 				},
 			},
 		},
-		["DataSource"] = {
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Legion"] = {
+		},
+		["ItemSets"] = {
+		},
+		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dispatchRule"] = "slot",
+				},
+			},
+		},
+		["Garrison"] = {
+		},
+		["Bound"] = {
 		},
 		["Junk"] = {
 		},
-		["Hearthstones"] = {
+		["军团再临"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -95,10 +95,7 @@ AdiBagsDB = {
 			["virtualStacks"] = {
 				["freeSpace"] = false,
 			},
-			["columnWidth"] = {
-				["Bank"] = 10,
-				["Backpack"] = 12,
-			},
+			["scale"] = 0.9,
 			["maxHeight"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
@@ -109,10 +106,13 @@ AdiBagsDB = {
 			["filters"] = {
 				["ItemSets"] = false,
 			},
-			["scale"] = 0.9,
-			["rightClickConfig"] = false,
-			["autoDeposit"] = true,
+			["columnWidth"] = {
+				["Backpack"] = 12,
+				["Bank"] = 10,
+			},
 			["hideAnchor"] = true,
+			["autoDeposit"] = true,
+			["rightClickConfig"] = false,
 		},
 	},
 }

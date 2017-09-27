@@ -6,12 +6,12 @@ PawnCommon = {
 	["ShowItemID"] = false,
 	["ShowRelicUpgrades"] = true,
 	["ShowValuesForUpgradesOnly"] = false,
-	["Digits"] = 1,
 	["ShowLootUpgradeAdvisor"] = true,
-	["Debug"] = false,
+	["Digits"] = 1,
+	["ShowEnchanted"] = true,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = false,
-	["LastVersion"] = 2.0211,
+	["LastVersion"] = 2.0214,
 	["ShowSocketingAdvisor"] = true,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
@@ -310,6 +310,21 @@ PawnCommon = {
 			["UnenchantedColor"] = "bfbfbf",
 			["SpecID"] = 2,
 		},
+		["\"MrRobot\":WARRIOR1"] = {
+			["IconTexturePath"] = 132355,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "c79c6e",
+			["LocalizedName"] = "战士: 武器",
+			["ClassID"] = 1,
+			["DoNotShow1HUpgrades"] = true,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["UnenchantedColor"] = "957552",
+			["SpecID"] = 1,
+		},
 		["\"MrRobot\":PALADIN3"] = {
 			["IconTexturePath"] = 135873,
 			["PerCharacterOptions"] = {
@@ -328,21 +343,6 @@ PawnCommon = {
 			["UnenchantedColor"] = "b7698b",
 			["SpecID"] = 3,
 		},
-		["\"MrRobot\":WARRIOR1"] = {
-			["IconTexturePath"] = 132355,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "c79c6e",
-			["LocalizedName"] = "战士: 武器",
-			["ClassID"] = 1,
-			["DoNotShow1HUpgrades"] = true,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "957552",
-			["SpecID"] = 1,
-		},
 		["\"MrRobot\":WARLOCK2"] = {
 			["IconTexturePath"] = 136172,
 			["PerCharacterOptions"] = {
@@ -358,21 +358,6 @@ PawnCommon = {
 			["UnenchantedColor"] = "6566b2",
 			["SpecID"] = 2,
 		},
-		["\"MrRobot\":DEMONHUNTER2"] = {
-			["IconTexturePath"] = 1247265,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "a330c9",
-			["ClassID"] = 12,
-			["LocalizedName"] = "恶魔猎手: 复仇",
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["SpecID"] = 2,
-			["UnenchantedColor"] = "7a2496",
-		},
 		["\"MrRobot\":MAGE1"] = {
 			["IconTexturePath"] = 135932,
 			["PerCharacterOptions"] = {
@@ -387,6 +372,21 @@ PawnCommon = {
 			["Provider"] = "MrRobot",
 			["UnenchantedColor"] = "2f95b0",
 			["SpecID"] = 1,
+		},
+		["\"MrRobot\":DEMONHUNTER2"] = {
+			["IconTexturePath"] = 1247265,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "a330c9",
+			["ClassID"] = 12,
+			["LocalizedName"] = "恶魔猎手: 复仇",
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["SpecID"] = 2,
+			["UnenchantedColor"] = "7a2496",
 		},
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = 132115,
@@ -436,6 +436,9 @@ PawnCommon = {
 		["\"MrRobot\":DEATHKNIGHT3"] = {
 			["IconTexturePath"] = 135775,
 			["PerCharacterOptions"] = {
+				["锦在天堂-太阳之井"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ff4d6b",
 			["LocalizedName"] = "死亡骑士: 邪恶",
@@ -532,9 +535,6 @@ PawnCommon = {
 		["\"MrRobot\":DEATHKNIGHT1"] = {
 			["IconTexturePath"] = 135770,
 			["PerCharacterOptions"] = {
-				["锦在天堂-太阳之井"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ff4d6b",
 			["LocalizedName"] = "死亡骑士: 鲜血",
@@ -627,6 +627,6 @@ PawnCommon = {
 	["ButtonPosition"] = 1,
 	["IgnoreGemsWhileLeveling"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,
-	["ShowEnchanted"] = true,
+	["Debug"] = false,
 	["ShownGettingStarted"] = true,
 }

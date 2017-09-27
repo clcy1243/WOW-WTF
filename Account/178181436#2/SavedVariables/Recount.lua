@@ -128,10 +128,10 @@ RecountDB = {
 					["Nontrivial"] = true,
 					["Boss"] = true,
 					["Hostile"] = true,
-					["Ungrouped"] = true,
 					["Unknown"] = true,
-					["Trivial"] = true,
+					["Ungrouped"] = true,
 					["Grouped"] = true,
+					["Trivial"] = true,
 				},
 				["TrackDeaths"] = {
 					["Hostile"] = true,
@@ -153,8 +153,8 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["MainWindowHeight"] = 122.400001525879,
 			["LastInstanceName"] = "阿莎曼之墓",
+			["MainWindowHeight"] = 122.400001525879,
 			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 295.199951171875,
 			["Colors"] = {
@@ -169,7 +169,6 @@ RecountDB = {
 			},
 		},
 		["锦在天堂 - 太阳之井"] = {
-			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = 243.250183105469,
@@ -178,6 +177,7 @@ RecountDB = {
 					["h"] = 209.499908447266,
 				},
 			},
+			["MainWindowHeight"] = 209.500061035156,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -188,12 +188,13 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowHeight"] = 209.500061035156,
-			["LastInstanceName"] = "噬魂之喉",
-			["MainWindowWidth"] = 333.750061035156,
+			["MainWindowVis"] = false,
+			["LastInstanceName"] = "萨格拉斯之墓",
 			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 333.750061035156,
 		},
 		["龙听雨 - 巨龙之吼"] = {
+			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = 316.5,
@@ -213,11 +214,10 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -255.25,
-			["DetailWindowX"] = 496.999633789063,
-			["MainWindowVis"] = false,
-			["LastInstanceName"] = "萨格拉斯之墓",
-			["CurDataSet"] = "OverallData",
+			["LastInstanceName"] = "执政团之座",
 			["MainWindowMode"] = 4,
+			["CurDataSet"] = "OverallData",
+			["DetailWindowX"] = 496.999633789063,
 		},
 	},
 }

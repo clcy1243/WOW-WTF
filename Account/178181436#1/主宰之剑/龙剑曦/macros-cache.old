@@ -15,10 +15,14 @@ VER 3 0100000000000006 "SBNevTank" "INV_MISC_QUESTIONMARK"
 /click SBNevTank
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1RM1NM1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙剑曦[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N只混风醉梦的大兄第[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙剑曦[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000008 "原地火符" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] 烈焰咒符
 END
 VER 3 010000000000000E "原地跳" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -36,7 +40,7 @@ VER 3 0100000000000010 "混打刃舞" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /click [button:2] 混打刃舞 RightButton; [button:3] 混打刃舞 MiddleButton; [button:4] 混打刃舞 Button4; [button:5] 混打刃舞 Button5; 混打刃舞
 END
-VER 3 0100000000000008 "火符" "INV_MISC_QUESTIONMARK"
+VER 3 0100000000000012 "火符" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor] 烈焰咒符
 END

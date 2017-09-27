@@ -4,7 +4,7 @@ InformantConfig = {
 	["profile.Default"] = {
 	},
 	["position"] = {
-		["y"] = 640,
+		["y"] = 688,
 		["x"] = 959.999877929688,
 	},
 }

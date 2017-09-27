@@ -6,12 +6,12 @@ PawnCommon = {
 	["ShowItemID"] = false,
 	["ShowRelicUpgrades"] = true,
 	["ShowValuesForUpgradesOnly"] = false,
-	["Digits"] = 1,
 	["ShowLootUpgradeAdvisor"] = true,
-	["Debug"] = false,
+	["Digits"] = 1,
+	["ShowEnchanted"] = true,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = false,
-	["LastVersion"] = 2.0211,
+	["LastVersion"] = 2.0214,
 	["ShowSocketingAdvisor"] = true,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
@@ -68,6 +68,9 @@ PawnCommon = {
 				["Etaasdfafa-瓦拉斯塔兹"] = {
 					["Visible"] = true,
 				},
+				["募落葒顔-太阳之井"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ffffff",
 			["LocalizedName"] = "牧师: 戒律",
@@ -98,6 +101,9 @@ PawnCommon = {
 		["\"MrRobot\":MAGE3"] = {
 			["IconTexturePath"] = 135846,
 			["PerCharacterOptions"] = {
+				["Justpalymage-太阳之井"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "3fc7eb",
 			["LocalizedName"] = "法师: 冰霜",
@@ -305,36 +311,6 @@ PawnCommon = {
 			["UnenchantedColor"] = "6566b2",
 			["SpecID"] = 2,
 		},
-		["\"MrRobot\":PALADIN2"] = {
-			["IconTexturePath"] = 236264,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "f58cba",
-			["LocalizedName"] = "圣骑士: 防护",
-			["ClassID"] = 2,
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "b7698b",
-			["SpecID"] = 2,
-		},
-		["\"MrRobot\":DEMONHUNTER2"] = {
-			["IconTexturePath"] = 1247265,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "a330c9",
-			["LocalizedName"] = "恶魔猎手: 复仇",
-			["ClassID"] = 12,
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "7a2496",
-			["SpecID"] = 2,
-		},
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = 132115,
 			["PerCharacterOptions"] = {
@@ -348,6 +324,36 @@ PawnCommon = {
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
 			["UnenchantedColor"] = "bf5d07",
+			["SpecID"] = 2,
+		},
+		["\"MrRobot\":SHAMAN3"] = {
+			["IconTexturePath"] = 136052,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "0070de",
+			["LocalizedName"] = "萨满祭司: 恢复",
+			["ClassID"] = 7,
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "HEALER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["UnenchantedColor"] = "0054a6",
+			["SpecID"] = 3,
+		},
+		["\"MrRobot\":PALADIN2"] = {
+			["IconTexturePath"] = 236264,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "f58cba",
+			["LocalizedName"] = "圣骑士: 防护",
+			["ClassID"] = 2,
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["UnenchantedColor"] = "b7698b",
 			["SpecID"] = 2,
 		},
 		["\"MrRobot\":MAGE1"] = {
@@ -368,6 +374,9 @@ PawnCommon = {
 		["\"MrRobot\":HUNTER1"] = {
 			["IconTexturePath"] = 461112,
 			["PerCharacterOptions"] = {
+				["Willam-能源舰"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "abd473",
 			["LocalizedName"] = "猎人: 野兽控制",
@@ -485,20 +494,20 @@ PawnCommon = {
 			["UnenchantedColor"] = "bf3950",
 			["SpecID"] = 1,
 		},
-		["\"MrRobot\":SHAMAN3"] = {
-			["IconTexturePath"] = 136052,
+		["\"MrRobot\":DEMONHUNTER2"] = {
+			["IconTexturePath"] = 1247265,
 			["PerCharacterOptions"] = {
 			},
-			["Color"] = "0070de",
-			["LocalizedName"] = "萨满祭司: 恢复",
-			["ClassID"] = 7,
+			["Color"] = "a330c9",
+			["LocalizedName"] = "恶魔猎手: 复仇",
+			["ClassID"] = 12,
 			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "HEALER",
-			["DoNotShow2HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "0054a6",
-			["SpecID"] = 3,
+			["UnenchantedColor"] = "7a2496",
+			["SpecID"] = 2,
 		},
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
@@ -518,9 +527,6 @@ PawnCommon = {
 		["\"MrRobot\":PRIEST2"] = {
 			["IconTexturePath"] = 237542,
 			["PerCharacterOptions"] = {
-				["募落葒顔-太阳之井"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ffffff",
 			["LocalizedName"] = "牧师: 神圣",
@@ -568,6 +574,6 @@ PawnCommon = {
 	["ButtonPosition"] = 1,
 	["IgnoreGemsWhileLeveling"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,
-	["ShowEnchanted"] = true,
+	["Debug"] = false,
 	["ShownGettingStarted"] = true,
 }

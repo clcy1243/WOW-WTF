@@ -8,19 +8,21 @@ RSADB = {
 		["version"] = "3.2752",
 	},
 	["profileKeys"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
+		["Justpalymage - 太阳之井"] = "Justpalymage - 太阳之井",
 		["倾城丨小贼 - 摩摩尔"] = "倾城丨小贼 - 摩摩尔",
+		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
+		["Willam - 能源舰"] = "Willam - 能源舰",
 		["妹子你坑我 - 太阳之井"] = "妹子你坑我 - 太阳之井",
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
 	},
 	["profiles"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = {
+		["Justpalymage - 太阳之井"] = {
 			["General"] = {
-				["Race"] = "Scourge",
-				["Class"] = "WARLOCK",
+				["Race"] = "BloodElf",
+				["Class"] = "MAGE",
 			},
 			["Modules"] = {
-				["Warlock"] = true,
+				["Mage"] = true,
 			},
 		},
 		["倾城丨小贼 - 摩摩尔"] = {
@@ -30,6 +32,24 @@ RSADB = {
 			},
 			["Modules"] = {
 				["Rogue"] = true,
+			},
+		},
+		["国王走下神探 - 瓦拉斯塔兹"] = {
+			["General"] = {
+				["Race"] = "Scourge",
+				["Class"] = "WARLOCK",
+			},
+			["Modules"] = {
+				["Warlock"] = true,
+			},
+		},
+		["Willam - 能源舰"] = {
+			["General"] = {
+				["Race"] = "Troll",
+				["Class"] = "HUNTER",
+			},
+			["Modules"] = {
+				["Hunter"] = true,
 			},
 		},
 		["妹子你坑我 - 太阳之井"] = {
@@ -42,31 +62,20 @@ RSADB = {
 			},
 		},
 		["募落葒顔 - 太阳之井"] = {
-			["General"] = {
-				["Race"] = "BloodElf",
-				["Class"] = "PRIEST",
-			},
 			["Modules"] = {
 				["Priest"] = true,
+			},
+			["General"] = {
+				["Class"] = "PRIEST",
+				["Race"] = "BloodElf",
 			},
 			["Priest"] = {
 				["Spells"] = {
 					["GuardianSpirit"] = {
 						["SmartGroup"] = true,
 					},
-					["Resurrection"] = {
-						["SmartGroup"] = false,
-						["Whisper"] = false,
-					},
-					["PowerInfusion"] = {
-						["SmartGroup"] = true,
-						["Local"] = false,
-					},
 					["DispelMagic"] = {
 						["SmartGroup"] = false,
-					},
-					["PowerWordBarrier"] = {
-						["SmartGroup"] = true,
 					},
 					["BodyAndSoul"] = {
 						["Whisper"] = false,
@@ -75,6 +84,17 @@ RSADB = {
 						["SmartGroup"] = false,
 					},
 					["LeapOfFaith"] = {
+						["Whisper"] = false,
+					},
+					["PowerInfusion"] = {
+						["SmartGroup"] = true,
+						["Local"] = false,
+					},
+					["PowerWordBarrier"] = {
+						["SmartGroup"] = true,
+					},
+					["Resurrection"] = {
+						["SmartGroup"] = false,
 						["Whisper"] = false,
 					},
 				},

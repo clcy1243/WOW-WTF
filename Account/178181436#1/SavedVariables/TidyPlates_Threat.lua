@@ -3,10 +3,10 @@ TidyPlatesThreatDB = {
 	["char"] = {
 		["龙轻雪 - 主宰之剑"] = {
 			["specInfo"] = {
-				["id"] = 103,
-				["role"] = "DAMAGER",
-				["name"] = "野性",
-				["index"] = 2,
+				["id"] = 105,
+				["role"] = "HEALER",
+				["name"] = "恢复",
+				["index"] = 4,
 			},
 			["welcome"] = true,
 		},
@@ -28,7 +28,7 @@ TidyPlatesThreatDB = {
 		["Default"] = {
 			["nameplate"] = {
 				["toggle"] = {
-					["Totem"] = false,
+					["Totem"] = true,
 				},
 			},
 			["uniqueSettings"] = {

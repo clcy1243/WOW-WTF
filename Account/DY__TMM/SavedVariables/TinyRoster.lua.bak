@@ -8,6 +8,7 @@ TinyRosterDB = {
 	["MountJournalSearchBox"] = {
 		["depands"] = "Blizzard_Collections",
 		["list"] = {
+			"邪", -- [1]
 		},
 	},
 	["GlyphFrame.SearchBox"] = {
@@ -20,12 +21,15 @@ TinyRosterDB = {
 	["BrowseName"] = {
 		["depands"] = "Blizzard_AuctionUI",
 		["list"] = {
-			"隐形药水", -- [1]
-			"符鳞锦鲤", -- [2]
-			"符文锦鲤", -- [3]
-			"石皮皮革", -- [4]
-			"迅捷晨光", -- [5]
-			"魔力之血", -- [6]
+			"头戴式瞬发", -- [1]
+			"头戴式顺发", -- [2]
+			"头戴式", -- [3]
+			"隐形药水", -- [4]
+			"符鳞锦鲤", -- [5]
+			"符文锦鲤", -- [6]
+			"石皮皮革", -- [7]
+			"迅捷晨光", -- [8]
+			"魔力之血", -- [9]
 		},
 	},
 	["ToyBox.searchBox"] = {

@@ -2,6 +2,7 @@
 RecountDB = {
 	["profileKeys"] = {
 		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
+		["Willam - 能源舰"] = "Willam - 能源舰",
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
 	},
 	["profiles"] = {
@@ -9,6 +10,26 @@ RecountDB = {
 			["MainWindow"] = {
 				["Position"] = {
 					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Willam - 能源舰"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 6.1035156250e-005,
+					["w"] = 140.000122070313,
+					["h"] = 200.000076293945,
 				},
 			},
 			["Colors"] = {

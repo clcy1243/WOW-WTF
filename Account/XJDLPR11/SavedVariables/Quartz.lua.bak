@@ -16,14 +16,14 @@ Quartz3DB = {
 				},
 			},
 		},
+		["EnemyCasts"] = {
+		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["x"] = 850.238098144531,
 				},
 			},
-		},
-		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},
@@ -41,16 +41,16 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Mirror"] = {
-		},
 		["Range"] = {
+		},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
 	},
 	["profileKeys"] = {
-		["落天一箭 - 瓦拉斯塔兹"] = "Default",
 		["露易十八岁 - 瓦拉斯塔兹"] = "Default",
+		["落天一箭 - 瓦拉斯塔兹"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

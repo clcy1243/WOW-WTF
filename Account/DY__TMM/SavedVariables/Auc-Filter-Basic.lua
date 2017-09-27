@@ -8,6 +8,10 @@ AucAdvancedFilterBasic_IgnoreList = {
 		["List"] = {
 		},
 	},
+	["能源舰"] = {
+		["List"] = {
+		},
+	},
 	["太阳之井"] = {
 		["List"] = {
 		},

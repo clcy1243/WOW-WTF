@@ -1,0 +1,28956 @@
+
+DeathGraphsDBDeaths = {
+	["189714"] = {
+		["hash"] = "189714",
+		["type"] = "deaths",
+		["name"] = "戒卫侍女",
+		["id"] = 1897,
+		["diff"] = 14,
+		["player_db"] = {
+			["Nesevil"] = {
+				["overall"] = {
+					[3] = 4559683,
+					[235214] = 159163,
+					[235138] = 1891016,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Nesevil",
+				["class"] = "WARLOCK",
+			},
+			["有隻大白兎丶"] = {
+				["overall"] = {
+					[235214] = 157588,
+					[235138] = 2434461,
+				},
+				["deaths"] = {
+				},
+				["name"] = "有隻大白兎丶",
+				["class"] = "PALADIN",
+			},
+			["伽罗"] = {
+				["overall"] = {
+					[235138] = 2633059,
+					[235253] = 156541,
+				},
+				["deaths"] = {
+				},
+				["name"] = "伽罗",
+				["class"] = "DRUID",
+			},
+			["Willam"] = {
+				["overall"] = {
+					[235573] = 1867635,
+					[234896] = 146337,
+					[3] = 17357,
+					[236432] = 72397,
+					[235138] = 1721110,
+					[235253] = 156325,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Willam",
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["overall"] = {
+					[3] = 2749268,
+					[235214] = 123442,
+					[235138] = 1409838,
+				},
+				["deaths"] = {
+				},
+				["name"] = "小榴莲我们走",
+				["class"] = "DEMONHUNTER",
+			},
+			["斯凯塞克"] = {
+				["overall"] = {
+					[235125] = 217517,
+					[234896] = 66799,
+					[3] = 3408059,
+					[236432] = 205474,
+					[235214] = 144235,
+					[235253] = 115388,
+				},
+				["deaths"] = {
+				},
+				["name"] = "斯凯塞克",
+				["class"] = "DRUID",
+			},
+			["Jibayang"] = {
+				["overall"] = {
+					[235253] = 156386,
+					[235138] = 2802388,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Jibayang",
+				["class"] = "PRIEST",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["overall"] = {
+					369040, -- [1]
+					[241624] = 620000,
+					[235569] = 3765463,
+					[235125] = 273867,
+				},
+				["deaths"] = {
+				},
+				["name"] = "愤怒的小咕咕-太阳之井",
+				["class"] = "DRUID",
+			},
+			["Azura"] = {
+				["overall"] = {
+					[235253] = 156546,
+					[236432] = 178248,
+					[234896] = 88604,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Azura",
+				["class"] = "WARRIOR",
+			},
+			["青桔柠檬"] = {
+				["overall"] = {
+					[234896] = 116223,
+					[236432] = 233184,
+					[235253] = 151134,
+				},
+				["deaths"] = {
+				},
+				["name"] = "青桔柠檬",
+				["class"] = "HUNTER",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 7,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2052,
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "戒卫侍女",
+			["encounter"] = "戒卫侍女",
+			["ej_instance_id"] = 875,
+			["diff"] = 14,
+		},
+	},
+	["189814"] = {
+		["hash"] = "189814",
+		["type"] = "deaths",
+		["name"] = "基尔加丹",
+		["id"] = 1898,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["overall"] = {
+					[239216] = 766867,
+					[238502] = 1762757,
+				},
+				["deaths"] = {
+				},
+				["name"] = "丨冬雪依旧丨",
+				["class"] = "HUNTER",
+			},
+			["Nesevil"] = {
+				["overall"] = {
+					[234310] = 1305888,
+					[241721] = 187832,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Nesevil",
+				["class"] = "WARLOCK",
+			},
+			["青桔柠檬"] = {
+				["overall"] = {
+					[239155] = 366441,
+					[239216] = 493030,
+					[239852] = 1698861,
+				},
+				["deaths"] = {
+				},
+				["name"] = "青桔柠檬",
+				["class"] = "HUNTER",
+			},
+			["Jibayang"] = {
+				["overall"] = {
+					[239216] = 756886,
+					[239155] = 375033,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Jibayang",
+				["class"] = "PRIEST",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 9,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2051,
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "基尔加丹",
+			["encounter"] = "基尔加丹",
+			["ej_instance_id"] = 875,
+			["diff"] = 14,
+		},
+	},
+	["186114"] = {
+		["hash"] = "186114",
+		["type"] = "deaths",
+		["name"] = "主母萨丝琳",
+		["id"] = 1861,
+		["diff"] = 14,
+		["player_db"] = {
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 5,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2037,
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "主母萨丝琳",
+			["encounter"] = "主母萨丝琳",
+			["ej_instance_id"] = 875,
+			["diff"] = 14,
+		},
+	},
+	["190315"] = {
+		["hash"] = "190315",
+		["type"] = "deaths",
+		["name"] = "月之姐妹",
+		["id"] = 1903,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 4,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2050,
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "月之姐妹",
+			["diff"] = 15,
+			["ej_instance_id"] = 875,
+			["encounter"] = "月之姐妹",
+		},
+		["player_db"] = {
+			["Willam"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[236541] = 1740183,
+					[236516] = 1153288,
+					[236519] = 850266,
+				},
+				["name"] = "Willam",
+			},
+		},
+		["diff"] = 15,
+	},
+	["185614"] = {
+		["hash"] = "185614",
+		["type"] = "deaths",
+		["name"] = "哈亚坦",
+		["id"] = 1856,
+		["diff"] = 14,
+		["player_db"] = {
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 3,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "哈亚坦",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "哈亚坦",
+			["diff"] = 14,
+			["id"] = 2036,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["186214"] = {
+		["hash"] = "186214",
+		["type"] = "deaths",
+		["name"] = "格罗斯",
+		["id"] = 1862,
+		["diff"] = 14,
+		["player_db"] = {
+			["小榴莲我们走"] = {
+				["overall"] = {
+					2889532, -- [1]
+					[233062] = 788342,
+					[231363] = 602641,
+				},
+				["deaths"] = {
+				},
+				["name"] = "小榴莲我们走",
+				["class"] = "DEMONHUNTER",
+			},
+			["有隻大白兎丶"] = {
+				["overall"] = {
+					[236329] = 3915242,
+					[233283] = 1469494,
+				},
+				["deaths"] = {
+				},
+				["name"] = "有隻大白兎丶",
+				["class"] = "PALADIN",
+			},
+			["Northwind"] = {
+				["overall"] = {
+					[233062] = 4686805,
+					[7] = 482351,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Northwind",
+				["class"] = "HUNTER",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 1,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "格罗斯",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "格罗斯",
+			["diff"] = 14,
+			["id"] = 2032,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["186115"] = {
+		["hash"] = "186115",
+		["type"] = "deaths",
+		["name"] = "主母萨丝琳",
+		["id"] = 1861,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 5,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2037,
+			["mapid"] = 1676,
+			["name"] = "主母萨丝琳",
+			["diff"] = 15,
+			["encounter"] = "主母萨丝琳",
+			["ej_instance_id"] = 875,
+		},
+		["player_db"] = {
+			["只是没智商"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+					349335, -- [1]
+					[230920] = 461331,
+					[230214] = 1917752,
+					[230959] = 228946,
+				},
+				["name"] = "只是没智商",
+			},
+			["Northwind"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[234621] = 863310,
+					[232754] = 231614,
+					[230214] = 2410903,
+				},
+				["name"] = "Northwind",
+			},
+			["龙听雨-巨龙之吼"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+					541859, -- [1]
+					[124255] = 979084,
+				},
+				["name"] = "龙听雨-巨龙之吼",
+			},
+			["Cleversomuch"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[234621] = 431209,
+					[232732] = 2564745,
+					[232754] = 462750,
+					[232916] = 444240,
+					[230920] = 463490,
+				},
+				["name"] = "Cleversomuch",
+			},
+			["柚子吃了猫"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+					5040293, -- [1]
+					[230920] = 1377885,
+					[232754] = 229280,
+					[230276] = 416740,
+				},
+				["name"] = "柚子吃了猫",
+			},
+			["挪威鸭嘎嘎-白骨荒野"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+					4062729, -- [1]
+					[234621] = 233562,
+					[232754] = 250646,
+					[230214] = 1366624,
+					[230920] = 758659,
+					[230143] = 3695028,
+				},
+				["name"] = "挪威鸭嘎嘎-白骨荒野",
+			},
+			["Lluvia"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[230920] = 924786,
+					[234621] = 430188,
+					[232916] = 443188,
+				},
+				["name"] = "Lluvia",
+			},
+			["Mikamiko-白骨荒野"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[230143] = 4857546,
+					[234621] = 674824,
+					[232754] = 407353,
+					[230214] = 1974272,
+				},
+				["name"] = "Mikamiko-白骨荒野",
+			},
+			["Nesevil"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+					4649425, -- [1]
+					[234621] = 431816,
+					[230201] = 1067677,
+					[232754] = 231700,
+				},
+				["name"] = "Nesevil",
+			},
+			["Jibayang"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[230920] = 904208,
+					[234621] = 420615,
+					[232754] = 225691,
+				},
+				["name"] = "Jibayang",
+			},
+			["Désolé"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[230920] = 454674,
+					[234621] = 230961,
+					[232754] = 314586,
+				},
+				["name"] = "Désolé",
+			},
+			["灰豆豆"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[232885] = 90741048,
+					[234621] = 792713,
+					[232916] = 408335,
+				},
+				["name"] = "灰豆豆",
+			},
+			["李逍遥丶-白骨荒野"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+					4516596, -- [1]
+					[87023] = 971310,
+				},
+				["name"] = "李逍遥丶-白骨荒野",
+			},
+			["Willam"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[232732] = 1246357,
+					[234747] = 189094,
+					[234621] = 1257294,
+					[232885] = 95947376,
+				},
+				["name"] = "Willam",
+			},
+			["荒梦与鹿"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[234621] = 811519,
+					[232754] = 435439,
+				},
+				["name"] = "荒梦与鹿",
+			},
+			["圣光之血"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+					5558072, -- [1]
+				},
+				["name"] = "圣光之血",
+			},
+			["乌托邦的托"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+					726787, -- [1]
+					[232754] = 428794,
+				},
+				["name"] = "乌托邦的托",
+			},
+			["不是三般的毒-太阳之井"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+					2390456, -- [1]
+					[232754] = 291272,
+					[230143] = 3432780,
+				},
+				["name"] = "不是三般的毒-太阳之井",
+			},
+			["丑德豪无人性-白骨荒野"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[230920] = 443568,
+					[234621] = 412675,
+					[232754] = 438431,
+				},
+				["name"] = "丑德豪无人性-白骨荒野",
+			},
+			["卑鄙的外乡人-白骨荒野"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[232885] = 97741048,
+					[232732] = 423219,
+					[232754] = 769710,
+					[234621] = 358624,
+					[230959] = 191298,
+					[230920] = 917789,
+				},
+				["name"] = "卑鄙的外乡人-白骨荒野",
+			},
+			["一坨黄"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+					352809, -- [1]
+					[232754] = 444828,
+					[230276] = 202130,
+				},
+				["name"] = "一坨黄",
+			},
+		},
+		["diff"] = 15,
+	},
+	["185615"] = {
+		["hash"] = "185615",
+		["type"] = "deaths",
+		["name"] = "哈亚坦",
+		["id"] = 1856,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 3,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "哈亚坦",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "哈亚坦",
+			["diff"] = 15,
+			["ej_instance_id"] = 875,
+			["id"] = 2036,
+			["killed"] = true,
+		},
+		["player_db"] = {
+		},
+		["diff"] = 15,
+	},
+	["186714"] = {
+		["hash"] = "186714",
+		["type"] = "deaths",
+		["name"] = "恶魔审判庭",
+		["id"] = 1867,
+		["diff"] = 14,
+		["player_db"] = {
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 2,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "恶魔审判庭",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "恶魔审判庭",
+			["diff"] = 14,
+			["id"] = 2048,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["190314"] = {
+		["hash"] = "190314",
+		["type"] = "deaths",
+		["name"] = "月之姐妹",
+		["id"] = 1903,
+		["diff"] = 14,
+		["player_db"] = {
+			["璀璨小枪-屠魔山谷"] = {
+				["overall"] = {
+					[236306] = 5673878,
+				},
+				["deaths"] = {
+				},
+				["name"] = "璀璨小枪-屠魔山谷",
+				["class"] = "HUNTER",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 4,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "月之姐妹",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "月之姐妹",
+			["diff"] = 14,
+			["id"] = 2050,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["189614"] = {
+		["hash"] = "189614",
+		["type"] = "deaths",
+		["name"] = "绝望的聚合体",
+		["id"] = 1896,
+		["diff"] = 14,
+		["player_db"] = {
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 6,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "绝望的聚合体",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "绝望的聚合体",
+			["diff"] = 14,
+			["id"] = 2054,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["189615"] = {
+		["hash"] = "189615",
+		["type"] = "deaths",
+		["name"] = "绝望的聚合体",
+		["id"] = 1896,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 6,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "绝望的聚合体",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "绝望的聚合体",
+			["diff"] = 15,
+			["ej_instance_id"] = 875,
+			["id"] = 2054,
+			["killed"] = true,
+		},
+		["player_db"] = {
+			["Willam"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Willam",
+			},
+			["不是三般的毒-太阳之井"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[236564] = 10841961,
+					[239006] = 2818893,
+				},
+				["name"] = "不是三般的毒-太阳之井",
+			},
+		},
+		["diff"] = 15,
+	},
+	["186715"] = {
+		["hash"] = "186715",
+		["type"] = "deaths",
+		["name"] = "恶魔审判庭",
+		["id"] = 1867,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 2,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "恶魔审判庭",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "恶魔审判庭",
+			["diff"] = 15,
+			["ej_instance_id"] = 875,
+			["id"] = 2048,
+			["killed"] = true,
+		},
+		["player_db"] = {
+			["Willam"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[233901] = 2014894,
+					[233444] = 690821,
+				},
+				["name"] = "Willam",
+			},
+			["荒梦与鹿"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[233983] = 466326,
+					[233901] = 1300512,
+					[233444] = 638433,
+				},
+				["name"] = "荒梦与鹿",
+			},
+			["Cleversomuch"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[233444] = 1421568,
+					[233983] = 991148,
+				},
+				["name"] = "Cleversomuch",
+			},
+			["Mikamiko-白骨荒野"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[233426] = 2840378,
+					[235236] = 1042824,
+				},
+				["name"] = "Mikamiko-白骨荒野",
+			},
+			["乌托邦的托"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[235236] = 648456,
+					[233983] = 469756,
+				},
+				["name"] = "乌托邦的托",
+			},
+			["丑德豪无人性-白骨荒野"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[239401] = 1985521,
+					[233901] = 331464,
+					[233435] = 1485431,
+				},
+				["name"] = "丑德豪无人性-白骨荒野",
+			},
+			["Lluvia"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[239401] = 1800879,
+					[234015] = 676703,
+					[233435] = 1343086,
+				},
+				["name"] = "Lluvia",
+			},
+			["Jibayang"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+					[234015] = 691028,
+					[233901] = 1011096,
+				},
+				["name"] = "Jibayang",
+			},
+		},
+		["diff"] = 15,
+	},
+	["187314"] = {
+		["hash"] = "187314",
+		["type"] = "deaths",
+		["name"] = "堕落的化身",
+		["id"] = 1873,
+		["diff"] = 14,
+		["player_db"] = {
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 8,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "堕落的化身",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "堕落的化身",
+			["diff"] = 14,
+			["id"] = 2038,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+}
+DeathGraphsDBEndurance = {
+	["189714"] = {
+		["hash"] = "189714",
+		["type"] = "endurance",
+		["name"] = "戒卫侍女",
+		["id"] = 1897,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Nesevil"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["有隻大白兎丶"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						1, -- [1]
+						44.0979999999981, -- [2]
+						"光明灌注 |cFFFF3333157,588|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PALADIN",
+			},
+			["乌托邦的托"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["伽罗"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						1, -- [1]
+						44.0570000000298, -- [2]
+						"动荡的灵魂 |cFFFF3333907,435|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+			["Northwind"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Willam"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						2, -- [1]
+						134.559000000008, -- [2]
+						"湮灭之锤 |cFFFF33331,867,635|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["斯凯塞克"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						2, -- [1]
+						62.4380000000238, -- [2]
+						"环境伤害 (高处坠落) |cFFFF33332,368,456|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+			["青桔柠檬"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Azura"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["Jibayang"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Lluvia"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						1, -- [1]
+						16.5179999999818, -- [2]
+						"造物之锤 |cFFFF33333,765,463|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 7,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2052,
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "戒卫侍女",
+			["encounter"] = "戒卫侍女",
+			["ej_instance_id"] = 875,
+			["diff"] = 14,
+		},
+	},
+	["189814"] = {
+		["hash"] = "189814",
+		["type"] = "endurance",
+		["name"] = "基尔加丹",
+		["id"] = 1898,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Nesevil"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						2, -- [1]
+						259.097000000009, -- [2]
+						"末日之雨 |cFFFF3333489,708|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARLOCK",
+			},
+			["有隻大白兎丶"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["乌托邦的托"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["伽罗"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["青桔柠檬"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						2, -- [1]
+						346.456999999995, -- [2]
+						"引力榨取 (DoT) |cFFFF3333366,441|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["斯凯塞克"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Azura"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Jibayang"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						2, -- [1]
+						353.815999999992, -- [2]
+						"千魂之暗 |cFFFF3333252,295|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PRIEST",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 9,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2051,
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "基尔加丹",
+			["encounter"] = "基尔加丹",
+			["ej_instance_id"] = 875,
+			["diff"] = 14,
+		},
+	},
+	["186114"] = {
+		["hash"] = "186114",
+		["type"] = "endurance",
+		["name"] = "主母萨丝琳",
+		["id"] = 1861,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["肥猫慢半拍"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["有隻大白兎丶"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["伽罗"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["斯凯塞克"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["青桔柠檬"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Azura"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["璀璨小枪-屠魔山谷"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 5,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2037,
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "主母萨丝琳",
+			["encounter"] = "主母萨丝琳",
+			["ej_instance_id"] = 875,
+			["diff"] = 14,
+		},
+	},
+	["190315"] = {
+		["hash"] = "190315",
+		["type"] = "endurance",
+		["name"] = "月之姐妹",
+		["id"] = 1903,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 4,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2050,
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "月之姐妹",
+			["diff"] = 15,
+			["ej_instance_id"] = 875,
+			["encounter"] = "月之姐妹",
+		},
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["乌托邦的托"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["龙听雨-巨龙之吼"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Cleversomuch"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["柚子吃了猫"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["挪威鸭嘎嘎-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Mikamiko-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Nesevil"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Jibayang"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Désolé"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["灰豆豆"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["李逍遥丶-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						41.3549999999814, -- [2]
+						"暮光战刃 |cFFFF33331,740,183|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["荒梦与鹿"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["圣光之血"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["卑鄙的外乡人-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["不是三般的毒-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["丑德豪无人性-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["只是没智商"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["一坨黄"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+		},
+		["diff"] = 15,
+	},
+	["185614"] = {
+		["hash"] = "185614",
+		["type"] = "endurance",
+		["name"] = "哈亚坦",
+		["id"] = 1856,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["肥猫慢半拍"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["有隻大白兎丶"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["伽罗"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["斯凯塞克"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["青桔柠檬"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Azura"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["璀璨小枪-屠魔山谷"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 3,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "哈亚坦",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "哈亚坦",
+			["diff"] = 14,
+			["id"] = 2036,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["186214"] = {
+		["hash"] = "186214",
+		["type"] = "endurance",
+		["name"] = "格罗斯",
+		["id"] = 1862,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["肥猫慢半拍"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["有隻大白兎丶"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						153.958999999973, -- [2]
+						"星辰燃烧 (DoT) |cFFFF33333,915,242|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PALADIN",
+			},
+			["伽罗"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						63.8589999999968, -- [2]
+						"地狱燃烧 |cFFFF33331,047,514|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						187.962999999989, -- [2]
+						"近战 |cFFFF33331,632,280|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["斯凯塞克"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Azura"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["璀璨小枪-屠魔山谷"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["青桔柠檬"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 1,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "格罗斯",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "格罗斯",
+			["diff"] = 14,
+			["id"] = 2032,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["186115"] = {
+		["hash"] = "186115",
+		["type"] = "endurance",
+		["name"] = "主母萨丝琳",
+		["id"] = 1861,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 5,
+			["zone"] = "萨格拉斯之墓",
+			["id"] = 2037,
+			["mapid"] = 1676,
+			["name"] = "主母萨丝琳",
+			["diff"] = 15,
+			["encounter"] = "主母萨丝琳",
+			["ej_instance_id"] = 875,
+		},
+		["player_db"] = {
+			["只是没智商"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						1, -- [1]
+						142.927999999956, -- [2]
+						"痛苦负担 |cFFFF33331,917,752|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Northwind"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						142.927999999956, -- [2]
+						"痛苦负担 |cFFFF33332,410,903|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["龙听雨-巨龙之吼"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						138.989999999991, -- [2]
+						"近战 |cFFFF3333316,112|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Cleversomuch"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						169.795000000042, -- [2]
+						"吞噬巨口 (DoT) |cFFFF3333431,209|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						282.195999999996, -- [2]
+						"切割旋风 (DoT) |cFFFF3333854,915|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["柚子吃了猫"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						168.429000000004, -- [2]
+						"近战 |cFFFF33334,664,965|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						333.33899999992, -- [2]
+						"多头蛇酸液 (DoT) |cFFFF3333229,280|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["挪威鸭嘎嘎-白骨荒野"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						145.501999999979, -- [2]
+						"近战 |cFFFF33334,062,729|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						333.305999999982, -- [2]
+						"多头蛇射击 |cFFFF33333,695,028|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Lluvia"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						125.280000000028, -- [2]
+						"污染墨汁 |cFFFF3333443,188|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Mikamiko-白骨荒野"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						1, -- [1]
+						142.927999999956, -- [2]
+						"痛苦负担 |cFFFF33331,974,272|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						252.858999999939, -- [2]
+						"多头蛇射击 |cFFFF33331,868,287|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Nesevil"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						142.927999999956, -- [2]
+						"痛苦负担 |cFFFF33331,067,677|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Jibayang"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						142.795000000042, -- [2]
+						"吞噬之饥 |cFFFF3333452,104|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Désolé"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						139.167999999947, -- [2]
+						"多头蛇酸液 (DoT) |cFFFF3333123,928|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["灰豆豆"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						2, -- [1]
+						172.07799999998, -- [2]
+						"活体吞噬 |cFFFF333390,741,048|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["李逍遥丶-白骨荒野"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						150.275999999954, -- [2]
+						"近战 |cFFFF33334,516,596|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Willam"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						90.9590000000317, -- [2]
+						"切割旋风 (DoT) |cFFFF3333415,452|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						130.622999999905, -- [2]
+						"活体吞噬 |cFFFF333395,947,376|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["荒梦与鹿"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						142.886999999988, -- [2]
+						"吞噬巨口 (DoT) |cFFFF3333405,760|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["圣光之血"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						153.773999999976, -- [2]
+						"近战 |cFFFF33332,539,567|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["乌托邦的托"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						165.557999999961, -- [2]
+						"多头蛇酸液 (DoT) |cFFFF3333214,397|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["不是三般的毒-太阳之井"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						164.954999999958, -- [2]
+						"近战 |cFFFF33332,390,456|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["丑德豪无人性-白骨荒野"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						137.016999999993, -- [2]
+						"吞噬巨口 (DoT) |cFFFF3333412,675|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["卑鄙的外乡人-白骨荒野"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						108.858000000007, -- [2]
+						"昏暗隐匿 (DoT) |cFFFF3333191,298|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						125.120999999926, -- [2]
+						"活体吞噬 |cFFFF333397,741,048|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["一坨黄"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						167.758000000031, -- [2]
+						"近战 |cFFFF3333352,809|r", -- [3]
+					}, -- [1]
+				},
+			},
+		},
+		["diff"] = 15,
+	},
+	["185615"] = {
+		["hash"] = "185615",
+		["type"] = "endurance",
+		["name"] = "哈亚坦",
+		["id"] = 1856,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 3,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "哈亚坦",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "哈亚坦",
+			["diff"] = 15,
+			["ej_instance_id"] = 875,
+			["id"] = 2036,
+			["killed"] = true,
+		},
+		["player_db"] = {
+			["只是没智商"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["卑鄙的外乡人-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Cleversomuch"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["柚子吃了猫"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["挪威鸭嘎嘎-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Mikamiko-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Nesevil"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Jibayang"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Désolé"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["李逍遥丶-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["荒梦与鹿"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["圣光之血"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["乌托邦的托"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["丑德豪无人性-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["龙听雨-巨龙之吼"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["一坨黄"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+		},
+		["diff"] = 15,
+	},
+	["186714"] = {
+		["hash"] = "186714",
+		["type"] = "endurance",
+		["name"] = "恶魔审判庭",
+		["id"] = 1867,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["肥猫慢半拍"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["有隻大白兎丶"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["伽罗"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["斯凯塞克"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["青桔柠檬"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Azura"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["璀璨小枪-屠魔山谷"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 2,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "恶魔审判庭",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "恶魔审判庭",
+			["diff"] = 14,
+			["id"] = 2048,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["190314"] = {
+		["hash"] = "190314",
+		["type"] = "endurance",
+		["name"] = "月之姐妹",
+		["id"] = 1903,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["肥猫慢半拍"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["有隻大白兎丶"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["璀璨小枪-屠魔山谷"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						54.6820000000298, -- [2]
+						"灵体射击 |cFFFF33335,673,878|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["斯凯塞克"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Azura"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["青桔柠檬"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["伽罗"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 4,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "月之姐妹",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "月之姐妹",
+			["diff"] = 14,
+			["id"] = 2050,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["189614"] = {
+		["hash"] = "189614",
+		["type"] = "endurance",
+		["name"] = "绝望的聚合体",
+		["id"] = 1896,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["肥猫慢半拍"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["有隻大白兎丶"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["伽罗"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["青桔柠檬"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Azura"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["璀璨小枪-屠魔山谷"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["斯凯塞克"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 6,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "绝望的聚合体",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "绝望的聚合体",
+			["diff"] = 14,
+			["id"] = 2054,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+	["189615"] = {
+		["hash"] = "189615",
+		["type"] = "endurance",
+		["name"] = "绝望的聚合体",
+		["id"] = 1896,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 6,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "绝望的聚合体",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "绝望的聚合体",
+			["diff"] = 15,
+			["ej_instance_id"] = 875,
+			["id"] = 2054,
+			["killed"] = true,
+		},
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["只是没智商"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["龙听雨-巨龙之吼"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Cleversomuch"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["柚子吃了猫"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["挪威鸭嘎嘎-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Mikamiko-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Nesevil"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Jibayang"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Désolé"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["灰豆豆"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["李逍遥丶-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						166.533999999985, -- [2]
+						"", -- [3]
+					}, -- [1]
+				},
+			},
+			["荒梦与鹿"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["肥猫慢半拍"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["圣光之血"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["丑德豪无人性-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["不是三般的毒-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						267.800000000047, -- [2]
+						"分裂末日 |cFFFF333310,841,961|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["卑鄙的外乡人-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["一坨黄"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+		},
+		["diff"] = 15,
+	},
+	["186715"] = {
+		["hash"] = "186715",
+		["type"] = "endurance",
+		["name"] = "恶魔审判庭",
+		["id"] = 1867,
+		["boss_table"] = {
+			["diff_string"] = "英雄",
+			["index"] = 2,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "恶魔审判庭",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "恶魔审判庭",
+			["diff"] = 15,
+			["ej_instance_id"] = 875,
+			["id"] = 2048,
+			["killed"] = true,
+		},
+		["player_db"] = {
+			["乌托邦的托"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						165.407000000007, -- [2]
+						"邪能狂风 |cFFFF3333324,228|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["龙听雨-巨龙之吼"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Cleversomuch"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						132.579999999958, -- [2]
+						"骨锯 |cFFFF3333710,784|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["柚子吃了猫"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["挪威鸭嘎嘎-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						154.574999999953, -- [2]
+						"折磨爆发 |cFFFF3333676,703|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Mikamiko-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						1, -- [1]
+						236.819999999949, -- [2]
+						"镰刀横扫 |cFFFF33332,840,378|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Nesevil"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Jibayang"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						60.0429999999469, -- [2]
+						"折磨爆发 |cFFFF3333691,028|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["李逍遥丶-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						126.177000000025, -- [2]
+						"窒息之暗 (DoT) |cFFFF3333671,632|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["荒梦与鹿"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						65.1180000000168, -- [2]
+						"窒息之暗 (DoT) |cFFFF3333650,256|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["卑鄙的外乡人-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["丑德豪无人性-白骨荒野"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						153.204000000027, -- [2]
+						"罪恶之痛 |cFFFF33331,985,521|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["只是没智商"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["一坨黄"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+		},
+		["diff"] = 15,
+	},
+	["187314"] = {
+		["hash"] = "187314",
+		["type"] = "endurance",
+		["name"] = "堕落的化身",
+		["id"] = 1873,
+		["diff"] = 14,
+		["player_db"] = {
+			["丨冬雪依旧丨"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Nesevil"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["有隻大白兎丶"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["乌托邦的托"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["伽罗"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Northwind"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Willam"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["小榴莲我们走"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["愤怒的小咕咕-太阳之井"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["青桔柠檬"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Azura"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["Jibayang"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Lluvia"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["斯凯塞克"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "普通",
+			["index"] = 8,
+			["zone"] = "萨格拉斯之墓",
+			["encounter"] = "堕落的化身",
+			["mapid"] = 1676,
+			["try_number"] = 1,
+			["name"] = "堕落的化身",
+			["diff"] = 14,
+			["id"] = 2038,
+			["ej_instance_id"] = 875,
+			["killed"] = true,
+		},
+	},
+}
+DeathGraphsDBCurrent = {
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 4402800,
+				["timeofdeath"] = 166.533999999985,
+				["name"] = "Willam",
+				["events"] = {
+					{
+						false, -- [1]
+						189800, -- [2]
+						208300, -- [3]
+						1505484137.189, -- [4]
+						3500604, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [1]
+					{
+						false, -- [1]
+						774, -- [2]
+						81527, -- [3]
+						1505484137.237, -- [4]
+						3500604, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						77489, -- [2]
+						101370, -- [3]
+						1505484137.377, -- [4]
+						3500604, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						49314, -- [3]
+						1505484137.536, -- [4]
+						3891801, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						48419, -- [3]
+						1505484137.775, -- [4]
+						3941115, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						96948, -- [3]
+						1505484138.122, -- [4]
+						3989534, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						774, -- [2]
+						81527, -- [3]
+						1505484138.199, -- [4]
+						3989534, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						46654, -- [3]
+						1505484138.443, -- [4]
+						4168009, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3210, -- [3]
+						1505484138.698, -- [4]
+						4219584, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						93318, -- [3]
+						1505484138.732, -- [4]
+						4219584, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						91516, -- [3]
+						1505484139.04, -- [4]
+						4219584, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [11]
+					{
+						false, -- [1]
+						774, -- [2]
+						81527, -- [3]
+						1505484139.128, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						89701, -- [3]
+						1505484139.345, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						87869, -- [3]
+						1505484139.675, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						139, -- [2]
+						119497, -- [3]
+						1505484139.675, -- [4]
+						4402800, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						77489, -- [2]
+						275842, -- [3]
+						1505484139.962, -- [4]
+						4402800, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						48438, -- [2]
+						86018, -- [3]
+						1505484139.962, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						774, -- [2]
+						81527, -- [3]
+						1505484140.068, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						48438, -- [2]
+						41297, -- [3]
+						1505484140.267, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						48438, -- [2]
+						82442, -- [3]
+						1505484140.563, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						48438, -- [2]
+						39526, -- [3]
+						1505484140.877, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						81527, -- [3]
+						1505484140.992, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1524, -- [3]
+						1505484141.11, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						48438, -- [2]
+						38637, -- [3]
+						1505484141.184, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						37721, -- [3]
+						1505484141.534, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						48438, -- [2]
+						36613, -- [3]
+						1505484141.917, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [26]
+					{
+						false, -- [1]
+						774, -- [2]
+						166315, -- [3]
+						1505484141.917, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						48438, -- [2]
+						35552, -- [3]
+						1505484142.302, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						139, -- [2]
+						59748, -- [3]
+						1505484142.459, -- [4]
+						4402800, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						34478, -- [3]
+						1505484142.664, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						77489, -- [2]
+						275843, -- [3]
+						1505484142.934, -- [4]
+						4402800, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						false, -- [1]
+						48438, -- [2]
+						33348, -- [3]
+						1505484143.068, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						774, -- [2]
+						166315, -- [3]
+						1505484143.068, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						48438, -- [2]
+						32263, -- [3]
+						1505484143.383, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						48438, -- [2]
+						31192, -- [3]
+						1505484143.793, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1617, -- [3]
+						1505484143.907, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						48438, -- [2]
+						25714, -- [3]
+						1505484144.167, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						774, -- [2]
+						63715, -- [3]
+						1505484144.207, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						139, -- [2]
+						59748, -- [3]
+						1505484145.213, -- [4]
+						4402800, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						774, -- [2]
+						57024, -- [3]
+						1505484145.324, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						774, -- [2]
+						57024, -- [3]
+						1505484146.475, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3002, -- [3]
+						1505484146.742, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						774, -- [2]
+						116329, -- [3]
+						1505484147.624, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						139, -- [2]
+						68711, -- [3]
+						1505484148.028, -- [4]
+						4402800, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						false, -- [1]
+						774, -- [2]
+						26575, -- [3]
+						1505484148.128, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Willam", -- [6]
+					}, -- [46]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "2m 46s",
+				["time"] = 1505484148.362,
+			}, -- [1]
+			{
+				["maxhealth"] = 4115760,
+				["timeofdeath"] = 267.800000000047,
+				["name"] = "不是三般的毒-太阳之井",
+				["events"] = {
+					{
+						2, -- [1]
+						61999, -- [2]
+						1, -- [3]
+						1505484252.977, -- [4]
+						0, -- [5]
+						"只是没智商", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						139, -- [2]
+						75581, -- [3]
+						1505484228.728, -- [4]
+						4115760, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						139, -- [2]
+						3194, -- [3]
+						1505484228.795, -- [4]
+						4115760, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						77489, -- [2]
+						153243, -- [3]
+						1505484230.778, -- [4]
+						4115760, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						153243, -- [3]
+						1505484233.805, -- [4]
+						4115760, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						236567, -- [2]
+						1022248, -- [3]
+						1505484235.044, -- [4]
+						4115760, -- [5]
+						"绝望的聚合体", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						596, -- [2]
+						597467, -- [3]
+						1505484238.46, -- [4]
+						3093512, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						196810, -- [2]
+						109258, -- [3]
+						1505484238.494, -- [4]
+						3093512, -- [5]
+						"图雷 <荒梦与鹿>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						189800, -- [2]
+						165423, -- [3]
+						1505484239.007, -- [4]
+						3800237, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						243241, -- [2]
+						114055, -- [3]
+						1505484239.041, -- [4]
+						3800237, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						239006, -- [2]
+						937851, -- [3]
+						1505484239.383, -- [4]
+						4079715, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						45421, -- [3]
+						1505484239.416, -- [4]
+						4079715, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						44409, -- [3]
+						1505484239.783, -- [4]
+						3187285, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						43419, -- [3]
+						1505484240.216, -- [4]
+						3231694, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						235967, -- [2]
+						89163, -- [3]
+						1505484240.216, -- [4]
+						3231694, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						48438, -- [2]
+						75228, -- [3]
+						1505484240.594, -- [4]
+						3364276, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						48438, -- [2]
+						35983, -- [3]
+						1505484240.944, -- [4]
+						3439504, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						48438, -- [2]
+						71616, -- [3]
+						1505484241.312, -- [4]
+						3439504, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						77489, -- [2]
+						129669, -- [3]
+						1505484241.582, -- [4]
+						3547103, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						243241, -- [2]
+						96365, -- [3]
+						1505484241.615, -- [4]
+						3547103, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						48438, -- [2]
+						34236, -- [3]
+						1505484241.682, -- [4]
+						3547103, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						77489, -- [2]
+						18498, -- [3]
+						1505484242.115, -- [4]
+						3807373, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						243241, -- [2]
+						92800, -- [3]
+						1505484242.323, -- [4]
+						3825871, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						239006, -- [2]
+						946123, -- [3]
+						1505484242.389, -- [4]
+						3918671, -- [5]
+						"一坨黄", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						32467, -- [3]
+						1505484242.456, -- [4]
+						3918671, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						48438, -- [2]
+						30704, -- [3]
+						1505484243.223, -- [4]
+						3005015, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						48438, -- [2]
+						28962, -- [3]
+						1505484243.989, -- [4]
+						3035719, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						139, -- [2]
+						50033, -- [3]
+						1505484244.489, -- [4]
+						3064681, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [28]
+					{
+						false, -- [1]
+						77489, -- [2]
+						57166, -- [3]
+						1505484244.556, -- [4]
+						3064681, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						62004, -- [3]
+						1505484244.723, -- [4]
+						3171880, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						77489, -- [2]
+						18498, -- [3]
+						1505484245.089, -- [4]
+						3233884, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						false, -- [1]
+						77489, -- [2]
+						14325, -- [3]
+						1505484245.36, -- [4]
+						3233884, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						239006, -- [2]
+						942344, -- [3]
+						1505484245.36, -- [4]
+						3233884, -- [5]
+						"一坨黄", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						48438, -- [2]
+						28403, -- [3]
+						1505484245.527, -- [4]
+						2324363, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						48438, -- [2]
+						37881, -- [3]
+						1505484246.061, -- [4]
+						2352766, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [35]
+					{
+						false, -- [1]
+						2061, -- [2]
+						427223, -- [3]
+						1505484246.295, -- [4]
+						2390647, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						243241, -- [2]
+						96365, -- [3]
+						1505484246.295, -- [4]
+						2390647, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						139, -- [2]
+						50033, -- [3]
+						1505484247.161, -- [4]
+						2914235, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						77489, -- [2]
+						113868, -- [3]
+						1505484247.561, -- [4]
+						2964268, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						2061, -- [2]
+						715506, -- [3]
+						1505484248.061, -- [4]
+						3078136, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						77489, -- [2]
+						81305, -- [3]
+						1505484248.361, -- [4]
+						3793642, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						184662, -- [2]
+						930426, -- [3]
+						1505484248.395, -- [4]
+						3793642, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						239006, -- [2]
+						930426, -- [3]
+						1505484248.395, -- [4]
+						3793642, -- [5]
+						"一坨黄", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						184662, -- [2]
+						74874, -- [3]
+						1505484249.628, -- [4]
+						3874947, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						false, -- [1]
+						225036, -- [2]
+						8231520, -- [3]
+						1505484249.628, -- [4]
+						3874947, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [45]
+					{
+						true, -- [1]
+						236564, -- [2]
+						10841961, -- [3]
+						1505484249.628, -- [4]
+						3874947, -- [5]
+						"绝望的聚合体", -- [6]
+						8306394, -- [7]
+						32, -- [8]
+						false, -- [9]
+						2535566, -- [10]
+					}, -- [46]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+					}, -- [47]
+				},
+				["class"] = "PALADIN",
+				["timestring"] = "4m 27s",
+				["time"] = 1505484249.628,
+			}, -- [2]
+		},
+		["bossname"] = "绝望的聚合体",
+		["bossicon"] = {
+			0.25, -- [1]
+			0.5, -- [2]
+			0.25, -- [3]
+			0.5, -- [4]
+			"Interface\\AddOns\\Details_RaidInfo-TombOfSargeras\\boss_faces", -- [5]
+		},
+		["date"] = 650584.96,
+		["timeelapsed"] = 313.557999999961,
+	}, -- [1]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 4402800,
+				["timeofdeath"] = 41.3549999999814,
+				["name"] = "Willam",
+				["events"] = {
+					{
+						false, -- [1]
+						48438, -- [2]
+						32476, -- [3]
+						1505482884.97, -- [4]
+						4226268, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [1]
+					{
+						false, -- [1]
+						774, -- [2]
+						71474, -- [3]
+						1505482885.063, -- [4]
+						4258744, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						false, -- [1]
+						596, -- [2]
+						343544, -- [3]
+						1505482885.146, -- [4]
+						4330218, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [3]
+					{
+						false, -- [1]
+						77489, -- [2]
+						51601, -- [3]
+						1505482885.59, -- [4]
+						4402800, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						108728, -- [3]
+						1505482885.692, -- [4]
+						4402800, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						62377, -- [3]
+						1505482885.692, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [6]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1517, -- [3]
+						1505482886.213, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						28685, -- [3]
+						1505482886.431, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [8]
+					{
+						4, -- [1]
+						236519, -- [2]
+						1, -- [3]
+						1505482886.466, -- [4]
+						4402800, -- [5]
+						"[*] 月灼", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						236519, -- [2]
+						785416, -- [3]
+						1505482886.534, -- [4]
+						4402800, -- [5]
+						"[*] 月灼", -- [6]
+						nil, -- [7]
+						64, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						26755, -- [3]
+						1505482887.231, -- [4]
+						3622307, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [11]
+					{
+						false, -- [1]
+						774, -- [2]
+						71474, -- [3]
+						1505482887.31, -- [4]
+						3622307, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4921, -- [3]
+						1505482887.378, -- [4]
+						3622307, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [13]
+					{
+						false, -- [1]
+						77489, -- [2]
+						74560, -- [3]
+						1505482888.145, -- [4]
+						3725457, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [14]
+					{
+						false, -- [1]
+						596, -- [2]
+						343543, -- [3]
+						1505482888.182, -- [4]
+						3800017, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [15]
+					{
+						true, -- [1]
+						236519, -- [2]
+						807033, -- [3]
+						1505482888.49, -- [4]
+						3800017, -- [5]
+						"[*] 月灼", -- [6]
+						nil, -- [7]
+						64, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1537, -- [3]
+						1505482888.576, -- [4]
+						3341408, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						51601, -- [3]
+						1505482888.576, -- [4]
+						3341408, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						false, -- [1]
+						77489, -- [2]
+						108727, -- [3]
+						1505482888.747, -- [4]
+						3394546, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [19]
+					{
+						false, -- [1]
+						243241, -- [2]
+						192731, -- [3]
+						1505482889.378, -- [4]
+						3503273, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [20]
+					{
+						false, -- [1]
+						774, -- [2]
+						64238, -- [3]
+						1505482889.632, -- [4]
+						3696004, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [21]
+					{
+						false, -- [1]
+						139, -- [2]
+						50542, -- [3]
+						1505482889.706, -- [4]
+						3696004, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						false, -- [1]
+						155777, -- [2]
+						71477, -- [3]
+						1505482890.247, -- [4]
+						3810784, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [23]
+					{
+						true, -- [1]
+						236519, -- [2]
+						807033, -- [3]
+						1505482890.503, -- [4]
+						3882261, -- [5]
+						"[*] 月灼", -- [6]
+						nil, -- [7]
+						64, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						4, -- [1]
+						237561, -- [2]
+						1, -- [3]
+						1505482891.018, -- [4]
+						3080144, -- [5]
+						"女猎手卡丝帕莲", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77489, -- [2]
+						102445, -- [3]
+						1505482891.164, -- [4]
+						3080144, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [26]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1537, -- [3]
+						1505482891.478, -- [4]
+						3182589, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [27]
+					{
+						4, -- [1]
+						236516, -- [2]
+						1, -- [3]
+						1505482891.722, -- [4]
+						3184126, -- [5]
+						"[*] 暮光扫射", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						774, -- [2]
+						64030, -- [3]
+						1505482891.884, -- [4]
+						3184126, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [29]
+					{
+						false, -- [1]
+						139, -- [2]
+						50542, -- [3]
+						1505482892.273, -- [4]
+						3248156, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						243241, -- [2]
+						184642, -- [3]
+						1505482892.453, -- [4]
+						3248156, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						true, -- [1]
+						236519, -- [2]
+						828650, -- [3]
+						1505482892.453, -- [4]
+						3248156, -- [5]
+						"[*] 月灼", -- [6]
+						nil, -- [7]
+						64, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						155777, -- [2]
+						130624, -- [3]
+						1505482892.545, -- [4]
+						3248156, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [33]
+					{
+						false, -- [1]
+						77489, -- [2]
+						7603, -- [3]
+						1505482892.715, -- [4]
+						2790206, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [34]
+					{
+						true, -- [1]
+						236516, -- [2]
+						576644, -- [3]
+						1505482893.202, -- [4]
+						2797809, -- [5]
+						"[*] 暮光扫射", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						196810, -- [2]
+						104673, -- [3]
+						1505482893.421, -- [4]
+						2797809, -- [5]
+						"图雷 <柚子吃了猫>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [36]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1553, -- [3]
+						1505482893.853, -- [4]
+						2325838, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [37]
+					{
+						false, -- [1]
+						77489, -- [2]
+						102445, -- [3]
+						1505482894.127, -- [4]
+						2325838, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [38]
+					{
+						false, -- [1]
+						774, -- [2]
+						64029, -- [3]
+						1505482894.198, -- [4]
+						2325838, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [39]
+					{
+						false, -- [1]
+						243241, -- [2]
+						96365, -- [3]
+						1505482894.278, -- [4]
+						2493865, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [40]
+					{
+						true, -- [1]
+						236519, -- [2]
+						850266, -- [3]
+						1505482894.503, -- [4]
+						2493865, -- [5]
+						"[*] 月灼", -- [6]
+						nil, -- [7]
+						64, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						236516, -- [2]
+						576644, -- [3]
+						1505482894.707, -- [4]
+						1744879, -- [5]
+						"[*] 暮光扫射", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						139, -- [2]
+						58123, -- [3]
+						1505482894.81, -- [4]
+						1744879, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [43]
+					{
+						false, -- [1]
+						155777, -- [2]
+						64031, -- [3]
+						1505482894.847, -- [4]
+						1744879, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [44]
+					{
+						true, -- [1]
+						236541, -- [2]
+						1740183, -- [3]
+						1505482895.091, -- [4]
+						1290389, -- [5]
+						"[*] 暮光战刃", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						449794, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Willam", -- [6]
+					}, -- [46]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "0m 41s",
+				["time"] = 1505482895.091,
+			}, -- [1]
+		},
+		["bossname"] = "月之姐妹",
+		["bossicon"] = {
+			0.75, -- [1]
+			1, -- [2]
+			0, -- [3]
+			0.25, -- [4]
+			"Interface\\AddOns\\Details_RaidInfo-TombOfSargeras\\boss_faces", -- [5]
+		},
+		["date"] = 649379.597,
+		["timeelapsed"] = 236.287000000011,
+	}, -- [2]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 4462680,
+				["timeofdeath"] = 125.120999999926,
+				["name"] = "卑鄙的外乡人-白骨荒野",
+				["events"] = {
+					{
+						false, -- [1]
+						143924, -- [2]
+						511660, -- [3]
+						1505482171.693, -- [4]
+						4908948, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						230920, -- [2]
+						458894, -- [3]
+						1505482172.643, -- [4]
+						4908948, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						77489, -- [2]
+						101967, -- [3]
+						1505482172.68, -- [4]
+						4908948, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [3]
+					{
+						false, -- [1]
+						81269, -- [2]
+						60152, -- [3]
+						1505482172.85, -- [4]
+						4908948, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						306903, -- [3]
+						1505482172.918, -- [4]
+						4612173, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						false, -- [1]
+						139, -- [2]
+						119251, -- [3]
+						1505482173.143, -- [4]
+						4612173, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						139, -- [2]
+						25491, -- [3]
+						1505482173.68, -- [4]
+						4462680, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						927009, -- [3]
+						1505482174.151, -- [4]
+						4462680, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77489, -- [2]
+						61370, -- [3]
+						1505482174.372, -- [4]
+						4462680, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [9]
+					{
+						false, -- [1]
+						228532, -- [2]
+						446268, -- [3]
+						1505482174.54, -- [4]
+						4462680, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						230920, -- [2]
+						458895, -- [3]
+						1505482174.658, -- [4]
+						4462680, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7024, -- [3]
+						1505482174.926, -- [4]
+						4003785, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						215257, -- [2]
+						8919, -- [3]
+						1505482175.119, -- [4]
+						4010809, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						114911, -- [2]
+						17889, -- [3]
+						1505482175.16, -- [4]
+						4010809, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						52042, -- [2]
+						65039, -- [3]
+						1505482175.311, -- [4]
+						4010809, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [15]
+					{
+						false, -- [1]
+						143924, -- [2]
+						910001, -- [3]
+						1505482175.396, -- [4]
+						4102656, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77489, -- [2]
+						101967, -- [3]
+						1505482175.691, -- [4]
+						4462680, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						143924, -- [2]
+						214461, -- [3]
+						1505482176.615, -- [4]
+						4462680, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						230920, -- [2]
+						458894, -- [3]
+						1505482176.683, -- [4]
+						4462680, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						215257, -- [2]
+						14046, -- [3]
+						1505482176.717, -- [4]
+						4462680, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [20]
+					{
+						false, -- [1]
+						215257, -- [2]
+						70234, -- [3]
+						1505482177.071, -- [4]
+						4017832, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						208899, -- [2]
+						18870, -- [3]
+						1505482177.3, -- [4]
+						4017832, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						false, -- [1]
+						143924, -- [2]
+						224684, -- [3]
+						1505482178.598, -- [4]
+						4106936, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						230920, -- [2]
+						458895, -- [3]
+						1505482178.676, -- [4]
+						4106936, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						77489, -- [2]
+						101967, -- [3]
+						1505482178.676, -- [4]
+						4106936, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						215257, -- [2]
+						140467, -- [3]
+						1505482178.742, -- [4]
+						4106936, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [26]
+					{
+						false, -- [1]
+						208899, -- [2]
+						37563, -- [3]
+						1505482179.335, -- [4]
+						4115159, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						215257, -- [2]
+						70233, -- [3]
+						1505482179.335, -- [4]
+						4115159, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						215257, -- [2]
+						14046, -- [3]
+						1505482179.733, -- [4]
+						4222955, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						143924, -- [2]
+						184588, -- [3]
+						1505482179.811, -- [4]
+						4237001, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [30]
+					{
+						true, -- [1]
+						230920, -- [2]
+						458894, -- [3]
+						1505482180.642, -- [4]
+						4421589, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						143924, -- [2]
+						385392, -- [3]
+						1505482181.019, -- [4]
+						3962695, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						208899, -- [2]
+						18017, -- [3]
+						1505482181.325, -- [4]
+						4348087, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						52042, -- [2]
+						122713, -- [3]
+						1505482181.694, -- [4]
+						4366104, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						230920, -- [2]
+						458894, -- [3]
+						1505482182.639, -- [4]
+						4462680, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						215257, -- [2]
+						89193, -- [3]
+						1505482183.35, -- [4]
+						4003786, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						228532, -- [2]
+						446268, -- [3]
+						1505482183.526, -- [4]
+						4092979, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						208899, -- [2]
+						35282, -- [3]
+						1505482183.711, -- [4]
+						4092979, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [38]
+					{
+						4, -- [1]
+						234621, -- [2]
+						1, -- [3]
+						1505482183.711, -- [4]
+						4092979, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						230920, -- [2]
+						458895, -- [3]
+						1505482184.664, -- [4]
+						4462680, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						208899, -- [2]
+						19147, -- [3]
+						1505482185.738, -- [4]
+						4003785, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						234621, -- [2]
+						358624, -- [3]
+						1505482185.738, -- [4]
+						4003785, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						230920, -- [2]
+						458894, -- [3]
+						1505482186.657, -- [4]
+						3664308, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						33110, -- [2]
+						136711, -- [3]
+						1505482186.657, -- [4]
+						3664308, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						232885, -- [2]
+						97741048, -- [3]
+						1505482186.83, -- [4]
+						3342125, -- [5]
+						"萨鲁克", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						94398923, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "2m 5s",
+				["time"] = 1505482186.83,
+			}, -- [1]
+			{
+				["maxhealth"] = 4402800,
+				["timeofdeath"] = 130.622999999905,
+				["name"] = "Willam",
+				["events"] = {
+					{
+						false, -- [1]
+						143924, -- [2]
+						3108, -- [3]
+						1505482169.367, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [1]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3288, -- [3]
+						1505482171.693, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1553, -- [3]
+						1505482174.59, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1593, -- [3]
+						1505482177.028, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						false, -- [1]
+						243241, -- [2]
+						81517, -- [3]
+						1505482179.368, -- [4]
+						4402800, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						230276, -- [2]
+						241462, -- [3]
+						1505482179.687, -- [4]
+						4402800, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						4, -- [1]
+						230276, -- [2]
+						1, -- [3]
+						1505482179.733, -- [4]
+						4402800, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						209069, -- [2]
+						19213, -- [3]
+						1505482180.12, -- [4]
+						4161338, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1550, -- [3]
+						1505482180.195, -- [4]
+						4180551, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						230276, -- [2]
+						204368, -- [3]
+						1505482180.747, -- [4]
+						4182101, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						209069, -- [2]
+						39663, -- [3]
+						1505482181.019, -- [4]
+						3982610, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						230276, -- [2]
+						204368, -- [3]
+						1505482181.727, -- [4]
+						4022273, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						209069, -- [2]
+						40805, -- [3]
+						1505482181.91, -- [4]
+						3817905, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [13]
+					{
+						false, -- [1]
+						77489, -- [2]
+						12263, -- [3]
+						1505482182.434, -- [4]
+						3858710, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1579, -- [3]
+						1505482182.679, -- [4]
+						3870973, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [15]
+					{
+						true, -- [1]
+						230276, -- [2]
+						204368, -- [3]
+						1505482182.716, -- [4]
+						3870973, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						209069, -- [2]
+						20921, -- [3]
+						1505482182.862, -- [4]
+						3870973, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						189800, -- [2]
+						71160, -- [3]
+						1505482183.561, -- [4]
+						3694055, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						true, -- [1]
+						230276, -- [2]
+						204367, -- [3]
+						1505482183.711, -- [4]
+						3694055, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						209069, -- [2]
+						41170, -- [3]
+						1505482183.711, -- [4]
+						3694055, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						4, -- [1]
+						234621, -- [2]
+						1, -- [3]
+						1505482183.753, -- [4]
+						3694055, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						243241, -- [2]
+						114054, -- [3]
+						1505482184.193, -- [4]
+						3602018, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						48438, -- [2]
+						33999, -- [3]
+						1505482184.26, -- [4]
+						3602018, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [23]
+					{
+						false, -- [1]
+						48438, -- [2]
+						32577, -- [3]
+						1505482184.993, -- [4]
+						3750071, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3049, -- [3]
+						1505482185.073, -- [4]
+						3787571, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77489, -- [2]
+						12262, -- [3]
+						1505482185.459, -- [4]
+						3787571, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						48438, -- [2]
+						31153, -- [3]
+						1505482185.693, -- [4]
+						3802882, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [27]
+					{
+						true, -- [1]
+						234621, -- [2]
+						419098, -- [3]
+						1505482185.738, -- [4]
+						3802882, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						48438, -- [2]
+						29727, -- [3]
+						1505482186.454, -- [4]
+						3414937, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						28283, -- [3]
+						1505482187.084, -- [4]
+						3444664, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [30]
+					{
+						false, -- [1]
+						77489, -- [2]
+						18499, -- [3]
+						1505482187.217, -- [4]
+						3477826, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3189, -- [3]
+						1505482187.51, -- [4]
+						3496325, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [32]
+					{
+						true, -- [1]
+						234621, -- [2]
+						419098, -- [3]
+						1505482187.735, -- [4]
+						3499514, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						48438, -- [2]
+						54780, -- [3]
+						1505482187.81, -- [4]
+						3499514, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [34]
+					{
+						false, -- [1]
+						48438, -- [2]
+						25431, -- [3]
+						1505482188.521, -- [4]
+						3135196, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						48438, -- [2]
+						23999, -- [3]
+						1505482189.201, -- [4]
+						3165506, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [36]
+					{
+						true, -- [1]
+						234621, -- [2]
+						419098, -- [3]
+						1505482189.714, -- [4]
+						3189505, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						48438, -- [2]
+						22565, -- [3]
+						1505482189.922, -- [4]
+						3189505, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						114942, -- [2]
+						102106, -- [3]
+						1505482190.137, -- [4]
+						2792972, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [39]
+					{
+						false, -- [1]
+						77489, -- [2]
+						18499, -- [3]
+						1505482190.278, -- [4]
+						2792972, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [40]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1525, -- [3]
+						1505482190.356, -- [4]
+						2913577, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [41]
+					{
+						false, -- [1]
+						48438, -- [2]
+						18003, -- [3]
+						1505482190.541, -- [4]
+						2913577, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [42]
+					{
+						true, -- [1]
+						234621, -- [2]
+						419098, -- [3]
+						1505482191.77, -- [4]
+						2938033, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						114942, -- [2]
+						116768, -- [3]
+						1505482191.951, -- [4]
+						2518935, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						232885, -- [2]
+						95947376, -- [3]
+						1505482192.332, -- [4]
+						2635703, -- [5]
+						"萨鲁克", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						93311673, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Willam", -- [6]
+					}, -- [46]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "2m 10s",
+				["time"] = 1505482192.332,
+			}, -- [2]
+			{
+				["maxhealth"] = 4601940,
+				["timeofdeath"] = 172.07799999998,
+				["name"] = "灰豆豆",
+				["events"] = {
+					{
+						false, -- [1]
+						48438, -- [2]
+						72244, -- [3]
+						1505482212.291, -- [4]
+						4601940, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						143924, -- [2]
+						13900, -- [3]
+						1505482212.358, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						false, -- [1]
+						1064, -- [2]
+						291611, -- [3]
+						1505482212.606, -- [4]
+						4601940, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						29257, -- [3]
+						1505482213.049, -- [4]
+						4601940, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						11585, -- [3]
+						1505482213.561, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						27724, -- [3]
+						1505482213.828, -- [4]
+						4601940, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [6]
+					{
+						false, -- [1]
+						48438, -- [2]
+						26182, -- [3]
+						1505482214.63, -- [4]
+						4601940, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						24428, -- [3]
+						1505482214.83, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [8]
+					{
+						false, -- [1]
+						48438, -- [2]
+						24625, -- [3]
+						1505482215.332, -- [4]
+						4601940, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [9]
+					{
+						false, -- [1]
+						81269, -- [2]
+						67789, -- [3]
+						1505482215.952, -- [4]
+						4601940, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						143924, -- [2]
+						35768, -- [3]
+						1505482215.985, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						23089, -- [3]
+						1505482216.118, -- [4]
+						4601940, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						21552, -- [3]
+						1505482216.854, -- [4]
+						4601940, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3961, -- [3]
+						1505482217.021, -- [4]
+						4601940, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						143924, -- [2]
+						49772, -- [3]
+						1505482217.188, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						143924, -- [2]
+						46391, -- [3]
+						1505482218.403, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [16]
+					{
+						false, -- [1]
+						143924, -- [2]
+						21460, -- [3]
+						1505482219.634, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						143924, -- [2]
+						67359, -- [3]
+						1505482220.844, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						false, -- [1]
+						143924, -- [2]
+						61038, -- [3]
+						1505482222.051, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [19]
+					{
+						false, -- [1]
+						143924, -- [2]
+						8750, -- [3]
+						1505482223.287, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						143924, -- [2]
+						26757, -- [3]
+						1505482224.529, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [21]
+					{
+						false, -- [1]
+						143924, -- [2]
+						31218, -- [3]
+						1505482225.729, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						4, -- [1]
+						234621, -- [2]
+						1, -- [3]
+						1505482226.162, -- [4]
+						4601940, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						143924, -- [2]
+						28989, -- [3]
+						1505482226.93, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [24]
+					{
+						false, -- [1]
+						596, -- [2]
+						256577, -- [3]
+						1505482227.296, -- [4]
+						4601940, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						143924, -- [2]
+						276567, -- [3]
+						1505482228.175, -- [4]
+						4601940, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						234621, -- [2]
+						430823, -- [3]
+						1505482228.175, -- [4]
+						4601940, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						143924, -- [2]
+						59762, -- [3]
+						1505482229.378, -- [4]
+						4171117, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [28]
+					{
+						4, -- [1]
+						232913, -- [2]
+						1, -- [3]
+						1505482229.545, -- [4]
+						4171117, -- [5]
+						"[*] 污染墨汁", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						11426, -- [2]
+						396357, -- [3]
+						1505482230.18, -- [4]
+						4230879, -- [5]
+						"灰豆豆", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [30]
+					{
+						true, -- [1]
+						234621, -- [2]
+						396357, -- [3]
+						1505482230.18, -- [4]
+						4230879, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						77489, -- [2]
+						41613, -- [3]
+						1505482230.317, -- [4]
+						4230879, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						52042, -- [2]
+						127710, -- [3]
+						1505482230.518, -- [4]
+						4272492, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [33]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3901, -- [3]
+						1505482230.588, -- [4]
+						4400202, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						196816, -- [2]
+						36970, -- [3]
+						1505482230.855, -- [4]
+						4400202, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [35]
+					{
+						false, -- [1]
+						11426, -- [2]
+						408335, -- [3]
+						1505482231.491, -- [4]
+						4441073, -- [5]
+						"灰豆豆", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [36]
+					{
+						true, -- [1]
+						232916, -- [2]
+						408335, -- [3]
+						1505482231.491, -- [4]
+						4441073, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						143924, -- [2]
+						30803, -- [3]
+						1505482231.791, -- [4]
+						4441073, -- [5]
+						"灰豆豆", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [38]
+					{
+						false, -- [1]
+						196816, -- [2]
+						36970, -- [3]
+						1505482231.824, -- [4]
+						4441073, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						11426, -- [2]
+						224164, -- [3]
+						1505482232.192, -- [4]
+						4441073, -- [5]
+						"灰豆豆", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [40]
+					{
+						true, -- [1]
+						234621, -- [2]
+						396356, -- [3]
+						1505482232.192, -- [4]
+						4441073, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						224164, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						208899, -- [2]
+						36970, -- [3]
+						1505482232.5, -- [4]
+						4336654, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [42]
+					{
+						false, -- [1]
+						196816, -- [2]
+						36970, -- [3]
+						1505482232.838, -- [4]
+						4373624, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [43]
+					{
+						false, -- [1]
+						77489, -- [2]
+						41613, -- [3]
+						1505482233.314, -- [4]
+						4410594, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						232885, -- [2]
+						90741048, -- [3]
+						1505482233.752, -- [4]
+						4452207, -- [5]
+						"萨鲁克", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						86288841, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"灰豆豆", -- [6]
+					}, -- [46]
+				},
+				["class"] = "MAGE",
+				["timestring"] = "2m 52s",
+				["time"] = 1505482233.787,
+			}, -- [3]
+			{
+				["maxhealth"] = 4395180,
+				["timeofdeath"] = 252.858999999939,
+				["name"] = "Mikamiko-白骨荒野",
+				["events"] = {
+					{
+						false, -- [1]
+						2060, -- [2]
+						442374, -- [3]
+						1505482302.106, -- [4]
+						4055160, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						207203, -- [2]
+						31686, -- [3]
+						1505482303.95, -- [4]
+						4395180, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						230920, -- [2]
+						453339, -- [3]
+						1505482303.95, -- [4]
+						4395180, -- [5]
+						"锋颚踏浪者", -- [6]
+						31686, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						81269, -- [2]
+						122711, -- [3]
+						1505482304.716, -- [4]
+						3973527, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						596, -- [2]
+						223109, -- [3]
+						1505482304.783, -- [4]
+						3973527, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						77489, -- [2]
+						71956, -- [3]
+						1505482305.15, -- [4]
+						4319347, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						242327, -- [2]
+						321113, -- [3]
+						1505482305.15, -- [4]
+						4319347, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [7]
+					{
+						false, -- [1]
+						207203, -- [2]
+						105354, -- [3]
+						1505482305.916, -- [4]
+						4395180, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						230920, -- [2]
+						453339, -- [3]
+						1505482305.916, -- [4]
+						4395180, -- [5]
+						"锋颚踏浪者", -- [6]
+						105354, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						207203, -- [2]
+						105169, -- [3]
+						1505482307.952, -- [4]
+						4047195, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [10]
+					{
+						true, -- [1]
+						230920, -- [2]
+						453339, -- [3]
+						1505482307.952, -- [4]
+						4047195, -- [5]
+						"锋颚踏浪者", -- [6]
+						105169, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						33110, -- [2]
+						269273, -- [3]
+						1505482307.952, -- [4]
+						4047195, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						81269, -- [2]
+						60152, -- [3]
+						1505482307.952, -- [4]
+						4047195, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						34861, -- [2]
+						521717, -- [3]
+						1505482307.952, -- [4]
+						4047195, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						77489, -- [2]
+						168216, -- [3]
+						1505482308.152, -- [4]
+						4395180, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						207203, -- [2]
+						36557, -- [3]
+						1505482310.002, -- [4]
+						4395180, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [16]
+					{
+						true, -- [1]
+						230920, -- [2]
+						453340, -- [3]
+						1505482310.002, -- [4]
+						4395180, -- [5]
+						"锋颚踏浪者", -- [6]
+						36557, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						215257, -- [2]
+						14952, -- [3]
+						1505482310.335, -- [4]
+						3978397, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						242474, -- [2]
+						45439, -- [3]
+						1505482310.637, -- [4]
+						3993349, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [19]
+					{
+						false, -- [1]
+						242474, -- [2]
+						45628, -- [3]
+						1505482310.903, -- [4]
+						4038788, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						77489, -- [2]
+						168216, -- [3]
+						1505482311.137, -- [4]
+						4038788, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						242474, -- [2]
+						48933, -- [3]
+						1505482311.17, -- [4]
+						4038788, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						242474, -- [2]
+						96136, -- [3]
+						1505482311.437, -- [4]
+						4301565, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						230920, -- [2]
+						453340, -- [3]
+						1505482311.936, -- [4]
+						4395180, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						81269, -- [2]
+						60153, -- [3]
+						1505482312.103, -- [4]
+						3941840, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						215257, -- [2]
+						74760, -- [3]
+						1505482312.237, -- [4]
+						3941840, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [26]
+					{
+						false, -- [1]
+						215257, -- [2]
+						14952, -- [3]
+						1505482312.87, -- [4]
+						4076753, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						73921, -- [2]
+						60563, -- [3]
+						1505482313.342, -- [4]
+						4091705, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						242474, -- [2]
+						45765, -- [3]
+						1505482313.409, -- [4]
+						4091705, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						114911, -- [2]
+						124585, -- [3]
+						1505482313.409, -- [4]
+						4091705, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						215257, -- [2]
+						74759, -- [3]
+						1505482313.542, -- [4]
+						4091705, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						207203, -- [2]
+						55218, -- [3]
+						1505482313.95, -- [4]
+						4395180, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						230920, -- [2]
+						453340, -- [3]
+						1505482313.95, -- [4]
+						4395180, -- [5]
+						"锋颚踏浪者", -- [6]
+						55218, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						215257, -- [2]
+						127764, -- [3]
+						1505482313.983, -- [4]
+						4395180, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						77489, -- [2]
+						168216, -- [3]
+						1505482314.15, -- [4]
+						4124822, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7476, -- [3]
+						1505482314.183, -- [4]
+						4124822, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6388, -- [3]
+						1505482314.217, -- [4]
+						4124822, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						114911, -- [2]
+						28873, -- [3]
+						1505482314.45, -- [4]
+						4306902, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505482314.483, -- [4]
+						4306902, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						232754, -- [2]
+						226307, -- [3]
+						1505482314.483, -- [4]
+						4306902, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						4, -- [1]
+						232754, -- [2]
+						2, -- [3]
+						1505482314.483, -- [4]
+						4306902, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [41]
+					{
+						4, -- [1]
+						232754, -- [2]
+						3, -- [3]
+						1505482314.483, -- [4]
+						4306902, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						230143, -- [2]
+						1868287, -- [3]
+						1505482314.529, -- [4]
+						4109468, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						230143, -- [2]
+						1120972, -- [3]
+						1505482314.529, -- [4]
+						4109468, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						230143, -- [2]
+						1868287, -- [3]
+						1505482314.568, -- [4]
+						4109468, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						748078, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						48707, -- [2]
+						1, -- [3]
+						1505482193.737, -- [4]
+						0, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "4m 12s",
+				["time"] = 1505482314.568,
+			}, -- [4]
+			{
+				["maxhealth"] = 4631160,
+				["timeofdeath"] = 282.195999999996,
+				["name"] = "Cleversomuch",
+				["events"] = {
+					{
+						true, -- [1]
+						230920, -- [2]
+						463490, -- [3]
+						1505482335.922, -- [4]
+						4182396, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						77489, -- [2]
+						82229, -- [3]
+						1505482336.535, -- [4]
+						2641470, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						1064, -- [2]
+						668598, -- [3]
+						1505482336.535, -- [4]
+						2641470, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						235450, -- [2]
+						377604, -- [3]
+						1505482336.668, -- [4]
+						2641470, -- [5]
+						"Cleversomuch", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						true, -- [1]
+						232916, -- [2]
+						377604, -- [3]
+						1505482336.668, -- [4]
+						2641470, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						39725, -- [3]
+						1505482336.668, -- [4]
+						2641470, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						139, -- [2]
+						125520, -- [3]
+						1505482336.768, -- [4]
+						2641470, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						235450, -- [2]
+						338473, -- [3]
+						1505482336.878, -- [4]
+						3557542, -- [5]
+						"Cleversomuch", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						232732, -- [2]
+						854915, -- [3]
+						1505482336.911, -- [4]
+						3557542, -- [5]
+						"[*] 切割旋风", -- [6]
+						338473, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						61295, -- [2]
+						69202, -- [3]
+						1505482337.311, -- [4]
+						3041100, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						77168, -- [3]
+						1505482337.411, -- [4]
+						3041100, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						77489, -- [2]
+						820291, -- [3]
+						1505482337.883, -- [4]
+						3187470, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						232732, -- [2]
+						854915, -- [3]
+						1505482337.916, -- [4]
+						3187470, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						230920, -- [2]
+						463491, -- [3]
+						1505482337.95, -- [4]
+						3187470, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						48438, -- [2]
+						73302, -- [3]
+						1505482338.15, -- [4]
+						2689355, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						232916, -- [2]
+						444240, -- [3]
+						1505482338.65, -- [4]
+						2762657, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						232732, -- [2]
+						854915, -- [3]
+						1505482338.916, -- [4]
+						2318417, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						48438, -- [2]
+						34037, -- [3]
+						1505482338.95, -- [4]
+						2318417, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						215257, -- [2]
+						82235, -- [3]
+						1505482339.016, -- [4]
+						2318417, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						139, -- [2]
+						55596, -- [3]
+						1505482339.35, -- [4]
+						1579774, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [20]
+					{
+						false, -- [1]
+						77489, -- [2]
+						82230, -- [3]
+						1505482339.583, -- [4]
+						1579774, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						48438, -- [2]
+						41728, -- [3]
+						1505482339.723, -- [4]
+						1717600, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						1064, -- [2]
+						746517, -- [3]
+						1505482339.857, -- [4]
+						1717600, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						232732, -- [2]
+						854915, -- [3]
+						1505482339.923, -- [4]
+						1717600, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						230920, -- [2]
+						463490, -- [3]
+						1505482339.99, -- [4]
+						1717600, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						61295, -- [2]
+						87094, -- [3]
+						1505482340.023, -- [4]
+						1717600, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						48438, -- [2]
+						40035, -- [3]
+						1505482340.476, -- [4]
+						1274534, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						34861, -- [2]
+						520193, -- [3]
+						1505482340.543, -- [4]
+						1314569, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						232916, -- [2]
+						444240, -- [3]
+						1505482340.644, -- [4]
+						1314569, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						81269, -- [2]
+						169806, -- [3]
+						1505482340.644, -- [4]
+						1314569, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						77489, -- [2]
+						820290, -- [3]
+						1505482340.916, -- [4]
+						1314569, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						232732, -- [2]
+						854916, -- [3]
+						1505482340.916, -- [4]
+						1314569, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						48438, -- [2]
+						85199, -- [3]
+						1505482341.226, -- [4]
+						1525702, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						139, -- [2]
+						63935, -- [3]
+						1505482341.876, -- [4]
+						1610901, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						232732, -- [2]
+						854915, -- [3]
+						1505482341.909, -- [4]
+						1610901, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						207283, -- [2]
+						463490, -- [3]
+						1505482341.943, -- [4]
+						1610901, -- [5]
+						"Cleversomuch", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						230920, -- [2]
+						463490, -- [3]
+						1505482341.943, -- [4]
+						1610901, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						48438, -- [2]
+						85204, -- [3]
+						1505482342.009, -- [4]
+						1610901, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						77489, -- [2]
+						79578, -- [3]
+						1505482342.563, -- [4]
+						905125, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						61295, -- [2]
+						89050, -- [3]
+						1505482342.73, -- [4]
+						905125, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						48438, -- [2]
+						41776, -- [3]
+						1505482342.797, -- [4]
+						905125, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [41]
+					{
+						false, -- [1]
+						207283, -- [2]
+						486453, -- [3]
+						1505482342.896, -- [4]
+						905125, -- [5]
+						"Cleversomuch", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						232732, -- [2]
+						854915, -- [3]
+						1505482342.896, -- [4]
+						905125, -- [5]
+						"[*] 切割旋风", -- [6]
+						486453, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						48438, -- [2]
+						37971, -- [3]
+						1505482343.537, -- [4]
+						747067, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						232732, -- [2]
+						854915, -- [3]
+						1505482343.905, -- [4]
+						785038, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						69877, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						45438, -- [2]
+						1, -- [3]
+						1505482221.147, -- [4]
+						0, -- [5]
+						"Cleversomuch", -- [6]
+					}, -- [46]
+				},
+				["class"] = "MAGE",
+				["timestring"] = "4m 42s",
+				["time"] = 1505482343.905,
+			}, -- [5]
+			{
+				["maxhealth"] = 4675380,
+				["timeofdeath"] = 333.305999999982,
+				["name"] = "挪威鸭嘎嘎-白骨荒野",
+				["events"] = {
+					{
+						false, -- [1]
+						215257, -- [2]
+						70234, -- [3]
+						1505482378.127, -- [4]
+						4353295, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459794, -- [3]
+						1505482378.293, -- [4]
+						4447932, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						33110, -- [2]
+						237759, -- [3]
+						1505482378.327, -- [4]
+						4447932, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						73921, -- [2]
+						83576, -- [3]
+						1505482378.729, -- [4]
+						4225897, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						20977, -- [3]
+						1505482379.096, -- [4]
+						4309473, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459794, -- [3]
+						1505482380.271, -- [4]
+						4330450, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						33110, -- [2]
+						118880, -- [3]
+						1505482380.305, -- [4]
+						3870656, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						20683, -- [3]
+						1505482380.305, -- [4]
+						3870656, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						215257, -- [2]
+						63883, -- [3]
+						1505482380.338, -- [4]
+						3870656, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						215257, -- [2]
+						140467, -- [3]
+						1505482380.538, -- [4]
+						4074102, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6389, -- [3]
+						1505482380.838, -- [4]
+						4214569, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7023, -- [3]
+						1505482381.146, -- [4]
+						4220958, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						77489, -- [2]
+						35766, -- [3]
+						1505482381.346, -- [4]
+						4220958, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						143924, -- [2]
+						19443, -- [3]
+						1505482381.92, -- [4]
+						4263747, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						145110, -- [2]
+						143098, -- [3]
+						1505482382.153, -- [4]
+						4263747, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						73921, -- [2]
+						80823, -- [3]
+						1505482382.287, -- [4]
+						4263747, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459794, -- [3]
+						1505482382.287, -- [4]
+						4263747, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						143924, -- [2]
+						64219, -- [3]
+						1505482383.158, -- [4]
+						4047317, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						34861, -- [2]
+						521717, -- [3]
+						1505482383.494, -- [4]
+						4047317, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						73921, -- [2]
+						173127, -- [3]
+						1505482384.061, -- [4]
+						4633253, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459794, -- [3]
+						1505482384.33, -- [4]
+						4633253, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						77489, -- [2]
+						35766, -- [3]
+						1505482384.33, -- [4]
+						4633253, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						143924, -- [2]
+						63305, -- [3]
+						1505482384.363, -- [4]
+						4251352, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6388, -- [3]
+						1505482384.5, -- [4]
+						4251352, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						4, -- [1]
+						232913, -- [2]
+						1, -- [3]
+						1505482385.055, -- [4]
+						4321045, -- [5]
+						"[*] 污染墨汁", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						143924, -- [2]
+						30525, -- [3]
+						1505482385.588, -- [4]
+						4321045, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459794, -- [3]
+						1505482386.298, -- [4]
+						4351570, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						77489, -- [2]
+						84616, -- [3]
+						1505482386.631, -- [4]
+						3891776, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						232916, -- [2]
+						370186, -- [3]
+						1505482387.064, -- [4]
+						3976392, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						77489, -- [2]
+						35766, -- [3]
+						1505482387.335, -- [4]
+						3606206, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						143924, -- [2]
+						46953, -- [3]
+						1505482387.606, -- [4]
+						3641972, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459794, -- [3]
+						1505482388.344, -- [4]
+						3688925, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						4, -- [1]
+						230139, -- [2]
+						1, -- [3]
+						1505482388.846, -- [4]
+						3229131, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						232916, -- [2]
+						370185, -- [3]
+						1505482389.08, -- [4]
+						3229131, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						77489, -- [2]
+						84616, -- [3]
+						1505482389.58, -- [4]
+						2858946, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459793, -- [3]
+						1505482390.346, -- [4]
+						2943562, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						232916, -- [2]
+						370186, -- [3]
+						1505482391.115, -- [4]
+						2483769, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459793, -- [3]
+						1505482392.287, -- [4]
+						2113583, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						5185, -- [2]
+						414644, -- [3]
+						1505482392.801, -- [4]
+						1653790, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						52042, -- [2]
+						97874, -- [3]
+						1505482393.534, -- [4]
+						2068434, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						114942, -- [2]
+						113225, -- [3]
+						1505482394.208, -- [4]
+						2166308, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						230920, -- [2]
+						298866, -- [3]
+						1505482394.308, -- [4]
+						2166308, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505482394.842, -- [4]
+						1980667, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						232754, -- [2]
+						125323, -- [3]
+						1505482394.842, -- [4]
+						1980667, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						230143, -- [2]
+						3695028, -- [3]
+						1505482395.015, -- [4]
+						1855344, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						1839684, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "5m 33s",
+				["time"] = 1505482395.015,
+			}, -- [6]
+			{
+				["maxhealth"] = 6121421,
+				["timeofdeath"] = 333.33899999992,
+				["name"] = "柚子吃了猫",
+				["events"] = {
+					{
+						false, -- [1]
+						215257, -- [2]
+						70233, -- [3]
+						1505482380.538, -- [4]
+						4323066, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [1]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6388, -- [3]
+						1505482380.838, -- [4]
+						4634003, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7024, -- [3]
+						1505482381.113, -- [4]
+						4634003, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						232916, -- [2]
+						440218, -- [3]
+						1505482381.313, -- [4]
+						4647415, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						242474, -- [2]
+						45858, -- [3]
+						1505482381.38, -- [4]
+						4647415, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						242474, -- [2]
+						45677, -- [3]
+						1505482381.646, -- [4]
+						4253055, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						73921, -- [2]
+						83896, -- [3]
+						1505482382.287, -- [4]
+						4298732, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459294, -- [3]
+						1505482382.287, -- [4]
+						4298732, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						203539, -- [2]
+						11713, -- [3]
+						1505482382.387, -- [4]
+						3923334, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						77489, -- [2]
+						29947, -- [3]
+						1505482382.658, -- [4]
+						3935047, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						232916, -- [2]
+						440218, -- [3]
+						1505482383.258, -- [4]
+						3964994, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						34861, -- [2]
+						521717, -- [3]
+						1505482383.494, -- [4]
+						3964994, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						73921, -- [2]
+						96893, -- [3]
+						1505482384.061, -- [4]
+						4046493, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459295, -- [3]
+						1505482384.33, -- [4]
+						4046493, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						203539, -- [2]
+						11713, -- [3]
+						1505482384.433, -- [4]
+						3684091, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						215257, -- [2]
+						70233, -- [3]
+						1505482385.488, -- [4]
+						3695804, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77489, -- [2]
+						66393, -- [3]
+						1505482385.655, -- [4]
+						3766037, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7024, -- [3]
+						1505482386.022, -- [4]
+						3832430, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						139, -- [2]
+						137140, -- [3]
+						1505482386.298, -- [4]
+						3839454, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						33110, -- [2]
+						154832, -- [3]
+						1505482386.298, -- [4]
+						3839454, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459294, -- [3]
+						1505482386.298, -- [4]
+						3839454, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						203539, -- [2]
+						11713, -- [3]
+						1505482386.398, -- [4]
+						3672132, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						596, -- [2]
+						318155, -- [3]
+						1505482387.639, -- [4]
+						3683845, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459294, -- [3]
+						1505482388.344, -- [4]
+						4002000, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						203539, -- [2]
+						11713, -- [3]
+						1505482388.413, -- [4]
+						4002000, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77489, -- [2]
+						138450, -- [3]
+						1505482388.613, -- [4]
+						3554419, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						139, -- [2]
+						137139, -- [3]
+						1505482388.746, -- [4]
+						3554419, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						4, -- [1]
+						230139, -- [2]
+						1, -- [3]
+						1505482388.846, -- [4]
+						3830008, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						157503, -- [2]
+						506574, -- [3]
+						1505482388.846, -- [4]
+						3830008, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459295, -- [3]
+						1505482390.346, -- [4]
+						4336582, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						203539, -- [2]
+						11713, -- [3]
+						1505482390.413, -- [4]
+						4336582, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						139, -- [2]
+						64054, -- [3]
+						1505482391.148, -- [4]
+						3889000, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						77489, -- [2]
+						138450, -- [3]
+						1505482391.62, -- [4]
+						3953054, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						52042, -- [2]
+						149863, -- [3]
+						1505482392.187, -- [4]
+						4091504, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459295, -- [3]
+						1505482392.287, -- [4]
+						4091504, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						203539, -- [2]
+						11713, -- [3]
+						1505482392.391, -- [4]
+						3782072, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						139, -- [2]
+						64054, -- [3]
+						1505482393.534, -- [4]
+						3793785, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						19236, -- [2]
+						1434783, -- [3]
+						1505482393.768, -- [4]
+						3857839, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						208899, -- [2]
+						22000, -- [3]
+						1505482394.208, -- [4]
+						5292621, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						114942, -- [2]
+						88001, -- [3]
+						1505482394.208, -- [4]
+						5292621, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						230920, -- [2]
+						459295, -- [3]
+						1505482394.308, -- [4]
+						5292621, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						203539, -- [2]
+						15227, -- [3]
+						1505482394.408, -- [4]
+						5292621, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						77489, -- [2]
+						201286, -- [3]
+						1505482394.675, -- [4]
+						4958554, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505482394.842, -- [4]
+						4958554, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						232754, -- [2]
+						229280, -- [3]
+						1505482394.842, -- [4]
+						4958554, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"柚子吃了猫", -- [6]
+					}, -- [46]
+				},
+				["class"] = "PRIEST",
+				["timestring"] = "5m 33s",
+				["time"] = 1505482395.048,
+			}, -- [7]
+		},
+		["bossname"] = "主母萨丝琳",
+		["bossicon"] = {
+			0, -- [1]
+			0.25, -- [2]
+			0.25, -- [3]
+			0.5, -- [4]
+			"Interface\\AddOns\\Details_RaidInfo-TombOfSargeras\\boss_faces", -- [5]
+		},
+		["date"] = 648697.895,
+		["timeelapsed"] = 346.611999999965,
+	}, -- [3]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 4402800,
+				["timeofdeath"] = 90.9590000000317,
+				["name"] = "Willam",
+				["events"] = {
+					{
+						false, -- [1]
+						48438, -- [2]
+						66808, -- [3]
+						1505481729.787, -- [4]
+						4081135, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						48438, -- [2]
+						56561, -- [3]
+						1505481730.182, -- [4]
+						4147943, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						139, -- [2]
+						50542, -- [3]
+						1505481730.433, -- [4]
+						4204504, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						26928, -- [3]
+						1505481730.555, -- [4]
+						4255046, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						26168, -- [3]
+						1505481730.948, -- [4]
+						4255046, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1565, -- [3]
+						1505481730.991, -- [4]
+						4308142, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [6]
+					{
+						false, -- [1]
+						77489, -- [2]
+						121533, -- [3]
+						1505481731.291, -- [4]
+						4309707, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						25389, -- [3]
+						1505481731.331, -- [4]
+						4309707, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [8]
+					{
+						true, -- [1]
+						234747, -- [2]
+						97032, -- [3]
+						1505481731.96, -- [4]
+						4402800, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						23871, -- [3]
+						1505481732.116, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						139, -- [2]
+						114109, -- [3]
+						1505481732.775, -- [4]
+						4329639, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						22318, -- [3]
+						1505481732.883, -- [4]
+						4329639, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						14585, -- [3]
+						1505481733.357, -- [4]
+						4402800, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1650, -- [3]
+						1505481733.861, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						77489, -- [2]
+						121533, -- [3]
+						1505481734.304, -- [4]
+						4402800, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						139, -- [2]
+						114109, -- [3]
+						1505481735.106, -- [4]
+						4402800, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3357, -- [3]
+						1505481736.29, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						121533, -- [3]
+						1505481737.305, -- [4]
+						4402800, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						139, -- [2]
+						114109, -- [3]
+						1505481737.644, -- [4]
+						4402800, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1690, -- [3]
+						1505481739.143, -- [4]
+						4402800, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						139, -- [2]
+						114109, -- [3]
+						1505481740.192, -- [4]
+						4402800, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						234747, -- [2]
+						136057, -- [3]
+						1505481740.543, -- [4]
+						4402800, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						139, -- [2]
+						11873, -- [3]
+						1505481740.73, -- [4]
+						4266743, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [23]
+					{
+						true, -- [1]
+						234747, -- [2]
+						199822, -- [3]
+						1505481741.553, -- [4]
+						4283539, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1807, -- [3]
+						1505481741.932, -- [4]
+						4083717, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						234747, -- [2]
+						172147, -- [3]
+						1505481743.569, -- [4]
+						4090440, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1576, -- [3]
+						1505481744.393, -- [4]
+						3918293, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						234747, -- [2]
+						183711, -- [3]
+						1505481744.561, -- [4]
+						3918293, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						234747, -- [2]
+						185049, -- [3]
+						1505481746.53, -- [4]
+						3741076, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1561, -- [3]
+						1505481747.201, -- [4]
+						3556027, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [30]
+					{
+						true, -- [1]
+						234747, -- [2]
+						187348, -- [3]
+						1505481747.532, -- [4]
+						3556027, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						4, -- [1]
+						232732, -- [2]
+						1, -- [3]
+						1505481748.625, -- [4]
+						3375141, -- [5]
+						"[*] 切割旋风", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						234747, -- [2]
+						187056, -- [3]
+						1505481749.545, -- [4]
+						3375141, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1477, -- [3]
+						1505481749.635, -- [4]
+						3192989, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						232732, -- [2]
+						415452, -- [3]
+						1505481749.635, -- [4]
+						3192989, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						232732, -- [2]
+						415452, -- [3]
+						1505481750.635, -- [4]
+						2779014, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						232732, -- [2]
+						415452, -- [3]
+						1505481751.612, -- [4]
+						2363562, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1529, -- [3]
+						1505481752.483, -- [4]
+						1952991, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						234747, -- [2]
+						176396, -- [3]
+						1505481752.553, -- [4]
+						1952991, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						232732, -- [2]
+						415452, -- [3]
+						1505481752.631, -- [4]
+						1952991, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						234747, -- [2]
+						189094, -- [3]
+						1505481753.534, -- [4]
+						1362672, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						232732, -- [2]
+						415452, -- [3]
+						1505481753.627, -- [4]
+						1362672, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						232732, -- [2]
+						415453, -- [3]
+						1505481754.652, -- [4]
+						763032, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1559, -- [3]
+						1505481754.896, -- [4]
+						347579, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						232732, -- [2]
+						415452, -- [3]
+						1505481755.655, -- [4]
+						349138, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						66314, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Willam", -- [6]
+					}, -- [46]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "1m 30s",
+				["time"] = 1505481755.655,
+			}, -- [1]
+			{
+				["maxhealth"] = 4462680,
+				["timeofdeath"] = 108.858000000007,
+				["name"] = "卑鄙的外乡人-白骨荒野",
+				["events"] = {
+					{
+						false, -- [1]
+						139, -- [2]
+						72950, -- [3]
+						1505481767.268, -- [4]
+						3699173, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [1]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505481767.402, -- [4]
+						3699173, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						232754, -- [2]
+						192428, -- [3]
+						1505481767.402, -- [4]
+						3699173, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						4, -- [1]
+						232754, -- [2]
+						2, -- [3]
+						1505481767.402, -- [4]
+						3699173, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						230143, -- [2]
+						709192, -- [3]
+						1505481767.51, -- [4]
+						3579695, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						33110, -- [2]
+						287689, -- [3]
+						1505481767.51, -- [4]
+						3579695, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [6]
+					{
+						true, -- [1]
+						230143, -- [2]
+						1891179, -- [3]
+						1505481767.603, -- [4]
+						3579695, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						596, -- [2]
+						588292, -- [3]
+						1505481767.726, -- [4]
+						3579695, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						64844, -- [2]
+						141192, -- [3]
+						1505481767.766, -- [4]
+						3579695, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [9]
+					{
+						false, -- [1]
+						77489, -- [2]
+						49450, -- [3]
+						1505481767.887, -- [4]
+						1996497, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						64844, -- [2]
+						260400, -- [3]
+						1505481767.969, -- [4]
+						1996497, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						139, -- [2]
+						92055, -- [3]
+						1505481768.107, -- [4]
+						1996497, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						232732, -- [2]
+						423219, -- [3]
+						1505481768.219, -- [4]
+						1996497, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						77489, -- [2]
+						171023, -- [3]
+						1505481768.219, -- [4]
+						1996497, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						232754, -- [2]
+						384856, -- [3]
+						1505481768.415, -- [4]
+						2146206, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						139, -- [2]
+						39353, -- [3]
+						1505481768.609, -- [4]
+						1761350, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77489, -- [2]
+						211794, -- [3]
+						1505481768.609, -- [4]
+						1761350, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						64844, -- [2]
+						171040, -- [3]
+						1505481768.739, -- [4]
+						2012497, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						232732, -- [2]
+						423219, -- [3]
+						1505481769.178, -- [4]
+						2183537, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						232754, -- [2]
+						384855, -- [3]
+						1505481769.418, -- [4]
+						2183537, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						64844, -- [2]
+						130200, -- [3]
+						1505481769.54, -- [4]
+						1375463, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						64844, -- [2]
+						155311, -- [3]
+						1505481769.583, -- [4]
+						1375463, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						139, -- [2]
+						178925, -- [3]
+						1505481770.035, -- [4]
+						1660974, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [23]
+					{
+						true, -- [1]
+						232732, -- [2]
+						423219, -- [3]
+						1505481770.176, -- [4]
+						1660974, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						64844, -- [2]
+						297461, -- [3]
+						1505481770.377, -- [4]
+						1416680, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						232754, -- [2]
+						384856, -- [3]
+						1505481770.432, -- [4]
+						1416680, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						77489, -- [2]
+						72139, -- [3]
+						1505481770.862, -- [4]
+						1329285, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						64844, -- [2]
+						130200, -- [3]
+						1505481771.096, -- [4]
+						1401424, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						232732, -- [2]
+						423219, -- [3]
+						1505481771.167, -- [4]
+						1531624, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						139, -- [2]
+						37141, -- [3]
+						1505481771.222, -- [4]
+						1531624, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						77489, -- [2]
+						136487, -- [3]
+						1505481771.222, -- [4]
+						1531624, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						true, -- [1]
+						232754, -- [2]
+						384856, -- [3]
+						1505481771.42, -- [4]
+						1531624, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						64844, -- [2]
+						173151, -- [3]
+						1505481771.42, -- [4]
+						1531624, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481771.598, -- [4]
+						1070328, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						77489, -- [2]
+						191853, -- [3]
+						1505481771.598, -- [4]
+						1070328, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						64844, -- [2]
+						148730, -- [3]
+						1505481771.962, -- [4]
+						1262181, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						232732, -- [2]
+						423219, -- [3]
+						1505481772.186, -- [4]
+						1262181, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						189800, -- [2]
+						105726, -- [3]
+						1505481772.338, -- [4]
+						987692, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						232754, -- [2]
+						384855, -- [3]
+						1505481772.47, -- [4]
+						987692, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						48438, -- [2]
+						50357, -- [3]
+						1505481773.131, -- [4]
+						708563, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [40]
+					{
+						true, -- [1]
+						232732, -- [2]
+						423219, -- [3]
+						1505481773.166, -- [4]
+						758920, -- [5]
+						"[*] 切割旋风", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						139, -- [2]
+						67271, -- [3]
+						1505481773.199, -- [4]
+						758920, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						33110, -- [2]
+						158229, -- [3]
+						1505481773.199, -- [4]
+						758920, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						232754, -- [2]
+						384855, -- [3]
+						1505481773.396, -- [4]
+						561201, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						230959, -- [2]
+						191298, -- [3]
+						1505481773.554, -- [4]
+						176346, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						14952, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"卑鄙的外乡人-白骨荒野", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "1m 48s",
+				["time"] = 1505481773.554,
+			}, -- [2]
+			{
+				["maxhealth"] = 4751280,
+				["timeofdeath"] = 125.280000000028,
+				["name"] = "Lluvia",
+				["events"] = {
+					{
+						true, -- [1]
+						230920, -- [2]
+						462393, -- [3]
+						1505481775.64, -- [4]
+						2560474, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						77489, -- [2]
+						143420, -- [3]
+						1505481775.675, -- [4]
+						2560474, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						41194, -- [3]
+						1505481776.149, -- [4]
+						2053223, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						774, -- [2]
+						95133, -- [3]
+						1505481776.34, -- [4]
+						2094417, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						71962, -- [3]
+						1505481776.589, -- [4]
+						2189550, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						234747, -- [2]
+						202145, -- [3]
+						1505481776.589, -- [4]
+						2189550, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						77489, -- [2]
+						52681, -- [3]
+						1505481776.853, -- [4]
+						2059367, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						43276, -- [3]
+						1505481776.967, -- [4]
+						2112048, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						230920, -- [2]
+						462393, -- [3]
+						1505481777.64, -- [4]
+						2155324, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						40728, -- [3]
+						1505481777.68, -- [4]
+						1692931, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						34191, -- [3]
+						1505481778.434, -- [4]
+						1739031, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						774, -- [2]
+						85223, -- [3]
+						1505481778.592, -- [4]
+						1739031, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						77489, -- [2]
+						143420, -- [3]
+						1505481778.681, -- [4]
+						1858445, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						28997, -- [3]
+						1505481779.233, -- [4]
+						2001865, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5758, -- [3]
+						1505481779.35, -- [4]
+						2030862, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						77489, -- [2]
+						71962, -- [3]
+						1505481779.56, -- [4]
+						2030862, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						234747, -- [2]
+						190962, -- [3]
+						1505481779.606, -- [4]
+						2030862, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						230920, -- [2]
+						462393, -- [3]
+						1505481779.606, -- [4]
+						2030862, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						77489, -- [2]
+						52681, -- [3]
+						1505481779.856, -- [4]
+						1455227, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						774, -- [2]
+						57547, -- [3]
+						1505481780.899, -- [4]
+						1513243, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						230920, -- [2]
+						462393, -- [3]
+						1505481781.639, -- [4]
+						1570790, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						57547, -- [3]
+						1505481783.184, -- [4]
+						1113776, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						8004, -- [2]
+						1020400, -- [3]
+						1505481783.262, -- [4]
+						1113776, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						230920, -- [2]
+						462393, -- [3]
+						1505481783.654, -- [4]
+						2191723, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						8004, -- [2]
+						1020400, -- [3]
+						1505481784.355, -- [4]
+						1734678, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						774, -- [2]
+						57546, -- [3]
+						1505481785.328, -- [4]
+						2755078, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						230920, -- [2]
+						462393, -- [3]
+						1505481785.646, -- [4]
+						2812624, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						596, -- [2]
+						301439, -- [3]
+						1505481786.492, -- [4]
+						2355637, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						230214, -- [2]
+						975962, -- [3]
+						1505481786.596, -- [4]
+						2657076, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						242474, -- [2]
+						52259, -- [3]
+						1505481787.015, -- [4]
+						1681114, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						242474, -- [2]
+						50712, -- [3]
+						1505481787.269, -- [4]
+						1681114, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						774, -- [2]
+						57547, -- [3]
+						1505481787.445, -- [4]
+						1784085, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						242474, -- [2]
+						53020, -- [3]
+						1505481787.545, -- [4]
+						1784085, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						230214, -- [2]
+						926297, -- [3]
+						1505481787.615, -- [4]
+						1784085, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						230920, -- [2]
+						462393, -- [3]
+						1505481787.615, -- [4]
+						1784085, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						4, -- [1]
+						234621, -- [2]
+						1, -- [3]
+						1505481787.65, -- [4]
+						1784085, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [36]
+					{
+						4, -- [1]
+						232913, -- [2]
+						1, -- [3]
+						1505481787.959, -- [4]
+						505962, -- [5]
+						"[*] 污染墨汁", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [37]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481788.499, -- [4]
+						511341, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						596, -- [2]
+						301439, -- [3]
+						1505481788.913, -- [4]
+						511341, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						243241, -- [2]
+						97238, -- [3]
+						1505481789.299, -- [4]
+						812780, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						77489, -- [2]
+						123849, -- [3]
+						1505481789.512, -- [4]
+						910018, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						774, -- [2]
+						57547, -- [3]
+						1505481789.546, -- [4]
+						910018, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						230920, -- [2]
+						462393, -- [3]
+						1505481789.612, -- [4]
+						910018, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						234621, -- [2]
+						430188, -- [3]
+						1505481789.646, -- [4]
+						910018, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						232916, -- [2]
+						443188, -- [3]
+						1505481789.976, -- [4]
+						198833, -- [5]
+						"[*] 污染墨汁", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						244355, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						108271, -- [2]
+						1, -- [3]
+						1505481746.831, -- [4]
+						0, -- [5]
+						"Lluvia", -- [6]
+					}, -- [46]
+				},
+				["class"] = "SHAMAN",
+				["timestring"] = "2m 5s",
+				["time"] = 1505481789.976,
+			}, -- [3]
+			{
+				["maxhealth"] = 4769940,
+				["timeofdeath"] = 137.016999999993,
+				["name"] = "丑德豪无人性-白骨荒野",
+				["events"] = {
+					{
+						false, -- [1]
+						143924, -- [2]
+						11367, -- [3]
+						1505481794.247, -- [4]
+						2516215, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						155777, -- [2]
+						78713, -- [3]
+						1505481794.58, -- [4]
+						2516215, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						36737, -- [3]
+						1505481794.58, -- [4]
+						2516215, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						77489, -- [2]
+						219911, -- [3]
+						1505481794.78, -- [4]
+						2643032, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						34781, -- [3]
+						1505481795.301, -- [4]
+						2862943, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						143924, -- [2]
+						12747, -- [3]
+						1505481795.435, -- [4]
+						2897724, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						230920, -- [2]
+						443568, -- [3]
+						1505481795.635, -- [4]
+						2897724, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						234621, -- [2]
+						412675, -- [3]
+						1505481795.701, -- [4]
+						2897724, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						774, -- [2]
+						160570, -- [3]
+						1505481795.769, -- [4]
+						2897724, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						32827, -- [3]
+						1505481796.006, -- [4]
+						2214798, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						77489, -- [2]
+						9769, -- [3]
+						1505481796.207, -- [4]
+						2214798, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481796.378, -- [4]
+						2257394, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7069, -- [3]
+						1505481796.652, -- [4]
+						2257394, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						155777, -- [2]
+						78713, -- [3]
+						1505481796.719, -- [4]
+						2257394, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						48438, -- [2]
+						30875, -- [3]
+						1505481796.719, -- [4]
+						2257394, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						139, -- [2]
+						50541, -- [3]
+						1505481796.719, -- [4]
+						2257394, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						145109, -- [2]
+						143098, -- [3]
+						1505481797.161, -- [4]
+						2424592, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						48438, -- [2]
+						26618, -- [3]
+						1505481797.361, -- [4]
+						2424592, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						230920, -- [2]
+						443569, -- [3]
+						1505481797.637, -- [4]
+						2594308, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						234621, -- [2]
+						412675, -- [3]
+						1505481797.704, -- [4]
+						2594308, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505481797.804, -- [4]
+						2594308, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						232754, -- [2]
+						219216, -- [3]
+						1505481797.804, -- [4]
+						2594308, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						774, -- [2]
+						145808, -- [3]
+						1505481797.847, -- [4]
+						2594308, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						143924, -- [2]
+						11259, -- [3]
+						1505481797.885, -- [4]
+						1664656, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481797.885, -- [4]
+						1664656, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						230143, -- [2]
+						783437, -- [3]
+						1505481797.956, -- [4]
+						1664656, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481798.558, -- [4]
+						892478, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						155777, -- [2]
+						145813, -- [3]
+						1505481798.792, -- [4]
+						892478, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						232754, -- [2]
+						219216, -- [3]
+						1505481798.825, -- [4]
+						892478, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						33110, -- [2]
+						326157, -- [3]
+						1505481798.898, -- [4]
+						819075, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						143924, -- [2]
+						5965, -- [3]
+						1505481799.065, -- [4]
+						1145232, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						77489, -- [2]
+						9769, -- [3]
+						1505481799.179, -- [4]
+						1145232, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						139, -- [2]
+						114109, -- [3]
+						1505481799.294, -- [4]
+						1145232, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						157982, -- [2]
+						223747, -- [3]
+						1505481799.565, -- [4]
+						1275075, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						230920, -- [2]
+						443569, -- [3]
+						1505481799.669, -- [4]
+						1498822, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						234621, -- [2]
+						412675, -- [3]
+						1505481799.703, -- [4]
+						1498822, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						232754, -- [2]
+						219215, -- [3]
+						1505481799.81, -- [4]
+						1498822, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						774, -- [2]
+						71474, -- [3]
+						1505481799.99, -- [4]
+						423363, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						143924, -- [2]
+						88160, -- [3]
+						1505481800.33, -- [4]
+						494837, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						232754, -- [2]
+						219216, -- [3]
+						1505481800.8, -- [4]
+						582997, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						155777, -- [2]
+						71477, -- [3]
+						1505481800.982, -- [4]
+						582997, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						157982, -- [2]
+						223747, -- [3]
+						1505481800.982, -- [4]
+						582997, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						143924, -- [2]
+						84714, -- [3]
+						1505481801.523, -- [4]
+						659005, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						230920, -- [2]
+						443568, -- [3]
+						1505481801.63, -- [4]
+						659005, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						234621, -- [2]
+						412675, -- [3]
+						1505481801.713, -- [4]
+						300151, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						112524, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						22812, -- [2]
+						1, -- [3]
+						1505481767.934, -- [4]
+						0, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DRUID",
+				["timestring"] = "2m 17s",
+				["time"] = 1505481801.713,
+			}, -- [4]
+			{
+				["maxhealth"] = 7237776,
+				["timeofdeath"] = 138.989999999991,
+				["name"] = "龙听雨-巨龙之吼",
+				["events"] = {
+					{
+						true, -- [1]
+						1, -- [2]
+						210666, -- [3]
+						1505481799.143, -- [4]
+						5885385, -- [5]
+						"主母萨丝琳", -- [6]
+						1895991, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						124255, -- [2]
+						255066, -- [3]
+						1505481799.143, -- [4]
+						5885385, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						229528, -- [2]
+						421331, -- [3]
+						1505481799.179, -- [4]
+						5885385, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						151679, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						157982, -- [2]
+						547731, -- [3]
+						1505481799.565, -- [4]
+						5150001, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						124255, -- [2]
+						324013, -- [3]
+						1505481799.669, -- [4]
+						5697732, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						234621, -- [2]
+						179108, -- [3]
+						1505481799.703, -- [4]
+						5697732, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						100747, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						243241, -- [2]
+						99975, -- [3]
+						1505481799.772, -- [4]
+						5697732, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						232754, -- [2]
+						273897, -- [3]
+						1505481799.81, -- [4]
+						5697732, -- [5]
+						"主母萨丝琳", -- [6]
+						154067, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						229528, -- [2]
+						85592, -- [3]
+						1505481799.81, -- [4]
+						5697732, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						30813, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						241509, -- [2]
+						238699, -- [3]
+						1505481799.849, -- [4]
+						5697732, -- [5]
+						"锋颚踏浪者", -- [6]
+						134267, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						229528, -- [2]
+						74593, -- [3]
+						1505481799.849, -- [4]
+						5697732, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						26853, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						124255, -- [2]
+						328733, -- [3]
+						1505481800.124, -- [4]
+						4679471, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						124255, -- [2]
+						328733, -- [3]
+						1505481800.632, -- [4]
+						4350738, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						1, -- [2]
+						313120, -- [3]
+						1505481800.632, -- [4]
+						4350738, -- [5]
+						"主母萨丝琳", -- [6]
+						2818074, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						229528, -- [2]
+						626239, -- [3]
+						1505481800.665, -- [4]
+						4350738, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						225446, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						774, -- [2]
+						71474, -- [3]
+						1505481800.7, -- [4]
+						3308092, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						232754, -- [2]
+						380412, -- [3]
+						1505481800.8, -- [4]
+						3308092, -- [5]
+						"主母萨丝琳", -- [6]
+						213981, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						229528, -- [2]
+						118879, -- [3]
+						1505481800.848, -- [4]
+						3308092, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						42796, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						157982, -- [2]
+						223747, -- [3]
+						1505481801.015, -- [4]
+						3308092, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						155777, -- [2]
+						145812, -- [3]
+						1505481801.082, -- [4]
+						3308092, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						124255, -- [2]
+						430381, -- [3]
+						1505481801.148, -- [4]
+						3292630, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						77489, -- [2]
+						167657, -- [3]
+						1505481801.351, -- [4]
+						2862249, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						124255, -- [2]
+						430381, -- [3]
+						1505481801.63, -- [4]
+						3029906, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						33110, -- [2]
+						163078, -- [3]
+						1505481801.665, -- [4]
+						3029906, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						234621, -- [2]
+						248761, -- [3]
+						1505481801.665, -- [4]
+						3029906, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						139927, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						124507, -- [2]
+						360835, -- [3]
+						1505481801.792, -- [4]
+						2513842, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						232754, -- [2]
+						380413, -- [3]
+						1505481801.792, -- [4]
+						2513842, -- [5]
+						"主母萨丝琳", -- [6]
+						213981, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						229528, -- [2]
+						118879, -- [3]
+						1505481801.826, -- [4]
+						2513842, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						42796, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						1, -- [2]
+						219353, -- [3]
+						1505481802.066, -- [4]
+						2418181, -- [5]
+						"深渊追猎者", -- [6]
+						123386, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						229528, -- [2]
+						68547, -- [3]
+						1505481802.102, -- [4]
+						2418181, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						24676, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						124255, -- [2]
+						418227, -- [3]
+						1505481802.135, -- [4]
+						2418181, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						1, -- [2]
+						299414, -- [3]
+						1505481802.135, -- [4]
+						2418181, -- [5]
+						"主母萨丝琳", -- [6]
+						2694717, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						229528, -- [2]
+						156956, -- [3]
+						1505481802.268, -- [4]
+						2418181, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						56504, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						215257, -- [2]
+						159040, -- [3]
+						1505481802.438, -- [4]
+						1336864, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						124255, -- [2]
+						507958, -- [3]
+						1505481802.638, -- [4]
+						1336864, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						77489, -- [2]
+						16215, -- [3]
+						1505481802.805, -- [4]
+						987946, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						232754, -- [2]
+						380413, -- [3]
+						1505481802.805, -- [4]
+						987946, -- [5]
+						"主母萨丝琳", -- [6]
+						213981, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						774, -- [2]
+						63448, -- [3]
+						1505481802.839, -- [4]
+						987946, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						215257, -- [2]
+						15904, -- [3]
+						1505481803.008, -- [4]
+						987946, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						124255, -- [2]
+						496651, -- [3]
+						1505481803.177, -- [4]
+						703100, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						155777, -- [2]
+						63450, -- [3]
+						1505481803.177, -- [4]
+						703100, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						243241, -- [2]
+						114971, -- [3]
+						1505481803.248, -- [4]
+						703100, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						1, -- [2]
+						225747, -- [3]
+						1505481803.585, -- [4]
+						384870, -- [5]
+						"深渊追猎者", -- [6]
+						126982, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						124255, -- [2]
+						482433, -- [3]
+						1505481803.653, -- [4]
+						384870, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						323311, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						1, -- [2]
+						316112, -- [3]
+						1505481803.653, -- [4]
+						384870, -- [5]
+						"主母萨丝琳", -- [6]
+						2845001, -- [7]
+						1, -- [8]
+						false, -- [9]
+						316111, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						115308, -- [2]
+						1, -- [3]
+						1505481795.015, -- [4]
+						0, -- [5]
+						"龙听雨-巨龙之吼", -- [6]
+					}, -- [46]
+				},
+				["class"] = "MONK",
+				["timestring"] = "2m 18s",
+				["time"] = 1505481803.686,
+			}, -- [5]
+			{
+				["maxhealth"] = 4655820,
+				["timeofdeath"] = 139.167999999947,
+				["name"] = "Désolé",
+				["events"] = {
+					{
+						false, -- [1]
+						155777, -- [2]
+						71476, -- [3]
+						1505481794.88, -- [4]
+						3400942, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6715, -- [3]
+						1505481794.982, -- [4]
+						3400942, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						true, -- [1]
+						230920, -- [2]
+						454674, -- [3]
+						1505481795.301, -- [4]
+						3479133, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						31578, -- [3]
+						1505481795.301, -- [4]
+						3479133, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						false, -- [1]
+						34861, -- [2]
+						549508, -- [3]
+						1505481795.769, -- [4]
+						3056037, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						234621, -- [2]
+						355325, -- [3]
+						1505481795.803, -- [4]
+						3056037, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						48438, -- [2]
+						29810, -- [3]
+						1505481796.039, -- [4]
+						3250220, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						215257, -- [2]
+						134299, -- [3]
+						1505481796.24, -- [4]
+						3280030, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77489, -- [2]
+						62456, -- [3]
+						1505481796.719, -- [4]
+						3414329, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						28031, -- [3]
+						1505481796.719, -- [4]
+						3414329, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						215257, -- [2]
+						13430, -- [3]
+						1505481796.785, -- [4]
+						3414329, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						77489, -- [2]
+						86541, -- [3]
+						1505481796.785, -- [4]
+						3414329, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						155777, -- [2]
+						71477, -- [3]
+						1505481796.952, -- [4]
+						3414329, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						230920, -- [2]
+						454674, -- [3]
+						1505481797.294, -- [4]
+						3676264, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						48438, -- [2]
+						24160, -- [3]
+						1505481797.361, -- [4]
+						3676264, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481797.396, -- [4]
+						3676264, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						234621, -- [2]
+						355325, -- [3]
+						1505481797.804, -- [4]
+						3245750, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505481797.804, -- [4]
+						3245750, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						232754, -- [2]
+						190658, -- [3]
+						1505481797.804, -- [4]
+						3245750, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						230143, -- [2]
+						702669, -- [3]
+						1505481797.923, -- [4]
+						2699767, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						232754, -- [2]
+						190658, -- [3]
+						1505481798.825, -- [4]
+						1997098, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						155777, -- [2]
+						131050, -- [3]
+						1505481799.065, -- [4]
+						1806440, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						230920, -- [2]
+						454674, -- [3]
+						1505481799.294, -- [4]
+						1806440, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						157982, -- [2]
+						201093, -- [3]
+						1505481799.565, -- [4]
+						1482816, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						77489, -- [2]
+						62456, -- [3]
+						1505481799.669, -- [4]
+						1683909, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						243241, -- [2]
+						199950, -- [3]
+						1505481799.772, -- [4]
+						1683909, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						234621, -- [2]
+						355325, -- [3]
+						1505481799.772, -- [4]
+						1683909, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						77489, -- [2]
+						86541, -- [3]
+						1505481799.772, -- [4]
+						1683909, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						232754, -- [2]
+						190658, -- [3]
+						1505481799.849, -- [4]
+						1683909, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						232754, -- [2]
+						190658, -- [3]
+						1505481800.848, -- [4]
+						1486873, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						157982, -- [2]
+						201093, -- [3]
+						1505481801.015, -- [4]
+						1486873, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						155777, -- [2]
+						64240, -- [3]
+						1505481801.215, -- [4]
+						1497308, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						230920, -- [2]
+						454673, -- [3]
+						1505481801.315, -- [4]
+						1497308, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						234621, -- [2]
+						355325, -- [3]
+						1505481801.792, -- [4]
+						1106875, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						232754, -- [2]
+						190658, -- [3]
+						1505481801.826, -- [4]
+						1106875, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						215257, -- [2]
+						79521, -- [3]
+						1505481802.438, -- [4]
+						560892, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						77489, -- [2]
+						86541, -- [3]
+						1505481802.772, -- [4]
+						640413, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [37]
+					{
+						false, -- [1]
+						77489, -- [2]
+						32430, -- [3]
+						1505481802.805, -- [4]
+						640413, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						232754, -- [2]
+						190658, -- [3]
+						1505481802.839, -- [4]
+						640413, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						33110, -- [2]
+						163079, -- [3]
+						1505481802.874, -- [4]
+						640413, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7952, -- [3]
+						1505481803.008, -- [4]
+						640413, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						230920, -- [2]
+						454674, -- [3]
+						1505481803.316, -- [4]
+						739757, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						155777, -- [2]
+						57026, -- [3]
+						1505481803.316, -- [4]
+						739757, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						234621, -- [2]
+						230961, -- [3]
+						1505481803.788, -- [4]
+						342109, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						232754, -- [2]
+						123928, -- [3]
+						1505481803.864, -- [4]
+						342109, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						12780, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Désolé", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "2m 19s",
+				["time"] = 1505481803.864,
+			}, -- [6]
+			{
+				["maxhealth"] = 5438714,
+				["timeofdeath"] = 142.795000000042,
+				["name"] = "Jibayang",
+				["events"] = {
+					{
+						false, -- [1]
+						48438, -- [2]
+						26792, -- [3]
+						1505481796.039, -- [4]
+						4139789, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						77489, -- [2]
+						297793, -- [3]
+						1505481796.545, -- [4]
+						4166581, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						51398, -- [3]
+						1505481796.719, -- [4]
+						4464374, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						230920, -- [2]
+						452104, -- [3]
+						1505481797.294, -- [4]
+						4515772, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						21713, -- [3]
+						1505481797.361, -- [4]
+						4515772, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						139, -- [2]
+						101083, -- [3]
+						1505481797.504, -- [4]
+						4085381, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						139, -- [2]
+						101083, -- [3]
+						1505481797.637, -- [4]
+						4085381, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						234621, -- [2]
+						420615, -- [3]
+						1505481797.704, -- [4]
+						4085381, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505481797.804, -- [4]
+						4085381, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						232754, -- [2]
+						225691, -- [3]
+						1505481797.804, -- [4]
+						4085381, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						230143, -- [2]
+						1863195, -- [3]
+						1505481797.99, -- [4]
+						3641240, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						232754, -- [2]
+						225691, -- [3]
+						1505481798.825, -- [4]
+						1778045, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						230920, -- [2]
+						452104, -- [3]
+						1505481799.294, -- [4]
+						1552353, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						77489, -- [2]
+						208666, -- [3]
+						1505481799.532, -- [4]
+						1100249, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178439, -- [3]
+						1505481799.565, -- [4]
+						1100249, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						234621, -- [2]
+						420615, -- [3]
+						1505481799.703, -- [4]
+						1487354, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						232754, -- [2]
+						225691, -- [3]
+						1505481799.849, -- [4]
+						1487354, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						139, -- [2]
+						114109, -- [3]
+						1505481800.057, -- [4]
+						841048, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						214121, -- [2]
+						46010, -- [3]
+						1505481800.09, -- [4]
+						841048, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						2050, -- [2]
+						1779070, -- [3]
+						1505481800.363, -- [4]
+						1001167, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						232754, -- [2]
+						225691, -- [3]
+						1505481800.8, -- [4]
+						2780237, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178440, -- [3]
+						1505481801.015, -- [4]
+						2780237, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						false, -- [1]
+						214121, -- [2]
+						52912, -- [3]
+						1505481801.082, -- [4]
+						2780237, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						19236, -- [2]
+						1382796, -- [3]
+						1505481801.248, -- [4]
+						2785897, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						196809, -- [2]
+						173887, -- [3]
+						1505481801.248, -- [4]
+						2785897, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						230920, -- [2]
+						452104, -- [3]
+						1505481801.315, -- [4]
+						2785897, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						234621, -- [2]
+						420615, -- [3]
+						1505481801.713, -- [4]
+						3548347, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						232754, -- [2]
+						225691, -- [3]
+						1505481801.859, -- [4]
+						3127732, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						214121, -- [2]
+						52912, -- [3]
+						1505481802.102, -- [4]
+						2902039, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						77489, -- [2]
+						456204, -- [3]
+						1505481802.605, -- [4]
+						2954951, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						139, -- [2]
+						65612, -- [3]
+						1505481802.605, -- [4]
+						2954951, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						232754, -- [2]
+						225691, -- [3]
+						1505481802.805, -- [4]
+						3476767, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						214121, -- [2]
+						52912, -- [3]
+						1505481803.075, -- [4]
+						3476767, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						230920, -- [2]
+						452104, -- [3]
+						1505481803.316, -- [4]
+						3303987, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						234621, -- [2]
+						420615, -- [3]
+						1505481803.721, -- [4]
+						2851883, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						196810, -- [2]
+						104332, -- [3]
+						1505481803.721, -- [4]
+						2851883, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						232754, -- [2]
+						225691, -- [3]
+						1505481803.822, -- [4]
+						2851883, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						139, -- [2]
+						65613, -- [3]
+						1505481805.132, -- [4]
+						2309907, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						230920, -- [2]
+						452104, -- [3]
+						1505481805.283, -- [4]
+						2375520, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						77489, -- [2]
+						456204, -- [3]
+						1505481805.537, -- [4]
+						2375520, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						234621, -- [2]
+						420615, -- [3]
+						1505481805.706, -- [4]
+						2379620, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						215257, -- [2]
+						159041, -- [3]
+						1505481807.064, -- [4]
+						1959003, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						230920, -- [2]
+						452104, -- [3]
+						1505481807.265, -- [4]
+						2118044, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7952, -- [3]
+						1505481807.381, -- [4]
+						2118044, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						false, -- [1]
+						196781, -- [2]
+						230052, -- [3]
+						1505481807.381, -- [4]
+						2118044, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Jibayang", -- [6]
+					}, -- [46]
+				},
+				["class"] = "PRIEST",
+				["timestring"] = "2m 22s",
+				["time"] = 1505481807.491,
+			}, -- [7]
+			{
+				["maxhealth"] = 4866000,
+				["timeofdeath"] = 142.886999999988,
+				["name"] = "荒梦与鹿",
+				["events"] = {
+					{
+						false, -- [1]
+						139, -- [2]
+						60289, -- [3]
+						1505481792.167, -- [4]
+						4560918, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						242474, -- [2]
+						52783, -- [3]
+						1505481792.236, -- [4]
+						4675486, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						false, -- [1]
+						596, -- [2]
+						301439, -- [3]
+						1505481792.341, -- [4]
+						4675486, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						77489, -- [2]
+						440107, -- [3]
+						1505481792.543, -- [4]
+						4866000, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						774, -- [2]
+						131046, -- [3]
+						1505481793.151, -- [4]
+						4866000, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						234621, -- [2]
+						405759, -- [3]
+						1505481793.676, -- [4]
+						4866000, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						196781, -- [2]
+						121548, -- [3]
+						1505481793.811, -- [4]
+						4460241, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						139, -- [2]
+						60289, -- [3]
+						1505481794.914, -- [4]
+						4581789, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						774, -- [2]
+						64238, -- [3]
+						1505481795.268, -- [4]
+						4642078, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						77489, -- [2]
+						310992, -- [3]
+						1505481795.535, -- [4]
+						4706316, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						33110, -- [2]
+						283615, -- [3]
+						1505481795.701, -- [4]
+						4706316, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [11]
+					{
+						true, -- [1]
+						234621, -- [2]
+						405759, -- [3]
+						1505481795.701, -- [4]
+						4706316, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						215257, -- [2]
+						134299, -- [3]
+						1505481796.311, -- [4]
+						4460241, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6715, -- [3]
+						1505481796.752, -- [4]
+						4594540, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481797.128, -- [4]
+						4601255, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						774, -- [2]
+						64238, -- [3]
+						1505481797.361, -- [4]
+						4601255, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						234621, -- [2]
+						405760, -- [3]
+						1505481797.671, -- [4]
+						4665493, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						139, -- [2]
+						69333, -- [3]
+						1505481797.671, -- [4]
+						4665493, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505481797.804, -- [4]
+						4665493, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						232754, -- [2]
+						217719, -- [3]
+						1505481797.804, -- [4]
+						4665493, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						230143, -- [2]
+						643383, -- [3]
+						1505481797.923, -- [4]
+						4111347, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						77489, -- [2]
+						248363, -- [3]
+						1505481798.492, -- [4]
+						3467964, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						232754, -- [2]
+						217720, -- [3]
+						1505481798.792, -- [4]
+						3716327, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						230959, -- [2]
+						216443, -- [3]
+						1505481799.065, -- [4]
+						3498607, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						774, -- [2]
+						62630, -- [3]
+						1505481799.464, -- [4]
+						3498607, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178440, -- [3]
+						1505481799.565, -- [4]
+						3344794, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						234621, -- [2]
+						405760, -- [3]
+						1505481799.703, -- [4]
+						3523234, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						232754, -- [2]
+						217719, -- [3]
+						1505481799.849, -- [4]
+						3523234, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						196781, -- [2]
+						279560, -- [3]
+						1505481800.09, -- [4]
+						2899755, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						139, -- [2]
+						69333, -- [3]
+						1505481800.498, -- [4]
+						3179315, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						33110, -- [2]
+						163078, -- [3]
+						1505481800.8, -- [4]
+						3248648, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						232754, -- [2]
+						217720, -- [3]
+						1505481800.8, -- [4]
+						3248648, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178440, -- [3]
+						1505481801.015, -- [4]
+						3248648, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						230959, -- [2]
+						216442, -- [3]
+						1505481801.082, -- [4]
+						3248648, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						77489, -- [2]
+						229620, -- [3]
+						1505481801.486, -- [4]
+						3156004, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [35]
+					{
+						false, -- [1]
+						139, -- [2]
+						28784, -- [3]
+						1505481801.63, -- [4]
+						3385624, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						234621, -- [2]
+						405759, -- [3]
+						1505481801.665, -- [4]
+						3385624, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						true, -- [1]
+						232754, -- [2]
+						217719, -- [3]
+						1505481801.826, -- [4]
+						3008649, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481802.368, -- [4]
+						2790930, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						232754, -- [2]
+						217720, -- [3]
+						1505481802.805, -- [4]
+						2790930, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						234621, -- [2]
+						405759, -- [3]
+						1505481803.686, -- [4]
+						2573210, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						232754, -- [2]
+						217719, -- [3]
+						1505481803.822, -- [4]
+						2573210, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						4, -- [1]
+						232913, -- [2]
+						1, -- [3]
+						1505481804.152, -- [4]
+						1949732, -- [5]
+						"[*] 污染墨汁", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						77489, -- [2]
+						229620, -- [3]
+						1505481804.493, -- [4]
+						1949732, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						234621, -- [2]
+						405760, -- [3]
+						1505481805.671, -- [4]
+						2179352, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"荒梦与鹿", -- [6]
+					}, -- [46]
+				},
+				["class"] = "PRIEST",
+				["timestring"] = "2m 22s",
+				["time"] = 1505481807.583,
+			}, -- [8]
+			{
+				["maxhealth"] = 4952100,
+				["timeofdeath"] = 142.927999999956,
+				["name"] = "Nesevil",
+				["events"] = {
+					{
+						true, -- [1]
+						232754, -- [2]
+						231701, -- [3]
+						1505481797.804, -- [4]
+						4952100, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						230143, -- [2]
+						717304, -- [3]
+						1505481797.923, -- [4]
+						4372102, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						77489, -- [2]
+						232141, -- [3]
+						1505481798.558, -- [4]
+						3654798, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						108366, -- [2]
+						67645, -- [3]
+						1505481798.792, -- [4]
+						3886939, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1505481798.792, -- [4]
+						3886939, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231701, -- [3]
+						1505481798.792, -- [4]
+						3886939, -- [5]
+						"主母萨丝琳", -- [6]
+						67645, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178439, -- [3]
+						1505481799.565, -- [4]
+						3722883, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						77489, -- [2]
+						62456, -- [3]
+						1505481799.669, -- [4]
+						3901322, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						108366, -- [2]
+						134627, -- [3]
+						1505481799.703, -- [4]
+						3901322, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1505481799.703, -- [4]
+						3901322, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431816, -- [3]
+						1505481799.703, -- [4]
+						3901322, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						134627, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						243241, -- [2]
+						99975, -- [3]
+						1505481799.772, -- [4]
+						3901322, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231700, -- [3]
+						1505481799.849, -- [4]
+						3901322, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						108366, -- [2]
+						82758, -- [3]
+						1505481800.8, -- [4]
+						3534864, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1505481800.8, -- [4]
+						3534864, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231700, -- [3]
+						1505481800.8, -- [4]
+						3534864, -- [5]
+						"主母萨丝琳", -- [6]
+						82758, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						157982, -- [2]
+						364018, -- [3]
+						1505481801.015, -- [4]
+						3534864, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						232141, -- [3]
+						1505481801.523, -- [4]
+						3749940, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						false, -- [1]
+						108366, -- [2]
+						76638, -- [3]
+						1505481801.665, -- [4]
+						3749940, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1505481801.665, -- [4]
+						3749940, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431816, -- [3]
+						1505481801.665, -- [4]
+						3749940, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						76638, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231701, -- [3]
+						1505481801.859, -- [4]
+						3626903, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						77489, -- [2]
+						16215, -- [3]
+						1505481802.805, -- [4]
+						3395202, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [23]
+					{
+						false, -- [1]
+						108366, -- [2]
+						24602, -- [3]
+						1505481802.839, -- [4]
+						3395202, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1505481802.839, -- [4]
+						3395202, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231701, -- [3]
+						1505481802.839, -- [4]
+						3395202, -- [5]
+						"主母萨丝琳", -- [6]
+						24602, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						243241, -- [2]
+						114971, -- [3]
+						1505481803.248, -- [4]
+						3204318, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						108366, -- [2]
+						124311, -- [3]
+						1505481803.686, -- [4]
+						3319289, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1505481803.686, -- [4]
+						3319289, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431816, -- [3]
+						1505481803.686, -- [4]
+						3319289, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						124311, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						196810, -- [2]
+						104332, -- [3]
+						1505481803.721, -- [4]
+						3319289, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231700, -- [3]
+						1505481803.822, -- [4]
+						3319289, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						77489, -- [2]
+						232141, -- [3]
+						1505481804.526, -- [4]
+						2884416, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						198590, -- [2]
+						2326244, -- [3]
+						1505481804.762, -- [4]
+						2884416, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						198590, -- [2]
+						2437808, -- [3]
+						1505481805.537, -- [4]
+						4952100, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						108366, -- [2]
+						197388, -- [3]
+						1505481805.671, -- [4]
+						4952100, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431816, -- [3]
+						1505481805.671, -- [4]
+						4952100, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						197388, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						77489, -- [2]
+						17836, -- [3]
+						1505481805.839, -- [4]
+						4952100, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						4, -- [1]
+						230201, -- [2]
+						1, -- [3]
+						1505481806.487, -- [4]
+						4735508, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						1, -- [2]
+						4649425, -- [3]
+						1505481807.187, -- [4]
+						4735508, -- [5]
+						"主母萨丝琳", -- [6]
+						389736, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						108366, -- [2]
+						389736, -- [3]
+						1505481807.187, -- [4]
+						4735508, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1505481807.187, -- [4]
+						4735508, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						108366, -- [2]
+						26570, -- [3]
+						1505481807.491, -- [4]
+						4735508, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1505481807.491, -- [4]
+						4735508, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						230201, -- [2]
+						1067677, -- [3]
+						1505481807.491, -- [4]
+						4735508, -- [5]
+						"主母萨丝琳", -- [6]
+						26570, -- [7]
+						32, -- [8]
+						false, -- [9]
+						565288, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Nesevil", -- [6]
+					}, -- [46]
+				},
+				["class"] = "WARLOCK",
+				["timestring"] = "2m 22s",
+				["time"] = 1505481807.624,
+			}, -- [9]
+			{
+				["maxhealth"] = 4921740,
+				["timeofdeath"] = 142.927999999956,
+				["name"] = "只是没智商",
+				["events"] = {
+					{
+						false, -- [1]
+						48707, -- [2]
+						429200, -- [3]
+						1505481797.704, -- [4]
+						1814588, -- [5]
+						"只是没智商", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						234621, -- [2]
+						429200, -- [3]
+						1505481797.704, -- [4]
+						1814588, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48707, -- [2]
+						228946, -- [3]
+						1505481797.885, -- [4]
+						1814588, -- [5]
+						"只是没智商", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						230959, -- [2]
+						228946, -- [3]
+						1505481797.885, -- [4]
+						1814588, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						230143, -- [2]
+						544440, -- [3]
+						1505481797.923, -- [4]
+						1814588, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						143924, -- [2]
+						19792, -- [3]
+						1505481798.358, -- [4]
+						1270148, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						230920, -- [2]
+						461331, -- [3]
+						1505481799.294, -- [4]
+						1289940, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						11843, -- [3]
+						1505481799.532, -- [4]
+						828609, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						157982, -- [2]
+						364017, -- [3]
+						1505481799.565, -- [4]
+						828609, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48707, -- [2]
+						429200, -- [3]
+						1505481799.703, -- [4]
+						1204469, -- [5]
+						"只是没智商", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						234621, -- [2]
+						429200, -- [3]
+						1505481799.703, -- [4]
+						1204469, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						139, -- [2]
+						64568, -- [3]
+						1505481799.772, -- [4]
+						1204469, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						139, -- [2]
+						13802, -- [3]
+						1505481800.26, -- [4]
+						1269037, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						45470, -- [2]
+						531637, -- [3]
+						1505481800.397, -- [4]
+						1282839, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						53365, -- [2]
+						479448, -- [3]
+						1505481800.665, -- [4]
+						1282839, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						143924, -- [2]
+						10506, -- [3]
+						1505481800.7, -- [4]
+						2293924, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178440, -- [3]
+						1505481801.015, -- [4]
+						2293924, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						230920, -- [2]
+						461331, -- [3]
+						1505481801.282, -- [4]
+						2482870, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						48707, -- [2]
+						0, -- [3]
+						1505481801.418, -- [4]
+						2021539, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						234621, -- [2]
+						429199, -- [3]
+						1505481801.713, -- [4]
+						2021539, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						143924, -- [2]
+						44412, -- [3]
+						1505481801.993, -- [4]
+						1592340, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481802.772, -- [4]
+						1636752, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						143924, -- [2]
+						16404, -- [3]
+						1505481803.177, -- [4]
+						1636752, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						230920, -- [2]
+						461330, -- [3]
+						1505481803.281, -- [4]
+						1636752, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						234621, -- [2]
+						429199, -- [3]
+						1505481803.686, -- [4]
+						1191826, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						596, -- [2]
+						264560, -- [3]
+						1505481803.721, -- [4]
+						1191826, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						215257, -- [2]
+						72708, -- [3]
+						1505481804.011, -- [4]
+						1027187, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						143924, -- [2]
+						44973, -- [3]
+						1505481804.359, -- [4]
+						1099895, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481804.459, -- [4]
+						1099895, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7271, -- [3]
+						1505481804.56, -- [4]
+						1099895, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						230920, -- [2]
+						461330, -- [3]
+						1505481805.283, -- [4]
+						1152139, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						143924, -- [2]
+						31324, -- [3]
+						1505481805.671, -- [4]
+						690809, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						234621, -- [2]
+						429200, -- [3]
+						1505481805.671, -- [4]
+						690809, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						34861, -- [2]
+						649703, -- [3]
+						1505481805.981, -- [4]
+						292933, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						230959, -- [2]
+						228946, -- [3]
+						1505481806.454, -- [4]
+						942636, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						139, -- [2]
+						114109, -- [3]
+						1505481806.72, -- [4]
+						713690, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						143924, -- [2]
+						21238, -- [3]
+						1505481806.788, -- [4]
+						827799, -- [5]
+						"只是没智商", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						77489, -- [2]
+						37975, -- [3]
+						1505481806.788, -- [4]
+						827799, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						215257, -- [2]
+						79521, -- [3]
+						1505481806.897, -- [4]
+						887012, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						196781, -- [2]
+						230052, -- [3]
+						1505481806.997, -- [4]
+						887012, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						1, -- [2]
+						349335, -- [3]
+						1505481807.098, -- [4]
+						887012, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						33110, -- [2]
+						134199, -- [3]
+						1505481807.132, -- [4]
+						887012, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						230920, -- [2]
+						461331, -- [3]
+						1505481807.265, -- [4]
+						981449, -- [5]
+						"锋颚踏浪者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7952, -- [3]
+						1505481807.381, -- [4]
+						981449, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						230214, -- [2]
+						1917752, -- [3]
+						1505481807.583, -- [4]
+						981449, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						1389682, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						48707, -- [2]
+						1, -- [3]
+						1505481796.378, -- [4]
+						0, -- [5]
+						"只是没智商", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "2m 22s",
+				["time"] = 1505481807.624,
+			}, -- [10]
+			{
+				["maxhealth"] = 4395180,
+				["timeofdeath"] = 142.927999999956,
+				["name"] = "Mikamiko-白骨荒野",
+				["events"] = {
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505481797.804, -- [4]
+						3083893, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						232754, -- [2]
+						226308, -- [3]
+						1505481797.804, -- [4]
+						3083893, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						230143, -- [2]
+						700607, -- [3]
+						1505481797.923, -- [4]
+						2435820, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						230276, -- [2]
+						205669, -- [3]
+						1505481797.923, -- [4]
+						2435820, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						232754, -- [2]
+						226307, -- [3]
+						1505481798.825, -- [4]
+						1529544, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						230276, -- [2]
+						205668, -- [3]
+						1505481798.932, -- [4]
+						1303237, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						77489, -- [2]
+						80184, -- [3]
+						1505481799.364, -- [4]
+						1097569, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178440, -- [3]
+						1505481799.565, -- [4]
+						1177753, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						234621, -- [2]
+						421765, -- [3]
+						1505481799.703, -- [4]
+						1356193, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						139, -- [2]
+						69332, -- [3]
+						1505481799.772, -- [4]
+						1356193, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						232754, -- [2]
+						226307, -- [3]
+						1505481799.849, -- [4]
+						1356193, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						230276, -- [2]
+						205668, -- [3]
+						1505481799.924, -- [4]
+						777453, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						77489, -- [2]
+						33627, -- [3]
+						1505481799.99, -- [4]
+						777453, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						1, -- [1]
+						48792, -- [2]
+						1, -- [3]
+						1505481800.09, -- [4]
+						777453, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						53365, -- [2]
+						263711, -- [3]
+						1505481800.26, -- [4]
+						777453, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [15]
+					{
+						false, -- [1]
+						207203, -- [2]
+						34970, -- [3]
+						1505481800.8, -- [4]
+						869123, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [16]
+					{
+						true, -- [1]
+						232754, -- [2]
+						181046, -- [3]
+						1505481800.848, -- [4]
+						869123, -- [5]
+						"主母萨丝琳", -- [6]
+						34970, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						230276, -- [2]
+						164535, -- [3]
+						1505481800.982, -- [4]
+						869123, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178440, -- [3]
+						1505481801.015, -- [4]
+						869123, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						53365, -- [2]
+						263710, -- [3]
+						1505481801.282, -- [4]
+						736952, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						207203, -- [2]
+						38838, -- [3]
+						1505481801.665, -- [4]
+						1000662, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [21]
+					{
+						true, -- [1]
+						234621, -- [2]
+						337412, -- [3]
+						1505481801.665, -- [4]
+						1000662, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						38838, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						232754, -- [2]
+						181046, -- [3]
+						1505481801.859, -- [4]
+						702088, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						77489, -- [2]
+						80185, -- [3]
+						1505481802.335, -- [4]
+						521042, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						139, -- [2]
+						69333, -- [3]
+						1505481802.538, -- [4]
+						521042, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481802.638, -- [4]
+						521042, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						232754, -- [2]
+						181046, -- [3]
+						1505481802.805, -- [4]
+						670560, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						77489, -- [2]
+						33627, -- [3]
+						1505481803.008, -- [4]
+						670560, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						234621, -- [2]
+						337412, -- [3]
+						1505481803.686, -- [4]
+						523141, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						596, -- [2]
+						264560, -- [3]
+						1505481803.721, -- [4]
+						523141, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						207203, -- [2]
+						36958, -- [3]
+						1505481803.864, -- [4]
+						523141, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						true, -- [1]
+						232754, -- [2]
+						181046, -- [3]
+						1505481803.864, -- [4]
+						523141, -- [5]
+						"主母萨丝琳", -- [6]
+						36958, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						215257, -- [2]
+						72709, -- [3]
+						1505481804.048, -- [4]
+						306201, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7271, -- [3]
+						1505481804.526, -- [4]
+						378910, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481805.199, -- [4]
+						386181, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						139, -- [2]
+						60289, -- [3]
+						1505481805.283, -- [4]
+						386181, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						207203, -- [2]
+						19391, -- [3]
+						1505481805.671, -- [4]
+						446470, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [37]
+					{
+						true, -- [1]
+						234621, -- [2]
+						337412, -- [3]
+						1505481805.671, -- [4]
+						446470, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						19391, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						77489, -- [2]
+						33627, -- [3]
+						1505481805.981, -- [4]
+						128449, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						34861, -- [2]
+						649703, -- [3]
+						1505481805.981, -- [4]
+						128449, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						77489, -- [2]
+						39797, -- [3]
+						1505481806.788, -- [4]
+						811779, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						215257, -- [2]
+						159040, -- [3]
+						1505481806.788, -- [4]
+						851576, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						215257, -- [2]
+						15904, -- [3]
+						1505481807.381, -- [4]
+						1010616, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [43]
+					{
+						false, -- [1]
+						207203, -- [2]
+						76940, -- [3]
+						1505481807.549, -- [4]
+						1010616, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						230214, -- [2]
+						1974272, -- [3]
+						1505481807.549, -- [4]
+						1010616, -- [5]
+						"Nesevil", -- [6]
+						76940, -- [7]
+						32, -- [8]
+						true, -- [9]
+						870812, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						48792, -- [2]
+						1, -- [3]
+						1505481800.09, -- [4]
+						0, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "2m 22s",
+				["time"] = 1505481807.624,
+			}, -- [11]
+			{
+				["maxhealth"] = 4869780,
+				["timeofdeath"] = 142.927999999956,
+				["name"] = "Northwind",
+				["events"] = {
+					{
+						true, -- [1]
+						234621, -- [2]
+						431655, -- [3]
+						1505481789.713, -- [4]
+						3634740, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						139, -- [2]
+						60290, -- [3]
+						1505481790.706, -- [4]
+						3431881, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						596, -- [2]
+						301439, -- [3]
+						1505481790.777, -- [4]
+						3431881, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						243241, -- [2]
+						97238, -- [3]
+						1505481790.777, -- [4]
+						3431881, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431655, -- [3]
+						1505481791.698, -- [4]
+						3890848, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						596, -- [2]
+						301438, -- [3]
+						1505481792.341, -- [4]
+						3464590, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						242474, -- [2]
+						107285, -- [3]
+						1505481792.543, -- [4]
+						3766028, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						77489, -- [2]
+						250228, -- [3]
+						1505481792.543, -- [4]
+						3766028, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						139, -- [2]
+						120579, -- [3]
+						1505481793.467, -- [4]
+						4123541, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						242474, -- [2]
+						53431, -- [3]
+						1505481793.534, -- [4]
+						4123541, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431655, -- [3]
+						1505481793.676, -- [4]
+						4297551, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						215257, -- [2]
+						67149, -- [3]
+						1505481794.414, -- [4]
+						3871325, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						77489, -- [2]
+						190073, -- [3]
+						1505481795.535, -- [4]
+						3938474, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431655, -- [3]
+						1505481795.701, -- [4]
+						3938474, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						215257, -- [2]
+						134299, -- [3]
+						1505481796.24, -- [4]
+						3702345, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						139, -- [2]
+						138666, -- [3]
+						1505481796.278, -- [4]
+						3702345, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [16]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6715, -- [3]
+						1505481796.785, -- [4]
+						3975310, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431655, -- [3]
+						1505481797.671, -- [4]
+						3982025, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505481797.804, -- [4]
+						3982025, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231615, -- [3]
+						1505481797.804, -- [4]
+						3982025, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						230143, -- [2]
+						782221, -- [3]
+						1505481797.956, -- [4]
+						3318755, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481798.19, -- [4]
+						3318755, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						77489, -- [2]
+						190073, -- [3]
+						1505481798.558, -- [4]
+						2541961, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231614, -- [3]
+						1505481798.792, -- [4]
+						2732034, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						139, -- [2]
+						69333, -- [3]
+						1505481798.998, -- [4]
+						2500420, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [25]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178439, -- [3]
+						1505481799.565, -- [4]
+						2569753, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431655, -- [3]
+						1505481799.703, -- [4]
+						2748192, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231615, -- [3]
+						1505481799.81, -- [4]
+						2748192, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231615, -- [3]
+						1505481800.8, -- [4]
+						2090343, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178440, -- [3]
+						1505481801.015, -- [4]
+						2090343, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [30]
+					{
+						false, -- [1]
+						77489, -- [2]
+						190072, -- [3]
+						1505481801.523, -- [4]
+						2037168, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431655, -- [3]
+						1505481801.665, -- [4]
+						2037168, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						139, -- [2]
+						69333, -- [3]
+						1505481801.792, -- [4]
+						1795585, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231614, -- [3]
+						1505481801.826, -- [4]
+						1795585, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231615, -- [3]
+						1505481802.805, -- [4]
+						1638749, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						243241, -- [2]
+						114971, -- [3]
+						1505481803.248, -- [4]
+						1407134, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431655, -- [3]
+						1505481803.686, -- [4]
+						1522105, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						true, -- [1]
+						232754, -- [2]
+						231614, -- [3]
+						1505481803.822, -- [4]
+						1522105, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						252897, -- [2]
+						131424, -- [3]
+						1505481804.359, -- [4]
+						858836, -- [5]
+						"Northwind", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						109304, -- [2]
+						1460934, -- [3]
+						1505481804.526, -- [4]
+						995705, -- [5]
+						"Northwind", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						139, -- [2]
+						60290, -- [3]
+						1505481804.56, -- [4]
+						995705, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						234621, -- [2]
+						431655, -- [3]
+						1505481805.671, -- [4]
+						2516929, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						77489, -- [2]
+						18647, -- [3]
+						1505481806.272, -- [4]
+						2085274, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [43]
+					{
+						false, -- [1]
+						139, -- [2]
+						98378, -- [3]
+						1505481806.897, -- [4]
+						2109318, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						230214, -- [2]
+						2410903, -- [3]
+						1505481807.549, -- [4]
+						2207696, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						203207, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Northwind", -- [6]
+					}, -- [46]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "2m 22s",
+				["time"] = 1505481807.624,
+			}, -- [12]
+			{
+				["maxhealth"] = 4675380,
+				["timeofdeath"] = 145.501999999979,
+				["name"] = "挪威鸭嘎嘎-白骨荒野",
+				["events"] = {
+					{
+						true, -- [1]
+						232754, -- [2]
+						125324, -- [3]
+						1505481801.859, -- [4]
+						911428, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						215257, -- [2]
+						79520, -- [3]
+						1505481802.402, -- [4]
+						786104, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						4, -- [1]
+						230959, -- [2]
+						1, -- [3]
+						1505481802.605, -- [4]
+						786104, -- [5]
+						"深渊追猎者", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						143924, -- [2]
+						26071, -- [3]
+						1505481802.738, -- [4]
+						865624, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						232754, -- [2]
+						125324, -- [3]
+						1505481802.839, -- [4]
+						865624, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						234621, -- [2]
+						233563, -- [3]
+						1505481803.619, -- [4]
+						766371, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						596, -- [2]
+						529119, -- [3]
+						1505481803.721, -- [4]
+						532808, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						196810, -- [2]
+						104332, -- [3]
+						1505481803.721, -- [4]
+						532808, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						232754, -- [2]
+						125323, -- [3]
+						1505481803.864, -- [4]
+						532808, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						215257, -- [2]
+						72709, -- [3]
+						1505481804.011, -- [4]
+						1040936, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						143924, -- [2]
+						28203, -- [3]
+						1505481804.359, -- [4]
+						1113645, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						207694, -- [2]
+						58797, -- [3]
+						1505481804.526, -- [4]
+						1113645, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						207694, -- [2]
+						14915, -- [3]
+						1505481804.56, -- [4]
+						1113645, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7271, -- [3]
+						1505481804.56, -- [4]
+						1113645, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						207694, -- [2]
+						59192, -- [3]
+						1505481804.932, -- [4]
+						1222831, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						207694, -- [2]
+						31348, -- [3]
+						1505481804.932, -- [4]
+						1222831, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						207694, -- [2]
+						63976, -- [3]
+						1505481805.283, -- [4]
+						1313371, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						207694, -- [2]
+						30909, -- [3]
+						1505481805.283, -- [4]
+						1313371, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						143924, -- [2]
+						103442, -- [3]
+						1505481805.671, -- [4]
+						1408256, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						234621, -- [2]
+						233562, -- [3]
+						1505481805.671, -- [4]
+						1408256, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						207694, -- [2]
+						30822, -- [3]
+						1505481805.706, -- [4]
+						1408256, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						207694, -- [2]
+						29480, -- [3]
+						1505481805.706, -- [4]
+						1408256, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						34861, -- [2]
+						649704, -- [3]
+						1505481805.981, -- [4]
+						1338438, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [23]
+					{
+						false, -- [1]
+						196810, -- [2]
+						113350, -- [3]
+						1505481805.981, -- [4]
+						1338438, -- [5]
+						"图雷 <柚子吃了猫>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						162952, -- [3]
+						1505481806.788, -- [4]
+						2101492, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77489, -- [2]
+						79596, -- [3]
+						1505481806.788, -- [4]
+						2101492, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						215257, -- [2]
+						159041, -- [3]
+						1505481806.897, -- [4]
+						2344040, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7952, -- [3]
+						1505481807.381, -- [4]
+						2503081, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [28]
+					{
+						true, -- [1]
+						230214, -- [2]
+						1366624, -- [3]
+						1505481807.583, -- [4]
+						2503081, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						196813, -- [2]
+						104344, -- [3]
+						1505481807.87, -- [4]
+						1144409, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						143924, -- [2]
+						14213, -- [3]
+						1505481808.046, -- [4]
+						1248753, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						215257, -- [2]
+						62880, -- [3]
+						1505481808.956, -- [4]
+						1262966, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						77489, -- [2]
+						105374, -- [3]
+						1505481809.089, -- [4]
+						1262966, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						143924, -- [2]
+						217130, -- [3]
+						1505481809.256, -- [4]
+						1431220, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6288, -- [3]
+						1505481809.456, -- [4]
+						1431220, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						207694, -- [2]
+						32877, -- [3]
+						1505481809.523, -- [4]
+						1431220, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						207694, -- [2]
+						9362, -- [3]
+						1505481809.523, -- [4]
+						1431220, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						207694, -- [2]
+						386767, -- [3]
+						1505481809.664, -- [4]
+						1696877, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						207694, -- [2]
+						193384, -- [3]
+						1505481809.664, -- [4]
+						1696877, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						207694, -- [2]
+						33512, -- [3]
+						1505481809.697, -- [4]
+						1696877, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						207694, -- [2]
+						32694, -- [3]
+						1505481809.697, -- [4]
+						1696877, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						77489, -- [2]
+						79595, -- [3]
+						1505481809.797, -- [4]
+						1696877, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						207694, -- [2]
+						31023, -- [3]
+						1505481809.997, -- [4]
+						1696877, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						207694, -- [2]
+						34086, -- [3]
+						1505481809.997, -- [4]
+						1696877, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						1, -- [2]
+						4062729, -- [3]
+						1505481810.198, -- [4]
+						2487938, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						1574791, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"挪威鸭嘎嘎-白骨荒野", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "2m 25s",
+				["time"] = 1505481810.198,
+			}, -- [13]
+			{
+				["maxhealth"] = 4845840,
+				["timeofdeath"] = 150.275999999954,
+				["name"] = "李逍遥丶-白骨荒野",
+				["events"] = {
+					{
+						true, -- [1]
+						234621, -- [2]
+						416918, -- [3]
+						1505481797.704, -- [4]
+						3145286, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						4, -- [1]
+						232754, -- [2]
+						1, -- [3]
+						1505481797.804, -- [4]
+						3145286, -- [5]
+						"主母萨丝琳", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						232754, -- [2]
+						223708, -- [3]
+						1505481797.804, -- [4]
+						3145286, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						230143, -- [2]
+						716158, -- [3]
+						1505481797.956, -- [4]
+						2666314, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						129436, -- [3]
+						1505481798.392, -- [4]
+						1950156, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161654, -- [3]
+						1505481798.658, -- [4]
+						1950156, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						232754, -- [2]
+						223707, -- [3]
+						1505481798.792, -- [4]
+						2241246, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178439, -- [3]
+						1505481799.565, -- [4]
+						2017539, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161654, -- [3]
+						1505481799.669, -- [4]
+						2195978, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						234621, -- [2]
+						416919, -- [3]
+						1505481799.703, -- [4]
+						2195978, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						232754, -- [2]
+						223707, -- [3]
+						1505481799.81, -- [4]
+						2195978, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161654, -- [3]
+						1505481800.665, -- [4]
+						1717006, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						232754, -- [2]
+						223708, -- [3]
+						1505481800.8, -- [4]
+						1878660, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						157982, -- [2]
+						178440, -- [3]
+						1505481801.015, -- [4]
+						1878660, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161655, -- [3]
+						1505481801.665, -- [4]
+						1833392, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						234621, -- [2]
+						416918, -- [3]
+						1505481801.665, -- [4]
+						1833392, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						232754, -- [2]
+						223707, -- [3]
+						1505481801.792, -- [4]
+						1578129, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						232754, -- [2]
+						223707, -- [3]
+						1505481802.839, -- [4]
+						1354422, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						243241, -- [2]
+						114971, -- [3]
+						1505481803.248, -- [4]
+						1130715, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						234621, -- [2]
+						416918, -- [3]
+						1505481803.686, -- [4]
+						1245686, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						232754, -- [2]
+						223707, -- [3]
+						1505481803.822, -- [4]
+						1245686, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161654, -- [3]
+						1505481803.864, -- [4]
+						1245686, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161654, -- [3]
+						1505481804.899, -- [4]
+						766715, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						234621, -- [2]
+						416918, -- [3]
+						1505481805.671, -- [4]
+						928369, -- [5]
+						"[*] 吞噬巨口", -- [6]
+						nil, -- [7]
+						16, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161654, -- [3]
+						1505481805.878, -- [4]
+						928369, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77489, -- [2]
+						18647, -- [3]
+						1505481806.272, -- [4]
+						673105, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161654, -- [3]
+						1505481806.897, -- [4]
+						691752, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						87023, -- [2]
+						842638, -- [3]
+						1505481807.583, -- [4]
+						853406, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						86949, -- [2]
+						2207289, -- [3]
+						1505481807.583, -- [4]
+						853406, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						230214, -- [2]
+						2207289, -- [3]
+						1505481807.583, -- [4]
+						853406, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161654, -- [3]
+						1505481807.87, -- [4]
+						1696044, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						194316, -- [2]
+						161654, -- [3]
+						1505481808.889, -- [4]
+						1857698, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						87023, -- [2]
+						323770, -- [3]
+						1505481809.089, -- [4]
+						1857698, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						77489, -- [2]
+						18647, -- [3]
+						1505481809.256, -- [4]
+						1695582, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						215257, -- [2]
+						62879, -- [3]
+						1505481809.764, -- [4]
+						1714229, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						87023, -- [2]
+						323770, -- [3]
+						1505481810.572, -- [4]
+						1777108, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						243241, -- [2]
+						184041, -- [3]
+						1505481811.243, -- [4]
+						1453338, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						196809, -- [2]
+						188917, -- [3]
+						1505481811.584, -- [4]
+						1637379, -- [5]
+						"图雷 <柚子吃了猫>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						87023, -- [2]
+						323770, -- [3]
+						1505481812.098, -- [4]
+						1826296, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						596, -- [2]
+						279046, -- [3]
+						1505481813.2, -- [4]
+						1502526, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						596, -- [2]
+						230052, -- [3]
+						1505481813.435, -- [4]
+						1781572, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						87023, -- [2]
+						323770, -- [3]
+						1505481813.592, -- [4]
+						1781572, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						4, -- [1]
+						232913, -- [2]
+						1, -- [3]
+						1505481813.797, -- [4]
+						1687854, -- [5]
+						"[*] 污染墨汁", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						77489, -- [2]
+						41528, -- [3]
+						1505481814.344, -- [4]
+						1687854, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						1, -- [2]
+						4516596, -- [3]
+						1505481814.881, -- [4]
+						1729382, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						2787214, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"李逍遥丶-白骨荒野", -- [6]
+					}, -- [46]
+				},
+				["class"] = "MAGE",
+				["timestring"] = "2m 30s",
+				["time"] = 1505481814.972,
+			}, -- [14]
+			{
+				["maxhealth"] = 4913280,
+				["timeofdeath"] = 153.773999999976,
+				["name"] = "圣光之血",
+				["events"] = {
+					{
+						false, -- [1]
+						203539, -- [2]
+						10757, -- [3]
+						1505481806.93, -- [4]
+						4139342, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						215257, -- [2]
+						7952, -- [3]
+						1505481807.265, -- [4]
+						4229619, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						230214, -- [2]
+						1718486, -- [3]
+						1505481807.583, -- [4]
+						4229619, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						1, -- [2]
+						278124, -- [3]
+						1505481808.348, -- [4]
+						2519085, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						1, -- [2]
+						265882, -- [3]
+						1505481808.689, -- [4]
+						2240961, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						196813, -- [2]
+						104344, -- [3]
+						1505481808.689, -- [4]
+						2240961, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						1, -- [2]
+						2486746, -- [3]
+						1505481808.689, -- [4]
+						2240961, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						407323, -- [10]
+					}, -- [7]
+					{
+						1, -- [1]
+						642, -- [2]
+						1, -- [3]
+						1505481808.689, -- [4]
+						2240961, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						213313, -- [2]
+						2486746, -- [3]
+						1505481808.689, -- [4]
+						2240961, -- [5]
+						"圣光之血", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						203539, -- [2]
+						10757, -- [3]
+						1505481808.956, -- [4]
+						2079423, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						215257, -- [2]
+						62880, -- [3]
+						1505481809.022, -- [4]
+						2079423, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [11]
+					{
+						false, -- [1]
+						77489, -- [2]
+						210748, -- [3]
+						1505481809.089, -- [4]
+						2079423, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6288, -- [3]
+						1505481809.456, -- [4]
+						2363808, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [13]
+					{
+						false, -- [1]
+						77489, -- [2]
+						39798, -- [3]
+						1505481809.797, -- [4]
+						2370096, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						596, -- [2]
+						301438, -- [3]
+						1505481810.536, -- [4]
+						2409894, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						203539, -- [2]
+						10757, -- [3]
+						1505481810.943, -- [4]
+						2711332, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						596, -- [2]
+						230052, -- [3]
+						1505481811.243, -- [4]
+						2711332, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						196810, -- [2]
+						104332, -- [3]
+						1505481811.243, -- [4]
+						2711332, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						242474, -- [2]
+						54051, -- [3]
+						1505481811.384, -- [4]
+						3056473, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						242474, -- [2]
+						53854, -- [3]
+						1505481811.584, -- [4]
+						3056473, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						215257, -- [2]
+						134298, -- [3]
+						1505481811.584, -- [4]
+						3056473, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						242474, -- [2]
+						101099, -- [3]
+						1505481811.824, -- [4]
+						3298676, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						77489, -- [2]
+						210747, -- [3]
+						1505481812.024, -- [4]
+						3298676, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						596, -- [2]
+						243095, -- [3]
+						1505481812.098, -- [4]
+						3610522, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						215257, -- [2]
+						13430, -- [3]
+						1505481812.335, -- [4]
+						3610522, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						215257, -- [2]
+						62880, -- [3]
+						1505481812.796, -- [4]
+						3867047, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						203539, -- [2]
+						10757, -- [3]
+						1505481812.996, -- [4]
+						3929927, -- [5]
+						"圣光之血", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						242474, -- [2]
+						51091, -- [3]
+						1505481813.063, -- [4]
+						3929927, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [28]
+					{
+						false, -- [1]
+						596, -- [2]
+						279045, -- [3]
+						1505481813.2, -- [4]
+						3929927, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						196810, -- [2]
+						105576, -- [3]
+						1505481813.2, -- [4]
+						3929927, -- [5]
+						"图雷 <柚子吃了猫>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						215257, -- [2]
+						6288, -- [3]
+						1505481813.297, -- [4]
+						4376396, -- [5]
+						"不是三般的毒-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						242474, -- [2]
+						52840, -- [3]
+						1505481813.297, -- [4]
+						4376396, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						596, -- [2]
+						460104, -- [3]
+						1505481813.48, -- [4]
+						4376396, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						242474, -- [2]
+						50638, -- [3]
+						1505481813.564, -- [4]
+						4376396, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						77489, -- [2]
+						124065, -- [3]
+						1505481813.564, -- [4]
+						4376396, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						77489, -- [2]
+						69214, -- [3]
+						1505481814.344, -- [4]
+						4985100, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						77489, -- [2]
+						45257, -- [3]
+						1505481816.215, -- [4]
+						4985100, -- [5]
+						"柚子吃了猫", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						77489, -- [2]
+						90036, -- [3]
+						1505481816.656, -- [4]
+						4985100, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						1, -- [2]
+						2481167, -- [3]
+						1505481817.048, -- [4]
+						4985100, -- [5]
+						"主母萨丝琳", -- [6]
+						112020, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						203538, -- [2]
+						112020, -- [3]
+						1505481817.048, -- [4]
+						4985100, -- [5]
+						"圣光之血", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						77489, -- [2]
+						69213, -- [3]
+						1505481817.255, -- [4]
+						2615953, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						1, -- [2]
+						537338, -- [3]
+						1505481817.92, -- [4]
+						2685166, -- [5]
+						"深渊追猎者", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						596, -- [2]
+						243096, -- [3]
+						1505481818.196, -- [4]
+						2147828, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						243241, -- [2]
+						97238, -- [3]
+						1505481818.196, -- [4]
+						2147828, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						1, -- [2]
+						2539567, -- [3]
+						1505481818.47, -- [4]
+						2147828, -- [5]
+						"主母萨丝琳", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						51405, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						642, -- [2]
+						1, -- [3]
+						1505481808.689, -- [4]
+						0, -- [5]
+						"圣光之血", -- [6]
+					}, -- [46]
+				},
+				["class"] = "PALADIN",
+				["timestring"] = "2m 33s",
+				["time"] = 1505481818.47,
+			}, -- [15]
+		},
+		["bossname"] = "主母萨丝琳",
+		["bossicon"] = {
+			0, -- [1]
+			0.25, -- [2]
+			0.25, -- [3]
+			0.5, -- [4]
+			"Interface\\AddOns\\Details_RaidInfo-TombOfSargeras\\boss_faces", -- [5]
+		},
+		["date"] = 648127.666,
+		["timeelapsed"] = 173.39599999995,
+	}, -- [4]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 4609080,
+				["timeofdeath"] = 60.0429999999469,
+				["name"] = "Jibayang",
+				["events"] = {
+					{
+						false, -- [1]
+						145110, -- [2]
+						142823, -- [3]
+						1505480077.128, -- [4]
+						4212742, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [1]
+					{
+						false, -- [1]
+						235967, -- [2]
+						50767, -- [3]
+						1505480077.245, -- [4]
+						4355565, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						false, -- [1]
+						207472, -- [2]
+						346661, -- [3]
+						1505480077.558, -- [4]
+						4406332, -- [5]
+						"Jibayang", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [3]
+					{
+						true, -- [1]
+						235236, -- [2]
+						346661, -- [3]
+						1505480077.558, -- [4]
+						4406332, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						189800, -- [2]
+						164844, -- [3]
+						1505480078.578, -- [4]
+						4406332, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						39586, -- [3]
+						1505480078.861, -- [4]
+						4571176, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [6]
+					{
+						false, -- [1]
+						48438, -- [2]
+						38934, -- [3]
+						1505480079.139, -- [4]
+						4609080, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						38095, -- [3]
+						1505480079.498, -- [4]
+						4609080, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [8]
+					{
+						false, -- [1]
+						207472, -- [2]
+						346661, -- [3]
+						1505480079.531, -- [4]
+						4609080, -- [5]
+						"Jibayang", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [9]
+					{
+						true, -- [1]
+						235236, -- [2]
+						346661, -- [3]
+						1505480079.531, -- [4]
+						4609080, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						37241, -- [3]
+						1505480079.9, -- [4]
+						4609080, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						36393, -- [3]
+						1505480080.227, -- [4]
+						4609080, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						35571, -- [3]
+						1505480080.608, -- [4]
+						4609080, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						70844, -- [3]
+						1505480080.95, -- [4]
+						4609080, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [14]
+					{
+						false, -- [1]
+						48438, -- [2]
+						29476, -- [3]
+						1505480081.328, -- [4]
+						4609080, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [15]
+					{
+						false, -- [1]
+						207472, -- [2]
+						197676, -- [3]
+						1505480081.53, -- [4]
+						4609080, -- [5]
+						"Jibayang", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [16]
+					{
+						true, -- [1]
+						235236, -- [2]
+						346661, -- [3]
+						1505480081.53, -- [4]
+						4609080, -- [5]
+						"贝拉克", -- [6]
+						197676, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						48438, -- [2]
+						58694, -- [3]
+						1505480081.71, -- [4]
+						4460095, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						false, -- [1]
+						48438, -- [2]
+						28048, -- [3]
+						1505480082.04, -- [4]
+						4518789, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [19]
+					{
+						false, -- [1]
+						48438, -- [2]
+						27318, -- [3]
+						1505480082.408, -- [4]
+						4546837, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [20]
+					{
+						false, -- [1]
+						48438, -- [2]
+						54259, -- [3]
+						1505480082.775, -- [4]
+						4574155, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [21]
+					{
+						false, -- [1]
+						48438, -- [2]
+						25156, -- [3]
+						1505480083.504, -- [4]
+						4609080, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						true, -- [1]
+						235236, -- [2]
+						346661, -- [3]
+						1505480083.538, -- [4]
+						4609080, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						48438, -- [2]
+						48371, -- [3]
+						1505480084.201, -- [4]
+						4262419, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						22276, -- [3]
+						1505480084.94, -- [4]
+						4310790, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [25]
+					{
+						true, -- [1]
+						235236, -- [2]
+						346661, -- [3]
+						1505480085.516, -- [4]
+						4333066, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						48438, -- [2]
+						38004, -- [3]
+						1505480085.616, -- [4]
+						4333066, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [27]
+					{
+						false, -- [1]
+						243241, -- [2]
+						94969, -- [3]
+						1505480085.682, -- [4]
+						4333066, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [28]
+					{
+						true, -- [1]
+						235236, -- [2]
+						346661, -- [3]
+						1505480087.509, -- [4]
+						4119378, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						77489, -- [2]
+						20612, -- [3]
+						1505480088.738, -- [4]
+						3772717, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [30]
+					{
+						false, -- [1]
+						774, -- [2]
+						115922, -- [3]
+						1505480089.456, -- [4]
+						3793329, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						true, -- [1]
+						235236, -- [2]
+						346661, -- [3]
+						1505480089.523, -- [4]
+						3793329, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						4, -- [1]
+						233901, -- [2]
+						1, -- [3]
+						1505480090.669, -- [4]
+						3562590, -- [5]
+						"[*] 窒息之暗", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						774, -- [2]
+						56824, -- [3]
+						1505480091.664, -- [4]
+						3562590, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [34]
+					{
+						true, -- [1]
+						233901, -- [2]
+						337032, -- [3]
+						1505480091.702, -- [4]
+						3562590, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						77489, -- [2]
+						20611, -- [3]
+						1505480091.746, -- [4]
+						3282382, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [36]
+					{
+						true, -- [1]
+						233901, -- [2]
+						337032, -- [3]
+						1505480092.713, -- [4]
+						3302993, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						true, -- [1]
+						233901, -- [2]
+						337032, -- [3]
+						1505480093.701, -- [4]
+						2965961, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						234015, -- [2]
+						691028, -- [3]
+						1505480093.808, -- [4]
+						2965961, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						774, -- [2]
+						56824, -- [3]
+						1505480094.027, -- [4]
+						1937901, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [40]
+					{
+						false, -- [1]
+						214121, -- [2]
+						48910, -- [3]
+						1505480094.336, -- [4]
+						1994725, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						139, -- [2]
+						121300, -- [3]
+						1505480094.606, -- [4]
+						1994725, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [42]
+					{
+						false, -- [1]
+						214121, -- [2]
+						48910, -- [3]
+						1505480095.332, -- [4]
+						2164935, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [43]
+					{
+						false, -- [1]
+						214121, -- [2]
+						48910, -- [3]
+						1505480096.39, -- [4]
+						4609080, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						false, -- [1]
+						774, -- [2]
+						56824, -- [3]
+						1505480096.457, -- [4]
+						4609080, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Jibayang", -- [6]
+					}, -- [46]
+				},
+				["class"] = "PRIEST",
+				["timestring"] = "1m 0s",
+				["time"] = 1505480097.027,
+			}, -- [1]
+			{
+				["maxhealth"] = 4866000,
+				["timeofdeath"] = 65.1180000000168,
+				["name"] = "荒梦与鹿",
+				["events"] = {
+					{
+						false, -- [1]
+						77489, -- [2]
+						20612, -- [3]
+						1505480091.702, -- [4]
+						3845608, -- [5]
+						"荒梦与鹿", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [1]
+					{
+						false, -- [1]
+						774, -- [2]
+						180572, -- [3]
+						1505480092.503, -- [4]
+						3541092, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						true, -- [1]
+						233901, -- [2]
+						325128, -- [3]
+						1505480092.713, -- [4]
+						3721664, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						155777, -- [2]
+						180577, -- [3]
+						1505480093.194, -- [4]
+						3396536, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						20600, -- [3]
+						1505480093.701, -- [4]
+						3577113, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						true, -- [1]
+						233901, -- [2]
+						325128, -- [3]
+						1505480093.701, -- [4]
+						3577113, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						234015, -- [2]
+						650447, -- [3]
+						1505480093.808, -- [4]
+						3577113, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						233901, -- [2]
+						325128, -- [3]
+						1505480094.68, -- [4]
+						2622138, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						774, -- [2]
+						180572, -- [3]
+						1505480094.88, -- [4]
+						2622138, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						155777, -- [2]
+						88518, -- [3]
+						1505480095.617, -- [4]
+						2477582, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						233901, -- [2]
+						325128, -- [3]
+						1505480095.719, -- [4]
+						2477582, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						77489, -- [2]
+						20601, -- [3]
+						1505480096.624, -- [4]
+						3989143, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						true, -- [1]
+						233901, -- [2]
+						650256, -- [3]
+						1505480096.694, -- [4]
+						3989143, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						2050, -- [2]
+						5295314, -- [3]
+						1505480097.066, -- [4]
+						3989143, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						774, -- [2]
+						88516, -- [3]
+						1505480097.3, -- [4]
+						3989143, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						233901, -- [2]
+						650256, -- [3]
+						1505480097.717, -- [4]
+						3989143, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						155777, -- [2]
+						88518, -- [3]
+						1505480098.021, -- [4]
+						3989143, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [17]
+					{
+						false, -- [1]
+						189800, -- [2]
+						251634, -- [3]
+						1505480098.154, -- [4]
+						3989143, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						true, -- [1]
+						233901, -- [2]
+						650256, -- [3]
+						1505480098.745, -- [4]
+						3989143, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						48438, -- [2]
+						83503, -- [3]
+						1505480098.947, -- [4]
+						3989143, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [20]
+					{
+						true, -- [1]
+						233444, -- [2]
+						638433, -- [3]
+						1505480099.131, -- [4]
+						3989143, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						69627, -- [3]
+						1505480099.7, -- [4]
+						3350710, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						true, -- [1]
+						233901, -- [2]
+						650256, -- [3]
+						1505480099.7, -- [4]
+						3350710, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						48438, -- [2]
+						38955, -- [3]
+						1505480099.769, -- [4]
+						3350710, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [24]
+					{
+						false, -- [1]
+						77489, -- [2]
+						796572, -- [3]
+						1505480100.119, -- [4]
+						2809036, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [25]
+					{
+						false, -- [1]
+						155777, -- [2]
+						69629, -- [3]
+						1505480100.38, -- [4]
+						3605608, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						48438, -- [2]
+						75513, -- [3]
+						1505480100.549, -- [4]
+						3605608, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						774, -- [2]
+						142039, -- [3]
+						1505480100.591, -- [4]
+						3750750, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [28]
+					{
+						true, -- [1]
+						233901, -- [2]
+						650256, -- [3]
+						1505480100.725, -- [4]
+						3750750, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						233444, -- [2]
+						638433, -- [3]
+						1505480101.097, -- [4]
+						3242533, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						233983, -- [2]
+						1, -- [3]
+						1505480101.097, -- [4]
+						3242533, -- [5]
+						"贝拉克", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						48438, -- [2]
+						71523, -- [3]
+						1505480101.365, -- [4]
+						2604100, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [32]
+					{
+						true, -- [1]
+						233901, -- [2]
+						650255, -- [3]
+						1505480101.718, -- [4]
+						2675623, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						774, -- [2]
+						69627, -- [3]
+						1505480102.095, -- [4]
+						2025368, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [34]
+					{
+						true, -- [1]
+						233983, -- [2]
+						466326, -- [3]
+						1505480102.135, -- [4]
+						2094995, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						48438, -- [2]
+						33099, -- [3]
+						1505480102.169, -- [4]
+						2094995, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [36]
+					{
+						true, -- [1]
+						233901, -- [2]
+						650256, -- [3]
+						1505480102.739, -- [4]
+						1661768, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						155777, -- [2]
+						142043, -- [3]
+						1505480102.784, -- [4]
+						1011512, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [38]
+					{
+						false, -- [1]
+						48438, -- [2]
+						41166, -- [3]
+						1505480102.951, -- [4]
+						1153555, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [39]
+					{
+						false, -- [1]
+						774, -- [2]
+						69627, -- [3]
+						1505480103.017, -- [4]
+						1153555, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						233444, -- [2]
+						638433, -- [3]
+						1505480103.117, -- [4]
+						1153555, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						77489, -- [2]
+						796572, -- [3]
+						1505480103.117, -- [4]
+						1153555, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [42]
+					{
+						true, -- [1]
+						233983, -- [2]
+						466326, -- [3]
+						1505480103.117, -- [4]
+						1153555, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						233901, -- [2]
+						650256, -- [3]
+						1505480103.75, -- [4]
+						956161, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						false, -- [1]
+						48438, -- [2]
+						80479, -- [3]
+						1505480103.75, -- [4]
+						956161, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						47788, -- [2]
+						1, -- [3]
+						1505480088.328, -- [4]
+						0, -- [5]
+						"荒梦与鹿", -- [6]
+					}, -- [46]
+				},
+				["class"] = "PRIEST",
+				["timestring"] = "1m 5s",
+				["time"] = 1505480104.13,
+			}, -- [2]
+			{
+				["maxhealth"] = 4402800,
+				["timeofdeath"] = 126.177000000025,
+				["name"] = "Willam",
+				["events"] = {
+					{
+						false, -- [1]
+						48438, -- [2]
+						39451, -- [3]
+						1505480153.684, -- [4]
+						2343536, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						48438, -- [2]
+						37726, -- [3]
+						1505480154.487, -- [4]
+						2382987, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						774, -- [2]
+						69627, -- [3]
+						1505480154.913, -- [4]
+						2425631, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						73471, -- [3]
+						1505480155.247, -- [4]
+						2495258, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						774, -- [2]
+						69627, -- [3]
+						1505480155.286, -- [4]
+						2495258, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						false, -- [1]
+						155777, -- [2]
+						69629, -- [3]
+						1505480155.649, -- [4]
+						2638356, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						234015, -- [2]
+						1401002, -- [3]
+						1505480155.849, -- [4]
+						2638356, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						34310, -- [3]
+						1505480156.026, -- [4]
+						1306983, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [8]
+					{
+						false, -- [1]
+						2050, -- [2]
+						1575986, -- [3]
+						1505480156.688, -- [4]
+						1346197, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						243241, -- [2]
+						81516, -- [3]
+						1505480156.731, -- [4]
+						1346197, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						41228, -- [3]
+						1505480156.805, -- [4]
+						1346197, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [11]
+					{
+						false, -- [1]
+						5185, -- [2]
+						1033226, -- [3]
+						1505480157.125, -- [4]
+						3044927, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						4, -- [1]
+						233901, -- [2]
+						1, -- [3]
+						1505480157.167, -- [4]
+						3044927, -- [5]
+						"[*] 窒息之暗", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						774, -- [2]
+						142039, -- [3]
+						1505480157.269, -- [4]
+						3044927, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						48438, -- [2]
+						39683, -- [3]
+						1505480157.518, -- [4]
+						4220192, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						155777, -- [2]
+						69629, -- [3]
+						1505480158.023, -- [4]
+						4259875, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [16]
+					{
+						true, -- [1]
+						233901, -- [2]
+						671632, -- [3]
+						1505480158.199, -- [4]
+						4259875, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						33110, -- [2]
+						136712, -- [3]
+						1505480158.199, -- [4]
+						4259875, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						false, -- [1]
+						48438, -- [2]
+						38136, -- [3]
+						1505480158.266, -- [4]
+						4259875, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [19]
+					{
+						false, -- [1]
+						48438, -- [2]
+						36587, -- [3]
+						1505480159.057, -- [4]
+						3837614, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						233901, -- [2]
+						671631, -- [3]
+						1505480159.132, -- [4]
+						3874201, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						69627, -- [3]
+						1505480159.465, -- [4]
+						3202570, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						48438, -- [2]
+						71451, -- [3]
+						1505480159.734, -- [4]
+						3272197, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						77489, -- [2]
+						179935, -- [3]
+						1505480159.734, -- [4]
+						3272197, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [24]
+					{
+						true, -- [1]
+						233901, -- [2]
+						671632, -- [3]
+						1505480160.168, -- [4]
+						3523583, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						33110, -- [2]
+						273423, -- [3]
+						1505480160.168, -- [4]
+						3523583, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						155777, -- [2]
+						69629, -- [3]
+						1505480160.234, -- [4]
+						3523583, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						48438, -- [2]
+						33476, -- [3]
+						1505480160.473, -- [4]
+						3195003, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						233901, -- [2]
+						671632, -- [3]
+						1505480161.161, -- [4]
+						3233370, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						31931, -- [3]
+						1505480161.228, -- [4]
+						3233370, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [30]
+					{
+						false, -- [1]
+						774, -- [2]
+						69627, -- [3]
+						1505480161.677, -- [4]
+						2593669, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						48438, -- [2]
+						30399, -- [3]
+						1505480161.948, -- [4]
+						2663296, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [32]
+					{
+						false, -- [1]
+						145110, -- [2]
+						142823, -- [3]
+						1505480162.17, -- [4]
+						2693695, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						233901, -- [2]
+						671632, -- [3]
+						1505480162.17, -- [4]
+						2693695, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						155777, -- [2]
+						69629, -- [3]
+						1505480162.438, -- [4]
+						2164886, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [35]
+					{
+						false, -- [1]
+						48438, -- [2]
+						28890, -- [3]
+						1505480162.662, -- [4]
+						2234515, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						77489, -- [2]
+						147377, -- [3]
+						1505480162.765, -- [4]
+						2234515, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [37]
+					{
+						true, -- [1]
+						233901, -- [2]
+						671631, -- [3]
+						1505480163.172, -- [4]
+						2415700, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						48438, -- [2]
+						27362, -- [3]
+						1505480163.385, -- [4]
+						1744069, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						48438, -- [2]
+						76, -- [3]
+						1505480163.385, -- [4]
+						1744069, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						233444, -- [2]
+						690821, -- [3]
+						1505480163.595, -- [4]
+						1771507, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						774, -- [2]
+						69627, -- [3]
+						1505480163.852, -- [4]
+						1080686, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						233901, -- [2]
+						671631, -- [3]
+						1505480164.162, -- [4]
+						1150313, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						155777, -- [2]
+						72711, -- [3]
+						1505480164.637, -- [4]
+						478682, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						233901, -- [2]
+						671632, -- [3]
+						1505480165.189, -- [4]
+						556294, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						115338, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Willam", -- [6]
+					}, -- [46]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "2m 6s",
+				["time"] = 1505480165.189,
+			}, -- [3]
+			{
+				["maxhealth"] = 4631160,
+				["timeofdeath"] = 132.579999999958,
+				["name"] = "Cleversomuch",
+				["events"] = {
+					{
+						false, -- [1]
+						33110, -- [2]
+						118880, -- [3]
+						1505480155.849, -- [4]
+						2965306, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [1]
+					{
+						false, -- [1]
+						139, -- [2]
+						116247, -- [3]
+						1505480158.414, -- [4]
+						2006573, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						77489, -- [2]
+						22060, -- [3]
+						1505480158.89, -- [4]
+						2122820, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [3]
+					{
+						false, -- [1]
+						196813, -- [2]
+						92434, -- [3]
+						1505480160.781, -- [4]
+						2144880, -- [5]
+						"图雷 <Jibayang>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						false, -- [1]
+						139, -- [2]
+						58123, -- [3]
+						1505480160.981, -- [4]
+						2237314, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						false, -- [1]
+						77489, -- [2]
+						22059, -- [3]
+						1505480161.915, -- [4]
+						2295437, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						139, -- [2]
+						50542, -- [3]
+						1505480163.551, -- [4]
+						2317496, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [7]
+					{
+						true, -- [1]
+						233444, -- [2]
+						710784, -- [3]
+						1505480163.595, -- [4]
+						2368038, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77489, -- [2]
+						22059, -- [3]
+						1505480164.94, -- [4]
+						1657254, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						233444, -- [2]
+						710784, -- [3]
+						1505480165.568, -- [4]
+						1679313, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						4, -- [1]
+						233983, -- [2]
+						1, -- [3]
+						1505480165.602, -- [4]
+						1679313, -- [5]
+						"贝拉克", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						139, -- [2]
+						58123, -- [3]
+						1505480166.081, -- [4]
+						968529, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						189800, -- [2]
+						80806, -- [3]
+						1505480166.317, -- [4]
+						968529, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						235450, -- [2]
+						421238, -- [3]
+						1505480166.593, -- [4]
+						1107458, -- [5]
+						"Cleversomuch", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						233983, -- [2]
+						421238, -- [3]
+						1505480166.593, -- [4]
+						1107458, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						48438, -- [2]
+						44025, -- [3]
+						1505480166.693, -- [4]
+						1107458, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [16]
+					{
+						false, -- [1]
+						48438, -- [2]
+						89905, -- [3]
+						1505480167.06, -- [4]
+						1151483, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						48438, -- [2]
+						44087, -- [3]
+						1505480167.404, -- [4]
+						1241388, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						235450, -- [2]
+						299259, -- [3]
+						1505480167.578, -- [4]
+						1285475, -- [5]
+						"Cleversomuch", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						233444, -- [2]
+						710784, -- [3]
+						1505480167.578, -- [4]
+						1285475, -- [5]
+						"阿提甘", -- [6]
+						299259, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						233983, -- [2]
+						495575, -- [3]
+						1505480167.578, -- [4]
+						1285475, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						48438, -- [2]
+						44057, -- [3]
+						1505480167.818, -- [4]
+						378375, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						false, -- [1]
+						77489, -- [2]
+						22059, -- [3]
+						1505480167.951, -- [4]
+						378375, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [23]
+					{
+						false, -- [1]
+						48438, -- [2]
+						44037, -- [3]
+						1505480168.188, -- [4]
+						444491, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						44058, -- [3]
+						1505480168.562, -- [4]
+						488528, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						207283, -- [2]
+						495574, -- [3]
+						1505480168.596, -- [4]
+						488528, -- [5]
+						"Cleversomuch", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [26]
+					{
+						true, -- [1]
+						233983, -- [2]
+						495574, -- [3]
+						1505480168.596, -- [4]
+						488528, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						139, -- [2]
+						131226, -- [3]
+						1505480168.596, -- [4]
+						488528, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [28]
+					{
+						false, -- [1]
+						774, -- [2]
+						165722, -- [3]
+						1505480168.829, -- [4]
+						488528, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						49035, -- [3]
+						1505480168.896, -- [4]
+						829534, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [30]
+					{
+						false, -- [1]
+						48438, -- [2]
+						100049, -- [3]
+						1505480169.262, -- [4]
+						878569, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						207283, -- [2]
+						454369, -- [3]
+						1505480169.606, -- [4]
+						878569, -- [5]
+						"Cleversomuch", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						233444, -- [2]
+						710784, -- [3]
+						1505480169.606, -- [4]
+						878569, -- [5]
+						"阿提甘", -- [6]
+						454369, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						233983, -- [2]
+						495574, -- [3]
+						1505480169.606, -- [4]
+						878569, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						48438, -- [2]
+						48094, -- [3]
+						1505480169.606, -- [4]
+						878569, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [35]
+					{
+						false, -- [1]
+						774, -- [2]
+						165722, -- [3]
+						1505480169.873, -- [4]
+						274723, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						48438, -- [2]
+						49086, -- [3]
+						1505480169.973, -- [4]
+						274723, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						48438, -- [2]
+						48130, -- [3]
+						1505480170.384, -- [4]
+						489531, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [38]
+					{
+						true, -- [1]
+						233983, -- [2]
+						495574, -- [3]
+						1505480170.618, -- [4]
+						537661, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						48438, -- [2]
+						49078, -- [3]
+						1505480170.751, -- [4]
+						537661, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [40]
+					{
+						false, -- [1]
+						139, -- [2]
+						118795, -- [3]
+						1505480170.859, -- [4]
+						91165, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						774, -- [2]
+						81236, -- [3]
+						1505480170.926, -- [4]
+						91165, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						48438, -- [2]
+						48128, -- [3]
+						1505480171.092, -- [4]
+						91165, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [43]
+					{
+						false, -- [1]
+						48438, -- [2]
+						100135, -- [3]
+						1505480171.426, -- [4]
+						339324, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						233444, -- [2]
+						710784, -- [3]
+						1505480171.592, -- [4]
+						439459, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						271325, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Cleversomuch", -- [6]
+					}, -- [46]
+				},
+				["class"] = "MAGE",
+				["timestring"] = "2m 12s",
+				["time"] = 1505480171.592,
+			}, -- [4]
+			{
+				["maxhealth"] = 4760760,
+				["timeofdeath"] = 153.204000000027,
+				["name"] = "丑德豪无人性-白骨荒野",
+				["events"] = {
+					{
+						2, -- [1]
+						61999, -- [2]
+						1, -- [3]
+						1505480208.54, -- [4]
+						0, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+					}, -- [1]
+					{
+						true, -- [1]
+						233444, -- [2]
+						340935, -- [3]
+						1505480175.556, -- [4]
+						3043683, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						774, -- [2]
+						63488, -- [3]
+						1505480175.722, -- [4]
+						3043683, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						139, -- [2]
+						114109, -- [3]
+						1505480175.823, -- [4]
+						2766236, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						12365, -- [3]
+						1505480176.156, -- [4]
+						2880345, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						false, -- [1]
+						77489, -- [2]
+						8583, -- [3]
+						1505480176.39, -- [4]
+						2892710, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						145109, -- [2]
+						142823, -- [3]
+						1505480177.107, -- [4]
+						2901293, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						233444, -- [2]
+						340935, -- [3]
+						1505480177.564, -- [4]
+						3044116, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						13504, -- [3]
+						1505480177.864, -- [4]
+						2703181, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [9]
+					{
+						false, -- [1]
+						774, -- [2]
+						63488, -- [3]
+						1505480178.031, -- [4]
+						2703181, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [10]
+					{
+						false, -- [1]
+						139, -- [2]
+						101084, -- [3]
+						1505480178.325, -- [4]
+						2780173, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						143924, -- [2]
+						9433, -- [3]
+						1505480178.993, -- [4]
+						2881257, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						false, -- [1]
+						77489, -- [2]
+						8582, -- [3]
+						1505480179.359, -- [4]
+						2881257, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [13]
+					{
+						true, -- [1]
+						233444, -- [2]
+						340935, -- [3]
+						1505480179.561, -- [4]
+						2899272, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7532, -- [3]
+						1505480180.194, -- [4]
+						2558337, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [15]
+					{
+						false, -- [1]
+						243241, -- [2]
+						163032, -- [3]
+						1505480180.282, -- [4]
+						2558337, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						774, -- [2]
+						63488, -- [3]
+						1505480180.316, -- [4]
+						2558337, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						139, -- [2]
+						50541, -- [3]
+						1505480180.885, -- [4]
+						2792389, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						false, -- [1]
+						143924, -- [2]
+						25701, -- [3]
+						1505480181.419, -- [4]
+						2842930, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [19]
+					{
+						4, -- [1]
+						233901, -- [2]
+						1, -- [3]
+						1505480181.892, -- [4]
+						2868631, -- [5]
+						"[*] 窒息之暗", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						145109, -- [2]
+						142823, -- [3]
+						1505480182.126, -- [4]
+						2868631, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						143924, -- [2]
+						6625, -- [3]
+						1505480182.626, -- [4]
+						3011454, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						false, -- [1]
+						774, -- [2]
+						129516, -- [3]
+						1505480182.626, -- [4]
+						3011454, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [23]
+					{
+						true, -- [1]
+						233901, -- [2]
+						331464, -- [3]
+						1505480182.905, -- [4]
+						3011454, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						77489, -- [2]
+						24525, -- [3]
+						1505480183.339, -- [4]
+						2816131, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						139, -- [2]
+						58123, -- [3]
+						1505480183.339, -- [4]
+						2816131, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						143924, -- [2]
+						21685, -- [3]
+						1505480183.839, -- [4]
+						2898779, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						233901, -- [2]
+						331464, -- [3]
+						1505480183.905, -- [4]
+						2898779, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						233901, -- [2]
+						331464, -- [3]
+						1505480184.907, -- [4]
+						2589000, -- [5]
+						"[*] 窒息之暗", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						774, -- [2]
+						63488, -- [3]
+						1505480185.04, -- [4]
+						2589000, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						143924, -- [2]
+						15841, -- [3]
+						1505480185.074, -- [4]
+						2321024, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						false, -- [1]
+						139, -- [2]
+						116246, -- [3]
+						1505480185.895, -- [4]
+						2336865, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [32]
+					{
+						false, -- [1]
+						143924, -- [2]
+						17111, -- [3]
+						1505480186.295, -- [4]
+						2453111, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						77489, -- [2]
+						24525, -- [3]
+						1505480186.328, -- [4]
+						2453111, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						145109, -- [2]
+						142823, -- [3]
+						1505480187.17, -- [4]
+						2494747, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [35]
+					{
+						false, -- [1]
+						774, -- [2]
+						63488, -- [3]
+						1505480187.403, -- [4]
+						2637570, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						143924, -- [2]
+						12311, -- [3]
+						1505480187.506, -- [4]
+						2701058, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						139, -- [2]
+						62985, -- [3]
+						1505480188.344, -- [4]
+						2713369, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						143924, -- [2]
+						10363, -- [3]
+						1505480188.711, -- [4]
+						2776354, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						774, -- [2]
+						56824, -- [3]
+						1505480189.781, -- [4]
+						2786717, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [40]
+					{
+						false, -- [1]
+						143924, -- [2]
+						17763, -- [3]
+						1505480189.948, -- [4]
+						2843541, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						143924, -- [2]
+						4381, -- [3]
+						1505480191.126, -- [4]
+						2861304, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						774, -- [2]
+						56824, -- [3]
+						1505480191.95, -- [4]
+						2865685, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						233435, -- [2]
+						1485431, -- [3]
+						1505480192.05, -- [4]
+						2865685, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						false, -- [1]
+						145109, -- [2]
+						142823, -- [3]
+						1505480192.15, -- [4]
+						2865685, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [45]
+					{
+						true, -- [1]
+						239401, -- [2]
+						1985521, -- [3]
+						1505480192.183, -- [4]
+						2865685, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						405620, -- [10]
+					}, -- [46]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+					}, -- [47]
+				},
+				["class"] = "DRUID",
+				["timestring"] = "2m 33s",
+				["time"] = 1505480192.216,
+			}, -- [5]
+			{
+				["maxhealth"] = 4751280,
+				["timeofdeath"] = 154.574999999953,
+				["name"] = "Lluvia",
+				["events"] = {
+					{
+						false, -- [1]
+						774, -- [2]
+						73011, -- [3]
+						1505480170.926, -- [4]
+						3415651, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						139, -- [2]
+						65612, -- [3]
+						1505480171.192, -- [4]
+						3488662, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						true, -- [1]
+						233444, -- [2]
+						340982, -- [3]
+						1505480171.559, -- [4]
+						3554274, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						774, -- [2]
+						73012, -- [3]
+						1505480172.062, -- [4]
+						3213292, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						158163, -- [3]
+						1505480172.667, -- [4]
+						3286304, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						774, -- [2]
+						73011, -- [3]
+						1505480173.067, -- [4]
+						3449865, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						233444, -- [2]
+						340981, -- [3]
+						1505480173.616, -- [4]
+						3522876, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						139, -- [2]
+						114108, -- [3]
+						1505480173.716, -- [4]
+						3522876, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						774, -- [2]
+						63488, -- [3]
+						1505480174.199, -- [4]
+						3296003, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						774, -- [2]
+						129516, -- [3]
+						1505480175.2, -- [4]
+						3364865, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [10]
+					{
+						true, -- [1]
+						234015, -- [2]
+						665332, -- [3]
+						1505480175.314, -- [4]
+						3364865, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						233444, -- [2]
+						340981, -- [3]
+						1505480175.622, -- [4]
+						2829049, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						77489, -- [2]
+						158163, -- [3]
+						1505480175.622, -- [4]
+						2829049, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						139, -- [2]
+						114109, -- [3]
+						1505480176.256, -- [4]
+						2646231, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						774, -- [2]
+						63489, -- [3]
+						1505480177.498, -- [4]
+						2765720, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						233444, -- [2]
+						340981, -- [3]
+						1505480177.631, -- [4]
+						2829209, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						139, -- [2]
+						48481, -- [3]
+						1505480178.626, -- [4]
+						2488228, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						158164, -- [3]
+						1505480178.626, -- [4]
+						2488228, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						233444, -- [2]
+						340981, -- [3]
+						1505480179.628, -- [4]
+						2700239, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						774, -- [2]
+						63488, -- [3]
+						1505480179.794, -- [4]
+						2359258, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						243241, -- [2]
+						163032, -- [3]
+						1505480180.282, -- [4]
+						2422746, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						63488, -- [3]
+						1505480182.126, -- [4]
+						2591118, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						189800, -- [2]
+						88473, -- [3]
+						1505480182.826, -- [4]
+						2654606, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						77489, -- [2]
+						24525, -- [3]
+						1505480183.339, -- [4]
+						2748459, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						41523, -- [3]
+						1505480183.639, -- [4]
+						2772984, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						48438, -- [2]
+						39539, -- [3]
+						1505480184.44, -- [4]
+						2814507, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						774, -- [2]
+						70640, -- [3]
+						1505480184.44, -- [4]
+						2814507, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						48438, -- [2]
+						37547, -- [3]
+						1505480185.256, -- [4]
+						2930068, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						48438, -- [2]
+						35586, -- [3]
+						1505480186.028, -- [4]
+						2967615, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						77489, -- [2]
+						24525, -- [3]
+						1505480186.367, -- [4]
+						3003201, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						233431, -- [2]
+						1, -- [3]
+						1505480186.701, -- [4]
+						3027726, -- [5]
+						"阿提甘", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						774, -- [2]
+						66474, -- [3]
+						1505480186.701, -- [4]
+						3027726, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						48438, -- [2]
+						30188, -- [3]
+						1505480186.834, -- [4]
+						3027726, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						774, -- [2]
+						70640, -- [3]
+						1505480186.97, -- [4]
+						3124388, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						48438, -- [2]
+						57721, -- [3]
+						1505480187.606, -- [4]
+						3200410, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						48438, -- [2]
+						26661, -- [3]
+						1505480188.377, -- [4]
+						3258131, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						48438, -- [2]
+						51019, -- [3]
+						1505480189.146, -- [4]
+						3290148, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [37]
+					{
+						false, -- [1]
+						774, -- [2]
+						63225, -- [3]
+						1505480189.413, -- [4]
+						3290148, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						false, -- [1]
+						48438, -- [2]
+						23380, -- [3]
+						1505480189.814, -- [4]
+						3404392, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						48438, -- [2]
+						324, -- [3]
+						1505480189.914, -- [4]
+						3404392, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [40]
+					{
+						false, -- [1]
+						774, -- [2]
+						56824, -- [3]
+						1505480191.561, -- [4]
+						3433446, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [41]
+					{
+						true, -- [1]
+						239401, -- [2]
+						1800879, -- [3]
+						1505480192.884, -- [4]
+						3490270, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						233435, -- [2]
+						1343086, -- [3]
+						1505480193.054, -- [4]
+						3490270, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						191580, -- [2]
+						277701, -- [3]
+						1505480193.554, -- [4]
+						351669, -- [5]
+						"Lluvia", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						234015, -- [2]
+						676703, -- [3]
+						1505480193.554, -- [4]
+						351669, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						47333, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						108271, -- [2]
+						1, -- [3]
+						1505480143.696, -- [4]
+						0, -- [5]
+						"Lluvia", -- [6]
+					}, -- [46]
+				},
+				["class"] = "SHAMAN",
+				["timestring"] = "2m 34s",
+				["time"] = 1505480193.587,
+			}, -- [6]
+			{
+				["maxhealth"] = 4773660,
+				["timeofdeath"] = 165.407000000007,
+				["name"] = "乌托邦的托",
+				["events"] = {
+					{
+						false, -- [1]
+						774, -- [2]
+						70640, -- [3]
+						1505480177.498, -- [4]
+						4468235, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						4, -- [1]
+						236283, -- [2]
+						1, -- [3]
+						1505480177.898, -- [4]
+						4609517, -- [5]
+						"[*] 贝拉克的囚徒", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						235313, -- [2]
+						93577, -- [3]
+						1505480178.458, -- [4]
+						4609517, -- [5]
+						"乌托邦的托", -- [6]
+						true, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						248713, -- [2]
+						93577, -- [3]
+						1505480178.558, -- [4]
+						4609517, -- [5]
+						"被折磨的幽魂", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						4, -- [1]
+						236283, -- [2]
+						1, -- [3]
+						1505480178.926, -- [4]
+						4609517, -- [5]
+						"[*] 贝拉克的囚徒", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						235313, -- [2]
+						165752, -- [3]
+						1505480179.561, -- [4]
+						4609517, -- [5]
+						"乌托邦的托", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						233444, -- [2]
+						259382, -- [3]
+						1505480179.628, -- [4]
+						4609517, -- [5]
+						"阿提甘", -- [6]
+						165752, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						155777, -- [2]
+						144109, -- [3]
+						1505480179.761, -- [4]
+						4609517, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						774, -- [2]
+						70641, -- [3]
+						1505480179.794, -- [4]
+						4659996, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						243241, -- [2]
+						163033, -- [3]
+						1505480180.282, -- [4]
+						4730637, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [10]
+					{
+						false, -- [1]
+						194316, -- [2]
+						159247, -- [3]
+						1505480180.985, -- [4]
+						4773660, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						194316, -- [2]
+						159247, -- [3]
+						1505480181.959, -- [4]
+						4773660, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						155777, -- [2]
+						70642, -- [3]
+						1505480182.059, -- [4]
+						4773660, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						774, -- [2]
+						70640, -- [3]
+						1505480182.126, -- [4]
+						4773660, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [14]
+					{
+						false, -- [1]
+						194316, -- [2]
+						159246, -- [3]
+						1505480182.972, -- [4]
+						4773660, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						77489, -- [2]
+						24525, -- [3]
+						1505480183.339, -- [4]
+						4773660, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						155777, -- [2]
+						55011, -- [3]
+						1505480183.872, -- [4]
+						4773660, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						194316, -- [2]
+						159246, -- [3]
+						1505480183.972, -- [4]
+						4773660, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						false, -- [1]
+						774, -- [2]
+						63488, -- [3]
+						1505480184.44, -- [4]
+						5012400, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						194316, -- [2]
+						159246, -- [3]
+						1505480185.007, -- [4]
+						5012400, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						194316, -- [2]
+						159247, -- [3]
+						1505480185.961, -- [4]
+						5012400, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						90190, -- [3]
+						1505480186.161, -- [4]
+						5012400, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						77489, -- [2]
+						24525, -- [3]
+						1505480186.328, -- [4]
+						5012400, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						239401, -- [2]
+						1847396, -- [3]
+						1505480191.85, -- [4]
+						5012400, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						234015, -- [2]
+						664034, -- [3]
+						1505480193.554, -- [4]
+						3165004, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						4, -- [1]
+						233983, -- [2]
+						1, -- [3]
+						1505480195.997, -- [4]
+						2500970, -- [5]
+						"贝拉克", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						235236, -- [2]
+						324228, -- [3]
+						1505480196.572, -- [4]
+						2500970, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						233983, -- [2]
+						234878, -- [3]
+						1505480197.005, -- [4]
+						2176742, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						233983, -- [2]
+						234878, -- [3]
+						1505480197.972, -- [4]
+						1941864, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						235236, -- [2]
+						324228, -- [3]
+						1505480198.405, -- [4]
+						1706986, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						233983, -- [2]
+						234878, -- [3]
+						1505480199.038, -- [4]
+						1382758, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						233983, -- [2]
+						234878, -- [3]
+						1505480200.005, -- [4]
+						1147880, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						235236, -- [2]
+						324228, -- [3]
+						1505480200.405, -- [4]
+						913002, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						596, -- [2]
+						234360, -- [3]
+						1505480200.672, -- [4]
+						588774, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						233983, -- [2]
+						234877, -- [3]
+						1505480201.008, -- [4]
+						823134, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						194316, -- [2]
+						167210, -- [3]
+						1505480201.408, -- [4]
+						588257, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						233983, -- [2]
+						234878, -- [3]
+						1505480202.016, -- [4]
+						755467, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						194316, -- [2]
+						167211, -- [3]
+						1505480202.418, -- [4]
+						520589, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						235236, -- [2]
+						324228, -- [3]
+						1505480202.418, -- [4]
+						520589, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						233983, -- [2]
+						234878, -- [3]
+						1505480202.985, -- [4]
+						363572, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						194316, -- [2]
+						167210, -- [3]
+						1505480203.352, -- [4]
+						128694, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						77489, -- [2]
+						35255, -- [3]
+						1505480203.719, -- [4]
+						295904, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						233983, -- [2]
+						234878, -- [3]
+						1505480203.985, -- [4]
+						331159, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						194316, -- [2]
+						167210, -- [3]
+						1505480204.352, -- [4]
+						96281, -- [5]
+						"乌托邦的托", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						235236, -- [2]
+						324228, -- [3]
+						1505480204.419, -- [4]
+						96281, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						60737, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						45438, -- [2]
+						1, -- [3]
+						1505480104.097, -- [4]
+						0, -- [5]
+						"乌托邦的托", -- [6]
+					}, -- [46]
+				},
+				["class"] = "MAGE",
+				["timestring"] = "2m 45s",
+				["time"] = 1505480204.419,
+			}, -- [7]
+			{
+				["maxhealth"] = 4348620,
+				["timeofdeath"] = 236.819999999949,
+				["name"] = "Mikamiko-白骨荒野",
+				["events"] = {
+					{
+						true, -- [1]
+						234015, -- [2]
+						683221, -- [3]
+						1505480256.823, -- [4]
+						4348620, -- [5]
+						"贝拉克", -- [6]
+						377417, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						33110, -- [2]
+						118879, -- [3]
+						1505480256.856, -- [4]
+						4042816, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						774, -- [2]
+						56790, -- [3]
+						1505480257.923, -- [4]
+						4161695, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						77489, -- [2]
+						51793, -- [3]
+						1505480258.994, -- [4]
+						4218485, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						774, -- [2]
+						56791, -- [3]
+						1505480259.028, -- [4]
+						4218485, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						139, -- [2]
+						101083, -- [3]
+						1505480259.194, -- [4]
+						4218485, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						207203, -- [2]
+						18293, -- [3]
+						1505480259.661, -- [4]
+						4348620, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						235236, -- [2]
+						1738042, -- [3]
+						1505480259.661, -- [4]
+						4348620, -- [5]
+						"贝拉克", -- [6]
+						18293, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						235236, -- [2]
+						347609, -- [3]
+						1505480259.661, -- [4]
+						4348620, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						196781, -- [2]
+						203791, -- [3]
+						1505480259.806, -- [4]
+						4348620, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						774, -- [2]
+						115853, -- [3]
+						1505480260.239, -- [4]
+						2485053, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						774, -- [2]
+						115853, -- [3]
+						1505480261.414, -- [4]
+						2600906, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						235236, -- [2]
+						347609, -- [3]
+						1505480261.648, -- [4]
+						2600906, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						33110, -- [2]
+						118879, -- [3]
+						1505480261.681, -- [4]
+						2369150, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						139, -- [2]
+						101084, -- [3]
+						1505480261.681, -- [4]
+						2369150, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						139, -- [2]
+						10464, -- [3]
+						1505480261.954, -- [4]
+						2369150, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77489, -- [2]
+						66887, -- [3]
+						1505480261.987, -- [4]
+						2369150, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						774, -- [2]
+						56790, -- [3]
+						1505480262.627, -- [4]
+						2666464, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						235236, -- [2]
+						347609, -- [3]
+						1505480263.661, -- [4]
+						2723254, -- [5]
+						"贝拉克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						774, -- [2]
+						115852, -- [3]
+						1505480263.796, -- [4]
+						2375645, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						77489, -- [2]
+						66888, -- [3]
+						1505480265.001, -- [4]
+						2491497, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						115853, -- [3]
+						1505480265.001, -- [4]
+						2491497, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						207203, -- [2]
+						37441, -- [3]
+						1505480265.648, -- [4]
+						2674238, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						235236, -- [2]
+						347608, -- [3]
+						1505480265.648, -- [4]
+						2674238, -- [5]
+						"贝拉克", -- [6]
+						37441, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						774, -- [2]
+						56790, -- [3]
+						1505480266.152, -- [4]
+						2364071, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						774, -- [2]
+						56791, -- [3]
+						1505480267.324, -- [4]
+						2420861, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						243241, -- [2]
+						81517, -- [3]
+						1505480267.391, -- [4]
+						2477652, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						207203, -- [2]
+						71417, -- [3]
+						1505480267.662, -- [4]
+						2477652, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						235236, -- [2]
+						347609, -- [3]
+						1505480267.662, -- [4]
+						2477652, -- [5]
+						"贝拉克", -- [6]
+						71417, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						77489, -- [2]
+						30471, -- [3]
+						1505480267.965, -- [4]
+						2282977, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						774, -- [2]
+						56791, -- [3]
+						1505480268.499, -- [4]
+						2313448, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						774, -- [2]
+						115852, -- [3]
+						1505480269.637, -- [4]
+						2370239, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						207203, -- [2]
+						36541, -- [3]
+						1505480269.67, -- [4]
+						2370239, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						235236, -- [2]
+						347609, -- [3]
+						1505480269.67, -- [4]
+						2370239, -- [5]
+						"贝拉克", -- [6]
+						36541, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						774, -- [2]
+						5039, -- [3]
+						1505480269.77, -- [4]
+						2370239, -- [5]
+						"丑德豪无人性-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [35]
+					{
+						false, -- [1]
+						77489, -- [2]
+						30471, -- [3]
+						1505480270.972, -- [4]
+						2180062, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						53365, -- [2]
+						260917, -- [3]
+						1505480271.472, -- [4]
+						2210533, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						false, -- [1]
+						207203, -- [2]
+						17251, -- [3]
+						1505480271.676, -- [4]
+						2210533, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						235236, -- [2]
+						347608, -- [3]
+						1505480271.676, -- [4]
+						2210533, -- [5]
+						"贝拉克", -- [6]
+						17251, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						207203, -- [2]
+						57940, -- [3]
+						1505480273.643, -- [4]
+						2141093, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						235236, -- [2]
+						347608, -- [3]
+						1505480273.643, -- [4]
+						2141093, -- [5]
+						"贝拉克", -- [6]
+						57940, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						77489, -- [2]
+						30471, -- [3]
+						1505480274.024, -- [4]
+						1851425, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						207203, -- [2]
+						44381, -- [3]
+						1505480275.666, -- [4]
+						1881896, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						235236, -- [2]
+						347608, -- [3]
+						1505480275.666, -- [4]
+						1881896, -- [5]
+						"贝拉克", -- [6]
+						44381, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						233426, -- [2]
+						2840378, -- [3]
+						1505480275.832, -- [4]
+						1881896, -- [5]
+						"阿提甘", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						1261709, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						48707, -- [2]
+						1, -- [3]
+						1505480215.506, -- [4]
+						0, -- [5]
+						"Mikamiko-白骨荒野", -- [6]
+					}, -- [46]
+				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "3m 56s",
+				["time"] = 1505480275.832,
+			}, -- [8]
+		},
+		["bossname"] = "恶魔审判庭",
+		["bossicon"] = {
+			0.25, -- [1]
+			0.5, -- [2]
+			0, -- [3]
+			0.25, -- [4]
+			"Interface\\AddOns\\Details_RaidInfo-TombOfSargeras\\boss_faces", -- [5]
+		},
+		["date"] = 646578.97,
+		["timeelapsed"] = 250.383999999962,
+	}, -- [5]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 4963140,
+				["timeofdeath"] = 259.097000000009,
+				["name"] = "Nesevil",
+				["time"] = 1504713295.518,
+				["class"] = "WARLOCK",
+				["timestring"] = "4m 19s",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1504713310.995, -- [4]
+						0, -- [5]
+						"愤怒的小咕咕-太阳之井", -- [6]
+					}, -- [1]
+					{
+						4, -- [1]
+						241822, -- [2]
+						1, -- [3]
+						1504713283.146, -- [4]
+						4073102, -- [5]
+						"[*] 窒息之影", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						234310, -- [2]
+						816179, -- [3]
+						1504713283.53, -- [4]
+						4422357, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						77489, -- [2]
+						504971, -- [3]
+						1504713283.563, -- [4]
+						4422357, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						22000, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						139, -- [2]
+						114357, -- [3]
+						1504713283.651, -- [4]
+						4111149, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						198590, -- [2]
+						391255, -- [3]
+						1504713283.914, -- [4]
+						4225506, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						108366, -- [2]
+						20009, -- [3]
+						1504713283.944, -- [4]
+						4225506, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1504713283.944, -- [4]
+						4225506, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713283.944, -- [4]
+						4225506, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						20009, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						4, -- [1]
+						241822, -- [2]
+						1, -- [3]
+						1504713284.155, -- [4]
+						4542854, -- [5]
+						"[*] 窒息之影", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						108366, -- [2]
+						93916, -- [3]
+						1504713284.968, -- [4]
+						4542854, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713284.968, -- [4]
+						4542854, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						108366, -- [2]
+						39624, -- [3]
+						1504713285.512, -- [4]
+						4542854, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1504713285.512, -- [4]
+						4542854, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						234310, -- [2]
+						816180, -- [3]
+						1504713285.512, -- [4]
+						4542854, -- [5]
+						"基尔加丹", -- [6]
+						39624, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						108366, -- [2]
+						15736, -- [3]
+						1504713285.95, -- [4]
+						3766298, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1504713286.001, -- [4]
+						3766298, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713286.001, -- [4]
+						3766298, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						15736, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						139, -- [2]
+						2138, -- [3]
+						1504713286.198, -- [4]
+						3688118, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						62000, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						139, -- [2]
+						8235, -- [3]
+						1504713286.601, -- [4]
+						3690256, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						77489, -- [2]
+						526972, -- [3]
+						1504713286.601, -- [4]
+						3690256, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713287.033, -- [4]
+						4225463, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						4, -- [1]
+						241822, -- [2]
+						1, -- [3]
+						1504713287.188, -- [4]
+						4225463, -- [5]
+						"[*] 窒息之影", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						241702, -- [2]
+						84722, -- [3]
+						1504713287.239, -- [4]
+						4225463, -- [5]
+						"暗影之魂", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						234310, -- [2]
+						816179, -- [3]
+						1504713287.587, -- [4]
+						4046825, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						241702, -- [2]
+						84722, -- [3]
+						1504713287.646, -- [4]
+						4046825, -- [5]
+						"暗影之魂", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713287.964, -- [4]
+						3145924, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						108366, -- [2]
+						42132, -- [3]
+						1504713288.944, -- [4]
+						3052008, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1504713288.944, -- [4]
+						3052008, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713288.944, -- [4]
+						3052008, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						42132, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						234310, -- [2]
+						816180, -- [3]
+						1504713289.528, -- [4]
+						3000224, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						77489, -- [2]
+						464971, -- [3]
+						1504713289.604, -- [4]
+						3000224, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						62000, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						145110, -- [2]
+						184886, -- [3]
+						1504713289.861, -- [4]
+						2649015, -- [5]
+						"愤怒的小咕咕-太阳之井", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						108366, -- [2]
+						46708, -- [3]
+						1504713289.95, -- [4]
+						2649015, -- [5]
+						"Nesevil", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1504713289.95, -- [4]
+						2649015, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713289.95, -- [4]
+						2649015, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						46708, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						4, -- [1]
+						241822, -- [2]
+						1, -- [3]
+						1504713290.307, -- [4]
+						2786693, -- [5]
+						"[*] 窒息之影", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [37]
+					{
+						true, -- [1]
+						1454, -- [2]
+						496314, -- [3]
+						1504713290.914, -- [4]
+						2786693, -- [5]
+						"Nesevil", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713291.037, -- [4]
+						2290379, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						234310, -- [2]
+						816179, -- [3]
+						1504713291.526, -- [4]
+						2196463, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713292.063, -- [4]
+						1380284, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						241721, -- [2]
+						93916, -- [3]
+						1504713292.949, -- [4]
+						1286368, -- [5]
+						"[*] 伊利丹的无目凝视", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						4, -- [1]
+						236555, -- [2]
+						1, -- [3]
+						1504713293.087, -- [4]
+						1192452, -- [5]
+						"[*] 欺诈者的遮蔽", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						234310, -- [2]
+						816180, -- [3]
+						1504713293.572, -- [4]
+						1192452, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						1, -- [1]
+						104773, -- [2]
+						1, -- [3]
+						1504713294.163, -- [4]
+						376272, -- [5]
+						"Nesevil", -- [6]
+						13574, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [45]
+					{
+						true, -- [1]
+						234310, -- [2]
+						489708, -- [3]
+						1504713295.518, -- [4]
+						376272, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						113436, -- [10]
+					}, -- [46]
+					{
+						3, -- [1]
+						104773, -- [2]
+						1, -- [3]
+						1504713294.163, -- [4]
+						0, -- [5]
+						"Nesevil", -- [6]
+					}, -- [47]
+				},
+			}, -- [1]
+			{
+				["maxhealth"] = 4104300,
+				["timeofdeath"] = 346.456999999995,
+				["name"] = "青桔柠檬",
+				["time"] = 1504713382.878,
+				["class"] = "HUNTER",
+				["timestring"] = "5m 46s",
+				["events"] = {
+					{
+						false, -- [1]
+						139, -- [2]
+						57179, -- [3]
+						1504713345.408, -- [4]
+						2755041, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713345.912, -- [4]
+						2812220, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713347.957, -- [4]
+						2565705, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						139, -- [2]
+						49720, -- [3]
+						1504713347.957, -- [4]
+						2565705, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						9256, -- [3]
+						1504713348.453, -- [4]
+						2368910, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713349.939, -- [4]
+						2378166, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						139, -- [2]
+						49721, -- [3]
+						1504713350.522, -- [4]
+						2131651, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						183998, -- [2]
+						579044, -- [3]
+						1504713351.048, -- [4]
+						2181372, -- [5]
+						"有隻大白兎丶", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77489, -- [2]
+						9256, -- [3]
+						1504713351.435, -- [4]
+						2760416, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246516, -- [3]
+						1504713351.931, -- [4]
+						2769672, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						139, -- [2]
+						99441, -- [3]
+						1504713353.022, -- [4]
+						2523156, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						238455, -- [2]
+						707680, -- [3]
+						1504713353.627, -- [4]
+						2622597, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						239216, -- [2]
+						214469, -- [3]
+						1504713353.967, -- [4]
+						1914917, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						19750, -- [2]
+						1595344, -- [3]
+						1504713355.434, -- [4]
+						1700448, -- [5]
+						"有隻大白兎丶", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						139, -- [2]
+						49721, -- [3]
+						1504713355.6, -- [4]
+						3911437, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						239216, -- [2]
+						214468, -- [3]
+						1504713355.939, -- [4]
+						3961158, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713357.924, -- [4]
+						3746690, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						139, -- [2]
+						55772, -- [3]
+						1504713358.164, -- [4]
+						3500175, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						34861, -- [2]
+						488008, -- [3]
+						1504713358.324, -- [4]
+						3500175, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713359.966, -- [4]
+						4043955, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						139, -- [2]
+						57037, -- [3]
+						1504713360.394, -- [4]
+						3797440, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						77489, -- [2]
+						78996, -- [3]
+						1504713361.352, -- [4]
+						3854477, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713361.928, -- [4]
+						3933473, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713363.924, -- [4]
+						3686958, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						77489, -- [2]
+						78996, -- [3]
+						1504713364.367, -- [4]
+						3440443, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713365.93, -- [4]
+						2903794, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713367.968, -- [4]
+						2657279, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						596, -- [2]
+						530600, -- [3]
+						1504713368.792, -- [4]
+						2410764, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246516, -- [3]
+						1504713369.987, -- [4]
+						2941364, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						77489, -- [2]
+						85891, -- [3]
+						1504713371.825, -- [4]
+						2694848, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713371.956, -- [4]
+						2780739, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713373.959, -- [4]
+						2534224, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						77489, -- [2]
+						85891, -- [3]
+						1504713374.823, -- [4]
+						2287709, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						243241, -- [2]
+						86355, -- [3]
+						1504713375.325, -- [4]
+						2373600, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713375.972, -- [4]
+						2459955, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713378.071, -- [4]
+						2213440, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						77489, -- [2]
+						13979, -- [3]
+						1504713378.349, -- [4]
+						1966925, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						true, -- [1]
+						238455, -- [2]
+						813426, -- [3]
+						1504713378.657, -- [4]
+						1980904, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713380.01, -- [4]
+						1167478, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						109304, -- [2]
+						1231290, -- [3]
+						1504713381.27, -- [4]
+						920963, -- [5]
+						"青桔柠檬", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						77489, -- [2]
+						13979, -- [3]
+						1504713381.344, -- [4]
+						2152253, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						239852, -- [2]
+						1698861, -- [3]
+						1504713381.632, -- [4]
+						2166232, -- [5]
+						"恶魔方尖碑", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						4, -- [1]
+						239155, -- [2]
+						1, -- [3]
+						1504713381.855, -- [4]
+						467371, -- [5]
+						"基尔加丹", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						239216, -- [2]
+						246515, -- [3]
+						1504713382.002, -- [4]
+						467371, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						239155, -- [2]
+						366441, -- [3]
+						1504713382.855, -- [4]
+						220856, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						145585, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"青桔柠檬", -- [6]
+					}, -- [46]
+				},
+			}, -- [2]
+			{
+				["maxhealth"] = 5255009,
+				["timeofdeath"] = 353.815999999992,
+				["name"] = "Jibayang",
+				["time"] = 1504713390.237,
+				["class"] = "PRIEST",
+				["timestring"] = "5m 53s",
+				["events"] = {
+					{
+						false, -- [1]
+						139, -- [2]
+						111545, -- [3]
+						1504713357.993, -- [4]
+						4206825, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713359.779, -- [4]
+						4318370, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						139, -- [2]
+						64139, -- [3]
+						1504713360.531, -- [4]
+						4066075, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						77489, -- [2]
+						39910, -- [3]
+						1504713360.589, -- [4]
+						4130214, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713361.808, -- [4]
+						4170124, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						225311, -- [2]
+						439055, -- [3]
+						1504713362.102, -- [4]
+						4170124, -- [5]
+						"有隻大白兎丶", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						139, -- [2]
+						128277, -- [3]
+						1504713362.876, -- [4]
+						4356884, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713363.774, -- [4]
+						4485161, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						139, -- [2]
+						111545, -- [3]
+						1504713365.201, -- [4]
+						4232866, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713365.788, -- [4]
+						3664884, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						139, -- [2]
+						64138, -- [3]
+						1504713367.577, -- [4]
+						3412589, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713367.792, -- [4]
+						3476727, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						196781, -- [2]
+						124135, -- [3]
+						1504713368.119, -- [4]
+						3224432, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						33110, -- [2]
+						144826, -- [3]
+						1504713369.8, -- [4]
+						3348567, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713369.8, -- [4]
+						3348567, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						139, -- [2]
+						64139, -- [3]
+						1504713369.879, -- [4]
+						3241098, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77489, -- [2]
+						29026, -- [3]
+						1504713371.132, -- [4]
+						3305237, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [17]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713371.825, -- [4]
+						3334263, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						139, -- [2]
+						111545, -- [3]
+						1504713372.226, -- [4]
+						3081968, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [19]
+					{
+						false, -- [1]
+						139, -- [2]
+						40773, -- [3]
+						1504713373.172, -- [4]
+						3193513, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713373.849, -- [4]
+						3234286, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						77489, -- [2]
+						29025, -- [3]
+						1504713374.1, -- [4]
+						2981991, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713375.81, -- [4]
+						3011016, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						77489, -- [2]
+						29025, -- [3]
+						1504713377.11, -- [4]
+						2758721, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713377.849, -- [4]
+						2787746, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						207472, -- [2]
+						832498, -- [3]
+						1504713378.657, -- [4]
+						2535451, -- [5]
+						"Jibayang", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						238455, -- [2]
+						832498, -- [3]
+						1504713378.688, -- [4]
+						2535451, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						207472, -- [2]
+						252295, -- [3]
+						1504713379.814, -- [4]
+						2535451, -- [5]
+						"Jibayang", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713379.814, -- [4]
+						2535451, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						207472, -- [2]
+						112676, -- [3]
+						1504713381.632, -- [4]
+						2535451, -- [5]
+						"Jibayang", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						239852, -- [2]
+						1738693, -- [3]
+						1504713381.632, -- [4]
+						2535451, -- [5]
+						"恶魔方尖碑", -- [6]
+						112676, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252296, -- [3]
+						1504713381.835, -- [4]
+						909434, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						4, -- [1]
+						239155, -- [2]
+						1, -- [3]
+						1504713382.496, -- [4]
+						657138, -- [5]
+						"基尔加丹", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						19236, -- [2]
+						1359125, -- [3]
+						1504713383.208, -- [4]
+						657138, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						true, -- [1]
+						239155, -- [2]
+						375033, -- [3]
+						1504713383.491, -- [4]
+						2016262, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713383.842, -- [4]
+						1641229, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						4, -- [1]
+						239155, -- [2]
+						1, -- [3]
+						1504713384.488, -- [4]
+						1388933, -- [5]
+						"基尔加丹", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [37]
+					{
+						true, -- [1]
+						239155, -- [2]
+						375033, -- [3]
+						1504713384.488, -- [4]
+						1388933, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						239155, -- [2]
+						375033, -- [3]
+						1504713385.497, -- [4]
+						1013899, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713385.834, -- [4]
+						638866, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						77489, -- [2]
+						220008, -- [3]
+						1504713386.116, -- [4]
+						386571, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252296, -- [3]
+						1504713387.856, -- [4]
+						606577, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						77489, -- [2]
+						220008, -- [3]
+						1504713389.192, -- [4]
+						354280, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						4, -- [1]
+						239155, -- [2]
+						1, -- [3]
+						1504713389.261, -- [4]
+						354280, -- [5]
+						"基尔加丹", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						239216, -- [2]
+						252295, -- [3]
+						1504713389.854, -- [4]
+						574287, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						47788, -- [2]
+						1, -- [3]
+						1504713273.625, -- [4]
+						0, -- [5]
+						"Jibayang", -- [6]
+					}, -- [46]
+				},
+			}, -- [3]
+			{
+				["maxhealth"] = 4386960,
+				["timeofdeath"] = 355.489999999991,
+				["name"] = "丨冬雪依旧丨",
+				["time"] = 1504713391.911,
+				["class"] = "HUNTER",
+				["timestring"] = "5m 55s",
+				["events"] = {
+					{
+						true, -- [1]
+						239216, -- [2]
+						255622, -- [3]
+						1504713359.854, -- [4]
+						3947913, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						197205, -- [2]
+						65453, -- [3]
+						1504713361.352, -- [4]
+						3692291, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						197205, -- [2]
+						40908, -- [3]
+						1504713361.352, -- [4]
+						3692291, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713361.857, -- [4]
+						3798652, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						36347, -- [3]
+						1504713361.857, -- [4]
+						3798652, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						225311, -- [2]
+						219528, -- [3]
+						1504713362.102, -- [4]
+						3798652, -- [5]
+						"有隻大白兎丶", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713363.834, -- [4]
+						3798904, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						243241, -- [2]
+						86354, -- [3]
+						1504713365.719, -- [4]
+						2885237, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						197205, -- [2]
+						220245, -- [3]
+						1504713365.719, -- [4]
+						2885237, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						197205, -- [2]
+						31285, -- [3]
+						1504713365.719, -- [4]
+						2885237, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713365.855, -- [4]
+						3223121, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713367.874, -- [4]
+						2967498, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						77489, -- [2]
+						13978, -- [3]
+						1504713368.743, -- [4]
+						2711875, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						596, -- [2]
+						530600, -- [3]
+						1504713368.792, -- [4]
+						2711875, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713369.851, -- [4]
+						3256453, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						77489, -- [2]
+						61920, -- [3]
+						1504713371.74, -- [4]
+						3000830, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255622, -- [3]
+						1504713371.865, -- [4]
+						3000830, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						33110, -- [2]
+						251871, -- [3]
+						1504713371.865, -- [4]
+						3000830, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						207472, -- [2]
+						255622, -- [3]
+						1504713373.849, -- [4]
+						3058999, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255622, -- [3]
+						1504713373.893, -- [4]
+						3058999, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						77489, -- [2]
+						68461, -- [3]
+						1504713374.753, -- [4]
+						3058999, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						243241, -- [2]
+						86355, -- [3]
+						1504713375.325, -- [4]
+						3127460, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						207472, -- [2]
+						255622, -- [3]
+						1504713375.879, -- [4]
+						3213815, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255622, -- [3]
+						1504713375.879, -- [4]
+						3213815, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						197205, -- [2]
+						226789, -- [3]
+						1504713376.224, -- [4]
+						3213815, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						197205, -- [2]
+						32214, -- [3]
+						1504713376.224, -- [4]
+						3213815, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						77489, -- [2]
+						54960, -- [3]
+						1504713377.744, -- [4]
+						3472818, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						207472, -- [2]
+						255623, -- [3]
+						1504713377.868, -- [4]
+						3472818, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713377.868, -- [4]
+						3472818, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						207472, -- [2]
+						364645, -- [3]
+						1504713378.657, -- [4]
+						3527778, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						238455, -- [2]
+						809355, -- [3]
+						1504713378.657, -- [4]
+						3527778, -- [5]
+						"基尔加丹", -- [6]
+						364645, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713379.895, -- [4]
+						3083068, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						77489, -- [2]
+						54960, -- [3]
+						1504713380.752, -- [4]
+						2827445, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						197205, -- [2]
+						75799, -- [3]
+						1504713381.632, -- [4]
+						2882405, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						197205, -- [2]
+						23687, -- [3]
+						1504713381.632, -- [4]
+						2882405, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255622, -- [3]
+						1504713381.89, -- [4]
+						2981891, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						77489, -- [2]
+						54960, -- [3]
+						1504713383.76, -- [4]
+						2726269, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713383.875, -- [4]
+						2781229, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713385.9, -- [4]
+						2525606, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						false, -- [1]
+						197205, -- [2]
+						130386, -- [3]
+						1504713387.516, -- [4]
+						2269983, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						197205, -- [2]
+						40745, -- [3]
+						1504713387.516, -- [4]
+						2269983, -- [5]
+						"丨冬雪依旧丨", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255623, -- [3]
+						1504713387.915, -- [4]
+						2441114, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255622, -- [3]
+						1504713389.911, -- [4]
+						2185491, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						238502, -- [2]
+						1762757, -- [3]
+						1504713391.669, -- [4]
+						1929869, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						239216, -- [2]
+						255622, -- [3]
+						1504713391.911, -- [4]
+						167112, -- [5]
+						"基尔加丹", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						88510, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"丨冬雪依旧丨", -- [6]
+					}, -- [46]
+				},
+			}, -- [4]
+		},
+		["bossname"] = "基尔加丹",
+		["bossicon"] = {
+			0, -- [1]
+			0.25, -- [2]
+			0.5, -- [3]
+			0.75, -- [4]
+			"Interface\\AddOns\\Details_RaidInfo-TombOfSargeras\\boss_faces", -- [5]
+		},
+		["date"] = 297188.925,
+		["timeelapsed"] = 393.522999999987,
+	}, -- [6]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 4824180,
+				["timeofdeath"] = 62.4380000000238,
+				["name"] = "斯凯塞克",
+				["time"] = 1504711796.196,
+				["class"] = "DRUID",
+				["timestring"] = "1m 2s",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1504711801.537, -- [4]
+						0, -- [5]
+						"伽罗", -- [6]
+					}, -- [1]
+					{
+						true, -- [1]
+						235253, -- [2]
+						144235, -- [3]
+						1504711768.942, -- [4]
+						4895820, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						77489, -- [2]
+						36347, -- [3]
+						1504711768.942, -- [4]
+						4895820, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [3]
+					{
+						false, -- [1]
+						34861, -- [2]
+						870126, -- [3]
+						1504711769.583, -- [4]
+						4787932, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						true, -- [1]
+						235253, -- [2]
+						144235, -- [3]
+						1504711771.903, -- [4]
+						4895820, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						77489, -- [2]
+						106017, -- [3]
+						1504711771.993, -- [4]
+						4895820, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [6]
+					{
+						false, -- [1]
+						243241, -- [2]
+						99309, -- [3]
+						1504711773.093, -- [4]
+						4857602, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [7]
+					{
+						true, -- [1]
+						235253, -- [2]
+						144235, -- [3]
+						1504711774.902, -- [4]
+						4895820, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77489, -- [2]
+						81395, -- [3]
+						1504711775.004, -- [4]
+						4895820, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [9]
+					{
+						4, -- [1]
+						248812, -- [2]
+						1, -- [3]
+						1504711776.244, -- [4]
+						4832980, -- [5]
+						"戒卫侍女", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						235253, -- [2]
+						129812, -- [3]
+						1504711777.916, -- [4]
+						4832980, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						77489, -- [2]
+						81395, -- [3]
+						1504711777.916, -- [4]
+						4832980, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						true, -- [1]
+						234896, -- [2]
+						60119, -- [3]
+						1504711779.57, -- [4]
+						4784563, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						2, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						236432, -- [2]
+						66288, -- [3]
+						1504711780.87, -- [4]
+						4724444, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						235253, -- [2]
+						129812, -- [3]
+						1504711780.912, -- [4]
+						4724444, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						77489, -- [2]
+						81395, -- [3]
+						1504711780.973, -- [4]
+						4528344, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [16]
+					{
+						false, -- [1]
+						213672, -- [2]
+						433590, -- [3]
+						1504711782.141, -- [4]
+						4609739, -- [5]
+						"斯凯塞克", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [17]
+					{
+						true, -- [1]
+						234896, -- [2]
+						66289, -- [3]
+						1504711782.191, -- [4]
+						4609739, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						2, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						236432, -- [2]
+						73473, -- [3]
+						1504711783.393, -- [4]
+						4829531, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						235253, -- [2]
+						129812, -- [3]
+						1504711783.901, -- [4]
+						4756058, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						234896, -- [2]
+						81520, -- [3]
+						1504711784.629, -- [4]
+						4626246, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						2, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						236432, -- [2]
+						90330, -- [3]
+						1504711786.201, -- [4]
+						4544726, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						4, -- [1]
+						235538, -- [2]
+						1, -- [3]
+						1504711786.439, -- [4]
+						4454396, -- [5]
+						"[*] 恶魔活力", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						235253, -- [2]
+						129811, -- [3]
+						1504711786.901, -- [4]
+						4454396, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						4, -- [1]
+						235538, -- [2]
+						2, -- [3]
+						1504711787.637, -- [4]
+						4324585, -- [5]
+						"[*] 恶魔活力", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						234896, -- [2]
+						99828, -- [3]
+						1504711787.871, -- [4]
+						4324585, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						2, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						235538, -- [2]
+						3, -- [3]
+						1504711788.892, -- [4]
+						4224757, -- [5]
+						"[*] 恶魔活力", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						236432, -- [2]
+						109958, -- [3]
+						1504711789.438, -- [4]
+						4224757, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						235253, -- [2]
+						129812, -- [3]
+						1504711789.91, -- [4]
+						4114799, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						235125, -- [2]
+						244708, -- [3]
+						1504711789.997, -- [4]
+						4114799, -- [5]
+						"[*] 动荡的灵魂", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						234896, -- [2]
+						120675, -- [3]
+						1504711791.175, -- [4]
+						3740279, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						2, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						4, -- [1]
+						235538, -- [2]
+						4, -- [3]
+						1504711791.236, -- [4]
+						3740279, -- [5]
+						"[*] 恶魔活力", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						235125, -- [2]
+						244707, -- [3]
+						1504711791.983, -- [4]
+						3619604, -- [5]
+						"[*] 动荡的灵魂", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						235138, -- [2]
+						834111, -- [3]
+						1504711792.123, -- [4]
+						3374897, -- [5]
+						"小榴莲我们走", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						2061, -- [2]
+						341298, -- [3]
+						1504711792.649, -- [4]
+						2540786, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						235253, -- [2]
+						144235, -- [3]
+						1504711792.931, -- [4]
+						2882084, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						true, -- [1]
+						236432, -- [2]
+						146603, -- [3]
+						1504711793.383, -- [4]
+						2737849, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [37]
+					{
+						1, -- [1]
+						22812, -- [2]
+						1, -- [3]
+						1504711793.977, -- [4]
+						2591246, -- [5]
+						"斯凯塞克", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						235125, -- [2]
+						217517, -- [3]
+						1504711793.977, -- [4]
+						2591246, -- [5]
+						"[*] 动荡的灵魂", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						234896, -- [2]
+						127760, -- [3]
+						1504711795.122, -- [4]
+						2373729, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						2, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						true, -- [1]
+						235138, -- [2]
+						629420, -- [3]
+						1504711795.537, -- [4]
+						2245969, -- [5]
+						"伽罗", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [41]
+					{
+						false, -- [1]
+						77489, -- [2]
+						55247, -- [3]
+						1504711795.681, -- [4]
+						1616549, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						true, -- [1]
+						235253, -- [2]
+						115388, -- [3]
+						1504711795.917, -- [4]
+						1671796, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						true, -- [1]
+						235125, -- [2]
+						217517, -- [3]
+						1504711796.006, -- [4]
+						1671796, -- [5]
+						"[*] 动荡的灵魂", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [44]
+					{
+						true, -- [1]
+						236432, -- [2]
+						138676, -- [3]
+						1504711796.173, -- [4]
+						1338891, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [45]
+					{
+						true, -- [1]
+						3, -- [2]
+						2368456, -- [3]
+						1504711796.196, -- [4]
+						1338891, -- [5]
+						"环境伤害 (高处坠落)", -- [6]
+						nil, -- [7]
+						3, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [46]
+					{
+						3, -- [1]
+						22812, -- [2]
+						1, -- [3]
+						1504711793.977, -- [4]
+						0, -- [5]
+						"斯凯塞克", -- [6]
+					}, -- [47]
+				},
+			}, -- [1]
+			{
+				["maxhealth"] = 3755400,
+				["timeofdeath"] = 134.559000000008,
+				["name"] = "Willam",
+				["time"] = 1504711868.317,
+				["class"] = "HUNTER",
+				["timestring"] = "2m 14s",
+				["events"] = {
+					{
+						false, -- [1]
+						77489, -- [2]
+						332532, -- [3]
+						1504711844.96, -- [4]
+						3603220, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						143924, -- [2]
+						8949, -- [3]
+						1504711845.201, -- [4]
+						3755400, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						false, -- [1]
+						197205, -- [2]
+						184343, -- [3]
+						1504711845.869, -- [4]
+						3755400, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						197205, -- [2]
+						57607, -- [3]
+						1504711845.869, -- [4]
+						3755400, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1194, -- [3]
+						1504711846.468, -- [4]
+						3755400, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						235253, -- [2]
+						156324, -- [3]
+						1504711846.932, -- [4]
+						3755400, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1237, -- [3]
+						1504711848.413, -- [4]
+						3603246, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7466, -- [3]
+						1504711849.647, -- [4]
+						3604483, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						197205, -- [2]
+						83525, -- [3]
+						1504711849.841, -- [4]
+						3611949, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						197205, -- [2]
+						26101, -- [3]
+						1504711849.841, -- [4]
+						3611949, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						235253, -- [2]
+						156325, -- [3]
+						1504711849.841, -- [4]
+						3611949, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1329, -- [3]
+						1504711850.903, -- [4]
+						3569464, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						243241, -- [2]
+						172710, -- [3]
+						1504711851.884, -- [4]
+						3570793, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7655, -- [3]
+						1504711852.069, -- [4]
+						3743503, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						197205, -- [2]
+						170273, -- [3]
+						1504711852.493, -- [4]
+						3755320, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						197205, -- [2]
+						26606, -- [3]
+						1504711852.493, -- [4]
+						3755320, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						235253, -- [2]
+						156324, -- [3]
+						1504711852.9, -- [4]
+						3755400, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2465, -- [3]
+						1504711853.687, -- [4]
+						3599076, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						143924, -- [2]
+						8065, -- [3]
+						1504711854.917, -- [4]
+						3605752, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						77489, -- [2]
+						27957, -- [3]
+						1504711854.917, -- [4]
+						3605752, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						197205, -- [2]
+						86748, -- [3]
+						1504711855.108, -- [4]
+						3641774, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						197205, -- [2]
+						27109, -- [3]
+						1504711855.108, -- [4]
+						3641774, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						true, -- [1]
+						235253, -- [2]
+						156324, -- [3]
+						1504711855.899, -- [4]
+						3755400, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						143924, -- [2]
+						735, -- [3]
+						1504711856.15, -- [4]
+						3599076, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [24]
+					{
+						false, -- [1]
+						77489, -- [2]
+						27958, -- [3]
+						1504711857.932, -- [4]
+						3604008, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [25]
+					{
+						false, -- [1]
+						143924, -- [2]
+						4836, -- [3]
+						1504711858.275, -- [4]
+						3631966, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						235253, -- [2]
+						156324, -- [3]
+						1504711858.882, -- [4]
+						3640975, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						143924, -- [2]
+						828, -- [3]
+						1504711859.522, -- [4]
+						3484651, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						143924, -- [2]
+						4688, -- [3]
+						1504711861.136, -- [4]
+						3489647, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						235253, -- [2]
+						156324, -- [3]
+						1504711861.869, -- [4]
+						3494335, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						197205, -- [2]
+						107428, -- [3]
+						1504711861.936, -- [4]
+						3338011, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						false, -- [1]
+						197205, -- [2]
+						16786, -- [3]
+						1504711861.936, -- [4]
+						3338011, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7466, -- [3]
+						1504711862.207, -- [4]
+						3462225, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						false, -- [1]
+						143924, -- [2]
+						5954, -- [3]
+						1504711863.404, -- [4]
+						3473867, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [34]
+					{
+						false, -- [1]
+						143924, -- [2]
+						11169, -- [3]
+						1504711864.66, -- [4]
+						3484010, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [35]
+					{
+						true, -- [1]
+						235253, -- [2]
+						156324, -- [3]
+						1504711864.897, -- [4]
+						3484010, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [36]
+					{
+						false, -- [1]
+						143924, -- [2]
+						5954, -- [3]
+						1504711865.841, -- [4]
+						3338855, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [37]
+					{
+						false, -- [1]
+						143924, -- [2]
+						5238, -- [3]
+						1504711867.08, -- [4]
+						3348983, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [38]
+					{
+						true, -- [1]
+						235138, -- [2]
+						810777, -- [3]
+						1504711867.814, -- [4]
+						3354221, -- [5]
+						"青桔柠檬", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [39]
+					{
+						true, -- [1]
+						235138, -- [2]
+						910333, -- [3]
+						1504711867.814, -- [4]
+						3354221, -- [5]
+						"愤怒的小咕咕-太阳之井", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [40]
+					{
+						false, -- [1]
+						33110, -- [2]
+						224540, -- [3]
+						1504711867.868, -- [4]
+						1633111, -- [5]
+						"Jibayang", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [41]
+					{
+						true, -- [1]
+						235253, -- [2]
+						156325, -- [3]
+						1504711867.908, -- [4]
+						1857651, -- [5]
+						"[*] 邪能灌注", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [42]
+					{
+						false, -- [1]
+						90361, -- [2]
+						63876, -- [3]
+						1504711868.29, -- [4]
+						1701326, -- [5]
+						"阿克图瑞斯 <Willam>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [43]
+					{
+						false, -- [1]
+						143924, -- [2]
+						5956, -- [3]
+						1504711868.29, -- [4]
+						1701326, -- [5]
+						"Willam", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [44]
+					{
+						true, -- [1]
+						235573, -- [2]
+						1867635, -- [3]
+						1504711868.317, -- [4]
+						1701326, -- [5]
+						"戒卫侍女", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						96477, -- [10]
+					}, -- [45]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Willam", -- [6]
+					}, -- [46]
+				},
+			}, -- [2]
+		},
+		["bossname"] = "戒卫侍女",
+		["bossicon"] = {
+			0.5, -- [1]
+			0.75, -- [2]
+			0.25, -- [3]
+			0.5, -- [4]
+			"Interface\\AddOns\\Details_RaidInfo-TombOfSargeras\\boss_faces", -- [5]
+		},
+		["date"] = 295701.666,
+		["timeelapsed"] = 208.927000000025,
+	}, -- [7]
+}
+DeathGraphsDBGraph = {
+	["189615"] = {
+		["deaths"] = {
+			[166] = {
+				1505484295, -- [1]
+			},
+			[267] = {
+				1505484295, -- [1]
+			},
+		},
+		["spells"] = {
+			["折磨哀嚎"] = {
+				{
+					122, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					126, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					132, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					138, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					144, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					150, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+				{
+					156, -- [1]
+					1505484295, -- [2]
+				}, -- [7]
+				{
+					162, -- [1]
+					1505484295, -- [2]
+				}, -- [8]
+				{
+					168, -- [1]
+					1505484295, -- [2]
+				}, -- [9]
+				{
+					174, -- [1]
+					1505484295, -- [2]
+				}, -- [10]
+				{
+					180, -- [1]
+					1505484295, -- [2]
+				}, -- [11]
+			},
+			["骨牢护甲"] = {
+				{
+					13, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					16, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					18, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					89, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					91, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					101, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+			},
+			["裂地猛击"] = {
+				{
+					12, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					48, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					71, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					77, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					94, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					100, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+				{
+					123, -- [1]
+					1505484295, -- [2]
+				}, -- [7]
+				{
+					146, -- [1]
+					1505484295, -- [2]
+				}, -- [8]
+				{
+					170, -- [1]
+					1505484295, -- [2]
+				}, -- [9]
+			},
+			["末日分裂"] = {
+				{
+					227, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					253, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					278, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					304, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+			},
+			["哀嚎之魂"] = {
+				{
+					62, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+			},
+			["攫取之暗"] = {
+				{
+					6, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					11, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					15, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					18, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					20, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					22, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+				{
+					23, -- [1]
+					1505484295, -- [2]
+				}, -- [7]
+				{
+					26, -- [1]
+					1505484295, -- [2]
+				}, -- [8]
+				{
+					27, -- [1]
+					1505484295, -- [2]
+				}, -- [9]
+				{
+					29, -- [1]
+					1505484295, -- [2]
+				}, -- [10]
+				{
+					31, -- [1]
+					1505484295, -- [2]
+				}, -- [11]
+				{
+					33, -- [1]
+					1505484295, -- [2]
+				}, -- [12]
+				{
+					34, -- [1]
+					1505484295, -- [2]
+				}, -- [13]
+				{
+					37, -- [1]
+					1505484295, -- [2]
+				}, -- [14]
+				{
+					38, -- [1]
+					1505484295, -- [2]
+				}, -- [15]
+				{
+					40, -- [1]
+					1505484295, -- [2]
+				}, -- [16]
+				{
+					42, -- [1]
+					1505484295, -- [2]
+				}, -- [17]
+				{
+					50, -- [1]
+					1505484295, -- [2]
+				}, -- [18]
+				{
+					54, -- [1]
+					1505484295, -- [2]
+				}, -- [19]
+				{
+					55, -- [1]
+					1505484295, -- [2]
+				}, -- [20]
+				{
+					57, -- [1]
+					1505484295, -- [2]
+				}, -- [21]
+				{
+					59, -- [1]
+					1505484295, -- [2]
+				}, -- [22]
+				{
+					61, -- [1]
+					1505484295, -- [2]
+				}, -- [23]
+				{
+					62, -- [1]
+					1505484295, -- [2]
+				}, -- [24]
+				{
+					65, -- [1]
+					1505484295, -- [2]
+				}, -- [25]
+				{
+					66, -- [1]
+					1505484295, -- [2]
+				}, -- [26]
+				{
+					68, -- [1]
+					1505484295, -- [2]
+				}, -- [27]
+				{
+					70, -- [1]
+					1505484295, -- [2]
+				}, -- [28]
+				{
+					72, -- [1]
+					1505484295, -- [2]
+				}, -- [29]
+				{
+					74, -- [1]
+					1505484295, -- [2]
+				}, -- [30]
+				{
+					75, -- [1]
+					1505484295, -- [2]
+				}, -- [31]
+				{
+					77, -- [1]
+					1505484295, -- [2]
+				}, -- [32]
+				{
+					79, -- [1]
+					1505484295, -- [2]
+				}, -- [33]
+				{
+					80, -- [1]
+					1505484295, -- [2]
+				}, -- [34]
+				{
+					83, -- [1]
+					1505484295, -- [2]
+				}, -- [35]
+				{
+					84, -- [1]
+					1505484295, -- [2]
+				}, -- [36]
+				{
+					87, -- [1]
+					1505484295, -- [2]
+				}, -- [37]
+				{
+					88, -- [1]
+					1505484295, -- [2]
+				}, -- [38]
+				{
+					90, -- [1]
+					1505484295, -- [2]
+				}, -- [39]
+				{
+					91, -- [1]
+					1505484295, -- [2]
+				}, -- [40]
+				{
+					94, -- [1]
+					1505484295, -- [2]
+				}, -- [41]
+				{
+					95, -- [1]
+					1505484295, -- [2]
+				}, -- [42]
+				{
+					98, -- [1]
+					1505484295, -- [2]
+				}, -- [43]
+				{
+					99, -- [1]
+					1505484295, -- [2]
+				}, -- [44]
+				{
+					101, -- [1]
+					1505484295, -- [2]
+				}, -- [45]
+				{
+					108, -- [1]
+					1505484295, -- [2]
+				}, -- [46]
+				{
+					117, -- [1]
+					1505484295, -- [2]
+				}, -- [47]
+				{
+					121, -- [1]
+					1505484295, -- [2]
+				}, -- [48]
+				{
+					124, -- [1]
+					1505484295, -- [2]
+				}, -- [49]
+				{
+					128, -- [1]
+					1505484295, -- [2]
+				}, -- [50]
+				{
+					131, -- [1]
+					1505484295, -- [2]
+				}, -- [51]
+				{
+					132, -- [1]
+					1505484295, -- [2]
+				}, -- [52]
+				{
+					136, -- [1]
+					1505484295, -- [2]
+				}, -- [53]
+				{
+					140, -- [1]
+					1505484295, -- [2]
+				}, -- [54]
+				{
+					143, -- [1]
+					1505484295, -- [2]
+				}, -- [55]
+				{
+					144, -- [1]
+					1505484295, -- [2]
+				}, -- [56]
+				{
+					147, -- [1]
+					1505484295, -- [2]
+				}, -- [57]
+				{
+					151, -- [1]
+					1505484295, -- [2]
+				}, -- [58]
+				{
+					154, -- [1]
+					1505484295, -- [2]
+				}, -- [59]
+				{
+					155, -- [1]
+					1505484295, -- [2]
+				}, -- [60]
+				{
+					158, -- [1]
+					1505484295, -- [2]
+				}, -- [61]
+				{
+					162, -- [1]
+					1505484295, -- [2]
+				}, -- [62]
+				{
+					165, -- [1]
+					1505484295, -- [2]
+				}, -- [63]
+				{
+					166, -- [1]
+					1505484295, -- [2]
+				}, -- [64]
+				{
+					169, -- [1]
+					1505484295, -- [2]
+				}, -- [65]
+			},
+			["折磨"] = {
+				{
+					229, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					254, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					279, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					305, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+			},
+			["粉碎意志"] = {
+				{
+					4, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					6, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					9, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					11, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					18, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					21, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+				{
+					26, -- [1]
+					1505484295, -- [2]
+				}, -- [7]
+				{
+					28, -- [1]
+					1505484295, -- [2]
+				}, -- [8]
+				{
+					31, -- [1]
+					1505484295, -- [2]
+				}, -- [9]
+				{
+					35, -- [1]
+					1505484295, -- [2]
+				}, -- [10]
+				{
+					43, -- [1]
+					1505484295, -- [2]
+				}, -- [11]
+				{
+					45, -- [1]
+					1505484295, -- [2]
+				}, -- [12]
+				{
+					48, -- [1]
+					1505484295, -- [2]
+				}, -- [13]
+				{
+					50, -- [1]
+					1505484295, -- [2]
+				}, -- [14]
+				{
+					52, -- [1]
+					1505484295, -- [2]
+				}, -- [15]
+				{
+					55, -- [1]
+					1505484295, -- [2]
+				}, -- [16]
+				{
+					57, -- [1]
+					1505484295, -- [2]
+				}, -- [17]
+				{
+					60, -- [1]
+					1505484295, -- [2]
+				}, -- [18]
+				{
+					124, -- [1]
+					1505484295, -- [2]
+				}, -- [19]
+				{
+					127, -- [1]
+					1505484295, -- [2]
+				}, -- [20]
+				{
+					129, -- [1]
+					1505484295, -- [2]
+				}, -- [21]
+				{
+					132, -- [1]
+					1505484295, -- [2]
+				}, -- [22]
+				{
+					139, -- [1]
+					1505484295, -- [2]
+				}, -- [23]
+				{
+					141, -- [1]
+					1505484295, -- [2]
+				}, -- [24]
+				{
+					146, -- [1]
+					1505484295, -- [2]
+				}, -- [25]
+				{
+					149, -- [1]
+					1505484295, -- [2]
+				}, -- [26]
+				{
+					151, -- [1]
+					1505484295, -- [2]
+				}, -- [27]
+				{
+					156, -- [1]
+					1505484295, -- [2]
+				}, -- [28]
+				{
+					163, -- [1]
+					1505484295, -- [2]
+				}, -- [29]
+				{
+					166, -- [1]
+					1505484295, -- [2]
+				}, -- [30]
+				{
+					168, -- [1]
+					1505484295, -- [2]
+				}, -- [31]
+				{
+					170, -- [1]
+					1505484295, -- [2]
+				}, -- [32]
+				{
+					173, -- [1]
+					1505484295, -- [2]
+				}, -- [33]
+				{
+					175, -- [1]
+					1505484295, -- [2]
+				}, -- [34]
+				{
+					178, -- [1]
+					1505484295, -- [2]
+				}, -- [35]
+				{
+					188, -- [1]
+					1505484295, -- [2]
+				}, -- [36]
+				{
+					190, -- [1]
+					1505484295, -- [2]
+				}, -- [37]
+				{
+					192, -- [1]
+					1505484295, -- [2]
+				}, -- [38]
+				{
+					195, -- [1]
+					1505484295, -- [2]
+				}, -- [39]
+				{
+					197, -- [1]
+					1505484295, -- [2]
+				}, -- [40]
+				{
+					204, -- [1]
+					1505484295, -- [2]
+				}, -- [41]
+				{
+					208, -- [1]
+					1505484295, -- [2]
+				}, -- [42]
+				{
+					213, -- [1]
+					1505484295, -- [2]
+				}, -- [43]
+				{
+					216, -- [1]
+					1505484295, -- [2]
+				}, -- [44]
+				{
+					218, -- [1]
+					1505484295, -- [2]
+				}, -- [45]
+				{
+					224, -- [1]
+					1505484295, -- [2]
+				}, -- [46]
+				{
+					227, -- [1]
+					1505484295, -- [2]
+				}, -- [47]
+				{
+					229, -- [1]
+					1505484295, -- [2]
+				}, -- [48]
+				{
+					232, -- [1]
+					1505484295, -- [2]
+				}, -- [49]
+				{
+					234, -- [1]
+					1505484295, -- [2]
+				}, -- [50]
+				{
+					236, -- [1]
+					1505484295, -- [2]
+				}, -- [51]
+				{
+					246, -- [1]
+					1505484295, -- [2]
+				}, -- [52]
+				{
+					248, -- [1]
+					1505484295, -- [2]
+				}, -- [53]
+				{
+					251, -- [1]
+					1505484295, -- [2]
+				}, -- [54]
+			},
+			["破碎尖叫"] = {
+				{
+					5, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					20, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					30, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					33, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					42, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					45, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+				{
+					50, -- [1]
+					1505484295, -- [2]
+				}, -- [7]
+				{
+					127, -- [1]
+					1505484295, -- [2]
+				}, -- [8]
+				{
+					136, -- [1]
+					1505484295, -- [2]
+				}, -- [9]
+				{
+					137, -- [1]
+					1505484295, -- [2]
+				}, -- [10]
+				{
+					148, -- [1]
+					1505484295, -- [2]
+				}, -- [11]
+				{
+					149, -- [1]
+					1505484295, -- [2]
+				}, -- [12]
+				{
+					152, -- [1]
+					1505484295, -- [2]
+				}, -- [13]
+				{
+					161, -- [1]
+					1505484295, -- [2]
+				}, -- [14]
+				{
+					168, -- [1]
+					1505484295, -- [2]
+				}, -- [15]
+				{
+					169, -- [1]
+					1505484295, -- [2]
+				}, -- [16]
+				{
+					180, -- [1]
+					1505484295, -- [2]
+				}, -- [17]
+				{
+					181, -- [1]
+					1505484295, -- [2]
+				}, -- [18]
+				{
+					185, -- [1]
+					1505484295, -- [2]
+				}, -- [19]
+				{
+					194, -- [1]
+					1505484295, -- [2]
+				}, -- [20]
+				{
+					197, -- [1]
+					1505484295, -- [2]
+				}, -- [21]
+			},
+			["灵魂束缚"] = {
+				{
+					16, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					40, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					136, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					160, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					185, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					202, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+				{
+					222, -- [1]
+					1505484295, -- [2]
+				}, -- [7]
+				{
+					244, -- [1]
+					1505484295, -- [2]
+				}, -- [8]
+			},
+			["灵魂锁链"] = {
+				{
+					15, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					28, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					31, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					40, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					43, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					134, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+				{
+					135, -- [1]
+					1505484295, -- [2]
+				}, -- [7]
+				{
+					146, -- [1]
+					1505484295, -- [2]
+				}, -- [8]
+				{
+					147, -- [1]
+					1505484295, -- [2]
+				}, -- [9]
+				{
+					160, -- [1]
+					1505484295, -- [2]
+				}, -- [10]
+				{
+					178, -- [1]
+					1505484295, -- [2]
+				}, -- [11]
+				{
+					179, -- [1]
+					1505484295, -- [2]
+				}, -- [12]
+				{
+					192, -- [1]
+					1505484295, -- [2]
+				}, -- [13]
+				{
+					195, -- [1]
+					1505484295, -- [2]
+				}, -- [14]
+			},
+			["白骨碎片"] = {
+				{
+					3, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					6, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					9, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					12, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					14, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					17, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+				{
+					19, -- [1]
+					1505484295, -- [2]
+				}, -- [7]
+				{
+					23, -- [1]
+					1505484295, -- [2]
+				}, -- [8]
+				{
+					25, -- [1]
+					1505484295, -- [2]
+				}, -- [9]
+				{
+					28, -- [1]
+					1505484295, -- [2]
+				}, -- [10]
+				{
+					30, -- [1]
+					1505484295, -- [2]
+				}, -- [11]
+				{
+					33, -- [1]
+					1505484295, -- [2]
+				}, -- [12]
+				{
+					35, -- [1]
+					1505484295, -- [2]
+				}, -- [13]
+				{
+					37, -- [1]
+					1505484295, -- [2]
+				}, -- [14]
+				{
+					41, -- [1]
+					1505484295, -- [2]
+				}, -- [15]
+				{
+					45, -- [1]
+					1505484295, -- [2]
+				}, -- [16]
+				{
+					47, -- [1]
+					1505484295, -- [2]
+				}, -- [17]
+				{
+					50, -- [1]
+					1505484295, -- [2]
+				}, -- [18]
+				{
+					52, -- [1]
+					1505484295, -- [2]
+				}, -- [19]
+				{
+					54, -- [1]
+					1505484295, -- [2]
+				}, -- [20]
+				{
+					57, -- [1]
+					1505484295, -- [2]
+				}, -- [21]
+				{
+					59, -- [1]
+					1505484295, -- [2]
+				}, -- [22]
+				{
+					62, -- [1]
+					1505484295, -- [2]
+				}, -- [23]
+				{
+					65, -- [1]
+					1505484295, -- [2]
+				}, -- [24]
+				{
+					68, -- [1]
+					1505484295, -- [2]
+				}, -- [25]
+				{
+					71, -- [1]
+					1505484295, -- [2]
+				}, -- [26]
+				{
+					74, -- [1]
+					1505484295, -- [2]
+				}, -- [27]
+				{
+					76, -- [1]
+					1505484295, -- [2]
+				}, -- [28]
+				{
+					79, -- [1]
+					1505484295, -- [2]
+				}, -- [29]
+				{
+					81, -- [1]
+					1505484295, -- [2]
+				}, -- [30]
+				{
+					84, -- [1]
+					1505484295, -- [2]
+				}, -- [31]
+				{
+					87, -- [1]
+					1505484295, -- [2]
+				}, -- [32]
+				{
+					90, -- [1]
+					1505484295, -- [2]
+				}, -- [33]
+				{
+					92, -- [1]
+					1505484295, -- [2]
+				}, -- [34]
+				{
+					94, -- [1]
+					1505484295, -- [2]
+				}, -- [35]
+				{
+					96, -- [1]
+					1505484295, -- [2]
+				}, -- [36]
+				{
+					99, -- [1]
+					1505484295, -- [2]
+				}, -- [37]
+				{
+					102, -- [1]
+					1505484295, -- [2]
+				}, -- [38]
+				{
+					104, -- [1]
+					1505484295, -- [2]
+				}, -- [39]
+				{
+					108, -- [1]
+					1505484295, -- [2]
+				}, -- [40]
+				{
+					110, -- [1]
+					1505484295, -- [2]
+				}, -- [41]
+				{
+					113, -- [1]
+					1505484295, -- [2]
+				}, -- [42]
+				{
+					115, -- [1]
+					1505484295, -- [2]
+				}, -- [43]
+				{
+					118, -- [1]
+					1505484295, -- [2]
+				}, -- [44]
+				{
+					182, -- [1]
+					1505484295, -- [2]
+				}, -- [45]
+				{
+					185, -- [1]
+					1505484295, -- [2]
+				}, -- [46]
+				{
+					187, -- [1]
+					1505484295, -- [2]
+				}, -- [47]
+				{
+					189, -- [1]
+					1505484295, -- [2]
+				}, -- [48]
+				{
+					192, -- [1]
+					1505484295, -- [2]
+				}, -- [49]
+				{
+					194, -- [1]
+					1505484295, -- [2]
+				}, -- [50]
+				{
+					198, -- [1]
+					1505484295, -- [2]
+				}, -- [51]
+				{
+					202, -- [1]
+					1505484295, -- [2]
+				}, -- [52]
+				{
+					203, -- [1]
+					1505484295, -- [2]
+				}, -- [53]
+				{
+					205, -- [1]
+					1505484295, -- [2]
+				}, -- [54]
+				{
+					208, -- [1]
+					1505484295, -- [2]
+				}, -- [55]
+				{
+					210, -- [1]
+					1505484295, -- [2]
+				}, -- [56]
+				{
+					214, -- [1]
+					1505484295, -- [2]
+				}, -- [57]
+				{
+					216, -- [1]
+					1505484295, -- [2]
+				}, -- [58]
+				{
+					219, -- [1]
+					1505484295, -- [2]
+				}, -- [59]
+				{
+					222, -- [1]
+					1505484295, -- [2]
+				}, -- [60]
+				{
+					224, -- [1]
+					1505484295, -- [2]
+				}, -- [61]
+				{
+					226, -- [1]
+					1505484295, -- [2]
+				}, -- [62]
+				{
+					230, -- [1]
+					1505484295, -- [2]
+				}, -- [63]
+				{
+					232, -- [1]
+					1505484295, -- [2]
+				}, -- [64]
+				{
+					235, -- [1]
+					1505484295, -- [2]
+				}, -- [65]
+				{
+					237, -- [1]
+					1505484295, -- [2]
+				}, -- [66]
+				{
+					239, -- [1]
+					1505484295, -- [2]
+				}, -- [67]
+				{
+					241, -- [1]
+					1505484295, -- [2]
+				}, -- [68]
+				{
+					245, -- [1]
+					1505484295, -- [2]
+				}, -- [69]
+				{
+					247, -- [1]
+					1505484295, -- [2]
+				}, -- [70]
+				{
+					249, -- [1]
+					1505484295, -- [2]
+				}, -- [71]
+			},
+			["分裂末日"] = {
+				{
+					216, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					242, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					267, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					293, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+			},
+			["枯萎"] = {
+				{
+					23, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					33, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					143, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					153, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					180, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					205, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+				{
+					210, -- [1]
+					1505484295, -- [2]
+				}, -- [7]
+				{
+					238, -- [1]
+					1505484295, -- [2]
+				}, -- [8]
+			},
+			["灵魂爆发"] = {
+				{
+					8, -- [1]
+					1505484295, -- [2]
+				}, -- [1]
+				{
+					10, -- [1]
+					1505484295, -- [2]
+				}, -- [2]
+				{
+					137, -- [1]
+					1505484295, -- [2]
+				}, -- [3]
+				{
+					139, -- [1]
+					1505484295, -- [2]
+				}, -- [4]
+				{
+					154, -- [1]
+					1505484295, -- [2]
+				}, -- [5]
+				{
+					157, -- [1]
+					1505484295, -- [2]
+				}, -- [6]
+			},
+		},
+		["ids"] = {
+			["折磨哀嚎"] = 235989,
+			["骨牢护甲"] = 236513,
+			["裂地猛击"] = 235927,
+			["末日分裂"] = 236544,
+			["哀嚎之魂"] = 236072,
+			["攫取之暗"] = 235968,
+			["折磨"] = 236548,
+			["粉碎意志"] = 241566,
+			["破碎尖叫"] = 235969,
+			["灵魂束缚"] = 236449,
+			["灵魂锁链"] = 236361,
+			["白骨碎片"] = 236142,
+			["分裂末日"] = 236542,
+			["枯萎"] = 236131,
+			["灵魂爆发"] = 236158,
+		},
+	},
+	["189714"] = {
+		["deaths"] = {
+			[44] = {
+				1504711625, -- [1]
+				1504711625, -- [2]
+			},
+			[45] = {
+				1504711625, -- [1]
+				1504711625, -- [2]
+			},
+			[62] = {
+				1504711942, -- [1]
+			},
+			[16] = {
+				1504711625, -- [1]
+			},
+			[134] = {
+				1504711942, -- [1]
+			},
+		},
+		["spells"] = {
+			["精华碎片"] = {
+				{
+					43, -- [1]
+					1504711625, -- [2]
+				}, -- [1]
+				{
+					43, -- [1]
+					1504711942, -- [2]
+				}, -- [2]
+				{
+					148, -- [1]
+					1504711942, -- [2]
+				}, -- [3]
+			},
+			["湮灭之锤"] = {
+				{
+					34, -- [1]
+					1504711625, -- [2]
+				}, -- [1]
+				{
+					34, -- [1]
+					1504711942, -- [2]
+				}, -- [2]
+				{
+					98, -- [1]
+					1504711942, -- [2]
+				}, -- [3]
+				{
+					134, -- [1]
+					1504711942, -- [2]
+				}, -- [4]
+			},
+			["群体动荡"] = {
+				{
+					24, -- [1]
+					1504711625, -- [2]
+				}, -- [1]
+				{
+					24, -- [1]
+					1504711942, -- [2]
+				}, -- [2]
+				{
+					88, -- [1]
+					1504711942, -- [2]
+				}, -- [3]
+				{
+					124, -- [1]
+					1504711942, -- [2]
+				}, -- [4]
+			},
+			["灌注"] = {
+				{
+					4, -- [1]
+					1504711625, -- [2]
+				}, -- [1]
+				{
+					5, -- [1]
+					1504711942, -- [2]
+				}, -- [2]
+				{
+					69, -- [1]
+					1504711942, -- [2]
+				}, -- [3]
+				{
+					107, -- [1]
+					1504711942, -- [2]
+				}, -- [4]
+				{
+					197, -- [1]
+					1504711942, -- [2]
+				}, -- [5]
+			},
+			["泰坦之壁"] = {
+				{
+					43, -- [1]
+					1504711625, -- [2]
+				}, -- [1]
+				{
+					43, -- [1]
+					1504711942, -- [2]
+				}, -- [2]
+				{
+					147, -- [1]
+					1504711942, -- [2]
+				}, -- [3]
+			},
+			["动荡的灵魂"] = {
+				{
+					11, -- [1]
+					1504711625, -- [2]
+				}, -- [1]
+				{
+					18, -- [1]
+					1504711625, -- [2]
+				}, -- [2]
+				{
+					26, -- [1]
+					1504711625, -- [2]
+				}, -- [3]
+				{
+					32, -- [1]
+					1504711625, -- [2]
+				}, -- [4]
+				{
+					33, -- [1]
+					1504711625, -- [2]
+				}, -- [5]
+				{
+					35, -- [1]
+					1504711625, -- [2]
+				}, -- [6]
+				{
+					36, -- [1]
+					1504711625, -- [2]
+				}, -- [7]
+				{
+					26, -- [1]
+					1504711942, -- [2]
+				}, -- [8]
+				{
+					90, -- [1]
+					1504711942, -- [2]
+				}, -- [9]
+				{
+					126, -- [1]
+					1504711942, -- [2]
+				}, -- [10]
+			},
+			["造物之锤"] = {
+				{
+					16, -- [1]
+					1504711625, -- [2]
+				}, -- [1]
+				{
+					16, -- [1]
+					1504711942, -- [2]
+				}, -- [2]
+				{
+					80, -- [1]
+					1504711942, -- [2]
+				}, -- [3]
+				{
+					116, -- [1]
+					1504711942, -- [2]
+				}, -- [4]
+			},
+			["反冲"] = {
+				{
+					42, -- [1]
+					1504711625, -- [2]
+				}, -- [1]
+				{
+					42, -- [1]
+					1504711942, -- [2]
+				}, -- [2]
+				{
+					147, -- [1]
+					1504711942, -- [2]
+				}, -- [3]
+			},
+			["造物者之怒"] = {
+				{
+					43, -- [1]
+					1504711625, -- [2]
+				}, -- [1]
+				{
+					43, -- [1]
+					1504711942, -- [2]
+				}, -- [2]
+				{
+					148, -- [1]
+					1504711942, -- [2]
+				}, -- [3]
+			},
+		},
+		["ids"] = {
+			["精华碎片"] = 236061,
+			["湮灭之锤"] = 241636,
+			["群体动荡"] = 235267,
+			["灌注"] = 235271,
+			["泰坦之壁"] = 235028,
+			["动荡的灵魂"] = 235117,
+			["造物之锤"] = 241635,
+			["反冲"] = 248812,
+			["造物者之怒"] = 234891,
+		},
+	},
+	["189814"] = {
+		["deaths"] = {
+			[353] = {
+				1504713429, -- [1]
+			},
+			[346] = {
+				1504713429, -- [1]
+			},
+			[259] = {
+				1504713429, -- [1]
+			},
+			[355] = {
+				1504713429, -- [1]
+			},
+		},
+		["spells"] = {
+			["不稳定的暗影之魂"] = {
+				{
+					234, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					242, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+				{
+					250, -- [1]
+					1504713429, -- [2]
+				}, -- [3]
+				{
+					251, -- [1]
+					1504713429, -- [2]
+				}, -- [4]
+				{
+					259, -- [1]
+					1504713429, -- [2]
+				}, -- [5]
+				{
+					268, -- [1]
+					1504713429, -- [2]
+				}, -- [6]
+			},
+			["千魂之暗"] = {
+				{
+					281, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					372, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+			},
+			["聚焦恐惧烈焰"] = {
+				{
+					86, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					98, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+				{
+					197, -- [1]
+					1504713429, -- [2]
+				}, -- [3]
+				{
+					355, -- [1]
+					1504713429, -- [2]
+				}, -- [4]
+			},
+			["虚空强风"] = {
+				{
+					56, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+			},
+			["撕裂裂隙"] = {
+				{
+					285, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					289, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+				{
+					380, -- [1]
+					1504713429, -- [2]
+				}, -- [3]
+				{
+					384, -- [1]
+					1504713429, -- [2]
+				}, -- [4]
+			},
+			["恶魔方尖碑"] = {
+				{
+					304, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					340, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+			},
+			["邪爪"] = {
+				{
+					26, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					28, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+				{
+					28, -- [1]
+					1504713429, -- [2]
+				}, -- [3]
+				{
+					30, -- [1]
+					1504713429, -- [2]
+				}, -- [4]
+				{
+					30, -- [1]
+					1504713429, -- [2]
+				}, -- [5]
+				{
+					32, -- [1]
+					1504713429, -- [2]
+				}, -- [6]
+				{
+					32, -- [1]
+					1504713429, -- [2]
+				}, -- [7]
+				{
+					34, -- [1]
+					1504713429, -- [2]
+				}, -- [8]
+				{
+					34, -- [1]
+					1504713429, -- [2]
+				}, -- [9]
+				{
+					36, -- [1]
+					1504713429, -- [2]
+				}, -- [10]
+				{
+					36, -- [1]
+					1504713429, -- [2]
+				}, -- [11]
+				{
+					50, -- [1]
+					1504713429, -- [2]
+				}, -- [12]
+				{
+					52, -- [1]
+					1504713429, -- [2]
+				}, -- [13]
+				{
+					52, -- [1]
+					1504713429, -- [2]
+				}, -- [14]
+				{
+					54, -- [1]
+					1504713429, -- [2]
+				}, -- [15]
+				{
+					54, -- [1]
+					1504713429, -- [2]
+				}, -- [16]
+				{
+					60, -- [1]
+					1504713429, -- [2]
+				}, -- [17]
+				{
+					60, -- [1]
+					1504713429, -- [2]
+				}, -- [18]
+				{
+					127, -- [1]
+					1504713429, -- [2]
+				}, -- [19]
+				{
+					131, -- [1]
+					1504713429, -- [2]
+				}, -- [20]
+				{
+					131, -- [1]
+					1504713429, -- [2]
+				}, -- [21]
+				{
+					133, -- [1]
+					1504713429, -- [2]
+				}, -- [22]
+				{
+					133, -- [1]
+					1504713429, -- [2]
+				}, -- [23]
+				{
+					135, -- [1]
+					1504713429, -- [2]
+				}, -- [24]
+				{
+					135, -- [1]
+					1504713429, -- [2]
+				}, -- [25]
+				{
+					137, -- [1]
+					1504713429, -- [2]
+				}, -- [26]
+				{
+					137, -- [1]
+					1504713429, -- [2]
+				}, -- [27]
+				{
+					152, -- [1]
+					1504713429, -- [2]
+				}, -- [28]
+				{
+					154, -- [1]
+					1504713429, -- [2]
+				}, -- [29]
+				{
+					154, -- [1]
+					1504713429, -- [2]
+				}, -- [30]
+				{
+					156, -- [1]
+					1504713429, -- [2]
+				}, -- [31]
+				{
+					156, -- [1]
+					1504713429, -- [2]
+				}, -- [32]
+				{
+					158, -- [1]
+					1504713429, -- [2]
+				}, -- [33]
+				{
+					158, -- [1]
+					1504713429, -- [2]
+				}, -- [34]
+				{
+					160, -- [1]
+					1504713429, -- [2]
+				}, -- [35]
+				{
+					160, -- [1]
+					1504713429, -- [2]
+				}, -- [36]
+				{
+					162, -- [1]
+					1504713429, -- [2]
+				}, -- [37]
+				{
+					162, -- [1]
+					1504713429, -- [2]
+				}, -- [38]
+				{
+					177, -- [1]
+					1504713429, -- [2]
+				}, -- [39]
+				{
+					179, -- [1]
+					1504713429, -- [2]
+				}, -- [40]
+				{
+					179, -- [1]
+					1504713429, -- [2]
+				}, -- [41]
+				{
+					181, -- [1]
+					1504713429, -- [2]
+				}, -- [42]
+				{
+					181, -- [1]
+					1504713429, -- [2]
+				}, -- [43]
+				{
+					183, -- [1]
+					1504713429, -- [2]
+				}, -- [44]
+				{
+					183, -- [1]
+					1504713429, -- [2]
+				}, -- [45]
+				{
+					185, -- [1]
+					1504713429, -- [2]
+				}, -- [46]
+				{
+					185, -- [1]
+					1504713429, -- [2]
+				}, -- [47]
+				{
+					187, -- [1]
+					1504713429, -- [2]
+				}, -- [48]
+				{
+					187, -- [1]
+					1504713429, -- [2]
+				}, -- [49]
+				{
+					202, -- [1]
+					1504713429, -- [2]
+				}, -- [50]
+				{
+					204, -- [1]
+					1504713429, -- [2]
+				}, -- [51]
+				{
+					204, -- [1]
+					1504713429, -- [2]
+				}, -- [52]
+				{
+					206, -- [1]
+					1504713429, -- [2]
+				}, -- [53]
+				{
+					206, -- [1]
+					1504713429, -- [2]
+				}, -- [54]
+				{
+					208, -- [1]
+					1504713429, -- [2]
+				}, -- [55]
+				{
+					208, -- [1]
+					1504713429, -- [2]
+				}, -- [56]
+				{
+					210, -- [1]
+					1504713429, -- [2]
+				}, -- [57]
+				{
+					210, -- [1]
+					1504713429, -- [2]
+				}, -- [58]
+				{
+					212, -- [1]
+					1504713429, -- [2]
+				}, -- [59]
+				{
+					212, -- [1]
+					1504713429, -- [2]
+				}, -- [60]
+				{
+					282, -- [1]
+					1504713429, -- [2]
+				}, -- [61]
+				{
+					291, -- [1]
+					1504713429, -- [2]
+				}, -- [62]
+				{
+					291, -- [1]
+					1504713429, -- [2]
+				}, -- [63]
+				{
+					306, -- [1]
+					1504713429, -- [2]
+				}, -- [64]
+				{
+					308, -- [1]
+					1504713429, -- [2]
+				}, -- [65]
+				{
+					308, -- [1]
+					1504713429, -- [2]
+				}, -- [66]
+				{
+					310, -- [1]
+					1504713429, -- [2]
+				}, -- [67]
+				{
+					310, -- [1]
+					1504713429, -- [2]
+				}, -- [68]
+				{
+					312, -- [1]
+					1504713429, -- [2]
+				}, -- [69]
+				{
+					312, -- [1]
+					1504713429, -- [2]
+				}, -- [70]
+				{
+					314, -- [1]
+					1504713429, -- [2]
+				}, -- [71]
+				{
+					314, -- [1]
+					1504713429, -- [2]
+				}, -- [72]
+				{
+					316, -- [1]
+					1504713429, -- [2]
+				}, -- [73]
+				{
+					316, -- [1]
+					1504713429, -- [2]
+				}, -- [74]
+				{
+					331, -- [1]
+					1504713429, -- [2]
+				}, -- [75]
+				{
+					333, -- [1]
+					1504713429, -- [2]
+				}, -- [76]
+				{
+					333, -- [1]
+					1504713429, -- [2]
+				}, -- [77]
+				{
+					335, -- [1]
+					1504713429, -- [2]
+				}, -- [78]
+				{
+					335, -- [1]
+					1504713429, -- [2]
+				}, -- [79]
+				{
+					337, -- [1]
+					1504713429, -- [2]
+				}, -- [80]
+				{
+					337, -- [1]
+					1504713429, -- [2]
+				}, -- [81]
+				{
+					339, -- [1]
+					1504713429, -- [2]
+				}, -- [82]
+				{
+					339, -- [1]
+					1504713429, -- [2]
+				}, -- [83]
+				{
+					341, -- [1]
+					1504713429, -- [2]
+				}, -- [84]
+				{
+					341, -- [1]
+					1504713429, -- [2]
+				}, -- [85]
+				{
+					356, -- [1]
+					1504713429, -- [2]
+				}, -- [86]
+				{
+					358, -- [1]
+					1504713429, -- [2]
+				}, -- [87]
+				{
+					358, -- [1]
+					1504713429, -- [2]
+				}, -- [88]
+				{
+					376, -- [1]
+					1504713429, -- [2]
+				}, -- [89]
+				{
+					378, -- [1]
+					1504713429, -- [2]
+				}, -- [90]
+				{
+					378, -- [1]
+					1504713429, -- [2]
+				}, -- [91]
+				{
+					386, -- [1]
+					1504713429, -- [2]
+				}, -- [92]
+				{
+					386, -- [1]
+					1504713429, -- [2]
+				}, -- [93]
+			},
+			["末日决战"] = {
+				{
+					10, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					64, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+				{
+					93, -- [1]
+					1504713429, -- [2]
+				}, -- [3]
+				{
+					167, -- [1]
+					1504713429, -- [2]
+				}, -- [4]
+				{
+					212, -- [1]
+					1504713429, -- [2]
+				}, -- [5]
+			},
+			["暗影映像：爆发"] = {
+				{
+					129, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+			},
+			["爆裂恐惧烈焰"] = {
+				{
+					64, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					64, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+				{
+					110, -- [1]
+					1504713429, -- [2]
+				}, -- [3]
+				{
+					110, -- [1]
+					1504713429, -- [2]
+				}, -- [4]
+				{
+					168, -- [1]
+					1504713429, -- [2]
+				}, -- [5]
+				{
+					168, -- [1]
+					1504713429, -- [2]
+				}, -- [6]
+				{
+					216, -- [1]
+					1504713429, -- [2]
+				}, -- [7]
+				{
+					216, -- [1]
+					1504713429, -- [2]
+				}, -- [8]
+				{
+					312, -- [1]
+					1504713429, -- [2]
+				}, -- [9]
+				{
+					312, -- [1]
+					1504713429, -- [2]
+				}, -- [10]
+				{
+					337, -- [1]
+					1504713429, -- [2]
+				}, -- [11]
+				{
+					337, -- [1]
+					1504713429, -- [2]
+				}, -- [12]
+			},
+			["爆发"] = {
+				{
+					143, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					148, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+			},
+			["爆发恐惧烈焰"] = {
+				{
+					143, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+				{
+					148, -- [1]
+					1504713429, -- [2]
+				}, -- [2]
+			},
+			["欺诈者的遮蔽"] = {
+				{
+					228, -- [1]
+					1504713429, -- [2]
+				}, -- [1]
+			},
+		},
+		["ids"] = {
+			["不稳定的暗影之魂"] = 241702,
+			["千魂之暗"] = 238999,
+			["聚焦恐惧烈焰"] = 238502,
+			["虚空强风"] = 244834,
+			["撕裂裂隙"] = 243982,
+			["恶魔方尖碑"] = 239785,
+			["邪爪"] = 239931,
+			["末日决战"] = 240910,
+			["暗影映像：爆发"] = 236710,
+			["爆裂恐惧烈焰"] = 238429,
+			["爆发"] = 235974,
+			["爆发恐惧烈焰"] = 235120,
+			["欺诈者的遮蔽"] = 241983,
+		},
+	},
+	["190314"] = {
+		["deaths"] = {
+			[54] = {
+				1504710571, -- [1]
+			},
+		},
+		["spells"] = {
+			["暗影射击"] = {
+				{
+					0, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					4, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+				{
+					8, -- [1]
+					1504710571, -- [2]
+				}, -- [3]
+				{
+					12, -- [1]
+					1504710571, -- [2]
+				}, -- [4]
+				{
+					19, -- [1]
+					1504710571, -- [2]
+				}, -- [5]
+				{
+					24, -- [1]
+					1504710571, -- [2]
+				}, -- [6]
+				{
+					27, -- [1]
+					1504710571, -- [2]
+				}, -- [7]
+				{
+					31, -- [1]
+					1504710571, -- [2]
+				}, -- [8]
+				{
+					38, -- [1]
+					1504710571, -- [2]
+				}, -- [9]
+				{
+					42, -- [1]
+					1504710571, -- [2]
+				}, -- [10]
+				{
+					46, -- [1]
+					1504710571, -- [2]
+				}, -- [11]
+				{
+					136, -- [1]
+					1504710571, -- [2]
+				}, -- [12]
+				{
+					141, -- [1]
+					1504710571, -- [2]
+				}, -- [13]
+				{
+					144, -- [1]
+					1504710571, -- [2]
+				}, -- [14]
+				{
+					148, -- [1]
+					1504710571, -- [2]
+				}, -- [15]
+				{
+					151, -- [1]
+					1504710571, -- [2]
+				}, -- [16]
+				{
+					156, -- [1]
+					1504710571, -- [2]
+				}, -- [17]
+				{
+					167, -- [1]
+					1504710571, -- [2]
+				}, -- [18]
+				{
+					171, -- [1]
+					1504710571, -- [2]
+				}, -- [19]
+				{
+					175, -- [1]
+					1504710571, -- [2]
+				}, -- [20]
+				{
+					179, -- [1]
+					1504710571, -- [2]
+				}, -- [21]
+				{
+					183, -- [1]
+					1504710571, -- [2]
+				}, -- [22]
+				{
+					187, -- [1]
+					1504710571, -- [2]
+				}, -- [23]
+				{
+					190, -- [1]
+					1504710571, -- [2]
+				}, -- [24]
+				{
+					198, -- [1]
+					1504710571, -- [2]
+				}, -- [25]
+				{
+					201, -- [1]
+					1504710571, -- [2]
+				}, -- [26]
+				{
+					205, -- [1]
+					1504710571, -- [2]
+				}, -- [27]
+			},
+			["明月打击"] = {
+				{
+					0, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					3, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+				{
+					7, -- [1]
+					1504710571, -- [2]
+				}, -- [3]
+				{
+					10, -- [1]
+					1504710571, -- [2]
+				}, -- [4]
+				{
+					14, -- [1]
+					1504710571, -- [2]
+				}, -- [5]
+				{
+					18, -- [1]
+					1504710571, -- [2]
+				}, -- [6]
+				{
+					21, -- [1]
+					1504710571, -- [2]
+				}, -- [7]
+				{
+					25, -- [1]
+					1504710571, -- [2]
+				}, -- [8]
+				{
+					29, -- [1]
+					1504710571, -- [2]
+				}, -- [9]
+				{
+					36, -- [1]
+					1504710571, -- [2]
+				}, -- [10]
+				{
+					40, -- [1]
+					1504710571, -- [2]
+				}, -- [11]
+				{
+					43, -- [1]
+					1504710571, -- [2]
+				}, -- [12]
+				{
+					47, -- [1]
+					1504710571, -- [2]
+				}, -- [13]
+				{
+					60, -- [1]
+					1504710571, -- [2]
+				}, -- [14]
+				{
+					64, -- [1]
+					1504710571, -- [2]
+				}, -- [15]
+				{
+					68, -- [1]
+					1504710571, -- [2]
+				}, -- [16]
+				{
+					71, -- [1]
+					1504710571, -- [2]
+				}, -- [17]
+				{
+					75, -- [1]
+					1504710571, -- [2]
+				}, -- [18]
+				{
+					79, -- [1]
+					1504710571, -- [2]
+				}, -- [19]
+				{
+					85, -- [1]
+					1504710571, -- [2]
+				}, -- [20]
+				{
+					88, -- [1]
+					1504710571, -- [2]
+				}, -- [21]
+				{
+					93, -- [1]
+					1504710571, -- [2]
+				}, -- [22]
+				{
+					97, -- [1]
+					1504710571, -- [2]
+				}, -- [23]
+				{
+					100, -- [1]
+					1504710571, -- [2]
+				}, -- [24]
+				{
+					114, -- [1]
+					1504710571, -- [2]
+				}, -- [25]
+				{
+					117, -- [1]
+					1504710571, -- [2]
+				}, -- [26]
+				{
+					121, -- [1]
+					1504710571, -- [2]
+				}, -- [27]
+				{
+					125, -- [1]
+					1504710571, -- [2]
+				}, -- [28]
+				{
+					128, -- [1]
+					1504710571, -- [2]
+				}, -- [29]
+				{
+					132, -- [1]
+					1504710571, -- [2]
+				}, -- [30]
+				{
+					136, -- [1]
+					1504710571, -- [2]
+				}, -- [31]
+			},
+			["月光之火"] = {
+				{
+					144, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					156, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+				{
+					175, -- [1]
+					1504710571, -- [2]
+				}, -- [3]
+				{
+					187, -- [1]
+					1504710571, -- [2]
+				}, -- [4]
+				{
+					198, -- [1]
+					1504710571, -- [2]
+				}, -- [5]
+			},
+			["月光战刃"] = {
+				{
+					16, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					32, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+			},
+			["战刃风暴"] = {
+				{
+					160, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					163, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+				{
+					165, -- [1]
+					1504710571, -- [2]
+				}, -- [3]
+				{
+					167, -- [1]
+					1504710571, -- [2]
+				}, -- [4]
+			},
+			["月光信标"] = {
+				{
+					155, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					186, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+			},
+			["月灼"] = {
+				{
+					10, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					34, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+				{
+					59, -- [1]
+					1504710571, -- [2]
+				}, -- [3]
+				{
+					84, -- [1]
+					1504710571, -- [2]
+				}, -- [4]
+				{
+					113, -- [1]
+					1504710571, -- [2]
+				}, -- [5]
+				{
+					124, -- [1]
+					1504710571, -- [2]
+				}, -- [6]
+				{
+					147, -- [1]
+					1504710571, -- [2]
+				}, -- [7]
+				{
+					168, -- [1]
+					1504710571, -- [2]
+				}, -- [8]
+				{
+					177, -- [1]
+					1504710571, -- [2]
+				}, -- [9]
+				{
+					196, -- [1]
+					1504710571, -- [2]
+				}, -- [10]
+			},
+			["暮光战刃"] = {
+				{
+					19, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					22, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+				{
+					37, -- [1]
+					1504710571, -- [2]
+				}, -- [3]
+				{
+					40, -- [1]
+					1504710571, -- [2]
+				}, -- [4]
+				{
+					66, -- [1]
+					1504710571, -- [2]
+				}, -- [5]
+				{
+					69, -- [1]
+					1504710571, -- [2]
+				}, -- [6]
+				{
+					86, -- [1]
+					1504710571, -- [2]
+				}, -- [7]
+				{
+					89, -- [1]
+					1504710571, -- [2]
+				}, -- [8]
+				{
+					111, -- [1]
+					1504710571, -- [2]
+				}, -- [9]
+				{
+					114, -- [1]
+					1504710571, -- [2]
+				}, -- [10]
+				{
+					120, -- [1]
+					1504710571, -- [2]
+				}, -- [11]
+				{
+					123, -- [1]
+					1504710571, -- [2]
+				}, -- [12]
+				{
+					139, -- [1]
+					1504710571, -- [2]
+				}, -- [13]
+				{
+					142, -- [1]
+					1504710571, -- [2]
+				}, -- [14]
+				{
+					166, -- [1]
+					1504710571, -- [2]
+				}, -- [15]
+				{
+					169, -- [1]
+					1504710571, -- [2]
+				}, -- [16]
+				{
+					175, -- [1]
+					1504710571, -- [2]
+				}, -- [17]
+				{
+					178, -- [1]
+					1504710571, -- [2]
+				}, -- [18]
+				{
+					195, -- [1]
+					1504710571, -- [2]
+				}, -- [19]
+				{
+					198, -- [1]
+					1504710571, -- [2]
+				}, -- [20]
+			},
+			["急速射击"] = {
+				{
+					74, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					92, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+				{
+					111, -- [1]
+					1504710571, -- [2]
+				}, -- [3]
+				{
+					131, -- [1]
+					1504710571, -- [2]
+				}, -- [4]
+			},
+			["召唤月爪"] = {
+				{
+					67, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+			},
+			["灵体射击"] = {
+				{
+					48, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+			},
+			["月蚀之拥"] = {
+				{
+					102, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+			},
+			["暮光扫射"] = {
+				{
+					18, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					38, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+				{
+					72, -- [1]
+					1504710571, -- [2]
+				}, -- [3]
+				{
+					86, -- [1]
+					1504710571, -- [2]
+				}, -- [4]
+				{
+					103, -- [1]
+					1504710571, -- [2]
+				}, -- [5]
+				{
+					124, -- [1]
+					1504710571, -- [2]
+				}, -- [6]
+				{
+					156, -- [1]
+					1504710571, -- [2]
+				}, -- [7]
+				{
+					179, -- [1]
+					1504710571, -- [2]
+				}, -- [8]
+				{
+					197, -- [1]
+					1504710571, -- [2]
+				}, -- [9]
+			},
+			["灵体传送"] = {
+				{
+					4, -- [1]
+					1504710571, -- [2]
+				}, -- [1]
+				{
+					14, -- [1]
+					1504710571, -- [2]
+				}, -- [2]
+				{
+					24, -- [1]
+					1504710571, -- [2]
+				}, -- [3]
+				{
+					36, -- [1]
+					1504710571, -- [2]
+				}, -- [4]
+				{
+					42, -- [1]
+					1504710571, -- [2]
+				}, -- [5]
+				{
+					58, -- [1]
+					1504710571, -- [2]
+				}, -- [6]
+				{
+					73, -- [1]
+					1504710571, -- [2]
+				}, -- [7]
+				{
+					93, -- [1]
+					1504710571, -- [2]
+				}, -- [8]
+				{
+					127, -- [1]
+					1504710571, -- [2]
+				}, -- [9]
+				{
+					136, -- [1]
+					1504710571, -- [2]
+				}, -- [10]
+				{
+					140, -- [1]
+					1504710571, -- [2]
+				}, -- [11]
+				{
+					167, -- [1]
+					1504710571, -- [2]
+				}, -- [12]
+				{
+					189, -- [1]
+					1504710571, -- [2]
+				}, -- [13]
+			},
+		},
+		["ids"] = {
+			["暗影射击"] = 237630,
+			["明月打击"] = 237632,
+			["月光之火"] = 239264,
+			["月光战刃"] = 236547,
+			["战刃风暴"] = 239386,
+			["月光信标"] = 236712,
+			["月灼"] = 236518,
+			["暮光战刃"] = 236529,
+			["急速射击"] = 236596,
+			["召唤月爪"] = 236694,
+			["灵体射击"] = 236305,
+			["月蚀之拥"] = 233263,
+			["暮光扫射"] = 236442,
+			["灵体传送"] = 236115,
+		},
+	},
+	["186214"] = {
+		["deaths"] = {
+			[153] = {
+				1504708657, -- [1]
+			},
+			[63] = {
+				1504708657, -- [1]
+			},
+			[187] = {
+				1504708657, -- [1]
+			},
+		},
+		["spells"] = {
+			["碎裂星辰"] = {
+				{
+					23, -- [1]
+					1504708657, -- [2]
+				}, -- [1]
+				{
+					84, -- [1]
+					1504708657, -- [2]
+				}, -- [2]
+				{
+					145, -- [1]
+					1504708657, -- [2]
+				}, -- [3]
+			},
+			["碎裂新星"] = {
+				{
+					30, -- [1]
+					1504708657, -- [2]
+				}, -- [1]
+				{
+					91, -- [1]
+					1504708657, -- [2]
+				}, -- [2]
+				{
+					152, -- [1]
+					1504708657, -- [2]
+				}, -- [3]
+			},
+			["地狱燃烧"] = {
+				{
+					59, -- [1]
+					1504708657, -- [2]
+				}, -- [1]
+				{
+					121, -- [1]
+					1504708657, -- [2]
+				}, -- [2]
+				{
+					181, -- [1]
+					1504708657, -- [2]
+				}, -- [3]
+			},
+			["燃烧护甲"] = {
+				{
+					10, -- [1]
+					1504708657, -- [2]
+				}, -- [1]
+				{
+					34, -- [1]
+					1504708657, -- [2]
+				}, -- [2]
+				{
+					61, -- [1]
+					1504708657, -- [2]
+				}, -- [3]
+				{
+					85, -- [1]
+					1504708657, -- [2]
+				}, -- [4]
+				{
+					121, -- [1]
+					1504708657, -- [2]
+				}, -- [5]
+				{
+					146, -- [1]
+					1504708657, -- [2]
+				}, -- [6]
+				{
+					182, -- [1]
+					1504708657, -- [2]
+				}, -- [7]
+			},
+			["彗星冲撞"] = {
+				{
+					7, -- [1]
+					1504708657, -- [2]
+				}, -- [1]
+				{
+					25, -- [1]
+					1504708657, -- [2]
+				}, -- [2]
+				{
+					44, -- [1]
+					1504708657, -- [2]
+				}, -- [3]
+				{
+					64, -- [1]
+					1504708657, -- [2]
+				}, -- [4]
+				{
+					82, -- [1]
+					1504708657, -- [2]
+				}, -- [5]
+				{
+					101, -- [1]
+					1504708657, -- [2]
+				}, -- [6]
+				{
+					125, -- [1]
+					1504708657, -- [2]
+				}, -- [7]
+				{
+					145, -- [1]
+					1504708657, -- [2]
+				}, -- [8]
+				{
+					163, -- [1]
+					1504708657, -- [2]
+				}, -- [9]
+				{
+					185, -- [1]
+					1504708657, -- [2]
+				}, -- [10]
+			},
+		},
+		["ids"] = {
+			["碎裂星辰"] = 233272,
+			["碎裂新星"] = 233283,
+			["地狱燃烧"] = 233062,
+			["燃烧护甲"] = 231363,
+			["彗星冲撞"] = 232249,
+		},
+	},
+	["190315"] = {
+		["deaths"] = {
+			[41] = {
+				1505483089, -- [1]
+			},
+		},
+		["spells"] = {
+			["暗影射击"] = {
+				{
+					0, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					2, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					5, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+				{
+					8, -- [1]
+					1505483089, -- [2]
+				}, -- [4]
+				{
+					10, -- [1]
+					1505483089, -- [2]
+				}, -- [5]
+				{
+					12, -- [1]
+					1505483089, -- [2]
+				}, -- [6]
+				{
+					15, -- [1]
+					1505483089, -- [2]
+				}, -- [7]
+				{
+					20, -- [1]
+					1505483089, -- [2]
+				}, -- [8]
+				{
+					22, -- [1]
+					1505483089, -- [2]
+				}, -- [9]
+				{
+					25, -- [1]
+					1505483089, -- [2]
+				}, -- [10]
+				{
+					27, -- [1]
+					1505483089, -- [2]
+				}, -- [11]
+				{
+					29, -- [1]
+					1505483089, -- [2]
+				}, -- [12]
+				{
+					32, -- [1]
+					1505483089, -- [2]
+				}, -- [13]
+				{
+					38, -- [1]
+					1505483089, -- [2]
+				}, -- [14]
+				{
+					40, -- [1]
+					1505483089, -- [2]
+				}, -- [15]
+				{
+					43, -- [1]
+					1505483089, -- [2]
+				}, -- [16]
+				{
+					45, -- [1]
+					1505483089, -- [2]
+				}, -- [17]
+				{
+					59, -- [1]
+					1505483089, -- [2]
+				}, -- [18]
+				{
+					149, -- [1]
+					1505483089, -- [2]
+				}, -- [19]
+				{
+					151, -- [1]
+					1505483089, -- [2]
+				}, -- [20]
+				{
+					154, -- [1]
+					1505483089, -- [2]
+				}, -- [21]
+				{
+					156, -- [1]
+					1505483089, -- [2]
+				}, -- [22]
+				{
+					168, -- [1]
+					1505483089, -- [2]
+				}, -- [23]
+				{
+					171, -- [1]
+					1505483089, -- [2]
+				}, -- [24]
+				{
+					174, -- [1]
+					1505483089, -- [2]
+				}, -- [25]
+				{
+					179, -- [1]
+					1505483089, -- [2]
+				}, -- [26]
+				{
+					182, -- [1]
+					1505483089, -- [2]
+				}, -- [27]
+				{
+					184, -- [1]
+					1505483089, -- [2]
+				}, -- [28]
+				{
+					186, -- [1]
+					1505483089, -- [2]
+				}, -- [29]
+				{
+					189, -- [1]
+					1505483089, -- [2]
+				}, -- [30]
+				{
+					191, -- [1]
+					1505483089, -- [2]
+				}, -- [31]
+				{
+					194, -- [1]
+					1505483089, -- [2]
+				}, -- [32]
+				{
+					200, -- [1]
+					1505483089, -- [2]
+				}, -- [33]
+				{
+					202, -- [1]
+					1505483089, -- [2]
+				}, -- [34]
+				{
+					205, -- [1]
+					1505483089, -- [2]
+				}, -- [35]
+				{
+					207, -- [1]
+					1505483089, -- [2]
+				}, -- [36]
+				{
+					210, -- [1]
+					1505483089, -- [2]
+				}, -- [37]
+				{
+					223, -- [1]
+					1505483089, -- [2]
+				}, -- [38]
+				{
+					225, -- [1]
+					1505483089, -- [2]
+				}, -- [39]
+				{
+					228, -- [1]
+					1505483089, -- [2]
+				}, -- [40]
+				{
+					234, -- [1]
+					1505483089, -- [2]
+				}, -- [41]
+			},
+			["月光之火"] = {
+				{
+					176, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					186, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					197, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+				{
+					208, -- [1]
+					1505483089, -- [2]
+				}, -- [4]
+				{
+					233, -- [1]
+					1505483089, -- [2]
+				}, -- [5]
+			},
+			["明月打击"] = {
+				{
+					0, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					2, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					5, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+				{
+					10, -- [1]
+					1505483089, -- [2]
+				}, -- [4]
+				{
+					14, -- [1]
+					1505483089, -- [2]
+				}, -- [5]
+				{
+					16, -- [1]
+					1505483089, -- [2]
+				}, -- [6]
+				{
+					19, -- [1]
+					1505483089, -- [2]
+				}, -- [7]
+				{
+					21, -- [1]
+					1505483089, -- [2]
+				}, -- [8]
+				{
+					23, -- [1]
+					1505483089, -- [2]
+				}, -- [9]
+				{
+					26, -- [1]
+					1505483089, -- [2]
+				}, -- [10]
+				{
+					28, -- [1]
+					1505483089, -- [2]
+				}, -- [11]
+				{
+					34, -- [1]
+					1505483089, -- [2]
+				}, -- [12]
+				{
+					37, -- [1]
+					1505483089, -- [2]
+				}, -- [13]
+				{
+					39, -- [1]
+					1505483089, -- [2]
+				}, -- [14]
+				{
+					42, -- [1]
+					1505483089, -- [2]
+				}, -- [15]
+				{
+					44, -- [1]
+					1505483089, -- [2]
+				}, -- [16]
+				{
+					47, -- [1]
+					1505483089, -- [2]
+				}, -- [17]
+				{
+					59, -- [1]
+					1505483089, -- [2]
+				}, -- [18]
+				{
+					61, -- [1]
+					1505483089, -- [2]
+				}, -- [19]
+				{
+					64, -- [1]
+					1505483089, -- [2]
+				}, -- [20]
+				{
+					68, -- [1]
+					1505483089, -- [2]
+				}, -- [21]
+				{
+					71, -- [1]
+					1505483089, -- [2]
+				}, -- [22]
+				{
+					73, -- [1]
+					1505483089, -- [2]
+				}, -- [23]
+				{
+					76, -- [1]
+					1505483089, -- [2]
+				}, -- [24]
+				{
+					78, -- [1]
+					1505483089, -- [2]
+				}, -- [25]
+				{
+					81, -- [1]
+					1505483089, -- [2]
+				}, -- [26]
+				{
+					83, -- [1]
+					1505483089, -- [2]
+				}, -- [27]
+				{
+					85, -- [1]
+					1505483089, -- [2]
+				}, -- [28]
+				{
+					89, -- [1]
+					1505483089, -- [2]
+				}, -- [29]
+				{
+					93, -- [1]
+					1505483089, -- [2]
+				}, -- [30]
+				{
+					95, -- [1]
+					1505483089, -- [2]
+				}, -- [31]
+				{
+					98, -- [1]
+					1505483089, -- [2]
+				}, -- [32]
+				{
+					100, -- [1]
+					1505483089, -- [2]
+				}, -- [33]
+				{
+					113, -- [1]
+					1505483089, -- [2]
+				}, -- [34]
+				{
+					116, -- [1]
+					1505483089, -- [2]
+				}, -- [35]
+				{
+					118, -- [1]
+					1505483089, -- [2]
+				}, -- [36]
+				{
+					123, -- [1]
+					1505483089, -- [2]
+				}, -- [37]
+				{
+					126, -- [1]
+					1505483089, -- [2]
+				}, -- [38]
+				{
+					128, -- [1]
+					1505483089, -- [2]
+				}, -- [39]
+				{
+					130, -- [1]
+					1505483089, -- [2]
+				}, -- [40]
+				{
+					134, -- [1]
+					1505483089, -- [2]
+				}, -- [41]
+				{
+					137, -- [1]
+					1505483089, -- [2]
+				}, -- [42]
+				{
+					139, -- [1]
+					1505483089, -- [2]
+				}, -- [43]
+				{
+					141, -- [1]
+					1505483089, -- [2]
+				}, -- [44]
+				{
+					144, -- [1]
+					1505483089, -- [2]
+				}, -- [45]
+				{
+					148, -- [1]
+					1505483089, -- [2]
+				}, -- [46]
+			},
+			["致命尖叫"] = {
+				{
+					98, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					104, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+			},
+			["月光信标"] = {
+				{
+					169, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					192, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					223, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+			},
+			["战刃风暴"] = {
+				{
+					105, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					108, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					110, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+				{
+					111, -- [1]
+					1505483089, -- [2]
+				}, -- [4]
+				{
+					112, -- [1]
+					1505483089, -- [2]
+				}, -- [5]
+				{
+					160, -- [1]
+					1505483089, -- [2]
+				}, -- [6]
+				{
+					162, -- [1]
+					1505483089, -- [2]
+				}, -- [7]
+				{
+					165, -- [1]
+					1505483089, -- [2]
+				}, -- [8]
+				{
+					166, -- [1]
+					1505483089, -- [2]
+				}, -- [9]
+				{
+					215, -- [1]
+					1505483089, -- [2]
+				}, -- [10]
+				{
+					218, -- [1]
+					1505483089, -- [2]
+				}, -- [11]
+				{
+					220, -- [1]
+					1505483089, -- [2]
+				}, -- [12]
+				{
+					221, -- [1]
+					1505483089, -- [2]
+				}, -- [13]
+				{
+					222, -- [1]
+					1505483089, -- [2]
+				}, -- [14]
+			},
+			["月光战刃"] = {
+				{
+					15, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					32, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+			},
+			["召唤月爪"] = {
+				{
+					69, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+			},
+			["暮光战刃"] = {
+				{
+					19, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					22, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					37, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+				{
+					40, -- [1]
+					1505483089, -- [2]
+				}, -- [4]
+				{
+					56, -- [1]
+					1505483089, -- [2]
+				}, -- [5]
+				{
+					59, -- [1]
+					1505483089, -- [2]
+				}, -- [6]
+				{
+					67, -- [1]
+					1505483089, -- [2]
+				}, -- [7]
+				{
+					70, -- [1]
+					1505483089, -- [2]
+				}, -- [8]
+				{
+					89, -- [1]
+					1505483089, -- [2]
+				}, -- [9]
+				{
+					92, -- [1]
+					1505483089, -- [2]
+				}, -- [10]
+				{
+					112, -- [1]
+					1505483089, -- [2]
+				}, -- [11]
+				{
+					115, -- [1]
+					1505483089, -- [2]
+				}, -- [12]
+				{
+					121, -- [1]
+					1505483089, -- [2]
+				}, -- [13]
+				{
+					124, -- [1]
+					1505483089, -- [2]
+				}, -- [14]
+				{
+					141, -- [1]
+					1505483089, -- [2]
+				}, -- [15]
+				{
+					144, -- [1]
+					1505483089, -- [2]
+				}, -- [16]
+				{
+					167, -- [1]
+					1505483089, -- [2]
+				}, -- [17]
+				{
+					170, -- [1]
+					1505483089, -- [2]
+				}, -- [18]
+				{
+					174, -- [1]
+					1505483089, -- [2]
+				}, -- [19]
+				{
+					177, -- [1]
+					1505483089, -- [2]
+				}, -- [20]
+				{
+					195, -- [1]
+					1505483089, -- [2]
+				}, -- [21]
+				{
+					198, -- [1]
+					1505483089, -- [2]
+				}, -- [22]
+				{
+					222, -- [1]
+					1505483089, -- [2]
+				}, -- [23]
+				{
+					225, -- [1]
+					1505483089, -- [2]
+				}, -- [24]
+				{
+					230, -- [1]
+					1505483089, -- [2]
+				}, -- [25]
+				{
+					233, -- [1]
+					1505483089, -- [2]
+				}, -- [26]
+			},
+			["急速射击"] = {
+				{
+					76, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					94, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					121, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+				{
+					141, -- [1]
+					1505483089, -- [2]
+				}, -- [4]
+			},
+			["月灼"] = {
+				{
+					9, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					32, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					58, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+				{
+					67, -- [1]
+					1505483089, -- [2]
+				}, -- [4]
+				{
+					92, -- [1]
+					1505483089, -- [2]
+				}, -- [5]
+				{
+					122, -- [1]
+					1505483089, -- [2]
+				}, -- [6]
+				{
+					147, -- [1]
+					1505483089, -- [2]
+				}, -- [7]
+				{
+					178, -- [1]
+					1505483089, -- [2]
+				}, -- [8]
+				{
+					197, -- [1]
+					1505483089, -- [2]
+				}, -- [9]
+				{
+					232, -- [1]
+					1505483089, -- [2]
+				}, -- [10]
+			},
+			["灵体射击"] = {
+				{
+					47, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					157, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					212, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+			},
+			["月蚀之拥"] = {
+				{
+					47, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					102, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+			},
+			["暮光扫射"] = {
+				{
+					19, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					37, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					74, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+				{
+					90, -- [1]
+					1505483089, -- [2]
+				}, -- [4]
+				{
+					125, -- [1]
+					1505483089, -- [2]
+				}, -- [5]
+				{
+					141, -- [1]
+					1505483089, -- [2]
+				}, -- [6]
+				{
+					179, -- [1]
+					1505483089, -- [2]
+				}, -- [7]
+				{
+					199, -- [1]
+					1505483089, -- [2]
+				}, -- [8]
+				{
+					233, -- [1]
+					1505483089, -- [2]
+				}, -- [9]
+			},
+			["灵体传送"] = {
+				{
+					5, -- [1]
+					1505483089, -- [2]
+				}, -- [1]
+				{
+					13, -- [1]
+					1505483089, -- [2]
+				}, -- [2]
+				{
+					29, -- [1]
+					1505483089, -- [2]
+				}, -- [3]
+				{
+					34, -- [1]
+					1505483089, -- [2]
+				}, -- [4]
+				{
+					57, -- [1]
+					1505483089, -- [2]
+				}, -- [5]
+				{
+					60, -- [1]
+					1505483089, -- [2]
+				}, -- [6]
+				{
+					71, -- [1]
+					1505483089, -- [2]
+				}, -- [7]
+				{
+					89, -- [1]
+					1505483089, -- [2]
+				}, -- [8]
+				{
+					113, -- [1]
+					1505483089, -- [2]
+				}, -- [9]
+				{
+					134, -- [1]
+					1505483089, -- [2]
+				}, -- [10]
+				{
+					149, -- [1]
+					1505483089, -- [2]
+				}, -- [11]
+				{
+					153, -- [1]
+					1505483089, -- [2]
+				}, -- [12]
+				{
+					174, -- [1]
+					1505483089, -- [2]
+				}, -- [13]
+				{
+					196, -- [1]
+					1505483089, -- [2]
+				}, -- [14]
+				{
+					223, -- [1]
+					1505483089, -- [2]
+				}, -- [15]
+			},
+		},
+		["ids"] = {
+			["暗影射击"] = 237630,
+			["月光之火"] = 239264,
+			["明月打击"] = 237632,
+			["致命尖叫"] = 236697,
+			["月光信标"] = 236712,
+			["战刃风暴"] = 239386,
+			["月光战刃"] = 236547,
+			["召唤月爪"] = 236694,
+			["暮光战刃"] = 236529,
+			["急速射击"] = 236596,
+			["月灼"] = 236518,
+			["灵体射击"] = 236305,
+			["月蚀之拥"] = 233263,
+			["暮光扫射"] = 236442,
+			["灵体传送"] = 236115,
+		},
+	},
+	["186715"] = {
+		["deaths"] = {
+			[154] = {
+				1505480289, -- [1]
+			},
+			[165] = {
+				1505480289, -- [1]
+			},
+			[60] = {
+				1505480289, -- [1]
+			},
+			[126] = {
+				1505480289, -- [1]
+			},
+			[65] = {
+				1505480289, -- [1]
+			},
+			[132] = {
+				1505480289, -- [1]
+			},
+			[153] = {
+				1505480289, -- [1]
+			},
+			[236] = {
+				1505480289, -- [1]
+			},
+		},
+		["spells"] = {
+			["邪能狂风"] = {
+				{
+					34, -- [1]
+					1505480289, -- [2]
+				}, -- [1]
+				{
+					96, -- [1]
+					1505480289, -- [2]
+				}, -- [2]
+				{
+					157, -- [1]
+					1505480289, -- [2]
+				}, -- [3]
+				{
+					220, -- [1]
+					1505480289, -- [2]
+				}, -- [4]
+			},
+			["镰刀横扫"] = {
+				{
+					9, -- [1]
+					1505480289, -- [2]
+				}, -- [1]
+				{
+					33, -- [1]
+					1505480289, -- [2]
+				}, -- [2]
+				{
+					60, -- [1]
+					1505480289, -- [2]
+				}, -- [3]
+				{
+					87, -- [1]
+					1505480289, -- [2]
+				}, -- [4]
+				{
+					111, -- [1]
+					1505480289, -- [2]
+				}, -- [5]
+				{
+					145, -- [1]
+					1505480289, -- [2]
+				}, -- [6]
+				{
+					169, -- [1]
+					1505480289, -- [2]
+				}, -- [7]
+				{
+					212, -- [1]
+					1505480289, -- [2]
+				}, -- [8]
+				{
+					236, -- [1]
+					1505480289, -- [2]
+				}, -- [9]
+			},
+			["回响之痛"] = {
+				{
+					8, -- [1]
+					1505480289, -- [2]
+				}, -- [1]
+				{
+					62, -- [1]
+					1505480289, -- [2]
+				}, -- [2]
+				{
+					93, -- [1]
+					1505480289, -- [2]
+				}, -- [3]
+				{
+					126, -- [1]
+					1505480289, -- [2]
+				}, -- [4]
+				{
+					156, -- [1]
+					1505480289, -- [2]
+				}, -- [5]
+				{
+					189, -- [1]
+					1505480289, -- [2]
+				}, -- [6]
+				{
+					220, -- [1]
+					1505480289, -- [2]
+				}, -- [7]
+			},
+			["窒息之暗"] = {
+				{
+					11, -- [1]
+					1505480289, -- [2]
+				}, -- [1]
+				{
+					51, -- [1]
+					1505480289, -- [2]
+				}, -- [2]
+				{
+					75, -- [1]
+					1505480289, -- [2]
+				}, -- [3]
+				{
+					113, -- [1]
+					1505480289, -- [2]
+				}, -- [4]
+				{
+					142, -- [1]
+					1505480289, -- [2]
+				}, -- [5]
+				{
+					174, -- [1]
+					1505480289, -- [2]
+				}, -- [6]
+				{
+					198, -- [1]
+					1505480289, -- [2]
+				}, -- [7]
+				{
+					237, -- [1]
+					1505480289, -- [2]
+				}, -- [8]
+			},
+			["骨锯"] = {
+				{
+					60, -- [1]
+					1505480289, -- [2]
+				}, -- [1]
+				{
+					124, -- [1]
+					1505480289, -- [2]
+				}, -- [2]
+				{
+					185, -- [1]
+					1505480289, -- [2]
+				}, -- [3]
+				{
+					249, -- [1]
+					1505480289, -- [2]
+				}, -- [4]
+			},
+			["钙化尖刺"] = {
+				{
+					12, -- [1]
+					1505480289, -- [2]
+				}, -- [1]
+				{
+					35, -- [1]
+					1505480289, -- [2]
+				}, -- [2]
+				{
+					77, -- [1]
+					1505480289, -- [2]
+				}, -- [3]
+				{
+					97, -- [1]
+					1505480289, -- [2]
+				}, -- [4]
+				{
+					118, -- [1]
+					1505480289, -- [2]
+				}, -- [5]
+				{
+					147, -- [1]
+					1505480289, -- [2]
+				}, -- [6]
+				{
+					171, -- [1]
+					1505480289, -- [2]
+				}, -- [7]
+				{
+					202, -- [1]
+					1505480289, -- [2]
+				}, -- [8]
+				{
+					223, -- [1]
+					1505480289, -- [2]
+				}, -- [9]
+				{
+					243, -- [1]
+					1505480289, -- [2]
+				}, -- [10]
+			},
+			["罪恶之痛"] = {
+				{
+					151, -- [1]
+					1505480289, -- [2]
+				}, -- [1]
+				{
+					215, -- [1]
+					1505480289, -- [2]
+				}, -- [2]
+			},
+			["灵魂腐蚀"] = {
+				{
+					46, -- [1]
+					1505480289, -- [2]
+				}, -- [1]
+				{
+					52, -- [1]
+					1505480289, -- [2]
+				}, -- [2]
+				{
+					60, -- [1]
+					1505480289, -- [2]
+				}, -- [3]
+				{
+					64, -- [1]
+					1505480289, -- [2]
+				}, -- [4]
+				{
+					70, -- [1]
+					1505480289, -- [2]
+				}, -- [5]
+				{
+					76, -- [1]
+					1505480289, -- [2]
+				}, -- [6]
+				{
+					82, -- [1]
+					1505480289, -- [2]
+				}, -- [7]
+				{
+					88, -- [1]
+					1505480289, -- [2]
+				}, -- [8]
+				{
+					105, -- [1]
+					1505480289, -- [2]
+				}, -- [9]
+				{
+					111, -- [1]
+					1505480289, -- [2]
+				}, -- [10]
+				{
+					117, -- [1]
+					1505480289, -- [2]
+				}, -- [11]
+				{
+					123, -- [1]
+					1505480289, -- [2]
+				}, -- [12]
+				{
+					129, -- [1]
+					1505480289, -- [2]
+				}, -- [13]
+				{
+					135, -- [1]
+					1505480289, -- [2]
+				}, -- [14]
+				{
+					141, -- [1]
+					1505480289, -- [2]
+				}, -- [15]
+				{
+					147, -- [1]
+					1505480289, -- [2]
+				}, -- [16]
+				{
+					153, -- [1]
+					1505480289, -- [2]
+				}, -- [17]
+				{
+					159, -- [1]
+					1505480289, -- [2]
+				}, -- [18]
+				{
+					165, -- [1]
+					1505480289, -- [2]
+				}, -- [19]
+				{
+					171, -- [1]
+					1505480289, -- [2]
+				}, -- [20]
+				{
+					178, -- [1]
+					1505480289, -- [2]
+				}, -- [21]
+				{
+					184, -- [1]
+					1505480289, -- [2]
+				}, -- [22]
+				{
+					190, -- [1]
+					1505480289, -- [2]
+				}, -- [23]
+				{
+					196, -- [1]
+					1505480289, -- [2]
+				}, -- [24]
+				{
+					202, -- [1]
+					1505480289, -- [2]
+				}, -- [25]
+				{
+					208, -- [1]
+					1505480289, -- [2]
+				}, -- [26]
+				{
+					216, -- [1]
+					1505480289, -- [2]
+				}, -- [27]
+				{
+					223, -- [1]
+					1505480289, -- [2]
+				}, -- [28]
+				{
+					229, -- [1]
+					1505480289, -- [2]
+				}, -- [29]
+				{
+					235, -- [1]
+					1505480289, -- [2]
+				}, -- [30]
+				{
+					241, -- [1]
+					1505480289, -- [2]
+				}, -- [31]
+				{
+					247, -- [1]
+					1505480289, -- [2]
+				}, -- [32]
+			},
+			["折磨爆发"] = {
+				{
+					10, -- [1]
+					1505480289, -- [2]
+				}, -- [1]
+				{
+					29, -- [1]
+					1505480289, -- [2]
+				}, -- [2]
+				{
+					54, -- [1]
+					1505480289, -- [2]
+				}, -- [3]
+				{
+					75, -- [1]
+					1505480289, -- [2]
+				}, -- [4]
+				{
+					96, -- [1]
+					1505480289, -- [2]
+				}, -- [5]
+				{
+					116, -- [1]
+					1505480289, -- [2]
+				}, -- [6]
+				{
+					136, -- [1]
+					1505480289, -- [2]
+				}, -- [7]
+				{
+					154, -- [1]
+					1505480289, -- [2]
+				}, -- [8]
+				{
+					177, -- [1]
+					1505480289, -- [2]
+				}, -- [9]
+				{
+					198, -- [1]
+					1505480289, -- [2]
+				}, -- [10]
+				{
+					217, -- [1]
+					1505480289, -- [2]
+				}, -- [11]
+				{
+					240, -- [1]
+					1505480289, -- [2]
+				}, -- [12]
+			},
+		},
+		["ids"] = {
+			["邪能狂风"] = 235230,
+			["镰刀横扫"] = 233426,
+			["回响之痛"] = 233983,
+			["窒息之暗"] = 233894,
+			["骨锯"] = 233441,
+			["钙化尖刺"] = 233431,
+			["罪恶之痛"] = 239401,
+			["灵魂腐蚀"] = 248713,
+			["折磨爆发"] = 234015,
+		},
+	},
+	["186115"] = {
+		["deaths"] = {
+			[139] = {
+				1505481837, -- [1]
+			},
+			[333] = {
+				1505482407, -- [1]
+				1505482407, -- [2]
+			},
+			[252] = {
+				1505482407, -- [1]
+			},
+			[167] = {
+				1505481837, -- [1]
+			},
+			[164] = {
+				1505481837, -- [1]
+			},
+			[137] = {
+				1505481837, -- [1]
+			},
+			[172] = {
+				1505482407, -- [1]
+			},
+			[145] = {
+				1505481837, -- [1]
+			},
+			[282] = {
+				1505482407, -- [1]
+			},
+			[125] = {
+				1505481837, -- [1]
+				1505482407, -- [2]
+			},
+			[138] = {
+				1505481837, -- [1]
+			},
+			[130] = {
+				1505482407, -- [1]
+			},
+			[165] = {
+				1505481837, -- [1]
+			},
+			[169] = {
+				1505481837, -- [1]
+			},
+			[142] = {
+				1505481837, -- [1]
+				1505481837, -- [2]
+				1505481837, -- [3]
+				1505481837, -- [4]
+				1505481837, -- [5]
+				1505481837, -- [6]
+			},
+			[168] = {
+				1505481837, -- [1]
+			},
+			[150] = {
+				1505481837, -- [1]
+			},
+			[108] = {
+				1505481837, -- [1]
+			},
+			[90] = {
+				1505481837, -- [1]
+			},
+			[153] = {
+				1505481837, -- [1]
+			},
+		},
+		["spells"] = {
+			["召唤萨鲁克"] = {
+				{
+					122, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					167, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					121, -- [1]
+					1505482407, -- [2]
+				}, -- [3]
+				{
+					164, -- [1]
+					1505482407, -- [2]
+				}, -- [4]
+			},
+			["吞噬之饥"] = {
+				{
+					21, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					22, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					53, -- [1]
+					1505481837, -- [2]
+				}, -- [3]
+				{
+					54, -- [1]
+					1505481837, -- [2]
+				}, -- [4]
+				{
+					21, -- [1]
+					1505482407, -- [2]
+				}, -- [5]
+				{
+					22, -- [1]
+					1505482407, -- [2]
+				}, -- [6]
+				{
+					55, -- [1]
+					1505482407, -- [2]
+				}, -- [7]
+				{
+					56, -- [1]
+					1505482407, -- [2]
+				}, -- [8]
+				{
+					231, -- [1]
+					1505482407, -- [2]
+				}, -- [9]
+				{
+					232, -- [1]
+					1505482407, -- [2]
+				}, -- [10]
+				{
+					262, -- [1]
+					1505482407, -- [2]
+				}, -- [11]
+				{
+					263, -- [1]
+					1505482407, -- [2]
+				}, -- [12]
+				{
+					311, -- [1]
+					1505482407, -- [2]
+				}, -- [13]
+				{
+					312, -- [1]
+					1505482407, -- [2]
+				}, -- [14]
+			},
+			["黑暗深渊"] = {
+				{
+					63, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					84, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					99, -- [1]
+					1505481837, -- [2]
+				}, -- [3]
+				{
+					118, -- [1]
+					1505481837, -- [2]
+				}, -- [4]
+				{
+					132, -- [1]
+					1505481837, -- [2]
+				}, -- [5]
+				{
+					151, -- [1]
+					1505481837, -- [2]
+				}, -- [6]
+				{
+					166, -- [1]
+					1505481837, -- [2]
+				}, -- [7]
+				{
+					27, -- [1]
+					1505482407, -- [2]
+				}, -- [8]
+				{
+					55, -- [1]
+					1505482407, -- [2]
+				}, -- [9]
+				{
+					69, -- [1]
+					1505482407, -- [2]
+				}, -- [10]
+				{
+					83, -- [1]
+					1505482407, -- [2]
+				}, -- [11]
+				{
+					117, -- [1]
+					1505482407, -- [2]
+				}, -- [12]
+				{
+					148, -- [1]
+					1505482407, -- [2]
+				}, -- [13]
+				{
+					177, -- [1]
+					1505482407, -- [2]
+				}, -- [14]
+				{
+					182, -- [1]
+					1505482407, -- [2]
+				}, -- [15]
+				{
+					256, -- [1]
+					1505482407, -- [2]
+				}, -- [16]
+				{
+					283, -- [1]
+					1505482407, -- [2]
+				}, -- [17]
+				{
+					298, -- [1]
+					1505482407, -- [2]
+				}, -- [18]
+				{
+					311, -- [1]
+					1505482407, -- [2]
+				}, -- [19]
+				{
+					315, -- [1]
+					1505482407, -- [2]
+				}, -- [20]
+				{
+					329, -- [1]
+					1505482407, -- [2]
+				}, -- [21]
+				{
+					340, -- [1]
+					1505482407, -- [2]
+				}, -- [22]
+			},
+			["痛苦负担"] = {
+				{
+					17, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					47, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					74, -- [1]
+					1505481837, -- [2]
+				}, -- [3]
+				{
+					108, -- [1]
+					1505481837, -- [2]
+				}, -- [4]
+				{
+					141, -- [1]
+					1505481837, -- [2]
+				}, -- [5]
+				{
+					18, -- [1]
+					1505482407, -- [2]
+				}, -- [6]
+				{
+					46, -- [1]
+					1505482407, -- [2]
+				}, -- [7]
+				{
+					74, -- [1]
+					1505482407, -- [2]
+				}, -- [8]
+				{
+					108, -- [1]
+					1505482407, -- [2]
+				}, -- [9]
+				{
+					138, -- [1]
+					1505482407, -- [2]
+				}, -- [10]
+				{
+					167, -- [1]
+					1505482407, -- [2]
+				}, -- [11]
+				{
+					217, -- [1]
+					1505482407, -- [2]
+				}, -- [12]
+				{
+					245, -- [1]
+					1505482407, -- [2]
+				}, -- [13]
+				{
+					273, -- [1]
+					1505482407, -- [2]
+				}, -- [14]
+				{
+					301, -- [1]
+					1505482407, -- [2]
+				}, -- [15]
+				{
+					330, -- [1]
+					1505482407, -- [2]
+				}, -- [16]
+			},
+			["召唤威利乌斯"] = {
+				{
+					113, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					155, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					112, -- [1]
+					1505482407, -- [2]
+				}, -- [3]
+				{
+					155, -- [1]
+					1505482407, -- [2]
+				}, -- [4]
+				{
+					221, -- [1]
+					1505482407, -- [2]
+				}, -- [5]
+				{
+					277, -- [1]
+					1505482407, -- [2]
+				}, -- [6]
+				{
+					320, -- [1]
+					1505482407, -- [2]
+				}, -- [7]
+			},
+			["活体吞噬"] = {
+				{
+					125, -- [1]
+					1505482407, -- [2]
+				}, -- [1]
+				{
+					130, -- [1]
+					1505482407, -- [2]
+				}, -- [2]
+				{
+					172, -- [1]
+					1505482407, -- [2]
+				}, -- [3]
+			},
+			["碎裂波动"] = {
+				{
+					118, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					160, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					117, -- [1]
+					1505482407, -- [2]
+				}, -- [3]
+				{
+					160, -- [1]
+					1505482407, -- [2]
+				}, -- [4]
+				{
+					227, -- [1]
+					1505482407, -- [2]
+				}, -- [5]
+				{
+					282, -- [1]
+					1505482407, -- [2]
+				}, -- [6]
+				{
+					325, -- [1]
+					1505482407, -- [2]
+				}, -- [7]
+			},
+			["昏暗隐匿"] = {
+				{
+					28, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					29, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					65, -- [1]
+					1505481837, -- [2]
+				}, -- [3]
+				{
+					66, -- [1]
+					1505481837, -- [2]
+				}, -- [4]
+				{
+					91, -- [1]
+					1505481837, -- [2]
+				}, -- [5]
+				{
+					94, -- [1]
+					1505481837, -- [2]
+				}, -- [6]
+				{
+					103, -- [1]
+					1505481837, -- [2]
+				}, -- [7]
+				{
+					127, -- [1]
+					1505481837, -- [2]
+				}, -- [8]
+				{
+					128, -- [1]
+					1505481837, -- [2]
+				}, -- [9]
+				{
+					141, -- [1]
+					1505481837, -- [2]
+				}, -- [10]
+				{
+					28, -- [1]
+					1505482407, -- [2]
+				}, -- [11]
+				{
+					36, -- [1]
+					1505482407, -- [2]
+				}, -- [12]
+				{
+					39, -- [1]
+					1505482407, -- [2]
+				}, -- [13]
+				{
+					65, -- [1]
+					1505482407, -- [2]
+				}, -- [14]
+				{
+					71, -- [1]
+					1505482407, -- [2]
+				}, -- [15]
+				{
+					73, -- [1]
+					1505482407, -- [2]
+				}, -- [16]
+				{
+					90, -- [1]
+					1505482407, -- [2]
+				}, -- [17]
+				{
+					95, -- [1]
+					1505482407, -- [2]
+				}, -- [18]
+				{
+					98, -- [1]
+					1505482407, -- [2]
+				}, -- [19]
+				{
+					124, -- [1]
+					1505482407, -- [2]
+				}, -- [20]
+				{
+					127, -- [1]
+					1505482407, -- [2]
+				}, -- [21]
+				{
+					131, -- [1]
+					1505482407, -- [2]
+				}, -- [22]
+				{
+					151, -- [1]
+					1505482407, -- [2]
+				}, -- [23]
+				{
+					153, -- [1]
+					1505482407, -- [2]
+				}, -- [24]
+				{
+					156, -- [1]
+					1505482407, -- [2]
+				}, -- [25]
+				{
+					190, -- [1]
+					1505482407, -- [2]
+				}, -- [26]
+				{
+					228, -- [1]
+					1505482407, -- [2]
+				}, -- [27]
+				{
+					229, -- [1]
+					1505482407, -- [2]
+				}, -- [28]
+				{
+					231, -- [1]
+					1505482407, -- [2]
+				}, -- [29]
+				{
+					266, -- [1]
+					1505482407, -- [2]
+				}, -- [30]
+				{
+					267, -- [1]
+					1505482407, -- [2]
+				}, -- [31]
+				{
+					269, -- [1]
+					1505482407, -- [2]
+				}, -- [32]
+				{
+					300, -- [1]
+					1505482407, -- [2]
+				}, -- [33]
+				{
+					304, -- [1]
+					1505482407, -- [2]
+				}, -- [34]
+				{
+					313, -- [1]
+					1505482407, -- [2]
+				}, -- [35]
+				{
+					323, -- [1]
+					1505482407, -- [2]
+				}, -- [36]
+				{
+					326, -- [1]
+					1505482407, -- [2]
+				}, -- [37]
+				{
+					330, -- [1]
+					1505482407, -- [2]
+				}, -- [38]
+			},
+			["切割旋风"] = {
+				{
+					34, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					80, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					34, -- [1]
+					1505482407, -- [2]
+				}, -- [3]
+				{
+					79, -- [1]
+					1505482407, -- [2]
+				}, -- [4]
+				{
+					251, -- [1]
+					1505482407, -- [2]
+				}, -- [5]
+				{
+					297, -- [1]
+					1505482407, -- [2]
+				}, -- [6]
+				{
+					345, -- [1]
+					1505482407, -- [2]
+				}, -- [7]
+			},
+			["召唤奥苏奈特"] = {
+				{
+					93, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					135, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					92, -- [1]
+					1505482407, -- [2]
+				}, -- [3]
+				{
+					135, -- [1]
+					1505482407, -- [2]
+				}, -- [4]
+				{
+					177, -- [1]
+					1505482407, -- [2]
+				}, -- [5]
+				{
+					202, -- [1]
+					1505482407, -- [2]
+				}, -- [6]
+				{
+					238, -- [1]
+					1505482407, -- [2]
+				}, -- [7]
+				{
+					270, -- [1]
+					1505482407, -- [2]
+				}, -- [8]
+				{
+					304, -- [1]
+					1505482407, -- [2]
+				}, -- [9]
+				{
+					335, -- [1]
+					1505482407, -- [2]
+				}, -- [10]
+			},
+			["雷霆震击"] = {
+				{
+					11, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					14, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					44, -- [1]
+					1505481837, -- [2]
+				}, -- [3]
+				{
+					47, -- [1]
+					1505481837, -- [2]
+				}, -- [4]
+				{
+					12, -- [1]
+					1505482407, -- [2]
+				}, -- [5]
+				{
+					15, -- [1]
+					1505482407, -- [2]
+				}, -- [6]
+				{
+					49, -- [1]
+					1505482407, -- [2]
+				}, -- [7]
+				{
+					52, -- [1]
+					1505482407, -- [2]
+				}, -- [8]
+			},
+			["水之冲击"] = {
+				{
+					53, -- [1]
+					1505481837, -- [2]
+				}, -- [1]
+				{
+					131, -- [1]
+					1505481837, -- [2]
+				}, -- [2]
+				{
+					134, -- [1]
+					1505481837, -- [2]
+				}, -- [3]
+				{
+					143, -- [1]
+					1505481837, -- [2]
+				}, -- [4]
+				{
+					147, -- [1]
+					1505481837, -- [2]
+				}, -- [5]
+				{
+					150, -- [1]
+					1505481837, -- [2]
+				}, -- [6]
+				{
+					152, -- [1]
+					1505481837, -- [2]
+				}, -- [7]
+				{
+					154, -- [1]
+					1505481837, -- [2]
+				}, -- [8]
+				{
+					155, -- [1]
+					1505481837, -- [2]
+				}, -- [9]
+				{
+					157, -- [1]
+					1505481837, -- [2]
+				}, -- [10]
+				{
+					160, -- [1]
+					1505481837, -- [2]
+				}, -- [11]
+				{
+					162, -- [1]
+					1505481837, -- [2]
+				}, -- [12]
+				{
+					259, -- [1]
+					1505482407, -- [2]
+				}, -- [13]
+				{
+					341, -- [1]
+					1505482407, -- [2]
+				}, -- [14]
+				{
+					344, -- [1]
+					1505482407, -- [2]
+				}, -- [15]
+			},
+		},
+		["ids"] = {
+			["召唤萨鲁克"] = 232746,
+			["吞噬之饥"] = 230920,
+			["黑暗深渊"] = 230273,
+			["痛苦负担"] = 230201,
+			["召唤威利乌斯"] = 232757,
+			["活体吞噬"] = 232885,
+			["碎裂波动"] = 232827,
+			["昏暗隐匿"] = 230950,
+			["切割旋风"] = 232722,
+			["召唤奥苏奈特"] = 232756,
+			["雷霆震击"] = 230362,
+			["水之冲击"] = 241509,
+		},
+	},
+}

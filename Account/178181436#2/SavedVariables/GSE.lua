@@ -14,6 +14,7 @@ GSEOptions = {
 	["use6"] = false,
 	["CommandColour"] = "|cFF00FF00",
 	["UNKNOWN"] = "|cffff6666",
+	["UseVerboseFormat"] = true,
 	["use1"] = false,
 	["CreateGlobalButtons"] = false,
 	["DebugPrintModConditionsOnKeyPress"] = false,
@@ -26,10 +27,10 @@ GSEOptions = {
 	["STRING"] = "|cff888888",
 	["clearUIErrors"] = false,
 	["filterList"] = {
-		["Spec"] = true,
 		["Class"] = true,
-		["Global"] = true,
 		["All"] = false,
+		["Global"] = true,
+		["Spec"] = true,
 	},
 	["INDENT"] = "|cffccaa88",
 	["TitleColour"] = "|cFFFF0000",
@@ -72,8 +73,33 @@ GSEOptions = {
 	["deleteOrphansOnLogout"] = false,
 	["requireTarget"] = false,
 	["UnfoundSpells"] = {
-		["null"] = true,
+		["Summon Gargoyle"] = true,
+		["Scourge Strike"] = true,
+		["Pillar of Frost"] = true,
+		["Raise Dead"] = true,
+		["Marrowrend"] = true,
+		["Soul Reaper"] = true,
+		["Festering Strike"] = true,
+		["Remorseless Winter"] = true,
+		["Heart Strike"] = true,
+		["Death Strike"] = true,
+		["Clawing Shadows"] = true,
+		["Wraith Walk"] = true,
+		["Howling Blast"] = true,
+		["Dark Transformation"] = true,
 		["Apocalypse(artifact)"] = true,
+		["Frostscythe"] = true,
+		["Dancing Rune Weapon"] = true,
+		["Obliterate"] = true,
+		["Blood Boil"] = true,
+		["Death's Caress"] = true,
+		["Frost Strike"] = true,
+		["Consumption"] = true,
+		["Death Coil"] = true,
+		["Empower Rune Weapon"] = true,
+		["Glacial Advance"] = true,
+		["null"] = true,
+		["Outbreak"] = true,
 	},
 	["overflowPersonalMacros"] = false,
 	["AuthorColour"] = "|cFF00D1FF",
@@ -104,67 +130,10 @@ GSEOptions = {
 			},
 		},
 		["Samples"] = {
-			["Version"] = "2104",
+			["Version"] = "2200",
 			["Name"] = "Samples",
 			["SequenceNames"] = {
-				"SAM_ProtWar", -- [1]
-				"SAM_Fury1", -- [2]
-				"SAM_Arms_ST", -- [3]
-				"SAM_Arms_AOE", -- [4]
-				"SAM_FuryAOE", -- [5]
-				"SAM_RetAOE", -- [6]
-				"SAM_HolyDeeps", -- [7]
-				"SAM_Prot_AOE", -- [8]
-				"SAM_RetRef", -- [9]
-				"SAM_Prot_ST", -- [10]
-				"SAM_Ret", -- [11]
-				"SAM_Palla_Sera", -- [12]
-				"SAM_BMaoe", -- [13]
-				"SAM_BMsingle", -- [14]
-				"SAM_SURVST", -- [15]
-				"SAM_SURVAOE", -- [16]
-				"SAM_Marks_AOE", -- [17]
-				"SAM_Mm_ST", -- [18]
-				"SAM_CalliynOutlaw", -- [19]
-				"SAM_Assassin", -- [20]
-				"SAM_Subtle", -- [21]
-				"SAM_Disc-THeal", -- [22]
-				"SAM_HolyPriesty", -- [23]
-				"SAM_KTN_MouseOver", -- [24]
-				"SAM_Disc-THealAoe", -- [25]
-				"SAM_Disc-TDPS", -- [26]
-				"SAM_ShadowPriest", -- [27]
-				"SAM_FDK2", -- [28]
-				"SAM_BloodDK", -- [29]
-				"SAM_DKunholy", -- [30]
-				"SAM_ElemAoE", -- [31]
-				"SAM_MC_Chain", -- [32]
-				"SAM_RestoDeeps", -- [33]
-				"SAM_enhsingle", -- [34]
-				"SAM_Elem", -- [35]
-				"SAM_MC_Surge", -- [36]
-				"SAM_MC_Wave", -- [37]
-				"SAM_Fire", -- [38]
-				"SAM_Arcane", -- [39]
-				"SAM_Ichthys_Frosty", -- [40]
-				"SAM_AFF", -- [41]
-				"SAM_DemoAoE", -- [42]
-				"SAM_Demon", -- [43]
-				"SAM_Destro", -- [44]
-				"SAM_DemoSingle", -- [45]
-				"SAM_AFF2", -- [46]
-				"SAM_BrewMaster_AoE", -- [47]
-				"SAM_WW", -- [48]
-				"SAM_BrewMaster_ST", -- [49]
-				"SAM_winsingle", -- [50]
-				"SAM_Feral-AoE", -- [51]
-				"SAM_Boomer", -- [52]
-				"SAM_KTNDRUHEALS", -- [53]
-				"SAM_Bear", -- [54]
-				"SAM_Feral-ST", -- [55]
-				"SAM_druid_bala_st", -- [56]
-				"SAM_DHHavoc", -- [57]
-				"SAM_Vengeance", -- [58]
+				"Assorted Sample Macros", -- [1]
 			},
 		},
 	},
@@ -268,379 +237,11 @@ GSELibrary = {
 			},
 		},
 	}, -- [1]
-	[6] = {
-		["HP_EX_Unholy_Apoc"] = {
-			["Helplink"] = "https://wowlazymacros.com/forums/topic/unholy-soul-reaper-7-1-5/",
-			["Talents"] = "321??33",
-			["Help"] = "Run at 80ms or manually. Hold ALT for Apocalypse at 6+ Wounds.\nIn collaboration with the amazing John Metz!",
-			["SpecID"] = 252,
-			["Author"] = "Exaria@Perenolde and John Metz",
-			["MacroVersions"] = {
-				{
-					"/use [nopet,combat] Raise Dead; Dark Transformation", -- [1]
-					"/cast [combat] Summon Gargoyle", -- [2]
-					"/castsequence  reset=combat  Festering Strike, Soul Reaper, Scourge Strike, Scourge Strike, Death Coil, Outbreak", -- [3]
-					"/castsequence  reset=combat  Festering Strike, Death Coil, Scourge Strike, Scourge Strike, Death Coil, Death Coil, Outbreak", -- [4]
-					"/castsequence  reset=combat  Festering Strike, Scourge Strike, Death Coil", -- [5]
-					"/cast [combat] Scourge Strike", -- [6]
-					"/cast [combat] Death Coil", -- [7]
-					["PostMacro"] = {
-					},
-					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
-					},
-					["PreMacro"] = {
-					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/use [mod:alt] Apocalypse(artifact)", -- [2]
-						"/castsequence  reset=target  Outbreak, null", -- [3]
-					},
-				}, -- [1]
-			},
-			["Icon"] = "Spell_Deathknight_UnholyPresence",
-			["Default"] = 1,
-		},
-		["HP_DFST"] = {
-			["Helplink"] = "https://wowlazymacros.com/forums/topic/gs-ptr-dual-frost/page/7/#post-35102",
-			["Talents"] = "2,2,3,3,2,1,3",
-			["Author"] = "John Metz",
-			["Help"] = "Frost Single Target",
-			["StepFunction"] = "Priority",
-			["Default"] = 1,
-			["SpecID"] = 251,
-			["Icon"] = "INV_MISC_QUESTIONMARK",
-			["MacroVersions"] = {
-				{
-					"/cast !Frost Strike", -- [1]
-					"/castsequence  reset=combat  Obliterate, Frost Strike, Howling Blast", -- [2]
-					"/castsequence  reset=combat  Frostscythe, Frost Strike, Frost Strike, Obliterate, Howling Blast", -- [3]
-					"/castsequence  reset=combat  Glacial Advance", -- [4]
-					"/cast [combat] Empower Rune Weapon", -- [5]
-					["KeyRelease"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-					},
-					["KeyPress"] = {
-						"/cast [combat] Pillar of Frost", -- [1]
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-					["PostMacro"] = {
-					},
-				}, -- [1]
-			},
-		},
-		["HP_SquishyDK"] = {
-			["Talents"] = "2,1,1,2,1,3,3",
-			["Help"] = "Talents: 2112133",
-			["StepFunction"] = "Priority",
-			["SpecID"] = 250,
-			["Author"] = "Suiseiseki",
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast [combat] Consumption", -- [1]
-					"/cast [combat] Blood Boil", -- [2]
-					"/cast Death Strike", -- [3]
-					"/castsequence reset=combat Marrowrend, Heart Strike, Heart Strike, Heart Strike, Heart Strike, Heart Strike, Marrowrend", -- [4]
-					"/castsequence reset=combat Death's Caress, null", -- [5]
-					"/castsequence reset=combat Marrowrend, Heart Strike, Heart Strike, Heart Strike, Heart Strike, Marrowrend", -- [6]
-					"/cast Death Strike", -- [7]
-					["KeyRelease"] = {
-						"/TargetEnemy [noharm][dead]", -- [1]
-					},
-					["KeyPress"] = {
-						"/Cast [combat] Dancing Rune Weapon", -- [1]
-						"/cancelaura Wraith Walk", -- [2]
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-					["PostMacro"] = {
-					},
-				}, -- [1]
-			},
-		},
-		["HP_EX_Unholy_ApocCS"] = {
-			["Helplink"] = "https://wowlazymacros.com/forums/topic/unholy-soul-reaper-7-1-5/",
-			["Talents"] = "3,2,3,?,?,3,3",
-			["Help"] = "Mastery build. Run at 80ms, 100ms, or manually. Hold ALT for Apocalypse at 6+ Wounds.\nIn collaboration with the amazing John Metz!",
-			["MacroVersions"] = {
-				{
-					"/use [nopet,combat] Raise Dead; Dark Transformation", -- [1]
-					"/cast [combat] Summon Gargoyle", -- [2]
-					"/cast [combat] Festering Strike", -- [3]
-					"/castsequence  reset=combat  Festering Strike, Soul Reaper, Clawing Shadows, Clawing Shadows, Death Coil, Outbreak", -- [4]
-					"/castsequence  reset=combat  Festering Strike, Death Coil, Clawing Shadows, Clawing Shadows, Death Coil, Death Coil, Outbreak", -- [5]
-					"/castsequence  reset=combat  Outbreak, Festering Strike, Clawing Shadows, Death Coil", -- [6]
-					"/cast [combat] Clawing Shadows", -- [7]
-					"/cast [combat] Death Coil", -- [8]
-					["PostMacro"] = {
-					},
-					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
-					},
-					["PreMacro"] = {
-					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/use [mod:alt] Apocalypse(artifact)", -- [2]
-						"/castsequence  reset=target  Outbreak, null", -- [3]
-					},
-				}, -- [1]
-			},
-			["Default"] = 1,
-			["Author"] = "Exaria@Perenolde and John Metz",
-			["Icon"] = "Spell_Deathknight_UnholyPresence",
-			["SpecID"] = 252,
-		},
-		["HP_AOEDF"] = {
-			["Helplink"] = "https://wowlazymacros.com/forums/topic/gs-ptr-dual-frost/page/7/#post-35102",
-			["Talents"] = "2,2,3,3,2,1,3",
-			["Author"] = "John Metz",
-			["Help"] = "Frost AoE",
-			["StepFunction"] = "Priority",
-			["Default"] = 1,
-			["SpecID"] = 251,
-			["Icon"] = "INV_MISC_QUESTIONMARK",
-			["MacroVersions"] = {
-				{
-					"/cast !Frost Strike", -- [1]
-					"/castsequence  reset=combat  Frostscythe, Frost Strike, Howling Blast", -- [2]
-					"/castsequence  reset=combat  Obliterate, Frost Strike, Frost Strike, Frostscythe, Howling Blast", -- [3]
-					"/castsequence  reset=combat  Glacial Advance", -- [4]
-					"/cast [combat] Remorseless Winter", -- [5]
-					"/cast [combat] Empower Rune Weapon", -- [6]
-					["KeyRelease"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-					},
-					["KeyPress"] = {
-						"/cast [combat] Pillar of Frost", -- [1]
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-					["PostMacro"] = {
-					},
-				}, -- [1]
-			},
-		},
-	},
-	[7] = {
-		["HP_enhST"] = {
-			["Talents"] = "3,2,1,3,1,1,2",
-			["Help"] = "Talents are 3213112",
-			["StepFunction"] = "Priority",
-			["Author"] = "Rocktris",
-			["SpecID"] = 263,
-			["Default"] = 1,
-			["MacroVersions"] = {
-				{
-					"/cast Stormstrike", -- [1]
-					"/cast Boulderfist", -- [2]
-					"/cast [combat] Crash Lightning", -- [3]
-					"/castsequence Flametongue, Frostbrand", -- [4]
-					"/cast [combat] Feral Spirit", -- [5]
-					["KeyRelease"] = {
-						"/startattack", -- [1]
-						"/cast [combat] Doom Winds", -- [2]
-					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-					},
-					["PostMacro"] = {
-					},
-					["PreMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-				}, -- [1]
-			},
-		},
-	},
-	[11] = {
-		["SAM_Feral-AoE"] = {
-			["Talents"] = "2,2,3,1,1,2,3",
-			["Default"] = 1,
-			["SpecID"] = 103,
-			["MacroVersions"] = {
-				{
-					"/castsequence [combat,nostealth] Thrash,Swipe,Swipe,Thrash,Swipe,Rip", -- [1]
-					"/castsequence [combat,nostealth] Swipe,Thrash,Swipe,Swipe,Thrash,Ferocious Bite", -- [2]
-					["KeyRelease"] = {
-						"/startattack", -- [1]
-						"/cast Tiger's Fury", -- [2]
-					},
-					["StepFunction"] = "Priority",
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/cast [@player,nostance:2] Cat Form", -- [2]
-						"/cast [nostealth,nocombat] Prowl", -- [3]
-						"/stopattack [stealth]", -- [4]
-					},
-					["PreMacro"] = {
-					},
-					["PostMacro"] = {
-					},
-				}, -- [1]
-			},
-			["Author"] = "Jimmy www.wowlazymacros.com",
-		},
-		["SAM_Boomer"] = {
-			["Talents"] = "2,3,2,3,1,1,2",
-			["Default"] = 1,
-			["SpecID"] = 102,
-			["MacroVersions"] = {
-				{
-					"/cast Moonfire", -- [1]
-					"/cast Sunfire", -- [2]
-					"/castsequence [combat] Solar Wrath,Lunar Strike,Solar Wrath,Lunar Strike,Solar Wrath,Solar Wrath", -- [3]
-					"/cast Starsurge", -- [4]
-					["KeyRelease"] = {
-						"/startattack", -- [1]
-					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/use [noform]!Moonkin Form", -- [2]
-					},
-					["PostMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-					["PreMacro"] = {
-					},
-				}, -- [1]
-			},
-			["Author"] = "TimothyLuke",
-		},
-		["SAM_druid_bala_st"] = {
-			["Talents"] = "3,3,3,3,1,3,2",
-			["Help"] = "CTRL Blessing of the Ancients, Shift Celestial Alignment, Alt Solar Beam",
-			["Author"] = "someone",
-			["MacroVersions"] = {
-				{
-					"/castsequence reset=target Sunfire,null", -- [1]
-					"/castsequence reset=target Moonfire,null", -- [2]
-					"/castsequence [combat]Starsurge,Solar Wrath,Lunar Strike,Solar Wrath", -- [3]
-					"/castsequence Lunar Strike,Solar Wrath,Starsurge,Solar Wrath,Lunar Strike,Starsurge", -- [4]
-					"/castsequence [combat]Solar Wrath,Lunar Strike,Solar Wrath,Moonfire", -- [5]
-					"/castsequence [combat]Solar Wrath,Starsurge,Lunar Strike,Solar Wrath", -- [6]
-					"/castsequence [combat]Starsurge,Solar Wrath,Solar Wrath,Sunfire", -- [7]
-					"/castsequence [combat]Solar Wrath,Lunar Strike,Starsurge,Moonfire", -- [8]
-					"/castsequence [combat]Lunar Strike,Solar Wrath,Lunar Strike", -- [9]
-					"/cast Starsurge", -- [10]
-					["KeyRelease"] = {
-						"/startattack", -- [1]
-					},
-					["StepFunction"] = "Priority",
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/cast [noform]!Moonkin Form", -- [2]
-						"/cast [mod:ctrl] Blessing of the Ancients", -- [3]
-						"/cast [mod:shift] Celestial Alignment", -- [4]
-						"/cast [mod:alt] Solar Beam", -- [5]
-					},
-					["PreMacro"] = {
-					},
-					["PostMacro"] = {
-					},
-				}, -- [1]
-			},
-			["Default"] = 1,
-			["SpecID"] = 102,
-		},
-		["SAM_Bear"] = {
-			["Talents"] = "2,3,3,1,1,1,1",
-			["Default"] = 1,
-			["SpecID"] = 104,
-			["MacroVersions"] = {
-				{
-					"/castsequence reset=combat Thrash, Moonfire, Maul, Swipe", -- [1]
-					"/castsequence reset=combat Savage Defense, Swipe, Swipe, Savage Defense ,Frenzied Regeneration, Ironfur", -- [2]
-					"/cast Survival Instincts", -- [3]
-					"/cast Thrash", -- [4]
-					"/castsequence reset=combat Swipe, Moonfire, Maul, Mangle, Ironfur", -- [5]
-					"/cast Pulverize", -- [6]
-					"/cast Incapacitating Roar", -- [7]
-					"/cast [combat] Barkskin", -- [8]
-					"/cast [combat] Mighty Bash", -- [9]
-					"/cast [combat] Berserk", -- [10]
-					"/castsequence Cenarion ward", -- [11]
-					["KeyRelease"] = {
-						"/startattack", -- [1]
-					},
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/cast [@player,nostance:1] Bear Form", -- [2]
-					},
-					["StepFunction"] = "Priority",
-					["PreMacro"] = {
-					},
-					["PostMacro"] = {
-					},
-				}, -- [1]
-			},
-			["Author"] = "John Mets www.wowlazymacros.com",
-		},
-		["SAM_Feral-ST"] = {
-			["Talents"] = "2,2,3,1,1,2,3",
-			["Default"] = 1,
-			["SpecID"] = 103,
-			["MacroVersions"] = {
-				{
-					"/castsequence [combat,nostealth] Rake,Shred,Shred,Rake,Shred,Rip", -- [1]
-					"/castsequence [combat,nostealth] Shred,Rake,Shred,Shred,Rake,Ferocious Bite", -- [2]
-					["KeyRelease"] = {
-						"/startattack", -- [1]
-						"/cast Tiger's Fury", -- [2]
-					},
-					["StepFunction"] = "Priority",
-					["KeyPress"] = {
-						"/targetenemy [noharm][dead]", -- [1]
-						"/cast [@player,nostance:2] Cat Form", -- [2]
-						"/cast [nostealth,nocombat] Prowl", -- [3]
-						"/stopattack [stealth]", -- [4]
-					},
-					["PreMacro"] = {
-					},
-					["PostMacro"] = {
-					},
-				}, -- [1]
-			},
-			["Author"] = "Jimmy www.wowlazymacros.com",
-		},
-		["SAM_KTNDRUHEALS"] = {
-			["Talents"] = "2,1,1,3,1,1,2",
-			["Default"] = 1,
-			["SpecID"] = 105,
-			["MacroVersions"] = {
-				{
-					"/castsequence [@focus] reset=15/combat Lifebloom, Regrowth, Rejuvenation", -- [1]
-					"/cast [@focus] Cenarion Ward", -- [2]
-					"/castsequence reset=target [@mouseover,exists,help,nodead] Regrowth, Rejuvenation, Healing Touch, Swiftmend", -- [3]
-					["KeyRelease"] = {
-						"/cast [@focus]Ironbark", -- [1]
-						"/cast [@player]Barkskin", -- [2]
-					},
-					["KeyPress"] = {
-						"/cast [@focus,dead] Rebirth", -- [1]
-					},
-					["PostMacro"] = {
-					},
-					["StepFunciton"] = "Sequential",
-					["PreMacro"] = {
-					},
-				}, -- [1]
-			},
-			["Author"] = "KTN",
-		},
-	},
 	[3] = {
 		["HP_BM1"] = {
 			["Talents"] = "3,2,2,2,3,2,1",
 			["Help"] = "With Barrage - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -666,13 +267,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_lookdead"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Look Dead - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Feign Death", -- [1]
@@ -701,13 +302,13 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_SBMmain"] = {
 			["Talents"] = "3,2,1,2,3,3,3",
 			["Help"] = "Solo main - Talent: 3212333",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -734,13 +335,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_BMburst"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "BMAoE - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -765,6 +366,8 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_TBMAOE"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/max-artifact-with-mantle-of-command-and-the-apex-predators-claw/",
@@ -854,18 +457,16 @@ GSELibrary = {
 			},
 			["Help"] = "Tater based AoE",
 			["Mythic"] = 2,
-			["PVP"] = 3,
 			["SpecID"] = 253,
 			["Raid"] = 2,
+			["PVP"] = 3,
 			["Default"] = 1,
 		},
 		["HP_RBMAoE"] = {
 			["Talents"] = "3,2,1,2,2,3,3",
 			["Help"] = "Raiding AoE - Talent: 3212233",
 			["StepFunction"] = "Priority",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -893,13 +494,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_SAoE"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Raiding AoE - Talent: 3212233",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -925,13 +526,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_Healpet"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Pet Heal - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir-Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [@pet,dead]Revive Pet", -- [1]
@@ -962,13 +563,13 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_2RBMAoE"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "2nd Raiding AoE with Barrage- Talent: 3212223",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -995,13 +596,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_2RSBM"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "2nd Raiding Single without Barrage- Talent: 3212223",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -1028,13 +629,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_RBMmain"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Raiding main With Barrage- Talent: 3212223",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -1062,6 +663,8 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_TBMmain"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/max-artifact-with-mantle-of-command-and-the-apex-predators-claw/",
@@ -1148,17 +751,15 @@ GSELibrary = {
 			},
 			["Help"] = "Tater based High DPS",
 			["Mythic"] = 2,
-			["PVP"] = 3,
 			["SpecID"] = 253,
 			["Raid"] = 2,
+			["PVP"] = 3,
 			["Default"] = 1,
 		},
 		["HP_OShit"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Oh Shit - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast Aspect of the Turtle", -- [1]
@@ -1194,13 +795,13 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_BM2"] = {
 			["Talents"] = "3,2,2,2,3,2,1",
 			["Help"] = "Without Barrage - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -1228,100 +829,239 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 	},
-	[12] = {
-		["混打刃舞"] = {
-			["Talents"] = "2223311",
-			["Default"] = 1,
-			["Author"] = "龙剑曦@主宰之剑",
-			["SpecID"] = 577,
+	[5] = {
+		["HP_SPriest_All-in-One"] = {
+			["Helplink"] = "https://wowlazymacros.com/forums/topic/shadow-priest-7-1-5-gse-2-0-2/",
+			["Talents"] = "Any Combination",
+			["Help"] = "This macro is quite versatile and should work with any talent combination.\\n - Pressing the CTRL key while spamming the macro will allow you to cast Shadow Word: Pain and Vampiric Touch. \\n - Pressing the ALT key while spamming the macro will allow you to cast Void Torrent, Power Infusion and Mindbender (if you have chosen one of these talents). \\n - Surrender to Madness (S2M) will need to be cast manually, as it makes no sense adding it to our rotation – given the length of its cooldown. \\n-  Dispersion will also need to be cast manually when the S2M buff is active.\\n This macro has WeakAuras that are available from the Forum.",
+			["SpecID"] = 258,
+			["Author"] = "Sethadon",
 			["MacroVersions"] = {
 				{
-					"/cast [nochanneling] Bladedance", -- [1]
-					"/cast [nochanneling] Fury of the Illidari", -- [2]
-					"/cast [nochanneling] Chaos Strike", -- [3]
-					["Combat"] = true,
-					["Head"] = false,
-					["Neck"] = false,
-					["Belt"] = false,
-					["Ring1"] = false,
-					["Ring2"] = false,
+					"/cast [nochanneling:Void Torrent] Void Eruption", -- [1]
+					"/castsequence [talent:7/1, nochanneling:Void Torrent] [talent:7/2, nochanneling:Void Torrent] Shadow Word: Death; [talent:7/3, nochanneling:Void Torrent] Shadow Word: Death, Mind Blast, Mind Blast", -- [2]
+					"/cast [nochanneling:Void Torrent] Mind Blast", -- [3]
+					"/cast [combat, nochanneling] Mind Flay", -- [4]
+					"/cast [talent:7/2, nochanneling:Void Torrent, @cursor] Shadow Crash", -- [5]
+					"/castsequence [talent:1/3, nochanneling:Void Torrent] Shadow Word: Void, Mind Blast, Mind Blast", -- [6]
+					"/cast [talent:6/1, combat, nochanneling:Void Torrent] [talent:6/2, combat, nochanneling:Void Torrent] Shadowfiend", -- [7]
+					"/cast [talent:3/1, talent:7/1, nochanneling:Void Torrent] [talent:3/1, talent:7/2, nochanneling:Void Torrent] Mind Bomb", -- [8]
+					"/cast [combat, nochanneling] Mind Flay", -- [9]
+					["PostMacro"] = {
+					},
+					["StepFunction"] = "Priority",
 					["KeyPress"] = {
-						"#showtooltip 刃舞", -- [1]
+						"/cast [form:0] Shadowform", -- [1]
+						"/targetenemy [noharm] [dead]", -- [2]
+						"/castsequence [mod:ctrl, talent:6/1, nochanneling:Void Torrent] [mod:ctrl, talent:6/3, nochanneling:Void Torrent] reset=target/5 Shadow Word: Pain, Vampiric Touch", -- [3]
+						"/cast [mod:ctrl, talent:6/2, nochanneling:Void Torrent] Vampiric Touch", -- [4]
+						"/cast [mod:alt, talent:6/1, talent:7/1, nochanneling:Void Torrent] [mod:alt, talent:6/1, talent:7/2, nochanneling:Void Torrent] Power Infusion", -- [5]
+						"/castsequence [mod:alt, talent:6/1, talent:7/3, nochanneling:Void Torrent] reset=120 Power Infusion, Void Torrent, Void Torrent", -- [6]
+						"/cast [mod:alt, talent:6/1, talent:7/1] [mod:alt, talent:6/1, talent:7/2] [mod:alt, talent:6/2] Void Torrent", -- [7]
+						"/castsequence [mod:alt, talent:6/3, nochanneling:Void Torrent] reset=60 Mindbender, Void Torrent", -- [8]
+					},
+					["PreMacro"] = {
 					},
 					["KeyRelease"] = {
 					},
-					["StepFunction"] = "Priority",
-					["Trinket2"] = false,
-					["Trinket1"] = false,
+				}, -- [1]
+			},
+			["Icon"] = "Spell_Shadow_ShadowWordPain",
+			["Default"] = 1,
+		},
+	},
+	[6] = {
+		["HP_EX_Unholy_Apoc"] = {
+			["Helplink"] = "https://wowlazymacros.com/forums/topic/unholy-soul-reaper-7-1-5/",
+			["Talents"] = "321??33",
+			["Help"] = "Run at 80ms or manually. Hold ALT for Apocalypse at 6+ Wounds.\nIn collaboration with the amazing John Metz!",
+			["SpecID"] = 252,
+			["Author"] = "Exaria@Perenolde and John Metz",
+			["MacroVersions"] = {
+				{
+					"/use [nopet,combat] Raise Dead; Dark Transformation", -- [1]
+					"/cast [combat] Summon Gargoyle", -- [2]
+					"/castsequence  reset=combat  Festering Strike, Soul Reaper, Scourge Strike, Scourge Strike, Death Coil, Outbreak", -- [3]
+					"/castsequence  reset=combat  Festering Strike, Death Coil, Scourge Strike, Scourge Strike, Death Coil, Death Coil, Outbreak", -- [4]
+					"/castsequence  reset=combat  Festering Strike, Scourge Strike, Death Coil", -- [5]
+					"/cast [combat] Scourge Strike", -- [6]
+					"/cast [combat] Death Coil", -- [7]
+					["PostMacro"] = {
+					},
+					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/use [mod:alt] Apocalypse(artifact)", -- [2]
+						"/castsequence  reset=target  Outbreak, null", -- [3]
+					},
 					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
+					},
+				}, -- [1]
+			},
+			["Icon"] = "Spell_Deathknight_UnholyPresence",
+			["Default"] = 1,
+		},
+		["HP_DFST"] = {
+			["Helplink"] = "https://wowlazymacros.com/forums/topic/gs-ptr-dual-frost/page/7/#post-35102",
+			["Talents"] = "2,2,3,3,2,1,3",
+			["Author"] = "John Metz",
+			["Help"] = "Frost Single Target",
+			["StepFunction"] = "Priority",
+			["Default"] = 1,
+			["SpecID"] = 251,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
+			["MacroVersions"] = {
+				{
+					"/cast !Frost Strike", -- [1]
+					"/castsequence  reset=combat  Obliterate, Frost Strike, Howling Blast", -- [2]
+					"/castsequence  reset=combat  Frostscythe, Frost Strike, Frost Strike, Obliterate, Howling Blast", -- [3]
+					"/castsequence  reset=combat  Glacial Advance", -- [4]
+					"/cast [combat] Empower Rune Weapon", -- [5]
+					["KeyRelease"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+					},
+					["KeyPress"] = {
+						"/cast [combat] Pillar of Frost", -- [1]
 					},
 					["PostMacro"] = {
 					},
+					["PreMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
 		},
-		["DH_Havoc"] = {
-			["Talents"] = "2213311",
-			["Default"] = 1,
+		["HP_SquishyDK"] = {
+			["Talents"] = "2,1,1,2,1,3,3",
+			["Help"] = "Talents: 2112133",
+			["StepFunction"] = "Priority",
+			["Author"] = "Suiseiseki",
 			["MacroVersions"] = {
 				{
-					"/cast [nochanneling] Bladedance", -- [1]
-					"/cast [nochanneling] Fury of the Illidari", -- [2]
-					"/cast [nochanneling] Chaos Strike", -- [3]
-					"/cast [nochanneling] Felblade", -- [4]
-					"/cast [nochanneling] 投掷利刃", -- [5]
+					"/cast [combat] Consumption", -- [1]
+					"/cast [combat] Blood Boil", -- [2]
+					"/cast Death Strike", -- [3]
+					"/castsequence reset=combat Marrowrend, Heart Strike, Heart Strike, Heart Strike, Heart Strike, Heart Strike, Marrowrend", -- [4]
+					"/castsequence reset=combat Death's Caress, null", -- [5]
+					"/castsequence reset=combat Marrowrend, Heart Strike, Heart Strike, Heart Strike, Heart Strike, Marrowrend", -- [6]
+					"/cast Death Strike", -- [7]
+					["KeyRelease"] = {
+						"/TargetEnemy [noharm][dead]", -- [1]
+					},
+					["KeyPress"] = {
+						"/Cast [combat] Dancing Rune Weapon", -- [1]
+						"/cancelaura Wraith Walk", -- [2]
+					},
 					["PostMacro"] = {
 					},
-					["Head"] = false,
-					["Neck"] = false,
-					["Belt"] = false,
-					["Ring1"] = false,
-					["KeyPress"] = {
-					},
-					["KeyRelease"] = {
-					},
-					["Trinket2"] = false,
-					["Trinket1"] = false,
-					["StepFunction"] = "Priority",
 					["PreMacro"] = {
 					},
-					["Ring2"] = false,
+					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
-			["Author"] = "Will",
-			["Icon"] = "",
-			["SpecID"] = 577,
+			["Default"] = 1,
+			["SpecID"] = 250,
 		},
-		["邪刃飞刀"] = {
-			["Talents"] = "2223311",
+		["HP_EX_Unholy_ApocCS"] = {
+			["Helplink"] = "https://wowlazymacros.com/forums/topic/unholy-soul-reaper-7-1-5/",
+			["Talents"] = "3,2,3,?,?,3,3",
+			["Help"] = "Mastery build. Run at 80ms, 100ms, or manually. Hold ALT for Apocalypse at 6+ Wounds.\nIn collaboration with the amazing John Metz!",
 			["Default"] = 1,
-			["Author"] = "龙剑曦@主宰之剑",
 			["MacroVersions"] = {
 				{
-					"/cast [nochanneling] Felblade", -- [1]
-					"/cast [nochanneling] 投掷利刃", -- [2]
-					["Combat"] = true,
-					["Head"] = false,
-					["Neck"] = false,
-					["Belt"] = false,
-					["Ring1"] = false,
+					"/use [nopet,combat] Raise Dead; Dark Transformation", -- [1]
+					"/cast [combat] Summon Gargoyle", -- [2]
+					"/cast [combat] Festering Strike", -- [3]
+					"/castsequence  reset=combat  Festering Strike, Soul Reaper, Clawing Shadows, Clawing Shadows, Death Coil, Outbreak", -- [4]
+					"/castsequence  reset=combat  Festering Strike, Death Coil, Clawing Shadows, Clawing Shadows, Death Coil, Death Coil, Outbreak", -- [5]
+					"/castsequence  reset=combat  Outbreak, Festering Strike, Clawing Shadows, Death Coil", -- [6]
+					"/cast [combat] Clawing Shadows", -- [7]
+					"/cast [combat] Death Coil", -- [8]
 					["PostMacro"] = {
 					},
-					["Trinket2"] = false,
-					["KeyRelease"] = {
+					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/use [mod:alt] Apocalypse(artifact)", -- [2]
+						"/castsequence  reset=target  Outbreak, null", -- [3]
 					},
-					["StepFunction"] = "Priority",
-					["Trinket1"] = false,
-					["Ring2"] = false,
 					["PreMacro"] = {
 					},
-					["KeyPress"] = {
+					["KeyRelease"] = {
 					},
 				}, -- [1]
 			},
-			["SpecID"] = 577,
+			["Author"] = "Exaria@Perenolde and John Metz",
+			["Icon"] = "Spell_Deathknight_UnholyPresence",
+			["SpecID"] = 252,
+		},
+		["HP_AOEDF"] = {
+			["Helplink"] = "https://wowlazymacros.com/forums/topic/gs-ptr-dual-frost/page/7/#post-35102",
+			["Talents"] = "2,2,3,3,2,1,3",
+			["Author"] = "John Metz",
+			["Help"] = "Frost AoE",
+			["StepFunction"] = "Priority",
+			["Default"] = 1,
+			["SpecID"] = 251,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
+			["MacroVersions"] = {
+				{
+					"/cast !Frost Strike", -- [1]
+					"/castsequence  reset=combat  Frostscythe, Frost Strike, Howling Blast", -- [2]
+					"/castsequence  reset=combat  Obliterate, Frost Strike, Frost Strike, Frostscythe, Howling Blast", -- [3]
+					"/castsequence  reset=combat  Glacial Advance", -- [4]
+					"/cast [combat] Remorseless Winter", -- [5]
+					"/cast [combat] Empower Rune Weapon", -- [6]
+					["KeyRelease"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+					},
+					["KeyPress"] = {
+						"/cast [combat] Pillar of Frost", -- [1]
+					},
+					["PostMacro"] = {
+					},
+					["PreMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+				}, -- [1]
+			},
+		},
+	},
+	[7] = {
+		["HP_enhST"] = {
+			["Talents"] = "3,2,1,3,1,1,2",
+			["Help"] = "Talents are 3213112",
+			["StepFunction"] = "Priority",
+			["SpecID"] = 263,
+			["MacroVersions"] = {
+				{
+					"/cast Stormstrike", -- [1]
+					"/cast Boulderfist", -- [2]
+					"/cast [combat] Crash Lightning", -- [3]
+					"/castsequence Flametongue, Frostbrand", -- [4]
+					"/cast [combat] Feral Spirit", -- [5]
+					["KeyRelease"] = {
+						"/startattack", -- [1]
+						"/cast [combat] Doom Winds", -- [2]
+					},
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+					},
+					["PostMacro"] = {
+					},
+					["PreMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+				}, -- [1]
+			},
+			["Default"] = 1,
+			["Author"] = "Rocktris",
 		},
 	},
 	[9] = {
@@ -1329,9 +1069,7 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/demonology-synergy/",
 			["Talents"] = "3,1,?,1,?,2,2",
 			["Help"] = "Single Target - Run at 80ms or manually",
-			["Author"] = "Exlynn@Perenolde",
 			["SpecID"] = 266,
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/castsequence [nochanneling] Demonbolt, Call Dreadstalkers, Demonic Empowerment, Life Tap", -- [1]
@@ -1357,14 +1095,14 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["Author"] = "Exlynn@Perenolde",
 		},
 		["HP_EX_Aff_ST_Haste"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/affliction-conduit-7-1-5/",
 			["Talents"] = "3,2,?,1,?,1,3",
 			["Help"] = "Single Target - Run at 80ms, 100ms, or manually - Requires 20% haste or higher",
-			["Author"] = "Exlynn@Perenolde with help from Belthozar@Pozzo dell’Eternità",
 			["SpecID"] = 265,
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/castsequence [nochanneling] Agony, Siphon Life, Drain Soul, Life Tap, Agony", -- [1]
@@ -1388,14 +1126,14 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["Author"] = "Exlynn@Perenolde with help from Belthozar@Pozzo dell’Eternità",
 		},
 		["HP_EX_Aff_ST"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/affliction-conduit-7-1-5/",
 			["Talents"] = "3,2,?,1,?,1,3",
 			["Help"] = "Single Target - Run at 80ms, 100ms, or manually - Use if less than 20% haste",
-			["Author"] = "Exlynn@Perenolde with help from Belthozar@Pozzo dell’Eternità",
 			["SpecID"] = 265,
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/castsequence [nochanneling] Agony, Siphon Life, Drain Soul, Life Tap, Agony", -- [1]
@@ -1441,6 +1179,8 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
+			["Default"] = 1,
+			["Author"] = "Exlynn@Perenolde with help from Belthozar@Pozzo dell’Eternità",
 		},
 		["HP_EX_Demo_AoE"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/demonology-synergy/",
@@ -1476,9 +1216,7 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/affliction-conduit-7-1-5/",
 			["Talents"] = "3,1,?,1,?,1,3",
 			["Help"] = "AoE - Run at 80ms or manually",
-			["Author"] = "Exlynn@Perenolde",
 			["SpecID"] = 265,
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/castsequence Seed of Corruption, Seed of Corruption, Seed of Corruption, Agony, Life Tap", -- [1]
@@ -1522,47 +1260,8 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
-		},
-	},
-	[5] = {
-		["HP_SPriest_All-in-One"] = {
-			["Helplink"] = "https://wowlazymacros.com/forums/topic/shadow-priest-7-1-5-gse-2-0-2/",
-			["Talents"] = "Any Combination",
-			["Help"] = "This macro is quite versatile and should work with any talent combination.\\n - Pressing the CTRL key while spamming the macro will allow you to cast Shadow Word: Pain and Vampiric Touch. \\n - Pressing the ALT key while spamming the macro will allow you to cast Void Torrent, Power Infusion and Mindbender (if you have chosen one of these talents). \\n - Surrender to Madness (S2M) will need to be cast manually, as it makes no sense adding it to our rotation – given the length of its cooldown. \\n-  Dispersion will also need to be cast manually when the S2M buff is active.\\n This macro has WeakAuras that are available from the Forum.",
-			["SpecID"] = 258,
-			["Author"] = "Sethadon",
-			["MacroVersions"] = {
-				{
-					"/cast [nochanneling:Void Torrent] Void Eruption", -- [1]
-					"/castsequence [talent:7/1, nochanneling:Void Torrent] [talent:7/2, nochanneling:Void Torrent] Shadow Word: Death; [talent:7/3, nochanneling:Void Torrent] Shadow Word: Death, Mind Blast, Mind Blast", -- [2]
-					"/cast [nochanneling:Void Torrent] Mind Blast", -- [3]
-					"/cast [combat, nochanneling] Mind Flay", -- [4]
-					"/cast [talent:7/2, nochanneling:Void Torrent, @cursor] Shadow Crash", -- [5]
-					"/castsequence [talent:1/3, nochanneling:Void Torrent] Shadow Word: Void, Mind Blast, Mind Blast", -- [6]
-					"/cast [talent:6/1, combat, nochanneling:Void Torrent] [talent:6/2, combat, nochanneling:Void Torrent] Shadowfiend", -- [7]
-					"/cast [talent:3/1, talent:7/1, nochanneling:Void Torrent] [talent:3/1, talent:7/2, nochanneling:Void Torrent] Mind Bomb", -- [8]
-					"/cast [combat, nochanneling] Mind Flay", -- [9]
-					["PostMacro"] = {
-					},
-					["StepFunction"] = "Priority",
-					["KeyPress"] = {
-						"/cast [form:0] Shadowform", -- [1]
-						"/targetenemy [noharm] [dead]", -- [2]
-						"/castsequence [mod:ctrl, talent:6/1, nochanneling:Void Torrent] [mod:ctrl, talent:6/3, nochanneling:Void Torrent] reset=target/5 Shadow Word: Pain, Vampiric Touch", -- [3]
-						"/cast [mod:ctrl, talent:6/2, nochanneling:Void Torrent] Vampiric Touch", -- [4]
-						"/cast [mod:alt, talent:6/1, talent:7/1, nochanneling:Void Torrent] [mod:alt, talent:6/1, talent:7/2, nochanneling:Void Torrent] Power Infusion", -- [5]
-						"/castsequence [mod:alt, talent:6/1, talent:7/3, nochanneling:Void Torrent] reset=120 Power Infusion, Void Torrent, Void Torrent", -- [6]
-						"/cast [mod:alt, talent:6/1, talent:7/1] [mod:alt, talent:6/1, talent:7/2] [mod:alt, talent:6/2] Void Torrent", -- [7]
-						"/castsequence [mod:alt, talent:6/3, nochanneling:Void Torrent] reset=60 Mindbender, Void Torrent", -- [8]
-					},
-					["PreMacro"] = {
-					},
-					["KeyRelease"] = {
-					},
-				}, -- [1]
-			},
-			["Icon"] = "Spell_Shadow_ShadowWordPain",
 			["Default"] = 1,
+			["Author"] = "Exlynn@Perenolde",
 		},
 	},
 	[10] = {
@@ -1616,5 +1315,277 @@ GSELibrary = {
 			["Icon"] = "spell_monk_windwalker_spec",
 			["SpecID"] = 269,
 		},
+	},
+	[11] = {
+		["SAM_Feral-AoE"] = {
+			["Talents"] = "2,2,3,1,1,2,3",
+			["Default"] = 1,
+			["SpecID"] = 103,
+			["MacroVersions"] = {
+				{
+					"/castsequence [combat,nostealth] Thrash,Swipe,Swipe,Thrash,Swipe,Rip", -- [1]
+					"/castsequence [combat,nostealth] Swipe,Thrash,Swipe,Swipe,Thrash,Ferocious Bite", -- [2]
+					["KeyRelease"] = {
+						"/startattack", -- [1]
+						"/cast Tiger's Fury", -- [2]
+					},
+					["StepFunction"] = "Priority",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/cast [@player,nostance:2] Cat Form", -- [2]
+						"/cast [nostealth,nocombat] Prowl", -- [3]
+						"/stopattack [stealth]", -- [4]
+					},
+					["PreMacro"] = {
+					},
+					["PostMacro"] = {
+					},
+				}, -- [1]
+			},
+			["Author"] = "Jimmy www.wowlazymacros.com",
+		},
+		["SAM_Boomer"] = {
+			["Talents"] = "2,3,2,3,1,1,2",
+			["Default"] = 1,
+			["SpecID"] = 102,
+			["MacroVersions"] = {
+				{
+					"/cast Moonfire", -- [1]
+					"/cast Sunfire", -- [2]
+					"/castsequence [combat] Solar Wrath,Lunar Strike,Solar Wrath,Lunar Strike,Solar Wrath,Solar Wrath", -- [3]
+					"/cast Starsurge", -- [4]
+					["KeyRelease"] = {
+						"/startattack", -- [1]
+					},
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/use [noform]!Moonkin Form", -- [2]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+			["Author"] = "TimothyLuke",
+		},
+		["SAM_druid_bala_st"] = {
+			["Talents"] = "3,3,3,3,1,3,2",
+			["Help"] = "CTRL Blessing of the Ancients, Shift Celestial Alignment, Alt Solar Beam",
+			["MacroVersions"] = {
+				{
+					"/castsequence reset=target Sunfire,null", -- [1]
+					"/castsequence reset=target Moonfire,null", -- [2]
+					"/castsequence [combat]Starsurge,Solar Wrath,Lunar Strike,Solar Wrath", -- [3]
+					"/castsequence Lunar Strike,Solar Wrath,Starsurge,Solar Wrath,Lunar Strike,Starsurge", -- [4]
+					"/castsequence [combat]Solar Wrath,Lunar Strike,Solar Wrath,Moonfire", -- [5]
+					"/castsequence [combat]Solar Wrath,Starsurge,Lunar Strike,Solar Wrath", -- [6]
+					"/castsequence [combat]Starsurge,Solar Wrath,Solar Wrath,Sunfire", -- [7]
+					"/castsequence [combat]Solar Wrath,Lunar Strike,Starsurge,Moonfire", -- [8]
+					"/castsequence [combat]Lunar Strike,Solar Wrath,Lunar Strike", -- [9]
+					"/cast Starsurge", -- [10]
+					["KeyRelease"] = {
+						"/startattack", -- [1]
+					},
+					["StepFunction"] = "Priority",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/cast [noform]!Moonkin Form", -- [2]
+						"/cast [mod:ctrl] Blessing of the Ancients", -- [3]
+						"/cast [mod:shift] Celestial Alignment", -- [4]
+						"/cast [mod:alt] Solar Beam", -- [5]
+					},
+					["PreMacro"] = {
+					},
+					["PostMacro"] = {
+					},
+				}, -- [1]
+			},
+			["SpecID"] = 102,
+			["Default"] = 1,
+			["Author"] = "someone",
+		},
+		["SAM_Bear"] = {
+			["Talents"] = "2,3,3,1,1,1,1",
+			["Default"] = 1,
+			["SpecID"] = 104,
+			["MacroVersions"] = {
+				{
+					"/castsequence reset=combat Thrash, Moonfire, Maul, Swipe", -- [1]
+					"/castsequence reset=combat Savage Defense, Swipe, Swipe, Savage Defense ,Frenzied Regeneration, Ironfur", -- [2]
+					"/cast Survival Instincts", -- [3]
+					"/cast Thrash", -- [4]
+					"/castsequence reset=combat Swipe, Moonfire, Maul, Mangle, Ironfur", -- [5]
+					"/cast Pulverize", -- [6]
+					"/cast Incapacitating Roar", -- [7]
+					"/cast [combat] Barkskin", -- [8]
+					"/cast [combat] Mighty Bash", -- [9]
+					"/cast [combat] Berserk", -- [10]
+					"/castsequence Cenarion ward", -- [11]
+					["KeyRelease"] = {
+						"/startattack", -- [1]
+					},
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/cast [@player,nostance:1] Bear Form", -- [2]
+					},
+					["StepFunction"] = "Priority",
+					["PreMacro"] = {
+					},
+					["PostMacro"] = {
+					},
+				}, -- [1]
+			},
+			["Author"] = "John Mets www.wowlazymacros.com",
+		},
+		["SAM_Feral-ST"] = {
+			["Talents"] = "2,2,3,1,1,2,3",
+			["Default"] = 1,
+			["SpecID"] = 103,
+			["MacroVersions"] = {
+				{
+					"/castsequence [combat,nostealth] Rake,Shred,Shred,Rake,Shred,Rip", -- [1]
+					"/castsequence [combat,nostealth] Shred,Rake,Shred,Shred,Rake,Ferocious Bite", -- [2]
+					["KeyRelease"] = {
+						"/startattack", -- [1]
+						"/cast Tiger's Fury", -- [2]
+					},
+					["StepFunction"] = "Priority",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/cast [@player,nostance:2] Cat Form", -- [2]
+						"/cast [nostealth,nocombat] Prowl", -- [3]
+						"/stopattack [stealth]", -- [4]
+					},
+					["PreMacro"] = {
+					},
+					["PostMacro"] = {
+					},
+				}, -- [1]
+			},
+			["Author"] = "Jimmy www.wowlazymacros.com",
+		},
+		["SAM_KTNDRUHEALS"] = {
+			["Talents"] = "2,1,1,3,1,1,2",
+			["Default"] = 1,
+			["SpecID"] = 105,
+			["MacroVersions"] = {
+				{
+					"/castsequence [@focus] reset=15/combat Lifebloom, Regrowth, Rejuvenation", -- [1]
+					"/cast [@focus] Cenarion Ward", -- [2]
+					"/castsequence reset=target [@mouseover,exists,help,nodead] Regrowth, Rejuvenation, Healing Touch, Swiftmend", -- [3]
+					["KeyRelease"] = {
+						"/cast [@focus]Ironbark", -- [1]
+						"/cast [@player]Barkskin", -- [2]
+					},
+					["KeyPress"] = {
+						"/cast [@focus,dead] Rebirth", -- [1]
+					},
+					["PostMacro"] = {
+					},
+					["StepFunciton"] = "Sequential",
+					["PreMacro"] = {
+					},
+				}, -- [1]
+			},
+			["Author"] = "KTN",
+		},
+	},
+	[12] = {
+		["混打刃舞"] = {
+			["Talents"] = "2223311",
+			["Default"] = 1,
+			["Author"] = "龙剑曦@主宰之剑",
+			["SpecID"] = 577,
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bladedance", -- [1]
+					"/cast [nochanneling] Fury of the Illidari", -- [2]
+					"/cast [nochanneling] Chaos Strike", -- [3]
+					["Combat"] = true,
+					["Head"] = false,
+					["Neck"] = false,
+					["Belt"] = false,
+					["Ring1"] = false,
+					["Ring2"] = false,
+					["KeyPress"] = {
+						"#showtooltip 刃舞", -- [1]
+					},
+					["KeyRelease"] = {
+					},
+					["StepFunction"] = "Priority",
+					["Trinket2"] = false,
+					["Trinket1"] = false,
+					["PreMacro"] = {
+					},
+					["PostMacro"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["DH_Havoc"] = {
+			["Talents"] = "2213311",
+			["Default"] = 1,
+			["Author"] = "Will",
+			["SpecID"] = 577,
+			["Icon"] = "",
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Bladedance", -- [1]
+					"/cast [nochanneling] Fury of the Illidari", -- [2]
+					"/cast [nochanneling] Chaos Strike", -- [3]
+					"/cast [nochanneling] Felblade", -- [4]
+					"/cast [nochanneling] 投掷利刃", -- [5]
+					["PostMacro"] = {
+					},
+					["Head"] = false,
+					["Neck"] = false,
+					["Belt"] = false,
+					["Ring1"] = false,
+					["KeyPress"] = {
+					},
+					["KeyRelease"] = {
+					},
+					["Trinket2"] = false,
+					["Trinket1"] = false,
+					["StepFunction"] = "Priority",
+					["PreMacro"] = {
+					},
+					["Ring2"] = false,
+				}, -- [1]
+			},
+		},
+		["邪刃飞刀"] = {
+			["Talents"] = "2223311",
+			["Default"] = 1,
+			["Author"] = "龙剑曦@主宰之剑",
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] Felblade", -- [1]
+					"/cast [nochanneling] 投掷利刃", -- [2]
+					["Combat"] = true,
+					["Head"] = false,
+					["Neck"] = false,
+					["Belt"] = false,
+					["Ring1"] = false,
+					["PostMacro"] = {
+					},
+					["Trinket2"] = false,
+					["KeyRelease"] = {
+					},
+					["StepFunction"] = "Priority",
+					["Trinket1"] = false,
+					["Ring2"] = false,
+					["PreMacro"] = {
+					},
+					["KeyPress"] = {
+					},
+				}, -- [1]
+			},
+			["SpecID"] = 577,
+		},
+	},
+	[0] = {
 	},
 }

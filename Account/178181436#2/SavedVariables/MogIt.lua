@@ -1,7 +1,7 @@
 
 MogItDB = {
 	["global"] = {
-		["version"] = "3.8.1",
+		["version"] = "3.8.2",
 	},
 	["profileKeys"] = {
 		["星界旅行者 - 瓦拉斯塔兹"] = "Default",
@@ -107,7 +107,7 @@ MogItWishlist = {
 		["倾城丨烟雨 - 摩摩尔"] = "倾城丨烟雨 - 摩摩尔",
 	},
 	["global"] = {
-		["version"] = 70200,
+		["version"] = 70300,
 	},
 	["profiles"] = {
 		["星界旅行者 - 瓦拉斯塔兹"] = {

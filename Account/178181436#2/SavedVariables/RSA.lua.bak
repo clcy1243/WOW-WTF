@@ -193,8 +193,8 @@ RSADB = {
 		},
 		["锦在天堂 - 太阳之井"] = {
 			["General"] = {
-				["Class"] = "DEATHKNIGHT",
 				["Race"] = "BloodElf",
+				["Class"] = "DEATHKNIGHT",
 			},
 			["Modules"] = {
 				["DeathKnight"] = true,

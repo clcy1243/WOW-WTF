@@ -1,12 +1,12 @@
 
 TidyPlatesThreatDB = {
 	["char"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = {
+		["Justpalymage - 太阳之井"] = {
 			["specInfo"] = {
-				["id"] = 265,
+				["id"] = 64,
 				["role"] = "DAMAGER",
-				["name"] = "痛苦",
-				["index"] = 1,
+				["name"] = "冰霜",
+				["index"] = 3,
 			},
 			["welcome"] = true,
 		},
@@ -19,26 +19,46 @@ TidyPlatesThreatDB = {
 			},
 			["welcome"] = true,
 		},
+		["Willam - 能源舰"] = {
+			["specInfo"] = {
+				["id"] = 253,
+				["role"] = "DAMAGER",
+				["name"] = "野兽控制",
+				["index"] = 1,
+			},
+			["welcome"] = true,
+		},
+		["国王走下神探 - 瓦拉斯塔兹"] = {
+			["specInfo"] = {
+				["id"] = 265,
+				["role"] = "DAMAGER",
+				["name"] = "痛苦",
+				["index"] = 1,
+			},
+			["welcome"] = true,
+		},
 		["募落葒顔 - 太阳之井"] = {
 			["specInfo"] = {
-				["id"] = 257,
+				["id"] = 256,
 				["role"] = "HEALER",
-				["name"] = "神圣",
-				["index"] = 2,
+				["name"] = "戒律",
+				["index"] = 1,
 			},
 			["welcome"] = true,
 		},
 	},
 	["profileKeys"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = "Default",
+		["Justpalymage - 太阳之井"] = "Default",
 		["Etaasdfafa - 瓦拉斯塔兹"] = "Default",
+		["Willam - 能源舰"] = "Default",
+		["国王走下神探 - 瓦拉斯塔兹"] = "Default",
 		["募落葒顔 - 太阳之井"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["nameplate"] = {
 				["toggle"] = {
-					["Totem"] = false,
+					["Totem"] = true,
 				},
 			},
 			["OldSetting"] = false,

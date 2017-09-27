@@ -73161,18 +73161,6 @@ GuildSkadaHighScoreDB = {
 									["difficulties"] = {
 										[17] = {
 											["encounters"] = {
-												[1876] = {
-													["playerParses"] = {
-														{
-															["playerId"] = "Player-861-04B9A7DE",
-															["role"] = "HEALER",
-															["itemLevel"] = 899,
-															["specName"] = "织雾",
-															["healing"] = 20200196,
-															["groupParseId"] = "138-36f-26b",
-														}, -- [1]
-													},
-												},
 												[1873] = {
 													["playerParses"] = {
 														{
@@ -73182,18 +73170,6 @@ GuildSkadaHighScoreDB = {
 															["specName"] = "织雾",
 															["healing"] = 19701192,
 															["groupParseId"] = "3a2-322-209",
-														}, -- [1]
-													},
-												},
-												[1853] = {
-													["playerParses"] = {
-														{
-															["playerId"] = "Player-861-04B9A7DE",
-															["role"] = "HEALER",
-															["itemLevel"] = 898,
-															["specName"] = "织雾",
-															["healing"] = 12594919,
-															["groupParseId"] = "24d-e0-35f",
 														}, -- [1]
 													},
 												},
@@ -73237,6 +73213,30 @@ GuildSkadaHighScoreDB = {
 															["healing"] = 492121,
 															["groupParseId"] = "337-385-2b4",
 														}, -- [5]
+													},
+												},
+												[1853] = {
+													["playerParses"] = {
+														{
+															["playerId"] = "Player-861-04B9A7DE",
+															["role"] = "HEALER",
+															["itemLevel"] = 898,
+															["specName"] = "织雾",
+															["healing"] = 12594919,
+															["groupParseId"] = "24d-e0-35f",
+														}, -- [1]
+													},
+												},
+												[1876] = {
+													["playerParses"] = {
+														{
+															["playerId"] = "Player-861-04B9A7DE",
+															["role"] = "HEALER",
+															["itemLevel"] = 899,
+															["specName"] = "织雾",
+															["healing"] = 20200196,
+															["groupParseId"] = "138-36f-26b",
+														}, -- [1]
 													},
 												},
 											},
@@ -74963,13 +74963,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 276,
 						},
-						["16c-39f-34f"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
+						["28a-b5-241"] = {
+							["encounterId"] = 1864,
+							["zoneId"] = 1520,
 							["guildName"] = "Starry Night",
-							["startTime"] = 1491225970,
-							["duration"] = 269,
-							["difficultyId"] = 16,
+							["startTime"] = 1492360097,
+							["difficultyId"] = 17,
+							["duration"] = 115,
 						},
 						["e0-1ca-21a"] = {
 							["encounterId"] = 1866,
@@ -74979,6 +74979,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 533,
 							["difficultyId"] = 14,
 						},
+						["16c-39f-34f"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
+							["guildName"] = "Starry Night",
+							["startTime"] = 1491225970,
+							["duration"] = 269,
+							["difficultyId"] = 16,
+						},
 						["337-385-2b4"] = {
 							["encounterId"] = 1864,
 							["zoneId"] = 1520,
@@ -74987,22 +74995,6 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 88,
 							["difficultyId"] = 17,
 						},
-						["28a-b5-241"] = {
-							["encounterId"] = 1864,
-							["zoneId"] = 1520,
-							["guildName"] = "Starry Night",
-							["startTime"] = 1492360097,
-							["difficultyId"] = 17,
-							["duration"] = 115,
-						},
-						["32e-4d-297"] = {
-							["encounterId"] = 1872,
-							["zoneId"] = 1530,
-							["guildName"] = "Starry Night",
-							["startTime"] = 1492097316,
-							["difficultyId"] = 15,
-							["duration"] = 286,
-						},
 						["2f8-333-292"] = {
 							["encounterId"] = 1867,
 							["zoneId"] = 1530,
@@ -75010,6 +75002,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1490876885,
 							["difficultyId"] = 14,
 							["duration"] = 153,
+						},
+						["8-180-cd"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
+							["guildName"] = "Starry Night",
+							["startTime"] = 1490876530,
+							["difficultyId"] = 14,
+							["duration"] = 128,
 						},
 						["cb-16b-387"] = {
 							["encounterId"] = 1866,
@@ -75275,13 +75275,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 552,
 						},
-						["8-180-cd"] = {
-							["encounterId"] = 1865,
+						["32e-4d-297"] = {
+							["encounterId"] = 1872,
 							["zoneId"] = 1530,
 							["guildName"] = "Starry Night",
-							["startTime"] = 1490876530,
-							["difficultyId"] = 14,
-							["duration"] = 128,
+							["startTime"] = 1492097316,
+							["difficultyId"] = 15,
+							["duration"] = 286,
 						},
 						["19f-384-1f8"] = {
 							["encounterId"] = 1886,

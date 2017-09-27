@@ -2,7 +2,7 @@
 MSBTProfiles_SavedVars = {
 	["profiles"] = {
 		["Default"] = {
-			["enableBlizzardDamage"] = true,
+			["creationVersion"] = "5.7.147",
 			["events"] = {
 				["PET_INCOMING_SPELL_DAMAGE"] = {
 					["disabled"] = true,
@@ -118,7 +118,7 @@ MSBTProfiles_SavedVars = {
 				["PET_INCOMING_DAMAGE"] = {
 					["disabled"] = true,
 				},
-				["NOTIFICATION_ITEM_BUFF"] = {
+				["INCOMING_PARRY"] = {
 					["disabled"] = true,
 				},
 				["INCOMING_SPELL_BLOCK"] = {
@@ -127,37 +127,37 @@ MSBTProfiles_SavedVars = {
 				["NOTIFICATION_COMBAT_ENTER"] = {
 					["disabled"] = true,
 				},
-				["INCOMING_SPELL_DOT_CRIT"] = {
+				["PET_INCOMING_SPELL_PARRY"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_SPELL_DAMAGE_SHIELD"] = {
+				["PET_INCOMING_SPELL_BLOCK"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_DAMAGE_CRIT"] = {
+				["PET_INCOMING_ABSORB"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_IMMUNE"] = {
+				["NOTIFICATION_ITEM_BUFF_FADE"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_SPELL_DOT_CRIT"] = {
+				["NOTIFICATION_CP_FULL"] = {
 					["disabled"] = true,
 				},
-				["INCOMING_SPELL_DAMAGE_SHIELD"] = {
+				["NOTIFICATION_BUFF_STACK"] = {
 					["disabled"] = true,
 				},
 				["INCOMING_SPELL_DOT"] = {
 					["disabled"] = true,
 				},
-				["INCOMING_ENVIRONMENTAL"] = {
+				["PET_INCOMING_SPELL_DEFLECT"] = {
 					["disabled"] = true,
 				},
-				["NOTIFICATION_COOLDOWN"] = {
+				["INCOMING_SPELL_DAMAGE_SHIELD"] = {
 					["disabled"] = true,
 				},
 				["INCOMING_DAMAGE"] = {
 					["disabled"] = true,
 				},
-				["NOTIFICATION_HOLY_POWER_CHANGE"] = {
+				["INCOMING_SPELL_INTERRUPT"] = {
 					["disabled"] = true,
 				},
 				["NOTIFICATION_ITEM_COOLDOWN"] = {
@@ -169,10 +169,10 @@ MSBTProfiles_SavedVars = {
 				["NOTIFICATION_DEBUFF_STACK"] = {
 					["disabled"] = true,
 				},
-				["NOTIFICATION_POWER_GAIN"] = {
+				["INCOMING_SPELL_IMMUNE"] = {
 					["disabled"] = true,
 				},
-				["INCOMING_SPELL_DEFLECT"] = {
+				["INCOMING_MISS"] = {
 					["disabled"] = true,
 				},
 				["NOTIFICATION_HOLY_POWER_FULL"] = {
@@ -181,47 +181,47 @@ MSBTProfiles_SavedVars = {
 				["NOTIFICATION_DEBUFF"] = {
 					["disabled"] = true,
 				},
-				["INCOMING_MISS"] = {
+				["INCOMING_SPELL_DEFLECT"] = {
 					["disabled"] = true,
 				},
-				["INCOMING_SPELL_IMMUNE"] = {
+				["NOTIFICATION_HOLY_POWER_CHANGE"] = {
 					["disabled"] = true,
 				},
-				["INCOMING_SPELL_INTERRUPT"] = {
+				["NOTIFICATION_POWER_GAIN"] = {
 					["disabled"] = true,
 				},
 				["PET_INCOMING_SPELL_DAMAGE_CRIT"] = {
 					["disabled"] = true,
 				},
-				["NOTIFICATION_BUFF_STACK"] = {
+				["NOTIFICATION_COOLDOWN"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_SPELL_DEFLECT"] = {
+				["INCOMING_ENVIRONMENTAL"] = {
 					["disabled"] = true,
 				},
 				["INCOMING_SPELL_RESIST"] = {
 					["disabled"] = true,
 				},
-				["NOTIFICATION_CP_FULL"] = {
+				["PET_INCOMING_SPELL_DOT_CRIT"] = {
 					["disabled"] = true,
 				},
-				["NOTIFICATION_ITEM_BUFF_FADE"] = {
+				["PET_INCOMING_IMMUNE"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_ABSORB"] = {
+				["PET_INCOMING_DAMAGE_CRIT"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_SPELL_BLOCK"] = {
+				["PET_INCOMING_SPELL_DAMAGE_SHIELD"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_SPELL_PARRY"] = {
+				["INCOMING_SPELL_DOT_CRIT"] = {
 					["disabled"] = true,
 				},
-				["INCOMING_PARRY"] = {
+				["NOTIFICATION_ITEM_BUFF"] = {
 					["disabled"] = true,
 				},
 			},
-			["creationVersion"] = "5.7.147",
+			["enableBlizzardDamage"] = true,
 		},
 	},
 }

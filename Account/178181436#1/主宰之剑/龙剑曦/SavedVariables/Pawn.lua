@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0211,
+	["LastVersion"] = 2.0214,
 	["LastPlayerFullName"] = "龙剑曦-主宰之剑",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
@@ -16,7 +16,7 @@ PawnOptions = {
 					["Type"] = "Shadow",
 				}, -- [2]
 				{
-					["ItemLevel"] = 53,
+					["ItemLevel"] = 58,
 					["Type"] = "Fel",
 				}, -- [3]
 			},
@@ -29,7 +29,7 @@ PawnOptions = {
 					["Type"] = "Iron",
 				}, -- [1]
 				{
-					["ItemLevel"] = 55,
+					["ItemLevel"] = 58,
 					["Type"] = "Arcane",
 				}, -- [2]
 				{

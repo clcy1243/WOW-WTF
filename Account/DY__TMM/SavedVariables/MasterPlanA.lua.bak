@@ -1,35 +1,15 @@
 
 MasterPlanAG = {
+	["能源舰"] = {
+		["Willam"] = {
+			["class"] = "HUNTER",
+			["faction"] = "Horde",
+		},
+	},
 	["摩摩尔"] = {
 		["倾城丨小贼"] = {
 			["faction"] = "Horde",
 			["class"] = "ROGUE",
-		},
-	},
-	["太阳之井"] = {
-		["妹子你坑我"] = {
-			["faction"] = "Horde",
-			["class"] = "DEATHKNIGHT",
-		},
-		["募落葒顔"] = {
-			["class"] = "PRIEST",
-			["recruitTime"] = 1467979888,
-			["summary"] = {
-				["inProgress"] = {
-					[243] = 1475328026,
-					[665] = 1475338830,
-					[300] = 1475326771,
-					[335] = 1475333981,
-					[371] = 1475342432,
-					[267] = 1475338835,
-					[125] = 1475338836,
-					[363] = 1475335250,
-				},
-			},
-			["curOil"] = 350,
-			["lastCacheTime"] = 1481564083,
-			["curRes"] = 5978,
-			["faction"] = "Horde",
 		},
 	},
 	["瓦拉斯塔兹"] = {
@@ -42,6 +22,34 @@ MasterPlanAG = {
 			["class"] = "WARLOCK",
 		},
 	},
-	["IgnoreRewards"] = {
+	["太阳之井"] = {
+		["Justpalymage"] = {
+			["class"] = "MAGE",
+			["faction"] = "Horde",
+		},
+		["妹子你坑我"] = {
+			["faction"] = "Horde",
+			["class"] = "DEATHKNIGHT",
+		},
+		["募落葒顔"] = {
+			["recruitTime"] = 1467979888,
+			["summary"] = {
+				["inProgress"] = {
+					[300] = 1475326771,
+					[665] = 1475338830,
+					[243] = 1475328026,
+					[363] = 1475335250,
+					[371] = 1475342432,
+					[267] = 1475338835,
+					[125] = 1475338836,
+					[335] = 1475333981,
+				},
+			},
+			["curOil"] = 350,
+			["lastCacheTime"] = 1481564083,
+			["class"] = "PRIEST",
+			["curRes"] = 5978,
+			["faction"] = "Horde",
+		},
 	},
 }

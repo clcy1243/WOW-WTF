@@ -4,16 +4,16 @@ AucAdvancedConfig = {
 	["profile.Default"] = {
 		["stat"] = {
 			["sales"] = {
-				["upgraded32"] = true,
 				["ignoredsigs"] = {
 				},
+				["upgraded32"] = true,
 			},
 		},
 		["util"] = {
 			["automagic"] = {
-				["uierrormsg"] = 1,
 				["SavedMailButtons"] = {
 				},
+				["uierrormsg"] = 1,
 			},
 		},
 	},
@@ -25,6 +25,10 @@ AucAdvancedData = {
 }
 AucAdvancedServers = {
 	["ConnectedRealmTables"] = {
+		["#能源舰"] = {
+			"白骨荒野", -- [1]
+			"能源舰", -- [2]
+		},
 		["#太阳之井"] = {
 			"塞拉赞恩", -- [1]
 			"太阳之井", -- [2]
@@ -32,10 +36,12 @@ AucAdvancedServers = {
 	},
 	["Version"] = 1,
 	["KnownRealms"] = {
+		["能源舰"] = "#能源舰",
 		["太阳之井"] = "#太阳之井",
 	},
-	["Timestamp"] = 1480867751,
 	["KnownServerKeys"] = {
+		["#能源舰"] = 1504483101,
 		["#太阳之井"] = 1481361885,
 	},
+	["Timestamp"] = 1480867751,
 }

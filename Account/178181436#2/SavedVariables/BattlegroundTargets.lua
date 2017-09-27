@@ -239,8 +239,8 @@ BattlegroundTargets_Options = {
 			["s"] = 1,
 		},
 	},
-	["MinimapButtonPos"] = -90,
 	["TransliterationToggle"] = false,
+	["MinimapButtonPos"] = -90,
 	["version"] = 27,
 	["Friend"] = {
 		["ButtonRangeDisplay"] = {

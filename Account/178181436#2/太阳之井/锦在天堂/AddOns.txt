@@ -37,7 +37,7 @@ GladiatorlosSA2: disabled
 Gladius: disabled
 LibStub: enabled
 LibSharedMedia-3.0: enabled
-Grail: disabled
+Grail: enabled
 HandyNotes: disabled
 iKeystones: enabled
 InstancePortals: enabled
@@ -47,7 +47,7 @@ RaidAchieveFilter: disabled
 RaidAchievement: disabled
 RCLootCouncil: disabled
 TrufiGCD: disabled
-Wholly: disabled
+Wholly: enabled
 Enchantrix: disabled
 BeanCounter: disabled
 Enchantrix-Barker: disabled
@@ -56,3 +56,19 @@ TinyChat: disabled
 ShadowedUnitFrames: disabled
 TinyTooltip: disabled
 Gnosis: disabled
+Skada: disabled
+HandyNotes_EphemeralCrystals: disabled
+HandyNotes_BrokenShore: disabled
+HandyNotes_DungeonLocations: disabled
+HandyNotes_SuramarShalAranTelemancy: enabled
+LibBabble-SubZone-3.0: enabled
+LibUIDropDownMenu: enabled
+HandyNotes_WorldMapButton: disabled
+AceGUI-3.0-SharedMediaWidgets: enabled
+LibCompress: enabled
+LibDialog-1.0: enabled
+LibRangeCheck-2.0: enabled
+LibDataBroker: enabled
+Gatherer: enabled
+OmegaMap: enabled
+Carbonite: enabled

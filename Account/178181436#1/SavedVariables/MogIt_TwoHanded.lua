@@ -672,8 +672,60 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
+		[15520] = {
+			[36152] = {
+				["classes"] = 1024,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "拉格纳罗斯",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["instance"] = "火焰之地",
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+					}, -- [1]
+				},
+				["faction"] = 1,
+			},
+			[36608] = {
+				["classes"] = 1024,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "拉格纳罗斯",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["instance"] = "火焰之地",
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+					}, -- [1]
+				},
+				["faction"] = 1,
+			},
+		},
 		[627] = {
 			[76471] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[484] = {
+			[354] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[4687] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
 				["faction"] = 1,
@@ -731,18 +783,6 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[484] = {
-			[354] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[4687] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
 		[24170] = {
 			[62619] = {
 				["classes"] = 1024,
@@ -770,17 +810,17 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[347] = {
-			[211] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
 		[23015] = {
 			[66561] = {
 				["classes"] = 1024,
 				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[347] = {
+			[211] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -849,22 +889,15 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[21856] = {
-			[67072] = {
+		[4099] = {
+			[6044] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
-		[3641] = {
-			[4549] = {
-				["classes"] = 1024,
-				["sourceType"] = 6,
-				["faction"] = 1,
-			},
-		},
-		[4099] = {
-			[6044] = {
+		[21856] = {
+			[67072] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
 				["faction"] = 1,
@@ -883,6 +916,34 @@ MogIt_TwoHandedDB = {
 						},
 						["instance"] = "熔火之心",
 						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+				["faction"] = 1,
+			},
+		},
+		[3641] = {
+			[4549] = {
+				["classes"] = 1024,
+				["sourceType"] = 6,
+				["faction"] = 1,
+			},
+		},
+		[17588] = {
+			[84414] = {
+				["classes"] = 1024,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "祝踏岚",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["instance"] = "影踪禅院",
+						["difficulties"] = {
+							"普通", -- [1]
+							"时空漫游", -- [2]
 						},
 					}, -- [1]
 				},
@@ -961,24 +1022,25 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[17588] = {
-			[84414] = {
+		[17779] = {
+			[42794] = {
 				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "祝踏岚",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["instance"] = "影踪禅院",
-						["difficulties"] = {
-							"普通", -- [1]
-							"时空漫游", -- [2]
-						},
-					}, -- [1]
-				},
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+			[41680] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[41274] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[41733] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -1040,25 +1102,10 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[17779] = {
-			[42794] = {
+		[2565] = {
+			[3000] = {
 				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-			[41680] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[41274] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[41733] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 1,
 			},
 		},
@@ -1112,13 +1159,6 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[2565] = {
-			[3000] = {
-				["classes"] = 1024,
-				["sourceType"] = 6,
-				["faction"] = 1,
-			},
-		},
 		[6389] = {
 			[9574] = {
 				["classes"] = 1024,
@@ -1139,45 +1179,20 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[6280] = {
-			[10744] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
-		[1769] = {
-			[1940] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
-		[19127] = {
-			[45156] = {
+		[21940] = {
+			[65363] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
 				["faction"] = 1,
 			},
-		},
-		[6281] = {
-			[10134] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[1706] = {
-			[1851] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-		},
-		[1890] = {
-			[2141] = {
+			[62025] = {
 				["classes"] = 1024,
 				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+			[66617] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -1219,6 +1234,48 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
+		[1769] = {
+			[1940] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[19127] = {
+			[45156] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[6281] = {
+			[10134] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[1706] = {
+			[1851] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[1890] = {
+			[2141] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[1111] = {
+			[1127] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
 		[19147] = {
 			[45306] = {
 				["classes"] = 1024,
@@ -1245,24 +1302,10 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[1111] = {
-			[1127] = {
+		[14954] = {
+			[34274] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[15608] = {
-			[35771] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-		},
-		[856] = {
-			[28162] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
 				["faction"] = 1,
 			},
 		},
@@ -1299,6 +1342,13 @@ MogIt_TwoHandedDB = {
 			[66515] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[15608] = {
+			[35771] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
 				["faction"] = 1,
 			},
 		},
@@ -1340,6 +1390,13 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
+		[16390] = {
+			[37684] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
 		[25311] = {
 			[71456] = {
 				["classes"] = 1024,
@@ -1374,40 +1431,19 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[14042] = {
-			[29706] = {
+		[3797] = {
+			[4779] = {
 				["classes"] = 1024,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "熔喉",
+						["instanceType"] = 1,
+						["encounter"] = "欧莫克大王",
 						["tiers"] = {
-							"大地的裂变", -- [1]
+							"经典旧世", -- [1]
 						},
-						["instance"] = "黑翼血环",
+						["instance"] = "黑石塔下层",
 						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-					}, -- [1]
-				},
-				["faction"] = 1,
-			},
-			[32604] = {
-				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "熔喉",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["instance"] = "黑翼血环",
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
 						},
 					}, -- [1]
 				},
@@ -1441,22 +1477,10 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[3797] = {
-			[4779] = {
+		[10662] = {
+			[19969] = {
 				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "欧莫克大王",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["instance"] = "黑石塔下层",
-						["difficulties"] = {
-						},
-					}, -- [1]
-				},
+				["sourceType"] = 6,
 				["faction"] = 1,
 			},
 		},
@@ -1544,173 +1568,6 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[14935] = {
-			[34143] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[10662] = {
-			[19969] = {
-				["classes"] = 1024,
-				["sourceType"] = 6,
-				["faction"] = 1,
-			},
-		},
-		[3681] = {
-			[66621] = {
-				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "折铁者高尔山",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["instance"] = "黑石塔上层",
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-					}, -- [1]
-				},
-				["faction"] = 1,
-			},
-		},
-		[6583] = {
-			[10133] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[6585] = {
-			[10136] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[21299] = {
-			[61695] = {
-				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "纳兹戈林将军",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["instance"] = "决战奥格瑞玛",
-						["difficulties"] = {
-						},
-					}, -- [1]
-				},
-				["faction"] = 1,
-			},
-		},
-		[9580] = {
-			[17245] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[9028] = {
-			[18043] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[611] = {
-			[526] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[31560] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
-		[3687] = {
-			[4628] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[13624] = {
-			[27921] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
-		[2785] = {
-			[3272] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-		},
-		[14433] = {
-			[30881] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
-		[15507] = {
-			[35537] = {
-				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "碎神者金度",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["instance"] = "祖尔格拉布",
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-					}, -- [1]
-				},
-				["faction"] = 1,
-			},
-		},
-		[5831] = {
-			[8602] = {
-				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "预言者斯克拉姆",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["instance"] = "安其拉神殿",
-						["difficulties"] = {
-						},
-					}, -- [1]
-				},
-				["faction"] = 1,
-			},
-		},
-		[13634] = {
-			[27948] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
 		[23383] = {
 			[62893] = {
 				["classes"] = 1024,
@@ -1746,6 +1603,179 @@ MogIt_TwoHandedDB = {
 						},
 					}, -- [1]
 				},
+				["faction"] = 1,
+			},
+		},
+		[6583] = {
+			[10133] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[21877] = {
+			[65482] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[6586] = {
+			[10138] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[611] = {
+			[526] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[31560] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[21299] = {
+			[61695] = {
+				["classes"] = 1024,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "纳兹戈林将军",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["instance"] = "决战奥格瑞玛",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+				["faction"] = 1,
+			},
+		},
+		[14935] = {
+			[34143] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[9028] = {
+			[18043] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[3687] = {
+			[4628] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[10917] = {
+			[20474] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[13624] = {
+			[27921] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[2785] = {
+			[3272] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[464] = {
+			[334] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[7130] = {
+			[12494] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[14647] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[12376] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[13529] = {
+				["classes"] = 1024,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "深水领主卡拉瑟雷斯",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["instance"] = "毒蛇神殿",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+				["faction"] = 1,
+			},
+			[14700] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+		},
+		[5831] = {
+			[8602] = {
+				["classes"] = 1024,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "预言者斯克拉姆",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["instance"] = "安其拉神殿",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+				["faction"] = 1,
+			},
+		},
+		[13634] = {
+			[27948] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[6579] = {
+			[10127] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -1811,17 +1841,17 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[21877] = {
-			[65482] = {
+		[6585] = {
+			[10136] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
-		[6586] = {
-			[10138] = {
+		[22646] = {
+			[81584] = {
 				["classes"] = 1024,
-				["sourceType"] = 4,
+				["sourceType"] = 3,
 				["faction"] = 1,
 			},
 		},
@@ -1844,73 +1874,17 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[7130] = {
-			[12494] = {
+		[2288] = {
+			[10137] = {
 				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[14647] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[12376] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[13529] = {
-				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "深水领主卡拉瑟雷斯",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["instance"] = "毒蛇神殿",
-						["difficulties"] = {
-						},
-					}, -- [1]
-				},
-				["faction"] = 1,
-			},
-			[14700] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
-		[10086] = {
-			[18742] = {
+		[9576] = {
+			[17239] = {
 				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "肮脏的希尔盖",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格拉斯",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-					}, -- [2]
-				},
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -1957,6 +1931,48 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
+		[10142] = {
+			[32956] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[14433] = {
+			[30881] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[14945] = {
+			[34206] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[24985] = {
+			[72516] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[1275] = {
+			[1332] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
+		[21678] = {
+			[90888] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
 		[2798] = {
 			[3289] = {
 				["classes"] = 1024,
@@ -1976,44 +1992,15 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[464] = {
-			[334] = {
+		[21941] = {
+			[65414] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
 				["faction"] = 1,
 			},
-		},
-		[14945] = {
-			[34206] = {
+			[66451] = {
 				["classes"] = 1024,
 				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
-		[11632] = {
-			[22211] = {
-				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "尤格-萨隆",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["instance"] = "奥杜尔",
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-					}, -- [1]
-				},
-				["faction"] = 1,
-			},
-		},
-		[1275] = {
-			[1332] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -2024,22 +2011,15 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[2288] = {
-			[10137] = {
+		[290] = {
+			[151] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
 				["faction"] = 1,
 			},
-		},
-		[21941] = {
-			[65414] = {
+			[10131] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[66451] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
 				["faction"] = 1,
 			},
 		},
@@ -2059,25 +2039,6 @@ MogIt_TwoHandedDB = {
 						},
 					}, -- [1]
 				},
-				["faction"] = 1,
-			},
-		},
-		[10142] = {
-			[32956] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
-		[290] = {
-			[151] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[10131] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -2278,10 +2239,23 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[24985] = {
-			[72516] = {
+		[11632] = {
+			[22211] = {
 				["classes"] = 1024,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "尤格-萨隆",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["instance"] = "奥杜尔",
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+					}, -- [1]
+				},
 				["faction"] = 1,
 			},
 		},
@@ -2299,10 +2273,23 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[10917] = {
-			[20474] = {
+		[15507] = {
+			[35537] = {
 				["classes"] = 1024,
-				["sourceType"] = 3,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "碎神者金度",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["instance"] = "祖尔格拉布",
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+					}, -- [1]
+				},
 				["faction"] = 1,
 			},
 		},
@@ -2344,8 +2331,8 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[9576] = {
-			[17239] = {
+		[9580] = {
+			[17245] = {
 				["classes"] = 1024,
 				["sourceType"] = 4,
 				["faction"] = 1,
@@ -2358,10 +2345,34 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[22646] = {
-			[81584] = {
+		[10086] = {
+			[18742] = {
 				["classes"] = 1024,
-				["sourceType"] = 3,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "肮脏的希尔盖",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+					}, -- [2]
+				},
 				["faction"] = 1,
 			},
 		},
@@ -2405,10 +2416,23 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[6579] = {
-			[10127] = {
+		[3681] = {
+			[66621] = {
 				["classes"] = 1024,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "折铁者高尔山",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["instance"] = "黑石塔上层",
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+					}, -- [1]
+				},
 				["faction"] = 1,
 			},
 		},
@@ -2445,6 +2469,46 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
+		[14042] = {
+			[29706] = {
+				["classes"] = 1024,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "熔喉",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["instance"] = "黑翼血环",
+						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
+						},
+					}, -- [1]
+				},
+				["faction"] = 1,
+			},
+			[32604] = {
+				["classes"] = 1024,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "熔喉",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["instance"] = "黑翼血环",
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+					}, -- [1]
+				},
+				["faction"] = 1,
+			},
+		},
 		[13340] = {
 			[28244] = {
 				["classes"] = 1024,
@@ -2459,13 +2523,6 @@ MogIt_TwoHandedDB = {
 			[29798] = {
 				["classes"] = 1024,
 				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-		},
-		[16390] = {
-			[37684] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
 				["faction"] = 1,
 			},
 		},
@@ -2509,50 +2566,17 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[14954] = {
-			[34274] = {
+		[856] = {
+			[28162] = {
 				["classes"] = 1024,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 1,
 			},
 		},
-		[15520] = {
-			[36152] = {
+		[24894] = {
+			[90889] = {
 				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "拉格纳罗斯",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["instance"] = "火焰之地",
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-					}, -- [1]
-				},
-				["faction"] = 1,
-			},
-			[36608] = {
-				["classes"] = 1024,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "拉格纳罗斯",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["instance"] = "火焰之地",
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-					}, -- [1]
-				},
+				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -2589,20 +2613,10 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[21940] = {
-			[65363] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[62025] = {
+		[6280] = {
+			[10744] = {
 				["classes"] = 1024,
 				["sourceType"] = 2,
-				["faction"] = 1,
-			},
-			[66617] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
 				["faction"] = 1,
 			},
 		},
@@ -2615,6 +2629,23 @@ MogIt_TwoHandedDB = {
 		},
 		[14788] = {
 			[32950] = {
+				["classes"] = 1024,
+				["sourceType"] = 2,
+				["faction"] = 1,
+			},
+		},
+		[21876] = {
+			[65465] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[65380] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+			[62104] = {
 				["classes"] = 1024,
 				["sourceType"] = 2,
 				["faction"] = 1,
@@ -2637,23 +2668,6 @@ MogIt_TwoHandedDB = {
 						},
 					}, -- [1]
 				},
-				["faction"] = 1,
-			},
-		},
-		[21876] = {
-			[65465] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[65380] = {
-				["classes"] = 1024,
-				["sourceType"] = 4,
-				["faction"] = 1,
-			},
-			[62104] = {
-				["classes"] = 1024,
-				["sourceType"] = 2,
 				["faction"] = 1,
 			},
 		},
@@ -4301,6 +4315,32 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[15899] = {
+			[36616] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[13351] = {
+			[27025] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[13347] = {
+			[27020] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[29910] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
 		[26379] = {
 			[70170] = {
 				["classes"] = 1536,
@@ -4350,32 +4390,6 @@ MogIt_TwoHandedDB = {
 						},
 					}, -- [2]
 				},
-			},
-		},
-		[13347] = {
-			[27020] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[29910] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-		},
-		[15899] = {
-			[36616] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[13351] = {
-			[27025] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
 			},
 		},
 		[5375] = {
@@ -4734,10 +4748,15 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[6630] = {
-			[10232] = {
+		[19252] = {
+			[45956] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[77338] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -4765,11 +4784,35 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[8845] = {
-			[15776] = {
+		[6096] = {
+			[18726] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
 				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "迈克斯纳",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+					}, -- [2]
+				},
 			},
 		},
 		[7357] = {
@@ -4828,11 +4871,24 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[21993] = {
-			[65364] = {
+		[10391] = {
+			[19471] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
 				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "玛里苟斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["instance"] = "永恒之眼",
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+					}, -- [1]
+				},
 			},
 		},
 		[12395] = {
@@ -4862,15 +4918,10 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[19252] = {
-			[45956] = {
+		[6630] = {
+			[10232] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[77338] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -4914,11 +4965,28 @@ MogIt_TwoHandedDB = {
 				},
 			},
 		},
-		[22706] = {
-			[60143] = {
-				["classes"] = 512,
-				["sourceType"] = 3,
-				["faction"] = 2,
+		[1212] = {
+			[3305] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "耐克鲁姆和塞瑟斯",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["instance"] = "祖尔法拉克",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+			},
+			[10236] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
 			},
 		},
 		[21742] = {
@@ -4959,35 +5027,11 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[6096] = {
-			[18726] = {
+		[8845] = {
+			[15776] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
+				["sourceType"] = 4,
 				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "迈克斯纳",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格拉斯",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-					}, -- [2]
-				},
 			},
 		},
 		[2812] = {
@@ -5002,8 +5046,8 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[20439] = {
-			[50993] = {
+		[14204] = {
+			[44400] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -5055,31 +5099,23 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[13959] = {
-			[29471] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
+		[14469] = {
+			[31376] = {
+				["classes"] = 512,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[31383] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
 			},
 		},
-		[10391] = {
-			[19471] = {
+		[21993] = {
+			[65364] = {
 				["classes"] = 1536,
-				["sourceType"] = 1,
+				["sourceType"] = 4,
 				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "玛里苟斯",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["instance"] = "永恒之眼",
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-					}, -- [1]
-				},
 			},
 		},
 		[5340] = {
@@ -5285,16 +5321,11 @@ MogIt_TwoHandedDB = {
 				},
 			},
 		},
-		[14469] = {
-			[31376] = {
-				["classes"] = 512,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[31383] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
+		[13959] = {
+			[29471] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
 			},
 		},
 		[20794] = {
@@ -5309,35 +5340,18 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
-		[14204] = {
-			[44400] = {
+		[20439] = {
+			[50993] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
-		[1212] = {
-			[3305] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "耐克鲁姆和塞瑟斯",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["instance"] = "祖尔法拉克",
-						["difficulties"] = {
-						},
-					}, -- [1]
-				},
-			},
-			[10236] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
+		[22706] = {
+			[60143] = {
+				["classes"] = 512,
+				["sourceType"] = 3,
+				["faction"] = 2,
 			},
 		},
 		[3690] = {
@@ -6350,16 +6364,6 @@ MogIt_TwoHandedDB = {
 			},
 		},
 		[276] = {
-			[69197] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-			[13376] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
 			[13801] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
@@ -6368,6 +6372,16 @@ MogIt_TwoHandedDB = {
 			[137] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[69197] = {
+				["classes"] = 1536,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[13376] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -8050,22 +8064,22 @@ MogIt_TwoHandedDB = {
 			},
 		},
 		[1312] = {
-			[66500] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[29316] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
 			[29755] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 			[28380] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[66500] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[29316] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
@@ -8544,22 +8558,22 @@ MogIt_TwoHandedDB = {
 			},
 		},
 		[10936] = {
-			[21499] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
-			[20517] = {
-				["classes"] = 1536,
-				["sourceType"] = 3,
-				["faction"] = 3,
-			},
 			[20497] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
 			},
 			[21498] = {
+				["classes"] = 1536,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[21499] = {
+				["classes"] = 1536,
+				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+			[20517] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
@@ -9057,7 +9071,7 @@ MogIt_TwoHandedDB = {
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "达格兰·索瑞森大帝",
+						["encounter"] = "怒炉将军",
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
@@ -11159,6 +11173,13 @@ MogIt_TwoHandedDB = {
 				},
 			},
 		},
+		[21574] = {
+			[90829] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
 		[20599] = {
 			[55473] = {
 				["classes"] = 512,
@@ -12044,6 +12065,13 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[21576] = {
+			[90832] = {
+				["classes"] = 1024,
+				["sourceType"] = 4,
+				["faction"] = 1,
+			},
+		},
 		[14904] = {
 			[33304] = {
 				["classes"] = 1536,
@@ -12261,7 +12289,7 @@ MogIt_TwoHandedDB = {
 			},
 		},
 		[10932] = {
-			[21500] = {
+			[20499] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
@@ -12276,7 +12304,7 @@ MogIt_TwoHandedDB = {
 				["sourceType"] = 3,
 				["faction"] = 3,
 			},
-			[20499] = {
+			[21500] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
@@ -12286,12 +12314,12 @@ MogIt_TwoHandedDB = {
 				["sourceType"] = 3,
 				["faction"] = 3,
 			},
-			[20515] = {
+			[21495] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
 			},
-			[21495] = {
+			[20515] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
@@ -12541,16 +12569,6 @@ MogIt_TwoHandedDB = {
 			},
 		},
 		[639] = {
-			[78329] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[10694] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
 			[26167] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
@@ -12559,6 +12577,16 @@ MogIt_TwoHandedDB = {
 			[10331] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[78329] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10694] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -12708,17 +12736,12 @@ MogIt_TwoHandedDB = {
 			},
 		},
 		[13318] = {
-			[29856] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
 			[29853] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
 			},
-			[28243] = {
+			[29856] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
@@ -12726,6 +12749,11 @@ MogIt_TwoHandedDB = {
 			[26962] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[28243] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -12890,11 +12918,41 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[7680] = {
-			[13462] = {
+		[481] = {
+			[7760] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[7762] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[30836] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
 				["faction"] = 3,
+			},
+			[7759] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[351] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[8078] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
+			},
+			[7761] = {
+				["classes"] = 1024,
+				["sourceType"] = 3,
+				["faction"] = 1,
 			},
 		},
 		[25525] = {
@@ -12937,10 +12995,10 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[20458] = {
-			[50354] = {
+		[7680] = {
+			[13462] = {
 				["classes"] = 1536,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
@@ -12948,6 +13006,20 @@ MogIt_TwoHandedDB = {
 			[37665] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
+				["faction"] = 3,
+			},
+		},
+		[6673] = {
+			[10334] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
+		[6669] = {
+			[10325] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -12960,25 +13032,6 @@ MogIt_TwoHandedDB = {
 			[33124] = {
 				["classes"] = 1536,
 				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-		},
-		[241] = {
-			[102] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[10651] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-		},
-		[6673] = {
-			[10334] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -13273,6 +13326,25 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
+		[3900] = {
+			[29757] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+			[31648] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
+		[488] = {
+			[360] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
 		[18876] = {
 			[44374] = {
 				["classes"] = 1536,
@@ -13294,32 +13366,13 @@ MogIt_TwoHandedDB = {
 				},
 			},
 		},
-		[488] = {
-			[360] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[3900] = {
-			[29757] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[31648] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-		},
 		[21870] = {
 			[60442] = {
 				["classes"] = 512,
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[78399] = {
+			[64220] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -13329,7 +13382,7 @@ MogIt_TwoHandedDB = {
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
-			[64188] = {
+			[64368] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -13349,7 +13402,7 @@ MogIt_TwoHandedDB = {
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
-			[64220] = {
+			[78399] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -13364,7 +13417,7 @@ MogIt_TwoHandedDB = {
 				["sourceType"] = 4,
 				["faction"] = 3,
 			},
-			[64368] = {
+			[64188] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -13445,6 +13498,18 @@ MogIt_TwoHandedDB = {
 				},
 			},
 		},
+		[7936] = {
+			[13877] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[14106] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
+				["faction"] = 3,
+			},
+		},
 		[21293] = {
 			[61983] = {
 				["classes"] = 1536,
@@ -13462,18 +13527,6 @@ MogIt_TwoHandedDB = {
 						},
 					}, -- [1]
 				},
-			},
-		},
-		[7936] = {
-			[13877] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-			[14106] = {
-				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
 			},
 		},
 		[20027] = {
@@ -13496,21 +13549,73 @@ MogIt_TwoHandedDB = {
 				},
 			},
 		},
-		[19020] = {
-			[44747] = {
+		[22089] = {
+			[59663] = {
 				["classes"] = 1536,
 				["sourceType"] = 1,
 				["faction"] = 3,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "烛龙",
+						["instanceType"] = 1,
+						["encounter"] = "斯古洛克",
 						["tiers"] = {
-							"熊猫人之谜", -- [1]
+							"德拉诺之王", -- [1]
 						},
-						["instance"] = "永春台",
+						["instance"] = "钢铁码头",
 						["difficulties"] = {
-							"随机", -- [1]
+							"普通", -- [1]
+						},
+					}, -- [1]
+				},
+			},
+			[61154] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "啸天者托瓦拉",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["instance"] = "恐轨车站",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+			},
+			[61149] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "斯古洛克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["instance"] = "钢铁码头",
+						["difficulties"] = {
+						},
+					}, -- [1]
+				},
+			},
+			[59658] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "啸天者托瓦拉",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["instance"] = "恐轨车站",
+						["difficulties"] = {
+							"普通", -- [1]
 						},
 					}, -- [1]
 				},
@@ -13795,7 +13900,7 @@ MogIt_TwoHandedDB = {
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "希望破坏者威利",
+						["encounter"] = "不可宽恕者",
 						["tiers"] = {
 							"经典旧世", -- [1]
 						},
@@ -13902,6 +14007,33 @@ MogIt_TwoHandedDB = {
 				["faction"] = 1,
 			},
 		},
+		[19020] = {
+			[44747] = {
+				["classes"] = 1536,
+				["sourceType"] = 1,
+				["faction"] = 3,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "烛龙",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["instance"] = "永春台",
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+					}, -- [1]
+				},
+			},
+		},
+		[20459] = {
+			[50978] = {
+				["classes"] = 1536,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+		},
 		[5416] = {
 			[7667] = {
 				["classes"] = 1536,
@@ -13915,85 +14047,6 @@ MogIt_TwoHandedDB = {
 							"经典旧世", -- [1]
 						},
 						["instance"] = "黑翼之巢",
-						["difficulties"] = {
-						},
-					}, -- [1]
-				},
-			},
-		},
-		[20459] = {
-			[50978] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
-				["faction"] = 3,
-			},
-		},
-		[22089] = {
-			[59663] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "斯古洛克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["instance"] = "钢铁码头",
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-					}, -- [1]
-				},
-			},
-			[61154] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "啸天者托瓦拉",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["instance"] = "恐轨车站",
-						["difficulties"] = {
-						},
-					}, -- [1]
-				},
-			},
-			[59658] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "啸天者托瓦拉",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["instance"] = "恐轨车站",
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-					}, -- [1]
-				},
-			},
-			[61149] = {
-				["classes"] = 1536,
-				["sourceType"] = 1,
-				["faction"] = 3,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "斯古洛克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["instance"] = "钢铁码头",
 						["difficulties"] = {
 						},
 					}, -- [1]
@@ -14216,15 +14269,20 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[12676] = {
-			[25309] = {
+		[241] = {
+			[102] = {
 				["classes"] = 1536,
-				["sourceType"] = 3,
+				["sourceType"] = 4,
+				["faction"] = 3,
+			},
+			[10651] = {
+				["classes"] = 1536,
+				["sourceType"] = 2,
 				["faction"] = 3,
 			},
 		},
-		[6669] = {
-			[10325] = {
+		[20458] = {
+			[50354] = {
 				["classes"] = 1536,
 				["sourceType"] = 4,
 				["faction"] = 3,
@@ -14242,40 +14300,10 @@ MogIt_TwoHandedDB = {
 				["faction"] = 3,
 			},
 		},
-		[481] = {
-			[7760] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[7762] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[30836] = {
+		[12676] = {
+			[25309] = {
 				["classes"] = 1536,
-				["sourceType"] = 2,
-				["faction"] = 3,
-			},
-			[7759] = {
-				["classes"] = 1024,
 				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[7761] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[8078] = {
-				["classes"] = 1024,
-				["sourceType"] = 3,
-				["faction"] = 1,
-			},
-			[351] = {
-				["classes"] = 1536,
-				["sourceType"] = 4,
 				["faction"] = 3,
 			},
 		},
@@ -14290,12 +14318,12 @@ MogIt_TwoHandedDB = {
 				["sourceType"] = 3,
 				["faction"] = 3,
 			},
-			[20494] = {
+			[21496] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,
 			},
-			[21496] = {
+			[20494] = {
 				["classes"] = 1536,
 				["sourceType"] = 3,
 				["faction"] = 3,

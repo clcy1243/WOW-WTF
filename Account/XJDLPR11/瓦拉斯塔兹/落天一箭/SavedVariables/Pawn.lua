@@ -4,7 +4,6 @@ PawnOptions = {
 	["LastPlayerFullName"] = "落天一箭-瓦拉斯塔兹",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128826] = {
 			["Relics"] = {
@@ -58,6 +57,7 @@ PawnOptions = {
 			["Name"] = "雄鹰之爪，荒野诸神之矛",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "HUNTER",

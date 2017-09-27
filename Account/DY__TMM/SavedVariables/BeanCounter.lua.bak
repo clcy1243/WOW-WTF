@@ -16,7 +16,7 @@ BeanCounterDB = {
 			},
 			["failedBidsNeutral"] = {
 			},
-			["completedBidsBuyouts"] = {
+			["failedBids"] = {
 			},
 			["completedAuctions"] = {
 			},
@@ -24,7 +24,7 @@ BeanCounterDB = {
 			},
 			["completedAuctionsNeutral"] = {
 			},
-			["failedBids"] = {
+			["completedBidsBuyouts"] = {
 			},
 		},
 	},
@@ -44,7 +44,7 @@ BeanCounterDB = {
 			},
 			["failedBidsNeutral"] = {
 			},
-			["failedBids"] = {
+			["completedBidsBuyouts"] = {
 			},
 			["completedAuctions"] = {
 			},
@@ -52,7 +52,7 @@ BeanCounterDB = {
 			},
 			["completedAuctionsNeutral"] = {
 			},
-			["completedBidsBuyouts"] = {
+			["failedBids"] = {
 			},
 		},
 	},
@@ -72,7 +72,7 @@ BeanCounterDB = {
 			},
 			["failedBidsNeutral"] = {
 			},
-			["failedBids"] = {
+			["completedBidsBuyouts"] = {
 			},
 			["completedAuctions"] = {
 			},
@@ -80,7 +80,7 @@ BeanCounterDB = {
 			},
 			["completedAuctionsNeutral"] = {
 			},
-			["completedBidsBuyouts"] = {
+			["failedBids"] = {
 			},
 		},
 	},
@@ -123,8 +123,8 @@ BeanCounterDBSettings = {
 			},
 		},
 	},
-	["configator.top"] = 956.999877929688,
 	["util.beancounter.ButtonuseDateCheck"] = false,
+	["configator.top"] = 956.999877929688,
 }
 BeanCounterDBNames = {
 }

@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0211,
+	["LastVersion"] = 2.0214,
 	["LastPlayerFullName"] = "龙轻雪-主宰之剑",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
@@ -8,15 +8,15 @@ PawnOptions = {
 		[128858] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 58,
+					["ItemLevel"] = 62,
 					["Type"] = "Arcane",
 				}, -- [1]
 				{
-					["ItemLevel"] = 55,
+					["ItemLevel"] = 61,
 					["Type"] = "Life",
 				}, -- [2]
 				{
-					["ItemLevel"] = 58,
+					["ItemLevel"] = 65,
 					["Type"] = "Arcane",
 				}, -- [3]
 			},
@@ -29,7 +29,7 @@ PawnOptions = {
 					["Type"] = "Frost",
 				}, -- [1]
 				{
-					["ItemLevel"] = 52,
+					["ItemLevel"] = 61,
 					["Type"] = "Blood",
 				}, -- [2]
 				{
@@ -59,15 +59,15 @@ PawnOptions = {
 		[128821] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 58,
+					["ItemLevel"] = 62,
 					["Type"] = "Fire",
 				}, -- [1]
 				{
-					["ItemLevel"] = 58,
+					["ItemLevel"] = 62,
 					["Type"] = "Blood",
 				}, -- [2]
 				{
-					["ItemLevel"] = 62,
+					["ItemLevel"] = 67,
 					["Type"] = "Life",
 				}, -- [3]
 			},

@@ -231,10 +231,8 @@ VExRT = {
 	},
 	["Addon"] = {
 		["Timer"] = 0.1,
-		["Version"] = 3826,
-		["PreVersion"] = 0,
-	},
-	["Profiles"] = {
+		["Version"] = 3830,
+		["PreVersion"] = 3826,
 	},
 	["Note"] = {
 		["BlackNames"] = {
@@ -248,8 +246,12 @@ VExRT = {
 		["AutoLoad"] = {
 		},
 		["Strata"] = "HIGH",
-		["Height"] = 99.9999923706055,
+		["Height"] = 99.9999313354492,
 		["Width"] = 199.999908447266,
+	},
+	["InspectArtifact"] = {
+		["players"] = {
+		},
 	},
 	["BossWatcher"] = {
 		["optionsDamageGraph"] = true,
@@ -278,9 +280,17 @@ VExRT = {
 	},
 	["Logging"] = {
 	},
-	["InspectArtifact"] = {
-		["players"] = {
+	["MarksBar"] = {
+		["pulltimer"] = 10,
+		["Strata"] = "HIGH",
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
 		},
+	},
+	["Profiles"] = {
 	},
 	["Timers"] = {
 		["specTimes"] = {
@@ -322,15 +332,5 @@ VExRT = {
 			[581] = 10,
 		},
 		["Strata"] = "HIGH",
-	},
-	["MarksBar"] = {
-		["pulltimer"] = 10,
-		["Strata"] = "HIGH",
-		["Show"] = {
-			true, -- [1]
-			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-		},
 	},
 }

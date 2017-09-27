@@ -22,10 +22,6 @@ HHTD_SavedVariables = {
 			["settingsMigrated"] = true,
 		},
 	},
-	["global"] = {
-		["settingsMigrated"] = true,
-		["oldNameEnableState"] = 0,
-	},
 	["profileKeys"] = {
 		["星界旅行者 - 瓦拉斯塔兹"] = "星界旅行者 - 瓦拉斯塔兹",
 		["龙听雨 - 主宰之剑"] = "龙听雨 - 主宰之剑",
@@ -37,5 +33,9 @@ HHTD_SavedVariables = {
 		["地狱丨灬繁花 - 摩摩尔"] = "地狱丨灬繁花 - 摩摩尔",
 		["倾城丨猫爷 - 太阳之井"] = "倾城丨猫爷 - 太阳之井",
 		["倾城丨烟雨 - 摩摩尔"] = "倾城丨烟雨 - 摩摩尔",
+	},
+	["global"] = {
+		["settingsMigrated"] = true,
+		["oldNameEnableState"] = 0,
 	},
 }

@@ -232,7 +232,7 @@ DBM-Archaeology: enabled
 DBM-TombofSargeras: enabled
 DBM-VPYike: enabled
 DBM: enabled
-TrufiGCD: disabled
+TrufiGCD: enabled
 LibChatAnims: enabled
 Skada: enabled
 SkadaAvoidanceMitigation: enabled
@@ -363,9 +363,9 @@ Grail-Rewards: enabled
 Grail-When: enabled
 HHTD: enabled
 Healers-Have-To-Die: enabled
-Hekili: disabled
-Hekili_Hunter: disabled
-Hekili_Monk: disabled
+Hekili: enabled
+Hekili_Hunter: enabled
+Hekili_Monk: enabled
 HideTalkingHead: enabled
 iKeystones: enabled
 InstancePortals: enabled
@@ -504,3 +504,5 @@ LibDropdown-1.0: enabled
 Gatherer: enabled
 TinyTooltip: disabled
 Gnosis: disabled
+ButtonFacade: enabled
+BrewmasterTools: enabled

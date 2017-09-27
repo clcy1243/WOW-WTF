@@ -24,10 +24,10 @@ HekiliDB = {
 			},
 			["Toggle State: artifact_ability"] = true,
 			["Enabled"] = false,
-			["Class Option: regrowth_instant"] = true,
 			["iconStore"] = {
 				["hide"] = true,
 			},
+			["Class Option: regrowth_instant"] = true,
 			["Class Option: artifact_cooldown"] = true,
 			["MinimapIcon"] = true,
 			["AutoDisabled"] = true,
@@ -110,10 +110,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Consume Magic",
-							["Release"] = 201617.031,
 							["Ability"] = "consume_magic",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [7]
 						{
@@ -591,8 +591,8 @@ HekiliDB = {
 						{
 							["Enabled"] = true,
 							["Script"] = "(cooldown.immolation_aura.remains<0.5&pain.deficit>=15)||(talent.felblade.enabled&cooldown.felblade.remains<0.5&pain.deficit>=pain_deficit_limit)||(talent.fel_eruption.enabled&cooldown.fel_eruption.remains<0.5)||(variable.use_sigil_of_flame&active_enemies>=2&cooldown.sigil_of_flame.remains<0.5)||(health.percent<=danger_threshold&cooldown.fel_devastation.remains<0.5&pain.current>=30)",
-							["Release"] = 201617.031,
 							["Ability"] = "variable",
+							["Release"] = 201617.031,
 							["Indicator"] = "none",
 							["Name"] = "Wait for Priority Abilities?",
 							["ModVarName"] = "wait_for_priority_abilities",
@@ -830,9 +830,9 @@ HekiliDB = {
 							["Script"] = "talent.spirit_bomb.enabled&active_enemies>=2&buff.soul_fragments.stack>=1",
 							["Name"] = "Spirit Bomb",
 							["Release"] = 201617.031,
-							["ShowModifiers"] = false,
-							["Ability"] = "spirit_bomb",
 							["Indicator"] = "none",
+							["Ability"] = "spirit_bomb",
+							["ShowModifiers"] = false,
 						}, -- [3]
 						{
 							["Enabled"] = true,
@@ -932,10 +932,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Fel Eruption",
-							["Release"] = 201617.031,
 							["Ability"] = "fel_eruption",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [8]
 						{
@@ -1074,10 +1074,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Release"] = 201617.031,
 							["Ability"] = "demons_bite",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [21]
 						{
@@ -1214,10 +1214,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Consume Magic",
-							["Release"] = 201617.031,
 							["Ability"] = "consume_magic",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [7]
 						{
@@ -1421,10 +1421,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Fel Eruption",
-							["Release"] = 201617.031,
 							["Ability"] = "fel_eruption",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [5]
 						{
@@ -1519,10 +1519,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Release"] = 201617.031,
 							["Ability"] = "demons_bite",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [14]
 						{
@@ -1648,10 +1648,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Fel Eruption",
-							["Release"] = 201617.031,
 							["Ability"] = "fel_eruption",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [8]
 						{
@@ -1790,10 +1790,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Release"] = 201617.031,
 							["Ability"] = "demons_bite",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [21]
 						{
@@ -2048,10 +2048,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Fel Eruption",
-							["Release"] = 201617.031,
 							["Ability"] = "fel_eruption",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [5]
 						{
@@ -2146,10 +2146,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Release"] = 201617.031,
 							["Ability"] = "demons_bite",
-							["Indicator"] = "none",
+							["Release"] = 201617.031,
 							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [14]
 						{
@@ -2341,10 +2341,10 @@ HekiliDB = {
 							["Enabled"] = true,
 							["ModVarName"] = "",
 							["Name"] = "Demon's Bite",
-							["Ability"] = "demons_bite",
 							["Release"] = 201617.031,
-							["CheckMovement"] = false,
+							["Ability"] = "demons_bite",
 							["Indicator"] = "none",
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [14]
 						{
@@ -2747,160 +2747,160 @@ HekiliDB = {
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns",
-							["Indicator"] = "none",
-							["Ability"] = "nemesis",
 							["Resources"] = {
 							},
+							["Ability"] = "nemesis",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Nemesis",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["Script"] = "( settings.keep_fel_rush_recharging || talent.fel_mastery.enabled ) & charges_fractional >= 1.75",
-							["Indicator"] = "none",
-							["Ability"] = "fel_rush",
 							["Resources"] = {
 							},
+							["Ability"] = "fel_rush",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fel Rush",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
-							["Indicator"] = "none",
-							["Ability"] = "fel_barrage",
 							["Resources"] = {
 							},
+							["Ability"] = "fel_barrage",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fel Barrage",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
-							["Indicator"] = "none",
-							["Ability"] = "fury_of_the_illidari",
 							["Resources"] = {
 							},
+							["Ability"] = "fury_of_the_illidari",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fury of the Illidari",
 						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.demonic.enabled & ! buff.metamorphosis.up",
-							["Indicator"] = "none",
-							["Ability"] = "eye_beam",
 							["Resources"] = {
 							},
+							["Ability"] = "eye_beam",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Eye Beam (Demonic)",
 						}, -- [5]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
-							["Indicator"] = "none",
-							["Ability"] = "fel_eruption",
 							["Resources"] = {
 							},
+							["Ability"] = "fel_eruption",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fel Eruption",
 						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.bloodlet.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Resources"] = {
 							},
+							["Ability"] = "throw_glaive",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Throw Glaive (Bloodlet)",
 						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns & ! buff.metamorphosis.up",
-							["Indicator"] = "none",
-							["Ability"] = "metamorphosis",
 							["Resources"] = {
 							},
+							["Ability"] = "metamorphosis",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Metamorphosis",
 						}, -- [8]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns",
-							["Indicator"] = "none",
-							["Ability"] = "chaos_blades",
 							["Resources"] = {
 							},
+							["Ability"] = "chaos_blades",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Chaos Blades",
 						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.first_blood.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "blade_dance",
 							["Resources"] = {
 							},
+							["Ability"] = "blade_dance",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Blade Dance",
 						}, -- [10]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.first_blood.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "death_sweep",
 							["Resources"] = {
 							},
+							["Ability"] = "death_sweep",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Death Sweep",
 						}, -- [11]
 						{
 							["Enabled"] = true,
 							["Script"] = "fury.deficit > 30",
-							["Indicator"] = "none",
-							["Ability"] = "felblade",
 							["Resources"] = {
 							},
+							["Ability"] = "felblade",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Felblade",
 						}, -- [12]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
-							["Indicator"] = "none",
-							["Ability"] = "chaos_strike",
 							["Resources"] = {
 							},
+							["Ability"] = "chaos_strike",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Chaos Strike",
 						}, -- [13]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
-							["Indicator"] = "none",
-							["Ability"] = "annihilation",
 							["Resources"] = {
 							},
+							["Ability"] = "annihilation",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Annihilation",
 						}, -- [14]
 						{
 							["Enabled"] = true,
 							["Script"] = "! talent.demon_blades.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "demons_bite",
 							["Resources"] = {
 							},
+							["Ability"] = "demons_bite",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Demon's Bite",
 						}, -- [15]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.demon_blades.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Resources"] = {
 							},
+							["Ability"] = "throw_glaive",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Throw Glaive",
 						}, -- [16]
@@ -2918,100 +2918,100 @@ HekiliDB = {
 							["Enabled"] = true,
 							["Name"] = "Potion",
 							["Script"] = "toggle.potions & time = 0",
-							["Indicator"] = "none",
-							["Release"] = 201710,
 							["Resources"] = {
 							},
 							["Ability"] = "potion",
+							["Indicator"] = "none",
+							["Release"] = 201710,
 							["ModName"] = "old_war",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns",
-							["Indicator"] = "none",
-							["Ability"] = "metamorphosis",
 							["Resources"] = {
 							},
+							["Ability"] = "metamorphosis",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Metamorphosis",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns",
-							["Indicator"] = "none",
-							["Ability"] = "nemesis",
 							["Resources"] = {
 							},
+							["Ability"] = "nemesis",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Nemesis",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Script"] = "fury.deficit > 30",
-							["Indicator"] = "none",
-							["Ability"] = "felblade",
 							["Resources"] = {
 							},
+							["Ability"] = "felblade",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Felblade",
 						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns",
-							["Indicator"] = "none",
-							["Ability"] = "chaos_blades",
 							["Resources"] = {
 							},
+							["Ability"] = "chaos_blades",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Chaos Blades",
 						}, -- [5]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.first_blood.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "death_sweep",
 							["Resources"] = {
 							},
+							["Ability"] = "death_sweep",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Death Sweep",
 						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "( settings.keep_fel_rush_recharging || talent.fel_mastery.enabled ) & charges_fractional >= 1.75",
-							["Indicator"] = "none",
-							["Ability"] = "fel_rush",
 							["Resources"] = {
 							},
+							["Ability"] = "fel_rush",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fel Rush",
 						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
-							["Indicator"] = "none",
-							["Ability"] = "fel_barrage",
 							["Resources"] = {
 							},
+							["Ability"] = "fel_barrage",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fel Barrage",
 						}, -- [8]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
-							["Indicator"] = "none",
-							["Ability"] = "fury_of_the_illidari",
 							["Resources"] = {
 							},
+							["Ability"] = "fury_of_the_illidari",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fury of the Illidari",
 						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Script"] = "",
-							["Indicator"] = "none",
-							["Ability"] = "annihilation",
 							["Resources"] = {
 							},
+							["Ability"] = "annihilation",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Annihilation",
 						}, -- [10]
@@ -3028,140 +3028,140 @@ HekiliDB = {
 						{
 							["Enabled"] = true,
 							["Script"] = "( talent.fel_mastery.enabled & fury.deficit >= 30 ) || ( charges_fractional >= 1.75 & settings.keep_fel_rush_recharging ) || ( talent.momentum.enabled & ! buff.momentum.up )",
-							["Indicator"] = "none",
-							["Ability"] = "fel_rush",
 							["Resources"] = {
 							},
+							["Ability"] = "fel_rush",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fel Rush",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["Script"] = "( talent.prepared.enabled & fury.current <= 85 ) || ( talent.momentum.enabled & ! buff.momentum.up )",
-							["Indicator"] = "none",
-							["Ability"] = "vengeful_retreat",
 							["Resources"] = {
 							},
+							["Ability"] = "vengeful_retreat",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Vengeful Retreat",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Script"] = "( ! talent.momentum.enabled || buff.momentum.up || ( cooldown.vengeful_retreat.remains > 0 & cooldown.fel_rush.charges < 1 ) )",
-							["Indicator"] = "none",
-							["Ability"] = "fel_barrage",
 							["Resources"] = {
 							},
+							["Ability"] = "fel_barrage",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fel Barrage",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Script"] = "( ! talent.momentum.enabled || buff.momentum.up || ( cooldown.vengeful_retreat.remains > 0 & cooldown.fel_rush.charges < 1 ) )",
-							["Indicator"] = "none",
-							["Ability"] = "fury_of_the_illidari",
 							["Resources"] = {
 							},
+							["Ability"] = "fury_of_the_illidari",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Fury of the Illidari",
 						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Script"] = "( ! talent.demonic.enabled || buff.metamorphosis.down ) & ( ! talent.momentum.enabled || buff.momentum.up || ( cooldown.vengeful_retreat.remains > 0 & cooldown.fel_rush.charges = 0 ) )",
-							["Indicator"] = "none",
-							["Ability"] = "eye_beam",
 							["Resources"] = {
 							},
+							["Ability"] = "eye_beam",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Eye Beam",
 						}, -- [5]
 						{
 							["Enabled"] = true,
 							["Script"] = "active_enemies >= 3",
-							["Indicator"] = "none",
-							["Ability"] = "blade_dance",
 							["Resources"] = {
 							},
+							["Ability"] = "blade_dance",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Blade Dance",
 						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "active_enemies >= 3",
-							["Indicator"] = "none",
-							["Ability"] = "death_sweep",
 							["Resources"] = {
 							},
+							["Ability"] = "death_sweep",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Death Sweep",
 						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.bloodlet.enabled & ( ! talent.momentum.enabled || buff.momentum.up || ( cooldown.vengeful_retreat.remains > 0 & cooldown.fel_rush.charges < 1 ) )",
-							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Resources"] = {
 							},
+							["Ability"] = "throw_glaive",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Throw Glaive (Bloodlet)",
 						}, -- [8]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.first_blood.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "blade_dance",
 							["Resources"] = {
 							},
+							["Ability"] = "blade_dance",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Blade Dance (First Blood)",
 						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.first_blood.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "death_sweep",
 							["Resources"] = {
 							},
+							["Ability"] = "death_sweep",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Death Sweep (First Blood)",
 						}, -- [10]
 						{
 							["Enabled"] = true,
 							["Script"] = "active_enemies >= 2 & talent.chaos_cleave.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "chaos_strike",
 							["Resources"] = {
 							},
+							["Ability"] = "chaos_strike",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Chaos Strike",
 						}, -- [11]
 						{
 							["Enabled"] = true,
 							["Script"] = "active_enemies >= 2",
-							["Indicator"] = "none",
-							["Ability"] = "throw_glaive",
 							["Resources"] = {
 							},
+							["Ability"] = "throw_glaive",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Throw Glaive",
 						}, -- [12]
 						{
 							["Enabled"] = true,
 							["Script"] = "fury.current >= 70 || ( talent.demon_blades.enabled & fury.current >= 60 )",
-							["Indicator"] = "none",
-							["Ability"] = "chaos_strike",
 							["Resources"] = {
 							},
+							["Ability"] = "chaos_strike",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Chaos Strike (1)",
 						}, -- [13]
 						{
 							["Enabled"] = true,
 							["Script"] = "! talent.demon_blades.enabled",
-							["Indicator"] = "none",
-							["Ability"] = "demons_bite",
 							["Resources"] = {
 							},
+							["Ability"] = "demons_bite",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Demon's Bite",
 						}, -- [14]
@@ -3178,10 +3178,10 @@ HekiliDB = {
 						{
 							["Enabled"] = true,
 							["Script"] = "debuff.casting.up",
-							["Indicator"] = "none",
-							["Ability"] = "consume_magic",
 							["Resources"] = {
 							},
+							["Ability"] = "consume_magic",
+							["Indicator"] = "none",
 							["Release"] = 201710,
 							["Name"] = "Consume Magic",
 						}, -- [1]
@@ -3189,33 +3189,33 @@ HekiliDB = {
 							["Enabled"] = true,
 							["Name"] = "Opener",
 							["Script"] = "toggle.cooldowns & time < 15",
-							["Indicator"] = "none",
-							["Release"] = 201710,
 							["Resources"] = {
 							},
 							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Release"] = 201710,
 							["ModName"] = "Icy Veins: Opener",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Name"] = "AOE",
 							["Script"] = "active_enemies > 1",
-							["Indicator"] = "none",
-							["Release"] = 201710,
 							["Resources"] = {
 							},
 							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Release"] = 201710,
 							["ModName"] = "Icy Veins: AOE",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Name"] = "Single Target",
 							["Script"] = "",
-							["Indicator"] = "none",
-							["Release"] = 201710,
 							["Resources"] = {
 							},
 							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Release"] = 201710,
 							["ModName"] = "Icy Veins: Single Target",
 						}, -- [4]
 					},
@@ -3289,8 +3289,8 @@ HekiliDB = {
 					["maxAE"] = 0,
 					["x"] = -12.7505493164063,
 					["targetPvE"] = false,
-					["showPvP"] = true,
 					["Release"] = 20170612.233537,
+					["showPvP"] = true,
 					["showKeybindings"] = true,
 					["combatPvE"] = false,
 					["captionFontSize"] = 12,
@@ -3393,7 +3393,7 @@ HekiliDB = {
 					["queuedIconSize"] = 40,
 					["targetPvE"] = false,
 					["blizzGlow"] = false,
-					["showPvP"] = true,
+					["Release"] = 20170612.233537,
 					["xOffsetIndicators"] = 0,
 					["yOffsetIndicators"] = 0,
 					["targetFont"] = "PT Sans Narrow",
@@ -3420,7 +3420,7 @@ HekiliDB = {
 					["captionFontSize"] = 12,
 					["combatPvE"] = false,
 					["showKeybindings"] = true,
-					["Release"] = 20170612.233537,
+					["showPvP"] = true,
 					["showSwitchAuto"] = true,
 					["x"] = 0,
 					["alphaShowPvP"] = 1,
@@ -3519,8 +3519,8 @@ HekiliDB = {
 					["maxAE"] = 0,
 					["maxST"] = 1,
 					["targetPvE"] = false,
-					["showPvP"] = true,
 					["Release"] = 20170624.232908,
+					["showPvP"] = true,
 					["showKeybindings"] = true,
 					["targetPvP"] = false,
 					["combatPvE"] = false,
@@ -3622,8 +3622,8 @@ HekiliDB = {
 					["maxAE"] = 0,
 					["maxST"] = 1,
 					["targetPvE"] = false,
-					["Release"] = 20170624.232908,
 					["showPvP"] = true,
+					["Release"] = 20170624.232908,
 					["showKeybindings"] = true,
 					["targetPvP"] = false,
 					["combatPvE"] = false,
@@ -3726,7 +3726,7 @@ HekiliDB = {
 					["queuedIconSize"] = 40,
 					["targetPvE"] = false,
 					["blizzGlow"] = false,
-					["showPvP"] = true,
+					["Release"] = 20170624.232908,
 					["xOffsetIndicators"] = 0,
 					["yOffsetIndicators"] = 0,
 					["targetFont"] = "PT Sans Narrow",
@@ -3753,7 +3753,7 @@ HekiliDB = {
 					["combatPvE"] = false,
 					["captionFontSize"] = 12,
 					["showKeybindings"] = true,
-					["Release"] = 20170624.232908,
+					["showPvP"] = true,
 					["xOffsetKBs"] = 1,
 					["maxST"] = 1,
 					["alphaShowPvP"] = 1,
@@ -3829,7 +3829,7 @@ HekiliDB = {
 					["queuedIconSize"] = 40,
 					["targetPvE"] = false,
 					["blizzGlow"] = true,
-					["Release"] = 20170624.232908,
+					["showPvP"] = true,
 					["xOffsetIndicators"] = 0,
 					["yOffsetIndicators"] = 0,
 					["targetFont"] = "PT Sans Narrow",
@@ -3856,7 +3856,7 @@ HekiliDB = {
 					["combatPvE"] = false,
 					["captionFontSize"] = 12,
 					["showKeybindings"] = true,
-					["showPvP"] = true,
+					["Release"] = 20170624.232908,
 					["xOffsetKBs"] = 1,
 					["maxST"] = 1,
 					["alphaShowPvP"] = 1,
@@ -3868,12 +3868,43 @@ HekiliDB = {
 				}, -- [4]
 			},
 			["Class Option: artifact_cooldown"] = true,
-			["Class Option: bos_frost_strike_rp"] = 25,
+			["trinkets"] = {
+				["kiljaedens_burning_wish"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["umbral_moonglaives"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["specter_of_betrayal"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["draught_of_souls"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["faulty_countermeasure"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["vial_of_ceaseless_toxins"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+			},
 			["actionLists"] = {
 				{
 					["Script"] = "",
 					["Name"] = "SimC Unholy: generic",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["Specialization"] = 252,
 					["Actions"] = {
 						{
@@ -3891,6 +3922,19 @@ HekiliDB = {
 						}, -- [1]
 						{
 							["Enabled"] = true,
+							["Script"] = "equipped.137075 & debuff.festering_wound.stack >= 6 & talent.dark_arbiter.enabled",
+							["Ability"] = "apocalypse",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Apocalypse",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns & ( equipped.137075 & runic_power.deficit < 30 & cooldown.dark_transformation.remains < 2 )",
 							["Ability"] = "dark_arbiter",
 							["Indicator"] = "none",
@@ -3901,7 +3945,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [2]
+						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns & ( rune <= 3 )",
@@ -3914,7 +3958,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [3]
+						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Script"] = "buff.unholy_strength.up & buff.cold_heart.stack > 19",
@@ -3927,7 +3971,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [4]
+						}, -- [5]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns & ( equipped.137075 & cooldown.dark_transformation.remains < 10 & rune <= 3 )",
@@ -3940,7 +3984,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [5]
+						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "debuff.festering_wound.stack >= 6 & cooldown.apocalypse.remains < 4",
@@ -3953,20 +3997,20 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [6]
+						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "debuff.festering_wound.stack >= 6",
 							["Ability"] = "apocalypse",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
-							["Name"] = "Apocalypse",
+							["Name"] = "Apocalypse (1)",
 							["Release"] = 201710,
 							["Resources"] = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [7]
+						}, -- [8]
 						{
 							["Enabled"] = true,
 							["Script"] = "runic_power.deficit < 10",
@@ -3979,7 +4023,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [8]
+						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Script"] = "! talent.dark_arbiter.enabled & buff.sudden_doom.up & ! buff.necrosis.up & rune <= 3",
@@ -3992,7 +4036,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [9]
+						}, -- [10]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.dark_arbiter.enabled & buff.sudden_doom.up & cooldown.dark_arbiter.remains > 5 & rune <= 3",
@@ -4005,7 +4049,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [10]
+						}, -- [11]
 						{
 							["Enabled"] = true,
 							["Script"] = "debuff.festering_wound.stack < 6 & cooldown.apocalypse.remains <= 6",
@@ -4018,7 +4062,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [11]
+						}, -- [12]
 						{
 							["Enabled"] = true,
 							["Script"] = "debuff.festering_wound.stack >= 3",
@@ -4031,7 +4075,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [12]
+						}, -- [13]
 						{
 							["Enabled"] = true,
 							["Script"] = "debuff.soul_reaper.up & ! debuff.festering_wound.up",
@@ -4044,7 +4088,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [13]
+						}, -- [14]
 						{
 							["Enabled"] = true,
 							["Script"] = "debuff.soul_reaper.up & debuff.festering_wound.stack >= 1",
@@ -4057,7 +4101,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [14]
+						}, -- [15]
 						{
 							["Enabled"] = true,
 							["Script"] = "debuff.soul_reaper.up & debuff.festering_wound.stack >= 1",
@@ -4070,7 +4114,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [15]
+						}, -- [16]
 						{
 							["Enabled"] = true,
 							["Ability"] = "defile",
@@ -4082,7 +4126,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [16]
+						}, -- [17]
 						{
 							["Enabled"] = true,
 							["Script"] = "active_enemies >= 2",
@@ -4096,56 +4140,118 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "SimC Unholy: AOE",
-						}, -- [17]
-						{
-							["Enabled"] = true,
-							["Script"] = "equipped.the_instructors_fourth_lesson",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Call Action List (1)",
-							["Args"] = "name=\"SimC Unholy: instructors\"",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Unholy: instructors",
 						}, -- [18]
 						{
 							["Enabled"] = true,
-							["Script"] = "! talent.castigator.enabled & ! equipped.the_instructors_fourth_lesson",
-							["Ability"] = "call_action_list",
+							["Script"] = "debuff.festering_wound.stack <= 2 & ( debuff.festering_wound.stack <= 4 || ( buff.blighted_rune_weapon.up || talent.castigator.enabled ) ) & runic_power.deficit > 5 & ( runic_power.deficit > 23 || ! talent.castigator.enabled )",
+							["Ability"] = "festering_strike",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
-							["Name"] = "Call Action List (2)",
-							["Args"] = "name=\"SimC Unholy: standard\"",
+							["Name"] = "Festering Strike (2)",
 							["Release"] = 201710,
 							["Resources"] = {
 							},
 							["CheckMovement"] = false,
-							["ModName"] = "SimC Unholy: standard",
+							["ModName"] = "",
 						}, -- [19]
 						{
 							["Enabled"] = true,
-							["Script"] = "talent.castigator.enabled & ! equipped.the_instructors_fourth_lesson",
-							["Ability"] = "call_action_list",
+							["Script"] = "! buff.necrosis.up & talent.necrosis.enabled & runes.time_to_4 > gcd",
+							["Ability"] = "death_coil",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
-							["Name"] = "Call Action List (3)",
-							["Args"] = "name=\"SimC Unholy: castigator\"",
+							["Name"] = "Death Coil (3)",
 							["Release"] = 201710,
 							["Resources"] = {
 							},
 							["CheckMovement"] = false,
-							["ModName"] = "SimC Unholy: castigator",
+							["ModName"] = "",
 						}, -- [20]
+						{
+							["Enabled"] = true,
+							["Script"] = "( buff.necrosis.up || buff.unholy_strength.up || rune >= 2 ) & debuff.festering_wound.stack >= 1 & ( debuff.festering_wound.stack >= 3 || ! ( talent.castigator.enabled || equipped.the_instructors_fourth_lesson ) ) & runic_power.deficit > 9 & ( runic_power.deficit > 23 || ! talent.castigator.enabled )",
+							["Ability"] = "scourge_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Scourge Strike (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [21]
+						{
+							["Enabled"] = true,
+							["Script"] = "( buff.necrosis.up || buff.unholy_strength.up || rune >= 2 ) & debuff.festering_wound.stack >= 1 & ( debuff.festering_wound.stack >= 3 || ! equipped.the_instructors_fourth_lesson ) & runic_power.deficit > 9",
+							["Ability"] = "clawing_shadows",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Clawing Shadows (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [22]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.shadow_infusion.enabled & talent.dark_arbiter.enabled & ! buff.dark_transformation.up & cooldown.dark_arbiter.remains > 15",
+							["Ability"] = "death_coil",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Death Coil (4)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [23]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.shadow_infusion.enabled & ! talent.dark_arbiter.enabled & ! buff.dark_transformation.up",
+							["Ability"] = "death_coil",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Death Coil (5)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [24]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.dark_arbiter.enabled & cooldown.dark_arbiter.remains > 15",
+							["Ability"] = "death_coil",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Death Coil (6)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [25]
+						{
+							["Enabled"] = true,
+							["Script"] = "! talent.shadow_infusion.enabled & ! talent.dark_arbiter.enabled",
+							["Ability"] = "death_coil",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Death Coil (7)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [26]
 					},
 					["Default"] = true,
 				}, -- [1]
 				{
 					["Script"] = "",
 					["Name"] = "SimC Unholy: default",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["Specialization"] = 252,
 					["Actions"] = {
 						{
@@ -4202,6 +4308,18 @@ HekiliDB = {
 						}, -- [4]
 						{
 							["Enabled"] = true,
+							["Ability"] = "use_items",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Use Items",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
 							["Script"] = "toggle.potions & ( buff.unholy_strength.up )",
 							["Ability"] = "potion",
 							["Indicator"] = "none",
@@ -4212,21 +4330,21 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [5]
+						}, -- [6]
 						{
 							["Enabled"] = true,
-							["Script"] = "! dot.virulent_plague.ticking",
+							["Script"] = "( dot.virulent_plague.tick_time_remains + tick_time <= dot.virulent_plague.remains ) & dot.virulent_plague.remains <= gcd",
 							["Ability"] = "outbreak",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Outbreak",
-							["Args"] = "target_if=!dot.virulent_plague.ticking",
+							["Args"] = "target_if=(dot.virulent_plague.tick_time_remains+tick_time<=dot.virulent_plague.remains)&dot.virulent_plague.remains<=gcd",
 							["Release"] = 201710,
 							["Resources"] = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [6]
+						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns",
@@ -4239,7 +4357,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [7]
+						}, -- [8]
 						{
 							["Enabled"] = true,
 							["Script"] = "equipped.137075 & cooldown.dark_arbiter.remains > 165",
@@ -4252,7 +4370,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [8]
+						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Script"] = "equipped.137075 & ! talent.shadow_infusion.enabled & cooldown.dark_arbiter.remains > 55",
@@ -4265,7 +4383,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [9]
+						}, -- [10]
 						{
 							["Enabled"] = true,
 							["Script"] = "equipped.137075 & talent.shadow_infusion.enabled & cooldown.dark_arbiter.remains > 35",
@@ -4278,7 +4396,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [10]
+						}, -- [11]
 						{
 							["Enabled"] = true,
 							["Script"] = "equipped.137075 & target.time_to_die < cooldown.dark_arbiter.remains - 8",
@@ -4291,7 +4409,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [11]
+						}, -- [12]
 						{
 							["Enabled"] = true,
 							["Script"] = "equipped.137075 & cooldown.summon_gargoyle.remains > 160",
@@ -4304,7 +4422,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [12]
+						}, -- [13]
 						{
 							["Enabled"] = true,
 							["Script"] = "equipped.137075 & ! talent.shadow_infusion.enabled & cooldown.summon_gargoyle.remains > 55",
@@ -4317,7 +4435,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [13]
+						}, -- [14]
 						{
 							["Enabled"] = true,
 							["Script"] = "equipped.137075 & talent.shadow_infusion.enabled & cooldown.summon_gargoyle.remains > 35",
@@ -4330,7 +4448,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [14]
+						}, -- [15]
 						{
 							["Enabled"] = true,
 							["Script"] = "equipped.137075 & target.time_to_die < cooldown.summon_gargoyle.remains - 8",
@@ -4343,7 +4461,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [15]
+						}, -- [16]
 						{
 							["Enabled"] = true,
 							["Script"] = "! equipped.137075 & rune <= 3",
@@ -4356,10 +4474,10 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [16]
+						}, -- [17]
 						{
 							["Enabled"] = true,
-							["Script"] = "rune <= 3",
+							["Script"] = "debuff.festering_wound.stack <= 4",
 							["Ability"] = "blighted_rune_weapon",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
@@ -4369,7 +4487,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [17]
+						}, -- [18]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.dark_arbiter.enabled & pet.valkyr_battlemaiden.active",
@@ -4383,7 +4501,7 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "SimC Unholy: valkyr",
-						}, -- [18]
+						}, -- [19]
 						{
 							["Enabled"] = true,
 							["Ability"] = "call_action_list",
@@ -4396,14 +4514,14 @@ HekiliDB = {
 							},
 							["CheckMovement"] = false,
 							["ModName"] = "SimC Unholy: generic",
-						}, -- [19]
+						}, -- [20]
 					},
 					["Default"] = true,
 				}, -- [2]
 				{
 					["Script"] = "",
 					["Name"] = "SimC Unholy: precombat",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["Specialization"] = 252,
 					["Actions"] = {
 						{
@@ -4444,13 +4562,25 @@ HekiliDB = {
 							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Ability"] = "blighted_rune_weapon",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Blighted Rune Weapon",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
 					},
 					["Default"] = true,
 				}, -- [3]
 				{
 					["Script"] = "",
 					["Name"] = "SimC Unholy: valkyr",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["Specialization"] = 252,
 					["Actions"] = {
 						{
@@ -4467,7 +4597,7 @@ HekiliDB = {
 						}, -- [1]
 						{
 							["Enabled"] = true,
-							["Script"] = "debuff.festering_wound.stack = 8",
+							["Script"] = "debuff.festering_wound.stack >= 6",
 							["Ability"] = "apocalypse",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
@@ -4480,7 +4610,7 @@ HekiliDB = {
 						}, -- [2]
 						{
 							["Enabled"] = true,
-							["Script"] = "debuff.festering_wound.stack < 8 & cooldown.apocalypse.remains < 5",
+							["Script"] = "debuff.festering_wound.stack < 6 & cooldown.apocalypse.remains < 3",
 							["Ability"] = "festering_strike",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
@@ -4507,7 +4637,7 @@ HekiliDB = {
 						}, -- [4]
 						{
 							["Enabled"] = true,
-							["Script"] = "debuff.festering_wound.stack <= 3",
+							["Script"] = "debuff.festering_wound.stack <= 4",
 							["Ability"] = "festering_strike",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
@@ -4550,7 +4680,7 @@ HekiliDB = {
 				{
 					["Script"] = "",
 					["Name"] = "SimC Unholy: AOE",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["Specialization"] = 252,
 					["Actions"] = {
 						{
@@ -4581,7 +4711,7 @@ HekiliDB = {
 						}, -- [2]
 						{
 							["Enabled"] = true,
-							["Script"] = "active_enemies >= 2 & ( dot.death_and_decay.ticking || dot.defile.ticking )",
+							["Script"] = "active_enemies >= 2 & ( death_and_decay.ticking || defile.ticking )",
 							["Ability"] = "scourge_strike",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
@@ -4594,7 +4724,7 @@ HekiliDB = {
 						}, -- [3]
 						{
 							["Enabled"] = true,
-							["Script"] = "active_enemies >= 2 & ( dot.death_and_decay.ticking || dot.defile.ticking )",
+							["Script"] = "active_enemies >= 2 & ( death_and_decay.ticking || defile.ticking )",
 							["Ability"] = "clawing_shadows",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
@@ -4622,10 +4752,10 @@ HekiliDB = {
 					["Default"] = true,
 				}, -- [5]
 				{
+					["Default"] = true,
 					["Specialization"] = 252,
-					["Script"] = "",
 					["Name"] = "SimC Unholy: standard",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["ReadyTime"] = "runes.time_to_2",
 					["Actions"] = {
 						{
@@ -4785,12 +4915,12 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [12]
 					},
-					["Default"] = true,
+					["Script"] = "",
 				}, -- [6]
 				{
 					["Specialization"] = 252,
 					["Name"] = "SimC Unholy: castigator",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["Script"] = "",
 					["Actions"] = {
 						{
@@ -4916,7 +5046,7 @@ HekiliDB = {
 				{
 					["Specialization"] = 252,
 					["Name"] = "SimC Unholy: instructors",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["Script"] = "",
 					["Actions"] = {
 						{
@@ -5079,10 +5209,10 @@ HekiliDB = {
 					["Default"] = true,
 				}, -- [8]
 				{
+					["Script"] = "",
 					["Name"] = "SimC Frost: generic",
-					["Specialization"] = 251,
 					["Default"] = true,
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["ReadyTime"] = "!talent.frostscythe.enabled and 0 or buff.killing_machine.remains",
 					["Actions"] = {
 						{
@@ -5382,13 +5512,13 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [23]
 					},
-					["Script"] = "",
+					["Specialization"] = 251,
 				}, -- [9]
 				{
+					["Script"] = "",
 					["Name"] = "SimC Frost: default",
-					["Default"] = true,
 					["Specialization"] = 251,
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["ReadyTime"] = "runic_power.falls_to_27",
 					["Actions"] = {
 						{
@@ -5406,224 +5536,80 @@ HekiliDB = {
 						}, -- [1]
 						{
 							["Enabled"] = true,
-							["Script"] = "runic_power.deficit > 20 & ! talent.breath_of_sindragosa.enabled",
-							["Ability"] = "arcane_torrent",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Arcane Torrent",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Script"] = "talent.breath_of_sindragosa.enabled & dot.breath_of_sindragosa.ticking & runic_power.current < 30 & rune < 2",
-							["Ability"] = "arcane_torrent",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Arcane Torrent (1)",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns & ( buff.pillar_of_frost.up )",
-							["Ability"] = "blood_fury",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Blood Fury",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns & ( buff.pillar_of_frost.up )",
-							["Ability"] = "berserking",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Berserking",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Script"] = "runes.time_to_5 < 3 & ( ! dot.breath_of_sindragosa.ticking || runic_power.current > 60 )",
-							["Ability"] = "draught_of_souls",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Draught of Souls",
-							["Args"] = "name=draught_of_souls",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.potions & ( buff.pillar_of_frost.up & ( ! talent.breath_of_sindragosa.enabled || ! cooldown.breath_of_sindragosa.remains > 0 ) )",
-							["Ability"] = "potion",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Potion",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Script"] = "! talent.breath_of_sindragosa.enabled",
-							["Ability"] = "pillar_of_frost",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Pillar of Frost",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [8]
-						{
-							["Enabled"] = true,
-							["Script"] = "talent.breath_of_sindragosa.enabled & cooldown.breath_of_sindragosa.remains > 40",
-							["Ability"] = "pillar_of_frost",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Pillar of Frost (1)",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["Script"] = "talent.breath_of_sindragosa.enabled & ! cooldown.breath_of_sindragosa.remains > 0 & runic_power.current >= 50 & equipped.convergence_of_fates & cooldown.hungering_rune_weapon.remains < 10",
-							["Ability"] = "pillar_of_frost",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Pillar of Frost (2)",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [10]
-						{
-							["Enabled"] = true,
-							["Script"] = "talent.breath_of_sindragosa.enabled & ! cooldown.breath_of_sindragosa.remains > 0 & runic_power.current >= 50 & ! equipped.convergence_of_fates & ( cooldown.hungering_rune_weapon.remains < 15 || target.time_to_die > 135 )",
-							["Ability"] = "pillar_of_frost",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Pillar of Frost (3)",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [11]
-						{
-							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns & ( buff.pillar_of_frost.up )",
-							["Ability"] = "breath_of_sindragosa",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Breath of Sindragosa",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [12]
-						{
-							["Enabled"] = true,
-							["Script"] = "buff.cold_heart.stack = 20 || ( buff.pillar_of_frost.remains < gcd & buff.pillar_of_frost.up & ( buff.cold_heart.stack >= 11 || ( buff.cold_heart.stack >= 10 & set_bonus.tier20_4pc > 0 ) ) )",
-							["Ability"] = "chains_of_ice",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Chains of Ice",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [13]
-						{
-							["Enabled"] = true,
-							["Script"] = "! talent.breath_of_sindragosa.enabled & ! ( talent.gathering_storm.enabled & buff.remorseless_winter.up )",
 							["Ability"] = "call_action_list",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Call Action List",
-							["Args"] = "name=\"SimC Frost: generic\"",
+							["Args"] = "name=\"SimC Frost: CDs\"",
 							["Release"] = 201710,
 							["Resources"] = {
 							},
 							["CheckMovement"] = false,
-							["ModName"] = "SimC Frost: generic",
-						}, -- [14]
+							["ModName"] = "SimC Frost: CDs",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "equipped.cold_heart & buff.cold_heart.stack >= 10",
+							["Ability"] = "call_action_list",
+							["CheckMovement"] = false,
+							["ModVarName"] = "",
+							["Name"] = "Call Action List (1)",
+							["Args"] = "name=\"SimC Frost: cold heart\"",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
+							["ModName"] = "SimC Frost: cold heart",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "! talent.breath_of_sindragosa.enabled",
+							["Ability"] = "call_action_list",
+							["CheckMovement"] = false,
+							["ModVarName"] = "",
+							["Name"] = "Call Action List (2)",
+							["Args"] = "name=\"SimC Frost: machinegun\"",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
+							["ModName"] = "SimC Frost: machinegun",
+						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.breath_of_sindragosa.enabled & ! dot.breath_of_sindragosa.ticking",
 							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
+							["CheckMovement"] = false,
 							["ModVarName"] = "",
-							["Name"] = "Call Action List (1)",
-							["Args"] = "name=\"SimC Frost: bos\"",
+							["Name"] = "Call Action List (3)",
+							["Args"] = "name=\"SimC Frost: bos generic\"",
 							["Release"] = 201710,
 							["Resources"] = {
 							},
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Frost: bos",
-						}, -- [15]
+							["Indicator"] = "none",
+							["ModName"] = "SimC Frost: bos generic",
+						}, -- [5]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.breath_of_sindragosa.enabled & dot.breath_of_sindragosa.ticking",
 							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
+							["CheckMovement"] = false,
 							["ModVarName"] = "",
-							["Name"] = "Call Action List (2)",
+							["Name"] = "Call Action List (4)",
 							["Args"] = "name=\"SimC Frost: bos ticking\"",
 							["Release"] = 201710,
 							["Resources"] = {
 							},
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Frost: bos ticking",
-						}, -- [16]
-						{
-							["Enabled"] = true,
-							["Script"] = "talent.gathering_storm.enabled & buff.remorseless_winter.up & ! talent.breath_of_sindragosa.enabled",
-							["Ability"] = "call_action_list",
 							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Call Action List (3)",
-							["Args"] = "name=\"SimC Frost: gs ticking\"",
-							["Release"] = 201710,
-							["Resources"] = {
-							},
-							["CheckMovement"] = false,
-							["ModName"] = "SimC Frost: gs ticking",
-						}, -- [17]
+							["ModName"] = "SimC Frost: bos ticking",
+						}, -- [6]
 					},
-					["Script"] = "",
+					["Default"] = true,
 				}, -- [10]
 				{
 					["Specialization"] = 251,
 					["Name"] = "SimC Frost: precombat",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["Script"] = "",
 					["Actions"] = {
 						{
@@ -5643,10 +5629,10 @@ HekiliDB = {
 					["Default"] = true,
 				}, -- [11]
 				{
+					["Script"] = "",
 					["Name"] = "SimC Frost: gs ticking",
-					["Specialization"] = 251,
 					["Default"] = true,
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["ReadyTime"] = "buff.hungering_rune_weapon.remains",
 					["Actions"] = {
 						{
@@ -5828,13 +5814,13 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [14]
 					},
-					["Script"] = "",
+					["Specialization"] = 251,
 				}, -- [12]
 				{
+					["Script"] = "",
 					["Name"] = "SimC Frost: bos",
-					["Specialization"] = 251,
 					["Default"] = true,
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["ReadyTime"] = "runic_power.falls_to_70",
 					["Actions"] = {
 						{
@@ -5956,7 +5942,7 @@ HekiliDB = {
 						}, -- [9]
 						{
 							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns & ( ( equipped.consorts_cold_core || buff.pillar_of_frost.up ) & buff.unholy_strength.up & debuff.razorice.stack = 5 & ! buff.obliteration.up )",
+							["Script"] = "toggle.cooldowns & ( ( equipped.consorts_cold_core || buff.pillar_of_frost.up ) & buff.unholy_strength.up & debuff.razorice.stack = 5 & ! buff.obliteration.up & runic_power.current > 35 )",
 							["Ability"] = "sindragosas_fury",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
@@ -6059,18 +6045,18 @@ HekiliDB = {
 							["ModName"] = "",
 						}, -- [17]
 					},
-					["Script"] = "",
+					["Specialization"] = 251,
 				}, -- [13]
 				{
 					["Name"] = "SimC Frost: bos ticking",
 					["Specialization"] = 251,
 					["Default"] = true,
-					["Release"] = 20170624.232908,
-					["ReadyTime"] = "runic_power.falls_to_29, buff.hungering_rune_weapon.remains",
+					["Release"] = 20170829.00082,
+					["ReadyTime"] = "buff.hungering_rune_weapon.remains",
 					["Actions"] = {
 						{
 							["Enabled"] = true,
-							["Script"] = "( runic_power.current >= 30 || buff.hungering_rune_weapon.up ) & ( ( buff.rime.up & equipped.perseverance_of_the_ebon_martyr ) || ( talent.gathering_storm.enabled & ( dot.remorseless_winter.remains <= gcd || ! dot.remorseless_winter.ticking ) ) )",
+							["Script"] = "( runic_power.current >= 30 || buff.hungering_rune_weapon.up ) & ( ( buff.rime.up & equipped.perseverance_of_the_ebon_martyr ) || ( talent.gathering_storm.enabled & ( buff.remorseless_winter.remains <= gcd || ! buff.remorseless_winter.up ) ) )",
 							["Ability"] = "remorseless_winter",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
@@ -6254,21 +6240,21 @@ HekiliDB = {
 					["Script"] = "",
 				}, -- [14]
 				{
+					["Default"] = true,
 					["Specialization"] = 251,
-					["Script"] = "",
 					["Name"] = "IV Frost BoS: default",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["ReadyTime"] = "runic_power.time_to_70, runes.time_to_2",
 					["Actions"] = {
 						{
 							["Enabled"] = true,
-							["Ability"] = "breath_of_sindragosa",
-							["Script"] = "runic_power.current >= 70 & rune >= 2",
-							["ReadyTime"] = "runic_power.time_to_70, runes.time_to_2",
-							["Release"] = 201710,
-							["Indicator"] = "none",
 							["whenReady"] = "script",
 							["Name"] = "Breath of Sindragosa",
+							["ReadyTime"] = "runic_power.time_to_70, runes.time_to_2",
+							["Ability"] = "breath_of_sindragosa",
+							["Indicator"] = "none",
+							["Release"] = 201710,
+							["Script"] = "runic_power.current >= 70 & rune >= 2",
 						}, -- [1]
 						{
 							["Enabled"] = true,
@@ -6289,13 +6275,13 @@ HekiliDB = {
 							["ModName"] = "IV Frost BoS: no breath",
 						}, -- [3]
 					},
-					["Default"] = true,
+					["Script"] = "",
 				}, -- [15]
 				{
+					["Default"] = true,
 					["Specialization"] = 251,
-					["Script"] = "",
 					["Name"] = "IV Frost BoS: breath",
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["ReadyTime"] = "runic_power.falls_to_30",
 					["Actions"] = {
 						{
@@ -6347,21 +6333,21 @@ HekiliDB = {
 						}, -- [6]
 						{
 							["Enabled"] = true,
-							["Release"] = 201710,
-							["Name"] = "Hungering Rune Weapon",
-							["ReadyTime"] = "runic_power.falls_to_30",
-							["Ability"] = "hungering_rune_weapon",
-							["Indicator"] = "none",
 							["whenReady"] = "script",
 							["Script"] = "runic_power.current<=30",
+							["ReadyTime"] = "runic_power.falls_to_30",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["Ability"] = "hungering_rune_weapon",
+							["Name"] = "Hungering Rune Weapon",
 						}, -- [7]
 					},
-					["Default"] = true,
+					["Script"] = "",
 				}, -- [16]
 				{
 					["Name"] = "IV Frost BoS: no breath",
 					["Default"] = true,
-					["Release"] = 20170624.232908,
+					["Release"] = 20170829.00082,
 					["Script"] = "",
 					["Actions"] = {
 						{
@@ -6423,29 +6409,1075 @@ HekiliDB = {
 					},
 					["Specialization"] = 251,
 				}, -- [17]
+				{
+					["Default"] = true,
+					["Name"] = "Usable Items",
+					["Hidden"] = true,
+					["Release"] = 20170720.182352,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Faulty Countermeasure",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "faulty_countermeasure",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Name"] = "Umbral Moonglaives",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "umbral_moonglaives",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Name"] = "Draught of Souls",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["Ability"] = "draught_of_souls",
+							["Resources"] = {
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Name"] = "Kil'jaeden's Burning Wish",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "kiljaedens_burning_wish",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Name"] = "Vial of Ceaseless Toxins",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "vial_of_ceaseless_toxins",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Name"] = "Specter of Betrayal",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "specter_of_betrayal",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [6]
+					},
+					["Specialization"] = 0,
+				}, -- [18]
+				{
+					["Enabled"] = false,
+					["Name"] = "SimC Frost: bos generic",
+					["Specialization"] = 251,
+					["Release"] = 20170829.00082,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.icy_talons.enabled & buff.icy_talons.remains < gcd & cooldown.breath_of_sindragosa.remains > runes.time_to_4",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.gathering_storm.enabled",
+							["Ability"] = "remorseless_winter",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Remorseless Winter",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.rime.up & runes.time_to_4 < ( gcd * 2 )",
+							["Ability"] = "howling_blast",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Howling Blast",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "runes.time_to_6 < gcd & ! talent.gathering_storm.enabled",
+							["Ability"] = "obliterate",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Obliterate",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "runes.time_to_4 < gcd & ( cooldown.breath_of_sindragosa.remains > 0 || runic_power.current < 70 )",
+							["Ability"] = "obliterate",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Obliterate (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "runic_power.current >= 95 & set_bonus.tier19_4pc > 0 & cooldown.breath_of_sindragosa.remains > 0",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.rime.up & equipped.perseverance_of_the_ebon_martyr",
+							["Ability"] = "remorseless_winter",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Remorseless Winter (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.rime.up & ( buff.remorseless_winter.up || cooldown.remorseless_winter.remains > gcd || ( ! equipped.perseverance_of_the_ebon_martyr & ! talent.gathering_storm.enabled ) )",
+							["Ability"] = "howling_blast",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Howling Blast (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Script"] = "! buff.rime.up & ! ( talent.gathering_storm.enabled & ! ( cooldown.remorseless_winter.remains > ( gcd * 2 ) || rune > 4 ) ) & rune > 3",
+							["Ability"] = "obliterate",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Obliterate (2)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns & ( ( equipped.consorts_cold_core || buff.pillar_of_frost.up ) & buff.unholy_strength.up & debuff.razorice.stack = 5 & ! buff.obliteration.up )",
+							["Ability"] = "sindragosas_fury",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Sindragosa's Fury",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [10]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.killing_machine.up & ( ! equipped.koltiras_newfound_will || active_enemies >= 2 )",
+							["Ability"] = "frostscythe",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frostscythe",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [11]
+						{
+							["Enabled"] = true,
+							["Script"] = "runic_power.current >= 70",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike (2)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [12]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies >= 2",
+							["Ability"] = "remorseless_winter",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Remorseless Winter (2)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [13]
+						{
+							["Enabled"] = true,
+							["Script"] = "( cooldown.remorseless_winter.remains < ( gcd * 2 ) || buff.gathering_storm.stack = 10 ) & cooldown.breath_of_sindragosa.remains > runes.time_to_4 & talent.gathering_storm.enabled",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike (3)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [14]
+						{
+							["Enabled"] = true,
+							["Script"] = "! buff.rime.up & ( ! talent.gathering_storm.enabled || cooldown.remorseless_winter.remains > ( gcd ) )",
+							["Ability"] = "obliterate",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Obliterate (3)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [15]
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.breath_of_sindragosa.remains > 15 & runic_power.current <= 70 & runes.time_to_3 > gcd",
+							["Ability"] = "horn_of_winter",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Horn of Winter",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [16]
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.breath_of_sindragosa.remains > runes.time_to_4",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike (4)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [17]
+					},
+					["Default"] = true,
+				}, -- [19]
+				{
+					["Enabled"] = false,
+					["Name"] = "SimC Frost: machinegun",
+					["Specialization"] = 251,
+					["Release"] = 20170829.00082,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns & ( ( ! talent.frozen_pulse.enabled || ( rune < 2 & runic_power.current < 28 ) ) & ! talent.gathering_storm.enabled )",
+							["Ability"] = "obliteration",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Obliteration",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.icy_talons.remains < 1.5 & talent.icy_talons.enabled",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.shattering_strikes.enabled & debuff.razorice.stack = 5",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "( ( buff.rime.up & equipped.perseverance_of_the_ebon_martyr ) || talent.gathering_storm.enabled ) & ! ( buff.obliteration.up & active_enemies < 2 )",
+							["Ability"] = "remorseless_winter",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Remorseless Winter",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.rime.up & ! ( buff.obliteration.up & active_enemies < 2 ) & ! ( equipped.perseverance_of_the_ebon_martyr & talent.gathering_storm.enabled )",
+							["Ability"] = "howling_blast",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Howling Blast",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.rime.up & ! ( buff.obliteration.up & active_enemies < 2 ) & equipped.perseverance_of_the_ebon_martyr & talent.gathering_storm.enabled & ( debuff.perseverance_of_the_ebon_martyr.up || cooldown.remorseless_winter.remains > 3 )",
+							["Ability"] = "howling_blast",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Howling Blast (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "! buff.obliteration.up & ( equipped.koltiras_newfound_will & talent.frozen_pulse.enabled & ( set_bonus.tier19_2pc = 1 || set_bonus.tier19_4pc = 1 ) ) || runes.time_to_5 < gcd",
+							["Ability"] = "obliterate",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Obliterate",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns & ( ( ! talent.frozen_pulse.enabled || ( rune < 2 & runic_power.current < 28 ) ) & talent.gathering_storm.enabled & buff.remorseless_winter.up )",
+							["Ability"] = "obliteration",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Obliteration (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns & ( ( equipped.consorts_cold_core || buff.pillar_of_frost.up ) & buff.unholy_strength.up & debuff.razorice.stack = 5 & ! buff.obliteration.up )",
+							["Ability"] = "sindragosas_fury",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Sindragosa's Fury",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["Script"] = "( ! buff.obliteration.up & runic_power.deficit <= 10 ) || ( buff.obliteration.up & ! buff.killing_machine.up )",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike (2)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [10]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies >= 2 & ! ( talent.frostscythe.enabled & buff.killing_machine.up & active_enemies >= 2 )",
+							["Ability"] = "remorseless_winter",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Remorseless Winter (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [11]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.killing_machine.up & ( ! equipped.koltiras_newfound_will || active_enemies >= 2 )",
+							["Ability"] = "frostscythe",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frostscythe",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [12]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies >= 2",
+							["Ability"] = "glacial_advance",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Glacial Advance",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [13]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies >= 3",
+							["Ability"] = "frostscythe",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frostscythe (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [14]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.killing_machine.up",
+							["Ability"] = "obliterate",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Obliterate (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [15]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.gathering_storm.enabled & talent.murderous_efficiency.enabled & ( set_bonus.tier19_2pc = 1 || set_bonus.tier19_4pc = 1 )",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike (3)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [16]
+						{
+							["Enabled"] = true,
+							["Script"] = "( talent.horn_of_winter.enabled || talent.hungering_rune_weapon.enabled ) & ( set_bonus.tier19_2pc = 1 || set_bonus.tier19_4pc = 1 )",
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike (4)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [17]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns & ( ! buff.hungering_rune_weapon.up & runes.time_to_3 > gcd * 2 & runic_power.current < 25 )",
+							["Ability"] = "hungering_rune_weapon",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Hungering Rune Weapon",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [18]
+						{
+							["Enabled"] = true,
+							["Ability"] = "obliterate",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Obliterate (2)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [19]
+						{
+							["Enabled"] = true,
+							["Ability"] = "glacial_advance",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Glacial Advance (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [20]
+						{
+							["Enabled"] = true,
+							["Script"] = "! buff.hungering_rune_weapon.up",
+							["Ability"] = "horn_of_winter",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Horn of Winter",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [21]
+						{
+							["Enabled"] = true,
+							["Ability"] = "frost_strike",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Frost Strike (5)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [22]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns",
+							["Ability"] = "empower_rune_weapon",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Empower Rune Weapon",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [23]
+					},
+					["Default"] = true,
+				}, -- [20]
+				{
+					["Enabled"] = false,
+					["Name"] = "SimC Frost: CDs",
+					["Specialization"] = 251,
+					["Release"] = 20170829.00082,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "runic_power.deficit > 20 & ! talent.breath_of_sindragosa.enabled",
+							["Ability"] = "arcane_torrent",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Arcane Torrent",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.breath_of_sindragosa.enabled & dot.breath_of_sindragosa.ticking & runic_power.current < 30 & rune < 2",
+							["Ability"] = "arcane_torrent",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Arcane Torrent (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns & ( buff.pillar_of_frost.up )",
+							["Ability"] = "blood_fury",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Blood Fury",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns & ( buff.pillar_of_frost.up )",
+							["Ability"] = "berserking",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Berserking",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Ability"] = "use_items",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Use Items",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "runes.time_to_5 < 3 & ( ! dot.breath_of_sindragosa.ticking || runic_power.current > 60 )",
+							["Ability"] = "draught_of_souls",
+							["CheckMovement"] = false,
+							["ModVarName"] = "",
+							["Name"] = "|cffa335ee|Hitem:140808::::::::110:251::::::|h[Draught of Souls]|h|r",
+							["Args"] = "name=draught_of_souls",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
+							["ModName"] = "",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.potions & ( buff.pillar_of_frost.up & ( ! talent.breath_of_sindragosa.enabled || ! cooldown.breath_of_sindragosa.remains > 0 ) )",
+							["Ability"] = "potion",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Potion",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Script"] = "! talent.breath_of_sindragosa.enabled",
+							["Ability"] = "pillar_of_frost",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Pillar of Frost",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.breath_of_sindragosa.enabled & cooldown.breath_of_sindragosa.remains > 40",
+							["Ability"] = "pillar_of_frost",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Pillar of Frost (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.breath_of_sindragosa.enabled & ! cooldown.breath_of_sindragosa.remains > 0 & runic_power.current >= 50 & equipped.convergence_of_fates & cooldown.hungering_rune_weapon.remains < 10",
+							["Ability"] = "pillar_of_frost",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Pillar of Frost (2)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [10]
+						{
+							["Enabled"] = true,
+							["Script"] = "talent.breath_of_sindragosa.enabled & ! cooldown.breath_of_sindragosa.remains > 0 & runic_power.current >= 50 & ! equipped.convergence_of_fates & ( cooldown.hungering_rune_weapon.remains < 15 || target.time_to_die > 135 )",
+							["Ability"] = "pillar_of_frost",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Pillar of Frost (3)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [11]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns & ( buff.pillar_of_frost.up )",
+							["Ability"] = "breath_of_sindragosa",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Breath of Sindragosa",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [12]
+					},
+					["Default"] = true,
+				}, -- [21]
+				{
+					["Enabled"] = false,
+					["Name"] = "SimC Frost: cold heart",
+					["Specialization"] = 251,
+					["Release"] = 20170829.00082,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.cold_heart.stack = 20 & buff.unholy_strength.up & cooldown.pillar_of_frost.remains > 6",
+							["Ability"] = "chains_of_ice",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Chains of Ice",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.pillar_of_frost.up & buff.pillar_of_frost.remains < gcd & ( buff.cold_heart.stack >= 11 || ( buff.cold_heart.stack >= 10 & set_bonus.tier20_4pc > 0 ) )",
+							["Ability"] = "chains_of_ice",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Chains of Ice (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.unholy_strength.up & buff.unholy_strength.remains < gcd & buff.cold_heart.stack > 16 & cooldown.pillar_of_frost.remains > 6",
+							["Ability"] = "chains_of_ice",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Chains of Ice (2)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [3]
+					},
+					["Default"] = true,
+				}, -- [22]
+				{
+					["Enabled"] = false,
+					["Specialization"] = 251,
+					["Default"] = true,
+					["Release"] = 20170829.00082,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Call Action List (Breath)",
+							["Script"] = "buff.breath_of_sindragosa.up",
+							["Indicator"] = "none",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Ability"] = "call_action_list",
+							["ModName"] = "Wowhead Frost: breath",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Indicator"] = "none",
+							["Ability"] = "use_items",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Use Items",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "! buff.pillar_of_frost.up & ( ( equipped.convergence_of_fates & equipped.seal_of_necrofantasia ) || cooldown.breath_of_sindragosa.remains > 60 )",
+							["Indicator"] = "none",
+							["Ability"] = "pillar_of_frost",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Pillar of Frost",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "runic_power.current > 70 & rune >= 2 & ( ! talent.hungering_rune_weapon.enabled || cooldown.hungering_rune_weapon.remains < 10 )",
+							["Indicator"] = "none",
+							["Ability"] = "breath_of_sindragosa",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Breath of Sindragosa",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.unholy_strength.up",
+							["Indicator"] = "none",
+							["Ability"] = "sindragosas_fury",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Sindragosa's Fury",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "debuff.frost_fever.refreshable\n",
+							["Indicator"] = "none",
+							["Ability"] = "howling_blast",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Howling Blast",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.breath_of_sindragosa.remains > 20 & rune >= 3",
+							["Indicator"] = "none",
+							["Ability"] = "remorseless_winter",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Remorseless Winter",
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.rime.up",
+							["Indicator"] = "none",
+							["Ability"] = "howling_blast",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Howling Blast (1)",
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.remorseless_winter.up",
+							["Indicator"] = "none",
+							["Ability"] = "obliterate",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Obliterate",
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["Script"] = "runic_power.current > 70 & cooldown.breath_of_sindragosa.remains > 20",
+							["Indicator"] = "none",
+							["Ability"] = "frost_strike",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Frost Strike",
+						}, -- [10]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Indicator"] = "none",
+							["Ability"] = "obliterate",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Obliterate (1)",
+						}, -- [11]
+						{
+							["Enabled"] = true,
+							["Script"] = "runic_power.current >= 80 & cooldown.breath_of_sindragosa.remains <= 20",
+							["Indicator"] = "none",
+							["Ability"] = "frost_strike",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Frost Strike (1)",
+						}, -- [12]
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.breath_of_sindragosa.remains <= 20",
+							["Indicator"] = "none",
+							["Ability"] = "remorseless_winter",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Remorseless Winter (1)",
+						}, -- [13]
+					},
+					["Name"] = "Wowhead Frost: default",
+				}, -- [23]
+				{
+					["Enabled"] = false,
+					["Specialization"] = 251,
+					["Default"] = true,
+					["Release"] = 20170829.00082,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "! buff.pillar_of_frost.up",
+							["Indicator"] = "none",
+							["Ability"] = "pillar_of_frost",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Pillar of Frost",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "runic_power.current > 40 & buff.unholy_strength.up",
+							["Indicator"] = "none",
+							["Ability"] = "sindragosas_fury",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Sindragosa's Fury",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "( runic_power.current > 40 & rune >= 3 ) || buff.remorseless_winter.stack = 10",
+							["Indicator"] = "none",
+							["Ability"] = "remorseless_winter",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Remorseless Winter",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.rime.up & runic_power.current > 40",
+							["Indicator"] = "none",
+							["Ability"] = "howling_blast",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Howling Blast",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "( runic_power.current < 80 || buff.hungering_rune_weapon.up ) & buff.rime.down",
+							["Indicator"] = "none",
+							["Ability"] = "obliterate",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Obliterate",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "runic_power.current < 40",
+							["Indicator"] = "none",
+							["Ability"] = "hungering_rune_weapon",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Hungering Rune Weapon",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "runic_power.current < 30",
+							["Indicator"] = "none",
+							["Ability"] = "empower_rune_weapon",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Name"] = "Empower Rune Weapon",
+						}, -- [7]
+					},
+					["Name"] = "Wowhead Frost: breath",
+				}, -- [24]
 			},
 			["Class Option: forecast_breath"] = true,
 			["Toggle State: artifact_ability"] = true,
 			["iconStore"] = {
 				["minimapPos"] = 148.098051534938,
 			},
+			["Class Option: bos_frost_strike_rp"] = 25,
 			["runOnce"] = {
-				["setDisplayTypes_04022017"] = true,
 				["useNewAPLsForDemonHunters_06132017_1"] = true,
-				["turnOffDebug_04162017"] = true,
 				["removeActionListEnabled_04102017"] = true,
+				["attachDefaultAPLs_04022017"] = true,
+				["spruceUpActionListNames_04162017"] = true,
 				["dontDisableGlobalCooldownYouFools_05232017"] = true,
 				["removeExtraQuotes_04142017_3"] = true,
-				["spruceUpActionListNames_04162017"] = true,
-				["attachDefaultAPLs_04022017"] = true,
+				["setDisplayTypes_04022017"] = true,
+				["turnOffDebug_04162017"] = true,
+				["forceRetToRefreshAPLsFor730_09012017"] = true,
 			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
 			["actionLists"] = {
 				{
-					["Name"] = "Brewmaster: Default",
+					["Enabled"] = true,
 					["Specialization"] = 268,
-					["Release"] = 20170402.13081,
+					["Default"] = true,
+					["Release"] = 20170723.103044,
 					["Script"] = "",
 					["Actions"] = {
 						{
@@ -6458,12 +7490,12 @@ HekiliDB = {
 						}, -- [1]
 						{
 							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns&(||buff.bloodlust.up||target.time_to_die<=60)",
+							["Script"] = "toggle.cooldowns & ( buff.bloodlust.up || target.time_to_die<=60 )",
 							["Args"] = "name=old_war",
-							["Release"] = 201617.03,
-							["Indicator"] = "none",
-							["Name"] = "Potion",
 							["Ability"] = "potion",
+							["Indicator"] = "none",
+							["Release"] = 201617.03,
+							["Name"] = "Potion",
 						}, -- [2]
 						{
 							["Enabled"] = false,
@@ -6475,62 +7507,58 @@ HekiliDB = {
 						}, -- [3]
 						{
 							["Enabled"] = false,
-							["Ability"] = "call_action_list",
 							["Script"] = "use_defensives",
 							["Args"] = "name=\"Brewmaster: Defensives\"",
-							["Release"] = 201617.03,
+							["Ability"] = "call_action_list",
 							["Indicator"] = "none",
+							["Release"] = 201617.03,
 							["Name"] = "Defensives",
-							["ModName"] = "Brewmaster: Defensives",
 						}, -- [4]
 						{
 							["Enabled"] = true,
-							["Ability"] = "call_action_list",
 							["Script"] = "!talent.blackout_combo.enabled&active_enemies>1",
 							["Args"] = "name=\"Brewmaster: Standard AOE\"",
-							["Release"] = 201617.03,
+							["Ability"] = "call_action_list",
 							["Indicator"] = "none",
+							["Release"] = 201617.03,
 							["Name"] = "Standard AOE",
-							["ModName"] = "Brewmaster: Standard AOE",
 						}, -- [5]
 						{
 							["Enabled"] = true,
-							["Ability"] = "call_action_list",
 							["Script"] = "talent.blackout_combo.enabled&active_enemies>1",
 							["Args"] = "name=\"Brewmaster: Combo AOE\"",
-							["Release"] = 201617.03,
+							["Ability"] = "call_action_list",
 							["Indicator"] = "none",
+							["Release"] = 201617.03,
 							["Name"] = "Combo AOE",
-							["ModName"] = "Brewmaster: Combo AOE",
 						}, -- [6]
 						{
 							["Enabled"] = true,
-							["Ability"] = "call_action_list",
 							["Script"] = "!talent.blackout_combo.enabled&active_enemies=1",
 							["Args"] = "name=\"Brewmaster: Standard ST\"",
-							["Release"] = 201617.03,
+							["Ability"] = "call_action_list",
 							["Indicator"] = "none",
+							["Release"] = 201617.03,
 							["Name"] = "Standard ST",
-							["ModName"] = "Brewmaster: Standard ST",
 						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.blackout_combo.enabled&active_enemies=1",
-							["Name"] = "Combo ST",
 							["Args"] = "name=\"Brewmaster: Combo ST\"",
 							["Release"] = 201617.03,
 							["Indicator"] = "none",
+							["Name"] = "Combo ST",
 							["Ability"] = "call_action_list",
-							["ModName"] = "Brewmaster: Combo ST",
 						}, -- [8]
 					},
-					["Default"] = true,
+					["Name"] = "Brewmaster: Default",
 				}, -- [1]
 				{
-					["Script"] = "",
+					["Enabled"] = true,
 					["Name"] = "Brewmaster: Defensives",
+					["Specialization"] = 268,
 					["Default"] = true,
-					["Release"] = 20170402.13081,
+					["Release"] = 20170723.103044,
 					["ReadyTime"] = "( cooldown.purifying_brew.charges_max - cooldown.purifying_brew.charges_fractional ) * cooldown.purifying_brew.recharge",
 					["Actions"] = {
 						{
@@ -6543,13 +7571,13 @@ HekiliDB = {
 						}, -- [1]
 						{
 							["Enabled"] = true,
-							["whenReady"] = "auto",
-							["Script"] = "",
-							["Ability"] = "purifying_brew",
 							["Caption"] = "",
-							["Indicator"] = "none",
-							["Release"] = 201617.03,
 							["Name"] = "Purifying Brew",
+							["whenReady"] = "auto",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "purifying_brew",
+							["Script"] = "",
 						}, -- [2]
 						{
 							["Enabled"] = true,
@@ -6565,20 +7593,21 @@ HekiliDB = {
 						{
 							["Enabled"] = true,
 							["Name"] = "Expel Harm",
+							["Ability"] = "expel_harm",
 							["whenReady"] = "auto",
-							["Release"] = 201617.03,
 							["Indicator"] = "none",
 							["Script"] = "healing_sphere.count>=1&(health.deficit>=stat.attack_power*7.5*healing_sphere.count)",
-							["Ability"] = "expel_harm",
+							["Release"] = 201617.03,
 						}, -- [4]
 					},
-					["Specialization"] = 268,
+					["Script"] = "",
 				}, -- [2]
 				{
-					["Specialization"] = 268,
+					["Enabled"] = true,
 					["Name"] = "Brewmaster: Combo ST",
+					["Script"] = "",
 					["Default"] = true,
-					["Release"] = 20170402.13081,
+					["Release"] = 20170723.103044,
 					["ReadyTime"] = "",
 					["Actions"] = {
 						{
@@ -6632,12 +7661,13 @@ HekiliDB = {
 							["Script"] = "energy.current>0",
 						}, -- [6]
 					},
-					["Script"] = "",
+					["Specialization"] = 268,
 				}, -- [3]
 				{
-					["Default"] = true,
+					["Enabled"] = true,
 					["Script"] = "",
-					["Release"] = 20170402.13081,
+					["Name"] = "Brewmaster: Combo AOE",
+					["Release"] = 20170723.103044,
 					["Specialization"] = 268,
 					["Actions"] = {
 						{
@@ -6697,12 +7727,13 @@ HekiliDB = {
 							["Ability"] = "blackout_strike",
 						}, -- [7]
 					},
-					["Name"] = "Brewmaster: Combo AOE",
+					["Default"] = true,
 				}, -- [4]
 				{
-					["Default"] = true,
+					["Enabled"] = true,
 					["Specialization"] = 268,
-					["Release"] = 20170402.13081,
+					["Name"] = "Brewmaster: Standard ST",
+					["Release"] = 20170723.103044,
 					["Script"] = "",
 					["Actions"] = {
 						{
@@ -6778,12 +7809,13 @@ HekiliDB = {
 							["Name"] = "Tiger Palm (1)",
 						}, -- [9]
 					},
-					["Name"] = "Brewmaster: Standard ST",
+					["Default"] = true,
 				}, -- [5]
 				{
-					["Name"] = "Brewmaster: Standard AOE",
+					["Enabled"] = true,
 					["Default"] = true,
-					["Release"] = 20170402.13081,
+					["Script"] = "",
+					["Release"] = 20170723.103044,
 					["Specialization"] = 268,
 					["Actions"] = {
 						{
@@ -6851,169 +7883,203 @@ HekiliDB = {
 							["Ability"] = "tiger_palm",
 						}, -- [8]
 					},
-					["Script"] = "",
+					["Name"] = "Brewmaster: Standard AOE",
 				}, -- [6]
 				{
-					["Enabled"] = true,
-					["Default"] = true,
+					["Specialization"] = 269,
 					["Name"] = "SimC Windwalker: default",
-					["Release"] = 20170523.204343,
+					["Release"] = 20170829.184158,
 					["Script"] = "",
 					["Actions"] = {
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.interrupts & ( target.debuff.casting.up )",
 							["Ability"] = "spear_hand_strike",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Spear Hand Strike",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [1]
 						{
 							["Enabled"] = true,
-							["Script"] = "health.current<(health.max/2)",
+							["Script"] = "health.pct < 0.5",
 							["Ability"] = "touch_of_karma",
-							["Indicator"] = "none",
+							["CheckMovement"] = false,
 							["ModVarName"] = "",
 							["Name"] = "Touch of Karma",
 							["Args"] = "interval=90,pct_health=0.5",
 							["Release"] = 201710,
-							["ShowModifiers"] = false,
-							["CheckMovement"] = false,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.potions & ( buff.serenity.up || buff.storm_earth_and_fire.up || ( ! talent.serenity.enabled & trinket.proc.agility.up ) || buff.bloodlust.up || target.time_to_die <= 60 )",
 							["Ability"] = "potion",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Potion",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [3]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns & ( target.time_to_die <= 9 )",
 							["Ability"] = "touch_of_death",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Touch of Death",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [4]
 						{
 							["Enabled"] = true,
-							["Script"] = "( talent.serenity.enabled & cooldown.serenity.remains <= 0 ) || buff.serenity.up",
+							["Script"] = "( ( talent.serenity.enabled & cooldown.serenity.remains <= 0 ) || buff.serenity.up ) & buff.bloodlust.up & active_enemies < 2 & set_bonus.tier20_4pc > 0 & set_bonus.tier19_2pc > 0 & equipped.drinking_horn_cover & ( equipped.katsuos_eclipse || race.blood_elf || talent.power_strikes.enabled )",
 							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
+							["CheckMovement"] = false,
 							["ModVarName"] = "",
 							["Name"] = "Call Action List",
+							["Args"] = "name=\"SimC Windwalker: serenity opener\"",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
+							["ModName"] = "SimC Windwalker: serenity opener",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "( talent.serenity.enabled & cooldown.serenity.remains <= 0 ) || ( buff.serenity.up & time > 20 )",
+							["Ability"] = "call_action_list",
+							["CheckMovement"] = false,
+							["ModVarName"] = "",
+							["Name"] = "Call Action List (1)",
 							["Args"] = "name=\"SimC Windwalker: serenity\"",
 							["Release"] = 201710,
-							["CheckMovement"] = false,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
 							["ModName"] = "SimC Windwalker: serenity",
-						}, -- [5]
+						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "! talent.serenity.enabled & ( buff.storm_earth_and_fire.up || cooldown.storm_earth_and_fire.charges = 2 )",
 							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Call Action List (1)",
-							["Args"] = "name=\"SimC Windwalker: sef\"",
-							["Release"] = 201710,
 							["CheckMovement"] = false,
-							["ModName"] = "SimC Windwalker: sef",
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Script"] = "! talent.serenity.enabled & equipped.drinking_horn_cover & ( cooldown.strike_of_the_windlord.remains <= 18 & cooldown.fists_of_fury.remains <= 12 & chi.current >= 3 & cooldown.rising_sun_kick.remains <= 1 || target.time_to_die <= 25 || cooldown.touch_of_death.remains > 112 ) & cooldown.storm_earth_and_fire.charges = 1",
-							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Call Action List (2)",
 							["Args"] = "name=\"SimC Windwalker: sef\"",
 							["Release"] = 201710,
-							["CheckMovement"] = false,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
 							["ModName"] = "SimC Windwalker: sef",
 						}, -- [7]
 						{
 							["Enabled"] = true,
-							["Script"] = "! talent.serenity.enabled & ! equipped.drinking_horn_cover & ( cooldown.strike_of_the_windlord.remains <= 14 & cooldown.fists_of_fury.remains <= 6 & chi.current >= 3 & cooldown.rising_sun_kick.remains <= 1 || target.time_to_die <= 15 || cooldown.touch_of_death.remains > 112 ) & cooldown.storm_earth_and_fire.charges = 1",
+							["Script"] = "! talent.serenity.enabled & equipped.drinking_horn_cover & ( cooldown.strike_of_the_windlord.remains <= 18 & cooldown.fists_of_fury.remains <= 12 & chi.current >= 3 & cooldown.rising_sun_kick.remains <= 1 || target.time_to_die <= 25 || cooldown.touch_of_death.remains > 112 ) & cooldown.storm_earth_and_fire.charges = 1",
 							["Ability"] = "call_action_list",
-							["Indicator"] = "none",
+							["CheckMovement"] = false,
 							["ModVarName"] = "",
 							["Name"] = "Call Action List (3)",
 							["Args"] = "name=\"SimC Windwalker: sef\"",
 							["Release"] = 201710,
-							["CheckMovement"] = false,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
 							["ModName"] = "SimC Windwalker: sef",
 						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Script"] = "! talent.serenity.enabled & ! equipped.drinking_horn_cover & ( cooldown.strike_of_the_windlord.remains <= 14 & cooldown.fists_of_fury.remains <= 6 & chi.current >= 3 & cooldown.rising_sun_kick.remains <= 1 || target.time_to_die <= 15 || cooldown.touch_of_death.remains > 112 ) & cooldown.storm_earth_and_fire.charges = 1",
+							["Ability"] = "call_action_list",
+							["CheckMovement"] = false,
+							["ModVarName"] = "",
+							["Name"] = "Call Action List (4)",
+							["Args"] = "name=\"SimC Windwalker: sef\"",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
+							["ModName"] = "SimC Windwalker: sef",
+						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Ability"] = "call_action_list",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
-							["Name"] = "Call Action List (4)",
+							["Name"] = "Call Action List (5)",
 							["Args"] = "name=\"SimC Windwalker: ST\"",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "SimC Windwalker: ST",
-						}, -- [9]
+						}, -- [10]
 					},
-					["Specialization"] = 269,
+					["Default"] = true,
 				}, -- [7]
 				{
-					["Enabled"] = true,
-					["Default"] = true,
+					["Specialization"] = 269,
 					["Name"] = "SimC Windwalker: precombat",
-					["Release"] = 20170523.204343,
+					["Release"] = 20170829.184158,
 					["Script"] = "",
 					["Actions"] = {
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.potions",
 							["Ability"] = "potion",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Potion",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [1]
 						{
 							["Enabled"] = true,
+							["Ability"] = "chi_burst",
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Chi Burst",
 							["Release"] = 201710,
-							["Ability"] = "chi_burst",
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [2]
 						{
 							["Enabled"] = true,
+							["Ability"] = "chi_wave",
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Chi Wave",
 							["Release"] = 201710,
-							["Ability"] = "chi_wave",
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [3]
 					},
-					["Specialization"] = 269,
+					["Default"] = true,
 				}, -- [8]
 				{
-					["Enabled"] = true,
-					["Default"] = true,
+					["Specialization"] = 269,
 					["Name"] = "SimC Windwalker: sef",
-					["Release"] = 20170523.204343,
+					["Release"] = 20170829.184158,
 					["Script"] = "",
 					["Actions"] = {
 						{
@@ -7022,22 +8088,26 @@ HekiliDB = {
 							["Ability"] = "tiger_palm",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Tiger Palm",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [1]
 						{
 							["Enabled"] = true,
 							["Script"] = "chi.max - chi.current >= 1 & energy.time_to_max >= 0.5",
 							["Ability"] = "arcane_torrent",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Arcane Torrent",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [2]
 						{
@@ -7048,6 +8118,8 @@ HekiliDB = {
 							["Name"] = "Call Action List",
 							["Args"] = "name=\"SimC Windwalker: CD\"",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "SimC Windwalker: CD",
 						}, -- [3]
@@ -7055,11 +8127,13 @@ HekiliDB = {
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns & ( ! buff.storm_earth_and_fire.up )",
 							["Ability"] = "storm_earth_and_fire",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Storm, Earth, and Fire",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [4]
 						{
@@ -7070,17 +8144,18 @@ HekiliDB = {
 							["Name"] = "Call Action List (1)",
 							["Args"] = "name=\"SimC Windwalker: ST\"",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "SimC Windwalker: ST",
 						}, -- [5]
 					},
-					["Specialization"] = 269,
+					["Default"] = true,
 				}, -- [9]
 				{
-					["Enabled"] = true,
-					["Default"] = true,
+					["Specialization"] = 269,
 					["Name"] = "SimC Windwalker: serenity",
-					["Release"] = 20170523.204343,
+					["Release"] = 20170829.184158,
 					["Script"] = "",
 					["Actions"] = {
 						{
@@ -7089,11 +8164,13 @@ HekiliDB = {
 							["Ability"] = "tiger_palm",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Tiger Palm",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [1]
 						{
@@ -7104,6 +8181,8 @@ HekiliDB = {
 							["Name"] = "Call Action List",
 							["Args"] = "name=\"SimC Windwalker: CD\"",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "SimC Windwalker: CD",
 						}, -- [2]
@@ -7111,11 +8190,13 @@ HekiliDB = {
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns",
 							["Ability"] = "serenity",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Serenity",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [3]
 						{
@@ -7124,101 +8205,159 @@ HekiliDB = {
 							["Ability"] = "rising_sun_kick",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Rising Sun Kick",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [4]
 						{
 							["Enabled"] = true,
+							["Ability"] = "strike_of_the_windlord",
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Strike of the Windlord",
 							["Release"] = 201710,
-							["Ability"] = "strike_of_the_windlord",
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "( ! prev_gcd.1.blackout_kick ) & ( prev_gcd.1.strike_of_the_windlord || prev_gcd.1.fists_of_fury ) & active_enemies < 2",
+							["Ability"] = "blackout_kick",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["CheckMovement"] = false,
+							["Name"] = "Blackout Kick",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CycleTargets"] = true,
+							["ModName"] = "",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "( ( equipped.drinking_horn_cover & buff.pressure_point.remains <= 2 & set_bonus.tier20_4pc > 0 ) & ( cooldown.rising_sun_kick.remains > 1 || active_enemies > 1 ) )",
+							["Ability"] = "fists_of_fury",
+							["CheckMovement"] = false,
+							["ModVarName"] = "",
+							["Name"] = "Fists of Fury",
+							["Args"] = "interrupt=1",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
+							["ModName"] = "",
+						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "( ( ! equipped.drinking_horn_cover || buff.bloodlust.up || buff.serenity.remains < 1 ) & ( cooldown.rising_sun_kick.remains > 1 || active_enemies > 1 ) )",
 							["Ability"] = "fists_of_fury",
 							["CheckMovement"] = false,
 							["ModVarName"] = "",
-							["Name"] = "Fists of Fury",
+							["Name"] = "Fists of Fury (1)",
+							["Args"] = "interrupt=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["Indicator"] = "none",
 							["ModName"] = "",
-						}, -- [6]
+						}, -- [8]
 						{
 							["Enabled"] = true,
 							["Script"] = "active_enemies >= 3 & ! prev_gcd.1.spinning_crane_kick",
 							["Ability"] = "spinning_crane_kick",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Spinning Crane Kick",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [7]
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["Script"] = "! prev_gcd.1.rushing_jade_wind & buff.rushing_jade_wind.down & buff.serenity.remains >= 4",
+							["Ability"] = "rushing_jade_wind",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Rushing Jade Wind",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [10]
 						{
 							["Enabled"] = true,
 							["Script"] = "active_enemies >= 3",
 							["Ability"] = "rising_sun_kick",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Rising Sun Kick (1)",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
+							["ModName"] = "",
+						}, -- [11]
+						{
+							["Enabled"] = true,
+							["Script"] = "! prev_gcd.1.rushing_jade_wind & buff.rushing_jade_wind.down & active_enemies > 1",
+							["Ability"] = "rushing_jade_wind",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Rushing Jade Wind (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [8]
+						}, -- [12]
 						{
 							["Enabled"] = true,
 							["Script"] = "! prev_gcd.1.spinning_crane_kick",
 							["Ability"] = "spinning_crane_kick",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Spinning Crane Kick (1)",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [9]
+						}, -- [13]
 						{
 							["Enabled"] = true,
 							["Script"] = "! prev_gcd.1.blackout_kick",
 							["Ability"] = "blackout_kick",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
-							["Name"] = "Blackout Kick",
+							["CheckMovement"] = false,
+							["Name"] = "Blackout Kick (1)",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [10]
-						{
-							["Enabled"] = true,
-							["Script"] = "! prev_gcd.1.rushing_jade_wind",
-							["Ability"] = "rushing_jade_wind",
-							["CheckMovement"] = false,
-							["ModVarName"] = "",
-							["Name"] = "Rushing Jade Wind",
-							["Release"] = 201710,
-							["Indicator"] = "none",
-							["ModName"] = "",
-						}, -- [11]
+						}, -- [14]
 					},
-					["Specialization"] = 269,
+					["Default"] = true,
 				}, -- [10]
 				{
-					["Enabled"] = false,
-					["Script"] = "",
+					["Name"] = "SimC Windwalker: ST",
 					["Default"] = true,
-					["Release"] = 20170523.204343,
+					["Release"] = 20170829.184158,
 					["Specialization"] = 269,
 					["Actions"] = {
 						{
@@ -7229,6 +8368,8 @@ HekiliDB = {
 							["Name"] = "Call Action List",
 							["Args"] = "name=\"SimC Windwalker: CD\"",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "SimC Windwalker: CD",
 						}, -- [1]
@@ -7236,22 +8377,26 @@ HekiliDB = {
 							["Enabled"] = true,
 							["Script"] = "chi.current <= 1 & ( cooldown.rising_sun_kick.remains = 0 || ( artifact.strike_of_the_windlord.enabled & cooldown.strike_of_the_windlord.remains = 0 ) || energy.current < 50 )",
 							["Ability"] = "energizing_elixir",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Energizing Elixir",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [2]
 						{
 							["Enabled"] = true,
 							["Script"] = "chi.max - chi.current >= 1 & energy.time_to_max >= 0.5",
 							["Ability"] = "arcane_torrent",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Arcane Torrent",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [3]
 						{
@@ -7260,248 +8405,358 @@ HekiliDB = {
 							["Ability"] = "tiger_palm",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Tiger Palm",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [4]
 						{
 							["Enabled"] = true,
 							["Script"] = "! talent.serenity.enabled || cooldown.serenity.remains >= 10",
 							["Ability"] = "strike_of_the_windlord",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Strike of the Windlord",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [5]
 						{
 							["Enabled"] = true,
-							["Script"] = "( ( chi.current >= 3 & energy.current >= 40 ) || chi.current >= 5 ) & ( ! talent.serenity.enabled || cooldown.serenity.remains >= 5 )",
+							["Script"] = "( ( chi.current >= 3 & energy.current >= 40 ) || chi.current >= 5 ) & ( ! talent.serenity.enabled || cooldown.serenity.remains >= 6 )",
 							["Ability"] = "rising_sun_kick",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Rising Sun Kick",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [6]
 						{
 							["Enabled"] = true,
 							["Script"] = "talent.serenity.enabled & ! equipped.drinking_horn_cover & cooldown.serenity.remains >= 5 & energy.time_to_max > 2",
 							["Ability"] = "fists_of_fury",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Fists of Fury",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [7]
 						{
 							["Enabled"] = true,
-							["Script"] = "! ( talent.serenity.enabled & ! equipped.drinking_horn_cover ) & energy.time_to_max > 2",
+							["Script"] = "talent.serenity.enabled & equipped.drinking_horn_cover & ( cooldown.serenity.remains >= 15 || cooldown.serenity.remains <= 4 ) & energy.time_to_max > 2",
 							["Ability"] = "fists_of_fury",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Fists of Fury (1)",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [8]
+						{
+							["Enabled"] = true,
+							["Script"] = "! talent.serenity.enabled & energy.time_to_max > 2",
+							["Ability"] = "fists_of_fury",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Fists of Fury (2)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [9]
 						{
 							["Enabled"] = true,
 							["Script"] = "! talent.serenity.enabled || cooldown.serenity.remains >= 5",
 							["Ability"] = "rising_sun_kick",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Rising Sun Kick (1)",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["ModVarName"] = "",
-							["Name"] = "Whirling Dragon Punch",
-							["Release"] = 201710,
-							["Ability"] = "whirling_dragon_punch",
-							["Indicator"] = "none",
-							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [10]
 						{
 							["Enabled"] = true,
-							["Script"] = "equipped.the_emperors_capacitor & buff.the_emperors_capacitor.stack >= 19 & energy.time_to_max > 3",
-							["Ability"] = "crackling_jade_lightning",
-							["CheckMovement"] = false,
-							["ModVarName"] = "",
-							["Name"] = "Crackling Jade Lightning",
-							["Release"] = 201710,
+							["Ability"] = "whirling_dragon_punch",
 							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Whirling Dragon Punch",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [11]
 						{
 							["Enabled"] = true,
-							["Script"] = "equipped.the_emperors_capacitor & buff.the_emperors_capacitor.stack >= 14 & cooldown.serenity.remains < 13 & talent.serenity.enabled & energy.time_to_max > 3",
-							["Ability"] = "crackling_jade_lightning",
-							["CheckMovement"] = false,
-							["ModVarName"] = "",
-							["Name"] = "Crackling Jade Lightning (1)",
-							["Release"] = 201710,
+							["Script"] = "! prev_gcd.1.blackout_kick & chi.max - chi.current >= 1 & set_bonus.tier21_4pc > 0 & ( ! set_bonus.tier19_2pc > 0 || talent.serenity.enabled || buff.bok_proc.up )",
+							["Ability"] = "blackout_kick",
 							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["CheckMovement"] = false,
+							["Name"] = "Blackout Kick",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CycleTargets"] = true,
 							["ModName"] = "",
 						}, -- [12]
 						{
 							["Enabled"] = true,
-							["Script"] = "( active_enemies >= 3 || spinning_crane_kick.count >= 3 ) & ! prev_gcd.1.spinning_crane_kick",
+							["Script"] = "( active_enemies >= 3 || ( buff.bok_proc.up & chi.max - chi.current >= 0 ) ) & ! prev_gcd.1.spinning_crane_kick & set_bonus.tier21_4pc > 0",
 							["Ability"] = "spinning_crane_kick",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Spinning Crane Kick",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [13]
 						{
 							["Enabled"] = true,
+							["Script"] = "equipped.the_emperors_capacitor & buff.the_emperors_capacitor.stack >= 19 & energy.time_to_max > 3",
+							["Ability"] = "crackling_jade_lightning",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Crackling Jade Lightning",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [14]
+						{
+							["Enabled"] = true,
+							["Script"] = "equipped.the_emperors_capacitor & buff.the_emperors_capacitor.stack >= 14 & cooldown.serenity.remains < 13 & talent.serenity.enabled & energy.time_to_max > 3",
+							["Ability"] = "crackling_jade_lightning",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Crackling Jade Lightning (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [15]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies >= 3 & ! prev_gcd.1.spinning_crane_kick",
+							["Ability"] = "spinning_crane_kick",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Spinning Crane Kick (1)",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [16]
+						{
+							["Enabled"] = true,
 							["Script"] = "chi.max - chi.current > 1 & ! prev_gcd.1.rushing_jade_wind",
 							["Ability"] = "rushing_jade_wind",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Rushing Jade Wind",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [14]
+						}, -- [17]
 						{
 							["Enabled"] = true,
 							["Script"] = "( chi.current > 1 || buff.bok_proc.up || ( talent.energizing_elixir.enabled & cooldown.energizing_elixir.remains < cooldown.fists_of_fury.remains ) ) & ( ( cooldown.rising_sun_kick.remains > 1 & ( ! artifact.strike_of_the_windlord.enabled || cooldown.strike_of_the_windlord.remains > 1 ) || chi.current > 2 ) & ( cooldown.fists_of_fury.remains > 1 || chi.current > 3 ) || prev_gcd.1.tiger_palm ) & ! prev_gcd.1.blackout_kick",
 							["Ability"] = "blackout_kick",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
-							["Name"] = "Blackout Kick",
+							["CheckMovement"] = false,
+							["Name"] = "Blackout Kick (1)",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [15]
+						}, -- [18]
 						{
 							["Enabled"] = true,
 							["Script"] = "energy.time_to_max > 1",
 							["Ability"] = "chi_wave",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Chi Wave",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [16]
+						}, -- [19]
 						{
 							["Enabled"] = true,
 							["Script"] = "energy.time_to_max > 1",
 							["Ability"] = "chi_burst",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Chi Burst",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [17]
+						}, -- [20]
 						{
 							["Enabled"] = true,
 							["Script"] = "! prev_gcd.1.tiger_palm & ( chi.max - chi.current >= 2 || energy.time_to_max < 1 )",
 							["Ability"] = "tiger_palm",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Tiger Palm (1)",
 							["Args"] = "cycle_targets=1",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [18]
+						}, -- [21]
 						{
 							["Enabled"] = true,
+							["Ability"] = "chi_wave",
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Chi Wave (1)",
 							["Release"] = 201710,
-							["Ability"] = "chi_wave",
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [19]
+						}, -- [22]
 						{
 							["Enabled"] = true,
+							["Ability"] = "chi_burst",
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Chi Burst (1)",
 							["Release"] = 201710,
-							["Ability"] = "chi_burst",
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
 							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [20]
+						}, -- [23]
 					},
-					["Name"] = "SimC Windwalker: ST",
+					["Script"] = "",
 				}, -- [11]
 				{
-					["Enabled"] = true,
-					["Specialization"] = 269,
+					["Default"] = true,
 					["Name"] = "SimC Windwalker: CD",
-					["Release"] = 20170523.204343,
+					["Release"] = 20170829.184158,
 					["Script"] = "",
 					["Actions"] = {
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns",
 							["Ability"] = "invoke_xuen",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Invoke Xuen, the White Tiger",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
 						}, -- [1]
 						{
 							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns",
-							["Ability"] = "blood_fury",
+							["Script"] = "( cooldown.serenity.remains > 10 || buff.serenity.up ) || ! talent.serenity.enabled",
+							["Ability"] = "specter_of_betrayal",
 							["CheckMovement"] = false,
 							["ModVarName"] = "",
-							["Name"] = "Blood Fury",
+							["Name"] = "|cffa335ee|Hitem:151190::::::::110:269::::::|h[Specter of Betrayal]|h|r",
+							["Args"] = "name=specter_of_betrayal",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [2]
 						{
 							["Enabled"] = true,
-							["Script"] = "toggle.cooldowns",
-							["Ability"] = "berserking",
+							["Script"] = "( buff.serenity.up & ! equipped.specter_of_betrayal ) || ( equipped.specter_of_betrayal & ( time < 5 || cooldown.serenity.remains <= 8 ) ) || ! talent.serenity.enabled || target.time_to_die <= cooldown.serenity.remains",
+							["Ability"] = "vial_of_ceaseless_toxins",
 							["CheckMovement"] = false,
 							["ModVarName"] = "",
-							["Name"] = "Berserking",
+							["Name"] = "|cffa335ee|Hitem:147011::::::::110:269::::::|h[Vial of Ceaseless Toxins]|h|r",
+							["Args"] = "name=vial_of_ceaseless_toxins",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [3]
 						{
 							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns",
+							["Ability"] = "blood_fury",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Blood Fury",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns",
+							["Ability"] = "berserking",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Berserking",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
 							["Script"] = "chi.max - chi.current >= 1 & energy.time_to_max >= 0.5",
 							["Ability"] = "arcane_torrent",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Arcane Torrent",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [4]
+						}, -- [6]
 						{
 							["Enabled"] = true,
 							["MaximumTargets"] = "2",
@@ -7509,24 +8764,28 @@ HekiliDB = {
 							["Ability"] = "touch_of_death",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Touch of Death",
 							["Args"] = "cycle_targets=1,max_cycle_targets=2",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
-							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [5]
+						}, -- [7]
 						{
 							["Enabled"] = true,
 							["Script"] = "toggle.cooldowns & ( ! artifact.gale_burst.enabled & ! equipped.hidden_masters_forbidden_touch )",
 							["Ability"] = "touch_of_death",
-							["CheckMovement"] = false,
+							["Indicator"] = "none",
 							["ModVarName"] = "",
 							["Name"] = "Touch of Death (1)",
 							["Release"] = 201710,
-							["Indicator"] = "none",
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
 							["ModName"] = "",
-						}, -- [6]
+						}, -- [8]
 						{
 							["Enabled"] = true,
 							["MaximumTargets"] = "2",
@@ -7534,40 +8793,554 @@ HekiliDB = {
 							["Ability"] = "touch_of_death",
 							["Indicator"] = "none",
 							["ModVarName"] = "",
+							["CheckMovement"] = false,
 							["Name"] = "Touch of Death (2)",
 							["Args"] = "cycle_targets=1,max_cycle_targets=2",
 							["Release"] = 201710,
+							["Resources"] = {
+							},
 							["CycleTargets"] = true,
+							["ModName"] = "",
+						}, -- [9]
+					},
+					["Specialization"] = 269,
+				}, -- [12]
+				{
+					["Name"] = "Usable Items",
+					["Specialization"] = 0,
+					["Hidden"] = true,
+					["Release"] = 20170720.182352,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Name"] = "Faulty Countermeasure",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "faulty_countermeasure",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Name"] = "Umbral Moonglaives",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "umbral_moonglaives",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Name"] = "Draught of Souls",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["Ability"] = "draught_of_souls",
+							["Resources"] = {
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Name"] = "Kil'jaeden's Burning Wish",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "kiljaedens_burning_wish",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Name"] = "Vial of Ceaseless Toxins",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "vial_of_ceaseless_toxins",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Name"] = "Specter of Betrayal",
+							["Script"] = "! settings.disabled & \nactive_enemies >= settings.minimum & \n( settings.maximum == 0 || active_enemies <= settings.maximum )",
+							["Ability"] = "specter_of_betrayal",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [6]
+					},
+					["Default"] = true,
+				}, -- [13]
+				{
+					["Name"] = "IV Brewmaster: ST",
+					["Default"] = true,
+					["Release"] = 20170905.122749,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Keg Smash",
+							["Ability"] = "keg_smash",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Blackout Strike",
+							["Ability"] = "blackout_strike",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Breath of Fire",
+							["Ability"] = "breath_of_fire",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.rushing_jade_wind.refreshable",
+							["Name"] = "Rushing Jade Wind",
+							["Ability"] = "rushing_jade_wind",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "energy.current >= 65",
+							["Name"] = "Tiger Palm",
+							["Ability"] = "tiger_palm",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [5]
+					},
+					["Specialization"] = 268,
+				}, -- [14]
+				{
+					["Name"] = "IV Brewmaster: AOE",
+					["Default"] = true,
+					["Release"] = 20170905.122749,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Exploding Keg",
+							["Ability"] = "exploding_keg",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Keg Smash",
+							["Ability"] = "keg_smash",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Chi Burst",
+							["Ability"] = "chi_burst",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_dot.breath_of_fire > 1",
+							["Name"] = "Breath of Fire",
+							["Ability"] = "breath_of_fire",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Rushing Jade Wind",
+							["Ability"] = "rushing_jade_wind",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "energy.current >= 65\n",
+							["Name"] = "Tiger Palm",
+							["Ability"] = "tiger_palm",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Release"] = 201710,
+							["Indicator"] = "none",
+							["Name"] = "Blackout Strike",
+							["Resources"] = {
+							},
+						}, -- [7]
+					},
+					["Specialization"] = 268,
+				}, -- [15]
+				{
+					["Name"] = "IV Brewmaster: Combo",
+					["Default"] = true,
+					["Release"] = 20170905.122749,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "! prev_gcd.1.blackout_strike || cooldown.purifying_brew.charges < 2",
+							["Name"] = "Keg Smash",
+							["Ability"] = "keg_smash",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Blackout Strike",
+							["Ability"] = "blackout_strike",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "prev_gcd.1.blackout_strike",
+							["Name"] = "Tiger Palm",
+							["Ability"] = "tiger_palm",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies > 1 & cooldown.blackout_strike.remains > 0 & cooldown.keg_smash.remains > 0",
+							["Name"] = "Exploding Keg",
+							["Ability"] = "exploding_keg",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies > 1 & cooldown.blackout_strike.remains > 0 & cooldown.keg_smash.remains > 0",
+							["Name"] = "Chi Burst",
+							["Ability"] = "chi_burst",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_dot.keg_smash > 0 & cooldown.blackout_strike.remains > 0 & cooldown.keg_smash.remains > 0",
+							["Name"] = "Breath of Fire",
+							["Ability"] = "breath_of_fire",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.blackout_strike.remains > 0 & cooldown.keg_smash.remains > 0",
+							["Name"] = "Rushing Jade Wind",
+							["Ability"] = "rushing_jade_wind",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [7]
+					},
+					["Specialization"] = 268,
+				}, -- [16]
+				{
+					["Default"] = true,
+					["Specialization"] = 268,
+					["Name"] = "IV Brewmaster: Defensives",
+					["Release"] = 20170905.122749,
+					["ReadyTime"] = "( cooldown.purifying_brew.charges_max - cooldown.purifying_brew.charges_fractional ) * cooldown.purifying_brew.recharge",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.purifying_brew.charges = 0 & stagger.percent_max_hp >= 20",
+							["Name"] = "Black Ox Brew",
+							["Ability"] = "black_ox_brew",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Purifying Brew",
+							["Ability"] = "purifying_brew",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.purifying_brew.charges = cooldown.purifying_brew.charges_max",
+							["whenReady"] = "script",
+							["Indicator"] = "none",
+							["Name"] = "Ironskin Brew",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Ability"] = "ironskin_brew",
+							["ReadyTime"] = "( cooldown.purifying_brew.charges_max - cooldown.purifying_brew.charges_fractional ) * cooldown.purifying_brew.recharge",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "healing_sphere.count >= 1& ( health.deficit >= stat.attack_power * 7.5 * healing_sphere.count )",
+							["Name"] = "Expel Harm",
+							["Ability"] = "expel_harm",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [4]
+					},
+					["Script"] = "",
+				}, -- [17]
+				{
+					["Specialization"] = 268,
+					["Default"] = true,
+					["Release"] = 20170905.122749,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.interrupts",
+							["Ability"] = "spear_hand_strike",
+							["Indicator"] = "none",
+							["Release"] = 201617.03,
+							["Name"] = "Spear Hand Strike",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.potions\n",
+							["Args"] = "name=old_war",
+							["Ability"] = "potion",
+							["Indicator"] = "none",
+							["Release"] = 201617.03,
+							["Name"] = "Potion",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Name"] = "Defensives",
+							["Script"] = "tanking & use_defensives & ! ( talent.blackout_combo.enabled & prev_gcd.1.blackout_strike )",
+							["Args"] = "name=\"Brewmaster: Defensives\"",
+							["Ability"] = "call_action_list",
+							["Indicator"] = "none",
+							["Release"] = 201617.03,
+							["ModName"] = "Brewmaster: Defensives",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "",
+							["Name"] = "Use Items",
+							["Ability"] = "use_items",
+							["Resources"] = {
+							},
+							["Release"] = 201710,
+							["Indicator"] = "none",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Ability"] = "call_action_list",
+							["Script"] = "talent.blackout_combo.enabled",
+							["Args"] = "name=\"Brewmaster: Combo AOE\"",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Name"] = "Combo",
+							["ModName"] = "IV Brewmaster: Combo",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Ability"] = "call_action_list",
+							["Script"] = "!talent.blackout_combo.enabled & active_enemies=1",
+							["Args"] = "name=\"Brewmaster: Standard ST\"",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Name"] = "Standard ST",
+							["ModName"] = "IV Brewmaster: ST",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "!talent.blackout_combo.enabled & active_enemies > 1",
+							["Name"] = "Standard AOE",
+							["Args"] = "name=\"Brewmaster: Combo ST\"",
+							["Release"] = 201617.03,
+							["Indicator"] = "none",
+							["Ability"] = "call_action_list",
+							["ModName"] = "IV Brewmaster: AOE",
+						}, -- [7]
+					},
+					["Name"] = "IV Brewmaster: Default",
+				}, -- [18]
+				{
+					["Enabled"] = false,
+					["Name"] = "SimC Windwalker: serenity opener",
+					["Specialization"] = 269,
+					["Release"] = 20170829.184158,
+					["Script"] = "",
+					["Actions"] = {
+						{
+							["Enabled"] = true,
+							["Script"] = "! prev_gcd.1.tiger_palm & energy.current = energy.max & chi.current < 1 & ! buff.serenity.up & cooldown.fists_of_fury.remains <= 0",
+							["Ability"] = "tiger_palm",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
 							["CheckMovement"] = false,
+							["Name"] = "Tiger Palm",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CycleTargets"] = true,
+							["ModName"] = "",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Script"] = "chi.max - chi.current >= 1 & energy.time_to_max >= 0.5",
+							["Ability"] = "arcane_torrent",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Arcane Torrent",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Script"] = "cooldown.fists_of_fury.remains > 1",
+							["Ability"] = "call_action_list",
+							["CheckMovement"] = false,
+							["ModVarName"] = "",
+							["Name"] = "Call Action List",
+							["Args"] = "name=\"SimC Windwalker: CD\"",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
+							["ModName"] = "SimC Windwalker: CD",
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["Script"] = "toggle.cooldowns & ( cooldown.fists_of_fury.remains > 1 )",
+							["Ability"] = "serenity",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Serenity",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Script"] = "active_enemies < 3 & buff.serenity.up",
+							["Ability"] = "rising_sun_kick",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["CheckMovement"] = false,
+							["Name"] = "Rising Sun Kick",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CycleTargets"] = true,
+							["ModName"] = "",
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["Script"] = "buff.serenity.up",
+							["Ability"] = "strike_of_the_windlord",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["Name"] = "Strike of the Windlord",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CheckMovement"] = false,
+							["ModName"] = "",
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Script"] = "( ! prev_gcd.1.blackout_kick ) & ( prev_gcd.1.strike_of_the_windlord )",
+							["Ability"] = "blackout_kick",
+							["Indicator"] = "none",
+							["ModVarName"] = "",
+							["CheckMovement"] = false,
+							["Name"] = "Blackout Kick",
+							["Args"] = "cycle_targets=1",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["CycleTargets"] = true,
 							["ModName"] = "",
 						}, -- [7]
 						{
 							["Enabled"] = true,
-							["Script"] = "talent.serenity.enabled & ! buff.serenity.up & energy.time_to_max > 3",
-							["Ability"] = "draught_of_souls",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Draught of Souls",
-							["Args"] = "name=draught_of_souls",
-							["Release"] = 201710,
+							["Script"] = "cooldown.rising_sun_kick.remains > 1 || buff.serenity.down",
+							["Ability"] = "fists_of_fury",
 							["CheckMovement"] = false,
+							["ModVarName"] = "",
+							["Name"] = "Fists of Fury",
+							["Args"] = "interrupt=1",
+							["Release"] = 201710,
+							["Resources"] = {
+							},
+							["Indicator"] = "none",
 							["ModName"] = "",
 						}, -- [8]
-						{
-							["Enabled"] = true,
-							["Script"] = "! talent.serenity.enabled & ! buff.storm_earth_and_fire.up & energy.time_to_max > 3",
-							["Ability"] = "draught_of_souls",
-							["Indicator"] = "none",
-							["ModVarName"] = "",
-							["Name"] = "Draught of Souls (1)",
-							["Args"] = "name=draught_of_souls",
-							["Release"] = 201710,
-							["CheckMovement"] = false,
-							["ModName"] = "",
-						}, -- [9]
 					},
 					["Default"] = true,
-				}, -- [12]
+				}, -- [19]
 			},
 			["Toggle State: use_defensives"] = true,
 			["displays"] = {
@@ -7578,6 +9351,130 @@ HekiliDB = {
 					["queueAlignment"] = "c",
 					["yOffsetCaptions"] = 0,
 					["xOffsetCaptions"] = 0,
+					["queuedIconSize"] = 40,
+					["minAE"] = 3,
+					["queuedCaptions"] = true,
+					["yOffsetTargets"] = 0,
+					["Queues"] = {
+						{
+							["Enabled"] = true,
+							["Action List"] = 8,
+							["Name"] = "SimC Windwalker: precombat",
+							["Release"] = 20161003,
+							["Script"] = "time=0",
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Action List"] = 7,
+							["Name"] = "SimC Windwalker: default",
+							["Release"] = 20161003,
+						}, -- [2]
+					},
+					["showSwitchAE"] = true,
+					["xOffsetTargets"] = 0,
+					["iconSpacing"] = 5,
+					["auraInfoType"] = "buff",
+					["y"] = -173.750366210938,
+					["font"] = "Expressway",
+					["Keybinding Style"] = 2,
+					["kbAnchor"] = "TOPRIGHT",
+					["combatPvE"] = false,
+					["captionAnchor"] = "BOTTOM",
+					["Specialization"] = 269,
+					["showST"] = true,
+					["queueDirection"] = "RIGHT",
+					["numIcons"] = 4,
+					["spellFlashColor"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+					["showCaptions"] = true,
+					["xOffsetAura"] = 0,
+					["auraType"] = "buff",
+					["maxAuto"] = 0,
+					["alphaAlwaysPvE"] = 1,
+					["alphaShowPvE"] = 1,
+					["alphaCombatPvE"] = 1,
+					["Name"] = "Windwalker Primary",
+					["quickVisStyle"] = "a",
+					["alwaysPvP"] = true,
+					["visibilityType"] = "b",
+					["captionAlign"] = "CENTER",
+					["displayType"] = "a",
+					["Default"] = true,
+					["rangeType"] = "ability",
+					["auraMine"] = true,
+					["Copy To"] = "Windwalker AOE",
+					["kbFontSize"] = 12,
+					["yOffsetIndicators"] = 0,
+					["alphaTargetPvP"] = 1,
+					["blizzGlowAll"] = false,
+					["rel"] = "CENTER",
+					["spellFlash"] = false,
+					["alphaTargetPvE"] = 1,
+					["iconZoom"] = 15,
+					["queuedIndicators"] = true,
+					["x"] = -29.9996967315674,
+					["targetAnchor"] = "BOTTOMRIGHT",
+					["targetFontStyle"] = "OUTLINE",
+					["Maximum Time"] = 30,
+					["showSwitchAuto"] = true,
+					["Script"] = "",
+					["alphaAlwaysPvP"] = 1,
+					["primaryIconSize"] = 40,
+					["primaryFontSize"] = 12,
+					["precombatAPL"] = 8,
+					["blizzGlow"] = false,
+					["maxAE"] = 0,
+					["Talent Group"] = 0,
+					["targetPvE"] = false,
+					["showKeybindings"] = true,
+					["Primary Caption"] = "targets",
+					["maxST"] = 1,
+					["indicatorAnchor"] = "RIGHT",
+					["Primary Caption Aura"] = "",
+					["captionFontSize"] = 12,
+					["alphaCombatPvP"] = 1,
+					["showIndicators"] = true,
+					["alphaShowPvP"] = 1,
+					["alwaysPvE"] = true,
+					["showPvE"] = true,
+					["showAE"] = true,
+					["combatPvP"] = false,
+					["kbFont"] = "PT Sans Narrow",
+					["yOffsetKBs"] = -1,
+					["kbFontStyle"] = "OUTLINE",
+					["minST"] = 0,
+					["targetFontSize"] = 12,
+					["showPvP"] = true,
+					["captionFont"] = "PT Sans Narrow",
+					["auraSpellID"] = 0,
+					["Enabled"] = true,
+					["simpleAOE"] = 2,
+					["yOffsetAura"] = 0,
+					["xOffsetKBs"] = 1,
+					["Release"] = 20170723.09521,
+					["targetFont"] = "PT Sans Narrow",
+					["defaultAPL"] = 7,
+					["showAuraInfo"] = false,
+					["showAuto"] = true,
+					["showTargets"] = true,
+					["auraAnchor"] = "BOTTOMLEFT",
+					["queuedFontSize"] = 12,
+					["xOffsetIndicators"] = 0,
+					["queuedKBs"] = true,
+					["minAuto"] = 0,
+					["auraUnit"] = "player",
+				}, -- [1]
+				{
+					["captionFontStyle"] = "OUTLINE",
+					["targetPvP"] = false,
+					["rangeCheck"] = true,
+					["queueAlignment"] = "c",
+					["yOffsetCaptions"] = 0,
+					["xOffsetCaptions"] = 0,
 					["primaryIconSize"] = 40,
 					["showAuraInfo"] = false,
 					["queuedCaptions"] = true,
@@ -7598,11 +9495,11 @@ HekiliDB = {
 						}, -- [2]
 					},
 					["showSwitchAE"] = true,
-					["showAuto"] = true,
-					["iconSpacing"] = 5,
-					["targetAnchor"] = "BOTTOMRIGHT",
-					["y"] = -173.750366210938,
-					["font"] = "Expressway",
+					["showAuto"] = false,
+					["maxST"] = 0,
+					["auraInfoType"] = "buff",
+					["y"] = -214.999969482422,
+					["x"] = 0,
 					["showTargets"] = true,
 					["kbAnchor"] = "TOPRIGHT",
 					["combatPvE"] = false,
@@ -7613,139 +9510,15 @@ HekiliDB = {
 					["numIcons"] = 4,
 					["spellFlashColor"] = {
 						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
 						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
 					["showCaptions"] = true,
 					["xOffsetAura"] = 0,
-					["yOffsetAura"] = 0,
-					["maxAuto"] = 0,
-					["blizzGlowAll"] = false,
-					["alphaShowPvE"] = 1,
-					["alphaCombatPvE"] = 1,
-					["Name"] = "Windwalker Primary",
-					["captionFontSize"] = 12,
-					["alwaysPvP"] = true,
-					["visibilityType"] = "b",
-					["captionAlign"] = "CENTER",
-					["quickVisStyle"] = "a",
-					["queuedIconSize"] = 40,
-					["rangeType"] = "ability",
-					["auraMine"] = true,
-					["xOffsetTargets"] = 0,
-					["kbFontSize"] = 12,
-					["auraInfoType"] = "buff",
-					["alphaTargetPvP"] = 1,
-					["iconZoom"] = 15,
-					["rel"] = "CENTER",
-					["spellFlash"] = false,
-					["alphaTargetPvE"] = 1,
-					["auraAnchor"] = "BOTTOMLEFT",
-					["queuedIndicators"] = true,
-					["alphaAlwaysPvE"] = 1,
-					["showSwitchAuto"] = true,
-					["targetFontStyle"] = "OUTLINE",
-					["Maximum Time"] = 30,
-					["Default"] = true,
-					["Script"] = "",
-					["alphaAlwaysPvP"] = 1,
 					["auraType"] = "buff",
-					["primaryFontSize"] = 12,
-					["precombatAPL"] = 8,
-					["showKeybindings"] = true,
-					["maxAE"] = 0,
-					["Talent Group"] = 0,
-					["targetPvE"] = false,
-					["showPvP"] = true,
-					["Primary Caption"] = "targets",
-					["xOffsetIndicators"] = 0,
-					["minAuto"] = 0,
-					["kbFont"] = "PT Sans Narrow",
-					["displayType"] = "a",
-					["auraSpellID"] = 0,
-					["showIndicators"] = true,
-					["x"] = -29.9996967315674,
-					["alwaysPvE"] = true,
-					["showPvE"] = true,
-					["showAE"] = true,
-					["combatPvP"] = false,
-					["targetFont"] = "PT Sans Narrow",
-					["maxST"] = 1,
-					["kbFontStyle"] = "OUTLINE",
-					["minST"] = 0,
-					["targetFontSize"] = 12,
-					["Primary Caption Aura"] = "",
-					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
-					["Enabled"] = true,
-					["simpleAOE"] = 2,
-					["defaultAPL"] = 7,
-					["yOffsetIndicators"] = 0,
-					["Release"] = 20170402.13081,
-					["Copy To"] = "Windwalker AOE",
-					["indicatorAnchor"] = "RIGHT",
-					["Keybinding Style"] = 2,
-					["yOffsetKBs"] = -1,
-					["xOffsetKBs"] = 1,
-					["alphaShowPvP"] = 1,
-					["queuedFontSize"] = 12,
-					["minAE"] = 3,
-					["queuedKBs"] = true,
-					["blizzGlow"] = false,
-					["auraUnit"] = "player",
-				}, -- [1]
-				{
-					["captionFontStyle"] = "OUTLINE",
-					["targetPvP"] = false,
-					["rangeCheck"] = true,
-					["blizzGlow"] = false,
-					["yOffsetCaptions"] = 0,
-					["xOffsetCaptions"] = 0,
-					["queuedIconSize"] = 40,
-					["minAE"] = 3,
-					["queuedCaptions"] = true,
-					["yOffsetTargets"] = 0,
-					["Queues"] = {
-						{
-							["Enabled"] = true,
-							["Action List"] = 8,
-							["Name"] = "SimC Windwalker: precombat",
-							["Release"] = 20161003,
-							["Script"] = "time=0",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Action List"] = 7,
-							["Name"] = "SimC Windwalker: default",
-							["Release"] = 20161003,
-						}, -- [2]
-					},
-					["showSwitchAE"] = true,
-					["xOffsetTargets"] = 0,
-					["maxST"] = 0,
-					["targetAnchor"] = "BOTTOMRIGHT",
-					["y"] = -214.999969482422,
-					["font"] = "Expressway",
-					["showTargets"] = true,
-					["kbAnchor"] = "TOPRIGHT",
-					["combatPvE"] = false,
-					["captionAnchor"] = "BOTTOM",
-					["Copy To"] = "Windwalker AOE",
-					["showST"] = true,
-					["queueDirection"] = "RIGHT",
-					["numIcons"] = 4,
-					["spellFlashColor"] = {
-						["a"] = 1,
-						["b"] = 1,
-						["g"] = 1,
-						["r"] = 1,
-					},
-					["showCaptions"] = true,
-					["xOffsetAura"] = 0,
-					["defaultAPL"] = 7,
 					["maxAuto"] = 0,
-					["xOffsetIndicators"] = 0,
+					["alphaAlwaysPvE"] = 1,
 					["alphaShowPvE"] = 1,
 					["alphaCombatPvE"] = 1,
 					["Name"] = "Windwalker AOE",
@@ -7753,80 +9526,80 @@ HekiliDB = {
 					["visibilityType"] = "b",
 					["captionAlign"] = "CENTER",
 					["quickVisStyle"] = "a",
-					["captionFontSize"] = 12,
+					["displayType"] = "c",
 					["rangeType"] = "ability",
 					["auraMine"] = true,
-					["showSwitchAuto"] = true,
+					["Default"] = true,
 					["kbFontSize"] = 12,
-					["primaryIconSize"] = 40,
+					["yOffsetIndicators"] = 0,
 					["Primary Caption Aura"] = "",
-					["showAuto"] = false,
+					["xOffsetIndicators"] = 0,
 					["rel"] = "CENTER",
 					["spellFlash"] = false,
 					["alphaTargetPvE"] = 1,
-					["auraInfoType"] = "buff",
+					["font"] = "Expressway",
 					["queuedIndicators"] = true,
 					["iconZoom"] = 15,
-					["Default"] = true,
+					["showSwitchAuto"] = true,
 					["targetFontStyle"] = "OUTLINE",
 					["Maximum Time"] = 30,
-					["alphaAlwaysPvE"] = 1,
+					["xOffsetTargets"] = 0,
 					["Script"] = "single",
 					["alphaAlwaysPvP"] = 1,
-					["auraType"] = "buff",
+					["queuedIconSize"] = 40,
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 8,
-					["Release"] = 20170402.13081,
+					["iconSpacing"] = 5,
 					["maxAE"] = 0,
 					["Talent Group"] = 0,
 					["targetPvE"] = false,
-					["showKeybindings"] = true,
-					["showPvP"] = true,
-					["x"] = 0,
-					["minAuto"] = 3,
-					["kbFont"] = "PT Sans Narrow",
-					["displayType"] = "c",
+					["Release"] = 20170723.09521,
+					["Primary Caption"] = "targets",
 					["alphaTargetPvP"] = 1,
+					["minAuto"] = 3,
+					["captionFontSize"] = 12,
+					["blizzGlowAll"] = false,
+					["defaultAPL"] = 7,
 					["showIndicators"] = true,
-					["auraSpellID"] = 0,
+					["alphaCombatPvP"] = 1,
 					["alwaysPvE"] = true,
-					["showPvE"] = true,
 					["showAE"] = false,
+					["showPvE"] = true,
 					["combatPvP"] = false,
 					["alphaShowPvP"] = 1,
-					["iconSpacing"] = 5,
+					["showKeybindings"] = true,
 					["kbFontStyle"] = "OUTLINE",
 					["minST"] = 3,
 					["targetFontSize"] = 12,
-					["targetFont"] = "PT Sans Narrow",
+					["kbFont"] = "PT Sans Narrow",
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = true,
 					["simpleAOE"] = 3,
-					["blizzGlowAll"] = false,
 					["yOffsetAura"] = 0,
-					["yOffsetIndicators"] = 0,
-					["Primary Caption"] = "targets",
-					["Specialization"] = 269,
-					["indicatorAnchor"] = "RIGHT",
-					["yOffsetKBs"] = -1,
+					["showPvP"] = true,
+					["targetFont"] = "PT Sans Narrow",
 					["xOffsetKBs"] = 1,
+					["yOffsetKBs"] = -1,
+					["blizzGlow"] = false,
+					["minAE"] = 3,
+					["targetAnchor"] = "BOTTOMRIGHT",
 					["auraAnchor"] = "BOTTOMLEFT",
 					["queuedFontSize"] = 12,
-					["showAuraInfo"] = false,
+					["indicatorAnchor"] = "RIGHT",
 					["queuedKBs"] = true,
-					["queueAlignment"] = "c",
+					["Copy To"] = "Windwalker AOE",
 					["auraUnit"] = "player",
 				}, -- [2]
 				{
 					["captionFontStyle"] = "OUTLINE",
 					["captionFontSize"] = 12,
 					["rangeCheck"] = true,
-					["blizzGlow"] = false,
+					["queueAlignment"] = "c",
 					["yOffsetCaptions"] = 0,
 					["xOffsetCaptions"] = 0,
-					["queuedIconSize"] = 40,
-					["minAE"] = 3,
+					["primaryIconSize"] = 40,
+					["showAuraInfo"] = false,
 					["queuedCaptions"] = true,
 					["yOffsetTargets"] = 0,
 					["Queues"] = {
@@ -7841,14 +9614,14 @@ HekiliDB = {
 					["showSwitchAE"] = true,
 					["showAuto"] = true,
 					["iconSpacing"] = 5,
-					["auraInfoType"] = "buff",
+					["targetAnchor"] = "BOTTOMRIGHT",
 					["y"] = -151.499969482422,
 					["font"] = "Arial Narrow",
 					["showTargets"] = true,
 					["kbAnchor"] = "TOPRIGHT",
 					["combatPvE"] = false,
 					["captionAnchor"] = "BOTTOM",
-					["Specialization"] = 268,
+					["Copy To"] = "Brewmaster AOE",
 					["showST"] = true,
 					["queueDirection"] = "RIGHT",
 					["numIcons"] = 3,
@@ -7860,9 +9633,9 @@ HekiliDB = {
 					},
 					["showCaptions"] = true,
 					["xOffsetAura"] = 0,
-					["yOffsetAura"] = 0,
+					["auraType"] = "buff",
 					["maxAuto"] = 0,
-					["xOffsetIndicators"] = 0,
+					["alphaAlwaysPvE"] = 1,
 					["alphaShowPvE"] = 1,
 					["alphaCombatPvE"] = 1,
 					["Default"] = true,
@@ -7870,80 +9643,80 @@ HekiliDB = {
 					["visibilityType"] = "b",
 					["captionAlign"] = "CENTER",
 					["quickVisStyle"] = "a",
-					["targetPvP"] = false,
+					["displayType"] = "a",
 					["rangeType"] = "ability",
 					["auraMine"] = true,
-					["showSwitchAuto"] = true,
-					["kbFontSize"] = 12,
-					["primaryIconSize"] = 40,
-					["Primary Caption Aura"] = "",
-					["xOffsetTargets"] = 0,
-					["rel"] = "CENTER",
-					["targetFont"] = "PT Sans Narrow",
-					["alphaTargetPvE"] = 1,
-					["targetAnchor"] = "BOTTOMRIGHT",
-					["queuedIndicators"] = true,
-					["auraAnchor"] = "BOTTOMLEFT",
 					["Name"] = "Brewmaster Primary",
+					["kbFontSize"] = 12,
+					["xOffsetIndicators"] = 0,
+					["Primary Caption Aura"] = "",
+					["yOffsetIndicators"] = 0,
+					["rel"] = "CENTER",
+					["spellFlash"] = false,
+					["alphaTargetPvE"] = 1,
+					["defaultAPL"] = 18,
+					["queuedIndicators"] = true,
+					["iconZoom"] = 15,
+					["auraInfoType"] = "buff",
 					["targetFontStyle"] = "OUTLINE",
 					["Maximum Time"] = 30,
-					["alphaAlwaysPvE"] = 1,
+					["showSwitchAuto"] = true,
 					["Script"] = "",
 					["alphaAlwaysPvP"] = 1,
-					["auraType"] = "buff",
+					["queuedIconSize"] = 40,
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 0,
-					["Primary Caption"] = "targets",
+					["indicatorAnchor"] = "RIGHT",
 					["maxAE"] = 0,
 					["Talent Group"] = 0,
 					["targetPvE"] = false,
-					["showKeybindings"] = true,
-					["showPvP"] = true,
-					["x"] = 3.24908423423767,
-					["minAuto"] = 0,
-					["kbFont"] = "PT Sans Narrow",
-					["displayType"] = "a",
-					["alphaTargetPvP"] = 1,
-					["showIndicators"] = true,
-					["auraSpellID"] = 0,
-					["alwaysPvE"] = true,
-					["showPvE"] = true,
-					["showAE"] = true,
-					["combatPvP"] = false,
-					["alphaShowPvP"] = 1,
+					["Primary Caption"] = "targets",
+					["Release"] = 20170723.09521,
 					["maxST"] = 1,
-					["kbFontStyle"] = "OUTLINE",
+					["alphaTargetPvP"] = 1,
+					["minAuto"] = 0,
+					["targetPvP"] = false,
+					["blizzGlowAll"] = false,
+					["showIndicators"] = true,
+					["alphaCombatPvP"] = 1,
+					["alwaysPvE"] = true,
+					["showAE"] = true,
+					["showPvE"] = true,
+					["combatPvP"] = false,
+					["showKeybindings"] = true,
+					["kbFont"] = "PT Sans Narrow",
+					["xOffsetKBs"] = 1,
 					["minST"] = 0,
 					["targetFontSize"] = 12,
-					["spellFlash"] = false,
+					["showPvP"] = true,
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = false,
 					["simpleAOE"] = 2,
-					["blizzGlowAll"] = false,
-					["defaultAPL"] = 1,
-					["yOffsetIndicators"] = 0,
-					["Release"] = 20170402.13081,
-					["Copy To"] = "Brewmaster AOE",
-					["indicatorAnchor"] = "RIGHT",
+					["alphaShowPvP"] = 1,
+					["yOffsetAura"] = 0,
+					["kbFontStyle"] = "OUTLINE",
+					["xOffsetTargets"] = 0,
 					["yOffsetKBs"] = -1,
-					["xOffsetKBs"] = 1,
-					["iconZoom"] = 15,
+					["blizzGlow"] = false,
+					["minAE"] = 3,
+					["x"] = 3.24908423423767,
+					["auraAnchor"] = "BOTTOMLEFT",
 					["queuedFontSize"] = 12,
-					["showAuraInfo"] = false,
+					["targetFont"] = "PT Sans Narrow",
 					["queuedKBs"] = true,
-					["queueAlignment"] = "c",
+					["Specialization"] = 268,
 					["auraUnit"] = "player",
 				}, -- [3]
 				{
 					["captionFontStyle"] = "OUTLINE",
 					["captionFontSize"] = 12,
 					["rangeCheck"] = true,
-					["blizzGlow"] = false,
+					["queueAlignment"] = "c",
 					["yOffsetCaptions"] = 0,
 					["xOffsetCaptions"] = 0,
 					["queuedIconSize"] = 40,
-					["minAE"] = 3,
+					["showAuraInfo"] = false,
 					["queuedCaptions"] = true,
 					["yOffsetTargets"] = 0,
 					["Queues"] = {
@@ -7958,9 +9731,9 @@ HekiliDB = {
 					["showSwitchAE"] = true,
 					["showAuto"] = false,
 					["iconSpacing"] = 5,
-					["auraInfoType"] = "buff",
+					["targetAnchor"] = "BOTTOMRIGHT",
 					["y"] = -214.999969482422,
-					["x"] = 22.5000019073486,
+					["font"] = "Arial Narrow",
 					["showTargets"] = true,
 					["kbAnchor"] = "TOPRIGHT",
 					["combatPvE"] = false,
@@ -7977,9 +9750,9 @@ HekiliDB = {
 					},
 					["showCaptions"] = true,
 					["xOffsetAura"] = 0,
-					["yOffsetAura"] = 0,
+					["auraType"] = "buff",
 					["maxAuto"] = 0,
-					["blizzGlowAll"] = false,
+					["alphaAlwaysPvE"] = 1,
 					["alphaShowPvE"] = 1,
 					["alphaCombatPvE"] = 1,
 					["Default"] = true,
@@ -7987,76 +9760,76 @@ HekiliDB = {
 					["visibilityType"] = "b",
 					["captionAlign"] = "CENTER",
 					["quickVisStyle"] = "a",
-					["targetPvP"] = false,
+					["displayType"] = "c",
 					["rangeType"] = "ability",
 					["auraMine"] = true,
-					["primaryIconSize"] = 40,
-					["kbFontSize"] = 12,
-					["showAuraInfo"] = false,
-					["alphaTargetPvP"] = 1,
-					["xOffsetTargets"] = 0,
-					["rel"] = "CENTER",
-					["targetFont"] = "PT Sans Narrow",
-					["alphaTargetPvE"] = 1,
-					["targetAnchor"] = "BOTTOMRIGHT",
-					["queuedIndicators"] = true,
-					["auraAnchor"] = "BOTTOMLEFT",
 					["minAuto"] = 3,
+					["kbFontSize"] = 12,
+					["Specialization"] = 268,
+					["alphaTargetPvP"] = 1,
+					["yOffsetIndicators"] = 0,
+					["rel"] = "CENTER",
+					["spellFlash"] = false,
+					["alphaTargetPvE"] = 1,
+					["defaultAPL"] = 18,
+					["queuedIndicators"] = true,
+					["iconZoom"] = 15,
+					["maxST"] = 0,
 					["targetFontStyle"] = "OUTLINE",
 					["Maximum Time"] = 30,
-					["alphaAlwaysPvE"] = 1,
+					["showSwitchAuto"] = true,
 					["Script"] = "single",
 					["alphaAlwaysPvP"] = 1,
-					["auraType"] = "buff",
+					["indicatorAnchor"] = "RIGHT",
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 0,
-					["Primary Caption"] = "targets",
+					["x"] = 22.5000019073486,
 					["maxAE"] = 0,
 					["Talent Group"] = 0,
 					["targetPvE"] = false,
-					["showKeybindings"] = true,
-					["Release"] = 20170402.13081,
-					["font"] = "Arial Narrow",
-					["Name"] = "Brewmaster AOE",
-					["kbFont"] = "PT Sans Narrow",
-					["displayType"] = "c",
+					["Primary Caption"] = "targets",
+					["Release"] = 20170723.09521,
+					["primaryIconSize"] = 40,
 					["Primary Caption Aura"] = "",
+					["targetPvP"] = false,
+					["Name"] = "Brewmaster AOE",
+					["blizzGlowAll"] = false,
 					["showIndicators"] = true,
-					["auraSpellID"] = 0,
+					["alphaCombatPvP"] = 1,
 					["alwaysPvE"] = true,
-					["showPvE"] = true,
 					["showAE"] = false,
+					["showPvE"] = true,
 					["combatPvP"] = false,
-					["alphaShowPvP"] = 1,
-					["maxST"] = 0,
-					["kbFontStyle"] = "OUTLINE",
+					["showKeybindings"] = true,
+					["kbFont"] = "PT Sans Narrow",
+					["xOffsetKBs"] = 1,
 					["minST"] = 3,
 					["targetFontSize"] = 12,
-					["spellFlash"] = false,
+					["showPvP"] = true,
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = false,
 					["simpleAOE"] = 3,
-					["xOffsetIndicators"] = 0,
-					["defaultAPL"] = 1,
-					["yOffsetIndicators"] = 0,
-					["showPvP"] = true,
-					["Specialization"] = 268,
-					["indicatorAnchor"] = "RIGHT",
+					["alphaShowPvP"] = 1,
+					["yOffsetAura"] = 0,
+					["kbFontStyle"] = "OUTLINE",
+					["xOffsetTargets"] = 0,
 					["yOffsetKBs"] = -1,
-					["xOffsetKBs"] = 1,
-					["iconZoom"] = 15,
+					["blizzGlow"] = false,
+					["minAE"] = 3,
+					["auraInfoType"] = "buff",
+					["auraAnchor"] = "BOTTOMLEFT",
 					["queuedFontSize"] = 12,
-					["showSwitchAuto"] = true,
+					["targetFont"] = "PT Sans Narrow",
 					["queuedKBs"] = true,
-					["queueAlignment"] = "c",
+					["xOffsetIndicators"] = 0,
 					["auraUnit"] = "player",
 				}, -- [4]
 				{
 					["captionFontStyle"] = "OUTLINE",
 					["targetPvP"] = false,
 					["rangeCheck"] = true,
-					["blizzGlow"] = false,
+					["queueAlignment"] = "c",
 					["yOffsetCaptions"] = 0,
 					["xOffsetCaptions"] = 0,
 					["queuedIconSize"] = 25,
@@ -8073,11 +9846,11 @@ HekiliDB = {
 						}, -- [1]
 					},
 					["showSwitchAE"] = true,
-					["showAuto"] = true,
+					["xOffsetTargets"] = 0,
 					["maxST"] = 1,
 					["auraInfoType"] = "buff",
 					["y"] = -156.499893188477,
-					["yOffsetKBs"] = -1,
+					["x"] = -78.999755859375,
 					["showTargets"] = true,
 					["kbAnchor"] = "TOPRIGHT",
 					["combatPvE"] = false,
@@ -8094,101 +9867,134 @@ HekiliDB = {
 					},
 					["showCaptions"] = true,
 					["xOffsetAura"] = 0,
-					["defaultAPL"] = 2,
+					["auraType"] = "buff",
 					["maxAuto"] = 0,
-					["blizzGlowAll"] = false,
+					["alphaAlwaysPvE"] = 1,
 					["alphaShowPvE"] = 1,
 					["alphaCombatPvE"] = 1,
-					["Default"] = true,
+					["Name"] = "Brewmaster Defensives",
 					["alwaysPvP"] = true,
 					["visibilityType"] = "b",
 					["captionAlign"] = "CENTER",
 					["displayType"] = "d",
 					["rangeType"] = "ability",
 					["auraMine"] = true,
-					["captionFontSize"] = 12,
+					["quickVisStyle"] = "a",
 					["kbFontSize"] = 10,
-					["primaryIconSize"] = 30,
+					["Default"] = true,
 					["alphaTargetPvP"] = 1,
-					["showAuraInfo"] = false,
+					["yOffsetIndicators"] = 0,
 					["rel"] = "CENTER",
 					["spellFlash"] = false,
 					["alphaTargetPvE"] = 1,
-					["xOffsetTargets"] = 0,
+					["targetFont"] = "PT Sans Narrow",
 					["queuedIndicators"] = true,
-					["targetAnchor"] = "BOTTOMRIGHT",
-					["alphaShowPvP"] = 1,
+					["iconSpacing"] = 5,
+					["iconZoom"] = 30,
 					["targetFontStyle"] = "OUTLINE",
 					["Maximum Time"] = 30,
-					["Name"] = "Brewmaster Defensives",
+					["showSwitchAuto"] = true,
 					["Script"] = "",
 					["alphaAlwaysPvP"] = 1,
-					["alphaAlwaysPvE"] = 1,
+					["targetAnchor"] = "BOTTOMRIGHT",
 					["primaryFontSize"] = 12,
 					["precombatAPL"] = 0,
-					["auraType"] = "buff",
+					["blizzGlow"] = false,
 					["maxAE"] = 0,
 					["Talent Group"] = 0,
 					["targetPvE"] = false,
-					["Release"] = 20170402.13081,
-					["showKeybindings"] = true,
+					["indicatorAnchor"] = "RIGHT",
 					["Primary Caption"] = "default",
-					["font"] = "Arial Narrow",
-					["kbFont"] = "PT Sans Narrow",
-					["quickVisStyle"] = "a",
+					["primaryIconSize"] = 30,
 					["Primary Caption Aura"] = "",
+					["minAuto"] = 0,
+					["captionFontSize"] = 12,
+					["blizzGlowAll"] = false,
 					["showIndicators"] = true,
-					["showAE"] = true,
+					["defaultAPL"] = 17,
 					["alwaysPvE"] = true,
-					["auraSpellID"] = 0,
+					["alphaCombatPvP"] = 1,
 					["showPvE"] = true,
 					["combatPvP"] = false,
-					["targetFont"] = "PT Sans Narrow",
-					["auraAnchor"] = "BOTTOMLEFT",
-					["iconSpacing"] = 5,
+					["showKeybindings"] = true,
+					["showAE"] = true,
+					["kbFont"] = "PT Sans Narrow",
 					["minST"] = 0,
 					["targetFontSize"] = 12,
 					["kbFontStyle"] = "OUTLINE",
 					["captionFont"] = "PT Sans Narrow",
-					["alphaCombatPvP"] = 1,
+					["auraSpellID"] = 0,
 					["Enabled"] = false,
 					["simpleAOE"] = 2,
-					["minAuto"] = 0,
-					["xOffsetIndicators"] = 0,
+					["alphaShowPvP"] = 1,
 					["yOffsetAura"] = 0,
-					["yOffsetIndicators"] = 0,
 					["showPvP"] = true,
-					["indicatorAnchor"] = "RIGHT",
-					["x"] = -78.999755859375,
+					["showAuraInfo"] = false,
+					["Release"] = 20170723.09521,
 					["xOffsetKBs"] = 1,
-					["iconZoom"] = 30,
+					["yOffsetKBs"] = -1,
+					["showAuto"] = true,
+					["auraAnchor"] = "BOTTOMLEFT",
 					["queuedFontSize"] = 12,
-					["showSwitchAuto"] = true,
+					["font"] = "Arial Narrow",
 					["queuedKBs"] = true,
-					["queueAlignment"] = "c",
+					["xOffsetIndicators"] = 0,
 					["auraUnit"] = "player",
 				}, -- [5]
 			},
 			["Toggle State: strike_of_the_windlord"] = true,
 			["Class Option: purify_moderate"] = 60,
 			["runOnce"] = {
-				["setDisplayTypes_04022017"] = true,
 				["useNewAPLsForDemonHunters_06132017_1"] = true,
-				["turnOffDebug_04162017"] = true,
 				["removeActionListEnabled_04102017"] = true,
+				["attachDefaultAPLs_04022017"] = true,
+				["spruceUpActionListNames_04162017"] = true,
 				["dontDisableGlobalCooldownYouFools_05232017"] = true,
 				["removeExtraQuotes_04142017_3"] = true,
-				["spruceUpActionListNames_04162017"] = true,
-				["attachDefaultAPLs_04022017"] = true,
+				["setDisplayTypes_04022017"] = true,
+				["turnOffDebug_04162017"] = true,
+				["forceRetToRefreshAPLsFor730_09012017"] = true,
 			},
 			["Class Option: elixir_energy"] = 20,
+			["Class Option: purify_light"] = 60,
 			["Class Option: purify_heavy"] = 40,
 			["Class Option: tp_energy"] = 65,
 			["Class Option: strike_cooldown"] = true,
 			["iconStore"] = {
 				["hide"] = true,
 			},
-			["Class Option: purify_light"] = 60,
+			["trinkets"] = {
+				["kiljaedens_burning_wish"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["umbral_moonglaives"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["specter_of_betrayal"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["draught_of_souls"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["faulty_countermeasure"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+				["vial_of_ceaseless_toxins"] = {
+					["minimum"] = 1,
+					["disabled"] = false,
+					["maximum"] = 0,
+				},
+			},
 			["Class Option: purify_extreme"] = 20,
 			["MinimapIcon"] = true,
 		},

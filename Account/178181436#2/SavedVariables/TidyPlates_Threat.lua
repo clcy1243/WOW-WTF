@@ -4,10 +4,10 @@ TidyPlatesThreatDB = {
 		["锦在天堂 - 太阳之井"] = {
 			["welcome"] = true,
 			["specInfo"] = {
-				["id"] = 250,
-				["role"] = "TANK",
-				["name"] = "鲜血",
-				["index"] = 1,
+				["id"] = 252,
+				["role"] = "DAMAGER",
+				["name"] = "邪恶",
+				["index"] = 3,
 			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
@@ -28,7 +28,7 @@ TidyPlatesThreatDB = {
 		["Default"] = {
 			["nameplate"] = {
 				["toggle"] = {
-					["Totem"] = false,
+					["Totem"] = true,
 				},
 			},
 			["uniqueSettings"] = {

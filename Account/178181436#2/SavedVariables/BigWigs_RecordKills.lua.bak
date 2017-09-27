@@ -9,8 +9,8 @@ RKDatabase = {
 	["profiles"] = {
 		["Default"] = {
 			["firstLoad"] = false,
-			["diffShown"] = 7,
-			["prevDiffShown"] = 7,
+			["diffShown"] = 14,
+			["prevDiffShown"] = 14,
 		},
 	},
 }

@@ -5,8 +5,8 @@ Omen3DB = {
 	},
 	["profiles"] = {
 		["雪丶小喵 - 太阳之井"] = {
-			["PositionY"] = 639,
 			["Shown"] = false,
+			["PositionY"] = 639,
 			["PositionX"] = 847.5,
 		},
 	},

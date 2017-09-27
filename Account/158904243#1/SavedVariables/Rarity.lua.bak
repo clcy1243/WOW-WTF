@@ -7,7 +7,7 @@ RarityDB = {
 		["Default"] = {
 			["groups"] = {
 				["pets"] = {
-					["Red Helper Box"] = {
+					["Imbued Jade Fragment"] = {
 						["enabled"] = false,
 						["found"] = true,
 					},
@@ -46,6 +46,9 @@ RarityDB = {
 					["Wriggling Darkness"] = {
 						["attempts"] = 23,
 					},
+					["Son of Animus"] = {
+						["attempts"] = 12,
+					},
 					["Zandalari Toenibbler"] = {
 						["enabled"] = false,
 						["found"] = true,
@@ -58,15 +61,15 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
+					["Porcupette"] = {
+						["enabled"] = false,
+						["found"] = true,
+					},
 					["Gahz'rooki's Summoning Stone"] = {
 						["enabled"] = false,
 						["found"] = true,
 					},
 					["Snowman Kit"] = {
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Imbued Jade Fragment"] = {
 						["enabled"] = false,
 						["found"] = true,
 					},
@@ -78,29 +81,29 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Living Sandling"] = {
-						["attempts"] = 2,
-					},
-					["Ominous Pile of Snow"] = {
-						["attempts"] = 15,
-					},
 					["Blessed Seed"] = {
 						["attempts"] = 13,
 					},
-					["Quivering Blob"] = {
-						["attempts"] = 5,
+					["Savage Cub"] = {
+						["lastAttempts"] = 0,
+						["dates"] = {
+							[20161205] = {
+								["attempts"] = 1,
+							},
+						},
+						["attempts"] = 333,
 					},
-					["Green Helper Box"] = {
-						["enabled"] = false,
-						["found"] = true,
+					["Living Sandling"] = {
+						["attempts"] = 2,
 					},
 					["Ji-Kun Hatchling"] = {
 						["attempts"] = 11,
 					},
-					["Overcomplicated Controller"] = {
-						["attempts"] = 13,
+					["Red Helper Box"] = {
+						["enabled"] = false,
+						["found"] = true,
 					},
-					["Porcupette"] = {
+					["Green Helper Box"] = {
 						["enabled"] = false,
 						["found"] = true,
 					},
@@ -108,21 +111,12 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
+					["Ominous Pile of Snow"] = {
+						["attempts"] = 15,
+					},
 					["Zandalari Anklerender"] = {
 						["enabled"] = false,
 						["found"] = true,
-					},
-					["Savage Cub"] = {
-						["lastAttempts"] = 0,
-						["attempts"] = 333,
-						["dates"] = {
-							[20161205] = {
-								["attempts"] = 1,
-							},
-						},
-						["session"] = {
-							["attempts"] = 1,
-						},
 					},
 					["Remains of a Blood Beast"] = {
 						["attempts"] = 54,
@@ -130,8 +124,11 @@ RarityDB = {
 					["Pygmy Direhorn"] = {
 						["attempts"] = 17,
 					},
-					["Son of Animus"] = {
-						["attempts"] = 12,
+					["Quivering Blob"] = {
+						["attempts"] = 5,
+					},
+					["Overcomplicated Controller"] = {
+						["attempts"] = 13,
 					},
 				},
 				["mounts"] = {
@@ -141,8 +138,8 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Ashes of Al'ar"] = {
-						["known"] = true,
 						["enabled"] = false,
+						["known"] = true,
 						["found"] = true,
 					},
 					["Reins of the Azure Drake"] = {
@@ -157,12 +154,20 @@ RarityDB = {
 					},
 					["Invincible's Reins"] = {
 						["known"] = true,
-						["found"] = true,
 						["enabled"] = false,
+						["found"] = true,
 					},
 					["Riding Turtle"] = {
 						["enabled"] = false,
 						["known"] = true,
+						["found"] = true,
+					},
+					["Reins of the Drake of the South Wind"] = {
+						["attempts"] = 11,
+					},
+					["Experiment 12-B"] = {
+						["known"] = true,
+						["enabled"] = false,
 						["found"] = true,
 					},
 					["Son of Galleon's Saddle"] = {
@@ -178,8 +183,8 @@ RarityDB = {
 					},
 					["Sea Turtle"] = {
 						["enabled"] = false,
-						["found"] = true,
 						["known"] = true,
+						["found"] = true,
 					},
 					["Reins of the Thundering Cobalt Cloud Serpent"] = {
 						["attempts"] = 12,
@@ -196,18 +201,13 @@ RarityDB = {
 					},
 					["Reins of the Blue Proto-Drake"] = {
 						["known"] = true,
-						["found"] = true,
 						["enabled"] = false,
+						["found"] = true,
 					},
 					["Reins of the Cobalt Primordial Direhorn"] = {
 						["attempts"] = 6,
 					},
 					["Reins of the Bone-White Primal Raptor"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Garn Nighthowl"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -223,16 +223,13 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Bristling Hellboar"] = {
+						["lastAttempts"] = 0,
 						["dates"] = {
 							[20161205] = {
 								["attempts"] = 1,
 							},
 						},
 						["attempts"] = 333,
-						["lastAttempts"] = 0,
-						["session"] = {
-							["attempts"] = 1,
-						},
 					},
 					["Wild Goretusk"] = {
 						["enabled"] = false,
@@ -247,25 +244,15 @@ RarityDB = {
 					["Reins of the Heavenly Onyx Cloud Serpent"] = {
 						["attempts"] = 15,
 					},
+					["Deathcharger's Reins"] = {
+						["attempts"] = 12,
+					},
 					["Life-Binder's Handmaiden"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Reins of the Grand Black War Mammoth Horde"] = {
-						["attempts"] = 80,
-					},
 					["Mimiron's Head"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Reins of the Raven Lord"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
-					["Experiment 12-B"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
@@ -275,29 +262,36 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Reins of the Drake of the South Wind"] = {
-						["attempts"] = 11,
-					},
-					["Reins of the Astral Cloud Serpent"] = {
-						["attempts"] = 38,
+					["Garn Nighthowl"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
 					["Reins of the Blue Drake"] = {
 						["known"] = true,
-						["found"] = true,
 						["enabled"] = false,
+						["found"] = true,
 					},
 					["Clutch of Ji-Kun"] = {
 						["attempts"] = 10,
 					},
-					["Armored Razorback"] = {
+					["Reins of the Raven Lord"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Reins of the Astral Cloud Serpent"] = {
+						["attempts"] = 39,
+					},
+					["Reins of the Grand Black War Mammoth Horde"] = {
+						["attempts"] = 80,
+					},
+					["Reins of the Blazing Drake"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Deathcharger's Reins"] = {
-						["attempts"] = 12,
-					},
-					["Reins of the Blazing Drake"] = {
+					["Armored Razorback"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
@@ -309,12 +303,12 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Orb of the Sin'dorei"] = {
+					["Crashin' Thrashin' Cannon Controller"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Unusual Compass"] = {
+					["Orb of the Sin'dorei"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -324,7 +318,7 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Crashin' Thrashin' Cannon Controller"] = {
+					["Unusual Compass"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -567,7 +561,7 @@ RarityDB = {
 				[485] = "诺森德",
 				[1105] = "血色修道院",
 				[970] = "塔纳安丛林",
-				[1099] = "黑鸦堡垒",
+				[443] = "战歌峡谷",
 				[1097] = "青龙寺",
 				[1091] = "埃索达",
 				[486] = "北风苔原",
@@ -579,51 +573,51 @@ RarityDB = {
 				[717] = "安其拉废墟",
 				[1085] = "黑暗神殿",
 				[973] = "坠落之月",
-				[1084] = "薄暮岛礁",
-				[718] = "奥妮克希亚的巢穴",
 				[1082] = "乌索克之巢",
-				[974] = "坠落之月",
+				[718] = "奥妮克希亚的巢穴",
 				[1081] = "黑鸦堡垒",
-				[1080] = "雷霆图腾",
+				[974] = "坠落之月",
 				[1079] = "魔法回廊",
-				[488] = "龙骨荒野",
-				[1078] = "尼斯卡拉",
-				[720] = "奥丹姆",
+				[1080] = "雷霆图腾",
 				[1077] = "梦境林地",
-				[976] = "霜寒晶壁",
+				[488] = "龙骨荒野",
 				[1076] = "奥杜尔",
-				[721] = "黑石塔",
+				[720] = "奥丹姆",
 				[1073] = "影血堡垒",
+				[976] = "霜寒晶壁",
 				[1070] = "旋云之巅",
+				[721] = "黑石塔",
 				[1068] = "守护者圣殿",
+				[463] = "幽魂之地",
+				[1065] = "奈萨里奥的巢穴",
 				[722] = "奥金尼地穴",
 				[1066] = "紫罗兰监狱",
 				[978] = "阿什兰",
-				[1065] = "奈萨里奥的巢穴",
+				[1060] = "深岩之洲",
 				[723] = "塞泰克大厅",
 				[851] = "尘泥沼泽",
 				[490] = "灰熊丘陵",
-				[1062] = "提瑞斯法林地",
+				[684] = "吉尔尼斯废墟",
 				[724] = "暗影迷宫",
-				[1060] = "深岩之洲",
+				[726] = "幽暗沼泽",
 				[980] = "霜寒晶壁",
 				[1058] = "昆莱山",
 				[725] = "鲜血熔炉",
-				[1056] = "大漩涡",
+				[1007] = "破碎群岛",
 				[491] = "嚎风峡湾",
 				[1054] = "紫罗兰监狱",
-				[726] = "幽暗沼泽",
-				[1052] = "破碎深渊马顿",
+				[182] = "费伍德森林",
+				[341] = "铁炉堡",
 				[982] = "霜寒晶壁",
 				[1051] = "恐痕裂隙",
 				[727] = "蒸汽地窟",
 				[1050] = "恐痕裂隙",
 				[492] = "冰冠冰川",
-				[1049] = "天空之墙",
+				[1048] = "翡翠梦境之路",
 				[728] = "奴隶围栏",
 				[856] = "寇魔古寺",
 				[984] = "奥金顿",
-				[601] = "灵魂洪炉",
+				[301] = "暴风城",
 				[729] = "生态船",
 				[857] = "卡桑琅丛林",
 				[493] = "索拉查盆地",
@@ -633,9 +627,9 @@ RarityDB = {
 				[986] = "沙塔斯城",
 				[603] = "映像大厅",
 				[731] = "禁魔监狱",
-				[1048] = "翡翠梦境之路",
-				[987] = "钢铁码头",
 				[604] = "冰冠堡垒",
+				[987] = "钢铁码头",
+				[38] = "悲伤沼泽",
 				[732] = "法力陵墓",
 				[860] = "碎银矿脉",
 				[988] = "黑石铸造厂",
@@ -676,11 +670,11 @@ RarityDB = {
 				[540] = "征服之岛",
 				[499] = "奎尔丹纳斯岛",
 				[614] = "无底海渊",
-				[443] = "战歌峡谷",
+				[1099] = "黑鸦堡垒",
 				[362] = "雷霆崖",
 				[181] = "艾萨拉",
 				[615] = "烁光海床",
-				[1007] = "破碎群岛",
+				[1056] = "大漩涡",
 				[871] = "血色大厅",
 				[991] = "坠落之月",
 				[989] = "通天峰",
@@ -710,16 +704,16 @@ RarityDB = {
 				[261] = "希利苏斯",
 				[750] = "玛拉顿",
 				[878] = "酝酿风暴",
-				[341] = "铁炉堡",
-				[933] = "雷神岛",
+				[601] = "灵魂洪炉",
+				[1049] = "天空之墙",
 				[751] = "大漩涡",
-				[684] = "吉尔尼斯废墟",
+				[933] = "雷神岛",
 				[504] = "达拉然",
-				[38] = "悲伤沼泽",
+				[1052] = "破碎深渊马顿",
 				[752] = "巴拉丁监狱",
 				[880] = "翡翠林",
 				[1008] = "永茂林地",
-				[463] = "幽魂之地",
+				[1062] = "提瑞斯法林地",
 				[753] = "黑石岩窟",
 				[881] = "寇魔古寺",
 				[1009] = "暴风之盾",
@@ -727,11 +721,11 @@ RarityDB = {
 				[754] = "黑翼血环",
 				[882] = "盎迦猴岛",
 				[1010] = "希尔斯布莱德丘陵",
-				[182] = "费伍德森林",
+				[1078] = "尼斯卡拉",
 				[755] = "黑翼之巢",
 				[883] = "突袭扎尼维斯",
 				[1011] = "战争之矛",
-				[301] = "暴风城",
+				[1084] = "薄暮岛礁",
 				[756] = "死亡矿井",
 				[884] = "酿月祭",
 				[381] = "达纳苏斯",
@@ -802,17 +796,17 @@ RarityDB = {
 						[4664] = 13,
 						[8172] = 0,
 						[2864] = 1,
-						[6797] = 29,
+						[6797] = 30,
 						[8625] = 0,
 						[8153] = 2,
 						[2865] = 1,
-						[4074] = 10,
 						[8620] = 0,
 						[8627] = 0,
 						[4687] = 9,
+						[4074] = 10,
 						[7923] = 4,
 						[4688] = 17,
-						[7924] = 2,
+						[8178] = 5,
 						[4686] = 1,
 						[8179] = 3,
 						[5576] = 11,
@@ -823,7 +817,7 @@ RarityDB = {
 						[8182] = 5,
 						[2869] = 1,
 						[8183] = 4,
-						[8178] = 5,
+						[7924] = 2,
 						[8184] = 4,
 						[2870] = 3,
 						[8185] = 4,
@@ -835,7 +829,8 @@ RarityDB = {
 					["server"] = "太阳之井",
 				},
 			},
-			["trackedItem"] = 142095,
+			["trackedGroup"] = "mounts",
+			["trackedItem"] = 87777,
 		},
 	},
 }

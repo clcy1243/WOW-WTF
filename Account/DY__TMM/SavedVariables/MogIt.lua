@@ -1,13 +1,15 @@
 
 MogItDB = {
 	["profileKeys"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = "Default",
+		["Justpalymage - 太阳之井"] = "Default",
 		["Etaasdfafa - 瓦拉斯塔兹"] = "Default",
 		["倾城丨小贼 - 摩摩尔"] = "Default",
+		["国王走下神探 - 瓦拉斯塔兹"] = "Default",
+		["Willam - 能源舰"] = "Default",
 		["募落葒顔 - 太阳之井"] = "Default",
 	},
 	["global"] = {
-		["version"] = "3.8.1",
+		["version"] = "3.8.2",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -27,6 +29,7 @@ MogItDB = {
 			["x"] = 56.2500305175781,
 			["slotLabels"] = {
 				["Waist"] = "腰部",
+				["Fist"] = "拳套",
 				["Tabard"] = "战袍",
 				["Legs"] = "腿部",
 				["Back"] = "背部",
@@ -35,12 +38,19 @@ MogItDB = {
 				["Hands"] = "手",
 				["Wrist"] = "腕部",
 				["1H-sword"] = "单手剑",
+				["2H-sword"] = "双手剑",
+				["2H-axe"] = "双手斧",
 				["1H-mace"] = "单手锤",
 				["Head"] = "头部",
 				["Holdable"] = "副手物品",
+				["Crossbow"] = "弩",
 				["Feet"] = "脚",
 				["Chest"] = "胸部",
+				["Gun"] = "枪械",
 				["Staff"] = "法杖",
+				["Polearm"] = "长柄武器",
+				["Bow"] = "弓",
+				["1H-axe"] = "单手斧",
 				["Shoulder"] = "肩部",
 				["Wand"] = "魔杖",
 			},
@@ -55,20 +65,26 @@ MogItDB = {
 }
 MogItWishlist = {
 	["global"] = {
-		["version"] = 70200,
+		["version"] = 70300,
 	},
 	["profileKeys"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
+		["Justpalymage - 太阳之井"] = "Justpalymage - 太阳之井",
 		["Etaasdfafa - 瓦拉斯塔兹"] = "Etaasdfafa - 瓦拉斯塔兹",
 		["倾城丨小贼 - 摩摩尔"] = "倾城丨小贼 - 摩摩尔",
+		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
+		["Willam - 能源舰"] = "Willam - 能源舰",
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
 	},
 	["profiles"] = {
-		["国王走下神探 - 瓦拉斯塔兹"] = {
+		["Justpalymage - 太阳之井"] = {
 		},
 		["Etaasdfafa - 瓦拉斯塔兹"] = {
 		},
 		["倾城丨小贼 - 摩摩尔"] = {
+		},
+		["国王走下神探 - 瓦拉斯塔兹"] = {
+		},
+		["Willam - 能源舰"] = {
 		},
 		["募落葒顔 - 太阳之井"] = {
 		},

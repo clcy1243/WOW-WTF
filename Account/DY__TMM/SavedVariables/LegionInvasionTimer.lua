@@ -23,7 +23,7 @@ legionTimerDB = {
 	["timeText"] = true,
 	["font"] = "默认",
 	["alignZone"] = "LEFT",
-	["prev"] = 1503554410,
+	["prev"] = 1506085203,
 	["height"] = 20,
 	["colorText"] = {
 		1, -- [1]

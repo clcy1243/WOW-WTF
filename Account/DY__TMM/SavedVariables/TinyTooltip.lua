@@ -44,18 +44,18 @@ BigTipDB = {
 		["statusbarPosition"] = "bottom",
 		["statusbarOffsetX"] = 0,
 		["bodyFontSize"] = "default",
-		["skinMoreFrames"] = true,
-		["statusbarOffsetY"] = 0,
-		["borderCorner"] = "default",
-		["statusbarFontFlag"] = "THINOUTLINE",
-		["alwaysShowIdInfo"] = true,
-		["statusbarText"] = false,
 		["statusbarHeight"] = 4,
-		["headerFontFlag"] = "default",
-		["headerFontSize"] = "default",
-		["statusbarColor"] = "auto",
-		["bodyFont"] = "default",
 		["bodyFontFlag"] = "default",
+		["statusbarOffsetY"] = 0,
+		["bodyFont"] = "default",
+		["alwaysShowIdInfo"] = true,
+		["headerFontSize"] = "default",
+		["skinMoreFrames"] = true,
+		["headerFontFlag"] = "default",
+		["statusbarText"] = false,
+		["statusbarColor"] = "auto",
+		["statusbarFontFlag"] = "THINOUTLINE",
+		["borderCorner"] = "default",
 	},
 	["version"] = 2,
 	["item"] = {
@@ -97,6 +97,9 @@ BigTipDB = {
 					"role", -- [7]
 					"moveSpeed", -- [8]
 				}, -- [3]
+				{
+					"zone", -- [1]
+				}, -- [4]
 				["guildRank"] = {
 					["enable"] = true,
 					["color"] = "cc88ff",
@@ -113,6 +116,12 @@ BigTipDB = {
 					["enable"] = true,
 					["color"] = "cc88ff",
 					["wildcard"] = "(%s",
+					["filter"] = "none",
+				},
+				["zone"] = {
+					["enable"] = true,
+					["color"] = "ffffff",
+					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
 				["statusDC"] = {
@@ -205,8 +214,10 @@ BigTipDB = {
 					["wildcard"] = "<%s>",
 					["filter"] = "none",
 				},
-				["factionIcon"] = {
+				["className"] = {
 					["enable"] = true,
+					["color"] = "ffffff",
+					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
 				["name"] = {
@@ -215,10 +226,8 @@ BigTipDB = {
 					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
-				["className"] = {
+				["factionIcon"] = {
 					["enable"] = true,
-					["color"] = "ffffff",
-					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
 				["classIcon"] = {
@@ -244,7 +253,6 @@ BigTipDB = {
 			["grayForDead"] = false,
 		},
 		["npc"] = {
-			["coloredBorder"] = "reaction",
 			["elements"] = {
 				{
 					"raidIcon", -- [1]
@@ -328,7 +336,7 @@ BigTipDB = {
 					["filter"] = "none",
 				},
 			},
-			["showTarget"] = true,
+			["coloredBorder"] = "reaction",
 			["anchor"] = {
 				["returnOnUnitFrame"] = false,
 				["position"] = "inherit",
@@ -336,6 +344,7 @@ BigTipDB = {
 				["p"] = "BOTTOMRIGHT",
 				["returnInCombat"] = true,
 			},
+			["showTarget"] = true,
 			["background"] = {
 				["colorfunc"] = "default",
 				["alpha"] = 0.9,

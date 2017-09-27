@@ -1,10 +1,11 @@
 
 MogItDB = {
+	["global"] = {
+		["version"] = "3.8.2",
+	},
 	["profileKeys"] = {
 		["雪丶小喵 - 太阳之井"] = "Default",
-	},
-	["global"] = {
-		["version"] = "r678",
+		["有隻大白兎丶 - 能源舰"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -26,25 +27,27 @@ MogItDB = {
 				["Holdable"] = "副手物品",
 				["Feet"] = "脚",
 				["Chest"] = "胸部",
-				["1H-sword"] = "单手剑",
+				["Shield"] = "盾牌",
 				["1H-axe"] = "单手斧",
 				["Shoulder"] = "肩部",
-				["Shield"] = "盾牌",
+				["1H-sword"] = "单手剑",
 			},
 			["y"] = 0,
 		},
 	},
 }
-MogItItemDB = nil
 MogItWishlist = {
-	["global"] = {
-		["version"] = 70100,
-	},
 	["profileKeys"] = {
 		["雪丶小喵 - 太阳之井"] = "雪丶小喵 - 太阳之井",
+		["有隻大白兎丶 - 能源舰"] = "有隻大白兎丶 - 能源舰",
+	},
+	["global"] = {
+		["version"] = 70300,
 	},
 	["profiles"] = {
 		["雪丶小喵 - 太阳之井"] = {
+		},
+		["有隻大白兎丶 - 能源舰"] = {
 		},
 	},
 }

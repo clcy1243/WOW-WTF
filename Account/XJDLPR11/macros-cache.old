@@ -1,6 +1,11 @@
 VER 3 0000000000000005 "DS" "SPELL_SHADOW_ANTIMAGICSHELL"
 /click ExtraActionButton1
 END
+VER 3 0000000000000008 "tar" "INV_MISC_QUESTIONMARK"
+/tar Et
+/startattack
+/run local _,_,_,c, d = GetAchievementCriteriaInfo(11153,1) local _,_,_,e, f = GetAchievementCriteriaInfo(11154,1) print("WQs: "..c.."/"..d) print("Kills: "..e.."/"..f)
+END
 VER 3 0000000000000007 "焦点" "INV_MISC_QUESTIONMARK"
 /clearfocus
 /focus

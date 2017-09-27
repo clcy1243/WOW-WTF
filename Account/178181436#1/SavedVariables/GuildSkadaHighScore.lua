@@ -14826,9 +14826,9 @@ GuildSkadaHighScoreDB = {
 							["name"] = "伊蓮娜乂星塵",
 							["class"] = "PALADIN",
 						},
-						["Player-861-04864DA9"] = {
-							["name"] = "孤城凉梦丶",
-							["class"] = "MAGE",
+						["Player-861-0468EEF7"] = {
+							["name"] = "指尖轩捷",
+							["class"] = "WARLOCK",
 						},
 						["Creature-0-3042-1520-2455-104096-00025FC090"] = {
 							["name"] = "坎德拉丶血誓",
@@ -14842,9 +14842,9 @@ GuildSkadaHighScoreDB = {
 							["name"] = "龙听雨",
 							["class"] = "MONK",
 						},
-						["Player-861-0468EEF7"] = {
-							["name"] = "指尖轩捷",
-							["class"] = "WARLOCK",
+						["Player-861-04864DA9"] = {
+							["name"] = "孤城凉梦丶",
+							["class"] = "MAGE",
 						},
 						["Player-861-048B50B3"] = {
 							["name"] = "徵羽",
@@ -14866,21 +14866,21 @@ GuildSkadaHighScoreDB = {
 							["name"] = "孤独武者",
 							["class"] = "DEATHKNIGHT",
 						},
-						["Player-861-04BAC3EC"] = {
-							["name"] = "轩辕神剑",
-							["class"] = "PALADIN",
+						["Creature-0-3042-1520-2455-104096-00015FC0CD"] = {
+							["name"] = "龙听雨",
+							["class"] = "MONK",
 						},
-						["Player-861-04B46E35"] = {
-							["name"] = "桥丶",
-							["class"] = "WARLOCK",
+						["Player-861-04B44C7F"] = {
+							["name"] = "李嘉橙",
+							["class"] = "DEMONHUNTER",
 						},
 						["Player-861-049CBFCB"] = {
 							["name"] = "坎德拉丶血誓",
 							["class"] = "DEATHKNIGHT",
 						},
-						["Creature-0-3042-1520-2455-104096-00015FC0CD"] = {
-							["name"] = "龙听雨",
-							["class"] = "MONK",
+						["Player-861-04BAC3EC"] = {
+							["name"] = "轩辕神剑",
+							["class"] = "PALADIN",
 						},
 						["Player-861-04AD4C7B"] = {
 							["name"] = "耐夜狠寂寞",
@@ -14942,17 +14942,17 @@ GuildSkadaHighScoreDB = {
 							["name"] = "凌菱弯弓射日",
 							["class"] = "HUNTER",
 						},
-						["Player-861-017FEA3B"] = {
-							["name"] = "一兽一兽一",
-							["class"] = "WARRIOR",
+						["Player-861-04B46E35"] = {
+							["name"] = "桥丶",
+							["class"] = "WARLOCK",
 						},
 						["Player-861-01D5747B"] = {
 							["name"] = "圊春的誓誩丶",
 							["class"] = "WARRIOR",
 						},
-						["Player-861-046E6239"] = {
-							["name"] = "划船不拿桨",
-							["class"] = "DEMONHUNTER",
+						["Player-861-017FEA3B"] = {
+							["name"] = "一兽一兽一",
+							["class"] = "WARRIOR",
 						},
 						["Player-861-049C6A32"] = {
 							["name"] = "丨三千院凪丨",
@@ -14962,8 +14962,8 @@ GuildSkadaHighScoreDB = {
 							["name"] = "疯子的迷恋",
 							["class"] = "DRUID",
 						},
-						["Player-861-04B44C7F"] = {
-							["name"] = "李嘉橙",
+						["Player-861-046E6239"] = {
+							["name"] = "划船不拿桨",
 							["class"] = "DEMONHUNTER",
 						},
 						["Player-861-01124664"] = {
@@ -15820,21 +15820,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 272,
 						},
-						["55-201-38c"] = {
-							["encounterId"] = 1867,
+						["2f2-3d8-3d7"] = {
+							["encounterId"] = 1866,
 							["zoneId"] = 1530,
 							["guildName"] = "Starry Night",
-							["startTime"] = 1491295598,
+							["startTime"] = 1490889343,
 							["difficultyId"] = 15,
-							["duration"] = 284,
-						},
-						["4-3c1-1f3"] = {
-							["encounterId"] = 1867,
-							["zoneId"] = 1530,
-							["guildName"] = "Starry Night",
-							["startTime"] = 1492182219,
-							["duration"] = 264,
-							["difficultyId"] = 16,
+							["duration"] = 513,
 						},
 						["69-3c4-336"] = {
 							["encounterId"] = 1872,
@@ -15843,6 +15835,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1491301898,
 							["duration"] = 342,
 							["difficultyId"] = 15,
+						},
+						["4-3c1-1f3"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
+							["guildName"] = "Starry Night",
+							["startTime"] = 1492182219,
+							["duration"] = 264,
+							["difficultyId"] = 16,
 						},
 						["80-26b-160"] = {
 							["encounterId"] = 1849,
@@ -16012,13 +16012,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 133,
 						},
-						["2f2-3d8-3d7"] = {
-							["encounterId"] = 1866,
+						["55-201-38c"] = {
+							["encounterId"] = 1867,
 							["zoneId"] = 1530,
 							["guildName"] = "Starry Night",
-							["startTime"] = 1490889343,
+							["startTime"] = 1491295598,
 							["difficultyId"] = 15,
-							["duration"] = 513,
+							["duration"] = 284,
 						},
 						["38f-4f-3d6"] = {
 							["encounterId"] = 1886,
@@ -44642,6 +44642,86 @@ GuildSkadaHighScoreDB = {
 															["healing"] = 96921909,
 															["groupParseId"] = "2f6-bb-167",
 														}, -- [393]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 928,
+															["specName"] = "守护",
+															["groupParseId"] = "12-4f-333",
+															["damage"] = 100578020,
+														}, -- [394]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "浩劫",
+															["groupParseId"] = "12-4f-333",
+															["damage"] = 199496933,
+														}, -- [395]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "HEALER",
+															["itemLevel"] = 931,
+															["specName"] = "神圣",
+															["healing"] = 203296017,
+															["groupParseId"] = "12-4f-333",
+														}, -- [396]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "12-4f-333",
+															["damage"] = 323126528,
+														}, -- [397]
+														{
+															["playerId"] = "Player-1955-00F38E1C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 882,
+															["specName"] = "火焰",
+															["groupParseId"] = "12-4f-333",
+															["damage"] = 63845743,
+														}, -- [398]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "元素",
+															["groupParseId"] = "12-4f-333",
+															["damage"] = 213679971,
+														}, -- [399]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "武器",
+															["groupParseId"] = "12-4f-333",
+															["damage"] = 232110934,
+														}, -- [400]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 149439172,
+															["groupParseId"] = "12-4f-333",
+														}, -- [401]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "惩戒",
+															["groupParseId"] = "12-4f-333",
+															["damage"] = 202360711,
+														}, -- [402]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "12-4f-333",
+															["damage"] = 371235984,
+														}, -- [403]
 													},
 												},
 												[1863] = {
@@ -57706,6 +57786,86 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "b2-29b-1bf",
 															["damage"] = 214461606,
 														}, -- [360]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1c8-98-135",
+															["damage"] = 251944219,
+														}, -- [361]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 928,
+															["specName"] = "守护",
+															["groupParseId"] = "1c8-98-135",
+															["damage"] = 45508229,
+														}, -- [362]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1c8-98-135",
+															["damage"] = 185892696,
+														}, -- [363]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "1c8-98-135",
+															["damage"] = 85384211,
+														}, -- [364]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "惩戒",
+															["groupParseId"] = "1c8-98-135",
+															["damage"] = 136332524,
+														}, -- [365]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1c8-98-135",
+															["damage"] = 126828712,
+														}, -- [366]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 177163478,
+															["groupParseId"] = "1c8-98-135",
+														}, -- [367]
+														{
+															["playerId"] = "Player-1955-00F38E1C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 882,
+															["specName"] = "火焰",
+															["groupParseId"] = "1c8-98-135",
+															["damage"] = 41181617,
+														}, -- [368]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "元素",
+															["groupParseId"] = "1c8-98-135",
+															["damage"] = 131455653,
+														}, -- [369]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "武器",
+															["groupParseId"] = "1c8-98-135",
+															["damage"] = 176681729,
+														}, -- [370]
 													},
 												},
 												[1871] = {
@@ -60453,6 +60613,22 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "80-17f-254",
 															["damage"] = 22802301,
 														}, -- [5]
+														{
+															["playerId"] = "Player-1955-01C5F28F",
+															["role"] = "TANK",
+															["itemLevel"] = 908,
+															["specName"] = "复仇",
+															["groupParseId"] = "194-1aa-1f9",
+															["damage"] = 44993720,
+														}, -- [6]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 939,
+															["specName"] = "恢复",
+															["healing"] = 16323358,
+															["groupParseId"] = "1ba-a4-181",
+														}, -- [7]
 													},
 												},
 												[1865] = {
@@ -60572,6 +60748,22 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "2c5-27-324",
 															["damage"] = 15628634,
 														}, -- [5]
+														{
+															["playerId"] = "Player-1955-01C5F28F",
+															["role"] = "TANK",
+															["itemLevel"] = 908,
+															["specName"] = "复仇",
+															["groupParseId"] = "1b7-2a0-199",
+															["damage"] = 99175518,
+														}, -- [6]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 939,
+															["specName"] = "恢复",
+															["healing"] = 15331861,
+															["groupParseId"] = "1e2-de-25c",
+														}, -- [7]
 													},
 												},
 												[1866] = {
@@ -60600,6 +60792,14 @@ GuildSkadaHighScoreDB = {
 															["healing"] = 95835007,
 															["groupParseId"] = "230-3d7-3aa",
 														}, -- [3]
+														{
+															["playerId"] = "Player-1955-01C5F28F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "浩劫",
+															["groupParseId"] = "3e7-177-10",
+															["damage"] = 146535444,
+														}, -- [4]
 													},
 												},
 												[1863] = {
@@ -60900,6 +61100,22 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "2c2-da-2e0",
 															["damage"] = 35489467,
 														}, -- [5]
+														{
+															["playerId"] = "Player-1955-01C5F28F",
+															["role"] = "TANK",
+															["itemLevel"] = 908,
+															["specName"] = "复仇",
+															["groupParseId"] = "142-1e4-174",
+															["damage"] = 44551548,
+														}, -- [6]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 930,
+															["specName"] = "野性",
+															["healing"] = 1697000,
+															["groupParseId"] = "2b7-70-1dc",
+														}, -- [7]
 													},
 												},
 												[1871] = {
@@ -63310,6 +63526,46 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "2fc-95-25f",
 															["damage"] = 12495669,
 														}, -- [1]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 922,
+															["specName"] = "守护",
+															["groupParseId"] = "a3-16e-4f",
+															["damage"] = 43417029,
+														}, -- [2]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "a3-16e-4f",
+															["damage"] = 100996322,
+														}, -- [3]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "增强",
+															["groupParseId"] = "a3-16e-4f",
+															["damage"] = 72254275,
+														}, -- [4]
+														{
+															["playerId"] = "Player-1955-01AE27C2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 900,
+															["specName"] = "浩劫",
+															["groupParseId"] = "a3-16e-4f",
+															["damage"] = 99818776,
+														}, -- [5]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 44322318,
+															["groupParseId"] = "a3-16e-4f",
+														}, -- [6]
 													},
 												},
 												[1853] = {
@@ -63334,6 +63590,46 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "37f-6b-163",
 															["damage"] = 26582058,
 														}, -- [1]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 922,
+															["specName"] = "守护",
+															["groupParseId"] = "3d5-3bd-2a5",
+															["damage"] = 55108201,
+														}, -- [2]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "增强",
+															["groupParseId"] = "3d5-3bd-2a5",
+															["damage"] = 160142799,
+														}, -- [3]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "3d5-3bd-2a5",
+															["damage"] = 144258623,
+														}, -- [4]
+														{
+															["playerId"] = "Player-1955-01AE27C2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 900,
+															["specName"] = "浩劫",
+															["groupParseId"] = "3d5-3bd-2a5",
+															["damage"] = 153514108,
+														}, -- [5]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 48655864,
+															["groupParseId"] = "3d5-3bd-2a5",
+														}, -- [6]
 													},
 												},
 												[1854] = {
@@ -70387,6 +70683,284 @@ GuildSkadaHighScoreDB = {
 															["healing"] = 37463265,
 															["groupParseId"] = "ae-238-2c5",
 														}, -- [75]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "平衡",
+															["groupParseId"] = "325-118-58",
+															["damage"] = 139444271,
+														}, -- [76]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "325-118-58",
+															["damage"] = 108321258,
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "325-118-58",
+															["damage"] = 209337569,
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "325-118-58",
+															["damage"] = 248148879,
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "增强",
+															["groupParseId"] = "325-118-58",
+															["damage"] = 220550198,
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "325-118-58",
+															["damage"] = 239692469,
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 918,
+															["specName"] = "守护",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 92724062,
+														}, -- [82]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "毁灭",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 301579321,
+														}, -- [83]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 926,
+															["specName"] = "神圣",
+															["healing"] = 116596899,
+															["groupParseId"] = "be-167-131",
+														}, -- [84]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "暗影",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 243204289,
+														}, -- [85]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "狂怒",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 406452015,
+														}, -- [86]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 893,
+															["specName"] = "浩劫",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 158202263,
+														}, -- [87]
+														{
+															["playerId"] = "Player-1955-0126EBB9",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 908,
+															["specName"] = "惩戒",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 203819889,
+														}, -- [88]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "火焰",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 221903299,
+														}, -- [89]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 318529339,
+														}, -- [90]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032A3F1",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 0,
+														}, -- [91]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132A3F1",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 0,
+														}, -- [92]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2A3F1",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 0,
+														}, -- [93]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132A47A",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 0,
+														}, -- [94]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2A47A",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 0,
+														}, -- [95]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032A47A",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 0,
+														}, -- [96]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2A4F3",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 0,
+														}, -- [97]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032A4F3",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 0,
+														}, -- [98]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132A4F3",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "be-167-131",
+															["damage"] = 0,
+														}, -- [99]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 240646675,
+														}, -- [100]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "火焰",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 208407180,
+														}, -- [101]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 932,
+															["specName"] = "恢复",
+															["healing"] = 88089867,
+															["groupParseId"] = "19b-17-285",
+														}, -- [102]
+														{
+															["playerId"] = "Player-1955-01CF94BC",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "惩戒",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 92132704,
+														}, -- [103]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 933,
+															["specName"] = "毁灭",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 214338589,
+														}, -- [104]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 230849637,
+														}, -- [105]
+														{
+															["playerId"] = "Player-1955-01D26476",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 148906061,
+														}, -- [106]
+														{
+															["playerId"] = "Player-1955-01AC72F7",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 111538754,
+														}, -- [107]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 246562654,
+														}, -- [108]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "浩劫",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 159947060,
+														}, -- [109]
+														{
+															["playerId"] = "Player-1955-00F38E1C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 882,
+															["specName"] = "火焰",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 56575190,
+														}, -- [110]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 259022425,
+														}, -- [111]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 933,
+															["specName"] = "防护",
+															["groupParseId"] = "19b-17-285",
+															["damage"] = 129244982,
+														}, -- [112]
 													},
 												},
 												[2050] = {
@@ -70846,6 +71420,256 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "209-2bb-62",
 															["damage"] = 177357158,
 														}, -- [57]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "1fa-192-1d7",
+															["damage"] = 83796655,
+														}, -- [58]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "1fa-192-1d7",
+															["damage"] = 160527062,
+														}, -- [59]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "1fa-192-1d7",
+															["damage"] = 167608735,
+														}, -- [60]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1fa-192-1d7",
+															["damage"] = 167068970,
+														}, -- [61]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 80243058,
+															["groupParseId"] = "1fa-192-1d7",
+														}, -- [62]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "增强",
+															["groupParseId"] = "1fa-192-1d7",
+															["damage"] = 174836092,
+														}, -- [63]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 926,
+															["groupParseId"] = "122-74-ca",
+															["healing"] = 135184241,
+														}, -- [64]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "狂怒",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 269151598,
+														}, -- [65]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 918,
+															["specName"] = "守护",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 67913842,
+														}, -- [66]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 234292428,
+														}, -- [67]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 897,
+															["specName"] = "浩劫",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 102911448,
+														}, -- [68]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "火焰",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 144866734,
+														}, -- [69]
+														{
+															["playerId"] = "Player-1955-01AE3616",
+															["role"] = "TANK",
+															["itemLevel"] = 906,
+															["specName"] = "复仇",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 93936174,
+														}, -- [70]
+														{
+															["playerId"] = "Player-1955-0126EBB9",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "惩戒",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 137895605,
+														}, -- [71]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2A6DA",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 0,
+														}, -- [72]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132A6DA",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 0,
+														}, -- [73]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032A6DA",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 0,
+														}, -- [74]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032A75C",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 0,
+														}, -- [75]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132A75C",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 0,
+														}, -- [76]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2A75C",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "122-74-ca",
+															["damage"] = 0,
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 933,
+															["specName"] = "防护",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 54460763,
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01D26476",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 145255890,
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 115263414,
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 216285403,
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 234795600,
+														}, -- [82]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 933,
+															["specName"] = "毁灭",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 196531909,
+														}, -- [83]
+														{
+															["playerId"] = "Player-1955-01AC72F7",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 85603779,
+														}, -- [84]
+														{
+															["playerId"] = "Player-1955-00F38E1C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 882,
+															["specName"] = "火焰",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 48050161,
+														}, -- [85]
+														{
+															["playerId"] = "Player-1955-01CF94BC",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 97837186,
+														}, -- [86]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 255693473,
+														}, -- [87]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 178214182,
+														}, -- [88]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "火焰",
+															["groupParseId"] = "1b-10a-1df",
+															["damage"] = 156184132,
+														}, -- [89]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 932,
+															["specName"] = "恢复",
+															["healing"] = 200451571,
+															["groupParseId"] = "1b-10a-1df",
+														}, -- [90]
 													},
 												},
 												[2038] = {
@@ -71481,6 +72305,150 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "36c-d6-c6",
 															["damage"] = 24925650,
 														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "102-31a-183",
+															["damage"] = 241160338,
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "102-31a-183",
+															["damage"] = 281566191,
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "102-31a-183",
+															["damage"] = 262170428,
+														}, -- [82]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "102-31a-183",
+															["damage"] = 120644210,
+														}, -- [83]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 85617486,
+															["groupParseId"] = "102-31a-183",
+														}, -- [84]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "增强",
+															["groupParseId"] = "102-31a-183",
+															["damage"] = 256672464,
+														}, -- [85]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 320830900,
+														}, -- [86]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 206039401,
+														}, -- [87]
+														{
+															["playerId"] = "Player-1955-01D26476",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 207434712,
+														}, -- [88]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 933,
+															["specName"] = "痛苦",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 344555003,
+														}, -- [89]
+														{
+															["playerId"] = "Player-1955-00F38E1C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 885,
+															["specName"] = "火焰",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 95411252,
+														}, -- [90]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 337074838,
+														}, -- [91]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "复仇",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 81015109,
+														}, -- [92]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "火焰",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 298554260,
+														}, -- [93]
+														{
+															["playerId"] = "Player-1955-01CF94BC",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "惩戒",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 111144090,
+														}, -- [94]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 248348230,
+														}, -- [95]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 939,
+															["specName"] = "恢复",
+															["healing"] = 207585589,
+															["groupParseId"] = "2b5-281-215",
+														}, -- [96]
+														{
+															["playerId"] = "Player-1955-01AC72F7",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "2b5-281-215",
+															["damage"] = 146497936,
+														}, -- [97]
 													},
 												},
 												[2051] = {
@@ -71757,6 +72725,253 @@ GuildSkadaHighScoreDB = {
 															["healing"] = 268817525,
 															["groupParseId"] = "f9-1da-1b5",
 														}, -- [34]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "153-16-128",
+															["damage"] = 350824205,
+														}, -- [35]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 195619211,
+															["groupParseId"] = "153-16-128",
+														}, -- [36]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "153-16-128",
+															["damage"] = 129557025,
+														}, -- [37]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "增强",
+															["groupParseId"] = "153-16-128",
+															["damage"] = 330125021,
+														}, -- [38]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "153-16-128",
+															["damage"] = 292942106,
+														}, -- [39]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 923,
+															["specName"] = "守护",
+															["groupParseId"] = "19d-351-30c",
+															["damage"] = 133825879,
+														}, -- [40]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "火焰",
+															["groupParseId"] = "19d-351-30c",
+															["damage"] = 257161735,
+														}, -- [41]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "TANK",
+															["itemLevel"] = 902,
+															["specName"] = "复仇",
+															["groupParseId"] = "19d-351-30c",
+															["damage"] = 128184927,
+														}, -- [42]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "痛苦",
+															["groupParseId"] = "19d-351-30c",
+															["damage"] = 467250595,
+														}, -- [43]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "狂怒",
+															["groupParseId"] = "19d-351-30c",
+															["damage"] = 542385994,
+														}, -- [44]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "武器",
+															["groupParseId"] = "19d-351-30c",
+															["damage"] = 457210233,
+														}, -- [45]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "HEALER",
+															["itemLevel"] = 930,
+															["specName"] = "神圣",
+															["healing"] = 379043027,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [46]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132BB74",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [47]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032BB74",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [48]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2BB74",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [49]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2BC08",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [50]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032BC08",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [51]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132BC08",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [52]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2BCE2",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [53]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032BCE2",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [54]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132BCE2",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [55]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132BD6C",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [56]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032BD6C",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [57]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2BD6C",
+															["role"] = "DAMAGER",
+															["damage"] = 0,
+															["groupParseId"] = "19d-351-30c",
+														}, -- [58]
+														{
+															["playerId"] = "Player-1955-01D26476",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "5d-25e-371",
+															["damage"] = 201200960,
+														}, -- [59]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "5d-25e-371",
+															["damage"] = 356372326,
+														}, -- [60]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "5d-25e-371",
+															["damage"] = 280802210,
+														}, -- [61]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "5d-25e-371",
+															["damage"] = 355025862,
+														}, -- [62]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["specName"] = "火焰",
+															["groupParseId"] = "5d-25e-371",
+															["damage"] = 274718701,
+														}, -- [63]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 933,
+															["specName"] = "防护",
+															["groupParseId"] = "5d-25e-371",
+															["damage"] = 119495976,
+														}, -- [64]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 939,
+															["specName"] = "恢复",
+															["healing"] = 195784539,
+															["groupParseId"] = "5d-25e-371",
+														}, -- [65]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 933,
+															["specName"] = "痛苦",
+															["groupParseId"] = "5d-25e-371",
+															["damage"] = 350860843,
+														}, -- [66]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "5d-25e-371",
+															["damage"] = 342503805,
+														}, -- [67]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "神圣",
+															["healing"] = 203318369,
+															["groupParseId"] = "5d-25e-371",
+														}, -- [68]
 													},
 												},
 												[2052] = {
@@ -72345,6 +73560,134 @@ GuildSkadaHighScoreDB = {
 															["healing"] = 96506419,
 															["groupParseId"] = "2ef-be-0",
 														}, -- [73]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "39d-304-285",
+															["damage"] = 48425179,
+														}, -- [74]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "增强",
+															["groupParseId"] = "39d-304-285",
+															["damage"] = 277083688,
+														}, -- [75]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "39d-304-285",
+															["damage"] = 80519898,
+														}, -- [76]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "刺杀",
+															["groupParseId"] = "39d-304-285",
+															["damage"] = 213734477,
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 163449758,
+															["groupParseId"] = "39d-304-285",
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01D26476",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 115076089,
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 932,
+															["specName"] = "恢复",
+															["healing"] = 227884035,
+															["groupParseId"] = "3b4-215-38a",
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 249929497,
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "复仇",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 95091147,
+														}, -- [82]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 211731636,
+														}, -- [83]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "火焰",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 223814855,
+														}, -- [84]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 933,
+															["specName"] = "痛苦",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 254010004,
+														}, -- [85]
+														{
+															["playerId"] = "Player-1955-00F38E1C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 884,
+															["specName"] = "火焰",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 57027825,
+														}, -- [86]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 274411758,
+														}, -- [87]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "浩劫",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 158314352,
+														}, -- [88]
+														{
+															["playerId"] = "Player-1955-01AC72F7",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "3b4-215-38a",
+															["damage"] = 99558466,
+														}, -- [89]
 													},
 												},
 												[2032] = {
@@ -72728,6 +74071,261 @@ GuildSkadaHighScoreDB = {
 															["healing"] = 38833026,
 															["groupParseId"] = "2c2-11c-a0",
 														}, -- [48]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["specName"] = "防护",
+															["groupParseId"] = "14d-81-3b4",
+															["damage"] = 57260356,
+														}, -- [49]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "增强",
+															["groupParseId"] = "14d-81-3b4",
+															["damage"] = 115542303,
+														}, -- [50]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "14d-81-3b4",
+															["damage"] = 140234543,
+														}, -- [51]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "14d-81-3b4",
+															["damage"] = 135196265,
+														}, -- [52]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 34174462,
+															["groupParseId"] = "14d-81-3b4",
+														}, -- [53]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "14d-81-3b4",
+															["damage"] = 101382332,
+														}, -- [54]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "狂怒",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 192637590,
+														}, -- [55]
+														{
+															["playerId"] = "Player-1955-0126EBB9",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "惩戒",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 106567107,
+														}, -- [56]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 918,
+															["specName"] = "守护",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 46659736,
+														}, -- [57]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 185133018,
+														}, -- [58]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "恶魔学识",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 144923901,
+														}, -- [59]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["specName"] = "神圣",
+															["healing"] = 36653515,
+															["groupParseId"] = "34-4d-2a2",
+														}, -- [60]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 890,
+															["specName"] = "浩劫",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 68838523,
+														}, -- [61]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "暗影",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 164509266,
+														}, -- [62]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "火焰",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 126108522,
+														}, -- [63]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0001329E01",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 0,
+														}, -- [64]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B29E01",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 0,
+														}, -- [65]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000329E01",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 0,
+														}, -- [66]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B29E7A",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 0,
+														}, -- [67]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0001329E7A",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 0,
+														}, -- [68]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000329E7A",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "34-4d-2a2",
+															["damage"] = 0,
+														}, -- [69]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 930,
+															["specName"] = "恢复",
+															["healing"] = 58689023,
+															["groupParseId"] = "386-8a-2d3",
+														}, -- [70]
+														{
+															["playerId"] = "Player-1955-01AC72F7",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 80957017,
+														}, -- [71]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "火焰",
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 162184313,
+														}, -- [72]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "TANK",
+															["itemLevel"] = 913,
+															["specName"] = "复仇",
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 54910825,
+														}, -- [73]
+														{
+															["playerId"] = "Player-1955-01D26476",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 136780153,
+														}, -- [74]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "TANK",
+															["itemLevel"] = 919,
+															["specName"] = "复仇",
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 65483623,
+														}, -- [75]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 225639039,
+														}, -- [76]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 163503913,
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "邪恶",
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 171289101,
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 933,
+															["specName"] = "毁灭",
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 199036738,
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 939,
+															["specName"] = "恢复",
+															["healing"] = 82515178,
+															["groupParseId"] = "9d-33-e6",
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "神圣",
+															["healing"] = 72770019,
+															["groupParseId"] = "9d-33-e6",
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01CF94BC",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["groupParseId"] = "9d-33-e6",
+															["damage"] = 66784128,
+														}, -- [82]
 													},
 												},
 												[2054] = {
@@ -73244,6 +74842,150 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "65-2c1-2be",
 															["damage"] = 223965807,
 														}, -- [64]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "54-14d-1db",
+															["damage"] = 113799761,
+														}, -- [65]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "增强",
+															["groupParseId"] = "54-14d-1db",
+															["damage"] = 244308601,
+														}, -- [66]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "54-14d-1db",
+															["damage"] = 238521776,
+														}, -- [67]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "54-14d-1db",
+															["damage"] = 253859871,
+														}, -- [68]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 63653934,
+															["groupParseId"] = "54-14d-1db",
+														}, -- [69]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "54-14d-1db",
+															["damage"] = 274470537,
+														}, -- [70]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "复仇",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 147347702,
+														}, -- [71]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "火焰",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 276596375,
+														}, -- [72]
+														{
+															["playerId"] = "Player-1955-01D26476",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 202652324,
+														}, -- [73]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 217261987,
+														}, -- [74]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 933,
+															["specName"] = "毁灭",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 273862632,
+														}, -- [75]
+														{
+															["playerId"] = "Player-1955-01AC72F7",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 146036547,
+														}, -- [76]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 321295264,
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-00F38E1C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 883,
+															["specName"] = "火焰",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 89004998,
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01A020F8",
+															["role"] = "HEALER",
+															["itemLevel"] = 928,
+															["specName"] = "恢复",
+															["healing"] = 117841931,
+															["groupParseId"] = "1f3-352-f",
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 304795615,
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 932,
+															["specName"] = "恢复",
+															["healing"] = 74253219,
+															["groupParseId"] = "1f3-352-f",
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01CF94BC",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "1f3-352-f",
+															["damage"] = 181702376,
+														}, -- [82]
 													},
 												},
 												[2048] = {
@@ -73666,6 +75408,230 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "8e-1c2-36d",
 															["damage"] = 65717920,
 														}, -- [53]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "增强",
+															["groupParseId"] = "3e0-208-185",
+															["damage"] = 168732457,
+														}, -- [54]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "3e0-208-185",
+															["damage"] = 95128439,
+														}, -- [55]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "3e0-208-185",
+															["damage"] = 143119004,
+														}, -- [56]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "3e0-208-185",
+															["damage"] = 68887815,
+														}, -- [57]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "3e0-208-185",
+															["damage"] = 172670061,
+														}, -- [58]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 69467106,
+															["groupParseId"] = "3e0-208-185",
+														}, -- [59]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "恶魔学识",
+															["groupParseId"] = "297-1e3-2bb",
+															["damage"] = 191246195,
+														}, -- [60]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "297-1e3-2bb",
+															["damage"] = 244188766,
+														}, -- [61]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 891,
+															["specName"] = "浩劫",
+															["groupParseId"] = "297-1e3-2bb",
+															["damage"] = 87439136,
+														}, -- [62]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "火焰",
+															["groupParseId"] = "297-1e3-2bb",
+															["damage"] = 69738432,
+														}, -- [63]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "暗影",
+															["groupParseId"] = "297-1e3-2bb",
+															["damage"] = 286113396,
+														}, -- [64]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 918,
+															["specName"] = "守护",
+															["groupParseId"] = "297-1e3-2bb",
+															["damage"] = 59799568,
+														}, -- [65]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "狂怒",
+															["groupParseId"] = "297-1e3-2bb",
+															["damage"] = 226297533,
+														}, -- [66]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 926,
+															["specName"] = "神圣",
+															["healing"] = 113836657,
+															["groupParseId"] = "297-1e3-2bb",
+														}, -- [67]
+														{
+															["playerId"] = "Player-1955-0126EBB9",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "惩戒",
+															["groupParseId"] = "297-1e3-2bb",
+															["damage"] = 130522631,
+														}, -- [68]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 930,
+															["specName"] = "恢复",
+															["healing"] = 102340298,
+															["groupParseId"] = "21b-3be-13d",
+														}, -- [69]
+														{
+															["playerId"] = "Player-1955-01D26476",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 139184717,
+														}, -- [70]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "火焰",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 200729316,
+														}, -- [71]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 211876256,
+														}, -- [72]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "浩劫",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 132689774,
+														}, -- [73]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 220930503,
+														}, -- [74]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 181873193,
+														}, -- [75]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "TANK",
+															["itemLevel"] = 924,
+															["specName"] = "复仇",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 67090103,
+														}, -- [76]
+														{
+															["playerId"] = "Player-1955-01AC72F7",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 73539307,
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-01CF94BC",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "惩戒",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 90398199,
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 933,
+															["specName"] = "毁灭",
+															["groupParseId"] = "3dd-3a-30d",
+															["damage"] = 237690313,
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 939,
+															["specName"] = "恢复",
+															["healing"] = 125381811,
+															["groupParseId"] = "3dd-3a-30d",
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "神圣",
+															["healing"] = 85743418,
+															["groupParseId"] = "3dd-3a-30d",
+														}, -- [81]
 													},
 												},
 												[2036] = {
@@ -74099,158 +76065,1385 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "370-256-2b2",
 															["damage"] = 113277122,
 														}, -- [55]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "惩戒",
+															["groupParseId"] = "1e6-3ad-3a",
+															["damage"] = 144936849,
+														}, -- [56]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1e6-3ad-3a",
+															["damage"] = 157658512,
+														}, -- [57]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "1e6-3ad-3a",
+															["damage"] = 190328159,
+														}, -- [58]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "1e6-3ad-3a",
+															["damage"] = 82994100,
+														}, -- [59]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "增强",
+															["groupParseId"] = "1e6-3ad-3a",
+															["damage"] = 173752349,
+														}, -- [60]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 28921972,
+															["groupParseId"] = "1e6-3ad-3a",
+														}, -- [61]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "毁灭",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 221436779,
+														}, -- [62]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 891,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 92192547,
+														}, -- [63]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "狂怒",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 269490663,
+														}, -- [64]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 232097031,
+														}, -- [65]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "暗影",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 186676257,
+														}, -- [66]
+														{
+															["playerId"] = "Player-1955-0126EBB9",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 908,
+															["specName"] = "惩戒",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 131279548,
+														}, -- [67]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "火焰",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 150934298,
+														}, -- [68]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 926,
+															["specName"] = "神圣",
+															["healing"] = 109267531,
+															["groupParseId"] = "1f2-311-2ea",
+														}, -- [69]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2A102",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 0,
+														}, -- [70]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032A102",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 0,
+														}, -- [71]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132A102",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 0,
+														}, -- [72]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 918,
+															["specName"] = "守护",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 64703655,
+														}, -- [73]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000132A180",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 0,
+														}, -- [74]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-0000B2A180",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 0,
+														}, -- [75]
+														{
+															["playerId"] = "Creature-0-3929-1676-17495-47244-000032A180",
+															["role"] = "DAMAGER",
+															["groupParseId"] = "1f2-311-2ea",
+															["damage"] = 0,
+														}, -- [76]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 930,
+															["specName"] = "恢复",
+															["healing"] = 76568569,
+															["groupParseId"] = "fa-320-29b",
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "复仇",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 80521545,
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01D26476",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 126882664,
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 241569014,
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 199084400,
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 218294643,
+														}, -- [82]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 933,
+															["specName"] = "毁灭",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 209707765,
+														}, -- [83]
+														{
+															["playerId"] = "Player-1955-01CF94BC",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "惩戒",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 76059008,
+														}, -- [84]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "火焰",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 168105638,
+														}, -- [85]
+														{
+															["playerId"] = "Player-1955-01AC72F7",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 95693514,
+														}, -- [86]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "浩劫",
+															["groupParseId"] = "144-155-1b3",
+															["damage"] = 149846250,
+														}, -- [87]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 932,
+															["specName"] = "恢复",
+															["healing"] = 94586025,
+															["groupParseId"] = "144-155-1b3",
+														}, -- [88]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "神圣",
+															["healing"] = 131784595,
+															["groupParseId"] = "144-155-1b3",
+														}, -- [89]
 													},
 												},
 											},
 										},
 										[15] = {
 											["encounters"] = {
-												[2038] = {
+												[2037] = {
 													["playerParses"] = {
+														{
+															["playerId"] = "Player-1955-01C4D5A1",
+															["role"] = "HEALER",
+															["itemLevel"] = 909,
+															["specName"] = "神圣",
+															["healing"] = 208392557,
+															["groupParseId"] = "2b-276-22c",
+														}, -- [1]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 487582886,
+														}, -- [2]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "邪恶",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 522141871,
+														}, -- [3]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 328216414,
+														}, -- [4]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "狂怒",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 454802825,
+														}, -- [5]
+														{
+															["playerId"] = "Player-1955-01B60ADA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 347541761,
+														}, -- [6]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 913,
+															["specName"] = "守护",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 147043197,
+														}, -- [7]
+														{
+															["playerId"] = "Player-1955-01765C8F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 389069037,
+														}, -- [8]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "痛苦",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 533520955,
+														}, -- [9]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 914,
+															["specName"] = "刺杀",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 360935812,
+														}, -- [10]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "邪恶",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 590883070,
+														}, -- [11]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 907,
+															["specName"] = "防护",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 241097499,
+														}, -- [12]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 367153185,
+														}, -- [13]
+														{
+															["playerId"] = "Player-1955-01AD11DC",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 904,
+															["specName"] = "踏风",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 306814730,
+														}, -- [14]
 														{
 															["playerId"] = "Player-1955-01B16F12",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 912,
+															["itemLevel"] = 906,
 															["specName"] = "刺杀",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 357531259,
-														}, -- [1]
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 368889734,
+														}, -- [15]
 														{
-															["playerId"] = "Player-1955-01AC6C79",
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "HEALER",
+															["itemLevel"] = 921,
+															["specName"] = "神圣",
+															["healing"] = 287457403,
+															["groupParseId"] = "2b-276-22c",
+														}, -- [16]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 902,
+															["specName"] = "恢复",
+															["healing"] = 310153598,
+															["groupParseId"] = "2b-276-22c",
+														}, -- [17]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "HEALER",
+															["itemLevel"] = 915,
+															["specName"] = "恢复",
+															["healing"] = 301006307,
+															["groupParseId"] = "2b-276-22c",
+														}, -- [18]
+														{
+															["playerId"] = "Player-1955-01A0210F",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 925,
-															["specName"] = "武器",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 354820855,
-														}, -- [2]
+															["itemLevel"] = 910,
+															["specName"] = "火焰",
+															["groupParseId"] = "2b-276-22c",
+															["damage"] = 524288508,
+														}, -- [19]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "314-55-10f",
+															["damage"] = 203404341,
+														}, -- [20]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 915,
+															["specName"] = "神圣",
+															["healing"] = 290321654,
+															["groupParseId"] = "1d9-2dc-1dc",
+														}, -- [21]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "狂怒",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 537382753,
+														}, -- [22]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 573666298,
+														}, -- [23]
+														{
+															["playerId"] = "Player-1955-01B60ADA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 350240306,
+														}, -- [24]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 909,
+															["specName"] = "神圣",
+															["healing"] = 153167761,
+															["groupParseId"] = "1d9-2dc-1dc",
+														}, -- [25]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 415021710,
+														}, -- [26]
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 916,
+															["specName"] = "酒仙",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 215014620,
+														}, -- [27]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 381767641,
+														}, -- [28]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 902,
+															["specName"] = "恢复",
+															["healing"] = 312493301,
+															["groupParseId"] = "1d9-2dc-1dc",
+														}, -- [29]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 926,
+															["specName"] = "防护",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 180898250,
+														}, -- [30]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 356535937,
+														}, -- [31]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "暗影",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 693677893,
+														}, -- [32]
+														{
+															["playerId"] = "Player-1955-01A0210F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "火焰",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 569029216,
+														}, -- [33]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 428384267,
+														}, -- [34]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 903,
+															["specName"] = "元素",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 432996806,
+														}, -- [35]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "痛苦",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 440826394,
+														}, -- [36]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "恢复",
+															["healing"] = 210900303,
+															["groupParseId"] = "1d9-2dc-1dc",
+														}, -- [37]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 331423297,
+														}, -- [38]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 910,
+															["specName"] = "恢复",
+															["healing"] = 292508929,
+															["groupParseId"] = "1d9-2dc-1dc",
+														}, -- [39]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 907,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1d9-2dc-1dc",
+															["damage"] = 309227216,
+														}, -- [40]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "狂怒",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 554577291,
+														}, -- [41]
+														{
+															["playerId"] = "Player-1955-01B60ADA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 905,
+															["specName"] = "浩劫",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 315840858,
+														}, -- [42]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 927,
+															["specName"] = "防护",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 206565933,
+														}, -- [43]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 918,
+															["specName"] = "守护",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 155798021,
+														}, -- [44]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 426341073,
+														}, -- [45]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 914,
+															["specName"] = "浩劫",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 417157930,
+														}, -- [46]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 911,
+															["specName"] = "神圣",
+															["healing"] = 235939148,
+															["groupParseId"] = "270-3aa-1c1",
+														}, -- [47]
+														{
+															["playerId"] = "Player-1955-01BDED8B",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 283177838,
+														}, -- [48]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["groupParseId"] = "270-3aa-1c1",
+															["healing"] = 357213039,
+														}, -- [49]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "邪恶",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 579250235,
+														}, -- [50]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "痛苦",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 466345915,
+														}, -- [51]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "浩劫",
+															["groupParseId"] = "270-3aa-1c1",
+															["damage"] = 352762218,
+														}, -- [52]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 917,
+															["specName"] = "神圣",
+															["healing"] = 253331965,
+															["groupParseId"] = "270-3aa-1c1",
+														}, -- [53]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "浩劫",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 320697799,
+														}, -- [54]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 930,
+															["specName"] = "防护",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 195932405,
+														}, -- [55]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "神圣",
+															["healing"] = 254500133,
+															["groupParseId"] = "22f-241-f6",
+														}, -- [56]
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 923,
+															["specName"] = "酒仙",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 194851043,
+														}, -- [57]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "狂怒",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 485544420,
+														}, -- [58]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 229542926,
+															["groupParseId"] = "22f-241-f6",
+														}, -- [59]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "邪恶",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 553711644,
+														}, -- [60]
+														{
+															["playerId"] = "Player-1955-0186189A",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "冰霜",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 366454250,
+														}, -- [61]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "暗影",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 202578697,
+														}, -- [62]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "浩劫",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 371780500,
+														}, -- [63]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 382090187,
+														}, -- [64]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "邪恶",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 411197060,
+														}, -- [65]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "痛苦",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 421648859,
+														}, -- [66]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "敏锐",
+															["groupParseId"] = "22f-241-f6",
+															["damage"] = 310310479,
+														}, -- [67]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "恢复",
+															["healing"] = 228696922,
+															["groupParseId"] = "22f-241-f6",
+														}, -- [68]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "恢复",
+															["healing"] = 74044021,
+															["groupParseId"] = "70-14f-381",
+														}, -- [69]
 														{
 															["playerId"] = "Player-1955-01BCB213",
 															["role"] = "DAMAGER",
 															["itemLevel"] = 925,
 															["specName"] = "狂怒",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 340857001,
-														}, -- [3]
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 367552332,
+														}, -- [70]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "鲜血",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 225691734,
+														}, -- [71]
+														{
+															["playerId"] = "Player-1955-0186189A",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "冰霜",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 390929947,
+														}, -- [72]
 														{
 															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 911,
-															["specName"] = "暗影",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 446055173,
-														}, -- [4]
-														{
-															["playerId"] = "Player-1955-01CC16D2",
-															["role"] = "DAMAGER",
+															["role"] = "HEALER",
 															["itemLevel"] = 923,
-															["specName"] = "浩劫",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 330798998,
-														}, -- [5]
+															["specName"] = "神圣",
+															["healing"] = 271764636,
+															["groupParseId"] = "70-14f-381",
+														}, -- [73]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 293744036,
+														}, -- [74]
 														{
 															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "TANK",
+															["itemLevel"] = 914,
+															["specName"] = "复仇",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 235357295,
+														}, -- [75]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 915,
+															["itemLevel"] = 930,
 															["specName"] = "浩劫",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 393704708,
-														}, -- [6]
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 280221390,
+														}, -- [76]
+														{
+															["playerId"] = "Player-1955-01765C8F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 379141907,
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "邪恶",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 336210420,
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "神圣",
+															["healing"] = 241858100,
+															["groupParseId"] = "70-14f-381",
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "武器",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 361885107,
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "敏锐",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 304745437,
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01AE4143",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "浩劫",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 254574782,
+														}, -- [82]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "刺杀",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 337751623,
+														}, -- [83]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "痛苦",
+															["groupParseId"] = "70-14f-381",
+															["damage"] = 578065335,
+														}, -- [84]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 934,
+															["specName"] = "防护",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 165831388,
+														}, -- [85]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "邪恶",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 485773161,
+														}, -- [86]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "武器",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 232888259,
+														}, -- [87]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "狂怒",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 410948869,
+														}, -- [88]
 														{
 															["playerId"] = "Player-1955-00F84E73",
 															["role"] = "DAMAGER",
 															["itemLevel"] = 931,
 															["specName"] = "野兽控制",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 414216082,
-														}, -- [7]
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 378587345,
+														}, -- [89]
 														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "TANK",
-															["itemLevel"] = 921,
-															["specName"] = "守护",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 116419668,
-														}, -- [8]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 935,
-															["specName"] = "防护",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 153445542,
-														}, -- [9]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
+															["playerId"] = "Player-1955-01D172E8",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 931,
-															["specName"] = "痛苦",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 431796072,
-														}, -- [10]
+															["itemLevel"] = 904,
+															["specName"] = "敏锐",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 211045196,
+														}, -- [90]
 														{
-															["playerId"] = "Player-1955-01CF9CD5",
+															["playerId"] = "Player-1955-01AF584B",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 914,
-															["specName"] = "武器",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 112513634,
-														}, -- [11]
+															["itemLevel"] = 916,
+															["specName"] = "浩劫",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 368627401,
+														}, -- [91]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "刺杀",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 304422435,
+														}, -- [92]
 														{
 															["playerId"] = "Player-1955-01765C8F",
 															["role"] = "DAMAGER",
 															["itemLevel"] = 919,
 															["specName"] = "野兽控制",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 346508816,
-														}, -- [12]
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 360618580,
+														}, -- [93]
 														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 916,
-															["specName"] = "恢复",
-															["healing"] = 237577504,
-															["groupParseId"] = "2fc-23c-e0",
-														}, -- [13]
-														{
-															["playerId"] = "Player-1955-01AC1155",
+															["playerId"] = "Player-1955-01C128DB",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 929,
-															["specName"] = "邪恶",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 420207066,
-														}, -- [14]
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 387737396,
+														}, -- [94]
 														{
 															["playerId"] = "Player-1955-01AD40CF",
 															["role"] = "HEALER",
 															["itemLevel"] = 924,
 															["specName"] = "神圣",
-															["healing"] = 154161553,
-															["groupParseId"] = "2fc-23c-e0",
-														}, -- [15]
+															["healing"] = 208211674,
+															["groupParseId"] = "20d-16f-3bc",
+														}, -- [95]
 														{
 															["playerId"] = "Player-1955-018E3318",
 															["role"] = "DAMAGER",
 															["itemLevel"] = 929,
 															["specName"] = "邪恶",
-															["groupParseId"] = "2fc-23c-e0",
-															["damage"] = 380072862,
-														}, -- [16]
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 443272315,
+														}, -- [96]
 														{
-															["playerId"] = "Player-1955-01C128DB",
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "痛苦",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 400144531,
+														}, -- [97]
+														{
+															["playerId"] = "Player-1955-01C6544C",
 															["role"] = "HEALER",
-															["itemLevel"] = 919,
+															["itemLevel"] = 916,
 															["specName"] = "恢复",
-															["healing"] = 195672817,
-															["groupParseId"] = "2fc-23c-e0",
-														}, -- [17]
+															["healing"] = 282428055,
+															["groupParseId"] = "20d-16f-3bc",
+														}, -- [98]
 														{
 															["playerId"] = "Player-1955-01C06D58",
 															["role"] = "HEALER",
 															["itemLevel"] = 907,
 															["specName"] = "恢复",
-															["healing"] = 203711508,
-															["groupParseId"] = "2fc-23c-e0",
-														}, -- [18]
+															["healing"] = 259115656,
+															["groupParseId"] = "20d-16f-3bc",
+														}, -- [99]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 922,
+															["specName"] = "守护",
+															["groupParseId"] = "20d-16f-3bc",
+															["damage"] = 108460509,
+														}, -- [100]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "敏锐",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 413288386,
+														}, -- [101]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "邪恶",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 505315846,
+														}, -- [102]
+														{
+															["playerId"] = "Player-1955-01AE27C2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "浩劫",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 274450797,
+														}, -- [103]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "惩戒",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 353199226,
+														}, -- [104]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 926,
+															["specName"] = "神圣",
+															["healing"] = 171577803,
+															["groupParseId"] = "25a-23b-10c",
+														}, -- [105]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "浩劫",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 371335586,
+														}, -- [106]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 200042780,
+														}, -- [107]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "痛苦",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 445529905,
+														}, -- [108]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 413335717,
+														}, -- [109]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "刺杀",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 236389325,
+														}, -- [110]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "狂怒",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 425343130,
+														}, -- [111]
+														{
+															["playerId"] = "Player-1955-01CC16D2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 311676762,
+														}, -- [112]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "武器",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 310879857,
+														}, -- [113]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "武器",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 102206653,
+														}, -- [114]
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 929,
+															["specName"] = "酒仙",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 147911643,
+														}, -- [115]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 215366222,
+															["groupParseId"] = "25a-23b-10c",
+														}, -- [116]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "元素",
+															["groupParseId"] = "25a-23b-10c",
+															["damage"] = 355175771,
+														}, -- [117]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 460890187,
+														}, -- [118]
+														{
+															["playerId"] = "Player-1955-01C5A976",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "敏锐",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 265671537,
+														}, -- [119]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 392325501,
+														}, -- [120]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "武器",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 361823106,
+														}, -- [121]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "守护",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 142737026,
+														}, -- [122]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "火焰",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 300708825,
+														}, -- [123]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "浩劫",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 324080430,
+														}, -- [124]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 181397514,
+														}, -- [125]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "敏锐",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 401059640,
+														}, -- [126]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 511250297,
+														}, -- [127]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "浩劫",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 213038609,
+														}, -- [128]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 211586654,
+															["groupParseId"] = "9a-11d-254",
+														}, -- [129]
+														{
+															["playerId"] = "Player-1955-01AD776C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "痛苦",
+															["groupParseId"] = "9a-11d-254",
+															["damage"] = 261989631,
+														}, -- [130]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "恢复",
+															["healing"] = 194060397,
+															["groupParseId"] = "9a-11d-254",
+														}, -- [131]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "神圣",
+															["healing"] = 197307452,
+															["groupParseId"] = "9a-11d-254",
+														}, -- [132]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "火焰",
+															["groupParseId"] = "186-51-3af",
+															["damage"] = 370209477,
+														}, -- [133]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 937,
+															["specName"] = "防护",
+															["groupParseId"] = "186-51-3af",
+															["damage"] = 205782449,
+														}, -- [134]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "186-51-3af",
+															["damage"] = 361431833,
+														}, -- [135]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "186-51-3af",
+															["damage"] = 413940913,
+														}, -- [136]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 230973113,
+															["groupParseId"] = "186-51-3af",
+														}, -- [137]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "野性",
+															["groupParseId"] = "186-51-3af",
+															["damage"] = 345768621,
+														}, -- [138]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 917,
+															["specName"] = "恢复",
+															["healing"] = 241529088,
+															["groupParseId"] = "186-51-3af",
+														}, -- [139]
 													},
 												},
 												[2050] = {
@@ -75063,6 +78256,1327 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "74-295-3b4",
 															["damage"] = 262675970,
 														}, -- [101]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 286937580,
+														}, -- [102]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "惩戒",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 213784458,
+														}, -- [103]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 926,
+															["specName"] = "神圣",
+															["healing"] = 149441240,
+															["groupParseId"] = "b4-136-e",
+														}, -- [104]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "邪恶",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 291617611,
+														}, -- [105]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "武器",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 278397004,
+														}, -- [106]
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 929,
+															["specName"] = "酒仙",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 79112231,
+														}, -- [107]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 914,
+															["specName"] = "武器",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 126563695,
+														}, -- [108]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "狂怒",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 292020222,
+														}, -- [109]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "痛苦",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 252733668,
+														}, -- [110]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "刺杀",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 247202378,
+														}, -- [111]
+														{
+															["playerId"] = "Player-1955-01AE27C2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "浩劫",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 182458743,
+														}, -- [112]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 98986683,
+														}, -- [113]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 181300261,
+															["groupParseId"] = "b4-136-e",
+														}, -- [114]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "元素",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 212646038,
+														}, -- [115]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "浩劫",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 261699926,
+														}, -- [116]
+														{
+															["playerId"] = "Player-1955-01CC16D2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 247381736,
+														}, -- [117]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "敏锐",
+															["groupParseId"] = "b4-136-e",
+															["damage"] = 249547273,
+														}, -- [118]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "守护",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 80258889,
+														}, -- [119]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "恢复",
+															["healing"] = 187949154,
+															["groupParseId"] = "36e-13d-31c",
+														}, -- [120]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "武器",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 297366980,
+														}, -- [121]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 319822417,
+														}, -- [122]
+														{
+															["playerId"] = "Player-1955-01AD776C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "痛苦",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 136925743,
+														}, -- [123]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 285547540,
+														}, -- [124]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 908,
+															["specName"] = "浩劫",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 114335607,
+														}, -- [125]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 275671518,
+														}, -- [126]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "敏锐",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 274313772,
+														}, -- [127]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 147899222,
+															["groupParseId"] = "36e-13d-31c",
+														}, -- [128]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 95117122,
+														}, -- [129]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 221920563,
+														}, -- [130]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 306043782,
+														}, -- [131]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "火焰",
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 200423672,
+														}, -- [132]
+														{
+															["playerId"] = "Player-1955-01C5A976",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["groupParseId"] = "36e-13d-31c",
+															["damage"] = 224744678,
+														}, -- [133]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "神圣",
+															["healing"] = 169875541,
+															["groupParseId"] = "36e-13d-31c",
+														}, -- [134]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "e5-81-191",
+															["damage"] = 279571531,
+														}, -- [135]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "火焰",
+															["groupParseId"] = "e5-81-191",
+															["damage"] = 209319624,
+														}, -- [136]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 937,
+															["specName"] = "防护",
+															["groupParseId"] = "e5-81-191",
+															["damage"] = 105693445,
+														}, -- [137]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "e5-81-191",
+															["damage"] = 276854949,
+														}, -- [138]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 930,
+															["specName"] = "守护",
+															["groupParseId"] = "e5-81-191",
+															["damage"] = 82330292,
+														}, -- [139]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 148043256,
+															["groupParseId"] = "e5-81-191",
+														}, -- [140]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 917,
+															["specName"] = "恢复",
+															["healing"] = 144034131,
+															["groupParseId"] = "e5-81-191",
+														}, -- [141]
+													},
+												},
+												[2038] = {
+													["playerParses"] = {
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "刺杀",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 357531259,
+														}, -- [1]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "武器",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 354820855,
+														}, -- [2]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "狂怒",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 340857001,
+														}, -- [3]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "暗影",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 446055173,
+														}, -- [4]
+														{
+															["playerId"] = "Player-1955-01CC16D2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 330798998,
+														}, -- [5]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 393704708,
+														}, -- [6]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 414216082,
+														}, -- [7]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 921,
+															["specName"] = "守护",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 116419668,
+														}, -- [8]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 153445542,
+														}, -- [9]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "痛苦",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 431796072,
+														}, -- [10]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 914,
+															["specName"] = "武器",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 112513634,
+														}, -- [11]
+														{
+															["playerId"] = "Player-1955-01765C8F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 346508816,
+														}, -- [12]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "恢复",
+															["healing"] = 237577504,
+															["groupParseId"] = "2fc-23c-e0",
+														}, -- [13]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 420207066,
+														}, -- [14]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 154161553,
+															["groupParseId"] = "2fc-23c-e0",
+														}, -- [15]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "2fc-23c-e0",
+															["damage"] = 380072862,
+														}, -- [16]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "HEALER",
+															["itemLevel"] = 919,
+															["specName"] = "恢复",
+															["healing"] = 195672817,
+															["groupParseId"] = "2fc-23c-e0",
+														}, -- [17]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 907,
+															["specName"] = "恢复",
+															["healing"] = 203711508,
+															["groupParseId"] = "2fc-23c-e0",
+														}, -- [18]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 435431235,
+														}, -- [19]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 489742211,
+														}, -- [20]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "敏锐",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 375899056,
+														}, -- [21]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "武器",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 271167001,
+														}, -- [22]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 380293188,
+														}, -- [23]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "暗影",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 372993596,
+														}, -- [24]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "守护",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 164618093,
+														}, -- [25]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 203342943,
+														}, -- [26]
+														{
+															["playerId"] = "Player-1955-01C5A976",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "敏锐",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 236743641,
+														}, -- [27]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "武器",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 346372517,
+														}, -- [28]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "刺杀",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 336956439,
+														}, -- [29]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 362659655,
+														}, -- [30]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "火焰",
+															["groupParseId"] = "9c-14e-389",
+															["damage"] = 405028087,
+														}, -- [31]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "恢复",
+															["healing"] = 264612343,
+															["groupParseId"] = "9c-14e-389",
+														}, -- [32]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 237728964,
+															["groupParseId"] = "9c-14e-389",
+														}, -- [33]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 926,
+															["specName"] = "神圣",
+															["healing"] = 239801208,
+															["groupParseId"] = "9c-14e-389",
+														}, -- [34]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "神圣",
+															["healing"] = 288963509,
+															["groupParseId"] = "9c-14e-389",
+														}, -- [35]
+													},
+												},
+												[2051] = {
+													["playerParses"] = {
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 928,
+															["specName"] = "守护",
+															["groupParseId"] = "32-10e-26f",
+															["damage"] = 95694942,
+														}, -- [1]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 931,
+															["specName"] = "守护",
+															["groupParseId"] = "25d-140-38e",
+															["damage"] = 144268707,
+														}, -- [2]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "HEALER",
+															["specName"] = "神圣",
+															["healing"] = 89893262,
+															["groupParseId"] = "25d-140-38e",
+														}, -- [3]
+													},
+												},
+												[2052] = {
+													["playerParses"] = {
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 919,
+															["specName"] = "酒仙",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 112085674,
+														}, -- [1]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 908,
+															["specName"] = "刺杀",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 305160177,
+														}, -- [2]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "浩劫",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 315474334,
+														}, -- [3]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "暗影",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 318628225,
+														}, -- [4]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "浩劫",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 328527727,
+														}, -- [5]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "狂怒",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 339212618,
+														}, -- [6]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "惩戒",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 199903568,
+														}, -- [7]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "邪恶",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 298470957,
+														}, -- [8]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 353249028,
+														}, -- [9]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 927,
+															["specName"] = "防护",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 111268784,
+														}, -- [10]
+														{
+															["playerId"] = "Player-1955-01B60ADA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 905,
+															["specName"] = "浩劫",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 350807850,
+														}, -- [11]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "邪恶",
+															["groupParseId"] = "35a-12a-1ab",
+															["damage"] = 436032515,
+														}, -- [12]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "恢复",
+															["healing"] = 258560880,
+															["groupParseId"] = "35a-12a-1ab",
+														}, -- [13]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 911,
+															["specName"] = "恢复",
+															["healing"] = 300133419,
+															["groupParseId"] = "35a-12a-1ab",
+														}, -- [14]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 917,
+															["specName"] = "神圣",
+															["healing"] = 266106877,
+															["groupParseId"] = "35a-12a-1ab",
+														}, -- [15]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "神圣",
+															["healing"] = 163280117,
+															["groupParseId"] = "3d3-3a9-284",
+														}, -- [16]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "敏锐",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 288571244,
+														}, -- [17]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "邪恶",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 269621418,
+														}, -- [18]
+														{
+															["playerId"] = "Player-1955-01CC16D2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 905,
+															["specName"] = "浩劫",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 226679035,
+														}, -- [19]
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 923,
+															["specName"] = "酒仙",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 102629369,
+														}, -- [20]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "浩劫",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 323384902,
+														}, -- [21]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "浩劫",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 350208892,
+														}, -- [22]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "邪恶",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 375878638,
+														}, -- [23]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 931,
+															["specName"] = "防护",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 91627461,
+														}, -- [24]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "暗影",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 295589428,
+														}, -- [25]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 219190964,
+														}, -- [26]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "狂怒",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 381968348,
+														}, -- [27]
+														{
+															["playerId"] = "Player-1955-0186189A",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "冰霜",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 256589881,
+														}, -- [28]
+														{
+															["playerId"] = "Player-1955-01A0210F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "火焰",
+															["groupParseId"] = "3d3-3a9-284",
+															["damage"] = 322663864,
+														}, -- [29]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 267007491,
+															["groupParseId"] = "3d3-3a9-284",
+														}, -- [30]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "恢复",
+															["healing"] = 279331730,
+															["groupParseId"] = "3d3-3a9-284",
+														}, -- [31]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "恢复",
+															["healing"] = 60866949,
+															["groupParseId"] = "386-57-83",
+														}, -- [32]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 922,
+															["specName"] = "守护",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 93202994,
+														}, -- [33]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "武器",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 348674245,
+														}, -- [34]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "狂怒",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 282832616,
+														}, -- [35]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "恢复",
+															["healing"] = 307426501,
+															["groupParseId"] = "342-83-298",
+														}, -- [36]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "刺杀",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 323007580,
+														}, -- [37]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 261760513,
+														}, -- [38]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 225571829,
+														}, -- [39]
+														{
+															["playerId"] = "Player-1955-01765C8F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 301484952,
+														}, -- [40]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "痛苦",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 360434494,
+														}, -- [41]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "浩劫",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 302580527,
+														}, -- [42]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 389154989,
+														}, -- [43]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 914,
+															["specName"] = "武器",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 255384406,
+														}, -- [44]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 907,
+															["specName"] = "恢复",
+															["healing"] = 261642931,
+															["groupParseId"] = "342-83-298",
+														}, -- [45]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 246080733,
+														}, -- [46]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 174738351,
+															["groupParseId"] = "342-83-298",
+														}, -- [47]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 934,
+															["specName"] = "防护",
+															["groupParseId"] = "342-83-298",
+															["damage"] = 103619356,
+														}, -- [48]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 914,
+															["specName"] = "敏锐",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 316928625,
+														}, -- [49]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 332996183,
+														}, -- [50]
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 929,
+															["specName"] = "酒仙",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 105076172,
+														}, -- [51]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "武器",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 395711842,
+														}, -- [52]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "刺杀",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 263785515,
+														}, -- [53]
+														{
+															["playerId"] = "Player-1955-01AE27C2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 184347903,
+														}, -- [54]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "惩戒",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 258966575,
+														}, -- [55]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "狂怒",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 430547096,
+														}, -- [56]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 321142961,
+														}, -- [57]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "武器",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 210757874,
+														}, -- [58]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 103490377,
+														}, -- [59]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 926,
+															["specName"] = "神圣",
+															["healing"] = 157240267,
+															["groupParseId"] = "2d7-1e1-33a",
+														}, -- [60]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 296887288,
+															["groupParseId"] = "2d7-1e1-33a",
+														}, -- [61]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "痛苦",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 323830155,
+														}, -- [62]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "元素",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 243649672,
+														}, -- [63]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "邪恶",
+															["groupParseId"] = "2d7-1e1-33a",
+															["damage"] = 326481922,
+														}, -- [64]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "武器",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 356440132,
+														}, -- [65]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 87617942,
+														}, -- [66]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 381674710,
+														}, -- [67]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 232344873,
+														}, -- [68]
+														{
+															["playerId"] = "Player-1955-01AD776C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "痛苦",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 181882195,
+														}, -- [69]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "神圣",
+															["healing"] = 276706826,
+															["groupParseId"] = "2f2-18d-354",
+														}, -- [70]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 348975748,
+														}, -- [71]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 361020115,
+														}, -- [72]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 382598728,
+														}, -- [73]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "守护",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 100710759,
+														}, -- [74]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "浩劫",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 195643625,
+														}, -- [75]
+														{
+															["playerId"] = "Player-1955-01C5A976",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "敏锐",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 266772951,
+														}, -- [76]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 231541345,
+															["groupParseId"] = "2f2-18d-354",
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "敏锐",
+															["groupParseId"] = "2f2-18d-354",
+															["damage"] = 399109481,
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "恢复",
+															["healing"] = 313597776,
+															["groupParseId"] = "2f2-18d-354",
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "邪恶",
+															["groupParseId"] = "ce-2c-24c",
+															["damage"] = 400540575,
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 937,
+															["specName"] = "防护",
+															["groupParseId"] = "ce-2c-24c",
+															["damage"] = 112620162,
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "敏锐",
+															["groupParseId"] = "ce-2c-24c",
+															["damage"] = 412264119,
+														}, -- [82]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "ce-2c-24c",
+															["damage"] = 357272532,
+														}, -- [83]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 917,
+															["specName"] = "恢复",
+															["healing"] = 363338836,
+															["groupParseId"] = "ce-2c-24c",
+														}, -- [84]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 930,
+															["specName"] = "守护",
+															["groupParseId"] = "ce-2c-24c",
+															["damage"] = 109273311,
+														}, -- [85]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 302769717,
+															["groupParseId"] = "ce-2c-24c",
+														}, -- [86]
 													},
 												},
 												[2032] = {
@@ -75759,1565 +80273,293 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "343-2be-346",
 															["healing"] = 126746662,
 														}, -- [89]
-													},
-												},
-												[2036] = {
-													["playerParses"] = {
 														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "TANK",
-															["itemLevel"] = 913,
-															["specName"] = "守护",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 69525033,
-														}, -- [1]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 916,
-															["specName"] = "邪恶",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 227702874,
-														}, -- [2]
-														{
-															["playerId"] = "Player-1955-01C128DB",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 906,
-															["specName"] = "元素",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 223930903,
-														}, -- [3]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 917,
-															["specName"] = "邪恶",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 293288641,
-														}, -- [4]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 915,
-															["specName"] = "浩劫",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 204931414,
-														}, -- [5]
-														{
-															["playerId"] = "Player-1955-01B16F12",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 905,
-															["specName"] = "敏锐",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 177190002,
-														}, -- [6]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 914,
-															["specName"] = "狂怒",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 263219658,
-														}, -- [7]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 918,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 201209088,
-														}, -- [8]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 917,
-															["specName"] = "痛苦",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 259551728,
-														}, -- [9]
-														{
-															["playerId"] = "Player-1955-01A0210F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 905,
-															["specName"] = "火焰",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 311782979,
-														}, -- [10]
-														{
-															["playerId"] = "Player-1955-01AD11DC",
+															["playerId"] = "Player-1955-01AE27C2",
 															["role"] = "DAMAGER",
 															["itemLevel"] = 904,
-															["specName"] = "踏风",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 229260960,
-														}, -- [11]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 920,
-															["specName"] = "浩劫",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 235959189,
-														}, -- [12]
-														{
-															["playerId"] = "Player-1955-01765C8F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 915,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 141675455,
-														}, -- [13]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 907,
-															["specName"] = "防护",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 98683617,
-														}, -- [14]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 902,
-															["specName"] = "恢复",
-															["healing"] = 192921472,
-															["groupParseId"] = "20b-176-199",
-														}, -- [15]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "HEALER",
-															["itemLevel"] = 921,
-															["specName"] = "神圣",
-															["healing"] = 185860459,
-															["groupParseId"] = "20b-176-199",
-														}, -- [16]
-														{
-															["playerId"] = "Player-1955-01CF0416",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 912,
-															["specName"] = "刺杀",
-															["groupParseId"] = "20b-176-199",
-															["damage"] = 240626787,
-														}, -- [17]
-														{
-															["playerId"] = "Player-1955-01C4D5A1",
-															["role"] = "HEALER",
-															["itemLevel"] = 909,
-															["specName"] = "神圣",
-															["healing"] = 139186608,
-															["groupParseId"] = "20b-176-199",
-														}, -- [18]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "TANK",
-															["itemLevel"] = 915,
-															["specName"] = "守护",
-															["groupParseId"] = "145-172-1b0",
-															["damage"] = 79277078,
-														}, -- [19]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 921,
-															["specName"] = "浩劫",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 242303457,
-														}, -- [20]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 913,
-															["specName"] = "浩劫",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 270705687,
-														}, -- [21]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "狂怒",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 256996380,
-														}, -- [22]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 909,
-															["specName"] = "暗影",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 276619113,
-														}, -- [23]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 921,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 254988735,
-														}, -- [24]
-														{
-															["playerId"] = "Player-1955-01C06D58",
-															["role"] = "HEALER",
-															["itemLevel"] = 902,
-															["specName"] = "恢复",
-															["healing"] = 173917036,
-															["groupParseId"] = "53-368-2d4",
-														}, -- [25]
-														{
-															["playerId"] = "Player-1955-01CD872D",
-															["role"] = "TANK",
-															["itemLevel"] = 915,
-															["specName"] = "酒仙",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 103097948,
-														}, -- [26]
-														{
-															["playerId"] = "Player-1955-01B60ADA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 915,
-															["specName"] = "浩劫",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 221584034,
-														}, -- [27]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "邪恶",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 261749018,
-														}, -- [28]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "痛苦",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 269589312,
-														}, -- [29]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 909,
-															["specName"] = "神圣",
-															["healing"] = 99110974,
-															["groupParseId"] = "53-368-2d4",
-														}, -- [30]
-														{
-															["playerId"] = "Player-1955-01CF0416",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 918,
-															["specName"] = "敏锐",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 255640655,
-														}, -- [31]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 910,
-															["specName"] = "恢复",
-															["healing"] = 179388736,
-															["groupParseId"] = "53-368-2d4",
-														}, -- [32]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 921,
-															["specName"] = "邪恶",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 329845370,
-														}, -- [33]
-														{
-															["playerId"] = "Player-1955-01B76963",
-															["role"] = "HEALER",
-															["itemLevel"] = 915,
-															["specName"] = "神圣",
-															["healing"] = 186435526,
-															["groupParseId"] = "53-368-2d4",
-														}, -- [34]
-														{
-															["playerId"] = "Player-1955-01A0210F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 913,
-															["specName"] = "火焰",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 324710389,
-														}, -- [35]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 926,
-															["specName"] = "防护",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 119728785,
-														}, -- [36]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "HEALER",
-															["itemLevel"] = 922,
-															["specName"] = "恢复",
-															["healing"] = 117730662,
-															["groupParseId"] = "53-368-2d4",
-														}, -- [37]
-														{
-															["playerId"] = "Player-1955-01CDCC26",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 903,
-															["specName"] = "元素",
-															["groupParseId"] = "53-368-2d4",
-															["damage"] = 188364724,
-														}, -- [38]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 913,
-															["specName"] = "恢复",
-															["healing"] = 195903252,
-															["groupParseId"] = "36d-3b9-36",
-														}, -- [39]
-														{
-															["playerId"] = "Player-1955-01BDED8B",
-															["role"] = "TANK",
-															["itemLevel"] = 913,
-															["specName"] = "守护",
-															["groupParseId"] = "36d-3b9-36",
-															["damage"] = 131473551,
-														}, -- [40]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 914,
-															["specName"] = "浩劫",
-															["groupParseId"] = "36d-3b9-36",
-															["damage"] = 241133487,
-														}, -- [41]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 911,
-															["specName"] = "神圣",
-															["healing"] = 171682990,
-															["groupParseId"] = "36d-3b9-36",
-														}, -- [42]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 923,
-															["specName"] = "浩劫",
-															["groupParseId"] = "36d-3b9-36",
-															["damage"] = 254415561,
-														}, -- [43]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 923,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "36d-3b9-36",
-															["damage"] = 266786957,
-														}, -- [44]
-														{
-															["playerId"] = "Player-1955-01B60ADA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 905,
-															["specName"] = "浩劫",
-															["groupParseId"] = "36d-3b9-36",
-															["damage"] = 254654950,
-														}, -- [45]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 927,
-															["specName"] = "防护",
-															["groupParseId"] = "36d-3b9-36",
-															["damage"] = 117569261,
-														}, -- [46]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "HEALER",
-															["itemLevel"] = 923,
-															["specName"] = "恢复",
-															["healing"] = 136676444,
-															["groupParseId"] = "36d-3b9-36",
-														}, -- [47]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "狂怒",
-															["groupParseId"] = "36d-3b9-36",
-															["damage"] = 303027693,
-														}, -- [48]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 926,
-															["specName"] = "邪恶",
-															["groupParseId"] = "36d-3b9-36",
-															["damage"] = 341311759,
-														}, -- [49]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 922,
-															["specName"] = "狂怒",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 268641478,
-														}, -- [50]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 927,
-															["specName"] = "邪恶",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 279631549,
-														}, -- [51]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 924,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 230237074,
-														}, -- [52]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 926,
-															["specName"] = "邪恶",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 250391566,
-														}, -- [53]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 925,
-															["specName"] = "浩劫",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 236600257,
-														}, -- [54]
-														{
-															["playerId"] = "Player-1955-01CF0416",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 921,
-															["specName"] = "敏锐",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 253261692,
-														}, -- [55]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 912,
-															["specName"] = "浩劫",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 241571700,
-														}, -- [56]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 916,
-															["specName"] = "神圣",
-															["healing"] = 120959826,
-															["groupParseId"] = "1da-bb-2b2",
-														}, -- [57]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 930,
-															["specName"] = "防护",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 133201871,
-														}, -- [58]
-														{
-															["playerId"] = "Player-1955-0186189A",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 920,
-															["specName"] = "冰霜",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 225820209,
-														}, -- [59]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "TANK",
-															["itemLevel"] = 920,
-															["specName"] = "守护",
-															["groupParseId"] = "1da-bb-2b2",
-															["damage"] = 84158972,
-														}, -- [60]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 913,
-															["specName"] = "恢复",
-															["healing"] = 156338972,
-															["groupParseId"] = "1da-bb-2b2",
-														}, -- [61]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "HEALER",
-															["itemLevel"] = 921,
-															["specName"] = "神圣",
-															["healing"] = 147276124,
-															["groupParseId"] = "1da-bb-2b2",
-														}, -- [62]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 930,
-															["specName"] = "浩劫",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 263675319,
-														}, -- [63]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 921,
-															["specName"] = "神圣",
-															["healing"] = 102799830,
-															["groupParseId"] = "14b-2f7-137",
-														}, -- [64]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 925,
-															["specName"] = "狂怒",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 283623793,
-														}, -- [65]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 927,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 202537258,
-														}, -- [66]
-														{
-															["playerId"] = "Player-1955-0186189A",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 928,
-															["specName"] = "冰霜",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 294915226,
-														}, -- [67]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 930,
-															["specName"] = "痛苦",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 236154888,
-														}, -- [68]
-														{
-															["playerId"] = "Player-1955-01AC6C79",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 923,
-															["specName"] = "武器",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 219497667,
-														}, -- [69]
-														{
-															["playerId"] = "Player-1955-01B16F12",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 909,
-															["specName"] = "刺杀",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 178981262,
-														}, -- [70]
-														{
-															["playerId"] = "Player-1955-01765C8F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 916,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 198544445,
-														}, -- [71]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 929,
-															["specName"] = "邪恶",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 270497119,
-														}, -- [72]
-														{
-															["playerId"] = "Player-1955-01AE4143",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 911,
-															["specName"] = "浩劫",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 172417164,
-														}, -- [73]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "TANK",
-															["itemLevel"] = 925,
-															["specName"] = "鲜血",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 99257078,
-														}, -- [74]
-														{
-															["playerId"] = "Player-1955-01CF0416",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 925,
-															["specName"] = "敏锐",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 240825599,
-														}, -- [75]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "TANK",
-															["itemLevel"] = 914,
-															["specName"] = "复仇",
-															["groupParseId"] = "14b-2f7-137",
-															["damage"] = 91421973,
-														}, -- [76]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "HEALER",
-															["itemLevel"] = 923,
-															["specName"] = "恢复",
-															["healing"] = 120212997,
-															["groupParseId"] = "14b-2f7-137",
-														}, -- [77]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "HEALER",
-															["itemLevel"] = 923,
-															["specName"] = "神圣",
-															["healing"] = 136539902,
-															["groupParseId"] = "14b-2f7-137",
-														}, -- [78]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 925,
-															["specName"] = "狂怒",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 260692916,
-														}, -- [79]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 912,
-															["specName"] = "浩劫",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 265100824,
-														}, -- [80]
-														{
-															["playerId"] = "Player-1955-01B16F12",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 911,
-															["specName"] = "刺杀",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 230157589,
-														}, -- [81]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 931,
-															["specName"] = "痛苦",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 277381570,
-														}, -- [82]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 929,
-															["specName"] = "邪恶",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 248174708,
-														}, -- [83]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "TANK",
-															["itemLevel"] = 922,
-															["specName"] = "守护",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 72899045,
-														}, -- [84]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 929,
-															["specName"] = "邪恶",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 262025650,
-														}, -- [85]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 924,
-															["specName"] = "神圣",
-															["healing"] = 125893053,
-															["groupParseId"] = "132-306-319",
-														}, -- [86]
-														{
-															["playerId"] = "Player-1955-01765C8F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 195739790,
-														}, -- [87]
-														{
-															["playerId"] = "Player-1955-01D172E8",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 903,
-															["specName"] = "敏锐",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 182242595,
-														}, -- [88]
-														{
-															["playerId"] = "Player-1955-01AC6C79",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 924,
-															["specName"] = "武器",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 215610341,
-														}, -- [89]
-														{
-															["playerId"] = "Player-1955-01C128DB",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 909,
-															["specName"] = "元素",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 204529644,
+															["groupParseId"] = "308-327-53",
+															["damage"] = 204512945,
 														}, -- [90]
 														{
-															["playerId"] = "Player-1955-00F84E73",
+															["playerId"] = "Player-1955-01C128DB",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 931,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 228536802,
+															["itemLevel"] = 915,
+															["specName"] = "元素",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 180654800,
 														}, -- [91]
 														{
-															["playerId"] = "Player-1955-01B07F7A",
+															["playerId"] = "Player-1955-01B843ED",
 															["role"] = "TANK",
-															["itemLevel"] = 934,
-															["specName"] = "防护",
-															["groupParseId"] = "132-306-319",
-															["damage"] = 102743695,
+															["itemLevel"] = 922,
+															["specName"] = "守护",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 53499377,
 														}, -- [92]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 916,
-															["specName"] = "恢复",
-															["healing"] = 170864263,
-															["groupParseId"] = "132-306-319",
-														}, -- [93]
-														{
-															["playerId"] = "Player-1955-01C06D58",
-															["role"] = "HEALER",
-															["itemLevel"] = 907,
-															["specName"] = "恢复",
-															["healing"] = 151673808,
-															["groupParseId"] = "132-306-319",
-														}, -- [94]
-													},
-												},
-												[2037] = {
-													["playerParses"] = {
-														{
-															["playerId"] = "Player-1955-01C4D5A1",
-															["role"] = "HEALER",
-															["itemLevel"] = 909,
-															["specName"] = "神圣",
-															["healing"] = 208392557,
-															["groupParseId"] = "2b-276-22c",
-														}, -- [1]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 918,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 487582886,
-														}, -- [2]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 918,
-															["specName"] = "邪恶",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 522141871,
-														}, -- [3]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 917,
-															["specName"] = "浩劫",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 328216414,
-														}, -- [4]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 915,
-															["specName"] = "狂怒",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 454802825,
-														}, -- [5]
-														{
-															["playerId"] = "Player-1955-01B60ADA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 912,
-															["specName"] = "浩劫",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 347541761,
-														}, -- [6]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "TANK",
-															["itemLevel"] = 913,
-															["specName"] = "守护",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 147043197,
-														}, -- [7]
-														{
-															["playerId"] = "Player-1955-01765C8F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 915,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 389069037,
-														}, -- [8]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 917,
-															["specName"] = "痛苦",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 533520955,
-														}, -- [9]
-														{
-															["playerId"] = "Player-1955-01CF0416",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 914,
-															["specName"] = "刺杀",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 360935812,
-														}, -- [10]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 917,
-															["specName"] = "邪恶",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 590883070,
-														}, -- [11]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 907,
-															["specName"] = "防护",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 241097499,
-														}, -- [12]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 915,
-															["specName"] = "浩劫",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 367153185,
-														}, -- [13]
-														{
-															["playerId"] = "Player-1955-01AD11DC",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 904,
-															["specName"] = "踏风",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 306814730,
-														}, -- [14]
-														{
-															["playerId"] = "Player-1955-01B16F12",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 906,
-															["specName"] = "刺杀",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 368889734,
-														}, -- [15]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "HEALER",
-															["itemLevel"] = 921,
-															["specName"] = "神圣",
-															["healing"] = 287457403,
-															["groupParseId"] = "2b-276-22c",
-														}, -- [16]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 902,
-															["specName"] = "恢复",
-															["healing"] = 310153598,
-															["groupParseId"] = "2b-276-22c",
-														}, -- [17]
-														{
-															["playerId"] = "Player-1955-01C128DB",
-															["role"] = "HEALER",
-															["itemLevel"] = 915,
-															["specName"] = "恢复",
-															["healing"] = 301006307,
-															["groupParseId"] = "2b-276-22c",
-														}, -- [18]
-														{
-															["playerId"] = "Player-1955-01A0210F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 910,
-															["specName"] = "火焰",
-															["groupParseId"] = "2b-276-22c",
-															["damage"] = 524288508,
-														}, -- [19]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "TANK",
-															["itemLevel"] = 915,
-															["specName"] = "守护",
-															["groupParseId"] = "314-55-10f",
-															["damage"] = 203404341,
-														}, -- [20]
-														{
-															["playerId"] = "Player-1955-01B76963",
-															["role"] = "HEALER",
-															["itemLevel"] = 915,
-															["specName"] = "神圣",
-															["healing"] = 290321654,
-															["groupParseId"] = "1d9-2dc-1dc",
-														}, -- [21]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 917,
-															["specName"] = "狂怒",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 537382753,
-														}, -- [22]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 922,
-															["specName"] = "邪恶",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 573666298,
-														}, -- [23]
-														{
-															["playerId"] = "Player-1955-01B60ADA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 915,
-															["specName"] = "浩劫",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 350240306,
-														}, -- [24]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 909,
-															["specName"] = "神圣",
-															["healing"] = 153167761,
-															["groupParseId"] = "1d9-2dc-1dc",
-														}, -- [25]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 921,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 415021710,
-														}, -- [26]
-														{
-															["playerId"] = "Player-1955-01CD872D",
-															["role"] = "TANK",
-															["itemLevel"] = 916,
-															["specName"] = "酒仙",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 215014620,
-														}, -- [27]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 913,
-															["specName"] = "浩劫",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 381767641,
-														}, -- [28]
-														{
-															["playerId"] = "Player-1955-01C06D58",
-															["role"] = "HEALER",
-															["itemLevel"] = 902,
-															["specName"] = "恢复",
-															["healing"] = 312493301,
-															["groupParseId"] = "1d9-2dc-1dc",
-														}, -- [29]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 926,
-															["specName"] = "防护",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 180898250,
-														}, -- [30]
-														{
-															["playerId"] = "Player-1955-01CF0416",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 918,
-															["specName"] = "敏锐",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 356535937,
-														}, -- [31]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 909,
-															["specName"] = "暗影",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 693677893,
-														}, -- [32]
-														{
-															["playerId"] = "Player-1955-01A0210F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 912,
-															["specName"] = "火焰",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 569029216,
-														}, -- [33]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "邪恶",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 428384267,
-														}, -- [34]
-														{
-															["playerId"] = "Player-1955-01CDCC26",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 903,
-															["specName"] = "元素",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 432996806,
-														}, -- [35]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 920,
-															["specName"] = "痛苦",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 440826394,
-														}, -- [36]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "HEALER",
-															["itemLevel"] = 922,
-															["specName"] = "恢复",
-															["healing"] = 210900303,
-															["groupParseId"] = "1d9-2dc-1dc",
-														}, -- [37]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 920,
-															["specName"] = "浩劫",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 331423297,
-														}, -- [38]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 910,
-															["specName"] = "恢复",
-															["healing"] = 292508929,
-															["groupParseId"] = "1d9-2dc-1dc",
-														}, -- [39]
-														{
-															["playerId"] = "Player-1955-01B16F12",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 907,
-															["specName"] = "敏锐",
-															["groupParseId"] = "1d9-2dc-1dc",
-															["damage"] = 309227216,
-														}, -- [40]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "狂怒",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 554577291,
-														}, -- [41]
-														{
-															["playerId"] = "Player-1955-01B60ADA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 905,
-															["specName"] = "浩劫",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 315840858,
-														}, -- [42]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 927,
-															["specName"] = "防护",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 206565933,
-														}, -- [43]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "TANK",
-															["itemLevel"] = 918,
-															["specName"] = "守护",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 155798021,
-														}, -- [44]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 923,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 426341073,
-														}, -- [45]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 914,
-															["specName"] = "浩劫",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 417157930,
-														}, -- [46]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 911,
-															["specName"] = "神圣",
-															["healing"] = 235939148,
-															["groupParseId"] = "270-3aa-1c1",
-														}, -- [47]
-														{
-															["playerId"] = "Player-1955-01BDED8B",
-															["role"] = "TANK",
-															["itemLevel"] = 915,
-															["specName"] = "守护",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 283177838,
-														}, -- [48]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 913,
-															["groupParseId"] = "270-3aa-1c1",
-															["healing"] = 357213039,
-														}, -- [49]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 926,
-															["specName"] = "邪恶",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 579250235,
-														}, -- [50]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 926,
-															["specName"] = "痛苦",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 466345915,
-														}, -- [51]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 923,
-															["specName"] = "浩劫",
-															["groupParseId"] = "270-3aa-1c1",
-															["damage"] = 352762218,
-														}, -- [52]
-														{
-															["playerId"] = "Player-1955-01B76963",
-															["role"] = "HEALER",
-															["itemLevel"] = 917,
-															["specName"] = "神圣",
-															["healing"] = 253331965,
-															["groupParseId"] = "270-3aa-1c1",
-														}, -- [53]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 926,
-															["specName"] = "浩劫",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 320697799,
-														}, -- [54]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 930,
-															["specName"] = "防护",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 195932405,
-														}, -- [55]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 916,
-															["specName"] = "神圣",
-															["healing"] = 254500133,
-															["groupParseId"] = "22f-241-f6",
-														}, -- [56]
-														{
-															["playerId"] = "Player-1955-01CD872D",
-															["role"] = "TANK",
-															["itemLevel"] = 923,
-															["specName"] = "酒仙",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 194851043,
-														}, -- [57]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 923,
-															["specName"] = "狂怒",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 485544420,
-														}, -- [58]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 913,
-															["specName"] = "恢复",
-															["healing"] = 229542926,
-															["groupParseId"] = "22f-241-f6",
-														}, -- [59]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 926,
-															["specName"] = "邪恶",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 553711644,
-														}, -- [60]
-														{
-															["playerId"] = "Player-1955-0186189A",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 924,
-															["specName"] = "冰霜",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 366454250,
-														}, -- [61]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 910,
-															["specName"] = "暗影",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 202578697,
-														}, -- [62]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 912,
-															["specName"] = "浩劫",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 371780500,
-														}, -- [63]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 924,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 382090187,
-														}, -- [64]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 927,
-															["specName"] = "邪恶",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 411197060,
-														}, -- [65]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 928,
-															["specName"] = "痛苦",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 421648859,
-														}, -- [66]
-														{
-															["playerId"] = "Player-1955-01CF0416",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 921,
-															["specName"] = "敏锐",
-															["groupParseId"] = "22f-241-f6",
-															["damage"] = 310310479,
-														}, -- [67]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "HEALER",
-															["itemLevel"] = 923,
-															["specName"] = "恢复",
-															["healing"] = 228696922,
-															["groupParseId"] = "22f-241-f6",
-														}, -- [68]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "HEALER",
-															["itemLevel"] = 923,
-															["specName"] = "恢复",
-															["healing"] = 74044021,
-															["groupParseId"] = "70-14f-381",
-														}, -- [69]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 925,
-															["specName"] = "狂怒",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 367552332,
-														}, -- [70]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "TANK",
-															["itemLevel"] = 925,
-															["specName"] = "鲜血",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 225691734,
-														}, -- [71]
-														{
-															["playerId"] = "Player-1955-0186189A",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 928,
-															["specName"] = "冰霜",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 390929947,
-														}, -- [72]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "HEALER",
-															["itemLevel"] = 923,
-															["specName"] = "神圣",
-															["healing"] = 271764636,
-															["groupParseId"] = "70-14f-381",
-														}, -- [73]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 927,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 293744036,
-														}, -- [74]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "TANK",
-															["itemLevel"] = 914,
-															["specName"] = "复仇",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 235357295,
-														}, -- [75]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 930,
-															["specName"] = "浩劫",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 280221390,
-														}, -- [76]
-														{
-															["playerId"] = "Player-1955-01765C8F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 917,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 379141907,
-														}, -- [77]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 928,
-															["specName"] = "邪恶",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 336210420,
-														}, -- [78]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 923,
-															["specName"] = "神圣",
-															["healing"] = 241858100,
-															["groupParseId"] = "70-14f-381",
-														}, -- [79]
 														{
 															["playerId"] = "Player-1955-01AC6C79",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 923,
-															["specName"] = "武器",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 361885107,
-														}, -- [80]
-														{
-															["playerId"] = "Player-1955-01CF0416",
-															["role"] = "DAMAGER",
 															["itemLevel"] = 925,
-															["specName"] = "敏锐",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 304745437,
-														}, -- [81]
-														{
-															["playerId"] = "Player-1955-01AE4143",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 911,
-															["specName"] = "浩劫",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 254574782,
-														}, -- [82]
-														{
-															["playerId"] = "Player-1955-01B16F12",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 909,
-															["specName"] = "刺杀",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 337751623,
-														}, -- [83]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 930,
-															["specName"] = "痛苦",
-															["groupParseId"] = "70-14f-381",
-															["damage"] = 578065335,
-														}, -- [84]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 934,
-															["specName"] = "防护",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 165831388,
-														}, -- [85]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 927,
-															["specName"] = "邪恶",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 485773161,
-														}, -- [86]
-														{
-															["playerId"] = "Player-1955-01AC6C79",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 924,
 															["specName"] = "武器",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 232888259,
-														}, -- [87]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 925,
-															["specName"] = "狂怒",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 410948869,
-														}, -- [88]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 931,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 378587345,
-														}, -- [89]
-														{
-															["playerId"] = "Player-1955-01D172E8",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 904,
-															["specName"] = "敏锐",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 211045196,
-														}, -- [90]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 916,
-															["specName"] = "浩劫",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 368627401,
-														}, -- [91]
-														{
-															["playerId"] = "Player-1955-01B16F12",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 911,
-															["specName"] = "刺杀",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 304422435,
-														}, -- [92]
-														{
-															["playerId"] = "Player-1955-01765C8F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 360618580,
+															["groupParseId"] = "308-327-53",
+															["damage"] = 226481369,
 														}, -- [93]
 														{
-															["playerId"] = "Player-1955-01C128DB",
+															["playerId"] = "Player-1955-01A17CC8",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 909,
-															["specName"] = "元素",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 387737396,
+															["itemLevel"] = 918,
+															["specName"] = "惩戒",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 184495862,
 														}, -- [94]
 														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 924,
-															["specName"] = "神圣",
-															["healing"] = 208211674,
-															["groupParseId"] = "20d-16f-3bc",
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "邪恶",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 263361343,
 														}, -- [95]
 														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "狂怒",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 226650403,
+														}, -- [96]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 89364844,
+														}, -- [97]
+														{
+															["playerId"] = "Player-1955-01CC16D2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 183772909,
+														}, -- [98]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 786,
+															["specName"] = "浩劫",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 6915008,
+														}, -- [99]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "浩劫",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 231870177,
+														}, -- [100]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "敏锐",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 119112849,
+														}, -- [101]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "痛苦",
+															["groupParseId"] = "308-327-53",
+															["damage"] = 206608106,
+														}, -- [102]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 75283065,
+															["groupParseId"] = "308-327-53",
+														}, -- [103]
+														{
 															["playerId"] = "Player-1955-018E3318",
 															["role"] = "DAMAGER",
 															["itemLevel"] = 929,
 															["specName"] = "邪恶",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 443272315,
-														}, -- [96]
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 186409723,
+														}, -- [104]
 														{
-															["playerId"] = "Player-1955-01CCD4F2",
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "守护",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 58385883,
+														}, -- [105]
+														{
+															["playerId"] = "Player-1955-01C5A976",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 931,
+															["itemLevel"] = 913,
+															["specName"] = "敏锐",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 168063238,
+														}, -- [106]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "敏锐",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 243700456,
+														}, -- [107]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "武器",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 215029300,
+														}, -- [108]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 249710312,
+														}, -- [109]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 250832244,
+														}, -- [110]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 908,
+															["specName"] = "浩劫",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 121577001,
+														}, -- [111]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 66834082,
+														}, -- [112]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "浩劫",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 226988313,
+														}, -- [113]
+														{
+															["playerId"] = "Player-1955-01AD776C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
 															["specName"] = "痛苦",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 400144531,
-														}, -- [97]
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 94856433,
+														}, -- [114]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "火焰",
+															["groupParseId"] = "29f-fa-393",
+															["damage"] = 173134856,
+														}, -- [115]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 912,
+															["specName"] = "恢复",
+															["healing"] = 94027776,
+															["groupParseId"] = "29f-fa-393",
+														}, -- [116]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "神圣",
+															["healing"] = 121708240,
+															["groupParseId"] = "29f-fa-393",
+														}, -- [117]
 														{
 															["playerId"] = "Player-1955-01C6544C",
 															["role"] = "HEALER",
 															["itemLevel"] = 916,
 															["specName"] = "恢复",
-															["healing"] = 282428055,
-															["groupParseId"] = "20d-16f-3bc",
-														}, -- [98]
-														{
-															["playerId"] = "Player-1955-01C06D58",
-															["role"] = "HEALER",
-															["itemLevel"] = 907,
-															["specName"] = "恢复",
-															["healing"] = 259115656,
-															["groupParseId"] = "20d-16f-3bc",
-														}, -- [99]
+															["healing"] = 90722329,
+															["groupParseId"] = "29f-fa-393",
+														}, -- [118]
 														{
 															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "TANK",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "平衡",
+															["groupParseId"] = "9f-316-265",
+															["damage"] = 133807476,
+														}, -- [119]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
 															["itemLevel"] = 922,
-															["specName"] = "守护",
-															["groupParseId"] = "20d-16f-3bc",
-															["damage"] = 108460509,
-														}, -- [100]
+															["specName"] = "敏锐",
+															["groupParseId"] = "9f-316-265",
+															["damage"] = 202871488,
+														}, -- [120]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "9f-316-265",
+															["damage"] = 223731067,
+														}, -- [121]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 937,
+															["specName"] = "防护",
+															["groupParseId"] = "9f-316-265",
+															["damage"] = 76878302,
+														}, -- [122]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "火焰",
+															["groupParseId"] = "9f-316-265",
+															["damage"] = 208479911,
+														}, -- [123]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 92252367,
+															["groupParseId"] = "9f-316-265",
+														}, -- [124]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 917,
+															["specName"] = "恢复",
+															["healing"] = 72712035,
+															["groupParseId"] = "9f-316-265",
+														}, -- [125]
 													},
 												},
 												[2054] = {
@@ -77970,6 +81212,318 @@ GuildSkadaHighScoreDB = {
 															["healing"] = 158685970,
 															["groupParseId"] = "154-253-251",
 														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "元素",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 351792929,
+														}, -- [82]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "狂怒",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 411820004,
+														}, -- [83]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 152542428,
+														}, -- [84]
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 929,
+															["specName"] = "酒仙",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 149085431,
+														}, -- [85]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "敏锐",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 347113652,
+														}, -- [86]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 352746852,
+														}, -- [87]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "武器",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 332194859,
+														}, -- [88]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "惩戒",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 285320332,
+														}, -- [89]
+														{
+															["playerId"] = "Player-1955-01CC16D2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 315947650,
+														}, -- [90]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "邪恶",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 318979671,
+														}, -- [91]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "痛苦",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 344767393,
+														}, -- [92]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 914,
+															["specName"] = "武器",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 265108971,
+														}, -- [93]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "浩劫",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 360113268,
+														}, -- [94]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 228001596,
+															["groupParseId"] = "128-158-44",
+														}, -- [95]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "刺杀",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 287598919,
+														}, -- [96]
+														{
+															["playerId"] = "Player-1955-01AE27C2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "浩劫",
+															["groupParseId"] = "128-158-44",
+															["damage"] = 111229538,
+														}, -- [97]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 926,
+															["specName"] = "神圣",
+															["healing"] = 135298226,
+															["groupParseId"] = "128-158-44",
+														}, -- [98]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "守护",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 133983603,
+														}, -- [99]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 339689406,
+														}, -- [100]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 908,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 220835322,
+														}, -- [101]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 164813303,
+														}, -- [102]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 333094836,
+														}, -- [103]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "火焰",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 274641635,
+														}, -- [104]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 362147236,
+														}, -- [105]
+														{
+															["playerId"] = "Player-1955-01C5A976",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 226895296,
+														}, -- [106]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 187736973,
+															["groupParseId"] = "1d8-6a-f5",
+														}, -- [107]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "武器",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 331331735,
+														}, -- [108]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 427563950,
+														}, -- [109]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "神圣",
+															["healing"] = 127758854,
+															["groupParseId"] = "1d8-6a-f5",
+														}, -- [110]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 277050032,
+														}, -- [111]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1d8-6a-f5",
+															["damage"] = 421726896,
+														}, -- [112]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "恢复",
+															["healing"] = 259458026,
+															["groupParseId"] = "1d8-6a-f5",
+														}, -- [113]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1bb-33d-27d",
+															["damage"] = 407476683,
+														}, -- [114]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 937,
+															["specName"] = "防护",
+															["groupParseId"] = "1bb-33d-27d",
+															["damage"] = 136620855,
+														}, -- [115]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 930,
+															["specName"] = "守护",
+															["groupParseId"] = "1bb-33d-27d",
+															["damage"] = 142937824,
+														}, -- [116]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1bb-33d-27d",
+															["damage"] = 421952577,
+														}, -- [117]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 917,
+															["specName"] = "恢复",
+															["healing"] = 133695073,
+															["groupParseId"] = "1bb-33d-27d",
+														}, -- [118]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "火焰",
+															["groupParseId"] = "1bb-33d-27d",
+															["damage"] = 283458536,
+														}, -- [119]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 177207633,
+															["groupParseId"] = "1bb-33d-27d",
+														}, -- [120]
 													},
 												},
 												[2048] = {
@@ -78726,394 +82280,1361 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "207-3bc-3cf",
 															["damage"] = 86197562,
 														}, -- [95]
-													},
-												},
-												[2052] = {
-													["playerParses"] = {
 														{
-															["playerId"] = "Player-1955-01CD872D",
-															["role"] = "TANK",
-															["itemLevel"] = 919,
-															["specName"] = "酒仙",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 112085674,
-														}, -- [1]
-														{
-															["playerId"] = "Player-1955-01B16F12",
+															["playerId"] = "Player-1955-01C128DB",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 908,
-															["specName"] = "刺杀",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 305160177,
-														}, -- [2]
-														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 923,
-															["specName"] = "浩劫",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 315474334,
-														}, -- [3]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 910,
-															["specName"] = "暗影",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 318628225,
-														}, -- [4]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 913,
-															["specName"] = "浩劫",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 328527727,
-														}, -- [5]
+															["itemLevel"] = 915,
+															["specName"] = "元素",
+															["groupParseId"] = "166-295-153",
+															["damage"] = 241396001,
+														}, -- [96]
 														{
 															["playerId"] = "Player-1955-01BCB213",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 920,
-															["specName"] = "狂怒",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 339212618,
-														}, -- [6]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 915,
-															["specName"] = "惩戒",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 199903568,
-														}, -- [7]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 920,
-															["specName"] = "邪恶",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 298470957,
-														}, -- [8]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 922,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 353249028,
-														}, -- [9]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 927,
-															["specName"] = "防护",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 111268784,
-														}, -- [10]
-														{
-															["playerId"] = "Player-1955-01B60ADA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 905,
-															["specName"] = "浩劫",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 350807850,
-														}, -- [11]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
 															["itemLevel"] = 926,
-															["specName"] = "邪恶",
-															["groupParseId"] = "35a-12a-1ab",
-															["damage"] = 436032515,
-														}, -- [12]
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "HEALER",
-															["itemLevel"] = 923,
-															["specName"] = "恢复",
-															["healing"] = 258560880,
-															["groupParseId"] = "35a-12a-1ab",
-														}, -- [13]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 911,
-															["specName"] = "恢复",
-															["healing"] = 300133419,
-															["groupParseId"] = "35a-12a-1ab",
-														}, -- [14]
-														{
-															["playerId"] = "Player-1955-01B76963",
-															["role"] = "HEALER",
-															["itemLevel"] = 917,
-															["specName"] = "神圣",
-															["healing"] = 266106877,
-															["groupParseId"] = "35a-12a-1ab",
-														}, -- [15]
-														{
-															["playerId"] = "Player-1955-01AD40CF",
-															["role"] = "HEALER",
-															["itemLevel"] = 916,
-															["specName"] = "神圣",
-															["healing"] = 163280117,
-															["groupParseId"] = "3d3-3a9-284",
-														}, -- [16]
-														{
-															["playerId"] = "Player-1955-01CF0416",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 921,
-															["specName"] = "敏锐",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 288571244,
-														}, -- [17]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 927,
-															["specName"] = "邪恶",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 269621418,
-														}, -- [18]
+															["specName"] = "狂怒",
+															["groupParseId"] = "166-295-153",
+															["damage"] = 402419906,
+														}, -- [97]
 														{
 															["playerId"] = "Player-1955-01CC16D2",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 905,
+															["itemLevel"] = 924,
 															["specName"] = "浩劫",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 226679035,
-														}, -- [19]
+															["groupParseId"] = "166-295-153",
+															["damage"] = 168139559,
+														}, -- [98]
 														{
 															["playerId"] = "Player-1955-01CD872D",
 															["role"] = "TANK",
-															["itemLevel"] = 923,
+															["itemLevel"] = 929,
 															["specName"] = "酒仙",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 102629369,
-														}, -- [20]
+															["groupParseId"] = "166-295-153",
+															["damage"] = 96657097,
+														}, -- [99]
 														{
-															["playerId"] = "Player-1955-01AED7BA",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 927,
-															["specName"] = "浩劫",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 323384902,
-														}, -- [21]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 916,
-															["specName"] = "浩劫",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 350208892,
-														}, -- [22]
-														{
-															["playerId"] = "Player-1955-01AC1155",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 927,
-															["specName"] = "邪恶",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 375878638,
-														}, -- [23]
-														{
-															["playerId"] = "Player-1955-01B07F7A",
-															["role"] = "TANK",
-															["itemLevel"] = 931,
-															["specName"] = "防护",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 91627461,
-														}, -- [24]
-														{
-															["playerId"] = "Player-1955-00ED3D09",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 911,
-															["specName"] = "暗影",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 295589428,
-														}, -- [25]
-														{
-															["playerId"] = "Player-1955-00F84E73",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 925,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 219190964,
-														}, -- [26]
-														{
-															["playerId"] = "Player-1955-01BCB213",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 922,
-															["specName"] = "狂怒",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 381968348,
-														}, -- [27]
-														{
-															["playerId"] = "Player-1955-0186189A",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 925,
-															["specName"] = "冰霜",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 256589881,
-														}, -- [28]
-														{
-															["playerId"] = "Player-1955-01A0210F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "火焰",
-															["groupParseId"] = "3d3-3a9-284",
-															["damage"] = 322663864,
-														}, -- [29]
-														{
-															["playerId"] = "Player-1955-01C6544C",
-															["role"] = "HEALER",
-															["itemLevel"] = 913,
-															["specName"] = "恢复",
-															["healing"] = 267007491,
-															["groupParseId"] = "3d3-3a9-284",
-														}, -- [30]
-														{
-															["playerId"] = "Player-1955-01B843ED",
+															["playerId"] = "Player-1955-01AD40CF",
 															["role"] = "HEALER",
 															["itemLevel"] = 924,
-															["specName"] = "恢复",
-															["healing"] = 279331730,
-															["groupParseId"] = "3d3-3a9-284",
-														}, -- [31]
+															["specName"] = "神圣",
+															["healing"] = 140924820,
+															["groupParseId"] = "166-295-153",
+														}, -- [100]
 														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "HEALER",
-															["itemLevel"] = 923,
-															["specName"] = "恢复",
-															["healing"] = 60866949,
-															["groupParseId"] = "386-57-83",
-														}, -- [32]
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "邪恶",
+															["groupParseId"] = "166-295-153",
+															["damage"] = 412126306,
+														}, -- [101]
 														{
-															["playerId"] = "Player-1955-01B843ED",
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "惩戒",
+															["groupParseId"] = "166-295-153",
+															["damage"] = 299809270,
+														}, -- [102]
+														{
+															["playerId"] = "Player-1955-01AF584B",
 															["role"] = "TANK",
-															["itemLevel"] = 922,
-															["specName"] = "守护",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 93202994,
-														}, -- [33]
+															["itemLevel"] = 918,
+															["specName"] = "复仇",
+															["groupParseId"] = "166-295-153",
+															["damage"] = 93499733,
+														}, -- [103]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "痛苦",
+															["groupParseId"] = "166-295-153",
+															["damage"] = 375592700,
+														}, -- [104]
 														{
 															["playerId"] = "Player-1955-01AC6C79",
 															["role"] = "DAMAGER",
 															["itemLevel"] = 925,
 															["specName"] = "武器",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 348674245,
-														}, -- [34]
+															["groupParseId"] = "166-295-153",
+															["damage"] = 334286636,
+														}, -- [105]
 														{
-															["playerId"] = "Player-1955-01BCB213",
+															["playerId"] = "Player-1955-01AE27C2",
 															["role"] = "DAMAGER",
+															["itemLevel"] = 904,
+															["specName"] = "浩劫",
+															["groupParseId"] = "166-295-153",
+															["damage"] = 95227870,
+														}, -- [106]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
 															["itemLevel"] = 925,
-															["specName"] = "狂怒",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 282832616,
-														}, -- [35]
+															["specName"] = "恢复",
+															["healing"] = 256884289,
+															["groupParseId"] = "166-295-153",
+														}, -- [107]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "166-295-153",
+															["damage"] = 65265150,
+														}, -- [108]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "TANK",
+															["itemLevel"] = 801,
+															["specName"] = "复仇",
+															["groupParseId"] = "166-295-153",
+															["damage"] = 20644663,
+														}, -- [109]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "神圣",
+															["healing"] = 134625676,
+															["groupParseId"] = "1e0-f9-343",
+														}, -- [110]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 273367692,
+														}, -- [111]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "守护",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 77705488,
+														}, -- [112]
 														{
 															["playerId"] = "Player-1955-01C6544C",
 															["role"] = "HEALER",
 															["itemLevel"] = 916,
 															["specName"] = "恢复",
-															["healing"] = 307426501,
-															["groupParseId"] = "342-83-298",
-														}, -- [36]
-														{
-															["playerId"] = "Player-1955-01B16F12",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 912,
-															["specName"] = "刺杀",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 323007580,
-														}, -- [37]
-														{
-															["playerId"] = "Player-1955-01C128DB",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 909,
-															["specName"] = "元素",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 261760513,
-														}, -- [38]
-														{
-															["playerId"] = "Player-1955-018E3318",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 929,
-															["specName"] = "邪恶",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 225571829,
-														}, -- [39]
-														{
-															["playerId"] = "Player-1955-01765C8F",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 919,
-															["specName"] = "野兽控制",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 301484952,
-														}, -- [40]
-														{
-															["playerId"] = "Player-1955-01CCD4F2",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 931,
-															["specName"] = "痛苦",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 360434494,
-														}, -- [41]
-														{
-															["playerId"] = "Player-1955-01AF584B",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 916,
-															["specName"] = "浩劫",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 302580527,
-														}, -- [42]
+															["healing"] = 142006558,
+															["groupParseId"] = "1e0-f9-343",
+														}, -- [113]
 														{
 															["playerId"] = "Player-1955-01AC1155",
 															["role"] = "DAMAGER",
 															["itemLevel"] = 929,
 															["specName"] = "邪恶",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 389154989,
-														}, -- [43]
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 334258404,
+														}, -- [114]
 														{
-															["playerId"] = "Player-1955-01CF9CD5",
+															["playerId"] = "Player-1955-01C5A976",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 914,
-															["specName"] = "武器",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 255384406,
-														}, -- [44]
+															["itemLevel"] = 913,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 220552035,
+														}, -- [115]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "火焰",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 223182830,
+														}, -- [116]
+														{
+															["playerId"] = "Player-1955-01AD776C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "痛苦",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 148816445,
+														}, -- [117]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 302470824,
+														}, -- [118]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 908,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 139941360,
+														}, -- [119]
 														{
 															["playerId"] = "Player-1955-01C06D58",
 															["role"] = "HEALER",
-															["itemLevel"] = 907,
+															["itemLevel"] = 912,
 															["specName"] = "恢复",
-															["healing"] = 261642931,
-															["groupParseId"] = "342-83-298",
-														}, -- [45]
+															["healing"] = 159952709,
+															["groupParseId"] = "1e0-f9-343",
+														}, -- [120]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 275241229,
+														}, -- [121]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "武器",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 270950044,
+														}, -- [122]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 86155088,
+														}, -- [123]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1e0-f9-343",
+															["damage"] = 276077047,
+														}, -- [124]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "平衡",
+															["groupParseId"] = "3e-5d-36c",
+															["damage"] = 216041491,
+														}, -- [125]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "3e-5d-36c",
+															["damage"] = 273210897,
+														}, -- [126]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "火焰",
+															["groupParseId"] = "3e-5d-36c",
+															["damage"] = 251719926,
+														}, -- [127]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "3e-5d-36c",
+															["damage"] = 283667114,
+														}, -- [128]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 140136229,
+															["groupParseId"] = "3e-5d-36c",
+														}, -- [129]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 937,
+															["specName"] = "防护",
+															["groupParseId"] = "3e-5d-36c",
+															["damage"] = 105630982,
+														}, -- [130]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 917,
+															["specName"] = "恢复",
+															["healing"] = 148230754,
+															["groupParseId"] = "3e-5d-36c",
+														}, -- [131]
+													},
+												},
+												[2036] = {
+													["playerParses"] = {
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 913,
+															["specName"] = "守护",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 69525033,
+														}, -- [1]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "邪恶",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 227702874,
+														}, -- [2]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 906,
+															["specName"] = "元素",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 223930903,
+														}, -- [3]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "邪恶",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 293288641,
+														}, -- [4]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "浩劫",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 204931414,
+														}, -- [5]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 905,
+															["specName"] = "敏锐",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 177190002,
+														}, -- [6]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 914,
+															["specName"] = "狂怒",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 263219658,
+														}, -- [7]
 														{
 															["playerId"] = "Player-1955-00F84E73",
 															["role"] = "DAMAGER",
-															["itemLevel"] = 931,
+															["itemLevel"] = 918,
 															["specName"] = "野兽控制",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 246080733,
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 201209088,
+														}, -- [8]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "痛苦",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 259551728,
+														}, -- [9]
+														{
+															["playerId"] = "Player-1955-01A0210F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 905,
+															["specName"] = "火焰",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 311782979,
+														}, -- [10]
+														{
+															["playerId"] = "Player-1955-01AD11DC",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 904,
+															["specName"] = "踏风",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 229260960,
+														}, -- [11]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "浩劫",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 235959189,
+														}, -- [12]
+														{
+															["playerId"] = "Player-1955-01765C8F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 141675455,
+														}, -- [13]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 907,
+															["specName"] = "防护",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 98683617,
+														}, -- [14]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 902,
+															["specName"] = "恢复",
+															["healing"] = 192921472,
+															["groupParseId"] = "20b-176-199",
+														}, -- [15]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "HEALER",
+															["itemLevel"] = 921,
+															["specName"] = "神圣",
+															["healing"] = 185860459,
+															["groupParseId"] = "20b-176-199",
+														}, -- [16]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "刺杀",
+															["groupParseId"] = "20b-176-199",
+															["damage"] = 240626787,
+														}, -- [17]
+														{
+															["playerId"] = "Player-1955-01C4D5A1",
+															["role"] = "HEALER",
+															["itemLevel"] = 909,
+															["specName"] = "神圣",
+															["healing"] = 139186608,
+															["groupParseId"] = "20b-176-199",
+														}, -- [18]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "守护",
+															["groupParseId"] = "145-172-1b0",
+															["damage"] = 79277078,
+														}, -- [19]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "浩劫",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 242303457,
+														}, -- [20]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "浩劫",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 270705687,
+														}, -- [21]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "狂怒",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 256996380,
+														}, -- [22]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "暗影",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 276619113,
+														}, -- [23]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 254988735,
+														}, -- [24]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 902,
+															["specName"] = "恢复",
+															["healing"] = 173917036,
+															["groupParseId"] = "53-368-2d4",
+														}, -- [25]
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 915,
+															["specName"] = "酒仙",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 103097948,
+														}, -- [26]
+														{
+															["playerId"] = "Player-1955-01B60ADA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "浩劫",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 221584034,
+														}, -- [27]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "邪恶",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 261749018,
+														}, -- [28]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "痛苦",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 269589312,
+														}, -- [29]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 909,
+															["specName"] = "神圣",
+															["healing"] = 99110974,
+															["groupParseId"] = "53-368-2d4",
+														}, -- [30]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "敏锐",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 255640655,
+														}, -- [31]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 910,
+															["specName"] = "恢复",
+															["healing"] = 179388736,
+															["groupParseId"] = "53-368-2d4",
+														}, -- [32]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "邪恶",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 329845370,
+														}, -- [33]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 915,
+															["specName"] = "神圣",
+															["healing"] = 186435526,
+															["groupParseId"] = "53-368-2d4",
+														}, -- [34]
+														{
+															["playerId"] = "Player-1955-01A0210F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "火焰",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 324710389,
+														}, -- [35]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 926,
+															["specName"] = "防护",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 119728785,
+														}, -- [36]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "恢复",
+															["healing"] = 117730662,
+															["groupParseId"] = "53-368-2d4",
+														}, -- [37]
+														{
+															["playerId"] = "Player-1955-01CDCC26",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 903,
+															["specName"] = "元素",
+															["groupParseId"] = "53-368-2d4",
+															["damage"] = 188364724,
+														}, -- [38]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 195903252,
+															["groupParseId"] = "36d-3b9-36",
+														}, -- [39]
+														{
+															["playerId"] = "Player-1955-01BDED8B",
+															["role"] = "TANK",
+															["itemLevel"] = 913,
+															["specName"] = "守护",
+															["groupParseId"] = "36d-3b9-36",
+															["damage"] = 131473551,
+														}, -- [40]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 914,
+															["specName"] = "浩劫",
+															["groupParseId"] = "36d-3b9-36",
+															["damage"] = 241133487,
+														}, -- [41]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 911,
+															["specName"] = "神圣",
+															["healing"] = 171682990,
+															["groupParseId"] = "36d-3b9-36",
+														}, -- [42]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "浩劫",
+															["groupParseId"] = "36d-3b9-36",
+															["damage"] = 254415561,
+														}, -- [43]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "36d-3b9-36",
+															["damage"] = 266786957,
+														}, -- [44]
+														{
+															["playerId"] = "Player-1955-01B60ADA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 905,
+															["specName"] = "浩劫",
+															["groupParseId"] = "36d-3b9-36",
+															["damage"] = 254654950,
+														}, -- [45]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 927,
+															["specName"] = "防护",
+															["groupParseId"] = "36d-3b9-36",
+															["damage"] = 117569261,
 														}, -- [46]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "恢复",
+															["healing"] = 136676444,
+															["groupParseId"] = "36d-3b9-36",
+														}, -- [47]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "狂怒",
+															["groupParseId"] = "36d-3b9-36",
+															["damage"] = 303027693,
+														}, -- [48]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "邪恶",
+															["groupParseId"] = "36d-3b9-36",
+															["damage"] = 341311759,
+														}, -- [49]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "狂怒",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 268641478,
+														}, -- [50]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 279631549,
+														}, -- [51]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 230237074,
+														}, -- [52]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "邪恶",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 250391566,
+														}, -- [53]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 236600257,
+														}, -- [54]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "敏锐",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 253261692,
+														}, -- [55]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "浩劫",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 241571700,
+														}, -- [56]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "神圣",
+															["healing"] = 120959826,
+															["groupParseId"] = "1da-bb-2b2",
+														}, -- [57]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 930,
+															["specName"] = "防护",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 133201871,
+														}, -- [58]
+														{
+															["playerId"] = "Player-1955-0186189A",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 920,
+															["specName"] = "冰霜",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 225820209,
+														}, -- [59]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 920,
+															["specName"] = "守护",
+															["groupParseId"] = "1da-bb-2b2",
+															["damage"] = 84158972,
+														}, -- [60]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 156338972,
+															["groupParseId"] = "1da-bb-2b2",
+														}, -- [61]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "HEALER",
+															["itemLevel"] = 921,
+															["specName"] = "神圣",
+															["healing"] = 147276124,
+															["groupParseId"] = "1da-bb-2b2",
+														}, -- [62]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "浩劫",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 263675319,
+														}, -- [63]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 921,
+															["specName"] = "神圣",
+															["healing"] = 102799830,
+															["groupParseId"] = "14b-2f7-137",
+														}, -- [64]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "狂怒",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 283623793,
+														}, -- [65]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 202537258,
+														}, -- [66]
+														{
+															["playerId"] = "Player-1955-0186189A",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "冰霜",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 294915226,
+														}, -- [67]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "痛苦",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 236154888,
+														}, -- [68]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 923,
+															["specName"] = "武器",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 219497667,
+														}, -- [69]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "刺杀",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 178981262,
+														}, -- [70]
+														{
+															["playerId"] = "Player-1955-01765C8F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 198544445,
+														}, -- [71]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 270497119,
+														}, -- [72]
+														{
+															["playerId"] = "Player-1955-01AE4143",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "浩劫",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 172417164,
+														}, -- [73]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "鲜血",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 99257078,
+														}, -- [74]
+														{
+															["playerId"] = "Player-1955-01CF0416",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "敏锐",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 240825599,
+														}, -- [75]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "TANK",
+															["itemLevel"] = 914,
+															["specName"] = "复仇",
+															["groupParseId"] = "14b-2f7-137",
+															["damage"] = 91421973,
+														}, -- [76]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "恢复",
+															["healing"] = 120212997,
+															["groupParseId"] = "14b-2f7-137",
+														}, -- [77]
+														{
+															["playerId"] = "Player-1955-00ED3D09",
+															["role"] = "HEALER",
+															["itemLevel"] = 923,
+															["specName"] = "神圣",
+															["healing"] = 136539902,
+															["groupParseId"] = "14b-2f7-137",
+														}, -- [78]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "狂怒",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 260692916,
+														}, -- [79]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 912,
+															["specName"] = "浩劫",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 265100824,
+														}, -- [80]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 911,
+															["specName"] = "刺杀",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 230157589,
+														}, -- [81]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "痛苦",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 277381570,
+														}, -- [82]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 248174708,
+														}, -- [83]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 922,
+															["specName"] = "守护",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 72899045,
+														}, -- [84]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 262025650,
+														}, -- [85]
 														{
 															["playerId"] = "Player-1955-01AD40CF",
 															["role"] = "HEALER",
 															["itemLevel"] = 924,
 															["specName"] = "神圣",
-															["healing"] = 174738351,
-															["groupParseId"] = "342-83-298",
-														}, -- [47]
+															["healing"] = 125893053,
+															["groupParseId"] = "132-306-319",
+														}, -- [86]
+														{
+															["playerId"] = "Player-1955-01765C8F",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 195739790,
+														}, -- [87]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 903,
+															["specName"] = "敏锐",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 182242595,
+														}, -- [88]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "武器",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 215610341,
+														}, -- [89]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "元素",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 204529644,
+														}, -- [90]
+														{
+															["playerId"] = "Player-1955-00F84E73",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 931,
+															["specName"] = "野兽控制",
+															["groupParseId"] = "132-306-319",
+															["damage"] = 228536802,
+														}, -- [91]
 														{
 															["playerId"] = "Player-1955-01B07F7A",
 															["role"] = "TANK",
 															["itemLevel"] = 934,
 															["specName"] = "防护",
-															["groupParseId"] = "342-83-298",
-															["damage"] = 103619356,
-														}, -- [48]
+															["groupParseId"] = "132-306-319",
+															["damage"] = 102743695,
+														}, -- [92]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "恢复",
+															["healing"] = 170864263,
+															["groupParseId"] = "132-306-319",
+														}, -- [93]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 907,
+															["specName"] = "恢复",
+															["healing"] = 151673808,
+															["groupParseId"] = "132-306-319",
+														}, -- [94]
+														{
+															["playerId"] = "Player-1955-01B16F12",
+															["role"] = "DAMAGER",
+															["specName"] = "刺杀",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 240626937,
+														}, -- [95]
+														{
+															["playerId"] = "Player-1955-01C128DB",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "元素",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 243551361,
+														}, -- [96]
+														{
+															["playerId"] = "Player-1955-01A17CC8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 919,
+															["specName"] = "惩戒",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 289062157,
+														}, -- [97]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "敏锐",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 274401071,
+														}, -- [98]
+														{
+															["playerId"] = "Player-1955-01BCB213",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 926,
+															["specName"] = "狂怒",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 345328015,
+														}, -- [99]
+														{
+															["playerId"] = "Player-1955-01CCD4F2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "痛苦",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 321706059,
+														}, -- [100]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 928,
+															["specName"] = "邪恶",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 327391200,
+														}, -- [101]
+														{
+															["playerId"] = "Player-1955-01AD40CF",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "神圣",
+															["healing"] = 126063297,
+															["groupParseId"] = "b2-31d-19f",
+														}, -- [102]
+														{
+															["playerId"] = "Player-1955-01AE27C2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 905,
+															["specName"] = "浩劫",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 236667550,
+														}, -- [103]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 925,
+															["specName"] = "武器",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 278878545,
+														}, -- [104]
+														{
+															["playerId"] = "Player-1955-01CD872D",
+															["role"] = "TANK",
+															["itemLevel"] = 929,
+															["specName"] = "酒仙",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 107559694,
+														}, -- [105]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "HEALER",
+															["itemLevel"] = 925,
+															["specName"] = "恢复",
+															["healing"] = 164860289,
+															["groupParseId"] = "b2-31d-19f",
+														}, -- [106]
+														{
+															["playerId"] = "Player-1955-01CC16D2",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 250609275,
+														}, -- [107]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 916,
+															["specName"] = "浩劫",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 274100410,
+														}, -- [108]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 88668065,
+														}, -- [109]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "TANK",
+															["itemLevel"] = 801,
+															["specName"] = "复仇",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 18489319,
+														}, -- [110]
+														{
+															["playerId"] = "Player-1955-01CF9CD5",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "武器",
+															["groupParseId"] = "b2-31d-19f",
+															["damage"] = 0,
+														}, -- [111]
+														{
+															["playerId"] = "Player-1955-018E3318",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 288444955,
+														}, -- [112]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 935,
+															["specName"] = "防护",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 121597867,
+														}, -- [113]
+														{
+															["playerId"] = "Player-1955-01AC1155",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 929,
+															["specName"] = "邪恶",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 300953923,
+														}, -- [114]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 921,
+															["specName"] = "敏锐",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 267859593,
+														}, -- [115]
+														{
+															["playerId"] = "Player-1955-01C5A976",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 913,
+															["specName"] = "敏锐",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 181666008,
+														}, -- [116]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 925,
+															["specName"] = "守护",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 94760006,
+														}, -- [117]
+														{
+															["playerId"] = "Player-1955-01AED7BA",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 932,
+															["specName"] = "浩劫",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 264756367,
+														}, -- [118]
+														{
+															["playerId"] = "Player-1955-01AC6C79",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 927,
+															["specName"] = "武器",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 224786479,
+														}, -- [119]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "浩劫",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 288599270,
+														}, -- [120]
+														{
+															["playerId"] = "Player-1955-01B5F6F7",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 909,
+															["specName"] = "浩劫",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 151198150,
+														}, -- [121]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 915,
+															["specName"] = "火焰",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 215390205,
+														}, -- [122]
+														{
+															["playerId"] = "Player-1955-01AD776C",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 910,
+															["specName"] = "痛苦",
+															["groupParseId"] = "380-bd-193",
+															["damage"] = 120386042,
+														}, -- [123]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 916,
+															["specName"] = "恢复",
+															["healing"] = 139783310,
+															["groupParseId"] = "380-bd-193",
+														}, -- [124]
+														{
+															["playerId"] = "Player-1955-01C06D58",
+															["role"] = "HEALER",
+															["itemLevel"] = 913,
+															["specName"] = "恢复",
+															["healing"] = 129504480,
+															["groupParseId"] = "380-bd-193",
+														}, -- [125]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 922,
+															["specName"] = "神圣",
+															["healing"] = 157920684,
+															["groupParseId"] = "380-bd-193",
+														}, -- [126]
+														{
+															["playerId"] = "Player-1955-01C6544C",
+															["role"] = "HEALER",
+															["itemLevel"] = 917,
+															["specName"] = "恢复",
+															["healing"] = 157061791,
+															["groupParseId"] = "20e-11d-196",
+														}, -- [127]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "野性",
+															["groupParseId"] = "20e-11d-196",
+															["damage"] = 310453198,
+														}, -- [128]
+														{
+															["playerId"] = "Player-1955-01B07F7A",
+															["role"] = "TANK",
+															["itemLevel"] = 937,
+															["specName"] = "防护",
+															["groupParseId"] = "20e-11d-196",
+															["damage"] = 149957101,
+														}, -- [129]
+														{
+															["playerId"] = "Player-1955-01AF584B",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 924,
+															["specName"] = "浩劫",
+															["groupParseId"] = "20e-11d-196",
+															["damage"] = 311994321,
+														}, -- [130]
+														{
+															["playerId"] = "Player-1955-01D172E8",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 922,
+															["specName"] = "敏锐",
+															["groupParseId"] = "20e-11d-196",
+															["damage"] = 332962771,
+														}, -- [131]
+														{
+															["playerId"] = "Player-1955-01CDA453",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 918,
+															["specName"] = "火焰",
+															["groupParseId"] = "20e-11d-196",
+															["damage"] = 271416101,
+														}, -- [132]
+														{
+															["playerId"] = "Player-1955-01B76963",
+															["role"] = "HEALER",
+															["itemLevel"] = 924,
+															["specName"] = "神圣",
+															["healing"] = 140998626,
+															["groupParseId"] = "20e-11d-196",
+														}, -- [133]
 													},
 												},
 											},
@@ -79130,6 +83651,22 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "22a-1e1-25c",
 															["damage"] = 86297486,
 														}, -- [1]
+														{
+															["playerId"] = "Player-1955-01C5F28F",
+															["role"] = "TANK",
+															["itemLevel"] = 908,
+															["specName"] = "复仇",
+															["groupParseId"] = "219-2b9-339",
+															["damage"] = 91764154,
+														}, -- [2]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 928,
+															["specName"] = "守护",
+															["groupParseId"] = "345-205-a5",
+															["damage"] = 73849217,
+														}, -- [3]
 													},
 												},
 												[2050] = {
@@ -79142,6 +83679,14 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "388-216-46",
 															["damage"] = 203720711,
 														}, -- [1]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 918,
+															["specName"] = "守护",
+															["groupParseId"] = "b4-b-303",
+															["damage"] = 77542566,
+														}, -- [2]
 													},
 												},
 												[2051] = {
@@ -79162,6 +83707,14 @@ GuildSkadaHighScoreDB = {
 															["healing"] = 282895415,
 															["groupParseId"] = "155-266-33c",
 														}, -- [2]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 930,
+															["specName"] = "野性",
+															["groupParseId"] = "2c3-224-18d",
+															["damage"] = 337284457,
+														}, -- [3]
 													},
 												},
 												[2036] = {
@@ -79200,18 +83753,6 @@ GuildSkadaHighScoreDB = {
 														}, -- [4]
 													},
 												},
-												[2054] = {
-													["playerParses"] = {
-														{
-															["playerId"] = "Player-1955-01B843ED",
-															["role"] = "DAMAGER",
-															["itemLevel"] = 917,
-															["specName"] = "平衡",
-															["groupParseId"] = "b2-84-3bf",
-															["damage"] = 199683332,
-														}, -- [1]
-													},
-												},
 												[2037] = {
 													["playerParses"] = {
 														{
@@ -79248,6 +83789,26 @@ GuildSkadaHighScoreDB = {
 														}, -- [4]
 													},
 												},
+												[2054] = {
+													["playerParses"] = {
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "DAMAGER",
+															["itemLevel"] = 917,
+															["specName"] = "平衡",
+															["groupParseId"] = "b2-84-3bf",
+															["damage"] = 199683332,
+														}, -- [1]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 918,
+															["specName"] = "守护",
+															["groupParseId"] = "f0-2d1-59",
+															["damage"] = 167983595,
+														}, -- [2]
+													},
+												},
 												[2052] = {
 													["playerParses"] = {
 														{
@@ -79258,6 +83819,22 @@ GuildSkadaHighScoreDB = {
 															["groupParseId"] = "1aa-c3-25e",
 															["damage"] = 291151310,
 														}, -- [1]
+														{
+															["playerId"] = "Player-1955-01C5F28F",
+															["role"] = "TANK",
+															["itemLevel"] = 908,
+															["specName"] = "复仇",
+															["groupParseId"] = "b4-1d6-160",
+															["damage"] = 96015658,
+														}, -- [2]
+														{
+															["playerId"] = "Player-1955-01B843ED",
+															["role"] = "TANK",
+															["itemLevel"] = 928,
+															["specName"] = "守护",
+															["groupParseId"] = "3c5-6c-1b",
+															["damage"] = 70275087,
+														}, -- [3]
 													},
 												},
 												[2032] = {
@@ -79331,8 +83908,8 @@ GuildSkadaHighScoreDB = {
 						[1862] = {
 							["encounterName"] = "提克迪奥斯",
 						},
-						[1863] = {
-							["encounterName"] = "占星师艾塔乌斯",
+						[2050] = {
+							["encounterName"] = "月之姐妹",
 						},
 						[1864] = {
 							["encounterName"] = "萨维斯",
@@ -79352,17 +83929,17 @@ GuildSkadaHighScoreDB = {
 						[1962] = {
 							["encounterName"] = "高姆",
 						},
-						[1873] = {
-							["encounterName"] = "伊格诺斯，腐蚀之心",
+						[1842] = {
+							["encounterName"] = "克洛苏斯",
 						},
 						[1871] = {
 							["encounterName"] = "魔剑士奥鲁瑞尔",
 						},
-						[1872] = {
-							["encounterName"] = "大魔导师艾利桑德",
+						[1841] = {
+							["encounterName"] = "乌索克",
 						},
-						[1842] = {
-							["encounterName"] = "克洛苏斯",
+						[1873] = {
+							["encounterName"] = "伊格诺斯，腐蚀之心",
 						},
 						[1877] = {
 							["encounterName"] = "塞纳留斯",
@@ -79376,8 +83953,8 @@ GuildSkadaHighScoreDB = {
 						[2032] = {
 							["encounterName"] = "格罗斯",
 						},
-						[1841] = {
-							["encounterName"] = "乌索克",
+						[1872] = {
+							["encounterName"] = "大魔导师艾利桑德",
 						},
 						[2051] = {
 							["encounterName"] = "基尔加丹",
@@ -79388,8 +83965,8 @@ GuildSkadaHighScoreDB = {
 						[2036] = {
 							["encounterName"] = "哈亚坦",
 						},
-						[2050] = {
-							["encounterName"] = "月之姐妹",
+						[1863] = {
+							["encounterName"] = "占星师艾塔乌斯",
 						},
 					},
 					["difficulties"] = {
@@ -79407,6 +83984,10 @@ GuildSkadaHighScoreDB = {
 						},
 					},
 					["players"] = {
+						["Creature-0-3929-1676-17495-47244-0000B2BCE2"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
 						["Player-1955-01BB8DD4"] = {
 							["name"] = "龙听雨",
 							["class"] = "MONK",
@@ -79454,6 +84035,10 @@ GuildSkadaHighScoreDB = {
 						["Player-1955-01916AE8"] = {
 							["name"] = "大蜘蛛",
 							["class"] = "WARRIOR",
+						},
+						["Creature-0-3929-1676-17495-47244-0001329E01"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Creature-0-3929-1520-9923-104096-0002440AA6"] = {
 							["name"] = "橘子香水丶",
@@ -79503,6 +84088,10 @@ GuildSkadaHighScoreDB = {
 							["name"] = "丨春风十里丨",
 							["class"] = "MAGE",
 						},
+						["Creature-0-3929-1676-17495-47244-000132A3F1"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
 						["Player-1955-019A4F24"] = {
 							["name"] = "沈三",
 							["class"] = "PALADIN",
@@ -79532,7 +84121,7 @@ GuildSkadaHighScoreDB = {
 							["class"] = "MONK",
 						},
 						["Player-1955-01A020F8"] = {
-							["name"] = "张小强厉害丶",
+							["name"] = "安然小恙",
 							["class"] = "DRUID",
 						},
 						["Player-1955-01AC6C79"] = {
@@ -79540,16 +84129,24 @@ GuildSkadaHighScoreDB = {
 							["class"] = "WARRIOR",
 						},
 						["Player-1955-01AF584B"] = {
-							["name"] = "醉梦的大尾巴",
+							["name"] = "牛肉面面",
 							["class"] = "DEMONHUNTER",
 						},
+						["Creature-0-3929-1676-17495-47244-000132A6DA"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
 						["Player-1955-01AD40CF"] = {
-							["name"] = "逆鱗",
+							["name"] = "聖光契約",
 							["class"] = "PALADIN",
 						},
 						["Player-1955-00F738FC"] = {
 							["name"] = "冥骑丨天启",
 							["class"] = "DEATHKNIGHT",
+						},
+						["Creature-0-3929-1676-17495-47244-0000B2A102"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01C4A126"] = {
 							["name"] = "木渎渔火",
@@ -79567,9 +84164,17 @@ GuildSkadaHighScoreDB = {
 							["name"] = "最爱浆果",
 							["class"] = "HUNTER",
 						},
+						["Player-1955-0126EBB9"] = {
+							["name"] = "有道丨豆包",
+							["class"] = "PALADIN",
+						},
 						["Player-1955-01C5F28F"] = {
 							["name"] = "龙剑曦",
 							["class"] = "DEMONHUNTER",
+						},
+						["Creature-0-3929-1676-17495-47244-0000B2A4F3"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01C6B5F7"] = {
 							["name"] = "三枼",
@@ -79587,6 +84192,10 @@ GuildSkadaHighScoreDB = {
 							["name"] = "Ieo",
 							["class"] = "PALADIN",
 						},
+						["Creature-0-3929-1676-17495-47244-0000B29E7A"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
 						["Player-1955-01ADAE20"] = {
 							["name"] = "飛翔的椰子",
 							["class"] = "MONK",
@@ -79603,17 +84212,49 @@ GuildSkadaHighScoreDB = {
 							["name"] = "呕不习惯",
 							["class"] = "DEMONHUNTER",
 						},
+						["Creature-0-3929-1676-17495-47244-000032BCE2"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Creature-0-3929-1676-17495-47244-0000B2BC08"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
 						["Player-1955-01B7FC5B"] = {
 							["name"] = "仙恋凡尘",
 							["class"] = "HUNTER",
+						},
+						["Player-1955-00F6D1EE"] = {
+							["name"] = "猎丶万兽奔腾",
+							["class"] = "HUNTER",
+						},
+						["Creature-0-3929-1676-17495-47244-0000B2BB74"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-0178F2F7"] = {
 							["name"] = "情若绕指柔",
 							["class"] = "HUNTER",
 						},
+						["Creature-0-3929-1676-17495-47244-000032BB74"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
 						["Player-1955-0128D629"] = {
 							["name"] = "丨莫凡丶糖糖",
 							["class"] = "DEATHKNIGHT",
+						},
+						["Player-1955-01C1DF52"] = {
+							["name"] = "Insomnium",
+							["class"] = "PALADIN",
+						},
+						["Player-1955-0110BFAB"] = {
+							["name"] = "芬达",
+							["class"] = "WARRIOR",
+						},
+						["Creature-0-3929-1676-17495-47244-0001329E7A"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01AE57C1"] = {
 							["name"] = "梦红尘丨怒风",
@@ -79623,6 +84264,10 @@ GuildSkadaHighScoreDB = {
 							["name"] = "笑多了會懷孕",
 							["class"] = "SHAMAN",
 						},
+						["Creature-0-3929-1676-17495-47244-0000329E01"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
 						["Player-1955-01BBE546"] = {
 							["name"] = "跑龙套的胖纸",
 							["class"] = "WARRIOR",
@@ -79630,6 +84275,14 @@ GuildSkadaHighScoreDB = {
 						["Creature-0-3929-1520-22705-104096-0002109A3A"] = {
 							["name"] = "跑龙套的胖纸",
 							["class"] = "WARRIOR",
+						},
+						["Player-1955-01AC78F8"] = {
+							["name"] = "依偎的欣林",
+							["class"] = "MONK",
+						},
+						["Player-1955-01CF94BC"] = {
+							["name"] = "大统领提里奥",
+							["class"] = "PALADIN",
 						},
 						["Player-1955-0127D3FC"] = {
 							["name"] = "包龙星",
@@ -79659,6 +84312,18 @@ GuildSkadaHighScoreDB = {
 							["name"] = "小芋头",
 							["class"] = "MAGE",
 						},
+						["Player-1955-01BDED8B"] = {
+							["name"] = "骑着安倍逛街",
+							["class"] = "DRUID",
+						},
+						["Creature-0-3149-1520-2838-104096-000219C8AE"] = {
+							["name"] = "Absolution",
+							["class"] = "DEMONHUNTER",
+						},
+						["Creature-0-3929-1520-9923-104096-0002440A58"] = {
+							["name"] = "萨摩耶德",
+							["class"] = "SHAMAN",
+						},
 						["Player-1955-01B7E6CA"] = {
 							["name"] = "软白白",
 							["class"] = "DEMONHUNTER",
@@ -79667,9 +84332,17 @@ GuildSkadaHighScoreDB = {
 							["name"] = "血色浪丶漫",
 							["class"] = "DEMONHUNTER",
 						},
+						["Player-1955-01B5F6F7"] = {
+							["name"] = "樱桃果果灬",
+							["class"] = "DEMONHUNTER",
+						},
 						["Player-1955-01CD872D"] = {
 							["name"] = "胸是软绵绵的",
 							["class"] = "MONK",
+						},
+						["Player-1955-018E7282"] = {
+							["name"] = "喵了个咪丶德",
+							["class"] = "DRUID",
 						},
 						["Player-1955-01CA952E"] = {
 							["name"] = "山丘酋长",
@@ -79679,8 +84352,24 @@ GuildSkadaHighScoreDB = {
 							["name"] = "压路机",
 							["class"] = "DRUID",
 						},
+						["Player-1955-01C5F993"] = {
+							["name"] = "无垢丶",
+							["class"] = "DRUID",
+						},
 						["Player-1955-01BAAC32"] = {
 							["name"] = "灬娆岚灬",
+							["class"] = "MAGE",
+						},
+						["Player-1955-00EAA769"] = {
+							["name"] = "宫平",
+							["class"] = "PALADIN",
+						},
+						["Player-1955-01B843ED"] = {
+							["name"] = "龙轻雪",
+							["class"] = "DRUID",
+						},
+						["Creature-0-3929-1676-17495-47244-000132A47A"] = {
+							["name"] = "火焰冰淇淋",
 							["class"] = "MAGE",
 						},
 						["Player-1955-01CC66F2"] = {
@@ -79695,6 +84384,22 @@ GuildSkadaHighScoreDB = {
 							["name"] = "暗香浮",
 							["class"] = "PRIEST",
 						},
+						["Player-1955-01C7035E"] = {
+							["name"] = "Ruinshadow",
+							["class"] = "WARLOCK",
+						},
+						["Player-1955-01139B43"] = {
+							["name"] = "徳才兼备",
+							["class"] = "DRUID",
+						},
+						["Player-1955-01BF1309"] = {
+							["name"] = "邪焰魔君",
+							["class"] = "DEMONHUNTER",
+						},
+						["Player-1955-018E3318"] = {
+							["name"] = "疯狗模式丶",
+							["class"] = "DEATHKNIGHT",
+						},
 						["Player-1955-01A191B7"] = {
 							["name"] = "那啥姐夫",
 							["class"] = "DEATHKNIGHT",
@@ -79703,9 +84408,25 @@ GuildSkadaHighScoreDB = {
 							["name"] = "花绮罗",
 							["class"] = "PALADIN",
 						},
+						["Player-1955-01C6544C"] = {
+							["name"] = "醉梦的小尾巴",
+							["class"] = "SHAMAN",
+						},
+						["Player-1955-01C53BDF"] = {
+							["name"] = "咕灬玛法理奥",
+							["class"] = "DRUID",
+						},
+						["Player-1955-01C7FECA"] = {
+							["name"] = "我特么凶死你",
+							["class"] = "DEMONHUNTER",
+						},
 						["Player-1955-00F7BA98"] = {
 							["name"] = "李奥纳多",
 							["class"] = "MAGE",
+						},
+						["Player-1955-01B8015B"] = {
+							["name"] = "毅遊未盡",
+							["class"] = "PALADIN",
 						},
 						["Player-1955-01C06D58"] = {
 							["name"] = "桃源梦溪",
@@ -79719,8 +84440,40 @@ GuildSkadaHighScoreDB = {
 							["name"] = "大兄第",
 							["class"] = "WARRIOR",
 						},
-						["Creature-0-3929-1520-15727-104096-0003208DE0"] = {
-							["name"] = "软白白",
+						["Creature-0-3929-1676-17495-47244-000132A4F3"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Creature-0-3929-1676-17495-47244-000032BD6C"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Creature-0-3044-1520-11956-104096-000536DD34"] = {
+							["name"] = "龙听雨",
+							["class"] = "MONK",
+						},
+						["Creature-0-3929-1676-17495-47244-000132BC08"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Creature-0-3929-1676-17495-47244-000032A75C"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Creature-0-3929-1520-9923-104096-0000C40A58"] = {
+							["name"] = "仙恋凡尘",
+							["class"] = "HUNTER",
+						},
+						["Player-1955-01CF9CF9"] = {
+							["name"] = "粑粑我不红",
+							["class"] = "MONK",
+						},
+						["Creature-0-3929-1520-15727-104096-0003A08DE0"] = {
+							["name"] = "艾克斯战警",
+							["class"] = "HUNTER",
+						},
+						["Player-1955-01AED7BA"] = {
+							["name"] = "机器猫的兜儿",
 							["class"] = "DEMONHUNTER",
 						},
 						["Player-1955-01C14255"] = {
@@ -79735,93 +84488,101 @@ GuildSkadaHighScoreDB = {
 							["name"] = "提莫队长丷",
 							["class"] = "DEMONHUNTER",
 						},
-						["Creature-0-3929-1520-15727-104096-0001208DE0"] = {
-							["name"] = "嘿丶咻嘿丶咻",
-							["class"] = "WARLOCK",
+						["Creature-0-3929-1676-17495-47244-0000B2A75C"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-00F04F45"] = {
 							["name"] = "徐鳳年",
 							["class"] = "MAGE",
 						},
-						["Player-1955-01AED7BA"] = {
-							["name"] = "机器猫的兜儿",
+						["Creature-0-3929-1520-9923-104096-0000440AA6"] = {
+							["name"] = "软白白",
 							["class"] = "DEMONHUNTER",
 						},
-						["Creature-0-3929-1520-9923-104096-0000C40A6F"] = {
-							["name"] = "奇点丶",
+						["Creature-0-3929-1520-9923-104096-0001440ADF"] = {
+							["name"] = "醉梦若歌",
+							["class"] = "DEATHKNIGHT",
+						},
+						["Creature-0-3929-1676-17495-47244-000132A180"] = {
+							["name"] = "火焰冰淇淋",
 							["class"] = "MAGE",
 						},
-						["Player-1955-01CF0416"] = {
-							["name"] = "Fallingblue",
-							["class"] = "ROGUE",
-						},
-						["Player-1955-018E7282"] = {
-							["name"] = "喵了个咪丶德",
-							["class"] = "DRUID",
-						},
-						["Player-1955-01A6D8EA"] = {
-							["name"] = "嘿丶咻嘿丶咻",
-							["class"] = "WARLOCK",
-						},
-						["Player-1955-00EAA769"] = {
-							["name"] = "宫平",
-							["class"] = "PALADIN",
-						},
-						["Player-1955-01ADF39D"] = {
-							["name"] = "橙橙涂",
+						["Creature-0-3929-1676-17495-47244-000032A6DA"] = {
+							["name"] = "火焰冰淇淋",
 							["class"] = "MAGE",
-						},
-						["Player-1955-0110BFAB"] = {
-							["name"] = "芬达",
-							["class"] = "WARRIOR",
 						},
 						["Player-1955-01CCD4F2"] = {
 							["name"] = "妹妹不忘初心",
 							["class"] = "WARLOCK",
 						},
-						["Player-1955-01139B43"] = {
-							["name"] = "徳才兼备",
-							["class"] = "DRUID",
+						["Player-1955-00F38E1C"] = {
+							["name"] = "清丶丨雨",
+							["class"] = "MAGE",
 						},
-						["Player-1955-01BF1309"] = {
-							["name"] = "邪焰魔君",
-							["class"] = "DEMONHUNTER",
+						["Player-1955-01A6D8EA"] = {
+							["name"] = "嘿丶咻嘿丶咻",
+							["class"] = "WARLOCK",
+						},
+						["Creature-0-3929-1676-17495-47244-0000B2A47A"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Creature-0-3929-1676-17495-47244-000032A47A"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Creature-0-3929-1676-17495-47244-0000B2A3F1"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Player-1955-01C5D748"] = {
+							["name"] = "奶水满天飞",
+							["class"] = "PALADIN",
+						},
+						["Creature-0-3929-1520-9923-104096-0001C40A6F"] = {
+							["name"] = "最爱浆果",
+							["class"] = "HUNTER",
+						},
+						["Player-1955-01C2D83F"] = {
+							["name"] = "冰封的夏天",
+							["class"] = "WARLOCK",
 						},
 						["Player-1955-01C06CEA"] = {
 							["name"] = "暗之羽",
 							["class"] = "ROGUE",
 						},
-						["Player-1955-01AC78F8"] = {
-							["name"] = "依偎的欣林",
-							["class"] = "MONK",
+						["Player-1955-01AF5A5A"] = {
+							["name"] = "Brokena",
+							["class"] = "DEMONHUNTER",
 						},
-						["Player-1955-018E3318"] = {
-							["name"] = "疯狗模式丶",
+						["Creature-0-3929-1676-17495-47244-0000B2A180"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Player-1955-01AD776C"] = {
+							["name"] = "黑暗輓歌",
+							["class"] = "WARLOCK",
+						},
+						["Player-1955-01AC1155"] = {
+							["name"] = "醉梦若歌",
 							["class"] = "DEATHKNIGHT",
 						},
-						["Player-1955-0194D6EB"] = {
-							["name"] = "爱是氧气",
-							["class"] = "ROGUE",
-						},
-						["Creature-0-3929-1520-9923-104096-0002440A58"] = {
-							["name"] = "萨摩耶德",
-							["class"] = "SHAMAN",
-						},
-						["Player-1955-01AE27C2"] = {
-							["name"] = "風斬的芙羅拉",
-							["class"] = "DEMONHUNTER",
+						["Player-1955-012D6563"] = {
+							["name"] = "嘛也莂說了",
+							["class"] = "HUNTER",
 						},
 						["Creature-0-3929-1520-15727-104096-0005208DE0"] = {
 							["name"] = "萨克穆斯",
 							["class"] = "DRUID",
 						},
-						["Player-1955-01BEFB2F"] = {
-							["name"] = "利爷",
-							["class"] = "PALADIN",
+						["Creature-0-3929-1676-17495-47244-000032A180"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
-						["Creature-0-3929-1520-22705-104096-0000909A3A"] = {
-							["name"] = "灭你没脾气",
-							["class"] = "DRUID",
+						["Creature-0-3929-1520-22705-104096-0000109A3A"] = {
+							["name"] = "冰神灬",
+							["class"] = "MONK",
 						},
 						["Player-1955-01A17CC8"] = {
 							["name"] = "一枼",
@@ -79831,33 +84592,49 @@ GuildSkadaHighScoreDB = {
 							["name"] = "咋虐不上火",
 							["class"] = "DEATHKNIGHT",
 						},
-						["Player-1955-01D172E8"] = {
-							["name"] = "只混风暴峡湾",
-							["class"] = "ROGUE",
+						["Player-1955-01AE27C2"] = {
+							["name"] = "風斬的芙羅拉",
+							["class"] = "DEMONHUNTER",
 						},
-						["Player-1955-0193FC07"] = {
-							["name"] = "懒懒狗",
+						["Creature-0-3929-1676-17495-47244-000132A102"] = {
+							["name"] = "火焰冰淇淋",
 							["class"] = "MAGE",
 						},
-						["Player-1955-01B8015B"] = {
-							["name"] = "毅遊未盡",
-							["class"] = "PALADIN",
+						["Player-1955-01AC72F7"] = {
+							["name"] = "百變神棍德",
+							["class"] = "DRUID",
 						},
-						["Player-1955-012D6563"] = {
-							["name"] = "嘛也莂說了",
-							["class"] = "HUNTER",
+						["Player-1955-01CB4E27"] = {
+							["name"] = "黑手油炸鬼",
+							["class"] = "SHAMAN",
 						},
-						["Player-1955-01C7FECA"] = {
-							["name"] = "我特么凶死你",
-							["class"] = "DEMONHUNTER",
+						["Player-1955-01D172E8"] = {
+							["name"] = "粑粑我披风呢",
+							["class"] = "ROGUE",
+						},
+						["Player-1955-0194D6EB"] = {
+							["name"] = "爱是氧气",
+							["class"] = "ROGUE",
+						},
+						["Player-1955-019B2783"] = {
+							["name"] = "笑多了會懷孕",
+							["class"] = "SHAMAN",
 						},
 						["Player-1955-01C76047"] = {
 							["name"] = "Guccixx",
 							["class"] = "WARRIOR",
 						},
-						["Player-1955-01C53BDF"] = {
-							["name"] = "咕灬玛法理奥",
-							["class"] = "DRUID",
+						["Player-1955-01D26476"] = {
+							["name"] = "熊丶玖",
+							["class"] = "HUNTER",
+						},
+						["Player-1955-01B60ADA"] = {
+							["name"] = "濃情绕指柔",
+							["class"] = "DEMONHUNTER",
+						},
+						["Player-1955-0193FC07"] = {
+							["name"] = "懒懒狗",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01B23B43"] = {
 							["name"] = "梦红尘丨丑牛",
@@ -79867,93 +84644,77 @@ GuildSkadaHighScoreDB = {
 							["name"] = "圣光丶大领主",
 							["class"] = "PALADIN",
 						},
-						["Player-1955-01B60ADA"] = {
-							["name"] = "濃情绕指柔",
-							["class"] = "DEMONHUNTER",
-						},
-						["Player-1955-01C5D748"] = {
-							["name"] = "奶水满天飞",
-							["class"] = "PALADIN",
-						},
-						["Player-1955-01AF5A5A"] = {
-							["name"] = "Brokena",
-							["class"] = "DEMONHUNTER",
-						},
-						["Player-1955-01AF1F7A"] = {
-							["name"] = "灬迷丨糊灬",
-							["class"] = "DEATHKNIGHT",
-						},
-						["Player-1955-01C6544C"] = {
-							["name"] = "醉梦的小尾巴",
-							["class"] = "SHAMAN",
+						["Creature-0-3929-1520-22705-104096-0000909A3A"] = {
+							["name"] = "灭你没脾气",
+							["class"] = "DRUID",
 						},
 						["Player-1955-01BCB213"] = {
 							["name"] = "大兄第",
 							["class"] = "WARRIOR",
 						},
-						["Creature-0-3149-1520-2838-104096-000619C85F"] = {
-							["name"] = "Ieo",
+						["Creature-0-3929-1676-17495-47244-000032A3F1"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
+						},
+						["Player-1955-01BEFB2F"] = {
+							["name"] = "利爷",
 							["class"] = "PALADIN",
 						},
-						["Player-1955-019B2783"] = {
-							["name"] = "笑多了會懷孕",
-							["class"] = "SHAMAN",
-						},
-						["Player-1955-0193C5D5"] = {
-							["name"] = "撬地球的杠杆",
+						["Player-1955-01AF1F7A"] = {
+							["name"] = "灬迷丨糊灬",
 							["class"] = "DEATHKNIGHT",
 						},
 						["Player-1955-017740B8"] = {
 							["name"] = "花落似梦",
 							["class"] = "WARRIOR",
 						},
-						["Creature-0-3929-1520-9923-104096-0001440ADF"] = {
-							["name"] = "醉梦若歌",
+						["Player-1955-0193C5D5"] = {
+							["name"] = "撬地球的杠杆",
 							["class"] = "DEATHKNIGHT",
 						},
-						["Creature-0-3929-1520-9923-104096-0001C40A6F"] = {
-							["name"] = "最爱浆果",
-							["class"] = "HUNTER",
+						["Creature-0-3929-1520-9923-104096-0001C40ADF"] = {
+							["name"] = "一枼",
+							["class"] = "PALADIN",
 						},
-						["Creature-0-3929-1520-9923-104096-0000440AA6"] = {
-							["name"] = "软白白",
-							["class"] = "DEMONHUNTER",
+						["Creature-0-3929-1676-17495-47244-0000B2A6DA"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01764ACB"] = {
 							["name"] = "愤怒的小狼狗",
 							["class"] = "DEATHKNIGHT",
 						},
-						["Player-1955-01CF9CF9"] = {
-							["name"] = "粑粑我不红",
-							["class"] = "MONK",
+						["Creature-0-3929-1676-17495-47244-000132BD6C"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-00E949A3"] = {
 							["name"] = "宣统天下",
 							["class"] = "MAGE",
 						},
-						["Creature-0-3044-1520-11956-104096-000536DD34"] = {
-							["name"] = "龙听雨",
-							["class"] = "MONK",
-						},
-						["Player-1955-00F38E1C"] = {
-							["name"] = "清丶丨雨",
+						["Creature-0-3929-1676-17495-47244-000132BB74"] = {
+							["name"] = "火焰冰淇淋",
 							["class"] = "MAGE",
 						},
-						["Creature-0-3928-1520-22403-104096-0005ABCEC6"] = {
-							["name"] = "龙听雨",
-							["class"] = "MONK",
+						["Creature-0-3929-1676-17495-47244-0000B2BD6C"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
-						["Creature-0-3929-1520-15727-104096-0003A08DE0"] = {
-							["name"] = "艾克斯战警",
-							["class"] = "HUNTER",
+						["Creature-0-3929-1520-15727-104096-0003208DE0"] = {
+							["name"] = "软白白",
+							["class"] = "DEMONHUNTER",
+						},
+						["Creature-0-3929-1520-15727-104096-0001208DE0"] = {
+							["name"] = "嘿丶咻嘿丶咻",
+							["class"] = "WARLOCK",
 						},
 						["Player-1955-01CF9CD5"] = {
 							["name"] = "贪吃的老头",
 							["class"] = "WARRIOR",
 						},
-						["Creature-0-3929-1520-9923-104096-0001C40ADF"] = {
-							["name"] = "一枼",
-							["class"] = "PALADIN",
+						["Creature-0-3929-1676-17495-47244-000132A75C"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01B256B4"] = {
 							["name"] = "啪啪是减肥的",
@@ -79967,33 +84728,33 @@ GuildSkadaHighScoreDB = {
 							["name"] = "塞德洛斯",
 							["class"] = "MAGE",
 						},
-						["Player-1955-01C2D83F"] = {
-							["name"] = "冰封的夏天",
-							["class"] = "WARLOCK",
+						["Creature-0-3928-1520-22403-104096-0005ABCEC6"] = {
+							["name"] = "龙听雨",
+							["class"] = "MONK",
 						},
-						["Player-1955-01AC1155"] = {
-							["name"] = "醉梦若歌",
-							["class"] = "DEATHKNIGHT",
+						["Player-1955-01CDA453"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
-						["Player-1955-01C7035E"] = {
-							["name"] = "Ruinshadow",
-							["class"] = "WARLOCK",
+						["Creature-0-3929-1676-17495-47244-0000329E7A"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
-						["Creature-0-3929-1520-9923-104096-0000C40A58"] = {
-							["name"] = "仙恋凡尘",
-							["class"] = "HUNTER",
+						["Creature-0-3929-1520-9923-104096-0000C40A6F"] = {
+							["name"] = "奇点丶",
+							["class"] = "MAGE",
 						},
-						["Player-1955-01B843ED"] = {
-							["name"] = "龙轻雪",
-							["class"] = "DRUID",
+						["Creature-0-3929-1676-17495-47244-0000B29E01"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01CDCC26"] = {
 							["name"] = "骞禤时",
 							["class"] = "SHAMAN",
 						},
-						["Player-1955-01CB4E27"] = {
-							["name"] = "黑手油炸鬼",
-							["class"] = "SHAMAN",
+						["Creature-0-3929-1676-17495-47244-000032A102"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01BEDB24"] = {
 							["name"] = "德意的笑丨",
@@ -80007,13 +84768,13 @@ GuildSkadaHighScoreDB = {
 							["name"] = "湘德美",
 							["class"] = "ROGUE",
 						},
-						["Creature-0-3929-1520-22705-104096-0000109A3A"] = {
-							["name"] = "冰神灬",
-							["class"] = "MONK",
+						["Player-1955-01CF0416"] = {
+							["name"] = "Fallingblue",
+							["class"] = "ROGUE",
 						},
-						["Creature-0-3149-1520-2838-104096-000219C8AE"] = {
-							["name"] = "Absolution",
-							["class"] = "DEMONHUNTER",
+						["Creature-0-3149-1520-2838-104096-000619C85F"] = {
+							["name"] = "Ieo",
+							["class"] = "PALADIN",
 						},
 						["Player-1955-01ADC224"] = {
 							["name"] = "創世之痕",
@@ -80023,9 +84784,9 @@ GuildSkadaHighScoreDB = {
 							["name"] = "嚻哥嚻",
 							["class"] = "PALADIN",
 						},
-						["Player-1955-01C5F993"] = {
-							["name"] = "无垢丶",
-							["class"] = "DRUID",
+						["Creature-0-3929-1676-17495-47244-000032A4F3"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01CBE7C7"] = {
 							["name"] = "口古口古口达",
@@ -80035,25 +84796,25 @@ GuildSkadaHighScoreDB = {
 							["name"] = "尐暗影星空刂",
 							["class"] = "ROGUE",
 						},
-						["Player-1955-01C1DF52"] = {
-							["name"] = "Insomnium",
-							["class"] = "PALADIN",
+						["Creature-0-3929-1676-17495-47244-000132BCE2"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01C4233B"] = {
 							["name"] = "雨过天儬",
 							["class"] = "DEMONHUNTER",
 						},
-						["Player-1955-00F6D1EE"] = {
-							["name"] = "猎丶万兽奔腾",
-							["class"] = "HUNTER",
+						["Creature-0-3929-1676-17495-47244-000032BC08"] = {
+							["name"] = "火焰冰淇淋",
+							["class"] = "MAGE",
 						},
 						["Player-1955-01C128DB"] = {
 							["name"] = "萨摩耶德",
 							["class"] = "SHAMAN",
 						},
-						["Player-1955-01BDED8B"] = {
-							["name"] = "骑着安倍逛街",
-							["class"] = "DRUID",
+						["Player-1955-01ADF39D"] = {
+							["name"] = "橙橙涂",
+							["class"] = "MAGE",
 						},
 					},
 					["groupParses"] = {
@@ -80217,6 +84978,14 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 337,
 						},
+						["144-155-1b3"] = {
+							["encounterId"] = 2036,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505998629,
+							["difficultyId"] = 14,
+							["duration"] = 170,
+						},
 						["226-177-36c"] = {
 							["encounterId"] = 1842,
 							["zoneId"] = 1530,
@@ -80224,6 +84993,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1486043976,
 							["duration"] = 285,
 							["difficultyId"] = 15,
+						},
+						["20e-11d-196"] = {
+							["encounterId"] = 2036,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1506172929,
+							["difficultyId"] = 15,
+							["duration"] = 285,
 						},
 						["44-39e-146"] = {
 							["encounterId"] = 1872,
@@ -80329,6 +85106,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 412,
 							["difficultyId"] = 14,
 						},
+						["3dd-3a-30d"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505998163,
+							["difficultyId"] = 14,
+							["duration"] = 179,
+						},
 						["1ea-35-1c2"] = {
 							["encounterId"] = 2037,
 							["zoneId"] = 1676,
@@ -80344,6 +85129,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1485600809,
 							["duration"] = 213,
 							["difficultyId"] = 17,
+						},
+						["2b5-281-215"] = {
+							["encounterId"] = 2038,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1506001679,
+							["difficultyId"] = 14,
+							["duration"] = 294,
 						},
 						["318-3d4-26d"] = {
 							["encounterId"] = 1841,
@@ -80521,6 +85314,14 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 309,
 						},
+						["21b-3be-13d"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505653779,
+							["duration"] = 202,
+							["difficultyId"] = 14,
+						},
 						["e5-e1-9a"] = {
 							["encounterId"] = 1862,
 							["zoneId"] = 1530,
@@ -80664,6 +85465,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1486645874,
 							["difficultyId"] = 15,
 							["duration"] = 294,
+						},
+						["fa-320-29b"] = {
+							["encounterId"] = 2036,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505654195,
+							["duration"] = 176,
+							["difficultyId"] = 14,
 						},
 						["253-324-383"] = {
 							["encounterId"] = 1854,
@@ -80848,6 +85657,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1503060138,
 							["difficultyId"] = 14,
 							["duration"] = 224,
+						},
+						["54-14d-1db"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1503847259,
+							["duration"] = 241,
+							["difficultyId"] = 14,
 						},
 						["2e3-14-122"] = {
 							["encounterId"] = 1849,
@@ -81073,6 +85890,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 186,
 							["difficultyId"] = 15,
 						},
+						["3e0-208-185"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1503845253,
+							["duration"] = 198,
+							["difficultyId"] = 14,
+						},
 						["117-26-99"] = {
 							["encounterId"] = 1849,
 							["zoneId"] = 1530,
@@ -81104,6 +85929,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1494922255,
 							["duration"] = 204,
 							["difficultyId"] = 17,
+						},
+						["2b7-70-1dc"] = {
+							["encounterId"] = 1872,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1505989184,
+							["difficultyId"] = 17,
+							["duration"] = 175,
 						},
 						["2a2-2d3-3cc"] = {
 							["encounterId"] = 1863,
@@ -81168,6 +86001,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1503584208,
 							["duration"] = 414,
 							["difficultyId"] = 15,
+						},
+						["3c5-6c-1b"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505735749,
+							["difficultyId"] = 17,
+							["duration"] = 328,
 						},
 						["1c3-17c-366"] = {
 							["encounterId"] = 1854,
@@ -81264,6 +86105,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1488550381,
 							["difficultyId"] = 14,
 							["duration"] = 465,
+						},
+						["19d-351-30c"] = {
+							["encounterId"] = 2051,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504885617,
+							["duration"] = 585,
+							["difficultyId"] = 14,
 						},
 						["296-274-17e"] = {
 							["encounterId"] = 1863,
@@ -81433,6 +86282,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 265,
 							["difficultyId"] = 15,
 						},
+						["1b7-2a0-199"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1504487891,
+							["difficultyId"] = 17,
+							["duration"] = 198,
+						},
 						["2b7-2f2-9a"] = {
 							["encounterId"] = 1886,
 							["zoneId"] = 1530,
@@ -81569,6 +86426,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 264,
 							["difficultyId"] = 15,
 						},
+						["5d-25e-371"] = {
+							["encounterId"] = 2051,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1506002453,
+							["duration"] = 357,
+							["difficultyId"] = 14,
+						},
 						["1fa-cf-283"] = {
 							["encounterId"] = 1871,
 							["zoneId"] = 1530,
@@ -81673,6 +86538,14 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 136,
 						},
+						["b2-31d-19f"] = {
+							["encounterId"] = 2036,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504186825,
+							["difficultyId"] = 15,
+							["duration"] = 247,
+						},
 						["22a-119-75"] = {
 							["encounterId"] = 2037,
 							["zoneId"] = 1676,
@@ -81753,6 +86626,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 165,
 							["difficultyId"] = 15,
 						},
+						["142-1e4-174"] = {
+							["encounterId"] = 1872,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1504488872,
+							["difficultyId"] = 17,
+							["duration"] = 227,
+						},
 						["1b7-3ce-60"] = {
 							["encounterId"] = 1842,
 							["zoneId"] = 1530,
@@ -81824,6 +86705,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1494410685,
 							["duration"] = 67,
 							["difficultyId"] = 17,
+						},
+						["b4-1d6-160"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504486391,
+							["difficultyId"] = 17,
+							["duration"] = 340,
 						},
 						["307-306-27b"] = {
 							["encounterId"] = 2008,
@@ -81976,6 +86865,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1489071683,
 							["difficultyId"] = 15,
 							["duration"] = 440,
+						},
+						["be-167-131"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504879596,
+							["difficultyId"] = 14,
+							["duration"] = 271,
 						},
 						["383-3e5-118"] = {
 							["encounterId"] = 1863,
@@ -82177,6 +87074,14 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 17,
 							["duration"] = 250,
 						},
+						["39d-304-285"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1503847741,
+							["duration"] = 305,
+							["difficultyId"] = 14,
+						},
 						["11-292-1a4"] = {
 							["encounterId"] = 1871,
 							["zoneId"] = 1530,
@@ -82241,6 +87146,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 185,
 							["difficultyId"] = 15,
 						},
+						["36e-13d-31c"] = {
+							["encounterId"] = 2050,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505395490,
+							["difficultyId"] = 15,
+							["duration"] = 255,
+						},
 						["1b7-116-2b8"] = {
 							["encounterId"] = 1886,
 							["zoneId"] = 1530,
@@ -82256,6 +87169,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1485600361,
 							["duration"] = 249,
 							["difficultyId"] = 17,
+						},
+						["1b-10a-1df"] = {
+							["encounterId"] = 2050,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505999587,
+							["difficultyId"] = 14,
+							["duration"] = 188,
 						},
 						["178-1d0-bf"] = {
 							["encounterId"] = 1873,
@@ -82321,6 +87242,38 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 309,
 						},
+						["35a-12a-1ab"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1500556312,
+							["duration"] = 372,
+							["difficultyId"] = 15,
+						},
+						["3c9-27d-2f"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1486140912,
+							["difficultyId"] = 14,
+							["duration"] = 213,
+						},
+						["14d-81-3b4"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1503844968,
+							["duration"] = 157,
+							["difficultyId"] = 14,
+						},
+						["1a1-3bd-354"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1493216522,
+							["difficultyId"] = 17,
+							["duration"] = 184,
+						},
 						["349-98-3cd"] = {
 							["encounterId"] = 2008,
 							["zoneId"] = 1648,
@@ -82345,6 +87298,14 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 17,
 							["duration"] = 245,
 						},
+						["186-51-3af"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1506173416,
+							["difficultyId"] = 15,
+							["duration"] = 314,
+						},
 						["167-2b1-e7"] = {
 							["encounterId"] = 1866,
 							["zoneId"] = 1530,
@@ -82353,13 +87314,45 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 442,
 							["difficultyId"] = 14,
 						},
-						["2f9-f9-3c0"] = {
-							["encounterId"] = 1871,
-							["zoneId"] = 1530,
+						["ce-2c-24c"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1490272344,
-							["duration"] = 362,
+							["startTime"] = 1506175812,
 							["difficultyId"] = 15,
+							["duration"] = 361,
+						},
+						["75-244-112"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1500646939,
+							["difficultyId"] = 14,
+							["duration"] = 249,
+						},
+						["3e-5d-36c"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1506172445,
+							["difficultyId"] = 15,
+							["duration"] = 255,
+						},
+						["3b4-215-38a"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1506001161,
+							["difficultyId"] = 14,
+							["duration"] = 240,
+						},
+						["19b-17-285"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505999157,
+							["difficultyId"] = 14,
+							["duration"] = 182,
 						},
 						["5b-1d4-2a4"] = {
 							["encounterId"] = 1876,
@@ -82369,6 +87362,14 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 17,
 							["duration"] = 78,
 						},
+						["12-4f-333"] = {
+							["encounterId"] = 1866,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1505401718,
+							["difficultyId"] = 15,
+							["duration"] = 310,
+						},
 						["17b-9d-1c0"] = {
 							["encounterId"] = 1867,
 							["zoneId"] = 1530,
@@ -82376,6 +87377,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1487938991,
 							["difficultyId"] = 14,
 							["duration"] = 200,
+						},
+						["1e2-de-25c"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1505988501,
+							["difficultyId"] = 17,
+							["duration"] = 130,
 						},
 						["37f-6b-163"] = {
 							["encounterId"] = 1864,
@@ -82393,6 +87402,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 480,
 							["difficultyId"] = 15,
 						},
+						["5e-257-30d"] = {
+							["encounterId"] = 1863,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1494776608,
+							["difficultyId"] = 15,
+							["duration"] = 276,
+						},
 						["3b4-3c5-11e"] = {
 							["encounterId"] = 1862,
 							["zoneId"] = 1530,
@@ -82409,6 +87426,30 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 139,
 							["difficultyId"] = 15,
 						},
+						["1f3-352-f"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1506000381,
+							["difficultyId"] = 14,
+							["duration"] = 249,
+						},
+						["2f9-f9-3c0"] = {
+							["encounterId"] = 1871,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1490272344,
+							["duration"] = 362,
+							["difficultyId"] = 15,
+						},
+						["1c8-98-135"] = {
+							["encounterId"] = 1872,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1505401362,
+							["difficultyId"] = 15,
+							["duration"] = 200,
+						},
 						["225-1d3-3a1"] = {
 							["encounterId"] = 1864,
 							["zoneId"] = 1520,
@@ -82416,6 +87457,22 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1488379142,
 							["difficultyId"] = 17,
 							["duration"] = 144,
+						},
+						["386-8a-2d3"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505653483,
+							["duration"] = 172,
+							["difficultyId"] = 14,
+						},
+						["29f-fa-393"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505392843,
+							["difficultyId"] = 15,
+							["duration"] = 191,
 						},
 						["343-1ed-184"] = {
 							["encounterId"] = 1871,
@@ -82425,6 +87482,22 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 213,
 						},
+						["9a-11d-254"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505394263,
+							["difficultyId"] = 15,
+							["duration"] = 269,
+						},
+						["166-295-153"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504186072,
+							["difficultyId"] = 15,
+							["duration"] = 418,
+						},
 						["103-dc-31c"] = {
 							["encounterId"] = 1862,
 							["zoneId"] = 1530,
@@ -82432,6 +87505,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1488856422,
 							["difficultyId"] = 17,
 							["duration"] = 338,
+						},
+						["33c-28-f"] = {
+							["encounterId"] = 1886,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1486481691,
+							["duration"] = 379,
+							["difficultyId"] = 14,
 						},
 						["221-e7-2e0"] = {
 							["encounterId"] = 1865,
@@ -82441,6 +87522,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 107,
 							["difficultyId"] = 15,
 						},
+						["1f2-311-2ea"] = {
+							["encounterId"] = 2036,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504878852,
+							["difficultyId"] = 14,
+							["duration"] = 194,
+						},
 						["c4-3e6-26"] = {
 							["encounterId"] = 1866,
 							["zoneId"] = 1530,
@@ -82448,6 +87537,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1494771852,
 							["difficultyId"] = 15,
 							["duration"] = 478,
+						},
+						["230-3d7-3aa"] = {
+							["encounterId"] = 1866,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1503146511,
+							["difficultyId"] = 17,
+							["duration"] = 327,
 						},
 						["d0-1d7-2fc"] = {
 							["encounterId"] = 1849,
@@ -82465,6 +87562,22 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 205,
 						},
+						["38a-2ae-196"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1487816670,
+							["difficultyId"] = 17,
+							["duration"] = 221,
+						},
+						["343-2be-346"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1503577548,
+							["duration"] = 195,
+							["difficultyId"] = 15,
+						},
 						["c2-15f-331"] = {
 							["encounterId"] = 1849,
 							["zoneId"] = 1530,
@@ -82472,6 +87585,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1488543064,
 							["difficultyId"] = 14,
 							["duration"] = 184,
+						},
+						["219-2b9-339"] = {
+							["encounterId"] = 2038,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504486920,
+							["difficultyId"] = 17,
+							["duration"] = 344,
 						},
 						["342-83-298"] = {
 							["encounterId"] = 2052,
@@ -82481,6 +87602,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 344,
 							["difficultyId"] = 15,
 						},
+						["c7-1b0-351"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1498740491,
+							["difficultyId"] = 15,
+							["duration"] = 308,
+						},
 						["e5-2d1-38a"] = {
 							["encounterId"] = 2054,
 							["zoneId"] = 1676,
@@ -82489,6 +87618,14 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 247,
 						},
+						["b4-136-e"] = {
+							["encounterId"] = 2050,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504189708,
+							["difficultyId"] = 15,
+							["duration"] = 279,
+						},
 						["16-1a5-3c7"] = {
 							["encounterId"] = 1842,
 							["zoneId"] = 1530,
@@ -82496,6 +87633,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1488857100,
 							["difficultyId"] = 17,
 							["duration"] = 197,
+						},
+						["2f6-bb-167"] = {
+							["encounterId"] = 1866,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1503585970,
+							["duration"] = 325,
+							["difficultyId"] = 15,
 						},
 						["eb-9f-16f"] = {
 							["encounterId"] = 1854,
@@ -82521,6 +87666,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 195,
 							["difficultyId"] = 15,
 						},
+						["2c3-224-18d"] = {
+							["encounterId"] = 2051,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505779759,
+							["duration"] = 426,
+							["difficultyId"] = 17,
+						},
 						["100-11f-14a"] = {
 							["encounterId"] = 1854,
 							["zoneId"] = 1520,
@@ -82537,13 +87690,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 251,
 							["difficultyId"] = 16,
 						},
-						["38f-293-1bd"] = {
-							["encounterId"] = 1871,
+						["111-31c-167"] = {
+							["encounterId"] = 1842,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1488887309,
-							["duration"] = 234,
-							["difficultyId"] = 17,
+							["startTime"] = 1493904166,
+							["duration"] = 199,
+							["difficultyId"] = 15,
 						},
 						["292-2f3-316"] = {
 							["encounterId"] = 1876,
@@ -82553,6 +87706,22 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 107,
 							["difficultyId"] = 14,
 						},
+						["b2-84-3bf"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1502786820,
+							["difficultyId"] = 17,
+							["duration"] = 275,
+						},
+						["a3-16e-4f"] = {
+							["encounterId"] = 1877,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1504103918,
+							["difficultyId"] = 14,
+							["duration"] = 133,
+						},
 						["94-e0-191"] = {
 							["encounterId"] = 2048,
 							["zoneId"] = 1676,
@@ -82560,6 +87729,30 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1501244975,
 							["duration"] = 240,
 							["difficultyId"] = 14,
+						},
+						["117-1ae-136"] = {
+							["encounterId"] = 1886,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1494776219,
+							["difficultyId"] = 15,
+							["duration"] = 242,
+						},
+						["378-13f-23b"] = {
+							["encounterId"] = 1863,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1491118667,
+							["duration"] = 312,
+							["difficultyId"] = 17,
+						},
+						["2b3-2a-31f"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1503594612,
+							["difficultyId"] = 17,
+							["duration"] = 84,
 						},
 						["dd-1ca-319"] = {
 							["encounterId"] = 1866,
@@ -82569,6 +87762,30 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 438,
 							["difficultyId"] = 15,
 						},
+						["25d-140-38e"] = {
+							["encounterId"] = 2051,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1506260439,
+							["difficultyId"] = 15,
+							["duration"] = 517,
+						},
+						["34d-394-d2"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1501248388,
+							["duration"] = 279,
+							["difficultyId"] = 14,
+						},
+						["25a-23b-10c"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504188845,
+							["difficultyId"] = 15,
+							["duration"] = 304,
+						},
 						["17c-3e4-33a"] = {
 							["encounterId"] = 1867,
 							["zoneId"] = 1530,
@@ -82577,13 +87794,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 356,
 							["difficultyId"] = 15,
 						},
-						["158-11e-222"] = {
-							["encounterId"] = 1862,
+						["2fa-242-289"] = {
+							["encounterId"] = 1865,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1496900813,
+							["startTime"] = 1489668197,
+							["duration"] = 174,
 							["difficultyId"] = 15,
-							["duration"] = 236,
 						},
 						["228-1df-16"] = {
 							["encounterId"] = 2038,
@@ -82592,6 +87809,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1499872119,
 							["difficultyId"] = 14,
 							["duration"] = 399,
+						},
+						["30e-37d-23d"] = {
+							["encounterId"] = 1841,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1485867737,
+							["duration"] = 238,
+							["difficultyId"] = 15,
 						},
 						["2f5-11d-3d"] = {
 							["encounterId"] = 1853,
@@ -82617,6 +87842,14 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 284,
 						},
+						["1fa-192-1d7"] = {
+							["encounterId"] = 2050,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1503846811,
+							["duration"] = 202,
+							["difficultyId"] = 14,
+						},
 						["14a-24a-be"] = {
 							["encounterId"] = 1886,
 							["zoneId"] = 1530,
@@ -82624,6 +87857,22 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1495122957,
 							["difficultyId"] = 15,
 							["duration"] = 267,
+						},
+						["13d-1fb-188"] = {
+							["encounterId"] = 2051,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1498234757,
+							["difficultyId"] = 14,
+							["duration"] = 622,
+						},
+						["1d1-84-3a2"] = {
+							["encounterId"] = 2050,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1499852560,
+							["duration"] = 419,
+							["difficultyId"] = 15,
 						},
 						["3b-300-14d"] = {
 							["encounterId"] = 1962,
@@ -82648,6 +87897,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1488888299,
 							["duration"] = 253,
 							["difficultyId"] = 17,
+						},
+						["227-2f5-53"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1485433284,
+							["difficultyId"] = 15,
+							["duration"] = 296,
 						},
 						["98-8d-b"] = {
 							["encounterId"] = 1863,
@@ -82681,6 +87938,38 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 257,
 							["difficultyId"] = 14,
 						},
+						["349-27a-242"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1499912456,
+							["duration"] = 90,
+							["difficultyId"] = 17,
+						},
+						["3d3-3a9-284"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1501771661,
+							["difficultyId"] = 15,
+							["duration"] = 331,
+						},
+						["1f7-46-387"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1500643175,
+							["difficultyId"] = 14,
+							["duration"] = 227,
+						},
+						["297-1e3-2bb"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504878399,
+							["difficultyId"] = 14,
+							["duration"] = 244,
+						},
 						["12d-16f-19f"] = {
 							["encounterId"] = 1871,
 							["zoneId"] = 1530,
@@ -82697,6 +87986,14 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 52,
 							["difficultyId"] = 17,
 						},
+						["345-205-a5"] = {
+							["encounterId"] = 2038,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505736276,
+							["difficultyId"] = 17,
+							["duration"] = 259,
+						},
 						["1ba-61-a7"] = {
 							["encounterId"] = 1872,
 							["zoneId"] = 1530,
@@ -82704,6 +88001,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1487565977,
 							["duration"] = 481,
 							["difficultyId"] = 15,
+						},
+						["279-1c6-5e"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1497504455,
+							["difficultyId"] = 15,
+							["duration"] = 105,
 						},
 						["1d-3e-30f"] = {
 							["encounterId"] = 2032,
@@ -82737,13 +88042,21 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 457,
 						},
-						["2b3-2a-31f"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
+						["2d4-129-311"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1503594612,
-							["difficultyId"] = 17,
-							["duration"] = 84,
+							["startTime"] = 1501768938,
+							["difficultyId"] = 15,
+							["duration"] = 309,
+						},
+						["308-327-53"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504185585,
+							["difficultyId"] = 15,
+							["duration"] = 218,
 						},
 						["1e7-205-93"] = {
 							["encounterId"] = 1872,
@@ -82753,29 +88066,29 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 289,
 							["difficultyId"] = 15,
 						},
-						["3c9-27d-2f"] = {
-							["encounterId"] = 1867,
-							["zoneId"] = 1530,
+						["b-23a-348"] = {
+							["encounterId"] = 2050,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1486140912,
+							["startTime"] = 1501246976,
+							["duration"] = 233,
 							["difficultyId"] = 14,
-							["duration"] = 213,
 						},
-						["230-3d7-3aa"] = {
+						["18e-194-2ec"] = {
 							["encounterId"] = 1866,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1503146511,
-							["difficultyId"] = 17,
-							["duration"] = 327,
-						},
-						["364-327-108"] = {
-							["encounterId"] = 1876,
-							["zoneId"] = 1520,
-							["guildName"] = "星陨",
-							["startTime"] = 1485869091,
-							["duration"] = 306,
+							["startTime"] = 1500650358,
 							["difficultyId"] = 15,
+							["duration"] = 350,
+						},
+						["149-e3-171"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1500040356,
+							["difficultyId"] = 14,
+							["duration"] = 326,
 						},
 						["1e1-30-2ab"] = {
 							["encounterId"] = 2048,
@@ -82785,37 +88098,37 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 244,
 							["difficultyId"] = 14,
 						},
-						["75-244-112"] = {
-							["encounterId"] = 2052,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1500646939,
-							["difficultyId"] = 14,
-							["duration"] = 249,
-						},
-						["38a-2ae-196"] = {
-							["encounterId"] = 1867,
+						["5c-298-30c"] = {
+							["encounterId"] = 1866,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1487816670,
-							["difficultyId"] = 17,
-							["duration"] = 221,
+							["startTime"] = 1501251701,
+							["difficultyId"] = 15,
+							["duration"] = 307,
 						},
-						["34d-394-d2"] = {
-							["encounterId"] = 2052,
+						["134-21b-72"] = {
+							["encounterId"] = 2050,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1501248388,
+							["startTime"] = 1500038924,
+							["difficultyId"] = 14,
 							["duration"] = 279,
-							["difficultyId"] = 14,
 						},
-						["1f7-46-387"] = {
-							["encounterId"] = 2048,
-							["zoneId"] = 1676,
+						["1e0-1b2-12d"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1500643175,
+							["startTime"] = 1490513121,
+							["difficultyId"] = 15,
+							["duration"] = 331,
+						},
+						["64-205-1f2"] = {
+							["encounterId"] = 1871,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1486478963,
+							["duration"] = 296,
 							["difficultyId"] = 14,
-							["duration"] = 227,
 						},
 						["216-161-2da"] = {
 							["encounterId"] = 1862,
@@ -82825,21 +88138,21 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 238,
 							["difficultyId"] = 15,
 						},
-						["30e-37d-23d"] = {
-							["encounterId"] = 1841,
-							["zoneId"] = 1520,
+						["270-3aa-1c1"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1485867737,
-							["duration"] = 238,
+							["startTime"] = 1500818720,
+							["duration"] = 365,
 							["difficultyId"] = 15,
 						},
-						["5e-257-30d"] = {
-							["encounterId"] = 1863,
-							["zoneId"] = 1530,
+						["3c7-277-359"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1494776608,
+							["startTime"] = 1500554393,
+							["duration"] = 307,
 							["difficultyId"] = 15,
-							["duration"] = 276,
 						},
 						["1fa-1c6-2c"] = {
 							["encounterId"] = 2036,
@@ -82849,22 +88162,6 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 253,
 							["difficultyId"] = 14,
 						},
-						["216-2ce-cb"] = {
-							["encounterId"] = 1863,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1489675124,
-							["difficultyId"] = 15,
-							["duration"] = 348,
-						},
-						["111-31c-167"] = {
-							["encounterId"] = 1842,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1493904166,
-							["duration"] = 199,
-							["difficultyId"] = 15,
-						},
 						["19e-390-1e0"] = {
 							["encounterId"] = 1866,
 							["zoneId"] = 1530,
@@ -82872,6 +88169,22 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1491494342,
 							["difficultyId"] = 15,
 							["duration"] = 576,
+						},
+						["1bc-250-2fc"] = {
+							["encounterId"] = 1886,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1488462834,
+							["difficultyId"] = 15,
+							["duration"] = 279,
+						},
+						["1d1-f2-35f"] = {
+							["encounterId"] = 1876,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1488858269,
+							["duration"] = 165,
+							["difficultyId"] = 17,
 						},
 						["36e-163-24"] = {
 							["encounterId"] = 1871,
@@ -82897,37 +88210,37 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 250,
 						},
-						["1bc-250-2fc"] = {
-							["encounterId"] = 1886,
+						["4d-52-1ea"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1499868621,
+							["difficultyId"] = 14,
+							["duration"] = 356,
+						},
+						["145-172-1b0"] = {
+							["encounterId"] = 2036,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1499848039,
+							["duration"] = 266,
+							["difficultyId"] = 15,
+						},
+						["3cc-384-2a8"] = {
+							["encounterId"] = 1849,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1488462834,
-							["difficultyId"] = 15,
-							["duration"] = 279,
+							["startTime"] = 1497529670,
+							["difficultyId"] = 16,
+							["duration"] = 238,
 						},
-						["35a-12a-1ab"] = {
-							["encounterId"] = 2052,
-							["zoneId"] = 1676,
+						["302-3d-33a"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1500556312,
-							["duration"] = 372,
+							["startTime"] = 1497539344,
 							["difficultyId"] = 15,
-						},
-						["3d3-3a9-284"] = {
-							["encounterId"] = 2052,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1501771661,
-							["difficultyId"] = 15,
-							["duration"] = 331,
-						},
-						["b-23a-348"] = {
-							["encounterId"] = 2050,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1501246976,
-							["duration"] = 233,
-							["difficultyId"] = 14,
+							["duration"] = 200,
 						},
 						["149-25d-36a"] = {
 							["encounterId"] = 1876,
@@ -82937,13 +88250,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 306,
 							["difficultyId"] = 16,
 						},
-						["5c-298-30c"] = {
-							["encounterId"] = 1866,
-							["zoneId"] = 1530,
+						["243-1e5-1e4"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1501251701,
+							["startTime"] = 1499847530,
+							["duration"] = 319,
 							["difficultyId"] = 15,
-							["duration"] = 307,
 						},
 						["1eb-116-343"] = {
 							["encounterId"] = 1842,
@@ -82961,13 +88274,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 463,
 						},
-						["33c-28-f"] = {
-							["encounterId"] = 1886,
+						["322-1f9-1c2"] = {
+							["encounterId"] = 1863,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486481691,
-							["duration"] = 379,
-							["difficultyId"] = 14,
+							["startTime"] = 1495377960,
+							["duration"] = 276,
+							["difficultyId"] = 15,
 						},
 						["105-35-267"] = {
 							["encounterId"] = 1886,
@@ -82985,29 +88298,29 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 111,
 						},
-						["18e-194-2ec"] = {
+						["3e7-177-10"] = {
 							["encounterId"] = 1866,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1500650358,
-							["difficultyId"] = 15,
-							["duration"] = 350,
+							["startTime"] = 1504490106,
+							["difficultyId"] = 17,
+							["duration"] = 323,
 						},
-						["2d4-129-311"] = {
+						["191-9-35d"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1497537574,
+							["difficultyId"] = 15,
+							["duration"] = 111,
+						},
+						["1bb-33d-27d"] = {
 							["encounterId"] = 2054,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1501768938,
+							["startTime"] = 1506174720,
 							["difficultyId"] = 15,
-							["duration"] = 309,
-						},
-						["171-17c-3bd"] = {
-							["encounterId"] = 1872,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1500650061,
-							["difficultyId"] = 15,
-							["duration"] = 200,
+							["duration"] = 308,
 						},
 						["394-1c-309"] = {
 							["encounterId"] = 1864,
@@ -83017,21 +88330,21 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 317,
 							["difficultyId"] = 15,
 						},
-						["134-21b-72"] = {
-							["encounterId"] = 2050,
-							["zoneId"] = 1676,
+						["330-12d-37a"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1500038924,
-							["difficultyId"] = 14,
-							["duration"] = 279,
+							["startTime"] = 1491315024,
+							["difficultyId"] = 16,
+							["duration"] = 325,
 						},
-						["1d1-84-3a2"] = {
-							["encounterId"] = 2050,
+						["f0-1e-308"] = {
+							["encounterId"] = 2052,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1499852560,
-							["duration"] = 419,
-							["difficultyId"] = 15,
+							["startTime"] = 1499870414,
+							["difficultyId"] = 14,
+							["duration"] = 42,
 						},
 						["c5-121-28c"] = {
 							["encounterId"] = 1865,
@@ -83057,29 +88370,29 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 499,
 							["difficultyId"] = 15,
 						},
-						["378-13f-23b"] = {
-							["encounterId"] = 1863,
+						["31c-176-2ec"] = {
+							["encounterId"] = 1873,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1488030267,
+							["duration"] = 151,
+							["difficultyId"] = 15,
+						},
+						["fc-0-4d"] = {
+							["encounterId"] = 1872,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1491118667,
-							["duration"] = 312,
-							["difficultyId"] = 17,
+							["startTime"] = 1488464202,
+							["difficultyId"] = 15,
+							["duration"] = 449,
 						},
-						["236-a2-ca"] = {
+						["48-236-1be"] = {
 							["encounterId"] = 2054,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1501247663,
-							["duration"] = 266,
+							["startTime"] = 1500645974,
 							["difficultyId"] = 14,
-						},
-						["243-1e5-1e4"] = {
-							["encounterId"] = 2048,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1499847530,
-							["duration"] = 319,
-							["difficultyId"] = 15,
+							["duration"] = 311,
 						},
 						["1d9-9b-3b9"] = {
 							["encounterId"] = 1865,
@@ -83089,13 +88402,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 264,
 							["difficultyId"] = 16,
 						},
-						["3d1-2ad-95"] = {
-							["encounterId"] = 2037,
-							["zoneId"] = 1676,
+						["3e2-3aa-13b"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1500038357,
+							["startTime"] = 1486997117,
 							["difficultyId"] = 14,
-							["duration"] = 231,
+							["duration"] = 272,
 						},
 						["2ea-1fe-42"] = {
 							["encounterId"] = 2054,
@@ -83113,13 +88426,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 451,
 						},
-						["3c7-277-359"] = {
-							["encounterId"] = 2048,
+						["122-74-ca"] = {
+							["encounterId"] = 2050,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1500554393,
-							["duration"] = 307,
-							["difficultyId"] = 15,
+							["startTime"] = 1504880346,
+							["difficultyId"] = 14,
+							["duration"] = 243,
 						},
 						["142-137-245"] = {
 							["encounterId"] = 1853,
@@ -83153,53 +88466,53 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 494,
 						},
-						["79-321-289"] = {
-							["encounterId"] = 2032,
+						["3bf-204-134"] = {
+							["encounterId"] = 1873,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1487955878,
+							["duration"] = 554,
+							["difficultyId"] = 16,
+						},
+						["190-31c-20c"] = {
+							["encounterId"] = 2052,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1499864428,
+							["startTime"] = 1498230644,
 							["difficultyId"] = 14,
-							["duration"] = 210,
+							["duration"] = 327,
 						},
-						["33e-39e-19b"] = {
+						["298-140-32e"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1485595513,
+							["difficultyId"] = 17,
+							["duration"] = 237,
+						},
+						["33e-2c7-19a"] = {
+							["encounterId"] = 1872,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1489153192,
+							["difficultyId"] = 14,
+							["duration"] = 244,
+						},
+						["3b6-28d-77"] = {
+							["encounterId"] = 1866,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1486877784,
+							["duration"] = 532,
+							["difficultyId"] = 14,
+						},
+						["3ad-3bc-187"] = {
 							["encounterId"] = 1849,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1491280341,
-							["difficultyId"] = 15,
-							["duration"] = 250,
-						},
-						["145-172-1b0"] = {
-							["encounterId"] = 2036,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1499848039,
-							["duration"] = 266,
-							["difficultyId"] = 15,
-						},
-						["3a6-dd-2d1"] = {
-							["encounterId"] = 1864,
-							["zoneId"] = 1520,
-							["guildName"] = "星陨",
-							["startTime"] = 1495369098,
-							["difficultyId"] = 17,
-							["duration"] = 94,
-						},
-						["20b-176-199"] = {
-							["encounterId"] = 2036,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1498741727,
-							["difficultyId"] = 15,
-							["duration"] = 239,
-						},
-						["322-1f9-1c2"] = {
-							["encounterId"] = 1863,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1495377960,
-							["duration"] = 276,
-							["difficultyId"] = 15,
+							["startTime"] = 1485444760,
+							["difficultyId"] = 14,
+							["duration"] = 206,
 						},
 						["1fc-187-322"] = {
 							["encounterId"] = 2008,
@@ -83225,13 +88538,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 262,
 							["difficultyId"] = 14,
 						},
-						["337-21c-ab"] = {
-							["encounterId"] = 2032,
-							["zoneId"] = 1676,
+						["22f-b7-2e"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1501244260,
-							["duration"] = 201,
-							["difficultyId"] = 14,
+							["startTime"] = 1485595106,
+							["difficultyId"] = 17,
+							["duration"] = 263,
 						},
 						["74-295-3b4"] = {
 							["encounterId"] = 2050,
@@ -83241,21 +88554,21 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 290,
 							["difficultyId"] = 15,
 						},
-						["22f-b7-2e"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
+						["337-21c-ab"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1485595106,
-							["difficultyId"] = 17,
-							["duration"] = 263,
-						},
-						["28c-27-2b5"] = {
-							["encounterId"] = 1842,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1486142106,
+							["startTime"] = 1501244260,
+							["duration"] = 201,
 							["difficultyId"] = 14,
-							["duration"] = 202,
+						},
+						["62-250-2cc"] = {
+							["encounterId"] = 1863,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1495074096,
+							["duration"] = 320,
+							["difficultyId"] = 17,
 						},
 						["24d-227-2e8"] = {
 							["encounterId"] = 1866,
@@ -83265,37 +88578,37 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 424,
 							["difficultyId"] = 15,
 						},
-						["37c-41-7e"] = {
-							["encounterId"] = 2036,
-							["zoneId"] = 1676,
+						["28c-27-2b5"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1501245492,
-							["duration"] = 182,
+							["startTime"] = 1486142106,
 							["difficultyId"] = 14,
+							["duration"] = 202,
 						},
-						["f0-1e-308"] = {
-							["encounterId"] = 2052,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1499870414,
-							["difficultyId"] = 14,
-							["duration"] = 42,
-						},
-						["64-205-1f2"] = {
+						["9e-16c-f8"] = {
 							["encounterId"] = 1871,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486478963,
-							["duration"] = 296,
-							["difficultyId"] = 14,
+							["startTime"] = 1493466964,
+							["duration"] = 223,
+							["difficultyId"] = 15,
 						},
-						["190-31c-20c"] = {
-							["encounterId"] = 2052,
+						["354-d4-29b"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1494774461,
+							["difficultyId"] = 15,
+							["duration"] = 237,
+						},
+						["e5-81-191"] = {
+							["encounterId"] = 2050,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1498230644,
-							["difficultyId"] = 14,
-							["duration"] = 327,
+							["startTime"] = 1506174055,
+							["difficultyId"] = 15,
+							["duration"] = 248,
 						},
 						["2f1-1b1-299"] = {
 							["encounterId"] = 1849,
@@ -83313,45 +88626,45 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 17,
 							["duration"] = 119,
 						},
-						["264-326-ac"] = {
-							["encounterId"] = 2054,
-							["zoneId"] = 1676,
+						["3e8-152-2ad"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1498199551,
-							["duration"] = 427,
+							["startTime"] = 1486476546,
+							["duration"] = 237,
 							["difficultyId"] = 14,
 						},
-						["266-3c4-284"] = {
-							["encounterId"] = 2032,
+						["9c-14e-389"] = {
+							["encounterId"] = 2038,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1498195026,
-							["duration"] = 224,
-							["difficultyId"] = 14,
+							["startTime"] = 1505399986,
+							["difficultyId"] = 15,
+							["duration"] = 486,
 						},
-						["3bf-204-134"] = {
-							["encounterId"] = 1873,
+						["14-33f-2fb"] = {
+							["encounterId"] = 1863,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1488887739,
+							["duration"] = 252,
+							["difficultyId"] = 17,
+						},
+						["1c2-f9-2c"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1495467669,
+							["duration"] = 238,
+							["difficultyId"] = 15,
+						},
+						["1d0-4c-1f7"] = {
+							["encounterId"] = 1853,
 							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1487955878,
-							["duration"] = 554,
-							["difficultyId"] = 16,
-						},
-						["1e0-1b2-12d"] = {
-							["encounterId"] = 1862,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1490513121,
+							["startTime"] = 1486469453,
+							["duration"] = 178,
 							["difficultyId"] = 15,
-							["duration"] = 331,
-						},
-						["354-d4-29b"] = {
-							["encounterId"] = 1862,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1494774461,
-							["difficultyId"] = 15,
-							["duration"] = 237,
 						},
 						["109-22e-30e"] = {
 							["encounterId"] = 1886,
@@ -83393,125 +88706,21 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 523,
 							["difficultyId"] = 14,
 						},
-						["226-28e-358"] = {
-							["encounterId"] = 1862,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1495978505,
-							["duration"] = 251,
-							["difficultyId"] = 15,
-						},
-						["302-3d-33a"] = {
-							["encounterId"] = 1842,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1497539344,
-							["difficultyId"] = 15,
-							["duration"] = 200,
-						},
-						["298-140-32e"] = {
-							["encounterId"] = 1867,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1485595513,
-							["difficultyId"] = 17,
-							["duration"] = 237,
-						},
-						["33e-2c7-19a"] = {
+						["299-0-362"] = {
 							["encounterId"] = 1872,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1489153192,
-							["difficultyId"] = 14,
-							["duration"] = 244,
-						},
-						["3b6-28d-77"] = {
-							["encounterId"] = 1866,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1486877784,
-							["duration"] = 532,
-							["difficultyId"] = 14,
-						},
-						["191-9-35d"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1497537574,
-							["difficultyId"] = 15,
-							["duration"] = 111,
-						},
-						["135-3a4-2"] = {
-							["encounterId"] = 1886,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1493906142,
-							["duration"] = 254,
+							["startTime"] = 1495981411,
+							["duration"] = 262,
 							["difficultyId"] = 15,
 						},
-						["117-1ae-136"] = {
-							["encounterId"] = 1886,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1494776219,
-							["difficultyId"] = 15,
-							["duration"] = 242,
-						},
-						["cd-f7-3cb"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1495119613,
-							["duration"] = 111,
-							["difficultyId"] = 15,
-						},
-						["3e8-152-2ad"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1486476546,
-							["duration"] = 237,
-							["difficultyId"] = 14,
-						},
-						["e4-4f-75"] = {
-							["encounterId"] = 1849,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1485663751,
-							["difficultyId"] = 15,
-							["duration"] = 327,
-						},
-						["2b4-2f9-1f9"] = {
-							["encounterId"] = 1866,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1487001195,
-							["duration"] = 679,
-							["difficultyId"] = 14,
-						},
-						["367-b5-2c1"] = {
-							["encounterId"] = 1863,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1487861815,
-							["difficultyId"] = 15,
-							["duration"] = 444,
-						},
-						["106-e4-1a3"] = {
-							["encounterId"] = 1841,
+						["117-1da-3"] = {
+							["encounterId"] = 1873,
 							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1488029148,
-							["duration"] = 118,
+							["startTime"] = 1486472175,
+							["duration"] = 151,
 							["difficultyId"] = 15,
-						},
-						["14-33f-2fb"] = {
-							["encounterId"] = 1863,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1488887739,
-							["duration"] = 252,
-							["difficultyId"] = 17,
 						},
 						["38d-2cb-1ed"] = {
 							["encounterId"] = 1867,
@@ -83521,21 +88730,37 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 319,
 						},
-						["1d4-376-12a"] = {
-							["encounterId"] = 1867,
+						["209-245-28d"] = {
+							["encounterId"] = 1866,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1489069046,
+							["startTime"] = 1487868686,
+							["duration"] = 597,
 							["difficultyId"] = 15,
-							["duration"] = 354,
 						},
-						["5c-28b-24a"] = {
-							["encounterId"] = 1841,
-							["zoneId"] = 1520,
+						["2a5-101-162"] = {
+							["encounterId"] = 1871,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1497527962,
-							["difficultyId"] = 17,
-							["duration"] = 189,
+							["startTime"] = 1494773837,
+							["difficultyId"] = 15,
+							["duration"] = 234,
+						},
+						["17d-1b2-1bf"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1490972746,
+							["difficultyId"] = 14,
+							["duration"] = 178,
+						},
+						["135-3a4-2"] = {
+							["encounterId"] = 1886,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1493906142,
+							["duration"] = 254,
+							["difficultyId"] = 15,
 						},
 						["2c2-da-2e0"] = {
 							["encounterId"] = 1872,
@@ -83545,45 +88770,21 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 264,
 							["difficultyId"] = 17,
 						},
-						["195-2fb-1ef"] = {
-							["encounterId"] = 1862,
+						["cd-f7-3cb"] = {
+							["encounterId"] = 1865,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486730512,
-							["duration"] = 331,
-							["difficultyId"] = 14,
-						},
-						["1c2-f9-2c"] = {
-							["encounterId"] = 1867,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1495467669,
-							["duration"] = 238,
+							["startTime"] = 1495119613,
+							["duration"] = 111,
 							["difficultyId"] = 15,
 						},
-						["21-168-207"] = {
-							["encounterId"] = 1877,
+						["5c-28b-24a"] = {
+							["encounterId"] = 1841,
 							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1489241023,
-							["duration"] = 137,
-							["difficultyId"] = 16,
-						},
-						["9e-16c-f8"] = {
-							["encounterId"] = 1871,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1493466964,
-							["duration"] = 223,
-							["difficultyId"] = 15,
-						},
-						["38d-1d5-1e"] = {
-							["encounterId"] = 1866,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1489754916,
-							["duration"] = 692,
-							["difficultyId"] = 15,
+							["startTime"] = 1497527962,
+							["difficultyId"] = 17,
+							["duration"] = 189,
 						},
 						["280-110-22"] = {
 							["encounterId"] = 1864,
@@ -83593,21 +88794,29 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 142,
 							["difficultyId"] = 17,
 						},
-						["48-236-1be"] = {
-							["encounterId"] = 2054,
-							["zoneId"] = 1676,
+						["2b4-2f9-1f9"] = {
+							["encounterId"] = 1866,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1500645974,
+							["startTime"] = 1487001195,
+							["duration"] = 679,
 							["difficultyId"] = 14,
-							["duration"] = 311,
 						},
-						["65-2c1-2be"] = {
-							["encounterId"] = 2054,
-							["zoneId"] = 1676,
+						["21-168-207"] = {
+							["encounterId"] = 1877,
+							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1503062123,
-							["difficultyId"] = 14,
-							["duration"] = 265,
+							["startTime"] = 1489241023,
+							["duration"] = 137,
+							["difficultyId"] = 16,
+						},
+						["106-e4-1a3"] = {
+							["encounterId"] = 1841,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1488029148,
+							["duration"] = 118,
+							["difficultyId"] = 15,
 						},
 						["b8-37c-7f"] = {
 							["encounterId"] = 1871,
@@ -83617,6 +88826,110 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 230,
 							["difficultyId"] = 15,
 						},
+						["77-33a-1c3"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1487941491,
+							["difficultyId"] = 14,
+							["duration"] = 203,
+						},
+						["5-141-370"] = {
+							["encounterId"] = 1872,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1489762852,
+							["duration"] = 278,
+							["difficultyId"] = 14,
+						},
+						["1d4-376-12a"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1489069046,
+							["difficultyId"] = 15,
+							["duration"] = 354,
+						},
+						["e7-36e-2ca"] = {
+							["encounterId"] = 1866,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1493470796,
+							["difficultyId"] = 15,
+							["duration"] = 467,
+						},
+						["195-2fb-1ef"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1486730512,
+							["duration"] = 331,
+							["difficultyId"] = 14,
+						},
+						["ac-218-11f"] = {
+							["encounterId"] = 1849,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1486641884,
+							["difficultyId"] = 15,
+							["duration"] = 275,
+						},
+						["335-167-16"] = {
+							["encounterId"] = 1849,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1489067302,
+							["difficultyId"] = 15,
+							["duration"] = 298,
+						},
+						["2f4-1e8-2b3"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1487860110,
+							["difficultyId"] = 15,
+							["duration"] = 293,
+						},
+						["2cc-348-81"] = {
+							["encounterId"] = 1841,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1495369708,
+							["difficultyId"] = 17,
+							["duration"] = 77,
+						},
+						["320-1e8-3a8"] = {
+							["encounterId"] = 1886,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1486652406,
+							["difficultyId"] = 15,
+							["duration"] = 357,
+						},
+						["177-36-13a"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1496928850,
+							["duration"] = 276,
+							["difficultyId"] = 16,
+						},
+						["65-2c1-2be"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1503062123,
+							["difficultyId"] = 14,
+							["duration"] = 265,
+						},
+						["26e-32a-32e"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1489073892,
+							["difficultyId"] = 15,
+							["duration"] = 426,
+						},
 						["86-69-135"] = {
 							["encounterId"] = 1842,
 							["zoneId"] = 1530,
@@ -83625,13 +88938,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 157,
 						},
-						["2aa-3ad-293"] = {
-							["encounterId"] = 1872,
-							["zoneId"] = 1530,
+						["fa-b6-243"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1489079814,
-							["duration"] = 532,
+							["startTime"] = 1502976497,
 							["difficultyId"] = 15,
+							["duration"] = 319,
 						},
 						["2ce-274-87"] = {
 							["encounterId"] = 1865,
@@ -83657,21 +88970,21 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 189,
 						},
-						["22d-7-35c"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
+						["2d7-1e1-33a"] = {
+							["encounterId"] = 2052,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1489068160,
+							["startTime"] = 1504191210,
 							["difficultyId"] = 15,
-							["duration"] = 164,
+							["duration"] = 333,
 						},
-						["fc-0-4d"] = {
-							["encounterId"] = 1872,
+						["21d-37a-5c"] = {
+							["encounterId"] = 1866,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1488464202,
+							["startTime"] = 1496936682,
+							["duration"] = 410,
 							["difficultyId"] = 15,
-							["duration"] = 449,
 						},
 						["ed-203-27f"] = {
 							["encounterId"] = 1886,
@@ -83681,13 +88994,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 265,
 						},
-						["2f7-26b-189"] = {
-							["encounterId"] = 1842,
+						["61-2a1-37f"] = {
+							["encounterId"] = 1863,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1489671667,
-							["duration"] = 276,
+							["startTime"] = 1490511114,
 							["difficultyId"] = 15,
+							["duration"] = 376,
 						},
 						["3a7-3c1-3be"] = {
 							["encounterId"] = 1872,
@@ -83697,29 +89010,29 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 251,
 							["difficultyId"] = 17,
 						},
-						["33-1d7-298"] = {
+						["110-39f-30"] = {
+							["encounterId"] = 1871,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1496931415,
+							["duration"] = 224,
+							["difficultyId"] = 15,
+						},
+						["f6-308-36a"] = {
 							["encounterId"] = 1862,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486045730,
-							["duration"] = 439,
+							["startTime"] = 1485443379,
 							["difficultyId"] = 15,
+							["duration"] = 417,
 						},
-						["13e-176-39e"] = {
-							["encounterId"] = 1867,
-							["zoneId"] = 1530,
+						["307-1ae-330"] = {
+							["encounterId"] = 2051,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1490507604,
-							["difficultyId"] = 15,
-							["duration"] = 281,
-						},
-						["299-0-362"] = {
-							["encounterId"] = 1872,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1495981411,
-							["duration"] = 262,
-							["difficultyId"] = 15,
+							["startTime"] = 1500041816,
+							["difficultyId"] = 14,
+							["duration"] = 504,
 						},
 						["1be-3c8-1a1"] = {
 							["encounterId"] = 1849,
@@ -83753,13 +89066,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 283,
 						},
-						["1d0-4c-1f7"] = {
-							["encounterId"] = 1853,
-							["zoneId"] = 1520,
+						["22-28-4c"] = {
+							["encounterId"] = 1867,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486469453,
-							["duration"] = 178,
-							["difficultyId"] = 15,
+							["startTime"] = 1489758082,
+							["duration"] = 219,
+							["difficultyId"] = 14,
 						},
 						["2e3-1fe-27b"] = {
 							["encounterId"] = 1886,
@@ -83769,13 +89082,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 330,
 						},
-						["82-12b-388"] = {
-							["encounterId"] = 1873,
-							["zoneId"] = 1520,
+						["262-1bf-3c"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1485870314,
-							["duration"] = 233,
+							["startTime"] = 1485664652,
 							["difficultyId"] = 15,
+							["duration"] = 244,
 						},
 						["2cc-19c-2c5"] = {
 							["encounterId"] = 2048,
@@ -83785,13 +89098,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 410,
 						},
-						["284-72-191"] = {
-							["encounterId"] = 2050,
-							["zoneId"] = 1676,
+						["2a5-1ab-254"] = {
+							["encounterId"] = 1866,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1498748188,
+							["startTime"] = 1495982311,
+							["duration"] = 452,
 							["difficultyId"] = 15,
-							["duration"] = 465,
 						},
 						["139-5e-67"] = {
 							["encounterId"] = 1865,
@@ -83833,20 +89146,20 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 264,
 							["difficultyId"] = 14,
 						},
-						["174-1c-95"] = {
-							["encounterId"] = 1876,
-							["zoneId"] = 1520,
+						["284-72-191"] = {
+							["encounterId"] = 2050,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1486914460,
-							["duration"] = 171,
+							["startTime"] = 1498748188,
 							["difficultyId"] = 15,
+							["duration"] = 465,
 						},
-						["24-15a-2d1"] = {
-							["encounterId"] = 1854,
+						["82-12b-388"] = {
+							["encounterId"] = 1873,
 							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1488029599,
-							["duration"] = 154,
+							["startTime"] = 1485870314,
+							["duration"] = 233,
 							["difficultyId"] = 15,
 						},
 						["5c-3bb-68"] = {
@@ -83889,13 +89202,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 137,
 							["difficultyId"] = 16,
 						},
-						["f9-1da-1b5"] = {
-							["encounterId"] = 2051,
-							["zoneId"] = 1676,
+						["174-1c-95"] = {
+							["encounterId"] = 1876,
+							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1503064741,
-							["difficultyId"] = 14,
-							["duration"] = 491,
+							["startTime"] = 1486914460,
+							["duration"] = 171,
+							["difficultyId"] = 15,
 						},
 						["57-296-2a4"] = {
 							["encounterId"] = 1866,
@@ -83921,21 +89234,21 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 292,
 							["difficultyId"] = 14,
 						},
-						["77-33a-1c3"] = {
-							["encounterId"] = 1842,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1487941491,
-							["difficultyId"] = 14,
-							["duration"] = 203,
-						},
-						["35c-2ae-2cb"] = {
-							["encounterId"] = 2038,
+						["2ab-105-1c5"] = {
+							["encounterId"] = 2032,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1500647434,
-							["difficultyId"] = 14,
-							["duration"] = 374,
+							["startTime"] = 1499947114,
+							["difficultyId"] = 17,
+							["duration"] = 188,
+						},
+						["1d8-6a-f5"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1505396099,
+							["difficultyId"] = 15,
+							["duration"] = 285,
 						},
 						["2de-118-252"] = {
 							["encounterId"] = 1864,
@@ -83953,37 +89266,37 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 79,
 							["difficultyId"] = 17,
 						},
-						["5-141-370"] = {
-							["encounterId"] = 1872,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1489762852,
-							["duration"] = 278,
-							["difficultyId"] = 14,
-						},
-						["17d-1b2-1bf"] = {
-							["encounterId"] = 1842,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1490972746,
-							["difficultyId"] = 14,
-							["duration"] = 178,
-						},
-						["2b-276-22c"] = {
-							["encounterId"] = 2037,
+						["9d-33-e6"] = {
+							["encounterId"] = 2032,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1498746216,
-							["difficultyId"] = 15,
-							["duration"] = 405,
+							["startTime"] = 1505997807,
+							["difficultyId"] = 14,
+							["duration"] = 173,
 						},
-						["3b2-3e3-2a9"] = {
-							["encounterId"] = 1862,
+						["24-15a-2d1"] = {
+							["encounterId"] = 1854,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1488029599,
+							["duration"] = 154,
+							["difficultyId"] = 15,
+						},
+						["35c-2ae-2cb"] = {
+							["encounterId"] = 2038,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1500647434,
+							["difficultyId"] = 14,
+							["duration"] = 374,
+						},
+						["302-3d3-6"] = {
+							["encounterId"] = 1865,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1488459849,
+							["startTime"] = 1491280881,
 							["difficultyId"] = 15,
-							["duration"] = 339,
+							["duration"] = 145,
 						},
 						["56-26a-34e"] = {
 							["encounterId"] = 1867,
@@ -83993,13 +89306,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 247,
 						},
-						["26e-32a-32e"] = {
-							["encounterId"] = 1862,
-							["zoneId"] = 1530,
+						["b4-b-303"] = {
+							["encounterId"] = 2050,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1489073892,
-							["difficultyId"] = 15,
-							["duration"] = 426,
+							["startTime"] = 1504872962,
+							["difficultyId"] = 17,
+							["duration"] = 252,
 						},
 						["388-216-46"] = {
 							["encounterId"] = 2050,
@@ -84049,21 +89362,21 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 17,
 							["duration"] = 401,
 						},
-						["21d-37a-5c"] = {
-							["encounterId"] = 1866,
+						["38e-1ee-2be"] = {
+							["encounterId"] = 1886,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1496936682,
-							["duration"] = 410,
-							["difficultyId"] = 15,
+							["startTime"] = 1489152301,
+							["difficultyId"] = 14,
+							["duration"] = 227,
 						},
-						["61-2a1-37f"] = {
-							["encounterId"] = 1863,
+						["d1-3b2-19c"] = {
+							["encounterId"] = 1842,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1490511114,
-							["difficultyId"] = 15,
-							["duration"] = 376,
+							["startTime"] = 1486729827,
+							["duration"] = 222,
+							["difficultyId"] = 14,
 						},
 						["334-354-294"] = {
 							["encounterId"] = 1886,
@@ -84073,13 +89386,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 329,
 							["difficultyId"] = 15,
 						},
-						["16f-279-156"] = {
-							["encounterId"] = 1862,
+						["43-240-2b3"] = {
+							["encounterId"] = 1863,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486142753,
+							["startTime"] = 1490973263,
 							["difficultyId"] = 14,
-							["duration"] = 358,
+							["duration"] = 310,
 						},
 						["1aa-3b1-353"] = {
 							["encounterId"] = 1866,
@@ -84105,13 +89418,21 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 331,
 						},
-						["10c-376-305"] = {
-							["encounterId"] = 1872,
-							["zoneId"] = 1530,
+						["19a-9c-249"] = {
+							["encounterId"] = 1873,
+							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1491392750,
-							["duration"] = 299,
+							["startTime"] = 1488859941,
+							["duration"] = 135,
 							["difficultyId"] = 17,
+						},
+						["34-4d-2a2"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1504878077,
+							["difficultyId"] = 14,
+							["duration"] = 173,
 						},
 						["3f-17-296"] = {
 							["encounterId"] = 1842,
@@ -84119,14 +89440,6 @@ GuildSkadaHighScoreDB = {
 							["guildName"] = "星陨",
 							["startTime"] = 1495121420,
 							["duration"] = 218,
-							["difficultyId"] = 15,
-						},
-						["2d2-11b-28f"] = {
-							["encounterId"] = 1862,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1495469624,
-							["duration"] = 252,
 							["difficultyId"] = 15,
 						},
 						["75-1ad-12f"] = {
@@ -84137,13 +89450,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 429,
 							["difficultyId"] = 14,
 						},
-						["d9-6-339"] = {
-							["encounterId"] = 1865,
+						["3b2-3e3-2a9"] = {
+							["encounterId"] = 1862,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1491313416,
-							["difficultyId"] = 16,
-							["duration"] = 310,
+							["startTime"] = 1488459849,
+							["difficultyId"] = 15,
+							["duration"] = 339,
 						},
 						["314-55-10f"] = {
 							["encounterId"] = 2037,
@@ -84153,28 +89466,28 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 477,
 							["difficultyId"] = 15,
 						},
-						["1ff-e0-185"] = {
-							["encounterId"] = 1865,
+						["2c3-83-16"] = {
+							["encounterId"] = 1872,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1495112607,
-							["difficultyId"] = 16,
-							["duration"] = 262,
-						},
-						["1ee-23c-2a7"] = {
-							["encounterId"] = 1842,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1496901306,
+							["startTime"] = 1493470237,
 							["difficultyId"] = 15,
-							["duration"] = 203,
+							["duration"] = 263,
 						},
-						["110-39f-30"] = {
-							["encounterId"] = 1871,
+						["21e-2ba-189"] = {
+							["encounterId"] = 1886,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1496931415,
-							["duration"] = 224,
+							["startTime"] = 1494511936,
+							["duration"] = 263,
+							["difficultyId"] = 15,
+						},
+						["2d2-11b-28f"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1495469624,
+							["duration"] = 252,
 							["difficultyId"] = 15,
 						},
 						["59-3b-1d8"] = {
@@ -84185,29 +89498,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 341,
 						},
-						["2c3-83-16"] = {
-							["encounterId"] = 1872,
+						["172-1d1-1e9"] = {
+							["encounterId"] = 1866,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1493470237,
+							["startTime"] = 1496903321,
 							["difficultyId"] = 15,
-							["duration"] = 263,
-						},
-						["393-184-e0"] = {
-							["encounterId"] = 1863,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1491283248,
-							["difficultyId"] = 15,
-							["duration"] = 352,
-						},
-						["1f5-178-286"] = {
-							["encounterId"] = 1877,
-							["zoneId"] = 1520,
-							["guildName"] = "星陨",
-							["startTime"] = 1489724132,
-							["difficultyId"] = 17,
-							["duration"] = 93,
+							["duration"] = 590,
 						},
 						["ff-3cf-185"] = {
 							["encounterId"] = 1866,
@@ -84217,13 +89514,29 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 488,
 							["difficultyId"] = 15,
 						},
-						["e7-36e-2ca"] = {
-							["encounterId"] = 1866,
+						["1b2-271-259"] = {
+							["encounterId"] = 1865,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1493470796,
+							["startTime"] = 1495718128,
+							["duration"] = 246,
+							["difficultyId"] = 16,
+						},
+						["298-1dd-280"] = {
+							["encounterId"] = 2008,
+							["zoneId"] = 1648,
+							["guildName"] = "星陨",
+							["startTime"] = 1488036795,
 							["difficultyId"] = 15,
-							["duration"] = 467,
+							["duration"] = 421,
+						},
+						["5b-270-396"] = {
+							["encounterId"] = 1841,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1486204240,
+							["difficultyId"] = 16,
+							["duration"] = 209,
 						},
 						["18-2ec-12b"] = {
 							["encounterId"] = 2052,
@@ -84241,13 +89554,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 17,
 							["duration"] = 169,
 						},
-						["320-1e8-3a8"] = {
-							["encounterId"] = 1886,
-							["zoneId"] = 1530,
+						["378-b0-74"] = {
+							["encounterId"] = 2008,
+							["zoneId"] = 1648,
 							["guildName"] = "星陨",
-							["startTime"] = 1486652406,
+							["startTime"] = 1486219809,
 							["difficultyId"] = 15,
-							["duration"] = 357,
+							["duration"] = 389,
 						},
 						["3ac-53-f3"] = {
 							["encounterId"] = 1863,
@@ -84257,45 +89570,45 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 420,
 						},
-						["335-167-16"] = {
-							["encounterId"] = 1849,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1489067302,
-							["difficultyId"] = 15,
-							["duration"] = 298,
-						},
-						["2f4-1e8-2b3"] = {
+						["1ee-23c-2a7"] = {
 							["encounterId"] = 1842,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1487860110,
+							["startTime"] = 1496901306,
 							["difficultyId"] = 15,
-							["duration"] = 293,
+							["duration"] = 203,
 						},
-						["24-2bd-349"] = {
-							["encounterId"] = 1877,
-							["zoneId"] = 1520,
-							["guildName"] = "星陨",
-							["startTime"] = 1486472727,
-							["duration"] = 136,
-							["difficultyId"] = 15,
-						},
-						["d1-3b2-19c"] = {
+						["1ba-a4-181"] = {
 							["encounterId"] = 1842,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486729827,
-							["duration"] = 222,
+							["startTime"] = 1505988857,
+							["difficultyId"] = 17,
+							["duration"] = 114,
+						},
+						["9b-83-10c"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1489149276,
 							["difficultyId"] = 14,
+							["duration"] = 155,
 						},
-						["1b2-271-259"] = {
-							["encounterId"] = 1865,
+						["57-e7-20"] = {
+							["encounterId"] = 1867,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1495718128,
-							["duration"] = 246,
-							["difficultyId"] = 16,
+							["startTime"] = 1495376224,
+							["duration"] = 213,
+							["difficultyId"] = 15,
+						},
+						["3a1-151-99"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1491285168,
+							["difficultyId"] = 15,
+							["duration"] = 284,
 						},
 						["13a-341-1ce"] = {
 							["encounterId"] = 1872,
@@ -84305,37 +89618,37 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 215,
 						},
-						["5b-270-396"] = {
-							["encounterId"] = 1841,
-							["zoneId"] = 1520,
-							["guildName"] = "星陨",
-							["startTime"] = 1486204240,
-							["difficultyId"] = 16,
-							["duration"] = 209,
-						},
-						["1d1-f2-35f"] = {
-							["encounterId"] = 1876,
-							["zoneId"] = 1520,
-							["guildName"] = "星陨",
-							["startTime"] = 1488858269,
-							["duration"] = 165,
-							["difficultyId"] = 17,
-						},
-						["fa-b6-243"] = {
-							["encounterId"] = 2054,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1502976497,
-							["difficultyId"] = 15,
-							["duration"] = 319,
-						},
-						["3a1-151-99"] = {
-							["encounterId"] = 1862,
+						["d9-6-339"] = {
+							["encounterId"] = 1865,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1491285168,
+							["startTime"] = 1491313416,
+							["difficultyId"] = 16,
+							["duration"] = 310,
+						},
+						["125-1dc-1c3"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1496899535,
 							["difficultyId"] = 15,
-							["duration"] = 284,
+							["duration"] = 115,
+						},
+						["1f5-178-286"] = {
+							["encounterId"] = 1877,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1489724132,
+							["difficultyId"] = 17,
+							["duration"] = 93,
+						},
+						["f9-1da-1b5"] = {
+							["encounterId"] = 2051,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1503064741,
+							["difficultyId"] = 14,
+							["duration"] = 491,
 						},
 						["1d2-d9-270"] = {
 							["encounterId"] = 1866,
@@ -84353,21 +89666,21 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 167,
 						},
-						["2a5-1ab-254"] = {
-							["encounterId"] = 1866,
+						["198-f7-176"] = {
+							["encounterId"] = 1849,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1495982311,
-							["duration"] = 452,
+							["startTime"] = 1494772616,
 							["difficultyId"] = 15,
+							["duration"] = 196,
 						},
-						["f6-308-36a"] = {
-							["encounterId"] = 1862,
-							["zoneId"] = 1530,
+						["16e-2ed-125"] = {
+							["encounterId"] = 1958,
+							["zoneId"] = 1648,
 							["guildName"] = "星陨",
-							["startTime"] = 1485443379,
+							["startTime"] = 1486217078,
 							["difficultyId"] = 15,
-							["duration"] = 417,
+							["duration"] = 302,
 						},
 						["141-143-17b"] = {
 							["encounterId"] = 1877,
@@ -84393,29 +89706,29 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 384,
 						},
-						["21e-2ba-189"] = {
-							["encounterId"] = 1886,
+						["13e-176-39e"] = {
+							["encounterId"] = 1867,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1494511936,
-							["duration"] = 263,
+							["startTime"] = 1490507604,
 							["difficultyId"] = 15,
+							["duration"] = 281,
 						},
-						["198-f7-176"] = {
-							["encounterId"] = 1849,
+						["310-202-2f5"] = {
+							["encounterId"] = 1866,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1494772616,
+							["startTime"] = 1495721347,
+							["duration"] = 410,
 							["difficultyId"] = 15,
-							["duration"] = 196,
 						},
-						["19a-9c-249"] = {
-							["encounterId"] = 1873,
-							["zoneId"] = 1520,
+						["2f7-26b-189"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1488859941,
-							["duration"] = 135,
-							["difficultyId"] = 17,
+							["startTime"] = 1489671667,
+							["duration"] = 276,
+							["difficultyId"] = 15,
 						},
 						["e3-266-ac"] = {
 							["encounterId"] = 1865,
@@ -84425,29 +89738,29 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 16,
 							["duration"] = 231,
 						},
-						["57-e7-20"] = {
-							["encounterId"] = 1867,
-							["zoneId"] = 1530,
+						["272-e0-2c9"] = {
+							["encounterId"] = 2048,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1495376224,
-							["duration"] = 213,
+							["startTime"] = 1501765662,
+							["difficultyId"] = 15,
+							["duration"] = 285,
+						},
+						["24-2bd-349"] = {
+							["encounterId"] = 1877,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1486472727,
+							["duration"] = 136,
 							["difficultyId"] = 15,
 						},
-						["38e-1ee-2be"] = {
-							["encounterId"] = 1886,
+						["393-184-e0"] = {
+							["encounterId"] = 1863,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1489152301,
-							["difficultyId"] = 14,
-							["duration"] = 227,
-						},
-						["302-3d3-6"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1491280881,
+							["startTime"] = 1491283248,
 							["difficultyId"] = 15,
-							["duration"] = 145,
+							["duration"] = 352,
 						},
 						["374-ae-2a6"] = {
 							["encounterId"] = 2050,
@@ -84497,13 +89810,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 17,
 							["duration"] = 186,
 						},
-						["125-1dc-1c3"] = {
-							["encounterId"] = 1865,
+						["10c-376-305"] = {
+							["encounterId"] = 1872,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1496899535,
-							["difficultyId"] = 15,
-							["duration"] = 115,
+							["startTime"] = 1491392750,
+							["duration"] = 299,
+							["difficultyId"] = 17,
 						},
 						["370-1e1-38b"] = {
 							["encounterId"] = 1873,
@@ -84513,13 +89826,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 160,
 							["difficultyId"] = 15,
 						},
-						["298-1dd-280"] = {
-							["encounterId"] = 2008,
-							["zoneId"] = 1648,
+						["2d2-175-29d"] = {
+							["encounterId"] = 1864,
+							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1488036795,
-							["difficultyId"] = 15,
-							["duration"] = 421,
+							["startTime"] = 1487654591,
+							["difficultyId"] = 17,
+							["duration"] = 140,
 						},
 						["256-385-177"] = {
 							["encounterId"] = 1865,
@@ -84529,13 +89842,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 143,
 							["difficultyId"] = 14,
 						},
-						["378-b0-74"] = {
-							["encounterId"] = 2008,
-							["zoneId"] = 1648,
+						["1ff-e0-185"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486219809,
-							["difficultyId"] = 15,
-							["duration"] = 389,
+							["startTime"] = 1495112607,
+							["difficultyId"] = 16,
+							["duration"] = 262,
 						},
 						["2ce-144-287"] = {
 							["encounterId"] = 1867,
@@ -84545,29 +89858,29 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 202,
 							["difficultyId"] = 15,
 						},
-						["9b-83-10c"] = {
-							["encounterId"] = 1842,
+						["16f-279-156"] = {
+							["encounterId"] = 1862,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1489149276,
+							["startTime"] = 1486142753,
 							["difficultyId"] = 14,
-							["duration"] = 155,
+							["duration"] = 358,
 						},
-						["172-1d1-1e9"] = {
-							["encounterId"] = 1866,
+						["2aa-3ad-293"] = {
+							["encounterId"] = 1872,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1496903321,
+							["startTime"] = 1489079814,
+							["duration"] = 532,
 							["difficultyId"] = 15,
-							["duration"] = 590,
 						},
-						["262-1bf-3c"] = {
-							["encounterId"] = 1865,
+						["392-1f3-93"] = {
+							["encounterId"] = 1872,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1485664652,
+							["startTime"] = 1496210631,
+							["duration"] = 281,
 							["difficultyId"] = 15,
-							["duration"] = 244,
 						},
 						["1ac-47-223"] = {
 							["encounterId"] = 1863,
@@ -84593,13 +89906,29 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 248,
 							["difficultyId"] = 15,
 						},
-						["2d2-175-29d"] = {
-							["encounterId"] = 1864,
-							["zoneId"] = 1520,
+						["226-28e-358"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1487654591,
-							["difficultyId"] = 17,
-							["duration"] = 140,
+							["startTime"] = 1495978505,
+							["duration"] = 251,
+							["difficultyId"] = 15,
+						},
+						["2b-276-22c"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1498746216,
+							["difficultyId"] = 15,
+							["duration"] = 405,
+						},
+						["b5-265-31e"] = {
+							["encounterId"] = 1872,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1486654746,
+							["difficultyId"] = 15,
+							["duration"] = 571,
 						},
 						["212-206-252"] = {
 							["encounterId"] = 1865,
@@ -84609,28 +89938,12 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 193,
 						},
-						["43-240-2b3"] = {
-							["encounterId"] = 1863,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1490973263,
-							["difficultyId"] = 14,
-							["duration"] = 310,
-						},
-						["22-28-4c"] = {
-							["encounterId"] = 1867,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1489758082,
-							["duration"] = 219,
-							["difficultyId"] = 14,
-						},
-						["310-202-2f5"] = {
+						["38d-1d5-1e"] = {
 							["encounterId"] = 1866,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1495721347,
-							["duration"] = 410,
+							["startTime"] = 1489754916,
+							["duration"] = 692,
 							["difficultyId"] = 15,
 						},
 						["3a4-2ce-56"] = {
@@ -84649,21 +89962,21 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 249,
 							["difficultyId"] = 15,
 						},
-						["2ab-105-1c5"] = {
-							["encounterId"] = 2032,
+						["37c-41-7e"] = {
+							["encounterId"] = 2036,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1499947114,
-							["difficultyId"] = 17,
-							["duration"] = 188,
+							["startTime"] = 1501245492,
+							["duration"] = 182,
+							["difficultyId"] = 14,
 						},
-						["ac-218-11f"] = {
-							["encounterId"] = 1849,
-							["zoneId"] = 1530,
+						["1e6-3ad-3a"] = {
+							["encounterId"] = 2036,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1486641884,
-							["difficultyId"] = 15,
-							["duration"] = 275,
+							["startTime"] = 1503845600,
+							["duration"] = 160,
+							["difficultyId"] = 14,
 						},
 						["11b-3e0-210"] = {
 							["encounterId"] = 1867,
@@ -84673,53 +89986,53 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 209,
 							["difficultyId"] = 15,
 						},
-						["b5-265-31e"] = {
-							["encounterId"] = 1872,
+						["1e0-3be-ef"] = {
+							["encounterId"] = 1862,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486654746,
-							["difficultyId"] = 15,
-							["duration"] = 571,
+							["startTime"] = 1487940331,
+							["difficultyId"] = 14,
+							["duration"] = 287,
 						},
-						["177-36-13a"] = {
-							["encounterId"] = 1867,
+						["23c-37e-290"] = {
+							["encounterId"] = 1849,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1496928850,
-							["duration"] = 276,
-							["difficultyId"] = 16,
-						},
-						["117-1da-3"] = {
-							["encounterId"] = 1873,
-							["zoneId"] = 1520,
-							["guildName"] = "星陨",
-							["startTime"] = 1486472175,
-							["duration"] = 151,
+							["startTime"] = 1495976144,
+							["duration"] = 198,
 							["difficultyId"] = 15,
 						},
-						["2a5-101-162"] = {
+						["2fa-2df-214"] = {
 							["encounterId"] = 1871,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1494773837,
-							["difficultyId"] = 15,
-							["duration"] = 234,
-						},
-						["307-1ae-330"] = {
-							["encounterId"] = 2051,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1500041816,
+							["startTime"] = 1486873218,
+							["duration"] = 250,
 							["difficultyId"] = 14,
-							["duration"] = 504,
 						},
-						["272-e0-2c9"] = {
-							["encounterId"] = 2048,
+						["33-1d7-298"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1486045730,
+							["duration"] = 439,
+							["difficultyId"] = 15,
+						},
+						["371-e6-a7"] = {
+							["encounterId"] = 1866,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1495118314,
+							["duration"] = 436,
+							["difficultyId"] = 15,
+						},
+						["380-bd-193"] = {
+							["encounterId"] = 2036,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1501765662,
+							["startTime"] = 1505393757,
 							["difficultyId"] = 15,
-							["duration"] = 285,
+							["duration"] = 191,
 						},
 						["205-186-16b"] = {
 							["encounterId"] = 1867,
@@ -84753,21 +90066,21 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 262,
 							["difficultyId"] = 14,
 						},
-						["16e-2ed-125"] = {
-							["encounterId"] = 1958,
+						["10f-60-17d"] = {
+							["encounterId"] = 1962,
 							["zoneId"] = 1648,
 							["guildName"] = "星陨",
-							["startTime"] = 1486217078,
+							["startTime"] = 1485964940,
 							["difficultyId"] = 15,
-							["duration"] = 302,
+							["duration"] = 222,
 						},
-						["2fa-2df-214"] = {
-							["encounterId"] = 1871,
+						["3cf-1b6-314"] = {
+							["encounterId"] = 1865,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1486873218,
-							["duration"] = 250,
+							["startTime"] = 1487938477,
 							["difficultyId"] = 14,
+							["duration"] = 136,
 						},
 						["7f-18b-d3"] = {
 							["encounterId"] = 1849,
@@ -84777,13 +90090,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 156,
 						},
-						["371-e6-a7"] = {
-							["encounterId"] = 1866,
-							["zoneId"] = 1530,
+						["266-3c4-284"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1495118314,
-							["duration"] = 436,
-							["difficultyId"] = 15,
+							["startTime"] = 1498195026,
+							["duration"] = 224,
+							["difficultyId"] = 14,
 						},
 						["1b5-115-145"] = {
 							["encounterId"] = 1841,
@@ -84801,37 +90114,37 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 17,
 							["duration"] = 109,
 						},
-						["62-250-2cc"] = {
+						["2cc-b3-379"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1485447581,
+							["difficultyId"] = 14,
+							["duration"] = 224,
+						},
+						["367-b5-2c1"] = {
 							["encounterId"] = 1863,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1495074096,
-							["duration"] = 320,
-							["difficultyId"] = 17,
-						},
-						["2cc-348-81"] = {
-							["encounterId"] = 1841,
-							["zoneId"] = 1520,
-							["guildName"] = "星陨",
-							["startTime"] = 1495369708,
-							["difficultyId"] = 17,
-							["duration"] = 77,
-						},
-						["3cf-1b6-314"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1487938477,
-							["difficultyId"] = 14,
-							["duration"] = 136,
-						},
-						["392-1f3-93"] = {
-							["encounterId"] = 1872,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1496210631,
-							["duration"] = 281,
+							["startTime"] = 1487861815,
 							["difficultyId"] = 15,
+							["duration"] = 444,
+						},
+						["20b-176-199"] = {
+							["encounterId"] = 2036,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1498741727,
+							["difficultyId"] = 15,
+							["duration"] = 239,
+						},
+						["e4-4f-75"] = {
+							["encounterId"] = 1849,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1485663751,
+							["difficultyId"] = 15,
+							["duration"] = 327,
 						},
 						["1ab-1c3-b4"] = {
 							["encounterId"] = 1867,
@@ -84841,21 +90154,21 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 16,
 							["duration"] = 295,
 						},
-						["23c-37e-290"] = {
+						["33e-39e-19b"] = {
 							["encounterId"] = 1849,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1495976144,
-							["duration"] = 198,
+							["startTime"] = 1491280341,
 							["difficultyId"] = 15,
+							["duration"] = 250,
 						},
-						["2cc-b3-379"] = {
-							["encounterId"] = 1842,
-							["zoneId"] = 1530,
+						["d-1e7-95"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1485447581,
-							["difficultyId"] = 14,
-							["duration"] = 224,
+							["startTime"] = 1499908651,
+							["duration"] = 234,
+							["difficultyId"] = 17,
 						},
 						["347-3b7-12e"] = {
 							["encounterId"] = 1877,
@@ -84873,21 +90186,21 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 122,
 						},
-						["1e0-3be-ef"] = {
-							["encounterId"] = 1862,
-							["zoneId"] = 1530,
+						["236-a2-ca"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1487940331,
+							["startTime"] = 1501247663,
+							["duration"] = 266,
 							["difficultyId"] = 14,
-							["duration"] = 287,
 						},
-						["3e2-3aa-13b"] = {
-							["encounterId"] = 1842,
-							["zoneId"] = 1530,
+						["3a6-dd-2d1"] = {
+							["encounterId"] = 1864,
+							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1486997117,
-							["difficultyId"] = 14,
-							["duration"] = 272,
+							["startTime"] = 1495369098,
+							["difficultyId"] = 17,
+							["duration"] = 94,
 						},
 						["20d-16f-3bc"] = {
 							["encounterId"] = 2037,
@@ -84905,21 +90218,21 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 208,
 							["difficultyId"] = 15,
 						},
-						["209-245-28d"] = {
-							["encounterId"] = 1866,
+						["2ad-2cf-3ce"] = {
+							["encounterId"] = 1863,
 							["zoneId"] = 1530,
 							["guildName"] = "星陨",
-							["startTime"] = 1487868686,
-							["duration"] = 597,
+							["startTime"] = 1493904717,
+							["duration"] = 297,
 							["difficultyId"] = 15,
 						},
-						["31c-176-2ec"] = {
-							["encounterId"] = 1873,
-							["zoneId"] = 1520,
+						["3d1-2ad-95"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1488030267,
-							["duration"] = 151,
-							["difficultyId"] = 15,
+							["startTime"] = 1500038357,
+							["difficultyId"] = 14,
+							["duration"] = 231,
 						},
 						["22a-140-ce"] = {
 							["encounterId"] = 2037,
@@ -84929,13 +90242,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 293,
 						},
-						["3ad-3bc-187"] = {
-							["encounterId"] = 1849,
-							["zoneId"] = 1530,
+						["264-326-ac"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1485444760,
+							["startTime"] = 1498199551,
+							["duration"] = 427,
 							["difficultyId"] = 14,
-							["duration"] = 206,
 						},
 						["22a-1e1-25c"] = {
 							["encounterId"] = 2038,
@@ -84961,54 +90274,6 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 14,
 							["duration"] = 281,
 						},
-						["10f-60-17d"] = {
-							["encounterId"] = 1962,
-							["zoneId"] = 1648,
-							["guildName"] = "星陨",
-							["startTime"] = 1485964940,
-							["difficultyId"] = 15,
-							["duration"] = 222,
-						},
-						["330-12d-37a"] = {
-							["encounterId"] = 1867,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1491315024,
-							["difficultyId"] = 16,
-							["duration"] = 325,
-						},
-						["1a1-3bd-354"] = {
-							["encounterId"] = 1867,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1493216522,
-							["difficultyId"] = 17,
-							["duration"] = 184,
-						},
-						["2ad-2cf-3ce"] = {
-							["encounterId"] = 1863,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1493904717,
-							["duration"] = 297,
-							["difficultyId"] = 15,
-						},
-						["3cc-384-2a8"] = {
-							["encounterId"] = 1849,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1497529670,
-							["difficultyId"] = 16,
-							["duration"] = 238,
-						},
-						["3d-14f-30d"] = {
-							["encounterId"] = 1863,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1485450274,
-							["difficultyId"] = 14,
-							["duration"] = 409,
-						},
 						["40-295-3be"] = {
 							["encounterId"] = 1849,
 							["zoneId"] = 1530,
@@ -85017,13 +90282,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 16,
 							["duration"] = 305,
 						},
-						["c7-1b0-351"] = {
-							["encounterId"] = 2048,
+						["b5-ff-373"] = {
+							["encounterId"] = 2054,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1498740491,
+							["startTime"] = 1500821777,
+							["duration"] = 388,
 							["difficultyId"] = 15,
-							["duration"] = 308,
 						},
 						["88-3ce-89"] = {
 							["encounterId"] = 1862,
@@ -85033,37 +90298,37 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 351,
 							["difficultyId"] = 15,
 						},
-						["d-1e7-95"] = {
-							["encounterId"] = 2037,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1499908651,
-							["duration"] = 234,
-							["difficultyId"] = 17,
-						},
-						["13d-1fb-188"] = {
-							["encounterId"] = 2051,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1498234757,
-							["difficultyId"] = 14,
-							["duration"] = 622,
-						},
-						["279-1c6-5e"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
-							["guildName"] = "星陨",
-							["startTime"] = 1497504455,
-							["difficultyId"] = 15,
-							["duration"] = 105,
-						},
-						["156-3e2-2cf"] = {
+						["3d5-3bd-2a5"] = {
 							["encounterId"] = 1864,
 							["zoneId"] = 1520,
 							["guildName"] = "星陨",
-							["startTime"] = 1490525661,
-							["difficultyId"] = 17,
-							["duration"] = 141,
+							["startTime"] = 1504104244,
+							["difficultyId"] = 14,
+							["duration"] = 173,
+						},
+						["9f-316-265"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1506172134,
+							["difficultyId"] = 15,
+							["duration"] = 190,
+						},
+						["3d-14f-30d"] = {
+							["encounterId"] = 1863,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1485450274,
+							["difficultyId"] = 14,
+							["duration"] = 409,
+						},
+						["79-321-289"] = {
+							["encounterId"] = 2032,
+							["zoneId"] = 1676,
+							["guildName"] = "星陨",
+							["startTime"] = 1499864428,
+							["difficultyId"] = 14,
+							["duration"] = 210,
 						},
 						["28a-3a8-2d0"] = {
 							["encounterId"] = 2032,
@@ -85072,6 +90337,14 @@ GuildSkadaHighScoreDB = {
 							["startTime"] = 1500642441,
 							["difficultyId"] = 14,
 							["duration"] = 144,
+						},
+						["158-11e-222"] = {
+							["encounterId"] = 1862,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1496900813,
+							["difficultyId"] = 15,
+							["duration"] = 236,
 						},
 						["53-368-2d4"] = {
 							["encounterId"] = 2036,
@@ -85089,13 +90362,53 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 487,
 						},
-						["4d-52-1ea"] = {
-							["encounterId"] = 2054,
+						["216-2ce-cb"] = {
+							["encounterId"] = 1863,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1489675124,
+							["difficultyId"] = 15,
+							["duration"] = 348,
+						},
+						["156-3e2-2cf"] = {
+							["encounterId"] = 1864,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1490525661,
+							["difficultyId"] = 17,
+							["duration"] = 141,
+						},
+						["364-327-108"] = {
+							["encounterId"] = 1876,
+							["zoneId"] = 1520,
+							["guildName"] = "星陨",
+							["startTime"] = 1485869091,
+							["duration"] = 306,
+							["difficultyId"] = 15,
+						},
+						["171-17c-3bd"] = {
+							["encounterId"] = 1872,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1500650061,
+							["difficultyId"] = 15,
+							["duration"] = 200,
+						},
+						["38f-293-1bd"] = {
+							["encounterId"] = 1871,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1488887309,
+							["duration"] = 234,
+							["difficultyId"] = 17,
+						},
+						["102-31a-183"] = {
+							["encounterId"] = 2038,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1499868621,
+							["startTime"] = 1503848270,
+							["duration"] = 336,
 							["difficultyId"] = 14,
-							["duration"] = 356,
 						},
 						["218-237-115"] = {
 							["encounterId"] = 1865,
@@ -85113,13 +90426,13 @@ GuildSkadaHighScoreDB = {
 							["difficultyId"] = 15,
 							["duration"] = 230,
 						},
-						["2fa-242-289"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
+						["128-158-44"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1489668197,
-							["duration"] = 174,
+							["startTime"] = 1504190333,
 							["difficultyId"] = 15,
+							["duration"] = 320,
 						},
 						["2c5-27-324"] = {
 							["encounterId"] = 1862,
@@ -85129,13 +90442,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 219,
 							["difficultyId"] = 17,
 						},
-						["149-e3-171"] = {
-							["encounterId"] = 2052,
+						["153-16-128"] = {
+							["encounterId"] = 2051,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1500040356,
+							["startTime"] = 1503849079,
+							["duration"] = 461,
 							["difficultyId"] = 14,
-							["duration"] = 326,
 						},
 						["325-4d-3e"] = {
 							["encounterId"] = 1865,
@@ -85153,29 +90466,29 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 239,
 							["difficultyId"] = 15,
 						},
-						["b5-ff-373"] = {
+						["194-1aa-1f9"] = {
+							["encounterId"] = 1842,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1504488463,
+							["difficultyId"] = 17,
+							["duration"] = 147,
+						},
+						["22d-7-35c"] = {
+							["encounterId"] = 1865,
+							["zoneId"] = 1530,
+							["guildName"] = "星陨",
+							["startTime"] = 1489068160,
+							["difficultyId"] = 15,
+							["duration"] = 164,
+						},
+						["f0-2d1-59"] = {
 							["encounterId"] = 2054,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1500821777,
-							["duration"] = 388,
-							["difficultyId"] = 15,
-						},
-						["343-2be-346"] = {
-							["encounterId"] = 2032,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1503577548,
-							["duration"] = 195,
-							["difficultyId"] = 15,
-						},
-						["270-3aa-1c1"] = {
-							["encounterId"] = 2037,
-							["zoneId"] = 1676,
-							["guildName"] = "星陨",
-							["startTime"] = 1500818720,
-							["duration"] = 365,
-							["difficultyId"] = 15,
+							["startTime"] = 1504873471,
+							["difficultyId"] = 17,
+							["duration"] = 343,
 						},
 						["1aa-c3-25e"] = {
 							["encounterId"] = 2052,
@@ -85193,13 +90506,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 133,
 							["difficultyId"] = 14,
 						},
-						["b2-84-3bf"] = {
-							["encounterId"] = 2054,
+						["1e0-f9-343"] = {
+							["encounterId"] = 2048,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1502786820,
-							["difficultyId"] = 17,
-							["duration"] = 275,
+							["startTime"] = 1505393221,
+							["difficultyId"] = 15,
+							["duration"] = 254,
 						},
 						["117-1a7-274"] = {
 							["encounterId"] = 1867,
@@ -85209,13 +90522,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 198,
 							["difficultyId"] = 15,
 						},
-						["349-27a-242"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
+						["325-118-58"] = {
+							["encounterId"] = 2037,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1499912456,
-							["duration"] = 90,
-							["difficultyId"] = 17,
+							["startTime"] = 1503846035,
+							["duration"] = 212,
+							["difficultyId"] = 14,
 						},
 						["1ce-e7-144"] = {
 							["encounterId"] = 2037,
@@ -85225,13 +90538,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 259,
 							["difficultyId"] = 14,
 						},
-						["154-253-251"] = {
-							["encounterId"] = 2054,
+						["2f2-18d-354"] = {
+							["encounterId"] = 2052,
 							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1503581617,
-							["duration"] = 325,
+							["startTime"] = 1505397283,
 							["difficultyId"] = 15,
+							["duration"] = 321,
 						},
 						["56-6f-172"] = {
 							["encounterId"] = 1853,
@@ -85249,13 +90562,13 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 90,
 							["difficultyId"] = 17,
 						},
-						["227-2f5-53"] = {
-							["encounterId"] = 1865,
-							["zoneId"] = 1530,
+						["32-10e-26f"] = {
+							["encounterId"] = 2051,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1485433284,
+							["startTime"] = 1505471464,
+							["duration"] = 396,
 							["difficultyId"] = 15,
-							["duration"] = 296,
 						},
 						["2c0-1ef-3e7"] = {
 							["encounterId"] = 1871,
@@ -85273,11 +90586,11 @@ GuildSkadaHighScoreDB = {
 							["duration"] = 206,
 							["difficultyId"] = 14,
 						},
-						["2f6-bb-167"] = {
-							["encounterId"] = 1866,
-							["zoneId"] = 1530,
+						["154-253-251"] = {
+							["encounterId"] = 2054,
+							["zoneId"] = 1676,
 							["guildName"] = "星陨",
-							["startTime"] = 1503585970,
+							["startTime"] = 1503581617,
 							["duration"] = 325,
 							["difficultyId"] = 15,
 						},

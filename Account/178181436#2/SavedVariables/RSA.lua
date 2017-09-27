@@ -194,9 +194,12 @@ RSADB = {
 			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
+			["Modules"] = {
+				["Monk"] = true,
+			},
 			["General"] = {
-				["Race"] = "Pandaren",
 				["Class"] = "MONK",
+				["Race"] = "Pandaren",
 			},
 			["Monk"] = {
 				["Spells"] = {
@@ -204,9 +207,6 @@ RSADB = {
 						["Whisper"] = false,
 					},
 				},
-			},
-			["Modules"] = {
-				["Monk"] = true,
 			},
 		},
 	},

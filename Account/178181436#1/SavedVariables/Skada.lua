@@ -20,15 +20,16 @@ SkadaDB = {
 			},
 			["windows"] = {
 				{
-					["y"] = 156.557342529297,
-					["x"] = 0,
+					["set"] = "total",
+					["y"] = 161.129028320313,
+					["barfont"] = "AR ZhongkaiGBK Medium",
 					["point"] = "LEFT",
-					["mode"] = "Stagger",
+					["mode"] = "避免和减轻",
 					["barwidth"] = 302.650299072266,
 					["background"] = {
 						["height"] = 106.199974060059,
 					},
-					["barfont"] = "AR ZhongkaiGBK Medium",
+					["x"] = 1.52382266521454,
 					["title"] = {
 						["font"] = "AR ZhongkaiGBK Medium",
 					},
@@ -39,7 +40,9 @@ SkadaDB = {
 				["hide"] = true,
 			},
 			["report"] = {
-				["mode"] = "Stagger",
+				["set"] = "total",
+				["mode"] = "敌对受到伤害",
+				["channel"] = "party",
 			},
 			["versions"] = {
 				["1.6.7"] = true,
@@ -48,16 +51,18 @@ SkadaDB = {
 			},
 			["modeclicks"] = {
 				["需要治疗"] = 1,
-				["死亡"] = 1,
-				["Stagger"] = 21,
+				["死亡"] = 3,
 				["受到伤害"] = 2,
-				["治疗"] = 6,
+				["Stagger"] = 21,
+				["治疗"] = 9,
+				["避免和减轻"] = 1,
 				["DPS"] = 3,
 				["每秒伤害+每秒治疗"] = 5,
-				["伤害"] = 3,
+				["伤害"] = 4,
 				["每秒伤害"] = 3,
 				["总计治疗"] = 4,
 			},
+			["setstokeep"] = 99,
 			["ffoptions"] = {
 				["ignoredefensive"] = true,
 				["ignoreability"] = false,
