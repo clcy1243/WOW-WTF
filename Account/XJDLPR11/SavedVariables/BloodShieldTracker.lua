@@ -1,2 +1,0 @@
-
-BloodShieldTrackerDB = nil
