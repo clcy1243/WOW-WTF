@@ -2,6 +2,7 @@
 TotalArtifactPowerSettings = {
 	["profileKeys"] = {
 		["锦在天堂 - 太阳之井"] = "Default",
+		["龙听雨 - 主宰之剑"] = "Default",
 		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
@@ -12,42 +13,62 @@ TotalArtifactPowerSettings = {
 TotalArtifactPowerCache = {
 	["锦在天堂 - 太阳之井"] = {
 		{
-			["thisLevelUnspentAP"] = 392438485,
-			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 57,
+			["thisLevelUnspentAP"] = 14345674935,
 			["isIgnored"] = false,
+			["numTraitsPurchased"] = 66,
+			["artifactTier"] = 2,
 		}, -- [1]
 		{
 			["thisLevelUnspentAP"] = 251479670,
-			["artifactTier"] = 2,
+			["isIgnored"] = false,
 			["numTraitsPurchased"] = 52,
+			["artifactTier"] = 2,
+		}, -- [2]
+		{
+			["thisLevelUnspentAP"] = 1283800220,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 55,
+			["artifactTier"] = 2,
+		}, -- [3]
+	},
+	["龙听雨 - 主宰之剑"] = {
+		{
+			["thisLevelUnspentAP"] = 94460921900,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 74,
+			["artifactTier"] = 2,
+		}, -- [1]
+		{
+			["thisLevelUnspentAP"] = 2909881205,
+			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 67,
 			["isIgnored"] = false,
 		}, -- [2]
 		{
-			["thisLevelUnspentAP"] = 277733770,
+			["thisLevelUnspentAP"] = 8773312325,
 			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 52,
+			["numTraitsPurchased"] = 63,
 			["isIgnored"] = false,
 		}, -- [3]
 	},
 	["龙听雨 - 巨龙之吼"] = {
 		{
-			["thisLevelUnspentAP"] = 4997829300,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 60,
+			["thisLevelUnspentAP"] = 94460921900,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 74,
+			["isIgnored"] = false,
 		}, -- [1]
 		{
-			["thisLevelUnspentAP"] = 1540216755,
-			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 58,
+			["thisLevelUnspentAP"] = 2909881205,
 			["isIgnored"] = false,
+			["numTraitsPurchased"] = 67,
+			["artifactTier"] = 2,
 		}, -- [2]
 		{
-			["thisLevelUnspentAP"] = 897429875,
-			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 53,
+			["thisLevelUnspentAP"] = 17429875,
 			["isIgnored"] = false,
+			["numTraitsPurchased"] = 54,
+			["artifactTier"] = 2,
 		}, -- [3]
 	},
 }

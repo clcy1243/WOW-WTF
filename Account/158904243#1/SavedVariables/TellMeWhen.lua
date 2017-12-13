@@ -81,8 +81,8 @@ TellMeWhenDB = {
 			["Version"] = 84201,
 			["Groups"] = {
 				{
-					["Scale"] = 1.9968249797821,
 					["GUID"] = "TMW:group:1Ph9STEdC6X8",
+					["Scale"] = 1.9968249797821,
 					["Icons"] = {
 						{
 							["States"] = {
@@ -135,6 +135,7 @@ TellMeWhenDB = {
 					},
 				}, -- [1]
 			},
+			["Locked"] = true,
 		},
 	},
 }

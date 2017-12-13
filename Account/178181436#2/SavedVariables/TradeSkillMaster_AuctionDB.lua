@@ -1,0 +1,52 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["r@巨龙之吼@lastCompleteScan"] = 0,
+	["r@太阳之井@lastSaveTime"] = 0,
+	["g@ @scanDataEU"] = "",
+	["g@ @helpPlatesShown"] = {
+	},
+	["r@太阳之井@lastPartialScan"] = 0,
+	["_hash"] = 6312798,
+	["r@太阳之井@hasAppData"] = true,
+	["r@巨龙之吼@lastSaveTime"] = 0,
+	["_currentProfile"] = {
+		["龙听雨 - 主宰之剑"] = "Default",
+		["锦在天堂 - 太阳之井"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
+	},
+	["r@主宰之剑@hasAppData"] = true,
+	["g@ @showAHTab"] = true,
+	["r@主宰之剑@lastSaveTime"] = 0,
+	["g@ @lastUpdateUS"] = 0,
+	["r@主宰之剑@scanData"] = "",
+	["r@主宰之剑@lastCompleteScan"] = 0,
+	["r@主宰之剑@lastPartialScan"] = 0,
+	["r@巨龙之吼@scanData"] = "",
+	["g@ @scanDataUS"] = "",
+	["r@太阳之井@lastCompleteScan"] = 0,
+	["g@ @lastUpdateEU"] = 0,
+	["r@巨龙之吼@lastPartialScan"] = 0,
+	["r@巨龙之吼@hasAppData"] = true,
+	["_scopeKeys"] = {
+		["char"] = {
+			"龙听雨 - 巨龙之吼", -- [1]
+			"锦在天堂 - 太阳之井", -- [2]
+			"龙听雨 - 主宰之剑", -- [3]
+		},
+		["realm"] = {
+			"巨龙之吼", -- [1]
+			"太阳之井", -- [2]
+			"主宰之剑", -- [3]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - 巨龙之吼", -- [1]
+			"Horde - 太阳之井", -- [2]
+			"Alliance - 主宰之剑", -- [3]
+		},
+	},
+	["_version"] = 2,
+	["r@太阳之井@scanData"] = "",
+}

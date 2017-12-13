@@ -2,22 +2,22 @@
 TidyPlatesThreatDB = {
 	["char"] = {
 		["龙轻雪 - 主宰之剑"] = {
+			["welcome"] = true,
 			["specInfo"] = {
 				["id"] = 105,
 				["role"] = "HEALER",
 				["name"] = "恢复",
 				["index"] = 4,
 			},
-			["welcome"] = true,
 		},
 		["龙剑曦 - 主宰之剑"] = {
-			["welcome"] = true,
 			["specInfo"] = {
 				["id"] = 577,
 				["role"] = "DAMAGER",
 				["name"] = "浩劫",
 				["index"] = 1,
 			},
+			["welcome"] = true,
 		},
 	},
 	["profileKeys"] = {

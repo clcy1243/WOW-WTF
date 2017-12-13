@@ -1,0 +1,95 @@
+
+AngryKeystones_Config = {
+	["__version"] = 1,
+}
+AngryKeystones_Data = {
+	["state"] = {
+		["mapID"] = 210,
+		["splits"] = {
+			472, -- [1]
+			1182, -- [2]
+			1522, -- [3]
+			1024, -- [4]
+			["party1Name"] = "粑粑我不黑",
+			["party1Class"] = "牧师",
+			["party4Class"] = "死亡骑士",
+			["party2Name"] = "Ieo",
+			["patch"] = "7.3.0",
+			["timeLimit"] = 1800,
+			["level"] = 11,
+			["timeElapsed"] = 1522.292,
+			["party3Role"] = "DAMAGER",
+			["affixes3"] = 9,
+			["party5Role"] = "DAMAGER",
+			["party3Name"] = "妹妹不忘初心",
+			["affixes2"] = 12,
+			["party1Role"] = "HEALER",
+			["party4Name"] = "奶油慕斯",
+			["party4Role"] = "DAMAGER",
+			["party3Class"] = "术士",
+			["wasEnergized"] = true,
+			["affixes1"] = 7,
+			["party5Class"] = "圣骑士",
+			["mapID"] = 1571,
+			["party2Role"] = "TANK",
+			["date"] = 1507133793,
+			["party2Class"] = "圣骑士",
+			["party5Name"] = "聖光契約",
+		},
+		["playerDeaths"] = {
+			["粑粑我不黑"] = 3,
+			["奶油慕斯"] = 3,
+			["妹妹不忘初心"] = 1,
+			["聖光契約"] = 1,
+			["Ieo"] = 1,
+		},
+		["splitNames"] = {
+			"巡逻队长加多", -- [1]
+			"塔丽克萨·火冠", -- [2]
+			"顾问麦兰杜斯", -- [3]
+			"敌方部队", -- [4]
+		},
+	},
+	["rumors"] = {
+	},
+	["splits"] = {
+	},
+	["progress"] = {
+		[104277] = {
+			[4] = 2,
+		},
+		[105703] = {
+			16, -- [1]
+		},
+		[105705] = {
+			[4] = 1,
+		},
+		[104251] = {
+			[4] = 4,
+		},
+		[104270] = {
+			[8] = 2,
+		},
+		[104278] = {
+			[10] = 2,
+		},
+		[104300] = {
+			[4] = 4,
+		},
+		[111563] = {
+			[4] = 1,
+		},
+		[105699] = {
+			[3] = 1,
+		},
+		[105715] = {
+			[4] = 4,
+		},
+		[104246] = {
+			[4] = 4,
+		},
+		[104295] = {
+			14, -- [1]
+		},
+	},
+}

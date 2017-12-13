@@ -333,8 +333,8 @@ ACP_Data = {
 		["GarrisonMissionManager"] = true,
 		["MogIt"] = true,
 		["Skada"] = true,
-		["GatherMate2"] = true,
 		["DBM"] = true,
+		["GatherMate2"] = true,
 		["RaidAchievement"] = true,
 	},
 	["ProtectedAddons"] = {

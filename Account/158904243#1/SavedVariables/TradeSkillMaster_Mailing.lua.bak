@@ -1,0 +1,42 @@
+
+TradeSkillMaster_MailingDB = {
+	["c@有隻大白兎丶 - 能源舰@goldKeepAmount"] = 1000000,
+	["g@ @sendItemsIndividually"] = false,
+	["f@Horde - 能源舰@deMailTarget"] = "",
+	["_scopeKeys"] = {
+		["char"] = {
+			"有隻大白兎丶 - 能源舰", -- [1]
+		},
+		["realm"] = {
+			"能源舰", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - 能源舰", -- [1]
+		},
+	},
+	["g@ @helpPlatesShown"] = {
+		["inbox"] = true,
+	},
+	["_hash"] = 3711258,
+	["g@ @inboxMessages"] = true,
+	["g@ @defaultMailTab"] = true,
+	["c@有隻大白兎丶 - 能源舰@goldMailTarget"] = "",
+	["_currentProfile"] = {
+		["有隻大白兎丶 - 能源舰"] = "Default",
+	},
+	["g@ @resendDelay"] = 1,
+	["g@ @defaultPage"] = 1,
+	["g@ @deleteEmptyNPCMail"] = false,
+	["g@ @openMailSound"] = "TSM_NO_SOUND",
+	["g@ @displayMoneyCollected"] = true,
+	["g@ @keepMailSpace"] = 0,
+	["g@ @sendMessages"] = true,
+	["g@ @sendDelay"] = 0.5,
+	["g@ @showReloadBtn"] = true,
+	["g@ @deMaxQuality"] = 2,
+	["_version"] = 1,
+	["g@ @autoCheck"] = true,
+}

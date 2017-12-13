@@ -24,7 +24,7 @@ WhollyDatabase = {
 		["R"] = "FF0099CC",
 	},
 	["showsHolidayQuests"] = true,
-	["displaysMapPins"] = true,
+	["displaysMapPins"] = false,
 	["prependsQuestLevel"] = true,
 	["ignoredQuests"] = {
 	},

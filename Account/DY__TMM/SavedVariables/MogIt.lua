@@ -1,5 +1,8 @@
 
 MogItDB = {
+	["global"] = {
+		["version"] = "3.8.2",
+	},
 	["profileKeys"] = {
 		["Justpalymage - 太阳之井"] = "Default",
 		["Etaasdfafa - 瓦拉斯塔兹"] = "Default",
@@ -8,21 +11,18 @@ MogItDB = {
 		["Willam - 能源舰"] = "Default",
 		["募落葒顔 - 太阳之井"] = "Default",
 	},
-	["global"] = {
-		["version"] = "3.8.2",
-	},
 	["profiles"] = {
 		["Default"] = {
 			["previewProps"] = {
 				{
 					["y"] = -3.282587567809970e-005,
-					["x"] = 0,
 					["h"] = 384.999938964844,
+					["x"] = 0,
 				}, -- [1]
 				{
 					["y"] = 0,
-					["x"] = 0,
 					["h"] = 384.999938964844,
+					["x"] = 0,
 				}, -- [2]
 			},
 			["gridHeight"] = 859.75,
@@ -47,10 +47,10 @@ MogItDB = {
 				["Feet"] = "脚",
 				["Chest"] = "胸部",
 				["Gun"] = "枪械",
-				["Staff"] = "法杖",
-				["Polearm"] = "长柄武器",
-				["Bow"] = "弓",
 				["1H-axe"] = "单手斧",
+				["Bow"] = "弓",
+				["Polearm"] = "长柄武器",
+				["Staff"] = "法杖",
 				["Shoulder"] = "肩部",
 				["Wand"] = "魔杖",
 			},
@@ -64,9 +64,6 @@ MogItDB = {
 	},
 }
 MogItWishlist = {
-	["global"] = {
-		["version"] = 70300,
-	},
 	["profileKeys"] = {
 		["Justpalymage - 太阳之井"] = "Justpalymage - 太阳之井",
 		["Etaasdfafa - 瓦拉斯塔兹"] = "Etaasdfafa - 瓦拉斯塔兹",
@@ -74,6 +71,9 @@ MogItWishlist = {
 		["国王走下神探 - 瓦拉斯塔兹"] = "国王走下神探 - 瓦拉斯塔兹",
 		["Willam - 能源舰"] = "Willam - 能源舰",
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
+	},
+	["global"] = {
+		["version"] = 70300,
 	},
 	["profiles"] = {
 		["Justpalymage - 太阳之井"] = {

@@ -89,6 +89,23 @@ MogIt_MailDB = {
 			},
 		},
 		[31865] = {
+			[81074] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克洛苏斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[82703] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -119,23 +136,6 @@ MogIt_MailDB = {
 						["difficulties"] = {
 						},
 						["instance"] = "翡翠梦魇",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[81074] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克洛苏斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -2873,10 +2873,51 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[1234] = {
-			[1285] = {
+		[22682] = {
+			[66915] = {
 				["classes"] = 4,
-				["sourceType"] = 6,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "爆裂熔炉",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[70264] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[68051] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "缚火者卡格拉兹",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[86067] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -3057,51 +3098,141 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[22682] = {
-			[66915] = {
+		[27281] = {
+			[80123] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "爆裂熔炉",
+						["instanceType"] = 1,
+						["encounter"] = "科蒂拉克斯",
 						["tiers"] = {
-							"德拉诺之王", -- [1]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
-							"随机", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
+						["instance"] = "魔法回廊",
 					}, -- [1]
 				},
 				["faction"] = 2,
 			},
-			[70264] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[68051] = {
+			[80122] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "缚火者卡格拉兹",
+						["instanceType"] = 1,
+						["encounter"] = "萨维斯之影",
 						["tiers"] = {
-							"德拉诺之王", -- [1]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
-							"随机", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
+						["instance"] = "黑心林地",
 					}, -- [1]
 				},
 				["faction"] = 2,
 			},
-			[86067] = {
+			[80154] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "乌拉罗格·塑山",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "奈萨里奥的巢穴",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[80158] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "阿努贝斯特",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "突袭紫罗兰监狱",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[80155] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "深须国王",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "艾萨拉之眼",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[80166] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "顾问麦兰杜斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "群星庭院",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[80114] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "赫娅",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "英灵殿",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[80163] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "鲜血公主萨安娜",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "突袭紫罗兰监狱",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -3292,22 +3423,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[7101] = {
-			[12345] = {
+		[24763] = {
+			[60296] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "迁跃扭木",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "生态船",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
 				["faction"] = 2,
 			},
 		},
@@ -3475,39 +3594,20 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[30935] = {
-			[81898] = {
+		[24292] = {
+			[67656] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "斯考匹隆",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
 				["faction"] = 2,
 			},
-			[82450] = {
+			[67577] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "鬼母阿娜",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "破碎群岛",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[67682] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -3522,6 +3622,11 @@ MogIt_MailDB = {
 			[86985] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[87417] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -3573,37 +3678,41 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[10609] = {
-			[19869] = {
+		[7101] = {
+			[12345] = {
 				["classes"] = 4,
-				["sourceType"] = 3,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "迁跃扭木",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "生态船",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
-		[26847] = {
-			[68208] = {
+		[2282] = {
+			[2647] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[82961] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[80330] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[68567] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[76481] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "加摩拉",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑暗深渊",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -3664,10 +3773,39 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[9096] = {
-			[16233] = {
+		[30935] = {
+			[81898] = {
 				["classes"] = 4,
-				["sourceType"] = 3,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "斯考匹隆",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[82450] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "鬼母阿娜",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "破碎群岛",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -4068,9 +4206,22 @@ MogIt_MailDB = {
 			},
 		},
 		[13268] = {
-			[62503] = {
+			[26884] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "厄祖玛特",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "潮汐王座",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 			[33253] = {
@@ -4083,8 +4234,9 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[76578] = {
+			[62503] = {
 				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 			[27633] = {
@@ -4110,22 +4262,8 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[26884] = {
+			[76578] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "厄祖玛特",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "潮汐王座",
-					}, -- [1]
-				},
 				["faction"] = 2,
 			},
 		},
@@ -4249,6 +4387,12 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
+		[13811] = {
+			[33391] = {
+				["classes"] = 4,
+				["faction"] = 2,
+			},
+		},
 		[482] = {
 			[352] = {
 				["classes"] = 4,
@@ -4258,13 +4402,6 @@ MogIt_MailDB = {
 			[356] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-		},
-		[5636] = {
-			[10427] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -4464,43 +4601,8 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[13392] = {
-			[27174] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[27175] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[27176] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[27177] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[27178] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[27172] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[27173] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[27179] = {
+		[34022] = {
+			[86037] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -4641,8 +4743,43 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[4660] = {
-			[6427] = {
+		[13392] = {
+			[27174] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[27175] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[27176] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[27177] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[27178] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[27172] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[27173] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[27179] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -4980,22 +5117,15 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[32685] = {
-			[83183] = {
+		[16844] = {
+			[38849] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "海拉",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "勇气试炼",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[38883] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
 				["faction"] = 2,
 			},
 		},
@@ -5110,28 +5240,22 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[19910] = {
-			[50247] = {
+		[32685] = {
+			[83183] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "遗忘者杜鲁姆",
+						["encounter"] = "海拉",
 						["tiers"] = {
-							"熊猫人之谜", -- [1]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
-							"随机", -- [1]
 						},
-						["instance"] = "雷电王座",
+						["instance"] = "勇气试炼",
 					}, -- [1]
 				},
-				["faction"] = 2,
-			},
-			[50371] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
 				["faction"] = 2,
 			},
 		},
@@ -5211,42 +5335,49 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[20940] = {
-			[52366] = {
+		[19918] = {
+			[49997] = {
 				["classes"] = 4,
 				["sourceType"] = 3,
 				["faction"] = 2,
 			},
-			[61803] = {
+			[49867] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[49666] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "潘达利亚战利品",
+						["encounter"] = "遗忘者杜鲁姆",
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
+							"10人", -- [1]
+							"25人", -- [2]
 						},
-						["instance"] = "决战奥格瑞玛",
+						["instance"] = "雷电王座",
 					}, -- [1]
 				},
 				["faction"] = 2,
 			},
-			[61930] = {
+			[49924] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "加尔鲁什·地狱咆哮",
+						["encounter"] = "乌达斯塔",
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "决战奥格瑞玛",
+						["instance"] = "潘达利亚",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -6567,32 +6698,67 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[16844] = {
-			[38849] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[38883] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-		},
-		[32693] = {
-			[83180] = {
+		[19910] = {
+			[50247] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "海拉",
+						["encounter"] = "遗忘者杜鲁姆",
 						["tiers"] = {
-							"军团再临", -- [1]
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "雷电王座",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[50371] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[20940] = {
+			[52366] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[61803] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "潘达利亚战利品",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "勇气试炼",
+						["instance"] = "决战奥格瑞玛",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[61930] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加尔鲁什·地狱咆哮",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "决战奥格瑞玛",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -6844,6 +7010,23 @@ MogIt_MailDB = {
 			},
 		},
 		[29755] = {
+			[79859] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克洛苏斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[82700] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -6878,28 +7061,11 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[79859] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克洛苏斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
 		},
-		[2395] = {
-			[2791] = {
+		[984] = {
+			[983] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -6915,10 +7081,23 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[984] = {
-			[983] = {
+		[11592] = {
+			[22128] = {
 				["classes"] = 4,
-				["sourceType"] = 6,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "弗蕾亚",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "奥杜尔",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -6960,23 +7139,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[11592] = {
-			[22128] = {
+		[2395] = {
+			[2791] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "弗蕾亚",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "奥杜尔",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -7398,49 +7564,20 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[19918] = {
-			[49997] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[49867] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[49666] = {
+		[32693] = {
+			[83180] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "遗忘者杜鲁姆",
+						["encounter"] = "海拉",
 						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "雷电王座",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[49924] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "乌达斯塔",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "潘达利亚",
+						["instance"] = "勇气试炼",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -7614,6 +7751,11 @@ MogIt_MailDB = {
 		},
 		[35510] = {
 			[88293] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[88509] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -7809,8 +7951,8 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[34022] = {
-			[86037] = {
+		[4660] = {
+			[6427] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -7926,9 +8068,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[13811] = {
-			[33391] = {
+		[5636] = {
+			[10427] = {
 				["classes"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -8296,22 +8439,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[2282] = {
-			[2647] = {
+		[9096] = {
+			[16233] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "加摩拉",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑暗深渊",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
 				["faction"] = 2,
 			},
 		},
@@ -8327,20 +8458,30 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[24292] = {
-			[67656] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[67577] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[67682] = {
+		[26847] = {
+			[68208] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[82961] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[80330] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[68567] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[76481] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -8361,8 +8502,8 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[24763] = {
-			[60296] = {
+		[10609] = {
+			[19869] = {
 				["classes"] = 4,
 				["sourceType"] = 3,
 				["faction"] = 2,
@@ -8698,141 +8839,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[27281] = {
-			[80123] = {
+		[1234] = {
+			[1285] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "科蒂拉克斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "魔法回廊",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[80122] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "萨维斯之影",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑心林地",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[80154] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "乌拉罗格·塑山",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "奈萨里奥的巢穴",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[80158] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "阿努贝斯特",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "突袭紫罗兰监狱",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[80155] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "深须国王",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "艾萨拉之眼",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[80166] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "顾问麦兰杜斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "群星庭院",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[80114] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "赫娅",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "英灵殿",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[80163] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "鲜血公主萨安娜",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "突袭紫罗兰监狱",
-					}, -- [1]
-				},
+				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -9471,12 +9481,12 @@ MogIt_MailDB = {
 				["sourceType"] = 3,
 				["faction"] = 2,
 			},
-			[41603] = {
+			[41218] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 3,
 				["faction"] = 2,
 			},
-			[41512] = {
+			[41603] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -9486,9 +9496,9 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[41218] = {
+			[41512] = {
 				["classes"] = 4,
-				["sourceType"] = 3,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -11021,7 +11031,7 @@ MogIt_MailDB = {
 			},
 		},
 		[17399] = {
-			[45533] = {
+			[42754] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -11036,7 +11046,7 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[42852] = {
+			[45533] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -11056,7 +11066,7 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[42754] = {
+			[42852] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -14939,6 +14949,11 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[87429] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
 		},
 		[2770] = {
 			[3256] = {
@@ -15677,12 +15692,12 @@ MogIt_MailDB = {
 			},
 		},
 		[27342] = {
-			[81355] = {
+			[68413] = {
 				["classes"] = 4,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[68860] = {
+			[81355] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -15692,9 +15707,9 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[68413] = {
+			[68860] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -15857,6 +15872,11 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
+			[88521] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
 		},
 		[27263] = {
 			[78690] = {
@@ -15876,19 +15896,19 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[79053] = {
+			[79004] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "邪能领主贝图格",
+						["encounter"] = "顾问凡多斯",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "突袭紫罗兰监狱",
+						["instance"] = "魔法回廊",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -15944,19 +15964,19 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[78941] = {
+			[79053] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "洛克莫拉",
+						["encounter"] = "邪能领主贝图格",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "奈萨里奥的巢穴",
+						["instance"] = "突袭紫罗兰监狱",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -15978,19 +15998,19 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[79004] = {
+			[78941] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "顾问凡多斯",
+						["encounter"] = "洛克莫拉",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "魔法回廊",
+						["instance"] = "奈萨里奥的巢穴",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -20017,17 +20037,17 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[75837] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
 			[75991] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 			[75620] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[75837] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -21700,6 +21720,11 @@ MogIt_MailDB = {
 			},
 		},
 		[15531] = {
+			[35604] = {
+				["classes"] = 4,
+				["sourceType"] = 6,
+				["faction"] = 2,
+			},
 			[36603] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -21738,11 +21763,6 @@ MogIt_MailDB = {
 						["instance"] = "巴拉丁监狱",
 					}, -- [1]
 				},
-				["faction"] = 2,
-			},
-			[35604] = {
-				["classes"] = 4,
-				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -22243,29 +22263,17 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
+		[4524] = {
+			[6240] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+		},
 		[5546] = {
 			[8061] = {
 				["classes"] = 4,
 				["sourceType"] = 6,
-				["faction"] = 2,
-			},
-		},
-		[824] = {
-			[89410] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "不可宽恕者",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "斯坦索姆",
-					}, -- [1]
-				},
 				["faction"] = 2,
 			},
 		},
@@ -22755,7 +22763,7 @@ MogIt_MailDB = {
 			},
 		},
 		[1244] = {
-			[12247] = {
+			[10564] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -22777,14 +22785,14 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
+			[12247] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
 			[1295] = {
 				["classes"] = 4,
 				["sourceType"] = 6,
-				["faction"] = 2,
-			},
-			[10564] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -22999,6 +23007,35 @@ MogIt_MailDB = {
 			},
 		},
 		[10214] = {
+			[19051] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿努布雷坎",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [2]
+				},
+				["faction"] = 2,
+			},
 			[21286] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -23046,35 +23083,6 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[19051] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "阿努布雷坎",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格拉斯",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [2]
-				},
-				["faction"] = 2,
-			},
 		},
 		[4602] = {
 			[6342] = {
@@ -23087,6 +23095,11 @@ MogIt_MailDB = {
 			[86989] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[87421] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -23194,16 +23207,6 @@ MogIt_MailDB = {
 				["sourceType"] = 3,
 				["faction"] = 2,
 			},
-			[62181] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[52449] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
 			[60990] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -23221,8 +23224,36 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
+			[62181] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[52449] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
 		},
 		[12282] = {
+			[24529] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "烂肠",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[25555] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -23244,24 +23275,6 @@ MogIt_MailDB = {
 			[24961] = {
 				["classes"] = 4,
 				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[24529] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "烂肠",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
 				["faction"] = 2,
 			},
 		},
@@ -23319,14 +23332,14 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[42763] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
 			[44079] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[42861] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 			[45551] = {
@@ -23339,7 +23352,7 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[42763] = {
+			[42861] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -23771,6 +23784,11 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
+			[13642] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
 			[13909] = {
 				["classes"] = 4,
 				["sourceType"] = 3,
@@ -23779,11 +23797,6 @@ MogIt_MailDB = {
 			[3455] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[13642] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -23818,10 +23831,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[4181] = {
-			[5624] = {
+		[22792] = {
+			[65025] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -23886,13 +23899,6 @@ MogIt_MailDB = {
 			[14279] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-		},
-		[22792] = {
-			[65025] = {
-				["classes"] = 4,
-				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -24004,6 +24010,13 @@ MogIt_MailDB = {
 			[29841] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+		},
+		[4181] = {
+			[5624] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -24163,18 +24176,6 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[4203] = {
-			[5657] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[8151] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-		},
 		[9923] = {
 			[18707] = {
 				["classes"] = 4,
@@ -24245,6 +24246,18 @@ MogIt_MailDB = {
 						["instance"] = "安其拉神殿",
 					}, -- [1]
 				},
+				["faction"] = 2,
+			},
+		},
+		[4203] = {
+			[5657] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[8151] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -24840,30 +24853,59 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[21627] = {
-			[57567] = {
+		[25715] = {
+			[69871] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿克蒙德",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
-			[57534] = {
+			[69863] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "奇袭地狱火",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
-			[57269] = {
+			[69874] = {
 				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[60880] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[61741] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "永恒者索克雷萨",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -24946,29 +24988,30 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[18561] = {
-			[44055] = {
+		[21627] = {
+			[57567] = {
 				["classes"] = 4,
-				["sourceType"] = 6,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[47150] = {
+			[57534] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "刀锋领主塔亚克",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-							"25人", -- [2]
-						},
-						["instance"] = "恐惧之心",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[57269] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[60880] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[61741] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -25041,10 +25084,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[19911] = {
-			[50372] = {
+		[32686] = {
+			[83187] = {
 				["classes"] = 4,
-				["sourceType"] = 3,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -25148,10 +25191,22 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[32686] = {
-			[83187] = {
+		[3459] = {
+			[4259] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "弗莱拉斯总大使",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑石深渊",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -27164,22 +27219,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[3459] = {
-			[4259] = {
+		[19911] = {
+			[50372] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "弗莱拉斯总大使",
-						["tiers"] = {
-							"经典旧世", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑石深渊",
-					}, -- [1]
-				},
+				["sourceType"] = 3,
 				["faction"] = 2,
 			},
 		},
@@ -27292,57 +27335,27 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[25715] = {
-			[69871] = {
+		[18561] = {
+			[44055] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "阿克蒙德",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
+				["sourceType"] = 6,
 				["faction"] = 2,
 			},
-			[69863] = {
+			[47150] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "奇袭地狱火",
+						["encounter"] = "刀锋领主塔亚克",
 						["tiers"] = {
-							"德拉诺之王", -- [1]
+							"熊猫人之谜", -- [1]
 						},
 						["difficulties"] = {
-							"史诗", -- [1]
+							"10人", -- [1]
+							"25人", -- [2]
 						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[69874] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "永恒者索克雷萨",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
+						["instance"] = "恐惧之心",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -27691,6 +27704,11 @@ MogIt_MailDB = {
 		},
 		[35511] = {
 			[88297] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[88513] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -28093,14 +28111,14 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
+			[68777] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
 			[80453] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[74636] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 			[68256] = {
@@ -28108,7 +28126,7 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[68777] = {
+			[74636] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -28153,6 +28171,29 @@ MogIt_MailDB = {
 			},
 		},
 		[18714] = {
+			[44709] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "加拉隆",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "恐惧之心",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[44056] = {
+				["classes"] = 4,
+				["sourceType"] = 6,
+				["faction"] = 2,
+			},
 			[44823] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -28172,32 +28213,9 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[44056] = {
-				["classes"] = 4,
-				["sourceType"] = 6,
-				["faction"] = 2,
-			},
 			[44535] = {
 				["classes"] = 4,
 				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[44709] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "加拉隆",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "恐惧之心",
-					}, -- [1]
-				},
 				["faction"] = 2,
 			},
 		},
@@ -28524,10 +28542,22 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[4524] = {
-			[6240] = {
+		[824] = {
+			[89410] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "不可宽恕者",
+						["tiers"] = {
+							"经典旧世", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "斯坦索姆",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -32476,16 +32506,6 @@ MogIt_MailDB = {
 			},
 		},
 		[7121] = {
-			[21316] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[16453] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
 			[12367] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -32501,6 +32521,16 @@ MogIt_MailDB = {
 						["instance"] = "能源舰",
 					}, -- [1]
 				},
+				["faction"] = 2,
+			},
+			[21316] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[16453] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
 				["faction"] = 2,
 			},
 		},
@@ -32530,6 +32560,119 @@ MogIt_MailDB = {
 			},
 			[33397] = {
 				["classes"] = 4,
+				["faction"] = 2,
+			},
+		},
+		[31039] = {
+			[81880] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克洛苏斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[82440] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "尼索格",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "破碎群岛",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[14757] = {
+			[32695] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "升腾者议会",
+						["tiers"] = {
+							"大地的裂变", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+							"25人（英雄）", -- [2]
+						},
+						["instance"] = "暮光堡垒",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[32767] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[17737] = {
+			[41341] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[41345] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[41097] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[41093] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[45441] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[45437] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+		},
+		[27454] = {
+			[83044] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "莫罗斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "重返卡拉赞",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -32625,90 +32768,6 @@ MogIt_MailDB = {
 			[80423] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-		},
-		[14757] = {
-			[32695] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "升腾者议会",
-						["tiers"] = {
-							"大地的裂变", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-							"25人（英雄）", -- [2]
-						},
-						["instance"] = "暮光堡垒",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[32767] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-		},
-		[17737] = {
-			[41341] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[41345] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[41097] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[41093] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[45441] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[45437] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-		},
-		[27454] = {
-			[83044] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "莫罗斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "重返卡拉赞",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-		},
-		[5093] = {
-			[14028] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -33438,56 +33497,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[34629] = {
-			[89880] = {
+		[4161] = {
+			[5595] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "传送门守护者哈萨贝尔",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "安托鲁斯，燃烧王座",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[90094] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "阿格拉玛",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "安托鲁斯，燃烧王座",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[89876] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "萨格拉斯的恶犬",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "安托鲁斯，燃烧王座",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -33557,6 +33570,11 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[87423] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
 		},
 		[8813] = {
 			[15713] = {
@@ -33565,27 +33583,54 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[14949] = {
-			[34232] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[45698] = {
+		[34629] = {
+			[89880] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "大检察官怀特迈恩",
+						["instanceType"] = 2,
+						["encounter"] = "传送门守护者哈萨贝尔",
 						["tiers"] = {
-							"经典旧世", -- [1]
-							"熊猫人之谜", -- [2]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
 						},
-						["instance"] = "血色修道院",
+						["instance"] = "安托鲁斯，燃烧王座",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[90094] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿格拉玛",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安托鲁斯，燃烧王座",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[89876] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "萨格拉斯的恶犬",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安托鲁斯，燃烧王座",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -33979,10 +34024,55 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[13572] = {
-			[27787] = {
+		[17403] = {
+			[43124] = {
 				["classes"] = 4,
-				["sourceType"] = 6,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[42803] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[43142] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[44080] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[43128] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[42709] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[42807] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[42713] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[43146] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[47035] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -34050,22 +34140,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[33720] = {
-			[86717] = {
+		[13572] = {
+			[27787] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "主母萨丝琳",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "萨格拉斯之墓",
-					}, -- [1]
-				},
+				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -34185,55 +34263,22 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[17403] = {
-			[43124] = {
+		[33720] = {
+			[86717] = {
 				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[42803] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[43142] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[44080] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[43128] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[42709] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[42807] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[42713] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[43146] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[47035] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "主母萨丝琳",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "萨格拉斯之墓",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -34274,6 +34319,13 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
+		[19471] = {
+			[47262] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
 		[14606] = {
 			[32328] = {
 				["classes"] = 4,
@@ -34283,26 +34335,6 @@ MogIt_MailDB = {
 			[65722] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-		},
-		[18960] = {
-			[46689] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "大女皇夏柯希尔",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "恐惧之心",
-					}, -- [1]
-				},
 				["faction"] = 2,
 			},
 		},
@@ -34493,13 +34525,13 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[22146] = {
-			[63607] = {
+		[2397] = {
+			[2793] = {
 				["classes"] = 4,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[78305] = {
+			[6299] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -34581,39 +34613,15 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[34008] = {
-			[84638] = {
+		[22146] = {
+			[63607] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "孟菲斯托斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永夜大教堂",
-					}, -- [1]
-				},
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[84639] = {
+			[78305] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "孟菲斯托斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "永夜大教堂",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -34745,20 +34753,39 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[24294] = {
-			[67579] = {
+		[30937] = {
+			[81878] = {
 				["classes"] = 4,
-				["sourceType"] = 3,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克洛苏斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
-			[67658] = {
+			[82438] = {
 				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[67684] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "尼索格",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "破碎群岛",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -35343,42 +35370,6 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[30937] = {
-			[81878] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克洛苏斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[82438] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "尼索格",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "破碎群岛",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-		},
 		[26849] = {
 			[68579] = {
 				["classes"] = 4,
@@ -35416,6 +35407,23 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
+		[24294] = {
+			[67579] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[67658] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[67684] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+		},
 		[16215] = {
 			[37336] = {
 				["classes"] = 4,
@@ -35449,15 +35457,39 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[2397] = {
-			[2793] = {
+		[34008] = {
+			[84638] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "孟菲斯托斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永夜大教堂",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
-			[6299] = {
+			[84639] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "孟菲斯托斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "永夜大教堂",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -35524,10 +35556,23 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[19471] = {
-			[47262] = {
+		[18960] = {
+			[46689] = {
 				["classes"] = 4,
-				["sourceType"] = 3,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "大女皇夏柯希尔",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "恐惧之心",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -35844,10 +35889,29 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[4161] = {
-			[5595] = {
+		[14949] = {
+			[34232] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[45698] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "大检察官怀特迈恩",
+						["tiers"] = {
+							"经典旧世", -- [1]
+							"熊猫人之谜", -- [2]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "血色修道院",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -36025,7 +36089,7 @@ MogIt_MailDB = {
 			},
 		},
 		[26858] = {
-			[74012] = {
+			[73977] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -36035,9 +36099,9 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[73851] = {
+			[74012] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 			[68311] = {
@@ -36055,9 +36119,9 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[73977] = {
+			[73851] = {
 				["classes"] = 4,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -36192,39 +36256,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[31039] = {
-			[81880] = {
+		[5093] = {
+			[14028] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "克洛苏斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[82440] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "尼索格",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "破碎群岛",
-					}, -- [1]
-				},
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -36347,6 +36382,11 @@ MogIt_MailDB = {
 		},
 		[35512] = {
 			[88299] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[88515] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -37222,12 +37262,7 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[63299] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[59624] = {
+			[61388] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
@@ -37238,7 +37273,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
+							"英雄", -- [1]
 						},
 						["instance"] = "通天峰",
 					}, -- [1]
@@ -37249,7 +37284,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
+							"英雄", -- [1]
 						},
 						["instance"] = "血槌炉渣矿井",
 					}, -- [2]
@@ -37260,7 +37295,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
+							"英雄", -- [1]
 						},
 						["instance"] = "钢铁码头",
 					}, -- [3]
@@ -37271,7 +37306,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
+							"英雄", -- [1]
 						},
 						["instance"] = "影月墓地",
 					}, -- [4]
@@ -37282,7 +37317,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
+							"英雄", -- [1]
 						},
 						["instance"] = "永茂林地",
 					}, -- [5]
@@ -37293,11 +37328,16 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"普通", -- [1]
+							"英雄", -- [1]
 						},
 						["instance"] = "黑石塔上层",
 					}, -- [6]
 				},
+				["faction"] = 2,
+			},
+			[63299] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 			[59626] = {
@@ -37507,7 +37547,7 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[61388] = {
+			[59624] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
@@ -37518,7 +37558,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
 						},
 						["instance"] = "通天峰",
 					}, -- [1]
@@ -37529,7 +37569,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
 						},
 						["instance"] = "血槌炉渣矿井",
 					}, -- [2]
@@ -37540,7 +37580,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
 						},
 						["instance"] = "钢铁码头",
 					}, -- [3]
@@ -37551,7 +37591,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
 						},
 						["instance"] = "影月墓地",
 					}, -- [4]
@@ -37562,7 +37602,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
 						},
 						["instance"] = "永茂林地",
 					}, -- [5]
@@ -37573,7 +37613,7 @@ MogIt_MailDB = {
 							"德拉诺之王", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
 						},
 						["instance"] = "黑石塔上层",
 					}, -- [6]
@@ -39550,6 +39590,23 @@ MogIt_MailDB = {
 			},
 		},
 		[34606] = {
+			[90095] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "猎魂者伊墨纳尔",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安托鲁斯，燃烧王座",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[89885] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -39570,23 +39627,6 @@ MogIt_MailDB = {
 			[90572] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[90095] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "猎魂者伊墨纳尔",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "安托鲁斯，燃烧王座",
-					}, -- [1]
-				},
 				["faction"] = 2,
 			},
 		},
@@ -41248,6 +41288,23 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
+			[81077] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "古尔丹",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[82445] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -41278,23 +41335,6 @@ MogIt_MailDB = {
 						["difficulties"] = {
 						},
 						["instance"] = "翡翠梦魇",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[81077] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "古尔丹",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "暗夜要塞",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -43622,6 +43662,24 @@ MogIt_MailDB = {
 				["sourceType"] = 3,
 				["faction"] = 2,
 			},
+			[23399] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "火焰看守者科拉隆",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "阿尔卡冯的宝库",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[23406] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -43636,24 +43694,6 @@ MogIt_MailDB = {
 							"10人", -- [1]
 						},
 						["instance"] = "阿尔卡冯的宝库",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[22720] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "阿努巴拉克",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -43676,20 +43716,20 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[23399] = {
+			[22720] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "火焰看守者科拉隆",
+						["encounter"] = "阿努巴拉克",
 						["tiers"] = {
 							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
 							"25人", -- [1]
 						},
-						["instance"] = "阿尔卡冯的宝库",
+						["instance"] = "十字军的试炼",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -44535,6 +44575,11 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[87425] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
 		},
 		[34614] = {
 			[90096] = {
@@ -44578,6 +44623,23 @@ MogIt_MailDB = {
 			},
 		},
 		[34630] = {
+			[90098] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "猎魂者伊墨纳尔",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安托鲁斯，燃烧王座",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[89888] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -44598,23 +44660,6 @@ MogIt_MailDB = {
 			[90575] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[90098] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "猎魂者伊墨纳尔",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "安托鲁斯，燃烧王座",
-					}, -- [1]
-				},
 				["faction"] = 2,
 			},
 		},
@@ -45932,12 +45977,12 @@ MogIt_MailDB = {
 			},
 		},
 		[8702] = {
-			[16208] = {
+			[15491] = {
 				["classes"] = 4,
 				["sourceType"] = 3,
 				["faction"] = 2,
 			},
-			[16205] = {
+			[16208] = {
 				["classes"] = 4,
 				["sourceType"] = 3,
 				["faction"] = 2,
@@ -45947,7 +45992,7 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
-			[15491] = {
+			[16205] = {
 				["classes"] = 4,
 				["sourceType"] = 3,
 				["faction"] = 2,
@@ -46301,6 +46346,23 @@ MogIt_MailDB = {
 			},
 		},
 		[29906] = {
+			[79876] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "古尔丹",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "暗夜要塞",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[82444] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -46314,23 +46376,6 @@ MogIt_MailDB = {
 						["difficulties"] = {
 						},
 						["instance"] = "破碎群岛",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[81229] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "萨维斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "翡翠梦魇",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -46352,19 +46397,19 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[79876] = {
+			[81229] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "古尔丹",
+						["encounter"] = "萨维斯",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "暗夜要塞",
+						["instance"] = "翡翠梦魇",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -46984,14 +47029,14 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[4756] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
 			[14564] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[8060] = {
-				["classes"] = 4,
-				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 			[14253] = {
@@ -47004,9 +47049,9 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[4756] = {
+			[8060] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -47365,6 +47410,11 @@ MogIt_MailDB = {
 		},
 		[35513] = {
 			[88301] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[88517] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -48904,18 +48954,13 @@ MogIt_MailDB = {
 			},
 		},
 		[20338] = {
-			[49917] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[49743] = {
+			[49620] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "遗忘者杜鲁姆",
+						["encounter"] = "长者议会",
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
@@ -48928,13 +48973,18 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[49620] = {
+			[49917] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[49743] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "长者议会",
+						["encounter"] = "遗忘者杜鲁姆",
 						["tiers"] = {
 							"熊猫人之谜", -- [1]
 						},
@@ -51274,6 +51324,11 @@ MogIt_MailDB = {
 		},
 		[35515] = {
 			[88307] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[88523] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -53825,17 +53880,17 @@ MogIt_MailDB = {
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
+			[48505] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
 			[51921] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 			[46349] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[48505] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -54051,6 +54106,18 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
+		[2943] = {
+			[3533] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[7250] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+		},
 		[12251] = {
 			[24482] = {
 				["classes"] = 4,
@@ -54111,26 +54178,6 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[26003] = {
-			[69950] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "永恒者索克雷萨",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"史诗", -- [1]
-						},
-						["instance"] = "地狱火堡垒",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-		},
 		[16343] = {
 			[37772] = {
 				["classes"] = 4,
@@ -54147,6 +54194,11 @@ MogIt_MailDB = {
 			[86999] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[87431] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -54241,15 +54293,23 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[2943] = {
-			[3533] = {
+		[26003] = {
+			[69950] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[7250] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "永恒者索克雷萨",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"史诗", -- [1]
+						},
+						["instance"] = "地狱火堡垒",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -54558,17 +54618,17 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[75718] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
 			[75984] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 			[75816] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[75718] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -56393,7 +56453,7 @@ MogIt_MailDB = {
 			},
 		},
 		[13122] = {
-			[30802] = {
+			[29965] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -56403,12 +56463,12 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[29968] = {
+			[30802] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[29965] = {
+			[29968] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -56635,6 +56695,11 @@ MogIt_MailDB = {
 		},
 		[35514] = {
 			[88303] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[88519] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -59519,6 +59584,11 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[16680] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
 			[17534] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
@@ -59527,11 +59597,6 @@ MogIt_MailDB = {
 			[17611] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[16680] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -60618,19 +60683,19 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[79018] = {
+			[78927] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "夺心者卡什",
+						["encounter"] = "萨维斯之影",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "突袭紫罗兰监狱",
+						["instance"] = "黑心林地",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -60686,19 +60751,19 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[78976] = {
+			[79018] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "艾萨拉之怒",
+						["encounter"] = "夺心者卡什",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "艾萨拉之眼",
+						["instance"] = "突袭紫罗兰监狱",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -60720,19 +60785,19 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[78927] = {
+			[78976] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "萨维斯之影",
+						["encounter"] = "艾萨拉之怒",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
 						["difficulties"] = {
 						},
-						["instance"] = "黑心林地",
+						["instance"] = "艾萨拉之眼",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -61453,21 +61518,6 @@ MogIt_MailDB = {
 			},
 		},
 		[20343] = {
-			[49884] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[49852] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[49848] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
 			[49635] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -61485,6 +61535,21 @@ MogIt_MailDB = {
 						["instance"] = "雷电王座",
 					}, -- [1]
 				},
+				["faction"] = 2,
+			},
+			[49852] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[49884] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[49848] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -62226,21 +62291,21 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[6844] = {
-			[11904] = {
+		[11628] = {
+			[22197] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 1,
-						["encounter"] = "传令官瓦兹德",
+						["instanceType"] = 2,
+						["encounter"] = "观察者奥尔加隆",
 						["tiers"] = {
-							"燃烧的远征", -- [1]
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"10人", -- [1]
 						},
-						["instance"] = "地狱火城墙",
+						["instance"] = "奥杜尔",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -62411,6 +62476,11 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[87427] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
 		},
 		[34615] = {
 			[90100] = {
@@ -62475,37 +62545,21 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[34631] = {
-			[89892] = {
+		[6844] = {
+			[11904] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
-						["instanceType"] = 2,
-						["encounter"] = "萨格拉斯的恶犬",
+						["instanceType"] = 1,
+						["encounter"] = "传令官瓦兹德",
 						["tiers"] = {
-							"军团再临", -- [1]
+							"燃烧的远征", -- [1]
 						},
 						["difficulties"] = {
+							"英雄", -- [1]
 						},
-						["instance"] = "安托鲁斯，燃烧王座",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[90102] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "破坏魔女巫会",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "安托鲁斯，燃烧王座",
+						["instance"] = "地狱火城墙",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -62981,41 +63035,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[12279] = {
-			[24525] = {
+		[2950] = {
+			[3540] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "烂肠",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"25人", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[25540] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "辛达苟萨",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人（英雄）", -- [1]
-						},
-						["instance"] = "冰冠堡垒",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -63052,23 +63075,33 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[6920] = {
-			[12009] = {
+		[9225] = {
+			[16517] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 1,
-						["encounter"] = "夸格米拉",
+						["encounter"] = "掠夺者因格瓦尔",
 						["tiers"] = {
-							"燃烧的远征", -- [1]
+							"巫妖王之怒", -- [1]
 						},
 						["difficulties"] = {
-							"英雄", -- [1]
+							"普通", -- [1]
 						},
-						["instance"] = "奴隶围栏",
+						["instance"] = "乌特加德城堡",
 					}, -- [1]
 				},
+				["faction"] = 2,
+			},
+			[18867] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[20746] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -63128,10 +63161,41 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[17372] = {
-			[54394] = {
+		[12279] = {
+			[24525] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "烂肠",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"25人", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[25540] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "辛达苟萨",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人（英雄）", -- [1]
+						},
+						["instance"] = "冰冠堡垒",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -63139,36 +63203,6 @@ MogIt_MailDB = {
 			[54386] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-		},
-		[9225] = {
-			[16517] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "掠夺者因格瓦尔",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "乌特加德城堡",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[18867] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[20746] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -63220,6 +63254,26 @@ MogIt_MailDB = {
 						["difficulties"] = {
 						},
 						["instance"] = "潘达利亚",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[6920] = {
+			[12009] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "夸格米拉",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "奴隶围栏",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -63297,8 +63351,8 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[2950] = {
-			[3540] = {
+		[17372] = {
+			[54394] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -63565,21 +63619,37 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[11628] = {
-			[22197] = {
+		[34631] = {
+			[89892] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "观察者奥尔加隆",
+						["encounter"] = "萨格拉斯的恶犬",
 						["tiers"] = {
-							"巫妖王之怒", -- [1]
+							"军团再临", -- [1]
 						},
 						["difficulties"] = {
-							"10人", -- [1]
 						},
-						["instance"] = "奥杜尔",
+						["instance"] = "安托鲁斯，燃烧王座",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[90102] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "破坏魔女巫会",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "安托鲁斯，燃烧王座",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -67423,6 +67493,23 @@ MogIt_MailDB = {
 			},
 		},
 		[32092] = {
+			[81251] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "艾乐瑞瑟·雷弗拉尔",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "翡翠梦魇",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[81869] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -67447,23 +67534,6 @@ MogIt_MailDB = {
 					{
 						["instanceType"] = 2,
 						["encounter"] = "乌索克",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "翡翠梦魇",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[81251] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "艾乐瑞瑟·雷弗拉尔",
 						["tiers"] = {
 							"军团再临", -- [1]
 						},
@@ -67592,6 +67662,11 @@ MogIt_MailDB = {
 			[86987] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[87419] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -68190,6 +68265,25 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
+		[33717] = {
+			[86709] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "哈亚坦",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "萨格拉斯之墓",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
 		[12166] = {
 			[24378] = {
 				["classes"] = 4,
@@ -68225,33 +68319,6 @@ MogIt_MailDB = {
 						["instance"] = "萨隆矿坑",
 					}, -- [1]
 				},
-				["faction"] = 2,
-			},
-		},
-		[26855] = {
-			[68638] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[68310] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[73935] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[73855] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[73940] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -68297,22 +68364,30 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[33717] = {
-			[86709] = {
+		[26855] = {
+			[68638] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "哈亚坦",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "萨格拉斯之墓",
-					}, -- [1]
-				},
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[68310] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[73935] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[73855] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[73940] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -70190,30 +70265,59 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[27343] = {
-			[81371] = {
+		[23766] = {
+			[62639] = {
 				["classes"] = 4,
-				["sourceType"] = 2,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "元首马尔高克",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "悬槌堡",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
-			[81372] = {
+			[62767] = {
 				["classes"] = 4,
-				["sourceType"] = 3,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "缚火者卡格拉兹",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
-			[68839] = {
+			[62712] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[68416] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[81373] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "爆裂熔炉",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"英雄", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
 				["faction"] = 2,
 			},
 		},
@@ -70438,6 +70542,11 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
+			[44040] = {
+				["classes"] = 4,
+				["sourceType"] = 6,
+				["faction"] = 2,
+			},
 			[84335] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -70460,11 +70569,6 @@ MogIt_MailDB = {
 			[62553] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[44040] = {
-				["classes"] = 4,
-				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -70496,10 +70600,30 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[4169] = {
-			[5604] = {
+		[27343] = {
+			[81371] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
+			[81372] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[68839] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[68416] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[81373] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -71156,17 +71280,17 @@ MogIt_MailDB = {
 			},
 		},
 		[595] = {
+			[508] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
 			[9880] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 			[3452] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[508] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -71514,28 +71638,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[22673] = {
-			[63377] = {
+		[23184] = {
+			[65033] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[66940] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "黑手",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
+				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -71587,6 +71693,251 @@ MogIt_MailDB = {
 						["difficulties"] = {
 						},
 						["instance"] = "翡翠梦魇",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[22681] = {
+			[70284] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[86072] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[68043] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "克罗莫格",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[10602] = {
+			[19845] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+			[19860] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[2394] = {
+			[2790] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+		},
+		[35509] = {
+			[88295] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[88511] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+		},
+		[9041] = {
+			[16110] = {
+				["classes"] = 4,
+				["sourceType"] = 3,
+				["faction"] = 2,
+			},
+		},
+		[10067] = {
+			[18710] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "阿努布雷坎",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "格拉斯",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"10人", -- [1]
+						},
+						["instance"] = "纳克萨玛斯",
+					}, -- [2]
+				},
+				["faction"] = 2,
+			},
+		},
+		[27264] = {
+			[76861] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "神王斯科瓦尔德",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "英灵殿",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[78698] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "库塔洛斯·拉文凯斯",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑鸦堡垒",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[79094] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "提拉宋·萨瑟利尔",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "守望者地窟",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[78972] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "瑟芬崔斯克",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "艾萨拉之眼",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[79052] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "邪能领主贝图格",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "突袭紫罗兰监狱",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[79036] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "米尔菲丝·法力风暴",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "突袭紫罗兰监狱",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+			[78919] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "德萨隆",
+						["tiers"] = {
+							"军团再临", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "黑心林地",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
+		},
+		[22673] = {
+			[63377] = {
+				["classes"] = 4,
+				["sourceType"] = 4,
+				["faction"] = 2,
+			},
+			[66940] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "黑手",
+						["tiers"] = {
+							"德拉诺之王", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "黑石铸造厂",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -71710,227 +72061,6 @@ MogIt_MailDB = {
 						["instance"] = "守望者地窟",
 					}, -- [1]
 				},
-				["faction"] = 2,
-			},
-		},
-		[10602] = {
-			[19845] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-			[19860] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-		},
-		[2394] = {
-			[2790] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-		},
-		[35509] = {
-			[88295] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-		},
-		[9041] = {
-			[16110] = {
-				["classes"] = 4,
-				["sourceType"] = 3,
-				["faction"] = 2,
-			},
-		},
-		[10067] = {
-			[18710] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "阿努布雷坎",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "格拉斯",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"10人", -- [1]
-						},
-						["instance"] = "纳克萨玛斯",
-					}, -- [2]
-				},
-				["faction"] = 2,
-			},
-		},
-		[27264] = {
-			[79094] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "提拉宋·萨瑟利尔",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "守望者地窟",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[78698] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "库塔洛斯·拉文凯斯",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑鸦堡垒",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[78919] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "德萨隆",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "黑心林地",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[78972] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "瑟芬崔斯克",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "艾萨拉之眼",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[79052] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "邪能领主贝图格",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "突袭紫罗兰监狱",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[79036] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "米尔菲丝·法力风暴",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "突袭紫罗兰监狱",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[76861] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "神王斯科瓦尔德",
-						["tiers"] = {
-							"军团再临", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "英灵殿",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-		},
-		[7345] = {
-			[12697] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "国际象棋",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "卡拉赞",
-					}, -- [1]
-					{
-						["instanceType"] = 2,
-						["encounter"] = "国际象棋",
-						["tiers"] = {
-							"燃烧的远征", -- [1]
-						},
-						["difficulties"] = {
-						},
-						["instance"] = "卡拉赞",
-					}, -- [2]
-				},
-				["faction"] = 2,
-			},
-		},
-		[1713] = {
-			[75522] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 		},
@@ -72419,17 +72549,17 @@ MogIt_MailDB = {
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
+			[75865] = {
+				["classes"] = 4,
+				["sourceType"] = 2,
+				["faction"] = 2,
+			},
 			[75942] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
 			},
 			[75613] = {
-				["classes"] = 4,
-				["sourceType"] = 2,
-				["faction"] = 2,
-			},
-			[75865] = {
 				["classes"] = 4,
 				["sourceType"] = 2,
 				["faction"] = 2,
@@ -72825,40 +72955,39 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[22681] = {
-			[70284] = {
+		[1713] = {
+			[75522] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[86072] = {
-				["classes"] = 4,
-				["sourceType"] = 4,
-				["faction"] = 2,
-			},
-			[68043] = {
+		},
+		[7345] = {
+			[12697] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
 				["drops"] = {
 					{
 						["instanceType"] = 2,
-						["encounter"] = "克罗莫格",
+						["encounter"] = "国际象棋",
 						["tiers"] = {
-							"德拉诺之王", -- [1]
+							"燃烧的远征", -- [1]
 						},
 						["difficulties"] = {
-							"随机", -- [1]
 						},
-						["instance"] = "黑石铸造厂",
+						["instance"] = "卡拉赞",
 					}, -- [1]
+					{
+						["instanceType"] = 2,
+						["encounter"] = "国际象棋",
+						["tiers"] = {
+							"燃烧的远征", -- [1]
+						},
+						["difficulties"] = {
+						},
+						["instance"] = "卡拉赞",
+					}, -- [2]
 				},
-				["faction"] = 2,
-			},
-		},
-		[23184] = {
-			[65033] = {
-				["classes"] = 4,
-				["sourceType"] = 6,
 				["faction"] = 2,
 			},
 		},
@@ -73095,9 +73224,9 @@ MogIt_MailDB = {
 			},
 		},
 		[20356] = {
-			[51885] = {
+			[50448] = {
 				["classes"] = 4,
-				["sourceType"] = 2,
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 			[50176] = {
@@ -73118,12 +73247,12 @@ MogIt_MailDB = {
 				},
 				["faction"] = 2,
 			},
-			[50442] = {
+			[51885] = {
 				["classes"] = 4,
-				["sourceType"] = 4,
+				["sourceType"] = 2,
 				["faction"] = 2,
 			},
-			[50448] = {
+			[50442] = {
 				["classes"] = 4,
 				["sourceType"] = 4,
 				["faction"] = 2,
@@ -73289,6 +73418,24 @@ MogIt_MailDB = {
 				["sourceType"] = 6,
 				["faction"] = 2,
 			},
+			[16573] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 1,
+						["encounter"] = "塞安妮苟萨",
+						["tiers"] = {
+							"巫妖王之怒", -- [1]
+						},
+						["difficulties"] = {
+							"普通", -- [1]
+						},
+						["instance"] = "紫罗兰监狱",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[20983] = {
 				["classes"] = 4,
 				["sourceType"] = 6,
@@ -73308,24 +73455,6 @@ MogIt_MailDB = {
 							"英雄", -- [1]
 						},
 						["instance"] = "岩石大厅",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[16573] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 1,
-						["encounter"] = "塞安妮苟萨",
-						["tiers"] = {
-							"巫妖王之怒", -- [1]
-						},
-						["difficulties"] = {
-							"普通", -- [1]
-						},
-						["instance"] = "紫罗兰监狱",
 					}, -- [1]
 				},
 				["faction"] = 2,
@@ -73666,59 +73795,10 @@ MogIt_MailDB = {
 				["faction"] = 2,
 			},
 		},
-		[23766] = {
-			[62639] = {
+		[4169] = {
+			[5604] = {
 				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "元首马尔高克",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "悬槌堡",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[62767] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "缚火者卡格拉兹",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[62712] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "爆裂熔炉",
-						["tiers"] = {
-							"德拉诺之王", -- [1]
-						},
-						["difficulties"] = {
-							"英雄", -- [1]
-						},
-						["instance"] = "黑石铸造厂",
-					}, -- [1]
-				},
+				["sourceType"] = 4,
 				["faction"] = 2,
 			},
 		},
@@ -74195,6 +74275,24 @@ MogIt_MailDB = {
 			},
 		},
 		[18986] = {
+			[44646] = {
+				["classes"] = 4,
+				["sourceType"] = 1,
+				["drops"] = {
+					{
+						["instanceType"] = 2,
+						["encounter"] = "受诅者魔封",
+						["tiers"] = {
+							"熊猫人之谜", -- [1]
+						},
+						["difficulties"] = {
+							"随机", -- [1]
+						},
+						["instance"] = "魔古山宝库",
+					}, -- [1]
+				},
+				["faction"] = 2,
+			},
 			[44838] = {
 				["classes"] = 4,
 				["sourceType"] = 1,
@@ -74228,24 +74326,6 @@ MogIt_MailDB = {
 							"随机", -- [1]
 						},
 						["instance"] = "恐惧之心",
-					}, -- [1]
-				},
-				["faction"] = 2,
-			},
-			[44646] = {
-				["classes"] = 4,
-				["sourceType"] = 1,
-				["drops"] = {
-					{
-						["instanceType"] = 2,
-						["encounter"] = "受诅者魔封",
-						["tiers"] = {
-							"熊猫人之谜", -- [1]
-						},
-						["difficulties"] = {
-							"随机", -- [1]
-						},
-						["instance"] = "魔古山宝库",
 					}, -- [1]
 				},
 				["faction"] = 2,

@@ -1,0 +1,54 @@
+VER 3 0000000000000039 " " "INV_Misc_QuestionMark"
+#showtooltip 沉默
+/stopcasting
+/clearfocus [target=focus,dead]
+/cast [target=focus,harm,exists] 沉默);[harm] 沉默); [target=targettarget, harm] 沉默
+END
+VER 3 000000000000002A "BF_Mount" "ABILITY_MOUNT_CHARGER"
+/sit
+END
+VER 3 0000000000000045 "BF_Mount" "ABILITY_MOUNT_CHARGER"
+/cancelform
+/bfmount
+END
+VER 3 000000000000004E "BF_Mount" "ABILITY_MOUNT_CHARGER"
+/bfmount
+END
+VER 3 0000000000000032 "倒数" "INV_WAND_1H_DEATHWINGRAID_D_02"
+/dbm pull 8
+END
+VER 3 000000000000002E "关闭天气" "SPELL_SHAMAN_MAELSTROMWEAPON"
+/console weatherDensity 0
+END
+VER 3 000000000000002F "关闭泛光" "SPELL_SHAMAN_THUNDERSTORM"
+/console ffxGlow 0
+END
+VER 3 000000000000005B "取消倒数" "1129654"
+/dbm pull 0
+END
+VER 3 0000000000000048 "坐骑" "ABILITY_MOUNT_CHARGER"
+/RandomMount
+END
+VER 3 0000000000000030 "坐骑" "ABILITY_MOUNT_CHARGER"
+/kiss
+END
+VER 3 0000000000000031 "怒之煞" "SPELL_SHADOW_METAMORPHOSIS"
+/run local z,t,s={[32099]='怒之煞 .'},GetQuestsCompleted();for c,v in pairs(z) do if t[c] then s='' else s=' 没' end print('本周'..s,'有杀',v) end 
+END
+VER 3 000000000000005A "惩击" "SPELL_HOLY_HOLYSMITE"
+/cast 神圣之火,惩击
+END
+VER 3 000000000000005C "收人" "135754"
+/4  Starry Night 公会招新   公会气氛和谐   开荒M萨墓，收近战，远程DPS，活动时间每周固定3日，不管你是新手还是老鸟 酷爱来加入，有兴趣的私M~~
+END
+VER 3 000000000000005D "标记" "132092"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button3
+END
+VER 3 0000000000000029 "特殊按键" "SPELL_NATURE_SWIFTNESS"
+/click ExtrActionbutton1
+/cast [target=focus]
+END
+VER 3 0000000000000033 "视野" "ABILITY_AMBUSH"
+/script SetCVar("cameradistanceMax",15)
+END

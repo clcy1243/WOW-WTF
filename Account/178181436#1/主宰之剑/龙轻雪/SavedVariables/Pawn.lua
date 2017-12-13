@@ -12,7 +12,7 @@ PawnOptions = {
 					["Type"] = "Arcane",
 				}, -- [1]
 				{
-					["ItemLevel"] = 61,
+					["ItemLevel"] = 64,
 					["Type"] = "Life",
 				}, -- [2]
 				{
@@ -25,15 +25,15 @@ PawnOptions = {
 		[128860] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 58,
+					["ItemLevel"] = 65,
 					["Type"] = "Frost",
 				}, -- [1]
 				{
-					["ItemLevel"] = 61,
+					["ItemLevel"] = 64,
 					["Type"] = "Blood",
 				}, -- [2]
 				{
-					["ItemLevel"] = 61,
+					["ItemLevel"] = 62,
 					["Type"] = "Life",
 				}, -- [3]
 			},
@@ -42,15 +42,15 @@ PawnOptions = {
 		[128306] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 64,
+					["ItemLevel"] = 75,
 					["Type"] = "Life",
 				}, -- [1]
 				{
-					["ItemLevel"] = 65,
+					["ItemLevel"] = 74,
 					["Type"] = "Frost",
 				}, -- [2]
 				{
-					["ItemLevel"] = 61,
+					["ItemLevel"] = 62,
 					["Type"] = "Life",
 				}, -- [3]
 			},

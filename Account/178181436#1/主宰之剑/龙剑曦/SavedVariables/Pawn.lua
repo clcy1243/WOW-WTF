@@ -4,19 +4,20 @@ PawnOptions = {
 	["LastPlayerFullName"] = "龙剑曦-主宰之剑",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[127829] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 52,
+					["ItemLevel"] = 62,
 					["Type"] = "Fel",
 				}, -- [1]
 				{
-					["ItemLevel"] = 56,
+					["ItemLevel"] = 62,
 					["Type"] = "Shadow",
 				}, -- [2]
 				{
-					["ItemLevel"] = 58,
+					["ItemLevel"] = 71,
 					["Type"] = "Fel",
 				}, -- [3]
 			},
@@ -40,7 +41,6 @@ PawnOptions = {
 			["Name"] = "奥达奇战刃",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEMONHUNTER",

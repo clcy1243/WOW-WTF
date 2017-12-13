@@ -1,19 +1,13 @@
 
 TidyPlatesOptions = {
-	["PrimaryProfile"] = "Damage",
-	["FourthSpecProfile"] = "Damage",
 	["SecondSpecProfile"] = "Damage",
 	["FriendlyAutomation"] = "No Automation",
 	["EnemyAutomation"] = "No Automation",
-	["SecondaryTheme"] = "Neon",
-	["CompatibilityMode"] = false,
-	["PrimaryTheme"] = "Neon",
+	["FourthSpecProfile"] = "Damage",
 	["ThirdSpecProfile"] = "Damage",
-	["SecondaryProfile"] = "Damage",
-	["ForceBlizzardFont"] = false,
-	["ActiveTheme"] = "Neon",
-	["DisableSoftTransitions"] = false,
 	["DisableCastBars"] = false,
+	["ActiveTheme"] = "Neon",
+	["ForceBlizzardFont"] = false,
 	["WelcomeShown"] = true,
 	["FirstSpecProfile"] = "Damage",
 }

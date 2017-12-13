@@ -4,6 +4,9 @@ RSADB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["global"] = {
+		["version"] = "3.2752",
+	},
 	["profileKeys"] = {
 		["Justpalymage - 太阳之井"] = "Justpalymage - 太阳之井",
 		["倾城丨小贼 - 摩摩尔"] = "倾城丨小贼 - 摩摩尔",
@@ -12,14 +15,11 @@ RSADB = {
 		["妹子你坑我 - 太阳之井"] = "妹子你坑我 - 太阳之井",
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
 	},
-	["global"] = {
-		["version"] = "3.2752",
-	},
 	["profiles"] = {
 		["Justpalymage - 太阳之井"] = {
 			["General"] = {
-				["Class"] = "MAGE",
 				["Race"] = "BloodElf",
+				["Class"] = "MAGE",
 			},
 			["Modules"] = {
 				["Mage"] = true,
@@ -27,8 +27,8 @@ RSADB = {
 		},
 		["倾城丨小贼 - 摩摩尔"] = {
 			["General"] = {
-				["Class"] = "ROGUE",
 				["Race"] = "Scourge",
+				["Class"] = "ROGUE",
 			},
 			["Modules"] = {
 				["Rogue"] = true,
@@ -36,8 +36,8 @@ RSADB = {
 		},
 		["国王走下神探 - 瓦拉斯塔兹"] = {
 			["General"] = {
-				["Class"] = "WARLOCK",
 				["Race"] = "Scourge",
+				["Class"] = "WARLOCK",
 			},
 			["Modules"] = {
 				["Warlock"] = true,
@@ -54,20 +54,20 @@ RSADB = {
 		},
 		["妹子你坑我 - 太阳之井"] = {
 			["General"] = {
-				["Class"] = "DEATHKNIGHT",
 				["Race"] = "Goblin",
+				["Class"] = "DEATHKNIGHT",
 			},
 			["Modules"] = {
 				["DeathKnight"] = true,
 			},
 		},
 		["募落葒顔 - 太阳之井"] = {
-			["Modules"] = {
-				["Priest"] = true,
-			},
 			["General"] = {
 				["Race"] = "BloodElf",
 				["Class"] = "PRIEST",
+			},
+			["Modules"] = {
+				["Priest"] = true,
 			},
 			["Priest"] = {
 				["Spells"] = {
@@ -77,24 +77,24 @@ RSADB = {
 					["DispelMagic"] = {
 						["SmartGroup"] = false,
 					},
+					["PowerInfusion"] = {
+						["SmartGroup"] = true,
+						["Local"] = false,
+					},
 					["Resurrection"] = {
 						["SmartGroup"] = false,
+						["Whisper"] = false,
+					},
+					["PowerWordBarrier"] = {
+						["SmartGroup"] = true,
+					},
+					["BodyAndSoul"] = {
 						["Whisper"] = false,
 					},
 					["MassRess"] = {
 						["SmartGroup"] = false,
 					},
 					["LeapOfFaith"] = {
-						["Whisper"] = false,
-					},
-					["PowerInfusion"] = {
-						["SmartGroup"] = true,
-						["Local"] = false,
-					},
-					["PowerWordBarrier"] = {
-						["SmartGroup"] = true,
-					},
-					["BodyAndSoul"] = {
 						["Whisper"] = false,
 					},
 				},

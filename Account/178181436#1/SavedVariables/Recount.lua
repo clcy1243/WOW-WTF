@@ -8,7 +8,6 @@ RecountDB = {
 	},
 	["profiles"] = {
 		["龙轻雪 - 主宰之剑"] = {
-			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = 462.000244140625,
@@ -18,28 +17,7 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["LastInstanceName"] = "噬魂之喉",
 			["MainWindowHeight"] = 122.400001525879,
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 295.199951171875,
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-		},
-		["龙剑曦 - 主宰之剑"] = {
-			["MainWindow"] = {
-				["Position"] = {
-					["h"] = 199.999954223633,
-					["w"] = 140.000122070313,
-				},
-			},
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -51,20 +29,42 @@ RecountDB = {
 				},
 			},
 			["MainWindowVis"] = false,
-			["LastInstanceName"] = "奈萨里奥的巢穴",
+			["LastInstanceName"] = "安托鲁斯，燃烧王座",
+			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 295.199951171875,
+		},
+		["龙剑曦 - 主宰之剑"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000122070313,
+					["h"] = 199.999954223633,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["LastInstanceName"] = "黑暗神殿",
 			["CurDataSet"] = "OverallData",
 		},
 		["龙听雨 - 主宰之剑"] = {
 			["GraphWindowY"] = -463.60009765625,
 			["MainWindow"] = {
-				["BarText"] = {
-					["NumFormat"] = 3,
-				},
 				["Position"] = {
 					["y"] = 308.625061035156,
 					["x"] = -799.874969482422,
 					["w"] = 314.250091552734,
 					["h"] = 164.750030517578,
+				},
+				["BarText"] = {
+					["NumFormat"] = 3,
 				},
 			},
 			["DetailWindowX"] = 744.000061035156,
@@ -122,7 +122,7 @@ RecountDB = {
 				},
 			},
 			["MainWindowHeight"] = 164.750030517578,
-			["GraphWindowX"] = 986.7001953125,
+			["DetailWindowY"] = -403.000030517578,
 			["CurDataSet"] = "OverallData",
 			["Colors"] = {
 				["Bar"] = {
@@ -134,19 +134,13 @@ RecountDB = {
 					},
 				},
 			},
-			["DetailWindowY"] = -403.000030517578,
-			["MainWindowMode"] = 5,
+			["GraphWindowX"] = 986.7001953125,
 			["MainWindowVis"] = false,
+			["MainWindowMode"] = 5,
 			["MainWindowWidth"] = 314.250091552734,
 			["Filters"] = {
 				["Show"] = {
 					["Ungrouped"] = false,
-				},
-				["Data"] = {
-					["Trivial"] = true,
-					["Ungrouped"] = true,
-					["Hostile"] = true,
-					["Nontrivial"] = true,
 				},
 				["TimeData"] = {
 					["Self"] = true,
@@ -154,14 +148,20 @@ RecountDB = {
 					["Nontrivial"] = true,
 					["Boss"] = true,
 					["Hostile"] = true,
-					["Ungrouped"] = true,
-					["Unknown"] = true,
 					["Trivial"] = true,
+					["Unknown"] = true,
 					["Grouped"] = true,
+					["Ungrouped"] = true,
 				},
 				["TrackDeaths"] = {
 					["Hostile"] = true,
+					["Ungrouped"] = true,
 					["Unknown"] = true,
+					["Trivial"] = true,
+					["Nontrivial"] = true,
+				},
+				["Data"] = {
+					["Hostile"] = true,
 					["Ungrouped"] = true,
 					["Trivial"] = true,
 					["Nontrivial"] = true,

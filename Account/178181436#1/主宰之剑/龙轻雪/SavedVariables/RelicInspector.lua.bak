@@ -9,200 +9,200 @@ RelicInspectorCharDB = {
 			["artifactCache"] = {
 				[128860] = {
 					{
+						["relic"] = {
+							"熵能之球", -- [1]
+							236518, -- [2]
+							"Frost", -- [3]
+							"|cffa335ee|Hitem:147095:::::::::::5:3:3562:1507:3528:::|h[熵能之球]|h|r", -- [4]
+						},
 						["traits"] = {
 							{
 								["requiredArtifactLevel"] = 0,
-								["canChoose"] = false,
 								["tier"] = 1,
+								["canChoose"] = false,
 								["powerID"] = 1739,
-								["isChosen"] = true,
 								["icon"] = 1033184,
+								["isChosen"] = true,
 								["spellID"] = 250879,
 							}, -- [1]
 							{
 								["requiredArtifactLevel"] = 60,
-								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1778,
-								["isChosen"] = false,
-								["icon"] = 136146,
-								["spellID"] = 252875,
+								["canChoose"] = false,
+								["powerID"] = 1771,
+								["icon"] = 136194,
+								["isChosen"] = true,
+								["spellID"] = 252091,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 60,
-								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1782,
+								["canChoose"] = false,
+								["powerID"] = 1770,
+								["icon"] = 132307,
 								["isChosen"] = false,
-								["icon"] = 1360764,
-								["spellID"] = 253070,
+								["spellID"] = 252088,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 69,
-								["canChoose"] = false,
 								["tier"] = 3,
+								["canChoose"] = false,
 								["powerID"] = 1162,
-								["isChosen"] = false,
 								["icon"] = 132141,
+								["isChosen"] = false,
 								["spellID"] = 210571,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 69,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1168,
+								["canChoose"] = false,
+								["powerID"] = 1163,
+								["icon"] = 132127,
 								["isChosen"] = false,
-								["icon"] = 132140,
-								["spellID"] = 210637,
+								["spellID"] = 210575,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 69,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1164,
+								["canChoose"] = false,
+								["powerID"] = 1167,
+								["icon"] = 236149,
 								["isChosen"] = false,
-								["icon"] = 132242,
-								["spellID"] = 210579,
+								["spellID"] = 210631,
 							}, -- [6]
-						},
-						["relic"] = {
-							"丹塔利纳克斯的残酷", -- [1]
-							135834, -- [2]
-							"Frost", -- [3]
-							"|cffa335ee|Hitem:137272:::::::::::35:3:3417:1552:3337:::|h[丹塔利纳克斯的残酷]|h|r", -- [4]
 						},
 					}, -- [1]
 					{
+						["relic"] = {
+							"芬雷尔的染血之牙", -- [1]
+							136231, -- [2]
+							"Blood", -- [3]
+							"|cffa335ee|Hitem:133687:::::::::::16:3:3418:1572:3336:::|h[芬雷尔的染血之牙]|h|r", -- [4]
+						},
 						["traits"] = {
 							{
 								["requiredArtifactLevel"] = 0,
-								["canChoose"] = false,
 								["tier"] = 1,
+								["canChoose"] = false,
 								["powerID"] = 1739,
-								["isChosen"] = true,
 								["icon"] = 1033184,
+								["isChosen"] = true,
 								["spellID"] = 250879,
 							}, -- [1]
 							{
 								["requiredArtifactLevel"] = 63,
-								["canChoose"] = false,
 								["tier"] = 2,
+								["canChoose"] = false,
 								["powerID"] = 1780,
-								["isChosen"] = false,
 								["icon"] = 615101,
+								["isChosen"] = false,
 								["spellID"] = 252906,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 63,
-								["canChoose"] = false,
 								["tier"] = 2,
+								["canChoose"] = false,
 								["powerID"] = 1775,
-								["isChosen"] = false,
 								["icon"] = 458412,
+								["isChosen"] = false,
 								["spellID"] = 252207,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1164,
+								["canChoose"] = false,
+								["powerID"] = 1166,
+								["icon"] = 132122,
 								["isChosen"] = false,
-								["icon"] = 132242,
-								["spellID"] = 210579,
+								["spellID"] = 210593,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
 								["tier"] = 3,
+								["canChoose"] = false,
 								["powerID"] = 1168,
-								["isChosen"] = false,
 								["icon"] = 132140,
+								["isChosen"] = false,
 								["spellID"] = 210637,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
 								["tier"] = 3,
+								["canChoose"] = false,
 								["powerID"] = 1161,
-								["isChosen"] = false,
 								["icon"] = 1033474,
+								["isChosen"] = false,
 								["spellID"] = 210570,
 							}, -- [6]
 						},
-						["relic"] = {
-							"堕落者血契", -- [1]
-							441148, -- [2]
-							"Blood", -- [3]
-							"|cffa335ee|Hitem:147082:::::::::::43:3:3573:1492:3528:::|h[堕落者血契]|h|r", -- [4]
-						},
 					}, -- [2]
 					{
+						["relic"] = {
+							"希望与勇气之火", -- [1]
+							136046, -- [2]
+							"Life", -- [3]
+							"|cffa335ee|Hitem:147107:::::::::::43:3:3573:1497:3336:::|h[希望与勇气之火]|h|r", -- [4]
+						},
 						["traits"] = {
 							{
 								["requiredArtifactLevel"] = 0,
-								["canChoose"] = false,
 								["tier"] = 1,
+								["canChoose"] = false,
 								["powerID"] = 1739,
-								["isChosen"] = true,
 								["icon"] = 1033184,
+								["isChosen"] = true,
 								["spellID"] = 250879,
 							}, -- [1]
 							{
 								["requiredArtifactLevel"] = 66,
-								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1774,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
 								["isChosen"] = false,
-								["icon"] = 136129,
-								["spellID"] = 252191,
+								["spellID"] = 252922,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 66,
-								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1777,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
 								["isChosen"] = false,
-								["icon"] = 460953,
-								["spellID"] = 252799,
+								["spellID"] = 252207,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 75,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1163,
+								["canChoose"] = false,
+								["powerID"] = 1505,
+								["icon"] = 451161,
 								["isChosen"] = false,
-								["icon"] = 132127,
-								["spellID"] = 210575,
+								["spellID"] = 238048,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 75,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1167,
+								["canChoose"] = false,
+								["powerID"] = 1161,
+								["icon"] = 1033474,
 								["isChosen"] = false,
-								["icon"] = 236149,
-								["spellID"] = 210631,
+								["spellID"] = 210570,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 75,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1168,
+								["canChoose"] = false,
+								["powerID"] = 1165,
+								["icon"] = 136041,
 								["isChosen"] = false,
-								["icon"] = 132140,
-								["spellID"] = 210637,
+								["spellID"] = 210590,
 							}, -- [6]
-						},
-						["relic"] = {
-							"警戒之责", -- [1]
-							132770, -- [2]
-							"Life", -- [3]
-							"|cffa335ee|Hitem:136973:::::::::::16:3:3536:1562:3528:::|h[警戒之责]|h|r", -- [4]
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 55,
-					["timestamp"] = 36879.962,
+					["level"] = 61,
+					["timestamp"] = 589.8,
 				},
 				[128821] = {
 					{
@@ -230,7 +230,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["tier"] = 2,
 								["powerID"] = 1783,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["icon"] = 876916,
 								["spellID"] = 253093,
 							}, -- [3]
@@ -285,7 +285,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["tier"] = 2,
 								["powerID"] = 1778,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["icon"] = 136146,
 								["spellID"] = 252875,
 							}, -- [2]
@@ -349,7 +349,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["tier"] = 2,
 								["powerID"] = 1771,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["icon"] = 136194,
 								["spellID"] = 252091,
 							}, -- [2]
@@ -398,8 +398,8 @@ RelicInspectorCharDB = {
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 58,
-					["timestamp"] = 208207.3,
+					["level"] = 67,
+					["timestamp"] = 3884.589,
 				},
 				[128858] = {
 					{
@@ -418,7 +418,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["tier"] = 2,
 								["powerID"] = 1780,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["icon"] = 615101,
 								["spellID"] = 252906,
 							}, -- [2]
@@ -481,38 +481,20 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 63,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1779,
+								["powerID"] = 1778,
 								["isChosen"] = false,
-								["icon"] = 1394892,
-								["spellID"] = 252888,
+								["icon"] = 136146,
+								["spellID"] = 252875,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 63,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1777,
+								["powerID"] = 1770,
 								["isChosen"] = false,
-								["icon"] = 460953,
-								["spellID"] = 252799,
+								["icon"] = 132307,
+								["spellID"] = 252088,
 							}, -- [3]
-							{
-								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
-								["tier"] = 3,
-								["powerID"] = 1042,
-								["isChosen"] = false,
-								["icon"] = 1041232,
-								["spellID"] = 202464,
-							}, -- [4]
-							{
-								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
-								["tier"] = 3,
-								["powerID"] = 1040,
-								["isChosen"] = false,
-								["icon"] = 136096,
-								["spellID"] = 202445,
-							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 72,
 								["canChoose"] = false,
@@ -521,13 +503,31 @@ RelicInspectorCharDB = {
 								["isChosen"] = false,
 								["icon"] = 1033487,
 								["spellID"] = 202466,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 1035,
+								["isChosen"] = false,
+								["icon"] = 136041,
+								["spellID"] = 203018,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 1039,
+								["isChosen"] = false,
+								["icon"] = 651082,
+								["spellID"] = 202433,
 							}, -- [6]
 						},
 						["relic"] = {
-							"宁静的片段", -- [1]
-							348566, -- [2]
+							"复生仪式", -- [1]
+							571320, -- [2]
 							"Life", -- [3]
-							"|cffa335ee|Hitem:141269:::::::::::43:3:3573:1572:3528:::|h[宁静的片段]|h|r", -- [4]
+							"|cffa335ee|Hitem:143530:::::::::::43:3:3573:1517:3336:::|h[复生仪式]|h|r", -- [4]
 						},
 					}, -- [2]
 					{
@@ -595,8 +595,8 @@ RelicInspectorCharDB = {
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 52,
-					["timestamp"] = 33139.466,
+					["level"] = 61,
+					["timestamp"] = 589.8,
 				},
 				[128306] = {
 					{
@@ -614,38 +614,29 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 60,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1771,
+								["powerID"] = 1779,
 								["isChosen"] = true,
-								["icon"] = 136194,
-								["spellID"] = 252091,
+								["icon"] = 1394892,
+								["spellID"] = 252888,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 60,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1777,
+								["powerID"] = 1770,
 								["isChosen"] = false,
-								["icon"] = 460953,
-								["spellID"] = 252799,
+								["icon"] = 132307,
+								["spellID"] = 252088,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 69,
 								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1513,
-								["isChosen"] = false,
-								["icon"] = 1115592,
-								["spellID"] = 238050,
+								["powerID"] = 137,
+								["isChosen"] = true,
+								["icon"] = 136096,
+								["spellID"] = 186396,
 							}, -- [4]
-							{
-								["requiredArtifactLevel"] = 69,
-								["canChoose"] = false,
-								["tier"] = 3,
-								["powerID"] = 133,
-								["isChosen"] = false,
-								["icon"] = 236153,
-								["spellID"] = 189757,
-							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 69,
 								["canChoose"] = false,
@@ -654,13 +645,22 @@ RelicInspectorCharDB = {
 								["isChosen"] = false,
 								["icon"] = 134222,
 								["spellID"] = 189760,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 134,
+								["isChosen"] = false,
+								["icon"] = 572025,
+								["spellID"] = 189754,
 							}, -- [6]
 						},
 						["relic"] = {
-							"发光的祈祷蜡烛", -- [1]
-							537227, -- [2]
+							"孢子群落幼芽", -- [1]
+							464030, -- [2]
 							"Life", -- [3]
-							"|cffa335ee|Hitem:147106:::::::::::5:3:3562:1502:3336:::|h[发光的祈祷蜡烛]|h|r", -- [4]
+							"|cffa335ee|Hitem:152052:::::::::::3:3:3610:1472:3528:::|h[孢子群落幼芽]|h|r", -- [4]
 						},
 					}, -- [1]
 					{
@@ -678,20 +678,38 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 63,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1771,
-								["isChosen"] = false,
-								["icon"] = 136194,
-								["spellID"] = 252091,
+								["powerID"] = 1774,
+								["isChosen"] = true,
+								["icon"] = 136129,
+								["spellID"] = 252191,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 63,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1775,
+								["powerID"] = 1777,
 								["isChosen"] = false,
-								["icon"] = 458412,
-								["spellID"] = 252207,
+								["icon"] = 460953,
+								["spellID"] = 252799,
 							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 137,
+								["isChosen"] = false,
+								["icon"] = 136096,
+								["spellID"] = 186396,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 136,
+								["isChosen"] = false,
+								["icon"] = 132137,
+								["spellID"] = 189744,
+							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 72,
 								["canChoose"] = false,
@@ -700,31 +718,13 @@ RelicInspectorCharDB = {
 								["isChosen"] = false,
 								["icon"] = 1115592,
 								["spellID"] = 238050,
-							}, -- [4]
-							{
-								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
-								["tier"] = 3,
-								["powerID"] = 135,
-								["isChosen"] = false,
-								["icon"] = 134914,
-								["spellID"] = 189749,
-							}, -- [5]
-							{
-								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
-								["tier"] = 3,
-								["powerID"] = 130,
-								["isChosen"] = false,
-								["icon"] = 236160,
-								["spellID"] = 189772,
 							}, -- [6]
 						},
 						["relic"] = {
-							"催眠病毒", -- [1]
-							136092, -- [2]
+							"纯净的传送冰晶", -- [1]
+							135856, -- [2]
 							"Frost", -- [3]
-							"|cffa335ee|Hitem:147094:::::::::::5:3:3562:1507:3336:::|h[催眠病毒]|h|r", -- [4]
+							"|cffa335ee|Hitem:152041:::::::::::3:3:3610:1497:3337:::|h[纯净的传送冰晶]|h|r", -- [4]
 						},
 					}, -- [2]
 					{
@@ -751,49 +751,49 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 66,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1783,
-								["isChosen"] = false,
-								["icon"] = 876916,
-								["spellID"] = 253093,
+								["powerID"] = 1770,
+								["isChosen"] = true,
+								["icon"] = 132307,
+								["spellID"] = 252088,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 75,
 								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 131,
+								["powerID"] = 133,
 								["isChosen"] = false,
-								["icon"] = 236155,
-								["spellID"] = 189768,
+								["icon"] = 236153,
+								["spellID"] = 189757,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 75,
 								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 136,
+								["powerID"] = 134,
 								["isChosen"] = false,
-								["icon"] = 132137,
-								["spellID"] = 189744,
+								["icon"] = 572025,
+								["spellID"] = 189754,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 75,
 								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1513,
+								["powerID"] = 135,
 								["isChosen"] = false,
-								["icon"] = 1115592,
-								["spellID"] = 238050,
+								["icon"] = 134914,
+								["spellID"] = 189749,
 							}, -- [6]
 						},
 						["relic"] = {
-							"纳尔提拉的毒囊", -- [1]
-							237415, -- [2]
+							"保存完好的苹果", -- [1]
+							133975, -- [2]
 							"Life", -- [3]
-							"|cffa335ee|Hitem:137411:::::::::::33:3:3417:1562:3337:::|h[纳尔提拉的毒囊]|h|r", -- [4]
+							"|cffa335ee|Hitem:142189:::::::::::16:3:3418:1532:3528:::|h[保存完好的苹果]|h|r", -- [4]
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 61,
-					["timestamp"] = 214422.278,
+					["level"] = 72,
+					["timestamp"] = 5072.43,
 				},
 			},
 		},

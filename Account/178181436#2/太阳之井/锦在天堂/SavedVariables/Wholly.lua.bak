@@ -24,7 +24,7 @@ WhollyDatabase = {
 		["Y"] = "FFCC6600",
 	},
 	["showsHolidayQuests"] = true,
-	["displaysMapPins"] = true,
+	["displaysMapPins"] = false,
 	["prependsQuestLevel"] = true,
 	["ignoredQuests"] = {
 	},

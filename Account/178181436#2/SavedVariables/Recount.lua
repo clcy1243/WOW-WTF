@@ -35,14 +35,14 @@ RecountDB = {
 					["NumFormat"] = 3,
 				},
 				["Position"] = {
-					["y"] = 308.625061035156,
-					["x"] = -799.874969482422,
+					["y"] = 308.625183105469,
+					["x"] = -799.874984741211,
 					["w"] = 314.250091552734,
-					["h"] = 164.750030517578,
+					["h"] = 164.750076293945,
 				},
 			},
 			["DetailWindowX"] = 744.000061035156,
-			["LastInstanceName"] = "黑心林地",
+			["LastInstanceName"] = "安托鲁斯，燃烧王座",
 			["RealtimeWindows"] = {
 				["Realtime_FPS_FPS"] = {
 					"FPS", -- [1]
@@ -128,15 +128,15 @@ RecountDB = {
 					["Nontrivial"] = true,
 					["Boss"] = true,
 					["Hostile"] = true,
-					["Unknown"] = true,
-					["Ungrouped"] = true,
-					["Grouped"] = true,
 					["Trivial"] = true,
+					["Unknown"] = true,
+					["Grouped"] = true,
+					["Ungrouped"] = true,
 				},
 				["TrackDeaths"] = {
 					["Hostile"] = true,
-					["Unknown"] = true,
 					["Ungrouped"] = true,
+					["Unknown"] = true,
 					["Trivial"] = true,
 					["Nontrivial"] = true,
 				},
@@ -153,10 +153,6 @@ RecountDB = {
 				},
 			},
 			["MainWindowMode"] = 2,
-			["LastInstanceName"] = "阿莎曼之墓",
-			["MainWindowHeight"] = 122.400001525879,
-			["CurDataSet"] = "OverallData",
-			["MainWindowWidth"] = 295.199951171875,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -167,8 +163,13 @@ RecountDB = {
 					},
 				},
 			},
+			["LastInstanceName"] = "阿莎曼之墓",
+			["CurDataSet"] = "OverallData",
+			["MainWindowWidth"] = 295.199951171875,
+			["MainWindowHeight"] = 122.400001525879,
 		},
 		["锦在天堂 - 太阳之井"] = {
+			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = 243.250183105469,
@@ -177,7 +178,6 @@ RecountDB = {
 					["h"] = 209.499908447266,
 				},
 			},
-			["MainWindowHeight"] = 209.500061035156,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -188,13 +188,12 @@ RecountDB = {
 					},
 				},
 			},
-			["MainWindowVis"] = false,
-			["LastInstanceName"] = "萨格拉斯之墓",
-			["CurDataSet"] = "OverallData",
+			["MainWindowHeight"] = 209.500061035156,
+			["LastInstanceName"] = "安托鲁斯，燃烧王座",
 			["MainWindowWidth"] = 333.750061035156,
+			["CurDataSet"] = "OverallData",
 		},
 		["龙听雨 - 巨龙之吼"] = {
-			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = 316.5,
@@ -214,10 +213,11 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -255.25,
-			["LastInstanceName"] = "执政团之座",
-			["MainWindowMode"] = 4,
-			["CurDataSet"] = "OverallData",
 			["DetailWindowX"] = 496.999633789063,
+			["MainWindowVis"] = false,
+			["LastInstanceName"] = "黑鸦堡垒",
+			["CurDataSet"] = "OverallData",
+			["MainWindowMode"] = 4,
 		},
 	},
 }

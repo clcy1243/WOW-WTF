@@ -1,9 +1,10 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0213,
+	["LastVersion"] = 2.0214,
 	["LastPlayerFullName"] = "有隻大白兎丶-能源舰",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[120978] = {
 			["Relics"] = {
@@ -51,7 +52,6 @@ PawnOptions = {
 			["Name"] = "白银之手",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PALADIN",

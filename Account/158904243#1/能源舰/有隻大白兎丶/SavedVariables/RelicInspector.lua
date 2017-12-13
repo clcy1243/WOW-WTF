@@ -7,19 +7,19 @@ RelicInspectorCharDB = {
 		["有隻大白兎丶 - 能源舰"] = {
 			["artifactCache"] = {
 				[120978] = {
-					["timestamp"] = 66860.853,
+					["timestamp"] = 527.834,
 					["crucibled"] = false,
-					["level"] = 35,
+					["level"] = 44,
 				},
 				[128866] = {
-					["timestamp"] = 66860.853,
+					["timestamp"] = 175506.387,
 					["crucibled"] = false,
-					["level"] = 52,
+					["level"] = 55,
 				},
 				[128823] = {
-					["timestamp"] = 66870.924,
+					["timestamp"] = 901888.346,
 					["crucibled"] = false,
-					["level"] = 58,
+					["level"] = 67,
 				},
 			},
 		},

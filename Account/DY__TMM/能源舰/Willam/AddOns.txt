@@ -460,3 +460,5 @@ AceLocale-3.0: enabled
 GTFO: enabled
 LibButtonGlow-1.0: enabled
 BestInSlot: enabled
+!MyConsoleVariables: disabled
+!!!PlaySoundFixer: disabled

@@ -15,13 +15,13 @@ SkadaDB = {
 		["Default"] = {
 			["scroll"] = {
 				["button"] = "MiddleButton",
-				["kspeed"] = 3,
-				["icon"] = true,
 				["speed"] = 2,
+				["icon"] = true,
+				["kspeed"] = 3,
 			},
 			["windows"] = {
 				{
-					["y"] = 143.057403564453,
+					["y"] = 189.533752441406,
 					["barfont"] = "AR ZhongkaiGBK Medium",
 					["point"] = "LEFT",
 					["mode"] = "Stagger",
@@ -29,7 +29,7 @@ SkadaDB = {
 					["background"] = {
 						["height"] = 113.700035095215,
 					},
-					["x"] = 0.74988853931427,
+					["x"] = 0,
 					["title"] = {
 						["font"] = "AR ZhongkaiGBK Medium",
 					},
@@ -40,27 +40,27 @@ SkadaDB = {
 				["hide"] = true,
 			},
 			["versions"] = {
-				["1.6.7"] = true,
-				["1.6.3"] = true,
 				["1.6.4"] = true,
+				["1.6.3"] = true,
+				["1.6.7"] = true,
 			},
 			["modeclicks"] = {
 				["需要治疗"] = 1,
 				["死亡"] = 1,
-				["受到伤害"] = 4,
-				["治疗"] = 9,
-				["Stagger"] = 31,
+				["总计治疗"] = 4,
+				["治疗"] = 10,
+				["Stagger"] = 37,
 				["Friendly Fire"] = 1,
-				["伤害"] = 3,
+				["敌对受到伤害"] = 1,
 				["DPS"] = 3,
 				["每秒伤害+每秒治疗"] = 5,
-				["敌对受到伤害"] = 1,
+				["伤害"] = 6,
 				["每秒伤害"] = 3,
-				["总计治疗"] = 4,
+				["受到伤害"] = 5,
 			},
 			["ffoptions"] = {
-				["ignoredefensive"] = true,
 				["ignoreability"] = false,
+				["ignoredefensive"] = true,
 			},
 		},
 	},

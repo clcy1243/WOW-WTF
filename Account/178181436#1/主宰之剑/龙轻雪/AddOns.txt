@@ -36,8 +36,8 @@ HandyNotes_LegionTreasures: enabled
 GatherMate2: disabled
 LibDataBroker-1.1: enabled
 GatherMate2_Data: enabled
-GarrisonMissionManager: enabled
-GarrisonMissionManager_LoadOnLogin: enabled
+GarrisonMissionManager: disabled
+GarrisonMissionManager_LoadOnLogin: disabled
 LibStub: enabled
 Bagnon: enabled
 Titan: enabled
@@ -45,8 +45,15 @@ LibTTScan-1.0: enabled
 SR13-TimeRecord: enabled
 TrufiGCD: disabled
 SkadaPlayerScore: disabled
-UnitFramesPlus: enabled
+UnitFramesPlus: disabled
 ShadowedUnitFrames: disabled
 TipTac: enabled
 TinyTooltip: disabled
 Gnosis: disabled
+GuildSkadaHighScore: disabled
+LibGroupInSpecT-1.1: enabled
+LibDBIcon-1.0: enabled
+UnitFramesPlus_Options: disabled
+TinyParty: enabled
+KeepIronskin: disabled
+!!!PlaySoundFixer: enabled

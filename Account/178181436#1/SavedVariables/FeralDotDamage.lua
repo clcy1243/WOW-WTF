@@ -1,5 +1,6 @@
 
 FeralDotDamageDB = {
+	["AleaGUI_enablePerSpecProfile"] = false,
 	["profileKeys"] = {
 		["龙轻雪 - 主宰之剑"] = {
 			"Default", -- [1]
@@ -12,7 +13,6 @@ FeralDotDamageDB = {
 			"Default", -- [2]
 		},
 	},
-	["AleaGUI_enablePerSpecProfile"] = false,
 	["profiles"] = {
 		["龙轻雪 - 主宰之剑"] = {
 		},
@@ -35,9 +35,10 @@ FeralDotDamageDB = {
 			},
 			["settings_version_db"] = 0,
 			["others"] = {
+				["overlay"] = false,
+				["runeCheck"] = false,
 				["flashCheck"] = false,
 				["foodCheck"] = false,
-				["runeCheck"] = false,
 				["buffCheck"] = false,
 			},
 			["minimap"] = {

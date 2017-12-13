@@ -11,10 +11,10 @@ TotalArtifactPowerSettings = {
 TotalArtifactPowerCache = {
 	["有隻大白兎丶 - 能源舰"] = {
 		{
-			["thisLevelUnspentAP"] = 901138600,
-			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 58,
+			["thisLevelUnspentAP"] = 3104821200,
 			["isIgnored"] = false,
+			["numTraitsPurchased"] = 62,
+			["artifactTier"] = 2,
 		}, -- [1]
 		{
 			["isIgnored"] = false,

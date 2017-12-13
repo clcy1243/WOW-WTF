@@ -1,0 +1,228 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["粑粑我不黑 - 主宰之剑"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["AlertTutorialStep"] = 5,
+			["GotTutorial"] = true,
+			["quests_tracked"] = {
+				["Player-1955-00ED3D09"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-1955-00ED3D09"] = {
+					[44813] = {
+						["expireAt"] = 1507158034,
+						["rewardAmount"] = 170000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42108] = {
+						["expireAt"] = 1507201234,
+						["rewardAmount"] = 100000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[45071] = {
+						["expireAt"] = 1507266094,
+						["rewardAmount"] = "|cffc557FF880",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[43183] = {
+						["expireAt"] = 1507158034,
+						["rewardAmount"] = 110000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42744] = {
+						["expireAt"] = 1507244434,
+						["rewardAmount"] = "|cffc557FF885",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[43943] = {
+						["expireAt"] = 1507330834,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1409002,
+					},
+					[44010] = {
+						["expireAt"] = 1507136494,
+						["rewardAmount"] = 100000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41935] = {
+						["expireAt"] = 1507158094,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045107,
+					},
+					[44780] = {
+						["expireAt"] = 1507158034,
+						["rewardAmount"] = 140000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41317] = {
+						["expireAt"] = 1507179694,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+					[42077] = {
+						["expireAt"] = 1507179634,
+						["rewardAmount"] = 73120000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[45985] = {
+						["expireAt"] = 1507192594,
+						["rewardAmount"] = "|cffc557FF880",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
+					},
+					[41766] = {
+						["expireAt"] = 1507158094,
+						["rewardAmount"] = "14",
+						["rewardTexture"] = 413584,
+					},
+					[42209] = {
+						["expireAt"] = 1507201234,
+						["rewardAmount"] = 140000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[45046] = {
+						["expireAt"] = 1507201294,
+						["rewardAmount"] = 91400000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43601] = {
+						["expireAt"] = 1507158034,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1322720,
+					},
+					[41024] = {
+						["expireAt"] = 1507179634,
+						["rewardAmount"] = 86830000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[45379] = {
+						["expireAt"] = 1507330834,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 134245,
+					},
+					[41414] = {
+						["expireAt"] = 1507201234,
+						["rewardAmount"] = "|cffc557FF875",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[42176] = {
+						["expireAt"] = 1507158034,
+						["rewardAmount"] = "|cffc557FF870",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
+					},
+					[43755] = {
+						["expireAt"] = 1507330894,
+						["rewardAmount"] = "|cffc557FF880",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[44893] = {
+						["expireAt"] = 1507330894,
+						["rewardAmount"] = "|cffc557FF880",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[42757] = {
+						["expireAt"] = 1507417234,
+						["rewardAmount"] = "|cffc557FF885",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[42511] = {
+						["expireAt"] = 1507158034,
+						["rewardAmount"] = 91400000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41950] = {
+						["expireAt"] = 1507140754,
+						["rewardAmount"] = "|cffc557FF880",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[46105] = {
+						["expireAt"] = 1507158034,
+						["rewardAmount"] = 290000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[40920] = {
+						["expireAt"] = 1507136434,
+						["rewardAmount"] = 86830000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42151] = {
+						["expireAt"] = 1507201234,
+						["rewardAmount"] = 79970000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43450] = {
+						["expireAt"] = 1507201294,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1417744,
+					},
+					[45032] = {
+						["expireAt"] = 1507330834,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1417744,
+					},
+					[42026] = {
+						["expireAt"] = 1507179634,
+						["rewardAmount"] = 91400000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43175] = {
+						["expireAt"] = 1507158094,
+						["rewardAmount"] = 230000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[40978] = {
+						["expireAt"] = 1507158034,
+						["rewardAmount"] = "|cffc557FF875",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[42880] = {
+						["expireAt"] = 1507158034,
+						["rewardAmount"] = 140000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41598] = {
+						["expireAt"] = 1507158094,
+						["rewardAmount"] = "30",
+						["rewardTexture"] = 1387364,
+					},
+					[41927] = {
+						["expireAt"] = 1507209874,
+						["rewardAmount"] = "|cffc557FF875",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+				},
+			},
+			["player_names"] = {
+				["Player-1955-00ED3D09"] = {
+					["class"] = "PRIEST",
+					["name"] = "粑粑我不黑",
+					["realm"] = "主宰之剑",
+				},
+			},
+			["rarescan"] = {
+				["recently_spotted"] = {
+					[126887] = {
+						1507131952, -- [1]
+						1170, -- [2]
+						0.305492103099823, -- [3]
+						0.419498026371002, -- [4]
+						"Creature-0-3921-1669-19177-126887-0000550233", -- [5]
+						"阿塔克松", -- [6]
+						"Ieo", -- [7]
+						1507131957, -- [8]
+					},
+				},
+				["recently_killed"] = {
+					["Player-1955-00ED3D09"] = {
+					},
+				},
+				["name_cache"] = {
+					["阿塔克松"] = 126887,
+				},
+			},
+		},
+	},
+}

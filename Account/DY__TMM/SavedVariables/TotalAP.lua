@@ -13,22 +13,22 @@ TotalArtifactPowerSettings = {
 TotalArtifactPowerCache = {
 	["Willam - 能源舰"] = {
 		{
-			["thisLevelUnspentAP"] = 1039117420,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 53,
+			["thisLevelUnspentAP"] = 244919970,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 61,
+			["isIgnored"] = false,
 		}, -- [1]
 		{
-			["thisLevelUnspentAP"] = 2402920420,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 59,
+			["thisLevelUnspentAP"] = 2382834220,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 60,
+			["isIgnored"] = false,
 		}, -- [2]
 		{
 			["thisLevelUnspentAP"] = 1068870,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 52,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 52,
+			["isIgnored"] = false,
 		}, -- [3]
 	},
 	["Justpalymage - 太阳之井"] = {
@@ -44,22 +44,22 @@ TotalArtifactPowerCache = {
 	},
 	["募落葒顔 - 太阳之井"] = {
 		{
-			["thisLevelUnspentAP"] = 4087074607,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 59,
+			["thisLevelUnspentAP"] = 4255394907,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 62,
+			["isIgnored"] = false,
 		}, -- [1]
 		{
-			["thisLevelUnspentAP"] = 61175765,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 53,
+			["thisLevelUnspentAP"] = 123226215,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 57,
+			["isIgnored"] = false,
 		}, -- [2]
 		{
 			["thisLevelUnspentAP"] = 992160875,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 54,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 54,
+			["isIgnored"] = false,
 		}, -- [3]
 	},
 }

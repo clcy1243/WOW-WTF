@@ -1,0 +1,27 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["有隻大白兎丶 - 能源舰"] = "有隻大白兎丶 - 能源舰",
+	},
+	["char"] = {
+		["有隻大白兎丶 - 能源舰"] = {
+			["artifactCache"] = {
+				[120978] = {
+					["timestamp"] = 527.834,
+					["level"] = 44,
+					["crucibled"] = false,
+				},
+				[128866] = {
+					["timestamp"] = 175506.387,
+					["level"] = 55,
+					["crucibled"] = false,
+				},
+				[128823] = {
+					["timestamp"] = 388533.254,
+					["level"] = 67,
+					["crucibled"] = false,
+				},
+			},
+		},
+	},
+}

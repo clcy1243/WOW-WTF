@@ -1,6 +1,7 @@
 
 WQTrackerDB = {
 	["profileKeys"] = {
+		["原来是汪呀 - 主宰之剑"] = "Default",
 		["微醺的哈士奇 - 主宰之剑"] = "Default",
 	},
 	["profiles"] = {
@@ -8,6 +9,8 @@ WQTrackerDB = {
 			["AlertTutorialStep"] = 5,
 			["GotTutorial"] = true,
 			["quests_tracked"] = {
+				["Player-1955-01A96048"] = {
+				},
 				["Player-1955-01B7E6CA"] = {
 				},
 			},
@@ -88,20 +91,10 @@ WQTrackerDB = {
 						["rewardAmount"] = "13",
 						["rewardTexture"] = 413584,
 					},
-					[45032] = {
-						["expireAt"] = 1480438912,
-						["rewardAmount"] = 9300,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
-					},
 					[40282] = {
 						["expireAt"] = 1480287652,
 						["rewardAmount"] = "13",
 						["rewardTexture"] = 413584,
-					},
-					[42177] = {
-						["expireAt"] = 1482395801,
-						["rewardAmount"] = 19400,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
 					},
 					[43751] = {
 						["expireAt"] = 1482326681,
@@ -143,15 +136,20 @@ WQTrackerDB = {
 						["rewardAmount"] = "13",
 						["rewardTexture"] = 413584,
 					},
-					[42023] = {
-						["expireAt"] = 1482339641,
-						["rewardAmount"] = "|cffc557FF835",
-						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
-					},
-					[44805] = {
-						["expireAt"] = 1482361241,
+					[42105] = {
+						["expireAt"] = 1482382841,
 						["rewardAmount"] = "|cffc557FF840",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Helmet_29",
+					},
+					[41701] = {
+						["expireAt"] = 1480266052,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
+					},
+					[44856] = {
+						["expireAt"] = 1480287652,
+						["rewardAmount"] = 9550,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
 					},
 					[43458] = {
 						["expireAt"] = 1482339701,
@@ -168,10 +166,10 @@ WQTrackerDB = {
 						["rewardAmount"] = 8150,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
 					},
-					[42830] = {
-						["expireAt"] = 1480330852,
-						["rewardAmount"] = "|cffc557FF845",
-						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					[43583] = {
+						["expireAt"] = 1482361241,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
 					},
 					[41513] = {
 						["expireAt"] = 1482447701,
@@ -188,14 +186,24 @@ WQTrackerDB = {
 						["rewardAmount"] = 19400,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
 					},
-					[42275] = {
-						["expireAt"] = 1482361241,
+					[42023] = {
+						["expireAt"] = 1482339641,
+						["rewardAmount"] = "|cffc557FF835",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[41844] = {
+						["expireAt"] = 1482361301,
 						["rewardAmount"] = "|cffc557FF840",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
 					},
 					[41964] = {
 						["expireAt"] = 1482361241,
 						["rewardAmount"] = 27950,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41095] = {
+						["expireAt"] = 1482361241,
+						["rewardAmount"] = 18800,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
 					},
 					[43943] = {
@@ -203,39 +211,39 @@ WQTrackerDB = {
 						["rewardAmount"] = "",
 						["rewardTexture"] = 1409002,
 					},
-					[41095] = {
+					[44805] = {
 						["expireAt"] = 1482361241,
-						["rewardAmount"] = 18800,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
-					},
-					[41844] = {
-						["expireAt"] = 1482361301,
 						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[42275] = {
+						["expireAt"] = 1482361241,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[42830] = {
+						["expireAt"] = 1480330852,
+						["rewardAmount"] = "|cffc557FF845",
 						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
 					},
-					[43583] = {
-						["expireAt"] = 1482361241,
-						["rewardAmount"] = "|cffc557FF840",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
-					},
-					[44856] = {
-						["expireAt"] = 1480287652,
-						["rewardAmount"] = 9550,
+					[42177] = {
+						["expireAt"] = 1482395801,
+						["rewardAmount"] = 19400,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
 					},
-					[41701] = {
-						["expireAt"] = 1480266052,
-						["rewardAmount"] = "|cffc557FF845",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
-					},
-					[42105] = {
-						["expireAt"] = 1482382841,
-						["rewardAmount"] = "|cffc557FF840",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Helmet_29",
+					[45032] = {
+						["expireAt"] = 1480438912,
+						["rewardAmount"] = 9300,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
 					},
 				},
 			},
 			["player_names"] = {
+				["Player-1955-01A96048"] = {
+					["class"] = "PALADIN",
+					["name"] = "原来是汪呀",
+					["realm"] = "主宰之剑",
+				},
 				["Player-1955-01B7E6CA"] = {
 					["class"] = "DEMONHUNTER",
 					["name"] = "微醺的哈士奇",
@@ -243,6 +251,20 @@ WQTrackerDB = {
 				},
 			},
 			["history"] = {
+				["quest"] = {
+					["global"] = {
+						["total"] = 2,
+						[43767] = 1,
+						[45049] = 1,
+					},
+					["character"] = {
+						["Player-1955-01B7E6CA"] = {
+							["total"] = 2,
+							[43767] = 1,
+							[45049] = 1,
+						},
+					},
+				},
 				["period"] = {
 					["global"] = {
 						["161221"] = {
@@ -261,20 +283,6 @@ WQTrackerDB = {
 						},
 					},
 				},
-				["quest"] = {
-					["global"] = {
-						["total"] = 2,
-						[43767] = 1,
-						[45049] = 1,
-					},
-					["character"] = {
-						["Player-1955-01B7E6CA"] = {
-							["total"] = 2,
-							[43767] = 1,
-							[45049] = 1,
-						},
-					},
-				},
 				["reward"] = {
 					["global"] = {
 						["resource"] = 370,
@@ -286,6 +294,23 @@ WQTrackerDB = {
 							["artifact"] = 22800,
 						},
 					},
+				},
+			},
+			["rarescan"] = {
+				["recently_spotted"] = {
+					[125479] = {
+						1508825757, -- [1]
+						1135, -- [2]
+						0.695289254188538, -- [3]
+						0.809436500072479, -- [4]
+						"Creature-0-3916-1669-1991-125479-00006EDA70", -- [5]
+						"焦油喷吐者", -- [6]
+						"克瑞丝顿", -- [7]
+						1508825756, -- [8]
+					},
+				},
+				["name_cache"] = {
+					["焦油喷吐者"] = 125479,
 				},
 			},
 			["TutorialTaxyMap"] = true,

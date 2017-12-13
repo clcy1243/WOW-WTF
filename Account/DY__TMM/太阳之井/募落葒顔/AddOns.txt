@@ -110,7 +110,7 @@ AdiBags_BestInSlot: disabled
 AdiBags_BoE_BoA: disabled
 AdiBags_Outfitter: disabled
 DejaCharacterStats: disabled
-TinyUntitled: enabled
+TinyUntitled: disabled
 TinyFilmEffect: disabled
 CompactRaid_RaidDebuff_CTM: disabled
 CompactRaid_ClickSets: disabled
@@ -361,7 +361,7 @@ TidyPlates_BlizzardPlates: enabled
 TidyPlates_ThreatPlates: disabled
 TinyCharacterStats: enabled
 TinyInspect: enabled
-TinyParty: enabled
+TinyParty: disabled
 TinyRoster: enabled
 TomTom: enabled
 TotalAP: enabled
@@ -478,3 +478,4 @@ Stuf_Range: enabled
 StufRaid: disabled
 StufRaid_Options: disabled
 Stuf: disabled
+!!!PlaySoundFixer: disabled

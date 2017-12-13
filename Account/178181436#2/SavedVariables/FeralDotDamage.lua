@@ -1,6 +1,12 @@
 
 FeralDotDamageDB = {
+	["AleaGUI_enablePerSpecProfile"] = false,
 	["profileKeys"] = {
+		["龙听雨 - 主宰之剑"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
 		["锦在天堂 - 太阳之井"] = {
 			"Default", -- [1]
 			"Default", -- [2]
@@ -12,8 +18,9 @@ FeralDotDamageDB = {
 			"Default", -- [3]
 		},
 	},
-	["AleaGUI_enablePerSpecProfile"] = false,
 	["profiles"] = {
+		["锦在天堂 - 太阳之井"] = {
+		},
 		["Default"] = {
 			["anonse"] = {
 				["spells"] = {
@@ -74,7 +81,7 @@ FeralDotDamageDB = {
 				["hide"] = false,
 			},
 		},
-		["锦在天堂 - 太阳之井"] = {
+		["龙听雨 - 主宰之剑"] = {
 		},
 		["龙听雨 - 巨龙之吼"] = {
 		},

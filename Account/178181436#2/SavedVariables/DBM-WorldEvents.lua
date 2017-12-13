@@ -312,6 +312,7 @@ DBMWorldEvents_AllSavedVars = {
 				["Timer68821castTColor"] = 0,
 			}, -- [3]
 		},
+		["talent2"] = "织雾",
 		["d286"] = {
 			{
 				["Enabled"] = true,
@@ -416,6 +417,56 @@ DBMWorldEvents_AllSavedVars = {
 				["Enabled"] = true,
 				["specWarnBrewSWNote"] = true,
 				["YellOnBarrel"] = false,
+			}, -- [3]
+		},
+		["DemonInvasions"] = {
+			{
+				["SpecWarn238005dodgeSWNote"] = true,
+				["SpecWarn235085dodgeSWSound"] = 3,
+				["SpecWarn234660dodgeSWSound"] = 4,
+				["HealthFrame"] = false,
+				["SpecWarn238005dodgeSWSound"] = 4,
+				["SpecWarn238005dodge"] = true,
+				["Enabled"] = true,
+				["SpecWarn234660dodge"] = true,
+				["SpecWarn235085dodge"] = true,
+				["SpecWarn234660dodgeSWNote"] = true,
+				["Voice234660"] = true,
+				["SpecWarn235085dodgeSWNote"] = true,
+				["Voice235085"] = true,
+				["Voice238005"] = true,
+			}, -- [1]
+			{
+				["SpecWarn238005dodgeSWNote"] = true,
+				["SpecWarn235085dodgeSWSound"] = 3,
+				["SpecWarn234660dodgeSWSound"] = 4,
+				["HealthFrame"] = false,
+				["SpecWarn238005dodgeSWSound"] = 4,
+				["SpecWarn238005dodge"] = true,
+				["Voice238005"] = true,
+				["Voice235085"] = true,
+				["Voice234660"] = true,
+				["SpecWarn234660dodgeSWNote"] = true,
+				["SpecWarn235085dodge"] = true,
+				["SpecWarn235085dodgeSWNote"] = true,
+				["SpecWarn234660dodge"] = true,
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["SpecWarn238005dodgeSWNote"] = true,
+				["SpecWarn235085dodgeSWSound"] = 3,
+				["SpecWarn234660dodgeSWSound"] = 4,
+				["HealthFrame"] = false,
+				["SpecWarn238005dodgeSWSound"] = 4,
+				["SpecWarn238005dodge"] = true,
+				["Voice238005"] = true,
+				["Voice235085"] = true,
+				["Voice234660"] = true,
+				["SpecWarn234660dodgeSWNote"] = true,
+				["SpecWarn235085dodge"] = true,
+				["SpecWarn235085dodgeSWNote"] = true,
+				["SpecWarn234660dodge"] = true,
+				["Enabled"] = true,
 			}, -- [3]
 		},
 		["Greench"] = {

@@ -1,3 +1,7 @@
+VER 3 0000000000000007 " " "INV_MISC_QUESTIONMARK"
+/tar 邪能喷涌图腾
+/cast 真气波
+END
 VER 3 0000000000000005 "1" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
 /click DropDownList1Button1
@@ -14,4 +18,8 @@ END
 VER 3 0000000000000001 "虚弱宏" "INV_MISC_QUESTIONMARK"
 /run RepopMe() RetrieveCorpse() 
 /run RepopMe() AcceptResurrect() AcceptXPLoss()
+END
+VER 3 0000000000000006 "饰品1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
 END

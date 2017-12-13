@@ -1,0 +1,36 @@
+
+TradeSkillMaster_ShoppingDB = {
+	["g@ @sniperCustomPrice"] = "0c",
+	["g@ @maxDeSearchPercent"] = 1,
+	["g@ @postUndercut"] = "1c",
+	["g@ @postBidPercent"] = 0.95,
+	["_scopeKeys"] = {
+		["char"] = {
+			"有隻大白兎丶 - 能源舰", -- [1]
+		},
+		["realm"] = {
+			"能源舰", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - 能源舰", -- [1]
+		},
+	},
+	["g@ @helpPlatesShown"] = {
+	},
+	["g@ @sniperVendorPrice"] = true,
+	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["g@ @savedSearches"] = {
+	},
+	["_hash"] = 1861581,
+	["g@ @marketValueSource"] = "dbmarket",
+	["g@ @maxDeSearchLvl"] = 735,
+	["g@ @minDeSearchLvl"] = 1,
+	["g@ @normalPostPrice"] = "150% dbmarket",
+	["_version"] = 3,
+	["_currentProfile"] = {
+		["有隻大白兎丶 - 能源舰"] = "Default",
+	},
+}

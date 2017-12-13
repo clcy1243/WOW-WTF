@@ -2,11 +2,10 @@
 MasterPlanAG = {
 	["太阳之井"] = {
 		["倾城丨猫爷"] = {
-			["faction"] = "Horde",
 			["class"] = "PALADIN",
+			["faction"] = "Horde",
 		},
 		["锦在天堂"] = {
-			["lastCacheTime"] = 1505803515,
 			["summary"] = {
 				["inProgress"] = {
 					[118] = 1504696697,
@@ -18,64 +17,65 @@ MasterPlanAG = {
 					[271] = 1504689508,
 					[272] = 1504689494,
 					[125] = 1504682288,
-					[527] = 1504682409,
 					[737] = 1504668905,
+					[527] = 1504682409,
 				},
 			},
+			["curOil"] = 605,
 			["faction"] = "Horde",
+			["lastCacheTime"] = 1507995106,
+			["curRes"] = 9978,
 			["class"] = "DEATHKNIGHT",
-			["curRes"] = 9478,
-			["curOil"] = 580,
 		},
 	},
 	["破碎岭"] = {
 		["徳馨"] = {
-			["faction"] = "Alliance",
 			["class"] = "DRUID",
+			["faction"] = "Alliance",
 		},
 	},
 	["摩摩尔"] = {
 		["地狱丨灬繁花"] = {
-			["faction"] = "Horde",
 			["class"] = "DEATHKNIGHT",
+			["faction"] = "Horde",
 		},
 		["倾城丨烟雨"] = {
-			["class"] = "DRUID",
 			["faction"] = "Horde",
+			["class"] = "DRUID",
 		},
 		["信仰丶圣光"] = {
-			["class"] = "PALADIN",
 			["faction"] = "Horde",
+			["class"] = "PALADIN",
 		},
 	},
 	["瓦拉斯塔兹"] = {
 		["斯特莱夫"] = {
-			["faction"] = "Horde",
 			["class"] = "WARRIOR",
+			["faction"] = "Horde",
 		},
 		["看你洗澡"] = {
-			["faction"] = "Horde",
 			["class"] = "ROGUE",
+			["faction"] = "Horde",
 		},
 		["星界旅行者"] = {
-			["class"] = "SHAMAN",
 			["faction"] = "Horde",
+			["class"] = "SHAMAN",
 		},
 	},
 	["IgnoreRewards"] = {
 	},
 	["主宰之剑"] = {
 		["龙轻雪"] = {
-			["class"] = "DRUID",
 			["lastCacheTime"] = 1483728307,
+			["class"] = "DRUID",
 			["curRes"] = 1813,
 			["faction"] = "Alliance",
 		},
 		["龙听雨"] = {
-			["lastCacheTime"] = 1479635313,
 			["class"] = "MONK",
-			["curRes"] = 1396,
-			["faction"] = "Horde",
+			["lastCacheTime"] = 1479635313,
+			["curRes"] = 1906,
+			["faction"] = "Alliance",
 		},
 		["龙剑曦"] = {
 			["lastCacheTime"] = 1480874756,
@@ -87,13 +87,15 @@ MasterPlanAG = {
 	},
 	["卡拉赞"] = {
 		["蓝箭"] = {
-			["faction"] = "Horde",
 			["class"] = "HUNTER",
+			["faction"] = "Horde",
 		},
 	},
 	["巨龙之吼"] = {
 		["龙听雨"] = {
 			["faction"] = "Horde",
+			["lastCacheTime"] = 1507398521,
+			["curRes"] = 1906,
 			["class"] = "MONK",
 		},
 	},

@@ -43,129 +43,30 @@ BigTipDB = {
 		},
 		["statusbarPosition"] = "bottom",
 		["statusbarOffsetX"] = 0,
+		["statusbarTexture"] = "Interface\\AddOns\\TinyTooltip\\texture\\StatusBar",
 		["bodyFontSize"] = "default",
-		["bodyFontFlag"] = "default",
-		["borderCorner"] = "default",
-		["bodyFont"] = "default",
-		["alwaysShowIdInfo"] = true,
-		["headerFontSize"] = "default",
-		["statusbarHeight"] = 4,
 		["skinMoreFrames"] = true,
-		["headerFontFlag"] = "default",
-		["statusbarText"] = false,
-		["statusbarColor"] = "auto",
-		["statusbarFontFlag"] = "THINOUTLINE",
 		["statusbarOffsetY"] = 0,
+		["borderCorner"] = "default",
+		["statusbarFontFlag"] = "THINOUTLINE",
+		["alwaysShowIdInfo"] = true,
+		["statusbarText"] = false,
+		["statusbarHeight"] = 4,
+		["headerFontFlag"] = "default",
+		["headerFontSize"] = "default",
+		["statusbarColor"] = "auto",
+		["bodyFont"] = "default",
+		["bodyFontFlag"] = "default",
 	},
 	["version"] = 2,
 	["item"] = {
-		["showItemIcon"] = false,
 		["coloredItemBorder"] = true,
+		["showItemIcon"] = false,
 	},
 	["quest"] = {
 		["coloredQuestBorder"] = true,
 	},
 	["unit"] = {
-		["npc"] = {
-			["elements"] = {
-				{
-					"raidIcon", -- [1]
-					"classIcon", -- [2]
-					"questIcon", -- [3]
-					"name", -- [4]
-				}, -- [1]
-				{
-					"levelValue", -- [1]
-					"classifBoss", -- [2]
-					"classifElite", -- [3]
-					"classifRare", -- [4]
-					"creature", -- [5]
-					"reactionName", -- [6]
-					"moveSpeed", -- [7]
-				}, -- [2]
-				["creature"] = {
-					["enable"] = true,
-					["color"] = "selection",
-					["wildcard"] = "%s",
-					["filter"] = "none",
-				},
-				["classifElite"] = {
-					["enable"] = true,
-					["color"] = "ffff33",
-					["wildcard"] = "(%s)",
-					["filter"] = "none",
-				},
-				["npcTitle"] = {
-					["enable"] = true,
-					["color"] = "99e8e8",
-					["wildcard"] = "<%s>",
-					["filter"] = "none",
-				},
-				["questIcon"] = {
-					["enable"] = true,
-					["filter"] = "none",
-				},
-				["classifBoss"] = {
-					["enable"] = true,
-					["color"] = "ff0000",
-					["wildcard"] = "(%s)",
-					["filter"] = "none",
-				},
-				["moveSpeed"] = {
-					["enable"] = false,
-					["color"] = "e8e7a8",
-					["wildcard"] = "%d%%",
-					["filter"] = "none",
-				},
-				["name"] = {
-					["enable"] = true,
-					["color"] = "default",
-					["wildcard"] = "%s",
-					["filter"] = "none",
-				},
-				["reactionName"] = {
-					["enable"] = true,
-					["color"] = "33ffff",
-					["wildcard"] = "<%s>",
-					["filter"] = "reaction6",
-				},
-				["classifRare"] = {
-					["enable"] = true,
-					["color"] = "ffaaff",
-					["wildcard"] = "(%s)",
-					["filter"] = "none",
-				},
-				["raidIcon"] = {
-					["enable"] = true,
-					["filter"] = "none",
-				},
-				["levelValue"] = {
-					["enable"] = true,
-					["color"] = "level",
-					["wildcard"] = "%s",
-					["filter"] = "none",
-				},
-				["classIcon"] = {
-					["enable"] = false,
-					["filter"] = "none",
-				},
-			},
-			["coloredBorder"] = "reaction",
-			["anchor"] = {
-				["returnOnUnitFrame"] = false,
-				["position"] = "inherit",
-				["cp"] = "BOTTOM",
-				["p"] = "BOTTOMRIGHT",
-				["returnInCombat"] = true,
-			},
-			["showTarget"] = true,
-			["background"] = {
-				["colorfunc"] = "default",
-				["alpha"] = 0.9,
-			},
-			["showTargetBy"] = true,
-			["grayForDead"] = false,
-		},
 		["player"] = {
 			["elements"] = {
 				{
@@ -314,10 +215,8 @@ BigTipDB = {
 					["wildcard"] = "<%s>",
 					["filter"] = "none",
 				},
-				["className"] = {
+				["factionIcon"] = {
 					["enable"] = true,
-					["color"] = "ffffff",
-					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
 				["name"] = {
@@ -326,8 +225,10 @@ BigTipDB = {
 					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
-				["factionIcon"] = {
+				["className"] = {
 					["enable"] = true,
+					["color"] = "ffffff",
+					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
 				["classIcon"] = {
@@ -335,9 +236,109 @@ BigTipDB = {
 					["filter"] = "none",
 				},
 			},
-			["showTarget"] = true,
-			["coloredBorder"] = "class",
 			["showModel"] = true,
+			["showTargetBy"] = true,
+			["coloredBorder"] = "class",
+			["showTarget"] = true,
+			["background"] = {
+				["colorfunc"] = "default",
+				["alpha"] = 0.9,
+			},
+			["anchor"] = {
+				["returnOnUnitFrame"] = false,
+				["position"] = "inherit",
+				["cp"] = "BOTTOM",
+				["p"] = "BOTTOMRIGHT",
+				["returnInCombat"] = true,
+			},
+			["grayForDead"] = false,
+		},
+		["npc"] = {
+			["coloredBorder"] = "reaction",
+			["elements"] = {
+				{
+					"raidIcon", -- [1]
+					"classIcon", -- [2]
+					"questIcon", -- [3]
+					"name", -- [4]
+				}, -- [1]
+				{
+					"levelValue", -- [1]
+					"classifBoss", -- [2]
+					"classifElite", -- [3]
+					"classifRare", -- [4]
+					"creature", -- [5]
+					"reactionName", -- [6]
+					"moveSpeed", -- [7]
+				}, -- [2]
+				["creature"] = {
+					["enable"] = true,
+					["color"] = "selection",
+					["wildcard"] = "%s",
+					["filter"] = "none",
+				},
+				["classifElite"] = {
+					["enable"] = true,
+					["color"] = "ffff33",
+					["wildcard"] = "(%s)",
+					["filter"] = "none",
+				},
+				["npcTitle"] = {
+					["enable"] = true,
+					["color"] = "99e8e8",
+					["wildcard"] = "<%s>",
+					["filter"] = "none",
+				},
+				["questIcon"] = {
+					["enable"] = true,
+					["filter"] = "none",
+				},
+				["classifBoss"] = {
+					["enable"] = true,
+					["color"] = "ff0000",
+					["wildcard"] = "(%s)",
+					["filter"] = "none",
+				},
+				["moveSpeed"] = {
+					["enable"] = false,
+					["color"] = "e8e7a8",
+					["wildcard"] = "%d%%",
+					["filter"] = "none",
+				},
+				["name"] = {
+					["enable"] = true,
+					["color"] = "default",
+					["wildcard"] = "%s",
+					["filter"] = "none",
+				},
+				["reactionName"] = {
+					["enable"] = true,
+					["color"] = "33ffff",
+					["wildcard"] = "<%s>",
+					["filter"] = "reaction6",
+				},
+				["classifRare"] = {
+					["enable"] = true,
+					["color"] = "ffaaff",
+					["wildcard"] = "(%s)",
+					["filter"] = "none",
+				},
+				["raidIcon"] = {
+					["enable"] = true,
+					["filter"] = "none",
+				},
+				["levelValue"] = {
+					["enable"] = true,
+					["color"] = "level",
+					["wildcard"] = "%s",
+					["filter"] = "none",
+				},
+				["classIcon"] = {
+					["enable"] = false,
+					["filter"] = "none",
+				},
+			},
+			["showTarget"] = true,
 			["anchor"] = {
 				["returnOnUnitFrame"] = false,
 				["position"] = "inherit",

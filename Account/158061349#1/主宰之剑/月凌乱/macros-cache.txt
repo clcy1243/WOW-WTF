@@ -1,0 +1,28 @@
+VER 3 0100000000000003 "安拉" "254857"
+/w 林荫下的乞丐-安苏 44296
+END
+VER 3 0100000000000002 "影翼鳐" "132279"
+#showtooltip
+/target 影翼鳐
+/cast 日光术
+/targetlasttarget
+END
+VER 3 010000000000000F "激活" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@player] 激活
+END
+VER 3 0100000000000011 "焱" "134400"
+/目标 祖霍拉克
+/cast 血魔之握
+END
+VER 3 0100000000000012 "狂暴回复" "INV_Misc_QuestionMark"
+#showtooltip 狂暴回复
+/cast [stance:1] 狂暴回复
+/cast [nostance:1] 熊形态
+END
+VER 3 0100000000000001 "老3" "236170"
+#showtooltip
+/target 总督奈扎尔
+/cast 日光术
+/targetlasttarget
+END

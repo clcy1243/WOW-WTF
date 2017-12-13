@@ -201,205 +201,205 @@ RelicInspectorCharDB = {
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["timestamp"] = 293723.724,
-					["level"] = 52,
+					["level"] = 54,
+					["timestamp"] = 231888.594,
 				},
 				[127829] = {
 					{
+						["relic"] = {
+							"鬼眼钻石", -- [1]
+							1387707, -- [2]
+							"Fel", -- [3]
+							"|cffa335ee|Hitem:141520:::::::::::43:3:3573:1527:3336:::|h[鬼眼钻石]|h|r", -- [4]
+						},
 						["traits"] = {
 							{
 								["requiredArtifactLevel"] = 0,
-								["canChoose"] = false,
 								["tier"] = 1,
+								["canChoose"] = false,
 								["powerID"] = 1739,
-								["isChosen"] = true,
 								["icon"] = 1033184,
+								["isChosen"] = true,
 								["spellID"] = 250879,
 							}, -- [1]
 							{
 								["requiredArtifactLevel"] = 60,
-								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1774,
+								["canChoose"] = false,
+								["powerID"] = 1779,
+								["icon"] = 1394892,
 								["isChosen"] = false,
-								["icon"] = 136129,
-								["spellID"] = 252191,
+								["spellID"] = 252888,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 60,
-								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1777,
+								["canChoose"] = false,
+								["powerID"] = 1784,
+								["icon"] = 236687,
 								["isChosen"] = false,
-								["icon"] = 460953,
-								["spellID"] = 252799,
+								["spellID"] = 253111,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 69,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1493,
+								["canChoose"] = false,
+								["powerID"] = 1004,
+								["icon"] = 135561,
 								["isChosen"] = false,
-								["icon"] = 1305156,
-								["spellID"] = 238045,
+								["spellID"] = 201458,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 69,
-								["canChoose"] = false,
 								["tier"] = 3,
+								["canChoose"] = false,
 								["powerID"] = 1007,
-								["isChosen"] = false,
 								["icon"] = 538536,
+								["isChosen"] = false,
 								["spellID"] = 201463,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 69,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1003,
+								["canChoose"] = false,
+								["powerID"] = 1006,
+								["icon"] = 1247262,
 								["isChosen"] = false,
-								["icon"] = 1305159,
-								["spellID"] = 201457,
+								["spellID"] = 201460,
 							}, -- [6]
-						},
-						["relic"] = {
-							"珍贵的强化物质", -- [1]
-							632848, -- [2]
-							"Fel", -- [3]
-							"|cffa335ee|Hitem:151501:::::::::::8:3:3567:1672:3528:::|h[珍贵的强化物质]|h|r", -- [4]
 						},
 					}, -- [1]
 					{
+						["relic"] = {
+							"萨维斯的疯狂低语", -- [1]
+							136160, -- [2]
+							"Shadow", -- [3]
+							"|cffa335ee|Hitem:137317:::::::::::16:3:3418:1567:3528:::|h[萨维斯的疯狂低语]|h|r", -- [4]
+						},
 						["traits"] = {
 							{
 								["requiredArtifactLevel"] = 0,
-								["canChoose"] = false,
 								["tier"] = 1,
+								["canChoose"] = false,
 								["powerID"] = 1739,
-								["isChosen"] = true,
 								["icon"] = 1033184,
+								["isChosen"] = true,
 								["spellID"] = 250879,
 							}, -- [1]
 							{
 								["requiredArtifactLevel"] = 63,
-								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1778,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
 								["isChosen"] = false,
-								["icon"] = 136146,
-								["spellID"] = 252875,
+								["spellID"] = 252922,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 63,
-								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1782,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
 								["isChosen"] = false,
-								["icon"] = 1360764,
-								["spellID"] = 253070,
+								["spellID"] = 252207,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1000,
+								["canChoose"] = false,
+								["powerID"] = 1002,
+								["icon"] = 1305156,
 								["isChosen"] = false,
-								["icon"] = 132346,
-								["spellID"] = 201454,
+								["spellID"] = 201456,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1001,
+								["canChoose"] = false,
+								["powerID"] = 1008,
+								["icon"] = 135795,
 								["isChosen"] = false,
-								["icon"] = 1305152,
-								["spellID"] = 201455,
+								["spellID"] = 201464,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 72,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1008,
+								["canChoose"] = false,
+								["powerID"] = 1007,
+								["icon"] = 538536,
 								["isChosen"] = false,
-								["icon"] = 135795,
-								["spellID"] = 201464,
+								["spellID"] = 201463,
 							}, -- [6]
-						},
-						["relic"] = {
-							"酋长的断牙", -- [1]
-							1519262, -- [2]
-							"Shadow", -- [3]
-							"|cffa335ee|Hitem:140823:::::::::::5:3:3517:1492:3528:::|h[酋长的断牙]|h|r", -- [4]
 						},
 					}, -- [2]
 					{
+						["relic"] = {
+							"变形火花", -- [1]
+							135794, -- [2]
+							"Fel", -- [3]
+							"|cffa335ee|Hitem:137542:::::::::::35:3:3418:1597:3337:::|h[变形火花]|h|r", -- [4]
+						},
 						["traits"] = {
 							{
 								["requiredArtifactLevel"] = 0,
-								["canChoose"] = false,
 								["tier"] = 1,
+								["canChoose"] = false,
 								["powerID"] = 1739,
-								["isChosen"] = true,
 								["icon"] = 1033184,
+								["isChosen"] = true,
 								["spellID"] = 250879,
 							}, -- [1]
 							{
 								["requiredArtifactLevel"] = 66,
-								["canChoose"] = false,
 								["tier"] = 2,
+								["canChoose"] = false,
 								["powerID"] = 1771,
-								["isChosen"] = false,
 								["icon"] = 136194,
+								["isChosen"] = false,
 								["spellID"] = 252091,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 66,
-								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1782,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
 								["isChosen"] = false,
-								["icon"] = 1360764,
-								["spellID"] = 253070,
+								["spellID"] = 252207,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 75,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1002,
+								["canChoose"] = false,
+								["powerID"] = 1001,
+								["icon"] = 1305152,
 								["isChosen"] = false,
-								["icon"] = 1305156,
-								["spellID"] = 201456,
+								["spellID"] = 201455,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 75,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1000,
+								["canChoose"] = false,
+								["powerID"] = 1004,
+								["icon"] = 135561,
 								["isChosen"] = false,
-								["icon"] = 132346,
-								["spellID"] = 201454,
+								["spellID"] = 201458,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 75,
-								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 1004,
+								["canChoose"] = false,
+								["powerID"] = 1007,
+								["icon"] = 538536,
 								["isChosen"] = false,
-								["icon"] = 135561,
-								["spellID"] = 201458,
+								["spellID"] = 201463,
 							}, -- [6]
-						},
-						["relic"] = {
-							"被污染的艾露恩雕像", -- [1]
-							134443, -- [2]
-							"Fel", -- [3]
-							"|cffa335ee|Hitem:147086:::::::::::3:3:3561:1482:3528:::|h[被污染的艾露恩雕像]|h|r", -- [4]
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["timestamp"] = 294809.901,
-					["level"] = 54,
+					["level"] = 60,
+					["timestamp"] = 123367.911,
 				},
 			},
 		},

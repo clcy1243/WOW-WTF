@@ -1,0 +1,80 @@
+VER 3 010000000000002B "11" "SPELL_HOLY_RAPTURE"
+/click ExtraActionButton1
+END
+VER 3 0100000000000027 "DB_HolyPriesty" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_HolyPriesty
+END
+VER 3 010000000000002A "DB_KTN_DiscDeeps" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_KTN_DiscDeeps
+END
+VER 3 0100000000000026 "DB_KTN_MouseOver" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_KTN_MouseOver
+END
+VER 3 0100000000000028 "DB_ShadowPriest" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_ShadowPriest
+END
+VER 3 010000000000000C "切克闹" "SPELL_HOLY_SYMBOLOFHOPE"
+#showtooltip 希望象征
+/cast 希望象征
+/团队
+ 我已释放希望象征，大家请淡定！！
+/in 1  /大喊 啊啊啊啊哦，
+/in 2 /大喊 啊啊啊啊哦哎，
+/in 3 /大喊 啊塞滴啊塞都，
+/in 4 /大喊 啊塞滴该滴该都
+END
+VER 3 010000000000000B "哟哟哟" "SPELL_HOLY_DIVINEHYMN"
+#showtooltip 神圣赞美诗
+/cast 缺指指环
+/use 勇气号角
+/cast 神圣赞美诗
+END
+VER 3 0100000000000024 "圣言灵" "INV_MISC_QUESTIONMARK"
+/cast [@cursor]圣言术：灵
+END
+VER 3 0100000000000029 "大屌" "INV_MISC_QUESTIONMARK"
+/cast [@cursor]暗影冲撞
+END
+VER 3 0100000000000025 "大驱" "INV_MISC_QUESTIONMARK"
+/cast [@cursor]群体驱散
+END
+VER 3 0100000000000018 "开怪宏" "SPELL_PRIEST_SPECTRALGUISE"
+/DBM pull 5
+END
+VER 3 0100000000000014 "挂机" "ABILITY_SHOOTWAND"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript ("OnUpdate",X)
+END
+VER 3 0100000000000010 "指向触" "SPELL_HOLY_STOICISM"
+#showtooltip
+/stopcasting 
+/cast [@mouseover,exists,harm][harm,nodead][@focus,harm,nodead][@targettarget,harm,nodead][]吸血鬼之触
+END
+VER 3 0100000000000019 "救驾" "ABILITY_SHOOTWAND"
+#showtooltip 守护之魂
+/in 1 /大喊 总有基佬爆我菊。众爱卿速来护驾
+/cast 守护之魂
+END
+VER 3 0100000000000008 "消散" "SPELL_SHADOW_DISPERSION"
+#showtooltip 消散 
+/stopcasting 
+/cancelaura 消散 
+/cast 消散
+END
+VER 3 0100000000000007 "灭" "SPELL_SHADOW_DEMONICFORTITUDE"
+#showtooltip
+/stopcasting 
+/cast [@mouseover,exists,harm][harm,nodead][@focus,harm,nodead][@targettarget,harm,nodead][]暗言术：灭
+END
+VER 3 010000000000002C "绝望祷言" "INV_MISC_QUESTIONMARK"
+#showtooltip 绝望祷言
+/cast 绝望祷言
+/cast 治疗石
+END
+VER 3 0100000000000023 "虚空爆发" "ABILITY_IRONMAIDENS_CONVULSIVESHADOWS"
+#showtooltip
+/cast [@mouseover,harm,exists,nodead][@focus,harm,nodead,exists,mod:alt][]虚空爆发
+END

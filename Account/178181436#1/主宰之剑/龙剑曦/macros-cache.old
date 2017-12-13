@@ -1,3 +1,11 @@
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:3/1]邪能之刃;[talent:3/3]邪能爆发;[talent:3/2,@player] 地狱火撞击
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:4/2]破裂;灵魂裂劈
+END
 VER 3 010000000000000C "DeathDealer" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /click [button:2] DeathDealer RightButton; [button:3] DeathDealer MiddleButton; [button:4] DeathDealer Button4; [button:5] DeathDealer Button5; DeathDealer
@@ -15,18 +23,14 @@ VER 3 0100000000000006 "SBNevTank" "INV_MISC_QUESTIONMARK"
 /click SBNevTank
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1RM1NM1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-N只混风醉梦的大兄第[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙剑曦[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙剑曦[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000008 "原地火符" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@player] 烈焰咒符
-END
-VER 3 010000000000000E "原地跳" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@player] 地狱火撞击
 END
 VER 3 010000000000000B "大跳" "INV_MISC_QUESTIONMARK"
 #showtooltip

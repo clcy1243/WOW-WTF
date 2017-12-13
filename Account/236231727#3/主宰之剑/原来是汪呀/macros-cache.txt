@@ -1,0 +1,53 @@
+VER 3 010000000000000C "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000D "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]原来是[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000001 "复仇" "SPELL_HOLY_AVENGINEWRATH"
+/施放 复仇之怒
+/施放 好战角斗士的同化徽章
+END
+VER 3 0100000000000004 "复仇者" "SPELL_HOLY_AVENGERSSHIELD"
+#showtooltips 复仇者之盾
+/dismount [mouted]
+/castrandom [noharm] 大领主的英勇战马
+/cast [harm] 复仇者之盾
+END
+VER 3 0100000000000005 "审判" "SPELL_HOLY_RIGHTEOUSFURY"
+#showtooltips 审判
+/dismount [mouted]
+/castrandom [noharm] 大领主的金辉战马
+/cast [harm] 审判
+END
+VER 3 0100000000000003 "征伐" "ABILITY_PALADIN_SANCTIFIEDWRATH"
+/施放 征伐
+/施放 好战角斗士的同化徽章
+END
+VER 3 0100000000000006 "打断" "523893"
+#showtooltips 责难
+/dismount [mouted]
+/castrandom [noharm] 天蓝水黾
+/cast [harm] 责难
+END
+VER 3 0100000000000009 "焦点" "135963"
+#showtooltip 
+/cast [target=focus,modifier:ctrl] 制裁之锤
+/cast 制裁之锤
+END
+VER 3 0100000000000007 "焦点" "135981"
+#showtooltip 圣光术 
+/cast [modifier:Ctrl,target=player]圣光术;[help][target=targettarget,help]圣光术
+END
+VER 3 0100000000000008 "焦点" "135964"
+#showtooltip
+/cast [target=妹妹不忘初心] 保护祝福
+END
+VER 3 010000000000000B "牺牲" "135966"
+#showtooltip
+/cast [target=妹妹不忘初心] 牺牲祝福
+END
+VER 3 010000000000000A "驱散" "135949"
+#showtooltip
+/cast [target=妹妹不忘初心] 清洁术
+END

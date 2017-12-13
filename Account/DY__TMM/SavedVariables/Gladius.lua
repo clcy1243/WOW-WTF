@@ -17,8 +17,6 @@ Gladius2DB = {
 			["tagsVersion"] = 4,
 		},
 		["Willam - 能源舰"] = {
-			["tagsVersion"] = 4,
-			["locked"] = true,
 			["y"] = {
 				["arena1"] = 629.39996486732,
 			},
@@ -26,17 +24,19 @@ Gladius2DB = {
 				["arena1"] = 1099.20027424948,
 			},
 			["direction"] = 2,
-			["trinketCooldownReverse"] = true,
 			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["trinketCooldownReverse"] = true,
+			["locked"] = true,
 		},
 		["国王走下神探 - 瓦拉斯塔兹"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 617.422237172723,
-			},
 			["x"] = {
 				["arena1"] = 969.77788806591,
+			},
+			["y"] = {
+				["arena1"] = 617.422237172723,
 			},
 		},
 		["募落葒顔 - 太阳之井"] = {

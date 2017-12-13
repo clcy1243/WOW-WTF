@@ -2,8 +2,8 @@
 MasterPlanAG = {
 	["太阳之井"] = {
 		["雪丶小喵"] = {
-			["faction"] = "Horde",
 			["class"] = "PALADIN",
+			["faction"] = "Horde",
 		},
 	},
 	["能源舰"] = {

@@ -8,8 +8,8 @@ RecountDB = {
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = 6.1035156250e-005,
-					["w"] = 140.000122070313,
 					["h"] = 200.000076293945,
+					["w"] = 140.000122070313,
 				},
 			},
 			["Colors"] = {
@@ -22,8 +22,8 @@ RecountDB = {
 					},
 				},
 			},
-			["CurDataSet"] = "OverallData",
 			["MainWindowVis"] = false,
+			["CurDataSet"] = "OverallData",
 		},
 	},
 }

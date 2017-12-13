@@ -1,6 +1,6 @@
 
 AucAdvancedFilterBasic_IgnoreList = {
-	["巨龙之吼"] = {
+	["主宰之剑"] = {
 		["List"] = {
 		},
 	},
@@ -20,7 +20,7 @@ AucAdvancedFilterBasic_IgnoreList = {
 		["List"] = {
 		},
 	},
-	["瓦拉斯塔兹"] = {
+	["巨龙之吼"] = {
 		["List"] = {
 		},
 	},
@@ -28,7 +28,7 @@ AucAdvancedFilterBasic_IgnoreList = {
 		["List"] = {
 		},
 	},
-	["主宰之剑"] = {
+	["瓦拉斯塔兹"] = {
 		["List"] = {
 		},
 	},

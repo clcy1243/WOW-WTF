@@ -12,42 +12,42 @@ TotalArtifactPowerSettings = {
 TotalArtifactPowerCache = {
 	["龙轻雪 - 主宰之剑"] = {
 		{
-			["thisLevelUnspentAP"] = 421595485,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 52,
+			["thisLevelUnspentAP"] = 129445635,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 61,
+			["isIgnored"] = false,
 		}, -- [1]
 		{
-			["thisLevelUnspentAP"] = 924943870,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 55,
+			["thisLevelUnspentAP"] = 534554420,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 61,
+			["isIgnored"] = false,
 		}, -- [2]
 		{
-			["thisLevelUnspentAP"] = 72298168,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 58,
+			["thisLevelUnspentAP"] = 7391214918,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 67,
+			["isIgnored"] = false,
 		}, -- [3]
 		{
-			["thisLevelUnspentAP"] = 2538173365,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 61,
+			["thisLevelUnspentAP"] = 54892361965,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 72,
+			["isIgnored"] = false,
 		}, -- [4]
 	},
 	["龙剑曦 - 主宰之剑"] = {
 		{
-			["thisLevelUnspentAP"] = 127332300,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 54,
+			["thisLevelUnspentAP"] = 4236169200,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 60,
+			["isIgnored"] = false,
 		}, -- [1]
 		{
-			["thisLevelUnspentAP"] = 602199695,
-			["isIgnored"] = false,
-			["numTraitsPurchased"] = 52,
+			["thisLevelUnspentAP"] = 880889545,
 			["artifactTier"] = 2,
+			["numTraitsPurchased"] = 54,
+			["isIgnored"] = false,
 		}, -- [2]
 	},
 }

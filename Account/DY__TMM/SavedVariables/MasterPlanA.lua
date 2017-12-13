@@ -1,55 +1,57 @@
 
 MasterPlanAG = {
-	["太阳之井"] = {
-		["募落葒顔"] = {
-			["recruitTime"] = 1467979888,
-			["summary"] = {
-				["inProgress"] = {
-					[335] = 1475333981,
-					[665] = 1475338830,
-					[363] = 1475335250,
-					[300] = 1475326771,
-					[371] = 1475342432,
-					[267] = 1475338835,
-					[125] = 1475338836,
-					[243] = 1475328026,
-				},
-			},
-			["curOil"] = 350,
-			["faction"] = "Horde",
-			["lastCacheTime"] = 1481564083,
-			["curRes"] = 5978,
-			["class"] = "PRIEST",
-		},
-		["妹子你坑我"] = {
-			["class"] = "DEATHKNIGHT",
-			["faction"] = "Horde",
-		},
-		["Justpalymage"] = {
-			["faction"] = "Horde",
-			["class"] = "MAGE",
-		},
-	},
-	["摩摩尔"] = {
-		["倾城丨小贼"] = {
-			["class"] = "ROGUE",
-			["faction"] = "Horde",
-		},
-	},
-	["瓦拉斯塔兹"] = {
-		["Etaasdfafa"] = {
-			["faction"] = "Alliance",
-			["class"] = "PRIEST",
-		},
-		["国王走下神探"] = {
-			["class"] = "WARLOCK",
-			["faction"] = "Horde",
-		},
-	},
 	["能源舰"] = {
 		["Willam"] = {
 			["class"] = "HUNTER",
 			["faction"] = "Horde",
 		},
+	},
+	["摩摩尔"] = {
+		["倾城丨小贼"] = {
+			["faction"] = "Horde",
+			["class"] = "ROGUE",
+		},
+	},
+	["瓦拉斯塔兹"] = {
+		["Etaasdfafa"] = {
+			["class"] = "PRIEST",
+			["faction"] = "Alliance",
+		},
+		["国王走下神探"] = {
+			["faction"] = "Horde",
+			["class"] = "WARLOCK",
+		},
+	},
+	["太阳之井"] = {
+		["Justpalymage"] = {
+			["class"] = "MAGE",
+			["faction"] = "Horde",
+		},
+		["妹子你坑我"] = {
+			["faction"] = "Horde",
+			["class"] = "DEATHKNIGHT",
+		},
+		["募落葒顔"] = {
+			["lastCacheTime"] = 1481564083,
+			["recruitTime"] = 1467979888,
+			["summary"] = {
+				["inProgress"] = {
+					[300] = 1475326771,
+					[665] = 1475338830,
+					[243] = 1475328026,
+					[363] = 1475335250,
+					[371] = 1475342432,
+					[267] = 1475338835,
+					[125] = 1475338836,
+					[335] = 1475333981,
+				},
+			},
+			["faction"] = "Horde",
+			["class"] = "PRIEST",
+			["curRes"] = 5978,
+			["curOil"] = 350,
+		},
+	},
+	["IgnoreRewards"] = {
 	},
 }

@@ -72,3 +72,4 @@ LibDataBroker: enabled
 Gatherer: enabled
 OmegaMap: enabled
 Carbonite: enabled
+!!!PlaySoundFixer: disabled

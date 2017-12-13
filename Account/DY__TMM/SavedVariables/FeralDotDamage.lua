@@ -1,6 +1,5 @@
 
 FeralDotDamageDB = {
-	["AleaGUI_enablePerSpecProfile"] = false,
 	["profileKeys"] = {
 		["Justpalymage - 太阳之井"] = {
 			"Default", -- [1]
@@ -18,6 +17,7 @@ FeralDotDamageDB = {
 			"Default", -- [3]
 		},
 	},
+	["AleaGUI_enablePerSpecProfile"] = false,
 	["profiles"] = {
 		["Justpalymage - 太阳之井"] = {
 		},

@@ -201,16 +201,16 @@ RelicInspectorCharDB = {
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 59,
-					["timestamp"] = 292582.893,
+					["level"] = 60,
+					["timestamp"] = 2924.386,
 				},
 				[128861] = {
 					{
 						["relic"] = {
-							"不安的梦境", -- [1]
-							136201, -- [2]
+							"邪魂漩涡", -- [1]
+							1035054, -- [2]
 							"Wind", -- [3]
-							"|cffa335ee|Hitem:141270:::::::::::27:3:3394:1557:3337:::|h[不安的梦境]|h|r", -- [4]
+							"|cffa335ee|Hitem:147112:::::::::::43:3:3573:1492:3528:::|h[邪魂漩涡]|h|r", -- [4]
 						},
 						["traits"] = {
 							{
@@ -226,29 +226,20 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 60,
 								["tier"] = 2,
 								["canChoose"] = false,
-								["powerID"] = 1771,
-								["icon"] = 136194,
+								["powerID"] = 1780,
+								["icon"] = 615101,
 								["isChosen"] = false,
-								["spellID"] = 252091,
+								["spellID"] = 252906,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 60,
 								["tier"] = 2,
 								["canChoose"] = false,
-								["powerID"] = 1770,
-								["icon"] = 132307,
+								["powerID"] = 1777,
+								["icon"] = 460953,
 								["isChosen"] = false,
-								["spellID"] = 252088,
+								["spellID"] = 252799,
 							}, -- [3]
-							{
-								["requiredArtifactLevel"] = 69,
-								["tier"] = 3,
-								["canChoose"] = false,
-								["powerID"] = 1095,
-								["icon"] = 132127,
-								["isChosen"] = false,
-								["spellID"] = 206910,
-							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 69,
 								["tier"] = 3,
@@ -257,6 +248,15 @@ RelicInspectorCharDB = {
 								["icon"] = 236186,
 								["isChosen"] = false,
 								["spellID"] = 197047,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 868,
+								["icon"] = 136074,
+								["isChosen"] = false,
+								["spellID"] = 197038,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 69,
@@ -271,10 +271,10 @@ RelicInspectorCharDB = {
 					}, -- [1]
 					{
 						["relic"] = {
-							"奥古雷手稿", -- [1]
-							460694, -- [2]
+							"现世碎片", -- [1]
+							429383, -- [2]
 							"Arcane", -- [3]
-							"|cffa335ee|Hitem:151006:::::::::::30:3:3397:3179:3336:::|h[奥古雷手稿]|h|r", -- [4]
+							"|cffa335ee|Hitem:147079:::::::::::43:3:3573:1497:3336:::|h[现世碎片]|h|r", -- [4]
 						},
 						["traits"] = {
 							{
@@ -290,38 +290,29 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 63,
 								["tier"] = 2,
 								["canChoose"] = false,
-								["powerID"] = 1774,
-								["icon"] = 136129,
+								["powerID"] = 1779,
+								["icon"] = 1394892,
 								["isChosen"] = false,
-								["spellID"] = 252191,
+								["spellID"] = 252888,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 63,
 								["tier"] = 2,
 								["canChoose"] = false,
-								["powerID"] = 1775,
-								["icon"] = 458412,
+								["powerID"] = 1770,
+								["icon"] = 132307,
 								["isChosen"] = false,
-								["spellID"] = 252207,
+								["spellID"] = 252088,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 72,
 								["tier"] = 3,
 								["canChoose"] = false,
-								["powerID"] = 872,
-								["icon"] = 132160,
+								["powerID"] = 874,
+								["icon"] = 132199,
 								["isChosen"] = false,
-								["spellID"] = 197139,
+								["spellID"] = 197160,
 							}, -- [4]
-							{
-								["requiredArtifactLevel"] = 72,
-								["tier"] = 3,
-								["canChoose"] = false,
-								["powerID"] = 869,
-								["icon"] = 236186,
-								["isChosen"] = false,
-								["spellID"] = 197047,
-							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 72,
 								["tier"] = 3,
@@ -330,15 +321,24 @@ RelicInspectorCharDB = {
 								["icon"] = 132127,
 								["isChosen"] = false,
 								["spellID"] = 206910,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 870,
+								["icon"] = 132176,
+								["isChosen"] = false,
+								["spellID"] = 197080,
 							}, -- [6]
 						},
 					}, -- [2]
 					{
 						["relic"] = {
-							"不屈的勇气", -- [1]
-							136088, -- [2]
+							"冥河弹匣", -- [1]
+							133710, -- [2]
 							"Iron", -- [3]
-							"|cffa335ee|Hitem:151513:::::::::::8:3:3567:1672:3528:::|h[不屈的勇气]|h|r", -- [4]
+							"|cffa335ee|Hitem:151011:::::::::::30:3:3397:3179:3336:::|h[冥河弹匣]|h|r", -- [4]
 						},
 						["traits"] = {
 							{
@@ -354,10 +354,10 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 66,
 								["tier"] = 2,
 								["canChoose"] = false,
-								["powerID"] = 1778,
-								["icon"] = 136146,
+								["powerID"] = 1780,
+								["icon"] = 615101,
 								["isChosen"] = false,
-								["spellID"] = 252875,
+								["spellID"] = 252906,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 66,
@@ -372,10 +372,10 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 75,
 								["tier"] = 3,
 								["canChoose"] = false,
-								["powerID"] = 872,
-								["icon"] = 132160,
+								["powerID"] = 873,
+								["icon"] = 132211,
 								["isChosen"] = false,
-								["spellID"] = 197139,
+								["spellID"] = 197140,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 75,
@@ -390,16 +390,16 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 75,
 								["tier"] = 3,
 								["canChoose"] = false,
-								["powerID"] = 1517,
-								["icon"] = 461114,
+								["powerID"] = 875,
+								["icon"] = 839974,
 								["isChosen"] = false,
-								["spellID"] = 238051,
+								["spellID"] = 197162,
 							}, -- [6]
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 53,
-					["timestamp"] = 293895.381,
+					["level"] = 61,
+					["timestamp"] = 1070.655,
 				},
 				[128808] = {
 					{

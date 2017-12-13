@@ -201,7 +201,7 @@ RelicInspectorCharDB = {
 						},
 					}, -- [3]
 					["level"] = 52,
-					["timestamp"] = 181307.441,
+					["timestamp"] = 1592933.069,
 					["crucibled"] = true,
 				},
 				[128402] = {
@@ -228,7 +228,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["powerID"] = 1771,
 								["icon"] = 136194,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["spellID"] = 252091,
 							}, -- [2]
 							{
@@ -292,7 +292,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["powerID"] = 1779,
 								["icon"] = 1394892,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["spellID"] = 252888,
 							}, -- [2]
 							{
@@ -398,8 +398,8 @@ RelicInspectorCharDB = {
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["timestamp"] = 181394.213,
-					["level"] = 57,
+					["timestamp"] = 1670191.115,
+					["level"] = 65,
 				},
 				[128403] = {
 					{
@@ -594,8 +594,8 @@ RelicInspectorCharDB = {
 							"|cffa335ee|Hitem:147081:::::::::::3:3:3561:1482:3528:::|h[刺鼻之饵]|h|r", -- [4]
 						},
 					}, -- [3]
-					["level"] = 52,
-					["timestamp"] = 181307.441,
+					["level"] = 55,
+					["timestamp"] = 1669014.318,
 					["crucibled"] = true,
 				},
 			},

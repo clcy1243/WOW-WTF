@@ -5,16 +5,16 @@ MEETINGSTONE_UI_DB = {
 		["龙听雨 - 主宰之剑"] = "Default",
 		["龙轻雪 - 主宰之剑"] = "Default",
 		["斯特莱夫 - 瓦拉斯塔兹"] = "Default",
-		["龙听雨 - 巨龙之吼"] = "Default",
-		["星界旅行者 - 瓦拉斯塔兹"] = "Default",
+		["倾城丨烟雨 - 摩摩尔"] = "Default",
+		["信仰丶圣光 - 摩摩尔"] = "Default",
 		["蓝箭 - 卡拉赞"] = "Default",
 		["看你洗澡 - 瓦拉斯塔兹"] = "Default",
 		["龙剑曦 - 主宰之剑"] = "Default",
 		["锦在天堂 - 天空之墙"] = "Default",
 		["徳馨 - 破碎岭"] = "Default",
 		["地狱丨灬繁花 - 摩摩尔"] = "Default",
-		["信仰丶圣光 - 摩摩尔"] = "Default",
-		["倾城丨烟雨 - 摩摩尔"] = "Default",
+		["星界旅行者 - 瓦拉斯塔兹"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["global"] = {
 		["serverDatas"] = {
@@ -22,22 +22,46 @@ MEETINGSTONE_UI_DB = {
 				["data"] = "^1^SAnnData^T^Stitle^S集合石服务器维护^Scontent^S亲爱的玩家，由于集合石硬件维护，我们会在1月5日上午5：00开始对集合石进行维护，预计维护时间24小时。期间集合石积分兑换以及集合石活动报名将无法正常使用，集合石组队系统不会受到此次维护影响。^t^^",
 				["new"] = false,
 			},
-			["ActivitiesData"] = {
-				["data"] = "$1$Z$S136`你搞活动我买单`带萌新创萨墓`9月30日（周六）20点，带萌新闯萨墓*J继上周部落萌新经历了英雄萨格拉斯之墓洗礼，这次又轮到了联盟的新兵，在热心团长的带领下，将会有什么样的冒险在等待着他们呢，让我们与活动嘉宾：熊猫TV-星小璇（房间号：277063）一起拭目以待！*J想要申请团长的小伙伴也尽快申请，一起加入我们吧！*J集合石活动QQ报名群：108885849*J集合石活动专题页面：{URL}`http://w.163.com/special/convene-stone/`1`3$$",
-			},
-			["MallData"] = {
-				["data"] = "^1^SMallData^T^S宠物#2^S2003;1000,,每周限量;49287;30157#3001;850,,每周限量;93669;47348^S消耗品#3#1^S1001;60;49288;30141;2#1001;60;49289;30518;1^S玩具#1^S3005;750,,每周限量;46780#3007;450,,每周限量;69227#4002;800,,每周限量;93672^t^^",
-			},
 			["FilterData"] = {
-				["data"] = "^1^S消费^S马云^S有偿^S![Tt][Bb]^S![Vv][Xx]^S下单^S![Ww][Xx]^S收费^S![Vv][Ii][Pp]^S付款^S代练^S某宝^S微%h*信^S包团^S老店^S价钱^S价格^S差价^S出装付^S0起^S趟%h*打^S老木反^S优惠^S上帝^S卧铺^S陪练^S低价^S直播^S降价^S维护^S座驾^S安全放心^S卧票^S无押^S看戏^S躺尸^S广告^S解锁^S休息^S各种付^S琻团^S菜价^S电视^S尸体^S效率^S飞行^S来太子^S不收押^S身尚^S天天发车^^",
+				["data"] = "^1^S有偿^S![Tt][Bb]^S![Vv][Xx]^S下单^S![Vv][Ii][Pp]^S付款^S某宝^S站桩^S代打^S陪练^S低价^S同甲^S订制^S便宜^S白菜^S超低^S可躺^S老板^S门票^S作室^S预定^S可走^S直播^S包车^S![Ww][ⅩXx]^S底薪^S差价^S另接^S散拍^S单点^S全躺^S转播^S来各系^S卧铺^S预约^S咨询^S壕大大^S上帝^S售后^S出一付一^S暗中观察^S来躺^S赠坐骑^S各职业^Spai^S上楴^S卧倒^S太子^S全送^S陪打^^",
 				["new"] = true,
 			},
+			["MallData"] = {
+				["data"] = "^1^SMallData^T^S玩具#3^S3003;600,,每周限量;72159;19939#3004;800,,每周限量;35227^S宠物#1^S2008;850,,每周限量;32588;21362^S消耗品#4#1^S1003;150,,每周限量;38233^S道具#2^S4001;420,,每周限量;54452^t^^",
+			},
+			["ActivitiesData"] = {
+				["data"] = "$1$Z$S148`你搞活动我买单`进攻！H燃烧王座（部落）`12月16日（周六）20点，进攻！H燃烧王座（部落）*J五晨寺中勤修练，道法自然除心魔，吾辈何以为战，芸芸苍生福祸相依。阿古斯的天空依旧弥漫着邪能的雾霾。*J斗鱼TV-天空OX（房间号：285047）、斗鱼TV-阿斌斌灬（房间号：1296272）与艾泽拉斯的部落勇士们已经踏上了讨伐燃烧王座的最后征途！*J集合石活动QQ交流群：603459231*J集合石活动专题页面：{URL}`http://w.163.com/special/convene-stone/`1`3$$",
+			},
 		},
-		["version"] = "70300.02",
+		["version"] = "70300.07",
 		["ActivityProfiles"] = {
 			["卡拉赞下层（史诗钥石）"] = {
 				["ItemLevel"] = 900,
 				["Summary"] = "8层来DPS",
+				["MinLevel"] = 110,
+				["MaxLevel"] = 110,
+				["PvPRating"] = 0,
+				["HonorLevel"] = 0,
+			},
+			["卡拉赞上层（史诗钥石）"] = {
+				["ItemLevel"] = 900,
+				["Summary"] = "7层来奶 dps",
+				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
+				["HonorLevel"] = 0,
+			},
+			["翡翠梦魇（史诗）"] = {
+				["ItemLevel"] = 880,
+				["Summary"] = "Ｍ翡翠全通速推来奶骑和DPS",
+				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
+				["HonorLevel"] = 0,
+			},
+			["单刷（隐藏）"] = {
+				["ItemLevel"] = 100,
+				["Summary"] = "我只是想要单刷，请不要申请",
 				["PvPRating"] = 0,
 				["MaxLevel"] = 110,
 				["MinLevel"] = 110,
@@ -46,39 +70,39 @@ MEETINGSTONE_UI_DB = {
 			["黑鸦堡垒（史诗钥石）"] = {
 				["ItemLevel"] = 0,
 				["Summary"] = "10黑鸭来奶DPS",
-				["MinLevel"] = 0,
-				["MaxLevel"] = 0,
 				["PvPRating"] = 0,
+				["MaxLevel"] = 0,
+				["MinLevel"] = 0,
 				["HonorLevel"] = 0,
 			},
 			["噬魂之喉（史诗钥石）"] = {
 				["ItemLevel"] = 880,
 				["Summary"] = "11噬魂来治疗",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
 			["Voice"] = "",
 			["风暴峡湾"] = {
 				["ItemLevel"] = 0,
 				["Summary"] = "世界BOSS",
-				["PvPRating"] = 0,
-				["MaxLevel"] = 110,
 				["MinLevel"] = 98,
+				["MaxLevel"] = 110,
+				["PvPRating"] = 0,
 				["HonorLevel"] = 0,
 			},
 			["暗夜要塞（英雄）"] = {
 				["ItemLevel"] = 900,
-				["Summary"] = "H要塞前八无小号一个半小时速刷来 N 远程 DPS",
-				["MinLevel"] = 1,
-				["MaxLevel"] = 110,
+				["Summary"] = "H后2 来人",
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 1,
 				["HonorLevel"] = 0,
 			},
-			["萨格拉斯之墓（普通）"] = {
-				["ItemLevel"] = 910,
-				["Summary"] = "PT 碾压来T奶DPS",
+			["萨格拉斯之墓（英雄）"] = {
+				["ItemLevel"] = 930,
+				["Summary"] = "进度自己看 来各种",
 				["MinLevel"] = 110,
 				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
@@ -87,14 +111,14 @@ MEETINGSTONE_UI_DB = {
 			["英灵殿（史诗钥石）"] = {
 				["ItemLevel"] = 925,
 				["Summary"] = "16英灵殿 来强力T",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
-			["守望者地窟（史诗钥石）"] = {
-				["ItemLevel"] = 870,
-				["Summary"] = "2守望来DPS奶",
+			["永夜大教堂（史诗钥石）"] = {
+				["ItemLevel"] = 900,
+				["Summary"] = "9层来人",
 				["PvPRating"] = 0,
 				["MaxLevel"] = 110,
 				["MinLevel"] = 110,
@@ -103,22 +127,22 @@ MEETINGSTONE_UI_DB = {
 			["噬魂之喉（史诗）"] = {
 				["ItemLevel"] = 860,
 				["Summary"] = "随便刷刷M本 来个奶",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
 			["突袭紫罗兰监狱（史诗）"] = {
 				["ItemLevel"] = 850,
 				["Summary"] = "帮朋友拿个钥匙",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
-			["群星庭院（史诗钥石）"] = {
-				["ItemLevel"] = 880,
-				["Summary"] = "4层群星 随便来",
+			["安托兰废土"] = {
+				["ItemLevel"] = 0,
+				["Summary"] = "首席炼金师蒙库鲁斯",
 				["PvPRating"] = 0,
 				["MaxLevel"] = 110,
 				["MinLevel"] = 110,
@@ -127,38 +151,38 @@ MEETINGSTONE_UI_DB = {
 			["世界首领（军团再临）"] = {
 				["ItemLevel"] = 0,
 				["Summary"] = "无妄之灾 卡拉米尔",
-				["PvPRating"] = 0,
-				["MaxLevel"] = 110,
 				["MinLevel"] = 1,
+				["MaxLevel"] = 110,
+				["PvPRating"] = 0,
 				["HonorLevel"] = 0,
 			},
 			["奈萨里奥的巢穴（史诗钥石）"] = {
-				["ItemLevel"] = 880,
-				["Summary"] = "8层 求车队",
+				["ItemLevel"] = 910,
+				["Summary"] = "10 低保来T奶DPS",
 				["PvPRating"] = 0,
 				["MaxLevel"] = 110,
 				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
-			["黑心林地（史诗钥石）"] = {
-				["ItemLevel"] = 910,
-				["Summary"] = "13黑心来DPS",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
+			["勇气试炼（英雄）"] = {
+				["ItemLevel"] = 885,
+				["Summary"] = "H海拉来强力人士",
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
 			["魔法回廊（史诗钥石）"] = {
-				["ItemLevel"] = 0,
-				["Summary"] = "9回廊来DPS 奶",
-				["MinLevel"] = 0,
-				["MaxLevel"] = 0,
+				["ItemLevel"] = 940,
+				["Summary"] = "16回廊来TDPS",
 				["PvPRating"] = 0,
+				["MaxLevel"] = 10,
+				["MinLevel"] = 1,
 				["HonorLevel"] = 0,
 			},
-			["单刷（隐藏）"] = {
-				["ItemLevel"] = 100,
-				["Summary"] = "我只是想要单刷，请不要申请",
+			["守望者地窟（史诗钥石）"] = {
+				["ItemLevel"] = 870,
+				["Summary"] = "2守望来DPS奶",
 				["MinLevel"] = 110,
 				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
@@ -167,14 +191,14 @@ MEETINGSTONE_UI_DB = {
 			["奈萨里奥的巢穴（史诗）"] = {
 				["ItemLevel"] = 860,
 				["Summary"] = "M速推",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
-			["勇气试炼（英雄）"] = {
-				["ItemLevel"] = 885,
-				["Summary"] = "H海拉来强力人士",
+			["群星庭院（史诗钥石）"] = {
+				["ItemLevel"] = 880,
+				["Summary"] = "4层群星 随便来",
 				["MinLevel"] = 110,
 				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
@@ -183,14 +207,14 @@ MEETINGSTONE_UI_DB = {
 			["单刷（可见）"] = {
 				["ItemLevel"] = 100,
 				["Summary"] = "我只是想要单刷，请不要申请",
-				["PvPRating"] = 0,
-				["MaxLevel"] = 110,
 				["MinLevel"] = 110,
+				["MaxLevel"] = 110,
+				["PvPRating"] = 0,
 				["HonorLevel"] = 0,
 			},
-			["艾萨拉之眼（史诗）"] = {
-				["ItemLevel"] = 830,
-				["Summary"] = "有T奶来DPS 12已打",
+			["黑心林地（史诗钥石）"] = {
+				["ItemLevel"] = 910,
+				["Summary"] = "13黑心来DPS",
 				["PvPRating"] = 0,
 				["MaxLevel"] = 110,
 				["MinLevel"] = 110,
@@ -199,65 +223,65 @@ MEETINGSTONE_UI_DB = {
 			["破碎海滩"] = {
 				["ItemLevel"] = 0,
 				["Summary"] = "马利费库斯",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
 			["黑心林地（史诗）"] = {
 				["ItemLevel"] = 830,
 				["Summary"] = "周常来DPS",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
-			["暗夜要塞（普通）"] = {
-				["ItemLevel"] = 880,
-				["Summary"] = "第一周H全通指挥 一个半小时速推来远程",
-				["MinLevel"] = 104,
+			["艾萨拉之眼（史诗）"] = {
+				["ItemLevel"] = 830,
+				["Summary"] = "有T奶来DPS 12已打",
+				["MinLevel"] = 110,
 				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
 				["HonorLevel"] = 0,
 			},
 			["艾萨拉之眼（史诗钥石）"] = {
-				["ItemLevel"] = 840,
-				["Summary"] = "2-6自强车队 望各路宝宝和大腿加盟",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
+				["ItemLevel"] = 935,
+				["Summary"] = "14来dps",
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
 			["英灵殿（史诗）"] = {
 				["ItemLevel"] = 860,
 				["Summary"] = "M英灵殿 来个ＤＰＳ",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
 			["自定义PvP"] = {
 				["ItemLevel"] = 0,
 				["Summary"] = "托尔巴拉德 两点50分来人",
-				["MinLevel"] = 0,
+				["PvPRating"] = 0,
 				["MaxLevel"] = 0,
-				["PvPRating"] = 0,
+				["MinLevel"] = 0,
 				["HonorLevel"] = 0,
 			},
-			["萨格拉斯之墓（英雄）"] = {
-				["ItemLevel"] = 925,
-				["Summary"] = "1到8  来绿灯速推",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
-				["PvPRating"] = 0,
-				["HonorLevel"] = 0,
-			},
-			["翡翠梦魇（史诗）"] = {
+			["暗夜要塞（普通）"] = {
 				["ItemLevel"] = 880,
-				["Summary"] = "Ｍ翡翠全通速推来奶骑和DPS",
-				["MinLevel"] = 110,
-				["MaxLevel"] = 110,
+				["Summary"] = "第一周H全通指挥 一个半小时速推来远程",
 				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 104,
+				["HonorLevel"] = 0,
+			},
+			["萨格拉斯之墓（普通）"] = {
+				["ItemLevel"] = 910,
+				["Summary"] = "速推来各种  新进度",
+				["PvPRating"] = 0,
+				["MaxLevel"] = 110,
+				["MinLevel"] = 110,
 				["HonorLevel"] = 0,
 			},
 		},
@@ -266,297 +290,297 @@ MEETINGSTONE_UI_DB = {
 				["text"] = "%d+元",
 			}, -- [1]
 			{
-				["pain"] = true,
 				["text"] = "+清白",
+				["pain"] = true,
 			}, -- [2]
 			{
-				["pain"] = true,
 				["text"] = "/",
+				["pain"] = true,
 			}, -- [3]
 			{
-				["pain"] = true,
 				["text"] = "/1坑",
+				["pain"] = true,
 			}, -- [4]
 			{
-				["pain"] = true,
 				["text"] = "/45",
+				["pain"] = true,
 			}, -- [5]
 			{
-				["pain"] = true,
 				["text"] = "/位",
+				["pain"] = true,
 			}, -- [6]
 			{
-				["pain"] = true,
 				["text"] = "/坑",
+				["pain"] = true,
 			}, -- [7]
 			{
-				["pain"] = true,
 				["text"] = "/把",
+				["pain"] = true,
 			}, -- [8]
 			{
-				["pain"] = true,
 				["text"] = "/波",
+				["pain"] = true,
 			}, -- [9]
 			{
-				["pain"] = true,
 				["text"] = "0/人",
+				["pain"] = true,
 			}, -- [10]
 			{
-				["pain"] = true,
 				["text"] = "0/位",
+				["pain"] = true,
 			}, -- [11]
 			{
-				["pain"] = true,
 				["text"] = "0/坑",
+				["pain"] = true,
 			}, -- [12]
 			{
-				["pain"] = true,
 				["text"] = "0一坑",
+				["pain"] = true,
 			}, -- [13]
 			{
-				["pain"] = true,
 				["text"] = "0押金",
+				["pain"] = true,
 			}, -- [14]
 			{
-				["pain"] = true,
 				["text"] = "100",
+				["pain"] = true,
 			}, -- [15]
 			{
-				["pain"] = true,
 				["text"] = "100-110",
+				["pain"] = true,
 			}, -- [16]
 			{
-				["pain"] = true,
 				["text"] = "100起",
+				["pain"] = true,
 			}, -- [17]
 			{
-				["pain"] = true,
 				["text"] = "10y",
+				["pain"] = true,
 			}, -- [18]
 			{
-				["pain"] = true,
 				["text"] = "10起",
+				["pain"] = true,
 			}, -- [19]
 			{
-				["pain"] = true,
 				["text"] = "180",
+				["pain"] = true,
 			}, -- [20]
 			{
-				["pain"] = true,
 				["text"] = "188",
+				["pain"] = true,
 			}, -- [21]
 			{
-				["pain"] = true,
 				["text"] = "1oo",
+				["pain"] = true,
 			}, -- [22]
 			{
-				["pain"] = true,
 				["text"] = "1оо",
+				["pain"] = true,
 			}, -- [23]
 			{
-				["pain"] = true,
 				["text"] = "1位",
+				["pain"] = true,
 			}, -- [24]
 			{
-				["pain"] = true,
 				["text"] = "20",
+				["pain"] = true,
 			}, -- [25]
 			{
-				["pain"] = true,
 				["text"] = "20/个",
+				["pain"] = true,
 			}, -- [26]
 			{
-				["pain"] = true,
 				["text"] = "200",
+				["pain"] = true,
 			}, -- [27]
 			{
-				["pain"] = true,
 				["text"] = "20起",
+				["pain"] = true,
 			}, -- [28]
 			{
-				["pain"] = true,
 				["text"] = "30",
+				["pain"] = true,
 			}, -- [29]
 			{
-				["pain"] = true,
 				["text"] = "45",
+				["pain"] = true,
 			}, -- [30]
 			{
-				["pain"] = true,
 				["text"] = "4tuo 1",
+				["pain"] = true,
 			}, -- [31]
 			{
-				["pain"] = true,
 				["text"] = "4养1",
+				["pain"] = true,
 			}, -- [32]
 			{
-				["pain"] = true,
 				["text"] = "4带1",
+				["pain"] = true,
 			}, -- [33]
 			{
-				["pain"] = true,
 				["text"] = "50",
+				["pain"] = true,
 			}, -- [34]
 			{
-				["pain"] = true,
 				["text"] = "50起",
+				["pain"] = true,
 			}, -- [35]
 			{
-				["pain"] = true,
 				["text"] = "5173",
+				["pain"] = true,
 			}, -- [36]
 			{
-				["pain"] = true,
 				["text"] = "60",
+				["pain"] = true,
 			}, -- [37]
 			{
-				["pain"] = true,
 				["text"] = "6o",
+				["pain"] = true,
 			}, -- [38]
 			{
-				["pain"] = true,
 				["text"] = "70",
+				["pain"] = true,
 			}, -- [39]
 			{
-				["pain"] = true,
 				["text"] = "70狗蛋",
+				["pain"] = true,
 			}, -- [40]
 			{
-				["pain"] = true,
 				["text"] = "7o",
+				["pain"] = true,
 			}, -- [41]
 			{
-				["pain"] = true,
 				["text"] = "8 o",
+				["pain"] = true,
 			}, -- [42]
 			{
-				["pain"] = true,
 				["text"] = "80",
+				["pain"] = true,
 			}, -- [43]
 			{
-				["pain"] = true,
 				["text"] = "8o",
+				["pain"] = true,
 			}, -- [44]
 			{
-				["pain"] = true,
 				["text"] = "9.9",
+				["pain"] = true,
 			}, -- [45]
 			{
-				["pain"] = true,
 				["text"] = "[",
+				["pain"] = true,
 			}, -- [46]
 			{
-				["pain"] = true,
 				["text"] = "ak坐骑",
+				["pain"] = true,
 			}, -- [47]
 			{
-				["pain"] = true,
 				["text"] = "ban",
+				["pain"] = true,
 			}, -- [48]
 			{
-				["pain"] = true,
 				["text"] = "bao",
+				["pain"] = true,
 			}, -- [49]
 			{
-				["pain"] = true,
 				["text"] = "boss",
+				["pain"] = true,
 			}, -- [50]
 			{
-				["pain"] = true,
 				["text"] = "ceo",
+				["pain"] = true,
 			}, -- [51]
 			{
-				["pain"] = true,
 				["text"] = "dou",
+				["pain"] = true,
 			}, -- [52]
 			{
-				["pain"] = true,
 				["text"] = "fei",
+				["pain"] = true,
 			}, -- [53]
 			{
 				["text"] = "g.*团",
 			}, -- [54]
 			{
-				["text"] = "g团",
 				["pain"] = true,
+				["text"] = "g团",
 			}, -- [55]
 			{
-				["pain"] = true,
 				["text"] = "i o",
+				["pain"] = true,
 			}, -- [56]
 			{
-				["pain"] = true,
 				["text"] = "i-",
+				["pain"] = true,
 			}, -- [57]
 			{
-				["pain"] = true,
 				["text"] = "klz",
+				["pain"] = true,
 			}, -- [58]
 			{
-				["pain"] = true,
 				["text"] = "lai",
+				["pain"] = true,
 			}, -- [59]
 			{
-				["pain"] = true,
 				["text"] = "lao",
+				["pain"] = true,
 			}, -- [60]
 			{
-				["pain"] = true,
 				["text"] = "lap",
+				["pain"] = true,
 			}, -- [61]
 			{
-				["pain"] = true,
 				["text"] = "loo",
+				["pain"] = true,
 			}, -- [62]
 			{
-				["pain"] = true,
 				["text"] = "matei",
+				["pain"] = true,
 			}, -- [63]
 			{
-				["pain"] = true,
 				["text"] = "matri",
+				["pain"] = true,
 			}, -- [64]
 			{
-				["pain"] = true,
 				["text"] = "men",
+				["pain"] = true,
 			}, -- [65]
 			{
-				["pain"] = true,
 				["text"] = "qms",
+				["pain"] = true,
 			}, -- [66]
 			{
-				["pain"] = true,
 				["text"] = "r0il",
+				["pain"] = true,
 			}, -- [67]
 			{
-				["pain"] = true,
 				["text"] = "t b",
+				["pain"] = true,
 			}, -- [68]
 			{
-				["pain"] = true,
 				["text"] = "t v",
+				["pain"] = true,
 			}, -- [69]
 			{
 				["text"] = "t.*b",
 			}, -- [70]
 			{
-				["pain"] = true,
 				["text"] = "tao",
+				["pain"] = true,
 			}, -- [71]
 			{
 				["text"] = "tao.*bao",
 			}, -- [72]
 			{
-				["pain"] = true,
 				["text"] = "tb",
+				["pain"] = true,
 			}, -- [73]
 			{
-				["pain"] = true,
 				["text"] = "tv",
+				["pain"] = true,
 			}, -- [74]
 			{
-				["pain"] = true,
 				["text"] = "v信",
+				["pain"] = true,
 			}, -- [75]
 			{
 				["text"] = "w.*x",
@@ -565,408 +589,408 @@ MEETINGSTONE_UI_DB = {
 				["text"] = "x.*宝",
 			}, -- [77]
 			{
-				["pain"] = true,
 				["text"] = "x鱼",
+				["pain"] = true,
 			}, -- [78]
 			{
-				["pain"] = true,
 				["text"] = "you",
+				["pain"] = true,
 			}, -- [79]
 			{
-				["pain"] = true,
 				["text"] = "zfd",
+				["pain"] = true,
 			}, -- [80]
 			{
-				["pain"] = true,
 				["text"] = "zls",
+				["pain"] = true,
 			}, -- [81]
 			{
-				["pain"] = true,
 				["text"] = "《",
+				["pain"] = true,
 			}, -- [82]
 			{
-				["pain"] = true,
 				["text"] = "ろ",
+				["pain"] = true,
 			}, -- [83]
 			{
-				["pain"] = true,
 				["text"] = "一亿",
+				["pain"] = true,
 			}, -- [84]
 			{
-				["pain"] = true,
 				["text"] = "一位",
+				["pain"] = true,
 			}, -- [85]
 			{
-				["pain"] = true,
 				["text"] = "一坑",
+				["pain"] = true,
 			}, -- [86]
 			{
-				["pain"] = true,
 				["text"] = "一律",
+				["pain"] = true,
 			}, -- [87]
 			{
-				["pain"] = true,
 				["text"] = "七事圆",
+				["pain"] = true,
 			}, -- [88]
 			{
-				["text"] = "上帝",
 				["pain"] = true,
+				["text"] = "上帝",
 			}, -- [89]
 			{
-				["pain"] = true,
 				["text"] = "下单",
+				["pain"] = true,
 			}, -- [90]
 			{
-				["pain"] = true,
 				["text"] = "下周",
+				["pain"] = true,
 			}, -- [91]
 			{
-				["pain"] = true,
 				["text"] = "不排队",
+				["pain"] = true,
 			}, -- [92]
 			{
-				["pain"] = true,
 				["text"] = "专车",
+				["pain"] = true,
 			}, -- [93]
 			{
-				["pain"] = true,
 				["text"] = "丨o o",
+				["pain"] = true,
 			}, -- [94]
 			{
 				["text"] = "乐.*舞",
 			}, -- [95]
 			{
-				["pain"] = true,
 				["text"] = "买",
+				["pain"] = true,
 			}, -- [96]
 			{
-				["pain"] = true,
 				["text"] = "五十",
+				["pain"] = true,
 			}, -- [97]
 			{
-				["pain"] = true,
 				["text"] = "交易",
+				["pain"] = true,
 			}, -- [98]
 			{
-				["pain"] = true,
 				["text"] = "人在",
+				["pain"] = true,
 			}, -- [99]
 			{
-				["pain"] = true,
 				["text"] = "亻",
+				["pain"] = true,
 			}, -- [100]
 			{
-				["pain"] = true,
 				["text"] = "今日",
+				["pain"] = true,
 			}, -- [101]
 			{
-				["pain"] = true,
 				["text"] = "付",
+				["pain"] = true,
 			}, -- [102]
 			{
 				["text"] = "代.*刷",
 			}, -- [103]
 			{
-				["pain"] = true,
 				["text"] = "价",
+				["pain"] = true,
 			}, -- [104]
 			{
-				["pain"] = true,
 				["text"] = "价格",
+				["pain"] = true,
 			}, -- [105]
 			{
-				["pain"] = true,
 				["text"] = "优惠",
+				["pain"] = true,
 			}, -- [106]
 			{
-				["pain"] = true,
 				["text"] = "位",
+				["pain"] = true,
 			}, -- [107]
 			{
-				["text"] = "低价",
 				["pain"] = true,
+				["text"] = "低价",
 			}, -- [108]
 			{
-				["pain"] = true,
 				["text"] = "作室",
+				["pain"] = true,
 			}, -- [109]
 			{
-				["pain"] = true,
 				["text"] = "俏费",
+				["pain"] = true,
 			}, -- [110]
 			{
-				["pain"] = true,
 				["text"] = "個",
+				["pain"] = true,
 			}, -- [111]
 			{
-				["pain"] = true,
 				["text"] = "個朲",
+				["pain"] = true,
 			}, -- [112]
 			{
-				["pain"] = true,
 				["text"] = "傚",
+				["pain"] = true,
 			}, -- [113]
 			{
-				["pain"] = true,
 				["text"] = "免费",
+				["pain"] = true,
 			}, -- [114]
 			{
-				["pain"] = true,
 				["text"] = "全网",
+				["pain"] = true,
 			}, -- [115]
 			{
-				["pain"] = true,
 				["text"] = "八零",
+				["pain"] = true,
 			}, -- [116]
 			{
-				["pain"] = true,
 				["text"] = "公道",
+				["pain"] = true,
 			}, -- [117]
 			{
-				["pain"] = true,
 				["text"] = "兼营",
+				["pain"] = true,
 			}, -- [118]
 			{
-				["pain"] = true,
 				["text"] = "内销",
+				["pain"] = true,
 			}, -- [119]
 			{
-				["pain"] = true,
 				["text"] = "军团",
+				["pain"] = true,
 			}, -- [120]
 			{
-				["pain"] = true,
 				["text"] = "出受",
+				["pain"] = true,
 			}, -- [121]
 			{
-				["pain"] = true,
 				["text"] = "加q",
+				["pain"] = true,
 			}, -- [122]
 			{
-				["pain"] = true,
 				["text"] = "包出",
+				["pain"] = true,
 			}, -- [123]
 			{
-				["pain"] = true,
 				["text"] = "包团",
+				["pain"] = true,
 			}, -- [124]
 			{
-				["pain"] = true,
 				["text"] = "包套装",
+				["pain"] = true,
 			}, -- [125]
 			{
-				["pain"] = true,
 				["text"] = "包拿",
+				["pain"] = true,
 			}, -- [126]
 			{
-				["pain"] = true,
 				["text"] = "卖",
+				["pain"] = true,
 			}, -- [127]
 			{
-				["pain"] = true,
 				["text"] = "卧铺",
+				["pain"] = true,
 			}, -- [128]
 			{
-				["pain"] = true,
 				["text"] = "友尝",
+				["pain"] = true,
 			}, -- [129]
 			{
-				["pain"] = true,
 				["text"] = "双 飛",
+				["pain"] = true,
 			}, -- [130]
 			{
-				["pain"] = true,
 				["text"] = "双开",
+				["pain"] = true,
 			}, -- [131]
 			{
-				["pain"] = true,
 				["text"] = "双飛",
+				["pain"] = true,
 			}, -- [132]
 			{
-				["pain"] = true,
 				["text"] = "双飞",
+				["pain"] = true,
 			}, -- [133]
 			{
-				["pain"] = true,
 				["text"] = "可乐",
+				["pain"] = true,
 			}, -- [134]
 			{
-				["pain"] = true,
 				["text"] = "可包",
+				["pain"] = true,
 			}, -- [135]
 			{
-				["pain"] = true,
 				["text"] = "可散",
+				["pain"] = true,
 			}, -- [136]
 			{
-				["pain"] = true,
 				["text"] = "可躺",
+				["pain"] = true,
 			}, -- [137]
 			{
-				["pain"] = true,
 				["text"] = "各种需求",
+				["pain"] = true,
 			}, -- [138]
 			{
-				["pain"] = true,
 				["text"] = "各系",
+				["pain"] = true,
 			}, -- [139]
 			{
-				["pain"] = true,
 				["text"] = "名人",
+				["pain"] = true,
 			}, -- [140]
 			{
-				["pain"] = true,
 				["text"] = "咨询",
+				["pain"] = true,
 			}, -- [141]
 			{
-				["pain"] = true,
 				["text"] = "品牌",
+				["pain"] = true,
 			}, -- [142]
 			{
-				["pain"] = true,
 				["text"] = "哏",
+				["pain"] = true,
 			}, -- [143]
 			{
-				["pain"] = true,
 				["text"] = "哒",
+				["pain"] = true,
 			}, -- [144]
 			{
-				["pain"] = true,
 				["text"] = "哒tuan",
+				["pain"] = true,
 			}, -- [145]
 			{
-				["pain"] = true,
 				["text"] = "哒团",
+				["pain"] = true,
 			}, -- [146]
 			{
-				["pain"] = true,
 				["text"] = "售",
+				["pain"] = true,
 			}, -- [147]
 			{
-				["pain"] = true,
 				["text"] = "嗰人",
+				["pain"] = true,
 			}, -- [148]
 			{
-				["pain"] = true,
 				["text"] = "嚎",
+				["pain"] = true,
 			}, -- [149]
 			{
-				["text"] = "土豪",
 				["pain"] = true,
+				["text"] = "土豪",
 			}, -- [150]
 			{
-				["pain"] = true,
 				["text"] = "地板",
+				["pain"] = true,
 			}, -- [151]
 			{
-				["pain"] = true,
 				["text"] = "填坑",
+				["pain"] = true,
 			}, -- [152]
 			{
-				["pain"] = true,
 				["text"] = "壕",
+				["pain"] = true,
 			}, -- [153]
 			{
-				["pain"] = true,
 				["text"] = "外观",
+				["pain"] = true,
 			}, -- [154]
 			{
-				["pain"] = true,
 				["text"] = "外观解锁",
+				["pain"] = true,
 			}, -- [155]
 			{
-				["pain"] = true,
 				["text"] = "威望",
+				["pain"] = true,
 			}, -- [156]
 			{
-				["pain"] = true,
 				["text"] = "娜娜",
+				["pain"] = true,
 			}, -- [157]
 			{
-				["pain"] = true,
 				["text"] = "媊",
+				["pain"] = true,
 			}, -- [158]
 			{
-				["pain"] = true,
 				["text"] = "安全",
+				["pain"] = true,
 			}, -- [159]
 			{
-				["pain"] = true,
 				["text"] = "小白",
+				["pain"] = true,
 			}, -- [160]
 			{
-				["pain"] = true,
 				["text"] = "尸",
+				["pain"] = true,
 			}, -- [161]
 			{
 				["text"] = "工.*作",
 			}, -- [162]
 			{
-				["pain"] = true,
 				["text"] = "工作室",
+				["pain"] = true,
 			}, -- [163]
 			{
-				["pain"] = true,
 				["text"] = "布皮板",
+				["pain"] = true,
 			}, -- [164]
 			{
-				["pain"] = true,
 				["text"] = "带您",
+				["pain"] = true,
 			}, -- [165]
 			{
-				["pain"] = true,
 				["text"] = "帮摸装备",
+				["pain"] = true,
 			}, -- [166]
 			{
-				["pain"] = true,
 				["text"] = "幤",
+				["pain"] = true,
 			}, -- [167]
 			{
-				["pain"] = true,
 				["text"] = "平台",
+				["pain"] = true,
 			}, -- [168]
 			{
-				["pain"] = true,
 				["text"] = "强制",
+				["pain"] = true,
 			}, -- [169]
 			{
-				["pain"] = true,
 				["text"] = "归宿",
+				["pain"] = true,
 			}, -- [170]
 			{
-				["pain"] = true,
 				["text"] = "待遇",
+				["pain"] = true,
 			}, -- [171]
 			{
-				["pain"] = true,
 				["text"] = "後贰",
+				["pain"] = true,
 			}, -- [172]
 			{
 				["text"] = "微.*信",
 			}, -- [173]
 			{
-				["pain"] = true,
 				["text"] = "微姓",
+				["pain"] = true,
 			}, -- [174]
 			{
-				["pain"] = true,
 				["text"] = "必出",
+				["pain"] = true,
 			}, -- [175]
 			{
-				["pain"] = true,
 				["text"] = "快速提升",
+				["pain"] = true,
 			}, -- [176]
 			{
-				["pain"] = true,
 				["text"] = "成就",
+				["pain"] = true,
 			}, -- [177]
 			{
-				["pain"] = true,
 				["text"] = "战猎萨",
+				["pain"] = true,
 			}, -- [178]
 			{
-				["pain"] = true,
 				["text"] = "戦",
+				["pain"] = true,
 			}, -- [179]
 			{
 				["text"] = "手.*工",
@@ -975,95 +999,95 @@ MEETINGSTONE_UI_DB = {
 				["text"] = "打.*工",
 			}, -- [181]
 			{
-				["pain"] = true,
 				["text"] = "打工",
+				["pain"] = true,
 			}, -- [182]
 			{
-				["pain"] = true,
 				["text"] = "抛单",
+				["pain"] = true,
 			}, -- [183]
 			{
-				["pain"] = true,
 				["text"] = "抱团",
+				["pain"] = true,
 			}, -- [184]
 			{
-				["pain"] = true,
 				["text"] = "拖",
+				["pain"] = true,
 			}, -- [185]
 			{
-				["pain"] = true,
 				["text"] = "招募",
+				["pain"] = true,
 			}, -- [186]
 			{
-				["pain"] = true,
 				["text"] = "拭",
+				["pain"] = true,
 			}, -- [187]
 			{
-				["pain"] = true,
 				["text"] = "拼",
+				["pain"] = true,
 			}, -- [188]
 			{
-				["pain"] = true,
 				["text"] = "拼车",
+				["pain"] = true,
 			}, -- [189]
 			{
-				["pain"] = true,
 				["text"] = "指哪打哪",
+				["pain"] = true,
 			}, -- [190]
 			{
-				["pain"] = true,
 				["text"] = "指定",
+				["pain"] = true,
 			}, -- [191]
 			{
-				["pain"] = true,
 				["text"] = "捻",
+				["pain"] = true,
 			}, -- [192]
 			{
-				["pain"] = true,
 				["text"] = "排队",
+				["pain"] = true,
 			}, -- [193]
 			{
-				["pain"] = true,
 				["text"] = "接",
+				["pain"] = true,
 			}, -- [194]
 			{
-				["pain"] = true,
 				["text"] = "摸奖",
+				["pain"] = true,
 			}, -- [195]
 			{
 				["text"] = "支.*付.*宝",
 			}, -- [196]
 			{
-				["pain"] = true,
 				["text"] = "支持",
+				["pain"] = true,
 			}, -- [197]
 			{
-				["pain"] = true,
 				["text"] = "收费",
+				["pain"] = true,
 			}, -- [198]
 			{
-				["pain"] = true,
 				["text"] = "散p",
+				["pain"] = true,
 			}, -- [199]
 			{
-				["pain"] = true,
 				["text"] = "散买",
+				["pain"] = true,
 			}, -- [200]
 			{
-				["pain"] = true,
 				["text"] = "散件",
+				["pain"] = true,
 			}, -- [201]
 			{
-				["pain"] = true,
 				["text"] = "散卖",
+				["pain"] = true,
 			}, -- [202]
 			{
-				["pain"] = true,
 				["text"] = "散拍",
+				["pain"] = true,
 			}, -- [203]
 			{
-				["pain"] = true,
 				["text"] = "散需",
+				["pain"] = true,
 			}, -- [204]
 			{
 				["text"] = "斗.*鱼",
@@ -1072,197 +1096,197 @@ MEETINGSTONE_UI_DB = {
 				["text"] = "无.*竞.*争",
 			}, -- [206]
 			{
-				["pain"] = true,
 				["text"] = "无竞",
+				["pain"] = true,
 			}, -- [207]
 			{
-				["pain"] = true,
 				["text"] = "晴天",
+				["pain"] = true,
 			}, -- [208]
 			{
-				["pain"] = true,
 				["text"] = "最低",
+				["pain"] = true,
 			}, -- [209]
 			{
-				["pain"] = true,
 				["text"] = "有 偿",
+				["pain"] = true,
 			}, -- [210]
 			{
-				["pain"] = true,
 				["text"] = "有偿",
+				["pain"] = true,
 			}, -- [211]
 			{
-				["pain"] = true,
 				["text"] = "有尝",
+				["pain"] = true,
 			}, -- [212]
 			{
-				["pain"] = true,
 				["text"] = "服务",
+				["pain"] = true,
 			}, -- [213]
 			{
-				["pain"] = true,
 				["text"] = "木反",
+				["pain"] = true,
 			}, -- [214]
 			{
-				["pain"] = true,
 				["text"] = "机票",
+				["pain"] = true,
 			}, -- [215]
 			{
-				["pain"] = true,
 				["text"] = "来包",
+				["pain"] = true,
 			}, -- [216]
 			{
-				["pain"] = true,
 				["text"] = "来金客",
+				["pain"] = true,
 			}, -- [217]
 			{
-				["pain"] = true,
 				["text"] = "果儿",
+				["pain"] = true,
 			}, -- [218]
 			{
-				["pain"] = true,
 				["text"] = "根打",
+				["pain"] = true,
 			}, -- [219]
 			{
-				["pain"] = true,
 				["text"] = "梵天",
+				["pain"] = true,
 			}, -- [220]
 			{
-				["pain"] = true,
 				["text"] = "款",
+				["pain"] = true,
 			}, -- [221]
 			{
-				["pain"] = true,
 				["text"] = "每坑",
+				["pain"] = true,
 			}, -- [222]
 			{
-				["pain"] = true,
 				["text"] = "每天",
+				["pain"] = true,
 			}, -- [223]
 			{
-				["pain"] = true,
 				["text"] = "毕业",
+				["pain"] = true,
 			}, -- [224]
 			{
 				["text"] = "消.*费",
 			}, -- [225]
 			{
-				["pain"] = true,
 				["text"] = "消灬费",
+				["pain"] = true,
 			}, -- [226]
 			{
-				["pain"] = true,
 				["text"] = "消费",
+				["pain"] = true,
 			}, -- [227]
 			{
-				["pain"] = true,
 				["text"] = "消非",
+				["pain"] = true,
 			}, -- [228]
 			{
-				["pain"] = true,
 				["text"] = "淌",
+				["pain"] = true,
 			}, -- [229]
 			{
 				["text"] = "淘.*宝",
 			}, -- [230]
 			{
-				["pain"] = true,
 				["text"] = "满掉落",
+				["pain"] = true,
 			}, -- [231]
 			{
-				["pain"] = true,
 				["text"] = "满荣誉威望",
+				["pain"] = true,
 			}, -- [232]
 			{
-				["pain"] = true,
 				["text"] = "滴滴",
+				["pain"] = true,
 			}, -- [233]
 			{
-				["pain"] = true,
 				["text"] = "灵魂兽",
+				["pain"] = true,
 			}, -- [234]
 			{
 				["text"] = "熊.*猫",
 			}, -- [235]
 			{
-				["pain"] = true,
 				["text"] = "特价",
+				["pain"] = true,
 			}, -- [236]
 			{
-				["pain"] = true,
 				["text"] = "现在就打",
+				["pain"] = true,
 			}, -- [237]
 			{
-				["pain"] = true,
 				["text"] = "现票",
+				["pain"] = true,
 			}, -- [238]
 			{
-				["pain"] = true,
 				["text"] = "电影",
+				["pain"] = true,
 			}, -- [239]
 			{
-				["pain"] = true,
 				["text"] = "电影票",
+				["pain"] = true,
 			}, -- [240]
 			{
-				["pain"] = true,
 				["text"] = "电视",
+				["pain"] = true,
 			}, -- [241]
 			{
-				["pain"] = true,
 				["text"] = "疯猪",
+				["pain"] = true,
 			}, -- [242]
 			{
-				["pain"] = true,
 				["text"] = "白钥匙",
+				["pain"] = true,
 			}, -- [243]
 			{
-				["pain"] = true,
 				["text"] = "直播",
+				["pain"] = true,
 			}, -- [244]
 			{
-				["pain"] = true,
 				["text"] = "看戏",
+				["pain"] = true,
 			}, -- [245]
 			{
-				["pain"] = true,
 				["text"] = "睡",
+				["pain"] = true,
 			}, -- [246]
 			{
-				["pain"] = true,
 				["text"] = "票",
+				["pain"] = true,
 			}, -- [247]
 			{
-				["pain"] = true,
 				["text"] = "票团",
+				["pain"] = true,
 			}, -- [248]
 			{
-				["pain"] = true,
 				["text"] = "私聊",
+				["pain"] = true,
 			}, -- [249]
 			{
-				["pain"] = true,
 				["text"] = "竞争",
+				["pain"] = true,
 			}, -- [250]
 			{
-				["pain"] = true,
 				["text"] = "等你拿",
+				["pain"] = true,
 			}, -- [251]
 			{
-				["pain"] = true,
 				["text"] = "红包",
+				["pain"] = true,
 			}, -- [252]
 			{
-				["pain"] = true,
 				["text"] = "纯手动",
+				["pain"] = true,
 			}, -- [253]
 			{
-				["pain"] = true,
 				["text"] = "线下",
+				["pain"] = true,
 			}, -- [254]
 			{
-				["pain"] = true,
 				["text"] = "绝版",
+				["pain"] = true,
 			}, -- [255]
 			{
 				["text"] = "老.*扳",
@@ -1271,247 +1295,247 @@ MEETINGSTONE_UI_DB = {
 				["text"] = "老.*板",
 			}, -- [257]
 			{
-				["pain"] = true,
 				["text"] = "老丶班",
+				["pain"] = true,
 			}, -- [258]
 			{
-				["pain"] = true,
 				["text"] = "老字号",
+				["pain"] = true,
 			}, -- [259]
 			{
-				["pain"] = true,
 				["text"] = "老板",
+				["pain"] = true,
 			}, -- [260]
 			{
-				["pain"] = true,
 				["text"] = "老版",
+				["pain"] = true,
 			}, -- [261]
 			{
-				["pain"] = true,
 				["text"] = "老鬼",
+				["pain"] = true,
 			}, -- [262]
 			{
-				["pain"] = true,
 				["text"] = "肖",
+				["pain"] = true,
 			}, -- [263]
 			{
-				["pain"] = true,
 				["text"] = "自己上号",
+				["pain"] = true,
 			}, -- [264]
 			{
-				["pain"] = true,
 				["text"] = "自己摸",
+				["pain"] = true,
 			}, -- [265]
 			{
-				["pain"] = true,
 				["text"] = "荣誉",
+				["pain"] = true,
 			}, -- [266]
 			{
-				["pain"] = true,
 				["text"] = "莱",
+				["pain"] = true,
 			}, -- [267]
 			{
-				["pain"] = true,
 				["text"] = "蝴蝶",
+				["pain"] = true,
 			}, -- [268]
 			{
-				["pain"] = true,
 				["text"] = "覌",
+				["pain"] = true,
 			}, -- [269]
 			{
-				["pain"] = true,
 				["text"] = "观",
+				["pain"] = true,
 			}, -- [270]
 			{
-				["pain"] = true,
 				["text"] = "询价",
+				["pain"] = true,
 			}, -- [271]
 			{
-				["pain"] = true,
 				["text"] = "详谈",
+				["pain"] = true,
 			}, -- [272]
 			{
-				["pain"] = true,
 				["text"] = "豪",
+				["pain"] = true,
 			}, -- [273]
 			{
 				["text"] = "财.*迷",
 			}, -- [274]
 			{
-				["pain"] = true,
 				["text"] = "财迷",
+				["pain"] = true,
 			}, -- [275]
 			{
-				["pain"] = true,
 				["text"] = "账号",
+				["pain"] = true,
 			}, -- [276]
 			{
-				["pain"] = true,
 				["text"] = "费用",
+				["pain"] = true,
 			}, -- [277]
 			{
-				["pain"] = true,
 				["text"] = "起",
+				["pain"] = true,
 			}, -- [278]
 			{
-				["pain"] = true,
 				["text"] = "跟",
+				["pain"] = true,
 			}, -- [279]
 			{
-				["pain"] = true,
 				["text"] = "躺",
+				["pain"] = true,
 			}, -- [280]
 			{
 				["text"] = "躺.*尸",
 			}, -- [281]
 			{
-				["pain"] = true,
 				["text"] = "躺尸",
+				["pain"] = true,
 			}, -- [282]
 			{
-				["pain"] = true,
 				["text"] = "躺着",
+				["pain"] = true,
 			}, -- [283]
 			{
-				["pain"] = true,
 				["text"] = "软卧",
+				["pain"] = true,
 			}, -- [284]
 			{
-				["pain"] = true,
 				["text"] = "软铺",
+				["pain"] = true,
 			}, -- [285]
 			{
-				["pain"] = true,
 				["text"] = "达官贵人",
+				["pain"] = true,
 			}, -- [286]
 			{
-				["pain"] = true,
 				["text"] = "进大团",
+				["pain"] = true,
 			}, -- [287]
 			{
-				["pain"] = true,
 				["text"] = "邮费",
+				["pain"] = true,
 			}, -- [288]
 			{
-				["pain"] = true,
 				["text"] = "酬宾",
+				["pain"] = true,
 			}, -- [289]
 			{
 				["text"] = "金.*团",
 			}, -- [290]
 			{
-				["pain"] = true,
 				["text"] = "金团",
+				["pain"] = true,
 			}, -- [291]
 			{
-				["pain"] = true,
 				["text"] = "金錢",
+				["pain"] = true,
 			}, -- [292]
 			{
-				["pain"] = true,
 				["text"] = "金钱",
+				["pain"] = true,
 			}, -- [293]
 			{
-				["pain"] = true,
 				["text"] = "长期有效",
+				["pain"] = true,
 			}, -- [294]
 			{
-				["pain"] = true,
 				["text"] = "門票",
+				["pain"] = true,
 			}, -- [295]
 			{
 				["text"] = "门.*票",
 			}, -- [296]
 			{
-				["pain"] = true,
 				["text"] = "门嘌",
+				["pain"] = true,
 			}, -- [297]
 			{
-				["pain"] = true,
 				["text"] = "门票",
+				["pain"] = true,
 			}, -- [298]
 			{
-				["pain"] = true,
 				["text"] = "门缥",
+				["pain"] = true,
 			}, -- [299]
 			{
-				["pain"] = true,
 				["text"] = "随便买",
+				["pain"] = true,
 			}, -- [300]
 			{
-				["pain"] = true,
 				["text"] = "需求",
+				["pain"] = true,
 			}, -- [301]
 			{
-				["pain"] = true,
 				["text"] = "需求的",
+				["pain"] = true,
 			}, -- [302]
 			{
-				["pain"] = true,
 				["text"] = "需要",
+				["pain"] = true,
 			}, -- [303]
 			{
-				["pain"] = true,
 				["text"] = "青山",
+				["pain"] = true,
 			}, -- [304]
 			{
-				["pain"] = true,
 				["text"] = "靣",
+				["pain"] = true,
 			}, -- [305]
 			{
-				["pain"] = true,
 				["text"] = "项羽",
+				["pain"] = true,
 			}, -- [306]
 			{
-				["pain"] = true,
 				["text"] = "顾客",
+				["pain"] = true,
 			}, -- [307]
 			{
-				["pain"] = true,
 				["text"] = "预定",
+				["pain"] = true,
 			}, -- [308]
 			{
-				["pain"] = true,
 				["text"] = "预约",
+				["pain"] = true,
 			}, -- [309]
 			{
-				["pain"] = true,
 				["text"] = "饭团",
+				["pain"] = true,
 			}, -- [310]
 			{
-				["pain"] = true,
 				["text"] = "饰品",
+				["pain"] = true,
 			}, -- [311]
 			{
-				["pain"] = true,
 				["text"] = "馬仧開",
+				["pain"] = true,
 			}, -- [312]
 			{
 				["text"] = "马.*云",
 			}, -- [313]
 			{
-				["text"] = "马云",
 				["pain"] = true,
+				["text"] = "马云",
 			}, -- [314]
 			{
-				["pain"] = true,
 				["text"] = "骑术牧",
+				["pain"] = true,
 			}, -- [315]
 			{
-				["pain"] = true,
 				["text"] = "骑牧术",
+				["pain"] = true,
 			}, -- [316]
 			{
-				["pain"] = true,
 				["text"] = "鷄",
+				["pain"] = true,
 			}, -- [317]
 			{
-				["pain"] = true,
 				["text"] = "！.*0",
+				["pain"] = true,
 			}, -- [318]
 			{
-				["pain"] = true,
 				["text"] = "￥",
+				["pain"] = true,
 			}, -- [319]
 			["default"] = true,
 		},

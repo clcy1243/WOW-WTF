@@ -4,9 +4,6 @@ RSADB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
-	["global"] = {
-		["version"] = "3.2752",
-	},
 	["profileKeys"] = {
 		["Justpalymage - 太阳之井"] = "Justpalymage - 太阳之井",
 		["倾城丨小贼 - 摩摩尔"] = "倾城丨小贼 - 摩摩尔",
@@ -15,11 +12,14 @@ RSADB = {
 		["妹子你坑我 - 太阳之井"] = "妹子你坑我 - 太阳之井",
 		["募落葒顔 - 太阳之井"] = "募落葒顔 - 太阳之井",
 	},
+	["global"] = {
+		["version"] = "3.2752",
+	},
 	["profiles"] = {
 		["Justpalymage - 太阳之井"] = {
 			["General"] = {
-				["Race"] = "BloodElf",
 				["Class"] = "MAGE",
+				["Race"] = "BloodElf",
 			},
 			["Modules"] = {
 				["Mage"] = true,
@@ -27,8 +27,8 @@ RSADB = {
 		},
 		["倾城丨小贼 - 摩摩尔"] = {
 			["General"] = {
-				["Race"] = "Scourge",
 				["Class"] = "ROGUE",
+				["Race"] = "Scourge",
 			},
 			["Modules"] = {
 				["Rogue"] = true,
@@ -36,8 +36,8 @@ RSADB = {
 		},
 		["国王走下神探 - 瓦拉斯塔兹"] = {
 			["General"] = {
-				["Race"] = "Scourge",
 				["Class"] = "WARLOCK",
+				["Race"] = "Scourge",
 			},
 			["Modules"] = {
 				["Warlock"] = true,
@@ -45,8 +45,8 @@ RSADB = {
 		},
 		["Willam - 能源舰"] = {
 			["General"] = {
-				["Race"] = "Troll",
 				["Class"] = "HUNTER",
+				["Race"] = "Troll",
 			},
 			["Modules"] = {
 				["Hunter"] = true,
@@ -54,20 +54,20 @@ RSADB = {
 		},
 		["妹子你坑我 - 太阳之井"] = {
 			["General"] = {
-				["Race"] = "Goblin",
 				["Class"] = "DEATHKNIGHT",
+				["Race"] = "Goblin",
 			},
 			["Modules"] = {
 				["DeathKnight"] = true,
 			},
 		},
 		["募落葒顔 - 太阳之井"] = {
+			["General"] = {
+				["Race"] = "BloodElf",
+				["Class"] = "PRIEST",
+			},
 			["Modules"] = {
 				["Priest"] = true,
-			},
-			["General"] = {
-				["Class"] = "PRIEST",
-				["Race"] = "BloodElf",
 			},
 			["Priest"] = {
 				["Spells"] = {
@@ -77,13 +77,8 @@ RSADB = {
 					["DispelMagic"] = {
 						["SmartGroup"] = false,
 					},
-					["BodyAndSoul"] = {
-						["Whisper"] = false,
-					},
-					["MassRess"] = {
+					["Resurrection"] = {
 						["SmartGroup"] = false,
-					},
-					["LeapOfFaith"] = {
 						["Whisper"] = false,
 					},
 					["PowerInfusion"] = {
@@ -93,8 +88,13 @@ RSADB = {
 					["PowerWordBarrier"] = {
 						["SmartGroup"] = true,
 					},
-					["Resurrection"] = {
+					["BodyAndSoul"] = {
+						["Whisper"] = false,
+					},
+					["MassRess"] = {
 						["SmartGroup"] = false,
+					},
+					["LeapOfFaith"] = {
 						["Whisper"] = false,
 					},
 				},
