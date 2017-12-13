@@ -1,2 +1,0 @@
-HHTD: disabled
-ConsolePort: disabled
