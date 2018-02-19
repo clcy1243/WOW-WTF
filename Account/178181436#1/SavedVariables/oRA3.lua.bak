@@ -16,28 +16,6 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
-			["global"] = {
-				["spellsOnCooldown"] = {
-					[633] = {
-						["Player-1955-01B07F7A"] = 6813.312,
-					},
-					[642] = {
-						["Player-1955-01B07F7A"] = 6343.656,
-					},
-					[31935] = {
-						["Player-1955-01B07F7A"] = 6236.894,
-					},
-					[22812] = {
-						["Player-1955-01B843ED"] = 6244.533,
-					},
-					[31884] = {
-						["Player-1955-01B07F7A"] = 6326.105,
-					},
-				},
-				["lastTime"] = 6231.226,
-				["chargeSpellsOnCooldown"] = {
-				},
-			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {

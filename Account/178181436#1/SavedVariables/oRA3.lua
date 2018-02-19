@@ -19,7 +19,7 @@ oRA3DB = {
 			["global"] = {
 				["spellsOnCooldown"] = {
 				},
-				["lastTime"] = 10009.581,
+				["lastTime"] = 317057.933,
 				["chargeSpellsOnCooldown"] = {
 				},
 			},

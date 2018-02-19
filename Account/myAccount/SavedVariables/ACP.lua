@@ -2,6 +2,8 @@
 ACP_Data = {
 	["sorter"] = "按名称分组",
 	["NoRecurse"] = false,
+	["NoChildren"] = true,
+	["scale"] = 0.688744521389045,
 	["AddonSet"] = {
 		{
 			"_NPCScan.Overlay", -- [1]
@@ -484,8 +486,6 @@ ACP_Data = {
 			["name"] = "raid",
 		}, -- [2]
 	},
-	["scale"] = 0.688744521389045,
-	["NoChildren"] = true,
 	["collapsed"] = {
 		["RSA"] = true,
 		["GladiatorlosSA"] = true,
@@ -504,7 +504,6 @@ ACP_Data = {
 		["GarrisonMissionManager"] = true,
 		["MogIt"] = true,
 		["MikScrollingBattleText"] = true,
-		["TidyPlates"] = true,
 		["RaidAchievement"] = true,
 	},
 	["ProtectedAddons"] = {

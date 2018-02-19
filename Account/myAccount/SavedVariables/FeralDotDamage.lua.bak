@@ -19,8 +19,6 @@ FeralDotDamageDB = {
 	},
 	["AleaGUI_enablePerSpecProfile"] = false,
 	["profiles"] = {
-		["龙听雨 - 主宰之剑"] = {
-		},
 		["锦在天堂 - 太阳之井"] = {
 		},
 		["Default"] = {
@@ -82,6 +80,8 @@ FeralDotDamageDB = {
 				["minimapPos"] = 4.45972462337262,
 				["hide"] = false,
 			},
+		},
+		["龙听雨 - 主宰之剑"] = {
 		},
 		["龙听雨 - 巨龙之吼"] = {
 		},

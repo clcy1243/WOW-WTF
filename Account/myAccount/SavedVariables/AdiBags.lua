@@ -112,8 +112,8 @@ AdiBagsDB = {
 			["virtualStacks"] = {
 				["freeSpace"] = false,
 			},
-			["scale"] = 0.9,
-			["maxHeight"] = 0.8,
+			["scale"] = 1.1,
+			["maxHeight"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = -97.2498779296875,
@@ -128,7 +128,7 @@ AdiBagsDB = {
 				["ItemSets"] = false,
 			},
 			["columnWidth"] = {
-				["Backpack"] = 12,
+				["Backpack"] = 20,
 				["Bank"] = 20,
 			},
 			["rightClickConfig"] = false,

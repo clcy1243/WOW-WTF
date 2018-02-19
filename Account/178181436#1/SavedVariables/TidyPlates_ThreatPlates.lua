@@ -19,8 +19,11 @@ ThreatPlatesDB = {
 		},
 	},
 	["global"] = {
+		["StandalonePopup"] = true,
+		["version"] = "8.6.1",
 		["CheckNewLookAndFeel"] = true,
-		["version"] = "8.5.5",
+		["MigrationLog"] = {
+		},
 	},
 	["profileKeys"] = {
 		["龙轻雪 - 主宰之剑"] = "Default",

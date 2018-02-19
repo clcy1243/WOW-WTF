@@ -53,21 +53,21 @@ TotalArtifactPowerCache = {
 	},
 	["龙听雨 - 巨龙之吼"] = {
 		{
-			["thisLevelUnspentAP"] = 94460921900,
+			["thisLevelUnspentAP"] = 60110450950,
 			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 74,
+			["numTraitsPurchased"] = 75,
 			["isIgnored"] = false,
 		}, -- [1]
 		{
-			["thisLevelUnspentAP"] = 2909881205,
+			["thisLevelUnspentAP"] = 23280515505,
 			["isIgnored"] = false,
-			["numTraitsPurchased"] = 67,
+			["numTraitsPurchased"] = 75,
 			["artifactTier"] = 2,
 		}, -- [2]
 		{
-			["thisLevelUnspentAP"] = 17429875,
+			["thisLevelUnspentAP"] = 364315425,
 			["isIgnored"] = false,
-			["numTraitsPurchased"] = 54,
+			["numTraitsPurchased"] = 65,
 			["artifactTier"] = 2,
 		}, -- [3]
 	},

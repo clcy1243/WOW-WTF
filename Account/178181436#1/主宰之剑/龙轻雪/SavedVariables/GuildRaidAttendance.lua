@@ -5,7 +5,11 @@ GRA_Roster = {
 }
 GRA_Config = {
 	["sortKey"] = "name",
-	["useEPGP"] = false,
+	["notes"] = {
+		"BiS", -- [1]
+		"4p", -- [2]
+		"2p", -- [3]
+	},
 	["columns"] = {
 		["AR_60"] = false,
 		["AR_90"] = false,
@@ -24,10 +28,19 @@ GRA_Config = {
 		["days"] = {
 			5, -- [1]
 		},
+		["system"] = "",
 	},
 	["minimap"] = {
 		["hide"] = false,
 	},
+	["useEPGP"] = false,
+	["replies"] = {
+		"configure", -- [1]
+		"your", -- [2]
+		"buttons", -- [3]
+	},
+	["startDate"] = "20171200",
+	["minimalMode"] = false,
 	["classFilter"] = {
 		["HUNTER"] = true,
 		["WARRIOR"] = true,
@@ -42,20 +55,30 @@ GRA_Config = {
 		["MONK"] = true,
 		["PALADIN"] = true,
 	},
-	["minimalMode"] = false,
-	["startDate"] = "20171200",
-	["replies"] = {
-		"configure", -- [1]
-		"your", -- [2]
-		"buttons", -- [3]
-	},
-	["notes"] = {
-		"BiS", -- [1]
-		"4p", -- [2]
-		"2p", -- [3]
-	},
 	["firstRun"] = true,
 }
 GRA_Variables = {
+	["sortKey"] = "name",
+	["columns"] = {
+		["AR_60"] = false,
+		["AR_90"] = false,
+		["AR_30"] = false,
+		["AR_Lifetime"] = false,
+	},
+	["minimalMode"] = false,
 	["useAccountProfile"] = false,
+	["classFilter"] = {
+		["HUNTER"] = true,
+		["WARRIOR"] = true,
+		["SHAMAN"] = true,
+		["MAGE"] = true,
+		["PRIEST"] = true,
+		["ROGUE"] = true,
+		["WARLOCK"] = true,
+		["DEMONHUNTER"] = true,
+		["DEATHKNIGHT"] = true,
+		["DRUID"] = true,
+		["MONK"] = true,
+		["PALADIN"] = true,
+	},
 }

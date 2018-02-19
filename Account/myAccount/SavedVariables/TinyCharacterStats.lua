@@ -2411,6 +2411,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
+		{
+			["statKey"] = "SPEED",
+		}, -- [33]
 		["uniqueKey"] = "龙听雨:巨龙之吼:3",
 	},
 	["龙剑曦:主宰之剑:3"] = {
@@ -2614,6 +2617,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
+		{
+			["statKey"] = "SPEED",
+		}, -- [33]
 		["uniqueKey"] = "龙听雨:巨龙之吼:2",
 	},
 	["倾城丨猫爷:太阳之井:2"] = {
@@ -3116,6 +3122,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
+		{
+			["statKey"] = "SPEED",
+		}, -- [33]
 		["uniqueKey"] = "龙听雨:巨龙之吼:1",
 	},
 }

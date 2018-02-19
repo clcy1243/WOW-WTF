@@ -10,6 +10,7 @@ GRA_A_Variables = {
 		["minimapPos"] = 197.23514129949,
 		["hide"] = false,
 	},
-	["helpViewed"] = false,
 	["size"] = "normal",
+	["helpViewed"] = false,
+	["scaleFactor"] = 1,
 }

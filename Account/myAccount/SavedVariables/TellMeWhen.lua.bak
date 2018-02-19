@@ -1,6 +1,6 @@
 
 TellMeWhenDB = {
-	["Version"] = 84201,
+	["Version"] = 84305,
 	["profileKeys"] = {
 		["倾城丨猫爷 - 太阳之井"] = "倾城丨猫爷 - 太阳之井",
 		["龙听雨 - 主宰之剑"] = "龙听雨 - 主宰之剑",
@@ -122,6 +122,7 @@ TellMeWhenDB = {
 		},
 		["龙听雨 - 主宰之剑"] = {
 			["Locked"] = true,
+			["NumGroups"] = 2,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1OS8knAxTvDZ",
@@ -1100,10 +1101,9 @@ TellMeWhenDB = {
 				}, -- [2]
 			},
 			["Version"] = 84201,
-			["NumGroups"] = 2,
 		},
 		["龙听雨 - 巨龙之吼"] = {
-			["Version"] = 84201,
+			["Version"] = 84305,
 			["NumGroups"] = 2,
 			["Groups"] = {
 				{

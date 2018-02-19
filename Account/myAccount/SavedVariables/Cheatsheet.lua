@@ -11,5 +11,6 @@ cheatsheetDB = {
 	["positionX"] = "1",
 	["favouritePage"] = "1",
 	["highlightList"] = {
+		126892, -- [1]
 	},
 }

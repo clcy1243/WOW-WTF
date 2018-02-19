@@ -27,10 +27,10 @@ GSEOptions = {
 	["STRING"] = "|cff888888",
 	["UseVerboseFormat"] = true,
 	["filterList"] = {
-		["Spec"] = true,
 		["Class"] = true,
-		["Global"] = true,
 		["All"] = false,
+		["Global"] = true,
+		["Spec"] = true,
 	},
 	["use12"] = false,
 	["TitleColour"] = "|cFFFF0000",
@@ -257,9 +257,7 @@ GSELibrary = {
 			["Talents"] = "3,2,1,3,1,1,2",
 			["Help"] = "Talents are 3213112",
 			["StepFunction"] = "Priority",
-			["Author"] = "Rocktris",
 			["SpecID"] = 263,
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast Stormstrike", -- [1]
@@ -281,6 +279,8 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["Author"] = "Rocktris",
 		},
 	},
 	[9] = {
@@ -288,9 +288,7 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/demonology-synergy/",
 			["Talents"] = "3,1,?,1,?,2,2",
 			["Help"] = "Single Target - Run at 80ms or manually",
-			["Author"] = "Exlynn@Perenolde",
 			["SpecID"] = 266,
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/castsequence [nochanneling] Demonbolt, Call Dreadstalkers, Demonic Empowerment, Life Tap", -- [1]
@@ -316,14 +314,14 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["Author"] = "Exlynn@Perenolde",
 		},
 		["HP_EX_Aff_ST_Haste"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/affliction-conduit-7-1-5/",
 			["Talents"] = "3,2,?,1,?,1,3",
 			["Help"] = "Single Target - Run at 80ms, 100ms, or manually - Requires 20% haste or higher",
-			["Author"] = "Exlynn@Perenolde with help from Belthozar@Pozzo dell’Eternità",
 			["SpecID"] = 265,
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/castsequence [nochanneling] Agony, Siphon Life, Drain Soul, Life Tap, Agony", -- [1]
@@ -347,14 +345,14 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["Author"] = "Exlynn@Perenolde with help from Belthozar@Pozzo dell’Eternità",
 		},
 		["HP_EX_Aff_ST"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/affliction-conduit-7-1-5/",
 			["Talents"] = "3,2,?,1,?,1,3",
 			["Help"] = "Single Target - Run at 80ms, 100ms, or manually - Use if less than 20% haste",
-			["Author"] = "Exlynn@Perenolde with help from Belthozar@Pozzo dell’Eternità",
 			["SpecID"] = 265,
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/castsequence [nochanneling] Agony, Siphon Life, Drain Soul, Life Tap, Agony", -- [1]
@@ -400,6 +398,8 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
+			["Default"] = 1,
+			["Author"] = "Exlynn@Perenolde with help from Belthozar@Pozzo dell’Eternità",
 		},
 		["HP_EX_Demo_AoE"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/demonology-synergy/",
@@ -435,9 +435,7 @@ GSELibrary = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/affliction-conduit-7-1-5/",
 			["Talents"] = "3,1,?,1,?,1,3",
 			["Help"] = "AoE - Run at 80ms or manually",
-			["Author"] = "Exlynn@Perenolde",
 			["SpecID"] = 265,
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/castsequence Seed of Corruption, Seed of Corruption, Seed of Corruption, Agony, Life Tap", -- [1]
@@ -481,6 +479,8 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
+			["Default"] = 1,
+			["Author"] = "Exlynn@Perenolde",
 		},
 	},
 	[5] = {
@@ -580,9 +580,7 @@ GSELibrary = {
 		["HP_BM1"] = {
 			["Talents"] = "3,2,2,2,3,2,1",
 			["Help"] = "With Barrage - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -608,13 +606,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_lookdead"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Look Dead - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Feign Death", -- [1]
@@ -643,13 +641,13 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_SBMmain"] = {
 			["Talents"] = "3,2,1,2,3,3,3",
 			["Help"] = "Solo main - Talent: 3212333",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -676,13 +674,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_BMburst"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "BMAoE - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -707,6 +705,8 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_TBMAOE"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/max-artifact-with-mantle-of-command-and-the-apex-predators-claw/",
@@ -805,9 +805,7 @@ GSELibrary = {
 			["Talents"] = "3,2,1,2,2,3,3",
 			["Help"] = "Raiding AoE - Talent: 3212233",
 			["StepFunction"] = "Priority",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -835,13 +833,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_SAoE"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Raiding AoE - Talent: 3212233",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -867,13 +865,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_Healpet"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Pet Heal - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir-Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [@pet,dead]Revive Pet", -- [1]
@@ -904,13 +902,13 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_2RBMAoE"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "2nd Raiding AoE with Barrage- Talent: 3212223",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -937,13 +935,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_2RSBM"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "2nd Raiding Single without Barrage- Talent: 3212223",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -970,13 +968,13 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_RBMmain"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Raiding main With Barrage- Talent: 3212223",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -1004,6 +1002,8 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_TBMmain"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/max-artifact-with-mantle-of-command-and-the-apex-predators-claw/",
@@ -1098,9 +1098,7 @@ GSELibrary = {
 		["HP_OShit"] = {
 			["Talents"] = "3,2,1,2,2,2,3",
 			["Help"] = "Oh Shit - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast Aspect of the Turtle", -- [1]
@@ -1136,13 +1134,13 @@ GSELibrary = {
 					},
 				}, -- [2]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 		["HP_BM2"] = {
 			["Talents"] = "3,2,2,2,3,2,1",
 			["Help"] = "Without Barrage - Talent: 3222321",
-			["SpecID"] = 253,
 			["Author"] = "Sir_Ewing",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bestial Wrath", -- [1]
@@ -1170,6 +1168,8 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 253,
 		},
 	},
 	[6] = {
@@ -1239,9 +1239,7 @@ GSELibrary = {
 			["Talents"] = "2,1,1,2,1,3,3",
 			["Help"] = "Talents: 2112133",
 			["StepFunction"] = "Priority",
-			["SpecID"] = 250,
 			["Author"] = "Suiseiseki",
-			["Default"] = 1,
 			["MacroVersions"] = {
 				{
 					"/cast [combat] Consumption", -- [1]
@@ -1265,6 +1263,8 @@ GSELibrary = {
 					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
+			["Default"] = 1,
+			["SpecID"] = 250,
 		},
 		["HP_EX_Unholy_ApocCS"] = {
 			["Helplink"] = "https://wowlazymacros.com/forums/topic/unholy-soul-reaper-7-1-5/",
@@ -1366,6 +1366,9 @@ GSELibrary = {
 		["DH_Havoc"] = {
 			["Talents"] = "2213311",
 			["Default"] = 1,
+			["Author"] = "Will",
+			["SpecID"] = 577,
+			["Icon"] = "",
 			["MacroVersions"] = {
 				{
 					"/cast [nochanneling] Bladedance", -- [1]
@@ -1391,9 +1394,6 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
-			["Author"] = "Will",
-			["Icon"] = "",
-			["SpecID"] = 577,
 		},
 		["邪刃飞刀"] = {
 			["Talents"] = "2223311",
@@ -1472,9 +1472,9 @@ GSELibrary = {
 					},
 					["PostMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
+					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
 			["Author"] = "TimothyLuke",
@@ -1482,7 +1482,6 @@ GSELibrary = {
 		["SAM_druid_bala_st"] = {
 			["Talents"] = "3,3,3,3,1,3,2",
 			["Help"] = "CTRL Blessing of the Ancients, Shift Celestial Alignment, Alt Solar Beam",
-			["Author"] = "someone",
 			["MacroVersions"] = {
 				{
 					"/castsequence reset=target Sunfire,null", -- [1]
@@ -1512,8 +1511,9 @@ GSELibrary = {
 					},
 				}, -- [1]
 			},
-			["Default"] = 1,
 			["SpecID"] = 102,
+			["Default"] = 1,
+			["Author"] = "someone",
 		},
 		["SAM_Bear"] = {
 			["Talents"] = "2,3,3,1,1,1,1",
@@ -1593,9 +1593,9 @@ GSELibrary = {
 					},
 					["PostMacro"] = {
 					},
-					["StepFunciton"] = "Sequential",
 					["PreMacro"] = {
 					},
+					["StepFunciton"] = "Sequential",
 				}, -- [1]
 			},
 			["Author"] = "KTN",

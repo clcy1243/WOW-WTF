@@ -1,20 +1,15 @@
 
 dbOHC = {
 	["char"] = {
-		["锦在天堂 - 太阳之井"] = {
+		["龙听雨 - 主宰之剑"] = {
 			["firstun"] = false,
 		},
-		["龙听雨 - 主宰之剑"] = {
+		["锦在天堂 - 太阳之井"] = {
 			["firstun"] = false,
 		},
 		["龙听雨 - 巨龙之吼"] = {
 			["firstun"] = false,
 		},
-	},
-	["profileKeys"] = {
-		["锦在天堂 - 太阳之井"] = "Default",
-		["龙听雨 - 主宰之剑"] = "Default",
-		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["global"] = {
 		["warn01_seen"] = 0,
@@ -22,6 +17,11 @@ dbOHC = {
 		["news"] = {
 		},
 		["warn02_seen"] = 0,
+	},
+	["profileKeys"] = {
+		["龙听雨 - 主宰之剑"] = "Default",
+		["锦在天堂 - 太阳之井"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -45,15 +45,15 @@ dbOHC = {
 				["PREFERHIGH"] = false,
 				["NOTROOPS"] = false,
 				["MAKEITQUICK"] = true,
-				["TROOPALERT"] = true,
 				["MAXCHAMP"] = 3,
+				["TROOPALERT"] = true,
 				["IGNOREBUSY"] = true,
 				["BASECHANCE"] = 0,
 			},
+			["showmenu"] = true,
 			["blacklist"] = {
 				[1699] = true,
 			},
-			["showmenu"] = true,
 		},
 	},
 }

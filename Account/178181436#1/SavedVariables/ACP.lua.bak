@@ -22,7 +22,6 @@ ACP_Data = {
 		["MogIt"] = true,
 		["Skada"] = true,
 		["MikScrollingBattleText"] = true,
-		["TidyPlates"] = true,
 		["RaidAchievement"] = true,
 	},
 	["ProtectedAddons"] = {

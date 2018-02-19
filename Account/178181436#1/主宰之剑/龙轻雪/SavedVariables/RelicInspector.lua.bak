@@ -202,7 +202,7 @@ RelicInspectorCharDB = {
 					}, -- [3]
 					["crucibled"] = true,
 					["level"] = 61,
-					["timestamp"] = 589.8,
+					["timestamp"] = 645100.743,
 				},
 				[128821] = {
 					{
@@ -399,7 +399,7 @@ RelicInspectorCharDB = {
 					}, -- [3]
 					["crucibled"] = true,
 					["level"] = 67,
-					["timestamp"] = 3884.589,
+					["timestamp"] = 645178.337,
 				},
 				[128858] = {
 					{
@@ -596,7 +596,7 @@ RelicInspectorCharDB = {
 					}, -- [3]
 					["crucibled"] = true,
 					["level"] = 61,
-					["timestamp"] = 589.8,
+					["timestamp"] = 645100.743,
 				},
 				[128306] = {
 					{
@@ -614,53 +614,53 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 60,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1779,
-								["isChosen"] = true,
-								["icon"] = 1394892,
-								["spellID"] = 252888,
+								["powerID"] = 1774,
+								["isChosen"] = false,
+								["icon"] = 136129,
+								["spellID"] = 252191,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 60,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1770,
-								["isChosen"] = false,
-								["icon"] = 132307,
-								["spellID"] = 252088,
+								["powerID"] = 1777,
+								["isChosen"] = true,
+								["icon"] = 460953,
+								["spellID"] = 252799,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 69,
 								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 137,
-								["isChosen"] = true,
-								["icon"] = 136096,
-								["spellID"] = 186396,
+								["powerID"] = 135,
+								["isChosen"] = false,
+								["icon"] = 134914,
+								["spellID"] = 189749,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 69,
 								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 132,
+								["powerID"] = 137,
 								["isChosen"] = false,
-								["icon"] = 134222,
-								["spellID"] = 189760,
+								["icon"] = 136096,
+								["spellID"] = 186396,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 69,
 								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 134,
-								["isChosen"] = false,
-								["icon"] = 572025,
-								["spellID"] = 189754,
+								["powerID"] = 130,
+								["isChosen"] = true,
+								["icon"] = 236160,
+								["spellID"] = 189772,
 							}, -- [6]
 						},
 						["relic"] = {
-							"孢子群落幼芽", -- [1]
-							464030, -- [2]
+							"生命幻象", -- [1]
+							1113436, -- [2]
 							"Life", -- [3]
-							"|cffa335ee|Hitem:152052:::::::::::3:3:3610:1472:3528:::|h[孢子群落幼芽]|h|r", -- [4]
+							"|cffa335ee|Hitem:152051:::::::::::5:3:3611:1502:3337:::|h[生命幻象]|h|r", -- [4]
 						},
 					}, -- [1]
 					{
@@ -697,7 +697,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["tier"] = 3,
 								["powerID"] = 137,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["icon"] = 136096,
 								["spellID"] = 186396,
 							}, -- [4]
@@ -751,19 +751,19 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 66,
 								["canChoose"] = false,
 								["tier"] = 2,
-								["powerID"] = 1770,
+								["powerID"] = 1777,
 								["isChosen"] = true,
-								["icon"] = 132307,
-								["spellID"] = 252088,
+								["icon"] = 460953,
+								["spellID"] = 252799,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 75,
 								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 133,
+								["powerID"] = 131,
 								["isChosen"] = false,
-								["icon"] = 236153,
-								["spellID"] = 189757,
+								["icon"] = 236155,
+								["spellID"] = 189768,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 75,
@@ -778,22 +778,22 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 75,
 								["canChoose"] = false,
 								["tier"] = 3,
-								["powerID"] = 135,
+								["powerID"] = 130,
 								["isChosen"] = false,
-								["icon"] = 134914,
-								["spellID"] = 189749,
+								["icon"] = 236160,
+								["spellID"] = 189772,
 							}, -- [6]
 						},
 						["relic"] = {
-							"保存完好的苹果", -- [1]
-							133975, -- [2]
+							"动物分析器", -- [1]
+							1405804, -- [2]
 							"Life", -- [3]
-							"|cffa335ee|Hitem:142189:::::::::::16:3:3418:1532:3528:::|h[保存完好的苹果]|h|r", -- [4]
+							"|cffa335ee|Hitem:142309:::::::::::16:3:3536:1562:3336:::|h[动物分析器]|h|r", -- [4]
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 72,
-					["timestamp"] = 5072.43,
+					["level"] = 73,
+					["timestamp"] = 645236.649,
 				},
 			},
 		},

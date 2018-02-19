@@ -197,9 +197,6 @@ PawnCommon = {
 				["倾城丨烟雨-摩摩尔"] = {
 					["Visible"] = true,
 				},
-				["龙轻雪-主宰之剑"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ff7d0a",
 			["LocalizedName"] = "德鲁伊: 恢复",
@@ -398,6 +395,9 @@ PawnCommon = {
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = 132115,
 			["PerCharacterOptions"] = {
+				["龙轻雪-主宰之剑"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ff7d0a",
 			["ClassID"] = 11,

@@ -1,6 +1,6 @@
 
 TellMeWhenDB = {
-	["Version"] = 84201,
+	["Version"] = 84305,
 	["profileKeys"] = {
 		["倾城丨猫爷 - 太阳之井"] = "倾城丨猫爷 - 太阳之井",
 		["龙听雨 - 主宰之剑"] = "龙听雨 - 主宰之剑",
@@ -122,6 +122,7 @@ TellMeWhenDB = {
 		},
 		["龙听雨 - 主宰之剑"] = {
 			["Locked"] = true,
+			["Version"] = 84201,
 			["NumGroups"] = 2,
 			["Groups"] = {
 				{
@@ -1100,7 +1101,6 @@ TellMeWhenDB = {
 					["OnlyInCombat"] = true,
 				}, -- [2]
 			},
-			["Version"] = 84201,
 		},
 		["倾城丨烟雨 - 摩摩尔"] = {
 			["Locked"] = true,
@@ -6875,7 +6875,7 @@ TellMeWhenDB = {
 				}, -- [2]
 			},
 			["NumGroups"] = 2,
-			["Version"] = 84201,
+			["Version"] = 84305,
 			["Locked"] = true,
 		},
 	},

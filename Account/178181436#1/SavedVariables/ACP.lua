@@ -21,7 +21,6 @@ ACP_Data = {
 		["GarrisonMissionManager"] = true,
 		["MogIt"] = true,
 		["Skada"] = true,
-		["TidyPlates"] = true,
 		["MikScrollingBattleText"] = true,
 		["RaidAchievement"] = true,
 	},

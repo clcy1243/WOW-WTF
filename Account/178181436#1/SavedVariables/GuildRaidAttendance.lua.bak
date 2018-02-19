@@ -6,6 +6,7 @@ GRA_A_Roster = {
 GRA_A_Config = {
 }
 GRA_A_Variables = {
+	["scaleFactor"] = 1,
 	["size"] = "normal",
 	["helpViewed"] = false,
 	["minimap"] = {

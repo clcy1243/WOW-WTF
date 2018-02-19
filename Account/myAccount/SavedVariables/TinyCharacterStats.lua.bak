@@ -403,6 +403,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
+		{
+			["statKey"] = "SPEED",
+		}, -- [33]
 		["uniqueKey"] = "龙听雨:巨龙之吼:1",
 	},
 	["看你洗澡:瓦拉斯塔兹:3"] = {
@@ -2615,6 +2618,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
+		{
+			["statKey"] = "SPEED",
+		}, -- [33]
 		["uniqueKey"] = "龙听雨:巨龙之吼:2",
 	},
 	["斯特莱夫:瓦拉斯塔兹:3"] = {

@@ -4,6 +4,11 @@ AdiBagsDB = {
 		["军团再临"] = {
 		},
 		["ItemLevel"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colorScheme"] = "none",
+				},
+			},
 		},
 		["MoneyFrame"] = {
 		},

@@ -19,7 +19,7 @@ TipTac_Config = {
 	["classification_rareelite"] = "+%s|r (Rare) ",
 	["anchorWorldUnitType"] = "mouse",
 	["if_showItemLevelAndId"] = true,
-	["targetYouText"] = "<<YOU>>",
+	["classification_normal"] = "%s ",
 	["hideUFTipsInCombat"] = true,
 	["top"] = 125.999816894531,
 	["classification_minus"] = "-%s ",
@@ -27,6 +27,6 @@ TipTac_Config = {
 	["if_showQuestLevelAndId"] = true,
 	["if_showIcon"] = false,
 	["showGuildRank"] = true,
+	["targetYouText"] = "<<YOU>>",
 	["mouseOffsetY"] = -40,
-	["classification_normal"] = "%s ",
 }

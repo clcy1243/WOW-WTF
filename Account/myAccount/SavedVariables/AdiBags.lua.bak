@@ -114,9 +114,9 @@ AdiBagsDB = {
 			},
 			["columnWidth"] = {
 				["Bank"] = 20,
-				["Backpack"] = 12,
+				["Backpack"] = 20,
 			},
-			["maxHeight"] = 0.8,
+			["maxHeight"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = -97.2498779296875,
@@ -130,7 +130,7 @@ AdiBagsDB = {
 			["filters"] = {
 				["ItemSets"] = false,
 			},
-			["scale"] = 0.9,
+			["scale"] = 1.1,
 			["hideAnchor"] = true,
 			["autoDeposit"] = true,
 			["rightClickConfig"] = false,

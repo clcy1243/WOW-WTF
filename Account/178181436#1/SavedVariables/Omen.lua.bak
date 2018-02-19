@@ -46,7 +46,7 @@ Omen3DB = {
 			["PositionH"] = 116.500045776367,
 			["VGrip2"] = 94.3000247421284,
 			["PositionY"] = 489.976257324219,
-			["Shown"] = true,
+			["Shown"] = false,
 			["MinimapIcon"] = {
 				["minimapPos"] = 149.153406891088,
 			},

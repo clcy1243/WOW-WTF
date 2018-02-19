@@ -210,8 +210,8 @@ MSBTProfiles_SavedVars = {
 				["PET_OUTGOING_IMMUNE"] = {
 					["scrollArea"] = "Incoming",
 				},
-				["NOTIFICATION_CP_FULL"] = {
-					["disabled"] = true,
+				["PET_OUTGOING_DODGE"] = {
+					["scrollArea"] = "Incoming",
 				},
 				["PET_OUTGOING_SPELL_DODGE"] = {
 					["scrollArea"] = "Incoming",
@@ -231,8 +231,8 @@ MSBTProfiles_SavedVars = {
 				["INCOMING_SPELL_DODGE"] = {
 					["disabled"] = true,
 				},
-				["PET_OUTGOING_DODGE"] = {
-					["scrollArea"] = "Incoming",
+				["PET_INCOMING_SPELL_RESIST"] = {
+					["disabled"] = true,
 				},
 				["INCOMING_SPELL_INTERRUPT"] = {
 					["disabled"] = true,
@@ -303,7 +303,7 @@ MSBTProfiles_SavedVars = {
 				["NOTIFICATION_DEBUFF_STACK"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_SPELL_RESIST"] = {
+				["NOTIFICATION_CP_FULL"] = {
 					["disabled"] = true,
 				},
 				["NOTIFICATION_BUFF"] = {
@@ -360,23 +360,8 @@ MSBTProfiles_SavedVars = {
 			},
 			["enableBlizzardHealing"] = true,
 			["scrollAreas"] = {
-				["Outgoing"] = {
-					["direction"] = "Up",
-					["stickyBehavior"] = "MSBT_NORMAL",
-					["stickyDirection"] = "Up",
-					["behavior"] = "MSBT_NORMAL",
-					["offsetX"] = 330,
-					["name"] = "Right",
-					["iconAlign"] = "Left",
-					["offsetY"] = -60,
-					["animationStyle"] = "Straight",
-					["stickyAnimationStyle"] = "Static",
-				},
 				["Static"] = {
 					["name"] = "Bottom",
-				},
-				["Notification"] = {
-					["name"] = "Top",
 				},
 				["Incoming"] = {
 					["direction"] = "Up",
@@ -387,6 +372,21 @@ MSBTProfiles_SavedVars = {
 					["offsetX"] = -330,
 					["name"] = "Left",
 					["iconAlign"] = "Right",
+					["offsetY"] = -60,
+					["animationStyle"] = "Straight",
+					["stickyAnimationStyle"] = "Static",
+				},
+				["Notification"] = {
+					["name"] = "Top",
+				},
+				["Outgoing"] = {
+					["direction"] = "Up",
+					["stickyBehavior"] = "MSBT_NORMAL",
+					["stickyDirection"] = "Up",
+					["behavior"] = "MSBT_NORMAL",
+					["offsetX"] = 330,
+					["name"] = "Right",
+					["iconAlign"] = "Left",
 					["offsetY"] = -60,
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",
@@ -723,19 +723,6 @@ MSBTProfiles_SavedVars = {
 			["enableBlizzardHealing"] = true,
 			["enableBlizzardDamage"] = true,
 			["scrollAreas"] = {
-				["Incoming"] = {
-					["direction"] = "Up",
-					["behavior"] = "MSBT_NORMAL",
-					["stickyBehavior"] = "MSBT_NORMAL",
-					["stickyDirection"] = "Up",
-					["scrollHeight"] = 120,
-					["name"] = "Left",
-					["offsetX"] = -330,
-					["iconAlign"] = "Right",
-					["offsetY"] = -60,
-					["animationStyle"] = "Straight",
-					["stickyAnimationStyle"] = "Static",
-				},
 				["Outgoing"] = {
 					["direction"] = "Up",
 					["stickyBehavior"] = "MSBT_NORMAL",
@@ -748,11 +735,24 @@ MSBTProfiles_SavedVars = {
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",
 				},
+				["Static"] = {
+					["name"] = "Bottom",
+				},
 				["Notification"] = {
 					["name"] = "Top",
 				},
-				["Static"] = {
-					["name"] = "Bottom",
+				["Incoming"] = {
+					["direction"] = "Up",
+					["behavior"] = "MSBT_NORMAL",
+					["stickyBehavior"] = "MSBT_NORMAL",
+					["stickyDirection"] = "Up",
+					["scrollHeight"] = 120,
+					["name"] = "Left",
+					["offsetX"] = -330,
+					["iconAlign"] = "Right",
+					["offsetY"] = -60,
+					["animationStyle"] = "Straight",
+					["stickyAnimationStyle"] = "Static",
 				},
 			},
 			["triggers"] = {
@@ -826,7 +826,6 @@ MSBTProfiles_SavedVars = {
 			["dotThrottleDuration"] = 5,
 			["creationVersion"] = "5.7.147",
 			["enableBlizzardDamage"] = true,
-			["hideFullOverheals"] = true,
 			["events"] = {
 				["PET_INCOMING_HOT_CRIT"] = {
 					["disabled"] = true,
@@ -1243,11 +1242,9 @@ MSBTProfiles_SavedVars = {
 					["disabled"] = true,
 				},
 			},
+			["groupNumbers"] = true,
 			["enableBlizzardHealing"] = true,
 			["scrollAreas"] = {
-				["Static"] = {
-					["name"] = "Bottom",
-				},
 				["Incoming"] = {
 					["direction"] = "Up",
 					["stickyBehavior"] = "MSBT_NORMAL",
@@ -1260,9 +1257,6 @@ MSBTProfiles_SavedVars = {
 					["offsetY"] = -380,
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",
-				},
-				["Notification"] = {
-					["name"] = "Top",
 				},
 				["Outgoing"] = {
 					["direction"] = "Up",
@@ -1277,8 +1271,14 @@ MSBTProfiles_SavedVars = {
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",
 				},
+				["Notification"] = {
+					["name"] = "Top",
+				},
+				["Static"] = {
+					["name"] = "Bottom",
+				},
 			},
-			["groupNumbers"] = true,
+			["hideFullOverheals"] = true,
 			["throttleList"] = {
 				["吸血鬼之触"] = false,
 				["暗影愈合"] = false,
@@ -1773,23 +1773,8 @@ MSBTProfiles_SavedVars = {
 			},
 			["enableBlizzardHealing"] = true,
 			["scrollAreas"] = {
-				["Outgoing"] = {
-					["direction"] = "Up",
-					["stickyBehavior"] = "MSBT_NORMAL",
-					["stickyDirection"] = "Up",
-					["behavior"] = "MSBT_NORMAL",
-					["offsetX"] = 330,
-					["name"] = "Right",
-					["iconAlign"] = "Left",
-					["offsetY"] = -60,
-					["animationStyle"] = "Straight",
-					["stickyAnimationStyle"] = "Static",
-				},
 				["Static"] = {
 					["name"] = "Bottom",
-				},
-				["Notification"] = {
-					["name"] = "Top",
 				},
 				["Incoming"] = {
 					["direction"] = "Up",
@@ -1800,6 +1785,21 @@ MSBTProfiles_SavedVars = {
 					["offsetX"] = -330,
 					["name"] = "Left",
 					["iconAlign"] = "Right",
+					["offsetY"] = -60,
+					["animationStyle"] = "Straight",
+					["stickyAnimationStyle"] = "Static",
+				},
+				["Notification"] = {
+					["name"] = "Top",
+				},
+				["Outgoing"] = {
+					["direction"] = "Up",
+					["stickyBehavior"] = "MSBT_NORMAL",
+					["stickyDirection"] = "Up",
+					["behavior"] = "MSBT_NORMAL",
+					["offsetX"] = 330,
+					["name"] = "Right",
+					["iconAlign"] = "Left",
 					["offsetY"] = -60,
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",

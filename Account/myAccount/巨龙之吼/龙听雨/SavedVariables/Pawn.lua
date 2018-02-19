@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0214,
+	["LastVersion"] = 2.0218,
 	["LastPlayerFullName"] = "龙听雨-巨龙之吼",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
@@ -12,7 +12,7 @@ PawnOptions = {
 					["Type"] = "Frost",
 				}, -- [1]
 				{
-					["ItemLevel"] = 64,
+					["ItemLevel"] = 71,
 					["Type"] = "Life",
 				}, -- [2]
 				{
@@ -29,7 +29,7 @@ PawnOptions = {
 					["Type"] = "Life",
 				}, -- [1]
 				{
-					["ItemLevel"] = 64,
+					["ItemLevel"] = 78,
 					["Type"] = "Wind",
 				}, -- [2]
 				{
@@ -46,7 +46,7 @@ PawnOptions = {
 					["Type"] = "Wind",
 				}, -- [1]
 				{
-					["ItemLevel"] = 67,
+					["ItemLevel"] = 74,
 					["Type"] = "Iron",
 				}, -- [2]
 				{

@@ -29,7 +29,7 @@ RecountDB = {
 				},
 			},
 			["MainWindowVis"] = false,
-			["LastInstanceName"] = "艾萨拉之眼",
+			["LastInstanceName"] = "永夜大教堂",
 			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 295.199951171875,
 		},
@@ -142,13 +142,6 @@ RecountDB = {
 				["Show"] = {
 					["Ungrouped"] = false,
 				},
-				["TrackDeaths"] = {
-					["Hostile"] = true,
-					["Unknown"] = true,
-					["Ungrouped"] = true,
-					["Trivial"] = true,
-					["Nontrivial"] = true,
-				},
 				["Data"] = {
 					["Trivial"] = true,
 					["Ungrouped"] = true,
@@ -165,6 +158,13 @@ RecountDB = {
 					["Ungrouped"] = true,
 					["Grouped"] = true,
 					["Trivial"] = true,
+				},
+				["TrackDeaths"] = {
+					["Hostile"] = true,
+					["Unknown"] = true,
+					["Ungrouped"] = true,
+					["Trivial"] = true,
+					["Nontrivial"] = true,
 				},
 			},
 		},

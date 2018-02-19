@@ -612,13 +612,69 @@ RelicInspectorCharDB = {
 							"Frost", -- [3]
 							"|cffa335ee|Hitem:142186:::::::::::35:3:3418:1552:3337:::|h[鱼人奇物]|h|r", -- [4]
 						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1779,
+								["icon"] = 1394892,
+								["isChosen"] = false,
+								["spellID"] = 252888,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1784,
+								["icon"] = 236687,
+								["isChosen"] = true,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 943,
+								["icon"] = 606550,
+								["isChosen"] = false,
+								["spellID"] = 199377,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 946,
+								["icon"] = 1360978,
+								["isChosen"] = true,
+								["spellID"] = 199485,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 945,
+								["icon"] = 627608,
+								["isChosen"] = false,
+								["spellID"] = 199384,
+							}, -- [6]
+						},
 					}, -- [1]
 					{
 						["relic"] = {
-							"构造体个性宝珠", -- [1]
-							237185, -- [2]
+							"手足情谊", -- [1]
+							459025, -- [2]
 							"Life", -- [3]
-							"|cffa335ee|Hitem:140838:::::::::::6:3:3445:1517:3337:::|h[构造体个性宝珠]|h|r", -- [4]
+							"|cffa335ee|Hitem:152291:::::::::::5:3:3611:1487:3528:::|h[手足情谊]|h|r", -- [4]
 						},
 						["traits"] = {
 							{
@@ -634,46 +690,46 @@ RelicInspectorCharDB = {
 								["requiredArtifactLevel"] = 63,
 								["tier"] = 2,
 								["canChoose"] = false,
-								["powerID"] = 1771,
-								["icon"] = 136194,
+								["powerID"] = 1774,
+								["icon"] = 136129,
 								["isChosen"] = false,
-								["spellID"] = 252091,
+								["spellID"] = 252191,
 							}, -- [2]
 							{
 								["requiredArtifactLevel"] = 63,
 								["tier"] = 2,
 								["canChoose"] = false,
-								["powerID"] = 1782,
-								["icon"] = 1360764,
-								["isChosen"] = false,
-								["spellID"] = 253070,
+								["powerID"] = 1775,
+								["icon"] = 458412,
+								["isChosen"] = true,
+								["spellID"] = 252207,
 							}, -- [3]
 							{
 								["requiredArtifactLevel"] = 72,
 								["tier"] = 3,
 								["canChoose"] = false,
-								["powerID"] = 946,
-								["icon"] = 1360978,
+								["powerID"] = 943,
+								["icon"] = 606550,
 								["isChosen"] = false,
-								["spellID"] = 199485,
+								["spellID"] = 199377,
 							}, -- [4]
 							{
 								["requiredArtifactLevel"] = 72,
 								["tier"] = 3,
 								["canChoose"] = false,
-								["powerID"] = 945,
-								["icon"] = 627608,
+								["powerID"] = 941,
+								["icon"] = 627485,
 								["isChosen"] = false,
-								["spellID"] = 199384,
+								["spellID"] = 199367,
 							}, -- [5]
 							{
 								["requiredArtifactLevel"] = 72,
 								["tier"] = 3,
 								["canChoose"] = false,
-								["powerID"] = 939,
-								["icon"] = 627486,
-								["isChosen"] = false,
-								["spellID"] = 199365,
+								["powerID"] = 944,
+								["icon"] = 1360980,
+								["isChosen"] = true,
+								["spellID"] = 199380,
 							}, -- [6]
 						},
 					}, -- [2]
@@ -700,7 +756,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["powerID"] = 1774,
 								["icon"] = 136129,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["spellID"] = 252191,
 							}, -- [2]
 							{
@@ -727,7 +783,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["powerID"] = 944,
 								["icon"] = 1360980,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["spellID"] = 199380,
 							}, -- [5]
 							{
@@ -742,8 +798,8 @@ RelicInspectorCharDB = {
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 67,
-					["timestamp"] = 1933647.507,
+					["level"] = 75,
+					["timestamp"] = 18009.815,
 				},
 				[128938] = {
 					{
@@ -787,7 +843,7 @@ RelicInspectorCharDB = {
 								["canChoose"] = false,
 								["powerID"] = 1282,
 								["icon"] = 615341,
-								["isChosen"] = false,
+								["isChosen"] = true,
 								["spellID"] = 213055,
 							}, -- [4]
 							{
@@ -806,16 +862,72 @@ RelicInspectorCharDB = {
 								["powerID"] = 1281,
 								["icon"] = 574568,
 								["isChosen"] = false,
-								["spellID"] = 227690,
+								["spellID"] = 227691,
 							}, -- [6]
 						},
 					}, -- [1]
 					{
 						["relic"] = {
-							"雷霆权柄", -- [1]
-							135990, -- [2]
+							"嫉妒的忏悔", -- [1]
+							136039, -- [2]
 							"Wind", -- [3]
-							"|cffa335ee|Hitem:136974:::::::::::16:3:3418:1572:3336:::|h[雷霆权柄]|h|r", -- [4]
+							"|cffa335ee|Hitem:142193:::::::::::35:3:3536:1587:3337:::|h[嫉妒的忏悔]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
+								["isChosen"] = true,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1782,
+								["icon"] = 1360764,
+								["isChosen"] = false,
+								["spellID"] = 253070,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1285,
+								["icon"] = 1360979,
+								["isChosen"] = true,
+								["spellID"] = 213047,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1541,
+								["icon"] = 607848,
+								["isChosen"] = false,
+								["spellID"] = 238057,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1282,
+								["icon"] = 615341,
+								["isChosen"] = false,
+								["spellID"] = 213055,
+							}, -- [6]
 						},
 					}, -- [2]
 					{
@@ -825,13 +937,125 @@ RelicInspectorCharDB = {
 							"Iron", -- [3]
 							"|cffa335ee|Hitem:147100:::::::::::6:3:3563:1537:3337:::|h[钙化藤壶]|h|r", -- [4]
 						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1778,
+								["icon"] = 136146,
+								["isChosen"] = true,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1783,
+								["icon"] = 876916,
+								["isChosen"] = false,
+								["spellID"] = 253093,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1541,
+								["icon"] = 607848,
+								["isChosen"] = false,
+								["spellID"] = 238057,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1285,
+								["icon"] = 1360979,
+								["isChosen"] = true,
+								["spellID"] = 213047,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1284,
+								["icon"] = 611419,
+								["isChosen"] = false,
+								["spellID"] = 213136,
+							}, -- [6]
+						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 74,
-					["timestamp"] = 2021511.159,
+					["level"] = 75,
+					["timestamp"] = 18912.158,
 				},
 				[128940] = {
 					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1778,
+								["isChosen"] = true,
+								["icon"] = 136146,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1775,
+								["isChosen"] = false,
+								["icon"] = 458412,
+								["spellID"] = 252207,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 821,
+								["isChosen"] = false,
+								["icon"] = 606551,
+								["spellID"] = 218607,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 820,
+								["isChosen"] = false,
+								["icon"] = 642415,
+								["spellID"] = 195263,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 801,
+								["isChosen"] = false,
+								["icon"] = 1381298,
+								["spellID"] = 195244,
+							}, -- [6]
+						},
 						["relic"] = {
 							"首席剑士之刃", -- [1]
 							1380678, -- [2]
@@ -840,14 +1064,126 @@ RelicInspectorCharDB = {
 						},
 					}, -- [1]
 					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1780,
+								["isChosen"] = true,
+								["icon"] = 615101,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1777,
+								["isChosen"] = false,
+								["icon"] = 460953,
+								["spellID"] = 252799,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 1094,
+								["isChosen"] = false,
+								["icon"] = 620832,
+								["spellID"] = 195267,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 829,
+								["isChosen"] = false,
+								["icon"] = 627608,
+								["spellID"] = 195380,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 1549,
+								["isChosen"] = false,
+								["icon"] = 136038,
+								["spellID"] = 238059,
+							}, -- [6]
+						},
 						["relic"] = {
-							"鲜明星光", -- [1]
-							237205, -- [2]
+							"锻造之主微粒", -- [1]
+							132838, -- [2]
 							"Iron", -- [3]
-							"|cffa335ee|Hitem:147101:::::::::::6:3:3563:1512:3528:::|h[鲜明星光]|h|r", -- [4]
+							"|cffa335ee|Hitem:155855:::::::::::5:3:3611:1497:3528:::|h[锻造之主微粒]|h|r", -- [4]
 						},
 					}, -- [2]
 					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1778,
+								["isChosen"] = false,
+								["icon"] = 136146,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1777,
+								["isChosen"] = false,
+								["icon"] = 460953,
+								["spellID"] = 252799,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 820,
+								["isChosen"] = false,
+								["icon"] = 642415,
+								["spellID"] = 195263,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 801,
+								["isChosen"] = false,
+								["icon"] = 1381298,
+								["spellID"] = 195244,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 824,
+								["isChosen"] = false,
+								["icon"] = 606543,
+								["spellID"] = 195269,
+							}, -- [6]
+						},
 						["relic"] = {
 							"邪魂漩涡", -- [1]
 							1035054, -- [2]
@@ -855,9 +1191,9 @@ RelicInspectorCharDB = {
 							"|cffa335ee|Hitem:147112:::::::::::6:3:3563:1527:3337:::|h[邪魂漩涡]|h|r", -- [4]
 						},
 					}, -- [3]
-					["level"] = 63,
+					["level"] = 65,
 					["crucibled"] = true,
-					["timestamp"] = 2013270.386,
+					["timestamp"] = 17519.422,
 				},
 			},
 		},

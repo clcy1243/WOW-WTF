@@ -8,9 +8,9 @@ KrosusAssistDB = {
 	["profiles"] = {
 		["Default"] = {
 			["posx"] = 617.244633001756,
+			["posy"] = 529.422191639078,
 			["fontSize"] = 18,
 			["font"] = "默认",
-			["posy"] = 529.422191639078,
 		},
 	},
 }

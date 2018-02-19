@@ -3341,13 +3341,6 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["138480"] = {
-				["isStacks"] = true,
-				["animate"] = false,
-				["timer"] = true,
-				["isColor"] = false,
-				["isIcon"] = true,
-			},
 			["125283"] = {
 				["isStacks"] = true,
 				["animate"] = false,
@@ -3355,14 +3348,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["180372"] = {
-				["isStacks"] = true,
-				["animate"] = false,
-				["timer"] = true,
-				["isColor"] = false,
-				["isIcon"] = true,
-			},
-			["119488"] = {
+			["116374"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -3375,6 +3361,20 @@ VUHDO_CONFIG = {
 				["isIcon"] = true,
 				["isColor"] = false,
 				["timer"] = true,
+			},
+			["138480"] = {
+				["isStacks"] = true,
+				["animate"] = false,
+				["timer"] = true,
+				["isColor"] = false,
+				["isIcon"] = true,
+			},
+			["180372"] = {
+				["isStacks"] = true,
+				["animate"] = false,
+				["timer"] = true,
+				["isColor"] = false,
+				["isIcon"] = true,
 			},
 			["246687"] = {
 				["isStacks"] = true,
@@ -3859,7 +3859,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["207143"] = {
+			["244172"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["isIcon"] = true,
@@ -3894,12 +3894,12 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["244172"] = {
+			["136180"] = {
 				["isStacks"] = true,
 				["animate"] = false,
-				["isIcon"] = true,
-				["isColor"] = false,
 				["timer"] = true,
+				["isColor"] = false,
+				["isIcon"] = true,
 			},
 			["164191"] = {
 				["isStacks"] = true,
@@ -3908,12 +3908,12 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["136180"] = {
+			["207143"] = {
 				["isStacks"] = true,
 				["animate"] = false,
-				["timer"] = true,
-				["isColor"] = false,
 				["isIcon"] = true,
+				["isColor"] = false,
+				["timer"] = true,
 			},
 			["189030"] = {
 				["isStacks"] = true,
@@ -4188,7 +4188,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["116374"] = {
+			["119488"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -4585,12 +4585,12 @@ VUHDO_PANEL_SETUP = {
 			["xAdjust"] = 0,
 		},
 		["POSITION"] = {
-			["y"] = 603.225219726563,
-			["x"] = 1192.81140136719,
+			["y"] = 567.963439941406,
+			["x"] = 1239.14514160156,
 			["scale"] = 1,
 			["relativePoint"] = "BOTTOMLEFT",
 			["orientation"] = "TOPLEFT",
-			["height"] = 294.000030517578,
+			["height"] = 73.9999923706055,
 			["growth"] = "TOPLEFT",
 			["width"] = 90.0000076293945,
 		},
@@ -4603,6 +4603,7 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
+			["sort"] = 0,
 			["groups"] = {
 				1, -- [1]
 				2, -- [2]
@@ -4614,7 +4615,6 @@ VUHDO_PANEL_SETUP = {
 				8, -- [8]
 			},
 			["ordering"] = 0,
-			["sort"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -7319,9 +7319,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -7329,9 +7329,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -7384,9 +7384,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w3", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 	},
@@ -7416,9 +7416,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -7426,9 +7426,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -7481,9 +7481,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w3", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 	},
@@ -7516,83 +7516,15 @@ VUHDO_SPEC_LAYOUTS = {
 	["selected"] = "龙轻雪: ",
 	["4"] = "",
 }
-VUHDO_GROUP_SIZE = 5
+VUHDO_GROUP_SIZE = 1
 VUHDO_RAID = {
-	["boss1"] = {
-		["zone"] = "艾萨拉之眼",
-		["baseRange"] = false,
-		["class"] = "PALADIN",
-		["role"] = 61,
-		["sortMaxHp"] = 590606358,
-		["map"] = "AszunaDungeon",
-		["threat"] = 0,
-		["powermax"] = 285263,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "积怨夫人",
-		["visible"] = true,
-		["isVehicle"] = false,
-		["group"] = 0,
-		["classId"] = 23,
-		["range"] = true,
-		["unit"] = "boss1",
-		["powertype"] = 0,
-		["healthmax"] = 590606358,
-		["lifeLossPerc"] = 0.985900250162358,
-		["dead"] = false,
-		["charmed"] = false,
-		["fullName"] = "积怨夫人",
-		["power"] = 285263,
-		["aggro"] = false,
-		["number"] = 0,
-		["health"] = 13284857,
-		["className"] = "积怨夫人",
-		["afk"] = false,
-		["targetUnit"] = "boss1target",
-		["debuff"] = 0,
-		["connected"] = true,
-	},
-	["party3"] = {
-		["zone"] = "艾萨拉之眼",
-		["baseRange"] = true,
-		["class"] = "WARRIOR",
-		["role"] = 61,
-		["sortMaxHp"] = 3470976,
-		["map"] = "AszunaDungeon",
-		["threat"] = 0,
-		["powermax"] = 100,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "诺维蓝冰河",
-		["number"] = 3,
-		["isVehicle"] = false,
-		["group"] = 1,
-		["classId"] = 20,
-		["range"] = true,
-		["unit"] = "party3",
-		["powertype"] = 1,
-		["healthmax"] = 3470976,
-		["dead"] = true,
-		["charmed"] = false,
-		["fullName"] = "诺维蓝冰河",
-		["power"] = 0,
-		["aggro"] = false,
-		["visible"] = true,
-		["targetUnit"] = "party3target",
-		["health"] = 0,
-		["className"] = "战士",
-		["afk"] = false,
-		["debuff"] = 0,
-		["connected"] = true,
-		["petUnit"] = "partypet3",
-	},
 	["player"] = {
-		["zone"] = "艾萨拉之眼",
+		["zone"] = "梦境林地",
 		["baseRange"] = true,
 		["class"] = "DRUID",
 		["role"] = 63,
-		["sortMaxHp"] = 5651100,
-		["map"] = "AszunaDungeon",
+		["sortMaxHp"] = 5799420,
+		["map"] = "TheDreamgrove",
 		["threat"] = 0,
 		["powermax"] = 1100000,
 		["threatPerc"] = 0,
@@ -7605,122 +7537,20 @@ VUHDO_RAID = {
 		["range"] = true,
 		["unit"] = "player",
 		["powertype"] = 0,
-		["healthmax"] = 5651100,
-		["dead"] = true,
+		["healthmax"] = 5799420,
+		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "龙轻雪",
 		["power"] = 1100000,
 		["aggro"] = false,
 		["visible"] = true,
 		["targetUnit"] = "target",
-		["health"] = 0,
+		["health"] = 5799420,
 		["className"] = "德鲁伊",
 		["afk"] = false,
 		["debuff"] = 0,
 		["connected"] = true,
 		["petUnit"] = "pet",
-	},
-	["party1"] = {
-		["zone"] = "艾萨拉之眼",
-		["baseRange"] = true,
-		["class"] = "PALADIN",
-		["role"] = 60,
-		["sortMaxHp"] = 9465705,
-		["map"] = "AszunaDungeon",
-		["threat"] = 3,
-		["powermax"] = 220000,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "Ieo",
-		["number"] = 1,
-		["isVehicle"] = false,
-		["group"] = 1,
-		["classId"] = 23,
-		["range"] = true,
-		["unit"] = "party1",
-		["powertype"] = 0,
-		["healthmax"] = 9465705,
-		["dead"] = false,
-		["charmed"] = false,
-		["fullName"] = "Ieo",
-		["power"] = 220000,
-		["aggro"] = false,
-		["visible"] = true,
-		["targetUnit"] = "party1target",
-		["health"] = 8973664,
-		["className"] = "圣骑士",
-		["afk"] = false,
-		["debuff"] = 4,
-		["connected"] = true,
-		["petUnit"] = "partypet1",
-	},
-	["party4"] = {
-		["zone"] = "艾萨拉之眼",
-		["baseRange"] = true,
-		["class"] = "DEATHKNIGHT",
-		["role"] = 61,
-		["sortMaxHp"] = 5916720,
-		["map"] = "AszunaDungeon",
-		["threat"] = 0,
-		["powermax"] = 100,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "醉梦若歌",
-		["number"] = 4,
-		["isVehicle"] = false,
-		["group"] = 1,
-		["classId"] = 29,
-		["range"] = true,
-		["unit"] = "party4",
-		["powertype"] = 6,
-		["healthmax"] = 5673300,
-		["dead"] = true,
-		["charmed"] = false,
-		["fullName"] = "醉梦若歌",
-		["power"] = 0,
-		["aggro"] = false,
-		["visible"] = true,
-		["targetUnit"] = "party4target",
-		["health"] = 0,
-		["className"] = "死亡骑士",
-		["afk"] = false,
-		["debuff"] = 0,
-		["connected"] = true,
-		["petUnit"] = "partypet4",
-	},
-	["party2"] = {
-		["zone"] = "艾萨拉之眼",
-		["baseRange"] = true,
-		["class"] = "DRUID",
-		["role"] = 62,
-		["sortMaxHp"] = 6353220,
-		["map"] = "AszunaDungeon",
-		["threat"] = 0,
-		["powermax"] = 100,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "月凌乱",
-		["number"] = 2,
-		["isVehicle"] = false,
-		["group"] = 1,
-		["classId"] = 27,
-		["range"] = true,
-		["unit"] = "party2",
-		["powertype"] = 8,
-		["healthmax"] = 6110280,
-		["dead"] = true,
-		["charmed"] = false,
-		["fullName"] = "月凌乱",
-		["power"] = 0,
-		["aggro"] = false,
-		["visible"] = true,
-		["targetUnit"] = "party2target",
-		["health"] = 0,
-		["className"] = "德鲁伊",
-		["afk"] = false,
-		["debuff"] = 0,
-		["connected"] = true,
-		["petUnit"] = "partypet2",
 	},
 }
 VUHDO_INDICATOR_CONFIG = {
@@ -7745,9 +7575,9 @@ VUHDO_INDICATOR_CONFIG = {
 		},
 		["DAMAGE_FLASH_BAR"] = "",
 		["THREAT_MARK"] = "",
+		["BAR_BORDER"] = "Threat: Marks",
 		["SIDE_RIGHT"] = "",
 		["MANA_BAR"] = "Manabars: Mana (Healer Only)",
-		["BAR_BORDER"] = "Threat: Marks",
 		["HEALTH_BAR"] = "Health (generic, class col)",
 		["SIDE_LEFT"] = "",
 		["CLUSTER_BORDER"] = "Target",

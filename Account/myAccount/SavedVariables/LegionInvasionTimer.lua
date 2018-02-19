@@ -1,7 +1,7 @@
 
 legionTimerDB = {
 	["outline"] = "NONE",
-	["fontSize"] = 10,
+	["fontSize"] = 15,
 	["alignTime"] = "RIGHT",
 	["colorComplete"] = {
 		0, -- [1]
@@ -12,7 +12,7 @@ legionTimerDB = {
 	["spacing"] = 0,
 	["mode"] = 1,
 	["icon"] = true,
-	["width"] = 200,
+	["tooltipHideNethershard"] = true,
 	["colorText"] = {
 		1, -- [1]
 		1, -- [2]
@@ -27,18 +27,18 @@ legionTimerDB = {
 	},
 	["barTexture"] = "Blizzard Raid Bar",
 	["font"] = "默认",
+	["width"] = 200,
+	["timeText"] = true,
+	["alignZone"] = "LEFT",
+	["prev"] = 1519005571,
+	["tooltipHideWarSupplies"] = true,
+	["height"] = 19,
 	["colorNext"] = {
 		0.25, -- [1]
 		0.33, -- [2]
 		0.68, -- [3]
 		1, -- [4]
 	},
-	["timeText"] = true,
-	["alignZone"] = "LEFT",
-	["prev"] = 1512811810,
-	["tooltipHideWarSupplies"] = true,
-	["height"] = 20,
-	["tooltipHideNethershard"] = true,
 	["colorBarBackground"] = {
 		0, -- [1]
 		0, -- [2]

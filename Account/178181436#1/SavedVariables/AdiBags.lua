@@ -6,6 +6,11 @@ AdiBagsDB = {
 		["MoneyFrame"] = {
 		},
 		["ItemLevel"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colorScheme"] = "none",
+				},
+			},
 		},
 		["FilterOverride"] = {
 			["profiles"] = {

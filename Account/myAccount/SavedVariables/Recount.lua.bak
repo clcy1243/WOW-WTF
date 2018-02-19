@@ -116,6 +116,12 @@ RecountDB = {
 				["Show"] = {
 					["Ungrouped"] = false,
 				},
+				["Data"] = {
+					["Hostile"] = true,
+					["Ungrouped"] = true,
+					["Trivial"] = true,
+					["Nontrivial"] = true,
+				},
 				["TimeData"] = {
 					["Self"] = true,
 					["Pet"] = true,
@@ -130,12 +136,6 @@ RecountDB = {
 				["TrackDeaths"] = {
 					["Hostile"] = true,
 					["Unknown"] = true,
-					["Ungrouped"] = true,
-					["Trivial"] = true,
-					["Nontrivial"] = true,
-				},
-				["Data"] = {
-					["Hostile"] = true,
 					["Ungrouped"] = true,
 					["Trivial"] = true,
 					["Nontrivial"] = true,
@@ -196,10 +196,10 @@ RecountDB = {
 		["龙听雨 - 巨龙之吼"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 316.5,
-					["h"] = 165.000045776367,
-					["w"] = 314.000061035156,
-					["x"] = -801.999618530273,
+					["y"] = 316.499938964844,
+					["h"] = 165.000152587891,
+					["w"] = 313.999938964844,
+					["x"] = -801.999877929688,
 				},
 			},
 			["Colors"] = {

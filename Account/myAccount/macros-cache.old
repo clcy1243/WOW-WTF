@@ -12,6 +12,15 @@ END
 VER 3 0000000000000003 "取消保护" "135964"
 /cancelaura 保护祝福
 END
+VER 3 0000000000000008 "找伊利丹" "INV_MISC_QUESTIONMARK"
+#showtooltip 棱柱焦镜
+/cleartarget
+/targetexact 伊利丹·怒风
+/focus
+/target 伊利丹·怒风
+/stopmacro [target=focus,noexists]
+/cast [target=focus] 棱柱焦镜
+END
 VER 3 0000000000000004 "换T" "INV_MISC_QUESTIONMARK"
 /s 换T
 END

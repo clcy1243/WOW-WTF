@@ -50,7 +50,7 @@ PawnOptions = {
 					["Type"] = "Frost",
 				}, -- [2]
 				{
-					["ItemLevel"] = 62,
+					["ItemLevel"] = 72,
 					["Type"] = "Life",
 				}, -- [3]
 			},

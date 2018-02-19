@@ -6,10 +6,11 @@ GRA_A_Roster = {
 GRA_A_Config = {
 }
 GRA_A_Variables = {
+	["scaleFactor"] = 1,
 	["size"] = "normal",
 	["helpViewed"] = false,
 	["minimap"] = {
-		["minimapPos"] = 336.775043849588,
+		["minimapPos"] = 305.777552442574,
 		["hide"] = false,
 	},
 }

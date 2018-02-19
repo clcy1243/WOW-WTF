@@ -3370,14 +3370,14 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["119488"] = {
+			["116374"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["116374"] = {
+			["119488"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["timer"] = true,
@@ -3895,12 +3895,12 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["136180"] = {
+			["207143"] = {
 				["isStacks"] = true,
 				["animate"] = false,
-				["timer"] = true,
-				["isColor"] = false,
 				["isIcon"] = true,
+				["isColor"] = false,
+				["timer"] = true,
 			},
 			["136654"] = {
 				["isStacks"] = true,
@@ -3916,7 +3916,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["207143"] = {
+			["244172"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["isIcon"] = true,
@@ -3944,12 +3944,12 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["244172"] = {
+			["136180"] = {
 				["isStacks"] = true,
 				["animate"] = false,
-				["isIcon"] = true,
-				["isColor"] = false,
 				["timer"] = true,
+				["isColor"] = false,
+				["isIcon"] = true,
 			},
 			["136573"] = {
 				["isStacks"] = true,
@@ -4585,14 +4585,14 @@ VUHDO_PANEL_SETUP = {
 			["xAdjust"] = 0,
 		},
 		["POSITION"] = {
-			["y"] = -145.679504394531,
-			["x"] = -400.854797363281,
-			["orientation"] = "RIGHT",
-			["relativePoint"] = "RIGHT",
+			["y"] = 590.53466796875,
+			["x"] = 1204.09692382813,
+			["orientation"] = "TOPLEFT",
+			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
 			["height"] = 294.000030517578,
 			["growth"] = "TOPLEFT",
-			["width"] = 231.999877929688,
+			["width"] = 90.0000076293945,
 		},
 		["RAID_ICON"] = {
 			["show"] = true,
@@ -4603,8 +4603,6 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
-			["ordering"] = 0,
-			["sort"] = 0,
 			["groups"] = {
 				1, -- [1]
 				2, -- [2]
@@ -4615,6 +4613,8 @@ VUHDO_PANEL_SETUP = {
 				7, -- [7]
 				8, -- [8]
 			},
+			["ordering"] = 0,
+			["sort"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -4735,7 +4735,7 @@ VUHDO_PANEL_SETUP = {
 			["position"] = "CENTER+CENTER",
 			["yAdjust"] = 0,
 			["xAdjust"] = 0,
-			["_spacing"] = 19.0000019073486,
+			["_spacing"] = 19.0000095367432,
 			["showPetOwners"] = false,
 		},
 		["LIFE_TEXT"] = {
@@ -7319,9 +7319,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -7329,9 +7329,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -7384,9 +7384,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 	},
@@ -7413,9 +7413,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -7423,9 +7423,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -7478,9 +7478,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 	},
@@ -7516,337 +7516,109 @@ VUHDO_SPEC_LAYOUTS = {
 	["selected"] = "龙轻雪: ",
 	["4"] = "",
 }
-VUHDO_GROUP_SIZE = 8
+VUHDO_GROUP_SIZE = 3
 VUHDO_RAID = {
-	["raidpet8"] = {
-		["number"] = 8,
-		["zone"] = "克拉苏斯平台",
-		["isVehicle"] = false,
-		["baseRange"] = false,
-		["classId"] = 40,
-		["unit"] = "raidpet8",
-		["visible"] = false,
-		["debuff"] = 0,
-		["healthmax"] = 4121712,
-		["powertype"] = 0,
-		["targetUnit"] = "raidpet8target",
-		["sortMaxHp"] = 4121712,
-		["group"] = 0,
-		["dead"] = false,
-		["map"] = "ArgusSurface",
-		["threat"] = 0,
-		["fullName"] = "魁麟",
-		["power"] = 0,
-		["aggro"] = false,
-		["afk"] = false,
-		["threatPerc"] = 0,
-		["isPet"] = true,
-		["connected"] = true,
-		["health"] = 4121712,
-		["className"] = "",
-		["powermax"] = 0,
-		["ownerUnit"] = "raid8",
-		["name"] = "魁麟",
-		["charmed"] = false,
-	},
-	["raidpet4"] = {
-		["number"] = 4,
-		["zone"] = "安托鲁斯，燃烧王座",
-		["isVehicle"] = false,
-		["baseRange"] = false,
-		["classId"] = 40,
-		["unit"] = "raidpet4",
-		["visible"] = false,
-		["debuff"] = 0,
-		["healthmax"] = 3967278,
-		["powertype"] = 0,
-		["targetUnit"] = "raidpet4target",
-		["sortMaxHp"] = 3967278,
-		["group"] = 0,
-		["dead"] = false,
-		["map"] = "ArgusSurface",
-		["threat"] = 0,
-		["fullName"] = "魁麟",
-		["power"] = 0,
-		["aggro"] = false,
-		["afk"] = false,
-		["threatPerc"] = 0,
-		["isPet"] = true,
-		["connected"] = true,
-		["health"] = 3967278,
-		["className"] = "",
-		["powermax"] = 0,
-		["ownerUnit"] = "raid4",
-		["name"] = "魁麟",
-		["charmed"] = false,
-	},
-	["raid5"] = {
-		["zone"] = "离线",
-		["baseRange"] = false,
-		["class"] = "DRUID",
-		["role"] = 62,
-		["sortMaxHp"] = 5685780,
-		["map"] = "ArgusSurface",
-		["threat"] = 0,
-		["powermax"] = 130,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "海雨天風",
-		["number"] = 5,
-		["isVehicle"] = false,
-		["group"] = 3,
-		["classId"] = 27,
-		["range"] = false,
-		["unit"] = "raid5",
-		["powertype"] = 8,
-		["healthmax"] = 5685780,
-		["dead"] = false,
-		["charmed"] = false,
-		["fullName"] = "海雨天風-国王之谷",
-		["power"] = 0,
-		["aggro"] = false,
-		["visible"] = false,
-		["targetUnit"] = "raid5target",
-		["health"] = 5685780,
-		["className"] = "德鲁伊",
-		["afk"] = false,
-		["debuff"] = 0,
-		["connected"] = false,
-		["petUnit"] = "raidpet5",
-	},
-	["raid7"] = {
-		["zone"] = "克罗库恩",
-		["baseRange"] = false,
-		["class"] = "DRUID",
-		["role"] = 62,
-		["sortMaxHp"] = 6110280,
-		["map"] = "ArgusSurface",
-		["threat"] = 0,
-		["powermax"] = 100,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "月凌乱",
-		["number"] = 7,
-		["isVehicle"] = false,
-		["group"] = 3,
-		["classId"] = 27,
-		["unit"] = "raid7",
-		["powertype"] = 3,
-		["healthmax"] = 6110280,
-		["dead"] = false,
-		["charmed"] = false,
-		["fullName"] = "月凌乱",
-		["power"] = 100,
-		["aggro"] = false,
-		["visible"] = true,
-		["targetUnit"] = "raid7target",
-		["health"] = 6110280,
-		["className"] = "德鲁伊",
-		["afk"] = false,
-		["debuff"] = 0,
-		["connected"] = true,
-		["petUnit"] = "raidpet7",
-	},
-	["raid4"] = {
-		["zone"] = "安托鲁斯，燃烧王座",
-		["baseRange"] = false,
-		["class"] = "HUNTER",
-		["role"] = 62,
-		["sortMaxHp"] = 5667540,
-		["map"] = "ArgusSurface",
-		["threat"] = 0,
-		["powermax"] = 120,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "玲珑蔓雪",
-		["number"] = 4,
-		["isVehicle"] = false,
-		["group"] = 3,
-		["classId"] = 22,
-		["unit"] = "raid4",
-		["powertype"] = 2,
-		["healthmax"] = 5667540,
-		["dead"] = false,
-		["charmed"] = false,
-		["fullName"] = "玲珑蔓雪-银松森林",
-		["power"] = 120,
-		["aggro"] = false,
-		["visible"] = false,
-		["targetUnit"] = "raid4target",
-		["health"] = 5667540,
-		["className"] = "猎人",
-		["afk"] = false,
-		["debuff"] = 0,
-		["connected"] = true,
-		["petUnit"] = "raidpet4",
-	},
-	["raid8"] = {
-		["zone"] = "克拉苏斯平台",
-		["baseRange"] = false,
-		["class"] = "HUNTER",
-		["role"] = 62,
-		["sortMaxHp"] = 5948880,
-		["map"] = "ArgusSurface",
-		["threat"] = 0,
-		["powermax"] = 126,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "心魇",
-		["number"] = 8,
-		["isVehicle"] = false,
-		["group"] = 4,
-		["classId"] = 22,
-		["unit"] = "raid8",
-		["powertype"] = 2,
-		["healthmax"] = 5948880,
-		["dead"] = false,
-		["charmed"] = false,
-		["fullName"] = "心魇-图拉扬",
-		["power"] = 126,
-		["aggro"] = false,
-		["visible"] = false,
-		["targetUnit"] = "raid8target",
-		["health"] = 5948880,
-		["className"] = "猎人",
-		["afk"] = false,
-		["debuff"] = 0,
-		["connected"] = true,
-		["petUnit"] = "raidpet8",
-	},
 	["player"] = {
-		["zone"] = "克罗库恩",
+		["zone"] = "达拉然",
 		["baseRange"] = true,
 		["class"] = "DRUID",
-		["role"] = 63,
-		["sortMaxHp"] = 5731200,
-		["map"] = "ArgusSurface",
+		["role"] = 61,
+		["sortMaxHp"] = 5655000,
+		["map"] = "Dalaran70",
 		["threat"] = 0,
-		["powermax"] = 1100000,
+		["powermax"] = 136,
 		["threatPerc"] = 0,
 		["isPet"] = false,
 		["name"] = "龙轻雪",
-		["number"] = 6,
+		["number"] = 1,
 		["isVehicle"] = false,
-		["group"] = 3,
+		["group"] = 1,
 		["classId"] = 27,
 		["range"] = true,
 		["unit"] = "player",
-		["powertype"] = 0,
-		["healthmax"] = 5731200,
+		["powertype"] = 3,
+		["healthmax"] = 5655000,
 		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "龙轻雪",
-		["power"] = 1100000,
+		["power"] = 136,
 		["aggro"] = false,
 		["visible"] = true,
 		["targetUnit"] = "target",
-		["health"] = 5731200,
+		["health"] = 5655000,
 		["className"] = "德鲁伊",
 		["afk"] = false,
 		["debuff"] = 0,
 		["connected"] = true,
 		["petUnit"] = "pet",
 	},
-	["raid1"] = {
-		["zone"] = "克拉苏斯平台",
-		["baseRange"] = false,
-		["class"] = "PALADIN",
-		["role"] = 63,
-		["sortMaxHp"] = 6759102,
-		["map"] = "ArgusSurface",
-		["threat"] = 0,
-		["powermax"] = 51424,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "Ieo",
-		["number"] = 1,
-		["isVehicle"] = false,
-		["group"] = 1,
-		["classId"] = 23,
-		["unit"] = "raid1",
-		["powertype"] = 0,
-		["healthmax"] = 6759102,
-		["dead"] = false,
-		["charmed"] = false,
-		["fullName"] = "Ieo",
-		["power"] = 51424,
-		["aggro"] = false,
-		["visible"] = false,
-		["targetUnit"] = "raid1target",
-		["health"] = 6759102,
-		["className"] = "圣骑士",
-		["afk"] = false,
-		["debuff"] = 0,
-		["connected"] = true,
-		["petUnit"] = "raidpet1",
-	},
-	["raid2"] = {
+	["party1"] = {
 		["zone"] = "离线",
 		["baseRange"] = false,
 		["class"] = "PALADIN",
 		["role"] = 60,
-		["sortMaxHp"] = 9185841,
-		["map"] = "ArgusSurface",
+		["sortMaxHp"] = 9818889,
+		["map"] = "Dalaran70",
 		["threat"] = 0,
 		["powermax"] = 23392,
 		["threatPerc"] = 0,
 		["isPet"] = false,
-		["name"] = "戴琳斯",
+		["name"] = "Ieo",
 		["visible"] = false,
-		["targetUnit"] = "raid2target",
+		["targetUnit"] = "party1target",
 		["group"] = 1,
 		["afk"] = false,
 		["range"] = false,
-		["unit"] = "raid2",
+		["unit"] = "party1",
 		["debuff"] = 0,
-		["healthmax"] = 9185841,
+		["healthmax"] = 9818889,
 		["dead"] = false,
 		["connected"] = false,
-		["fullName"] = "戴琳斯-荆棘谷",
+		["fullName"] = "Ieo",
 		["power"] = 23392,
-		["petUnit"] = "raidpet2",
-		["number"] = 2,
+		["petUnit"] = "partypet1",
+		["number"] = 1,
 		["classId"] = 23,
 		["isVehicle"] = false,
-		["health"] = 9185841,
+		["health"] = 9818889,
 		["className"] = "圣骑士",
 		["powertype"] = 0,
-		["raidIcon"] = 2,
+		["raidIcon"] = 4,
 		["charmed"] = false,
 		["aggro"] = false,
 	},
-	["raid3"] = {
-		["zone"] = "虚空之光神殿",
+	["party2"] = {
+		["zone"] = "滑水溪",
 		["baseRange"] = false,
-		["class"] = "PRIEST",
-		["role"] = 63,
-		["sortMaxHp"] = 5487780,
-		["map"] = "ArgusSurface",
+		["class"] = "MONK",
+		["role"] = 61,
+		["sortMaxHp"] = 653040,
+		["map"] = "Dalaran70",
 		["threat"] = 0,
-		["powermax"] = 51424,
+		["powermax"] = 100,
 		["threatPerc"] = 0,
 		["isPet"] = false,
-		["name"] = "兹有奔放",
-		["number"] = 3,
+		["name"] = "不知火明乃",
+		["number"] = 2,
 		["isVehicle"] = false,
 		["group"] = 1,
-		["classId"] = 28,
-		["unit"] = "raid3",
-		["powertype"] = 0,
-		["healthmax"] = 5487780,
+		["classId"] = 30,
+		["unit"] = "party2",
+		["powertype"] = 3,
+		["healthmax"] = 653040,
 		["dead"] = false,
 		["charmed"] = false,
-		["fullName"] = "兹有奔放-银松森林",
-		["power"] = 51424,
+		["fullName"] = "不知火明乃",
+		["power"] = 100,
 		["aggro"] = false,
 		["visible"] = false,
-		["targetUnit"] = "raid3target",
-		["health"] = 5487780,
-		["className"] = "牧师",
+		["targetUnit"] = "party2target",
+		["health"] = 653040,
+		["className"] = "武僧",
 		["afk"] = false,
 		["debuff"] = 0,
 		["connected"] = true,
-		["petUnit"] = "raidpet3",
+		["petUnit"] = "partypet2",
 	},
 }
 VUHDO_INDICATOR_CONFIG = {
@@ -7860,9 +7632,9 @@ VUHDO_INDICATOR_CONFIG = {
 		["INCOMING_BAR"] = "",
 		["SWIFTMEND_INDICATOR"] = "Role Icon",
 		["THREAT_MARK"] = "",
+		["SIDE_RIGHT"] = "",
 		["MANA_BAR"] = "Manabars: Mana (Healer Only)",
 		["BAR_BORDER"] = "Threat: Marks",
-		["SIDE_RIGHT"] = "",
 		["HEALTH_BAR"] = "Health (generic, class col)",
 		["DAMAGE_FLASH_BAR"] = "",
 		["HEALTH_BAR_PANEL"] = {

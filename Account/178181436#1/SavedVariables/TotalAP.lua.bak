@@ -30,9 +30,9 @@ TotalArtifactPowerCache = {
 			["artifactTier"] = 2,
 		}, -- [3]
 		{
-			["thisLevelUnspentAP"] = 47332360765,
+			["thisLevelUnspentAP"] = 60888383315,
 			["isIgnored"] = false,
-			["numTraitsPurchased"] = 72,
+			["numTraitsPurchased"] = 73,
 			["artifactTier"] = 2,
 		}, -- [4]
 	},

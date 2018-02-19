@@ -1023,9 +1023,9 @@ TradeSkillMaster_CraftingDB = {
 		[9198] = {
 			["mats"] = {
 				["i:2321"] = 2,
+				["i:7070"] = 2,
 				["i:7067"] = 2,
 				["i:4234"] = 6,
-				["i:7070"] = 2,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
@@ -1385,10 +1385,10 @@ TradeSkillMaster_CraftingDB = {
 		[36075] = {
 			["mats"] = {
 				["i:8172"] = 2,
-				["i:14341"] = 1,
-				["i:17056"] = 5,
-				["i:8170"] = 10,
 				["i:8153"] = 4,
+				["i:17056"] = 5,
+				["i:14341"] = 1,
+				["i:8170"] = 10,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
@@ -2196,9 +2196,9 @@ TradeSkillMaster_CraftingDB = {
 		},
 		[3759] = {
 			["mats"] = {
+				["i:2318"] = 6,
 				["i:2320"] = 2,
 				["i:4231"] = 1,
-				["i:2318"] = 6,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
@@ -2224,9 +2224,9 @@ TradeSkillMaster_CraftingDB = {
 		},
 		[3761] = {
 			["mats"] = {
+				["i:2318"] = 6,
 				["i:2320"] = 4,
 				["i:4231"] = 3,
-				["i:2318"] = 6,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
@@ -4870,9 +4870,9 @@ TradeSkillMaster_CraftingDB = {
 		},
 		[226108] = {
 			["mats"] = {
+				["i:2318"] = 6,
 				["i:2320"] = 4,
 				["i:4231"] = 3,
-				["i:2318"] = 6,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",

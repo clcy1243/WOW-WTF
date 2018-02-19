@@ -171,6 +171,8 @@ TellMeWhenDB = {
 		},
 		["龙听雨 - 主宰之剑"] = {
 			["Locked"] = true,
+			["NumGroups"] = 2,
+			["Version"] = 83302,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1OS8knAxTvDZ",
@@ -1117,8 +1119,6 @@ TellMeWhenDB = {
 					["OnlyInCombat"] = true,
 				}, -- [2]
 			},
-			["NumGroups"] = 2,
-			["Version"] = 83302,
 		},
 		["龙轻雪 - 主宰之剑"] = {
 			["Version"] = 84201,
@@ -1287,7 +1287,6 @@ TellMeWhenDB = {
 		},
 		["龙听雨 - 巨龙之吼"] = {
 			["Locked"] = true,
-			["NumGroups"] = 2,
 			["Version"] = 83302,
 			["Groups"] = {
 				{
@@ -2099,6 +2098,7 @@ TellMeWhenDB = {
 					["OnlyInCombat"] = true,
 				}, -- [2]
 			},
+			["NumGroups"] = 2,
 		},
 		["星界旅行者 - 瓦拉斯塔兹"] = {
 			["Locked"] = true,

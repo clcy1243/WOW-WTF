@@ -24,8 +24,11 @@ ThreatPlatesDB = {
 		},
 	},
 	["global"] = {
+		["StandalonePopup"] = true,
+		["version"] = "8.6.3",
 		["CheckNewLookAndFeel"] = true,
-		["version"] = "8.5.5",
+		["MigrationLog"] = {
+		},
 	},
 	["profileKeys"] = {
 		["龙听雨 - 主宰之剑"] = "Default",
@@ -82,38 +85,38 @@ ThreatPlatesDB = {
 				[50] = {
 				},
 				["list"] = {
-					"暗影惡魔", -- [1]
-					"幽靈狼", -- [2]
-					"黯黑石像鬼", -- [3]
-					"水元素", -- [4]
-					"樹人", -- [5]
-					"響尾蛇", -- [6]
-					"毒蛇", -- [7]
-					"食屍鬼大軍", -- [8]
-					"暗影幻靈", -- [9]
-					"蹣跚的恐獸", -- [10]
-					"纏繞之網", -- [11]
-					"不朽守護者", -- [12]
-					"標記的不朽守護者", -- [13]
-					"強化的擁護者", -- [14]
-					"畸形的狂熱者", -- [15]
-					"再活化的擁護者", -- [16]
-					"再活化的狂熱者", -- [17]
-					"骸骨尖刺", -- [18]
-					"奧妮克希亞幼龍", -- [19]
-					"毒氣雲", -- [20]
-					"暴躁軟泥怪", -- [21]
-					"達納凡", -- [22]
-					"華爾琪影衛", -- [23]
-					"動能炸彈", -- [24]
-					"巫妖王", -- [25]
-					"狂怒的鬼魂", -- [26]
-					"苦工食屍鬼", -- [27]
-					"燃燒的煉獄火", -- [28]
-					"燃燒的餘燼", -- [29]
-					"尖牙深淵毒蛇", -- [30]
-					"運河蟹", -- [31]
-					"泥濘螯蝦", -- [32]
+					"Shadow Fiend", -- [1]
+					"Spirit Wolf", -- [2]
+					"Ebon Gargoyle", -- [3]
+					"Water Elemental", -- [4]
+					"Treant", -- [5]
+					"Viper", -- [6]
+					"Venomous Snake", -- [7]
+					"Army of the Dead Ghoul", -- [8]
+					"Shadowy Apparition", -- [9]
+					"Shambling Horror", -- [10]
+					"Web Wrap", -- [11]
+					"Immortal Guardian", -- [12]
+					"Marked Immortal Guardian", -- [13]
+					"Empowered Adherent", -- [14]
+					"Deformed Fanatic", -- [15]
+					"Reanimated Adherent", -- [16]
+					"Reanimated Fanatic", -- [17]
+					"Bone Spike", -- [18]
+					"Onyxian Whelp", -- [19]
+					"Gas Cloud", -- [20]
+					"Volatile Ooze", -- [21]
+					"Darnavan", -- [22]
+					"Val'kyr Shadowguard", -- [23]
+					"Kinetic Bomb", -- [24]
+					"Lich King", -- [25]
+					"Raging Spirit", -- [26]
+					"Drudge Ghoul", -- [27]
+					"Living Inferno", -- [28]
+					"Living Ember", -- [29]
+					"Fanged Pit Viper", -- [30]
+					"Canal Crab", -- [31]
+					"Muddy Crawfish", -- [32]
 					"", -- [33]
 					"", -- [34]
 					"", -- [35]

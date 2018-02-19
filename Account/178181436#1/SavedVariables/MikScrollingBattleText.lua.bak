@@ -430,9 +430,6 @@ MSBTProfiles_SavedVars = {
 			["enableBlizzardHealing"] = true,
 			["enableBlizzardDamage"] = true,
 			["scrollAreas"] = {
-				["Static"] = {
-					["name"] = "Bottom",
-				},
 				["Incoming"] = {
 					["direction"] = "Up",
 					["behavior"] = "MSBT_NORMAL",
@@ -446,9 +443,6 @@ MSBTProfiles_SavedVars = {
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",
 				},
-				["Notification"] = {
-					["name"] = "Top",
-				},
 				["Outgoing"] = {
 					["direction"] = "Up",
 					["stickyBehavior"] = "MSBT_NORMAL",
@@ -460,6 +454,12 @@ MSBTProfiles_SavedVars = {
 					["offsetY"] = -60,
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",
+				},
+				["Notification"] = {
+					["name"] = "Top",
+				},
+				["Static"] = {
+					["name"] = "Bottom",
 				},
 			},
 			["triggers"] = {
@@ -791,23 +791,8 @@ MSBTProfiles_SavedVars = {
 			},
 			["enableBlizzardHealing"] = true,
 			["scrollAreas"] = {
-				["Outgoing"] = {
-					["direction"] = "Up",
-					["stickyBehavior"] = "MSBT_NORMAL",
-					["stickyDirection"] = "Up",
-					["behavior"] = "MSBT_NORMAL",
-					["name"] = "Right",
-					["offsetX"] = 330,
-					["iconAlign"] = "Left",
-					["offsetY"] = -60,
-					["animationStyle"] = "Straight",
-					["stickyAnimationStyle"] = "Static",
-				},
 				["Static"] = {
 					["name"] = "Bottom",
-				},
-				["Notification"] = {
-					["name"] = "Top",
 				},
 				["Incoming"] = {
 					["direction"] = "Up",
@@ -818,6 +803,21 @@ MSBTProfiles_SavedVars = {
 					["name"] = "Left",
 					["offsetX"] = -330,
 					["iconAlign"] = "Right",
+					["offsetY"] = -60,
+					["animationStyle"] = "Straight",
+					["stickyAnimationStyle"] = "Static",
+				},
+				["Notification"] = {
+					["name"] = "Top",
+				},
+				["Outgoing"] = {
+					["direction"] = "Up",
+					["stickyBehavior"] = "MSBT_NORMAL",
+					["stickyDirection"] = "Up",
+					["behavior"] = "MSBT_NORMAL",
+					["name"] = "Right",
+					["offsetX"] = 330,
+					["iconAlign"] = "Left",
 					["offsetY"] = -60,
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",
@@ -895,6 +895,43 @@ MSBTProfiles_SavedVars = {
 				["disabled"] = false,
 			},
 			["enableBlizzardDamage"] = true,
+			["groupNumbers"] = true,
+			["hideFullOverheals"] = true,
+			["scrollAreas"] = {
+				["Outgoing"] = {
+					["direction"] = "Up",
+					["behavior"] = "MSBT_NORMAL",
+					["offsetX"] = 450,
+					["stickyDirection"] = "Up",
+					["scrollHeight"] = 120,
+					["name"] = "Right",
+					["stickyBehavior"] = "MSBT_NORMAL",
+					["iconAlign"] = "Left",
+					["offsetY"] = -380,
+					["animationStyle"] = "Straight",
+					["stickyAnimationStyle"] = "Static",
+				},
+				["Static"] = {
+					["name"] = "Bottom",
+				},
+				["Notification"] = {
+					["name"] = "Top",
+				},
+				["Incoming"] = {
+					["direction"] = "Up",
+					["stickyBehavior"] = "MSBT_NORMAL",
+					["offsetX"] = -450,
+					["stickyDirection"] = "Up",
+					["scrollHeight"] = 120,
+					["name"] = "Left",
+					["behavior"] = "MSBT_NORMAL",
+					["iconAlign"] = "Right",
+					["offsetY"] = -380,
+					["animationStyle"] = "Straight",
+					["stickyAnimationStyle"] = "Static",
+				},
+			},
+			["enableBlizzardHealing"] = true,
 			["events"] = {
 				["PET_INCOMING_HOT_CRIT"] = {
 					["disabled"] = true,
@@ -1311,43 +1348,6 @@ MSBTProfiles_SavedVars = {
 					["disabled"] = true,
 				},
 			},
-			["groupNumbers"] = true,
-			["scrollAreas"] = {
-				["Incoming"] = {
-					["direction"] = "Up",
-					["stickyBehavior"] = "MSBT_NORMAL",
-					["offsetX"] = -450,
-					["stickyDirection"] = "Up",
-					["scrollHeight"] = 120,
-					["name"] = "Left",
-					["behavior"] = "MSBT_NORMAL",
-					["iconAlign"] = "Right",
-					["offsetY"] = -380,
-					["animationStyle"] = "Straight",
-					["stickyAnimationStyle"] = "Static",
-				},
-				["Outgoing"] = {
-					["direction"] = "Up",
-					["behavior"] = "MSBT_NORMAL",
-					["offsetX"] = 450,
-					["stickyDirection"] = "Up",
-					["scrollHeight"] = 120,
-					["name"] = "Right",
-					["stickyBehavior"] = "MSBT_NORMAL",
-					["iconAlign"] = "Left",
-					["offsetY"] = -380,
-					["animationStyle"] = "Straight",
-					["stickyAnimationStyle"] = "Static",
-				},
-				["Notification"] = {
-					["name"] = "Top",
-				},
-				["Static"] = {
-					["name"] = "Bottom",
-				},
-			},
-			["enableBlizzardHealing"] = true,
-			["hideFullOverheals"] = true,
 			["throttleList"] = {
 				["吸血鬼之触"] = false,
 				["吸血鬼的拥抱"] = false,
@@ -1623,8 +1623,8 @@ MSBTProfiles_SavedVars = {
 				["NOTIFICATION_BUFF"] = {
 					["disabled"] = true,
 				},
-				["PET_OUTGOING_DODGE"] = {
-					["scrollArea"] = "Incoming",
+				["PET_INCOMING_SPELL_RESIST"] = {
+					["disabled"] = true,
 				},
 				["PET_OUTGOING_SPELL_DODGE"] = {
 					["scrollArea"] = "Incoming",
@@ -1644,7 +1644,7 @@ MSBTProfiles_SavedVars = {
 				["INCOMING_SPELL_DODGE"] = {
 					["disabled"] = true,
 				},
-				["PET_INCOMING_SPELL_RESIST"] = {
+				["NOTIFICATION_CP_FULL"] = {
 					["disabled"] = true,
 				},
 				["NOTIFICATION_DEBUFF_STACK"] = {
@@ -1716,8 +1716,8 @@ MSBTProfiles_SavedVars = {
 				["INCOMING_SPELL_INTERRUPT"] = {
 					["disabled"] = true,
 				},
-				["NOTIFICATION_CP_FULL"] = {
-					["disabled"] = true,
+				["PET_OUTGOING_DODGE"] = {
+					["scrollArea"] = "Incoming",
 				},
 				["PET_OUTGOING_IMMUNE"] = {
 					["scrollArea"] = "Incoming",
@@ -1774,9 +1774,6 @@ MSBTProfiles_SavedVars = {
 			["enableBlizzardHealing"] = true,
 			["enableBlizzardDamage"] = true,
 			["scrollAreas"] = {
-				["Static"] = {
-					["name"] = "Bottom",
-				},
 				["Incoming"] = {
 					["direction"] = "Up",
 					["behavior"] = "MSBT_NORMAL",
@@ -1790,9 +1787,6 @@ MSBTProfiles_SavedVars = {
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",
 				},
-				["Notification"] = {
-					["name"] = "Top",
-				},
 				["Outgoing"] = {
 					["direction"] = "Up",
 					["stickyBehavior"] = "MSBT_NORMAL",
@@ -1804,6 +1798,12 @@ MSBTProfiles_SavedVars = {
 					["offsetY"] = -60,
 					["animationStyle"] = "Straight",
 					["stickyAnimationStyle"] = "Static",
+				},
+				["Notification"] = {
+					["name"] = "Top",
+				},
+				["Static"] = {
+					["name"] = "Bottom",
 				},
 			},
 			["triggers"] = {

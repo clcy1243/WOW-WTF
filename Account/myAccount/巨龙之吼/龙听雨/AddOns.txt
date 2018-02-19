@@ -76,13 +76,13 @@ Stubby: enabled
 !Swatter: enabled
 TellMeWhen: enabled
 TellMeWhen_Options: enabled
-TidyPlates: enabled
-TidyPlatesHub: enabled
-TidyPlatesWidgets: enabled
-TidyPlates_Graphite: enabled
-TidyPlates_Grey: enabled
-TidyPlates_Neon: enabled
-TidyPlates_Quatre: enabled
+TidyPlates: disabled
+TidyPlatesHub: disabled
+TidyPlatesWidgets: disabled
+TidyPlates_Graphite: disabled
+TidyPlates_Grey: disabled
+TidyPlates_Neon: disabled
+TidyPlates_Quatre: disabled
 TipTac: enabled
 TipTacItemRef: enabled
 TipTacOptions: enabled
@@ -180,7 +180,7 @@ Oilvl: disabled
 GS-SequenceTranslator: disabled
 GS-HighPerformanceMacros: disabled
 GSE: disabled
-Ace3: disabled
+Ace3: enabled
 LibGroupInSpecT-1.1: enabled
 LibDBIcon-1.0: enabled
 GatherMate2: disabled
@@ -507,3 +507,5 @@ Gnosis: disabled
 ButtonFacade: enabled
 BrewmasterTools: enabled
 !!!PlaySoundFixer: enabled
+TidyPlates_BlizzardPlates: disabled
+TidyPlates_ThreatPlates: enabled

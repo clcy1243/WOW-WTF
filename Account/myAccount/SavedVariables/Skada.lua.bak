@@ -21,7 +21,7 @@ SkadaDB = {
 			},
 			["windows"] = {
 				{
-					["y"] = 189.533752441406,
+					["y"] = -15.4662475585938,
 					["barfont"] = "AR ZhongkaiGBK Medium",
 					["point"] = "LEFT",
 					["mode"] = "Stagger",

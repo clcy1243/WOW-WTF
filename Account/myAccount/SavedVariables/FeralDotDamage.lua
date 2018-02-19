@@ -19,8 +19,6 @@ FeralDotDamageDB = {
 		},
 	},
 	["profiles"] = {
-		["锦在天堂 - 太阳之井"] = {
-		},
 		["Default"] = {
 			["anonse"] = {
 				["spells"] = {
@@ -82,6 +80,8 @@ FeralDotDamageDB = {
 			},
 		},
 		["龙听雨 - 主宰之剑"] = {
+		},
+		["锦在天堂 - 太阳之井"] = {
 		},
 		["龙听雨 - 巨龙之吼"] = {
 		},

@@ -116,6 +116,13 @@ RecountDB = {
 				["Show"] = {
 					["Ungrouped"] = false,
 				},
+				["TrackDeaths"] = {
+					["Hostile"] = true,
+					["Ungrouped"] = true,
+					["Unknown"] = true,
+					["Trivial"] = true,
+					["Nontrivial"] = true,
+				},
 				["Data"] = {
 					["Trivial"] = true,
 					["Ungrouped"] = true,
@@ -132,13 +139,6 @@ RecountDB = {
 					["Unknown"] = true,
 					["Grouped"] = true,
 					["Ungrouped"] = true,
-				},
-				["TrackDeaths"] = {
-					["Hostile"] = true,
-					["Ungrouped"] = true,
-					["Unknown"] = true,
-					["Trivial"] = true,
-					["Nontrivial"] = true,
 				},
 			},
 		},
@@ -196,10 +196,10 @@ RecountDB = {
 		["龙听雨 - 巨龙之吼"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 316.5,
-					["h"] = 165.000045776367,
-					["w"] = 314.000061035156,
-					["x"] = -801.999618530273,
+					["y"] = 316.499938964844,
+					["h"] = 165.000061035156,
+					["w"] = 313.999938964844,
+					["x"] = -801.999877929688,
 				},
 			},
 			["Colors"] = {
@@ -215,7 +215,7 @@ RecountDB = {
 			["DetailWindowY"] = -255.25,
 			["DetailWindowX"] = 496.999633789063,
 			["MainWindowVis"] = false,
-			["LastInstanceName"] = "黑鸦堡垒",
+			["LastInstanceName"] = "安托鲁斯，燃烧王座",
 			["CurDataSet"] = "OverallData",
 			["MainWindowMode"] = 4,
 		},

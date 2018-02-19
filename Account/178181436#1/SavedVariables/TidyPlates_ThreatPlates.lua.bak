@@ -23,8 +23,11 @@ ThreatPlatesDB = {
 		["龙剑曦 - 主宰之剑"] = "Default",
 	},
 	["global"] = {
+		["StandalonePopup"] = true,
+		["version"] = "8.6.0",
 		["CheckNewLookAndFeel"] = true,
-		["version"] = "8.5.5",
+		["MigrationLog"] = {
+		},
 	},
 	["profiles"] = {
 		["Default"] = {
