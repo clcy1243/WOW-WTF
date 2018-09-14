@@ -60,6 +60,7 @@ TellMeWhenDB = {
 			["SUG_FIRSTHELP"] = true,
 			["SCROLLBAR_DROPDOWN"] = false,
 		},
+		["AllowCombatConfig"] = true,
 		["Groups"] = {
 			{
 				["Icons"] = {
@@ -110,9 +111,8 @@ TellMeWhenDB = {
 				},
 			}, -- [1]
 		},
-		["AllowCombatConfig"] = true,
 	},
-	["Version"] = 84201,
+	["Version"] = 84305,
 	["profiles"] = {
 		["倾城丨猫爷 - 太阳之井"] = {
 			["Locked"] = true,
@@ -171,7 +171,6 @@ TellMeWhenDB = {
 		},
 		["龙听雨 - 主宰之剑"] = {
 			["Locked"] = true,
-			["NumGroups"] = 2,
 			["Version"] = 83302,
 			["Groups"] = {
 				{
@@ -1119,9 +1118,10 @@ TellMeWhenDB = {
 					["OnlyInCombat"] = true,
 				}, -- [2]
 			},
+			["NumGroups"] = 2,
 		},
 		["龙轻雪 - 主宰之剑"] = {
-			["Version"] = 84201,
+			["Version"] = 84305,
 			["NumGroups"] = 0,
 			["Groups"] = {
 				{
@@ -1287,7 +1287,6 @@ TellMeWhenDB = {
 		},
 		["龙听雨 - 巨龙之吼"] = {
 			["Locked"] = true,
-			["Version"] = 83302,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1OS8knAxTvDZ",
@@ -2099,6 +2098,7 @@ TellMeWhenDB = {
 				}, -- [2]
 			},
 			["NumGroups"] = 2,
+			["Version"] = 83302,
 		},
 		["星界旅行者 - 瓦拉斯塔兹"] = {
 			["Locked"] = true,

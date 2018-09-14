@@ -17,7 +17,13 @@ BigWigs3DB = {
 		},
 	},
 	["namespaces"] = {
-		["BigWigs_Bosses_Ularogg Cragshaper"] = {
+		["BigWigs_Bosses_Spellblade Aluriel"] = {
+			["profiles"] = {
+				["Default"] = {
+					["custom_off_213166"] = true,
+					["custom_off_213867"] = true,
+				},
+			},
 		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
@@ -30,11 +36,24 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
-		["BigWigs_Bosses_Advisor Melandrus"] = {
+		["BigWigs_Plugins_Super Emphasize"] = {
+			["profiles"] = {
+				["Default"] = {
+					["font"] = "默认",
+				},
+			},
 		},
-		["BigWigs_Bosses_Ivanyr"] = {
+		["BigWigs_Bosses_King Deepbeard"] = {
+		},
+		["BigWigs_Bosses_Eye of Azshara Trash"] = {
+		},
+		["BigWigs_Plugins_Sounds"] = {
+		},
+		["BigWigs_Bosses_Serpentrix"] = {
+		},
+		["BigWigs_Plugins_Respawn"] = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
@@ -55,77 +74,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Goroth"] = {
-		},
-		["BigWigs_Bosses_Naraxas"] = {
-		},
-		["BigWigs_Bosses_Demonic Inquisition"] = {
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Bosses_Sisters of the Moon"] = {
-		},
-		["BigWigs_Plugins_HeroesVoices"] = {
-		},
-		["BigWigs_Bosses_Mistress Sassz'ine"] = {
-			["profiles"] = {
-				["Default"] = {
-					[230139] = 98307,
-					["custom_off_230139"] = true,
-				},
-			},
-		},
-		["BigWigs_Plugins_Transcriptor"] = {
-		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["fontSize"] = 20,
-					["BWMessageAnchor_x"] = 604.622757696125,
-					["font"] = "默认",
-					["BWMessageAnchor_y"] = 519.644500430095,
-				},
-			},
-		},
-		["BigWigs_Bosses_Harjatan the Bludger"] = {
-		},
-		["BigWigs_Bosses_Wrath of Azshara"] = {
-		},
-		["BigWigs_Bosses_Spellblade Aluriel"] = {
-			["profiles"] = {
-				["Default"] = {
-					["custom_off_213166"] = true,
-					["custom_off_213867"] = true,
-				},
-			},
-		},
-		["BigWigs_Bosses_Warlord Parjesh"] = {
-		},
-		["BigWigs_Bosses_King Deepbeard"] = {
-		},
-		["BigWigs_Bosses_Lady Hatecoil"] = {
-		},
-		["BigWigs_Bosses_Serpentrix"] = {
-		},
-		["BigWigs_Bosses_General Xakal"] = {
-		},
-		["BigWigs_Plugins_Pull"] = {
-			["profiles"] = {
-				["Default"] = {
-					["countType"] = "normal",
-				},
-			},
-		},
-		["BigWigs_Plugins_Victory"] = {
-		},
-		["BigWigs_Plugins_Sounds"] = {
-		},
-		["BigWigs_Bosses_Tomb of Sargeras Trash"] = {
-		},
-		["BigWigs_Bosses_Dargrul"] = {
-		},
-		["BigWigs_Bosses_Court of Stars Trash"] = {
-		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -137,19 +85,17 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Rokmora"] = {
+		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Bosses_Advisor Vandros"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Bosses_Corstilax"] = {
+		["BigWigs_Plugins_ThogarBarColors"] = {
 		},
-		["BigWigs_Bosses_Patrol Captain Gerdo"] = {
-		},
-		["BigWigs_Bosses_Naltira"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Bosses_Eye of Azshara Trash"] = {
+		["BigWigs_Bosses_Lady Hatecoil"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -159,9 +105,20 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_ThogarBarColors"] = {
+		["BigWigs_Plugins_Bars"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BigWigsAnchor_y"] = 538.844848117242,
+					["BigWigsEmphasizeAnchor_width"] = 300.000061035156,
+					["BigWigsAnchor_x"] = 1128.88874261313,
+					["BigWigsAnchor_width"] = 199.999938964844,
+					["font"] = "默认",
+				},
+			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Bosses_Wrath of Azshara"] = {
+		},
+		["BigWigs_Plugins_HeroesVoices"] = {
 		},
 		["BigWigs_Bosses_The Desolate Host"] = {
 			["profiles"] = {
@@ -170,23 +127,32 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_The Arcway Trash"] = {
-		},
-		["BigWigs_Bosses_Talixae Flamewreath"] = {
-		},
-		["BigWigs_Bosses_Neltharions Lair Trash"] = {
-		},
-		["BigWigs_Plugins_Bars"] = {
+		["BigWigs_Bosses_Mistress Sassz'ine"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsAnchor_width"] = 199.999908447266,
-					["BigWigsAnchor_y"] = 538.844848117242,
-					["BigWigsAnchor_x"] = 1128.88874261313,
-					["font"] = "默认",
+					[230139] = 98307,
+					["custom_off_230139"] = true,
 				},
 			},
 		},
-		["BigWigs_Plugins_Respawn"] = {
+		["BigWigs_Plugins_Transcriptor"] = {
+		},
+		["BigWigs_Plugins_Pull"] = {
+			["profiles"] = {
+				["Default"] = {
+					["countType"] = "normal",
+				},
+			},
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["fontSize"] = 20,
+					["BWMessageAnchor_x"] = 604.622757696125,
+					["font"] = "默认",
+					["BWMessageAnchor_y"] = 519.644500430095,
+				},
+			},
 		},
 		["BigWigs_Bosses_Harbaron"] = {
 			["profiles"] = {
@@ -196,13 +162,6 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_Common Auras"] = {
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
-			["profiles"] = {
-				["Default"] = {
-					["font"] = "默认",
-				},
-			},
 		},
 	},
 	["discord"] = 15,

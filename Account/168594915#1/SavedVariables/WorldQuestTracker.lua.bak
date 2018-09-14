@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["非雪 - 巨龙之吼"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-861-049EDB88"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-861-049EDB88"] = {
+					["class"] = "MONK",
+					["name"] = "非雪",
+					["realm"] = "巨龙之吼",
+				},
+			},
+		},
+	},
+}

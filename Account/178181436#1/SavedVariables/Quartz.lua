@@ -12,7 +12,7 @@ Quartz3DB = {
 		["Pet"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 860,
+					["x"] = 1820,
 				},
 			},
 		},
@@ -21,7 +21,7 @@ Quartz3DB = {
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 835,
+					["x"] = 1795,
 				},
 			},
 		},
@@ -30,14 +30,14 @@ Quartz3DB = {
 		["Focus"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 860,
+					["x"] = 1820,
 				},
 			},
 		},
 		["Target"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 860,
+					["x"] = 1820,
 				},
 			},
 		},
@@ -67,6 +67,7 @@ Quartz3DB = {
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
+				["Mirror"] = false,
 				["Buff"] = false,
 			},
 		},

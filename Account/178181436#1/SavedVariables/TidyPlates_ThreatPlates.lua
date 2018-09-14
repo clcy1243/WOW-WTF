@@ -20,7 +20,7 @@ ThreatPlatesDB = {
 	},
 	["global"] = {
 		["StandalonePopup"] = true,
-		["version"] = "8.6.1",
+		["version"] = "8.6.4",
 		["CheckNewLookAndFeel"] = true,
 		["MigrationLog"] = {
 		},

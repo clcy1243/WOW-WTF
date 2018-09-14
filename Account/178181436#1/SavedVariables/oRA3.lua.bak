@@ -16,6 +16,34 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
+			["global"] = {
+				["spellsOnCooldown"] = {
+					[19574] = {
+						["Player-1955-01D0F52E"] = 524223.733,
+					},
+					[5217] = {
+						["Player-1955-01D9A42B"] = 524166.906,
+					},
+					[193526] = {
+						["Player-1955-00F84E73"] = 524248.55,
+					},
+					[193530] = {
+						["Player-1955-01D0F52E"] = 524215.287,
+					},
+					[131894] = {
+						["Player-1955-01D0F52E"] = 524153.565,
+					},
+				},
+				["lastTime"] = 524149.686,
+				["chargeSpellsOnCooldown"] = {
+					[22842] = {
+						["Player-1955-01B843ED"] = {
+							524173.404, -- [1]
+							524197.404, -- [2]
+						},
+					},
+				},
+			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -47,8 +75,8 @@ oRA3DB = {
 					},
 					["filters"] = {
 						["Default"] = {
-							["hideOffline"] = true,
 							["hideOutOfRange"] = true,
+							["hideOffline"] = true,
 							["hideDead"] = true,
 						},
 					},
@@ -78,9 +106,9 @@ oRA3DB = {
 					["PosX"] = 305.133216239159,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
-					["Height"] = 213.523864746094,
-					["PosX"] = 248.399977459227,
-					["PosY"] = 565.933413213774,
+					["Height"] = 213.523849487305,
+					["PosX"] = 248.399984313464,
+					["PosY"] = 565.933347037062,
 					["Width"] = 335.428588867188,
 				},
 			},

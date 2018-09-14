@@ -2,24 +2,27 @@
 WQTrackerDB = {
 	["profileKeys"] = {
 		["霸拿拿 - 巨龙之吼"] = "Default",
+		["猎手阿炳 - 太阳之井"] = "Default",
 		["芒丶果 - 巨龙之吼"] = "Default",
 		["橘丶子 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["TutorialTaxyMap"] = true,
 			["groupfinder"] = {
 				["tracker_buttons"] = false,
-				["tutorial"] = 1,
 				["enabled"] = false,
+				["tutorial"] = 1,
 			},
 			["AlertTutorialStep"] = 5,
-			["GotTutorial"] = true,
 			["quests_tracked"] = {
+				["Player-861-04C028CE"] = {
+				},
 				["Player-861-04BF171E"] = {
 				},
 				["Player-861-04CAB5CD"] = {
 				},
-				["Player-861-04C028CE"] = {
+				["Player-1514-03D42E0B"] = {
 				},
 			},
 			["quests_all_characters"] = {
@@ -189,10 +192,10 @@ WQTrackerDB = {
 						["rewardAmount"] = 26000000,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
 					},
-					[42781] = {
-						["expireAt"] = 1502319681,
-						["rewardAmount"] = "|cffc557FF865",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					[43600] = {
+						["expireAt"] = 1502319661,
+						["rewardAmount"] = 10000000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
 					},
 					[44780] = {
 						["expireAt"] = 1502319661,
@@ -204,10 +207,10 @@ WQTrackerDB = {
 						["rewardAmount"] = "|cffc557FF855",
 						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
 					},
-					[43600] = {
-						["expireAt"] = 1502319661,
-						["rewardAmount"] = 10000000,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					[42781] = {
+						["expireAt"] = 1502319681,
+						["rewardAmount"] = "|cffc557FF865",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
 					},
 					[46113] = {
 						["expireAt"] = 1502319634,
@@ -236,8 +239,12 @@ WQTrackerDB = {
 					},
 				},
 			},
-			["TutorialTaxyMap"] = true,
 			["player_names"] = {
+				["Player-861-04C028CE"] = {
+					["class"] = "WARRIOR",
+					["name"] = "芒丶果",
+					["realm"] = "巨龙之吼",
+				},
 				["Player-861-04BF171E"] = {
 					["class"] = "WARLOCK",
 					["name"] = "橘丶子",
@@ -248,10 +255,10 @@ WQTrackerDB = {
 					["name"] = "霸拿拿",
 					["realm"] = "巨龙之吼",
 				},
-				["Player-861-04C028CE"] = {
-					["class"] = "WARRIOR",
-					["name"] = "芒丶果",
-					["realm"] = "巨龙之吼",
+				["Player-1514-03D42E0B"] = {
+					["class"] = "DEMONHUNTER",
+					["name"] = "猎手阿炳",
+					["realm"] = "太阳之井",
 				},
 			},
 			["history"] = {
@@ -384,6 +391,7 @@ WQTrackerDB = {
 					},
 				},
 			},
+			["GotTutorial"] = true,
 		},
 	},
 }

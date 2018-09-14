@@ -24,21 +24,17 @@ TotalArtifactPowerCache = {
 			["isIgnored"] = false,
 		}, -- [2]
 		{
-			["thisLevelUnspentAP"] = 7391214918,
+			["thisLevelUnspentAP"] = 34692231918,
 			["artifactTier"] = 2,
-			["numTraitsPurchased"] = 67,
+			["numTraitsPurchased"] = 69,
 			["isIgnored"] = false,
 		}, -- [3]
 		{
-			["thisLevelUnspentAP"] = 97428389065,
+			["thisLevelUnspentAP"] = 105618390365,
 			["artifactTier"] = 2,
 			["numTraitsPurchased"] = 73,
 			["isIgnored"] = false,
 		}, -- [4]
-		["bankCache"] = {
-			["inBankAP"] = 0,
-			["numItems"] = 0,
-		},
 	},
 	["龙剑曦 - 主宰之剑"] = {
 		{

@@ -37,11 +37,11 @@ VER 3 0100000000000004 " 焦点" "136188"
 #showtooltip
 /cast [@focus] 生命虹吸
 END
-VER 3 010000000000000B "焦点" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@focus] 腐蚀术
-END
 VER 3 0100000000000002 "焦点" "136139"
 #showtooltip
 /cast [@focus] 痛楚
+END
+VER 3 010000000000000B "焦点" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] 腐蚀术
 END

@@ -1,17 +1,23 @@
 
 MasterPlanAG = {
 	["巨龙之吼"] = {
-		["霸拿拿"] = {
-			["class"] = "PRIEST",
+		["芒丶果"] = {
+			["class"] = "WARRIOR",
 			["faction"] = "Horde",
 		},
 		["橘丶子"] = {
 			["class"] = "WARLOCK",
 			["faction"] = "Horde",
 		},
-		["芒丶果"] = {
+		["霸拿拿"] = {
 			["faction"] = "Horde",
-			["class"] = "WARRIOR",
+			["class"] = "PRIEST",
+		},
+	},
+	["太阳之井"] = {
+		["猎手阿炳"] = {
+			["faction"] = "Horde",
+			["class"] = "DEMONHUNTER",
 		},
 	},
 }

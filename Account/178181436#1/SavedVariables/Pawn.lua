@@ -11,7 +11,7 @@ PawnCommon = {
 	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
-	["LastVersion"] = 2.0214,
+	["LastVersion"] = 2.0218,
 	["ShowSocketingAdvisor"] = true,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
@@ -195,6 +195,9 @@ PawnCommon = {
 			["IconTexturePath"] = 136041,
 			["PerCharacterOptions"] = {
 				["倾城丨烟雨-摩摩尔"] = {
+					["Visible"] = true,
+				},
+				["龙轻雪-主宰之剑"] = {
 					["Visible"] = true,
 				},
 			},
@@ -395,9 +398,6 @@ PawnCommon = {
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = 132115,
 			["PerCharacterOptions"] = {
-				["龙轻雪-主宰之剑"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ff7d0a",
 			["ClassID"] = 11,

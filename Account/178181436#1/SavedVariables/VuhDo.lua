@@ -93,14 +93,14 @@ VUHDO_PROFILES = {
 		["LOCKED"] = false,
 		["PANEL_POSITIONS"] = {
 			{
-				["y"] = -77.5368576049805,
-				["x"] = 273.858856201172,
+				["y"] = -99.5368118286133,
+				["x"] = 289.860321044922,
 				["scale"] = 1,
 				["relativePoint"] = "CENTER",
 				["orientation"] = "CENTER",
-				["height"] = 239,
+				["height"] = 294.000091552734,
 				["growth"] = "TOPLEFT",
-				["width"] = 90.0001449584961,
+				["width"] = 90.0000610351563,
 			}, -- [1]
 			{
 				["y"] = 668,

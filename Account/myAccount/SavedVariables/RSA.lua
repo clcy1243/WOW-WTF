@@ -7,9 +7,10 @@ RSADB = {
 	["profileKeys"] = {
 		["龙剑曦 - 主宰之剑"] = "龙剑曦 - 主宰之剑",
 		["信仰丶圣光 - 摩摩尔"] = "信仰丶圣光 - 摩摩尔",
+		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
 		["龙轻雪 - 主宰之剑"] = "龙轻雪 - 主宰之剑",
 		["斯特莱夫 - 瓦拉斯塔兹"] = "斯特莱夫 - 瓦拉斯塔兹",
-		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
+		["Qweqeqw - 巨龙之吼"] = "DEATHKNIGHT",
 		["龙听雨 - 主宰之剑"] = "龙听雨 - 主宰之剑",
 		["星界旅行者 - 瓦拉斯塔兹"] = "星界旅行者 - 瓦拉斯塔兹",
 		["看你洗澡 - 瓦拉斯塔兹"] = "看你洗澡 - 瓦拉斯塔兹",
@@ -21,9 +22,19 @@ RSADB = {
 		["倾城丨烟雨 - 摩摩尔"] = "倾城丨烟雨 - 摩摩尔",
 	},
 	["global"] = {
-		["version"] = "3.276",
+		["version"] = 4,
+		["revision"] = "492",
 	},
 	["profiles"] = {
+		["DEATHKNIGHT"] = {
+			["Modules"] = {
+				["DeathKnight"] = true,
+			},
+			["Fixed"] = true,
+			["General"] = {
+				["Class"] = "DEATHKNIGHT",
+			},
+		},
 		["龙剑曦 - 主宰之剑"] = {
 			["Modules"] = {
 				["DemonHunter"] = true,
@@ -110,15 +121,16 @@ RSADB = {
 				["Race"] = "Pandaren",
 				["Class"] = "MONK",
 			},
+			["Modules"] = {
+				["Monk"] = true,
+			},
+			["Fixed"] = true,
 			["Monk"] = {
 				["Spells"] = {
 					["Resuscitate"] = {
 						["Whisper"] = false,
 					},
 				},
-			},
-			["Modules"] = {
-				["Monk"] = true,
 			},
 		},
 		["龙听雨 - 主宰之剑"] = {

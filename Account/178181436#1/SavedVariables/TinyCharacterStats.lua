@@ -903,6 +903,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
+		{
+			["statKey"] = "SPEED",
+		}, -- [33]
 		["uniqueKey"] = "龙轻雪:主宰之剑:3",
 	},
 	["龙轻雪:主宰之剑:4"] = {
@@ -1003,6 +1006,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
+		{
+			["statKey"] = "SPEED",
+		}, -- [33]
 		["uniqueKey"] = "龙轻雪:主宰之剑:4",
 	},
 	["徳馨:破碎岭:3"] = {
@@ -2214,6 +2220,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
+		{
+			["statKey"] = "SPEED",
+		}, -- [33]
 		["uniqueKey"] = "龙轻雪:主宰之剑:2",
 	},
 	["龙听雨:巨龙之吼:2"] = {

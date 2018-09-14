@@ -133,7 +133,7 @@ AdiBagsDB = {
 			["filters"] = {
 				["ItemSets"] = false,
 			},
-			["scale"] = 0.9,
+			["scale"] = 1.1,
 			["hideAnchor"] = true,
 			["autoDeposit"] = true,
 			["rightClickConfig"] = false,

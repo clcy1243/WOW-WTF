@@ -3859,12 +3859,12 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["244172"] = {
+			["136180"] = {
 				["isStacks"] = true,
 				["animate"] = false,
-				["isIcon"] = true,
-				["isColor"] = false,
 				["timer"] = true,
+				["isColor"] = false,
+				["isIcon"] = true,
 			},
 			["133675"] = {
 				["isStacks"] = true,
@@ -3894,12 +3894,12 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["136180"] = {
+			["207143"] = {
 				["isStacks"] = true,
 				["animate"] = false,
-				["timer"] = true,
-				["isColor"] = false,
 				["isIcon"] = true,
+				["isColor"] = false,
+				["timer"] = true,
 			},
 			["164191"] = {
 				["isStacks"] = true,
@@ -3908,7 +3908,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isIcon"] = true,
 			},
-			["207143"] = {
+			["244172"] = {
 				["isStacks"] = true,
 				["animate"] = false,
 				["isIcon"] = true,
@@ -4585,14 +4585,14 @@ VUHDO_PANEL_SETUP = {
 			["xAdjust"] = 0,
 		},
 		["POSITION"] = {
-			["y"] = 567.963439941406,
-			["x"] = 1239.14514160156,
+			["y"] = -40.5368804931641,
+			["x"] = 464.860321044922,
 			["scale"] = 1,
-			["relativePoint"] = "BOTTOMLEFT",
-			["orientation"] = "TOPLEFT",
-			["height"] = 73.9999923706055,
+			["relativePoint"] = "CENTER",
+			["orientation"] = "CENTER",
+			["height"] = 294.000030517578,
 			["growth"] = "TOPLEFT",
-			["width"] = 90.0000076293945,
+			["width"] = 90.0000610351563,
 		},
 		["RAID_ICON"] = {
 			["show"] = true,
@@ -4603,6 +4603,7 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
+			["ordering"] = 0,
 			["sort"] = 0,
 			["groups"] = {
 				1, -- [1]
@@ -4614,7 +4615,6 @@ VUHDO_PANEL_SETUP = {
 				7, -- [7]
 				8, -- [8]
 			},
-			["ordering"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -4742,7 +4742,7 @@ VUHDO_PANEL_SETUP = {
 			["showTags"] = true,
 			["position"] = "CENTER+CENTER",
 			["yAdjust"] = 0,
-			["_spacing"] = 19.0000095367432,
+			["_spacing"] = 19,
 			["xAdjust"] = 0,
 			["showPetOwners"] = false,
 		},
@@ -7319,9 +7319,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -7329,9 +7329,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -7384,9 +7384,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w3", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 	},
@@ -7416,9 +7416,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -7426,9 +7426,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -7481,9 +7481,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w3", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 	},
@@ -7516,17 +7516,118 @@ VUHDO_SPEC_LAYOUTS = {
 	["selected"] = "龙轻雪: ",
 	["4"] = "",
 }
-VUHDO_GROUP_SIZE = 1
+VUHDO_GROUP_SIZE = 5
 VUHDO_RAID = {
-	["player"] = {
-		["zone"] = "梦境林地",
+	["partypet1"] = {
+		["number"] = 1,
+		["targetUnit"] = "partypet1target",
+		["visible"] = true,
+		["isVehicle"] = false,
+		["group"] = 0,
+		["classId"] = 40,
+		["range"] = true,
+		["unit"] = "partypet1",
+		["zone"] = "艾萨拉之眼",
+		["debuff"] = 0,
+		["healthmax"] = 6828662,
+		["baseRange"] = true,
+		["afk"] = false,
+		["sortMaxHp"] = 6828662,
+		["class"] = "WARRIOR",
+		["dead"] = false,
+		["map"] = "AszunaDungeon",
+		["threat"] = 0,
+		["fullName"] = "小白嗜血",
+		["power"] = 62,
+		["aggro"] = false,
+		["powertype"] = 2,
+		["threatPerc"] = 0,
+		["isPet"] = true,
+		["charmed"] = false,
+		["name"] = "小白嗜血",
+		["className"] = "小白嗜血",
+		["powermax"] = 120,
+		["ownerUnit"] = "party1",
+		["connected"] = true,
+		["health"] = 6828662,
+	},
+	["party3"] = {
+		["zone"] = "艾萨拉之眼",
 		["baseRange"] = true,
 		["class"] = "DRUID",
-		["role"] = 63,
-		["sortMaxHp"] = 5799420,
-		["map"] = "TheDreamgrove",
+		["role"] = 61,
+		["sortMaxHp"] = 6094020,
+		["map"] = "AszunaDungeon",
 		["threat"] = 0,
-		["powermax"] = 1100000,
+		["powermax"] = 230,
+		["threatPerc"] = 0,
+		["isPet"] = false,
+		["name"] = "堕落的地狱",
+		["number"] = 3,
+		["isVehicle"] = false,
+		["group"] = 1,
+		["classId"] = 27,
+		["range"] = true,
+		["unit"] = "party3",
+		["powertype"] = 3,
+		["healthmax"] = 6094020,
+		["dead"] = false,
+		["charmed"] = false,
+		["fullName"] = "堕落的地狱",
+		["power"] = 45,
+		["aggro"] = false,
+		["visible"] = true,
+		["targetUnit"] = "party3target",
+		["health"] = 6094020,
+		["className"] = "德鲁伊",
+		["afk"] = false,
+		["debuff"] = 0,
+		["connected"] = true,
+		["petUnit"] = "partypet3",
+	},
+	["party4"] = {
+		["zone"] = "艾萨拉之眼",
+		["baseRange"] = true,
+		["class"] = "HUNTER",
+		["role"] = 62,
+		["sortMaxHp"] = 6252360,
+		["map"] = "AszunaDungeon",
+		["threat"] = 0,
+		["powermax"] = 130,
+		["threatPerc"] = 0,
+		["isPet"] = false,
+		["name"] = "最爱浆果",
+		["number"] = 4,
+		["isVehicle"] = false,
+		["group"] = 1,
+		["classId"] = 22,
+		["range"] = true,
+		["unit"] = "party4",
+		["powertype"] = 2,
+		["healthmax"] = 6252360,
+		["dead"] = false,
+		["charmed"] = false,
+		["fullName"] = "最爱浆果",
+		["power"] = 71,
+		["aggro"] = false,
+		["visible"] = true,
+		["targetUnit"] = "party4target",
+		["health"] = 6252360,
+		["className"] = "猎人",
+		["afk"] = false,
+		["debuff"] = 0,
+		["connected"] = true,
+		["petUnit"] = "partypet4",
+	},
+	["player"] = {
+		["zone"] = "艾萨拉之眼",
+		["baseRange"] = true,
+		["class"] = "DRUID",
+		["role"] = 60,
+		["sortMaxHp"] = 12315589,
+		["map"] = "AszunaDungeon",
+		["threat"] = 0,
+		["powermax"] = 100,
 		["threatPerc"] = 0,
 		["isPet"] = false,
 		["name"] = "龙轻雪",
@@ -7536,21 +7637,89 @@ VUHDO_RAID = {
 		["classId"] = 27,
 		["range"] = true,
 		["unit"] = "player",
-		["powertype"] = 0,
-		["healthmax"] = 5799420,
+		["powertype"] = 1,
+		["healthmax"] = 12315589,
 		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "龙轻雪",
-		["power"] = 1100000,
+		["power"] = 79,
 		["aggro"] = false,
 		["visible"] = true,
 		["targetUnit"] = "target",
-		["health"] = 5799420,
+		["health"] = 12315589,
 		["className"] = "德鲁伊",
 		["afk"] = false,
 		["debuff"] = 0,
 		["connected"] = true,
 		["petUnit"] = "pet",
+	},
+	["party2"] = {
+		["zone"] = "艾萨拉之眼",
+		["baseRange"] = true,
+		["class"] = "MONK",
+		["role"] = 63,
+		["sortMaxHp"] = 5479200,
+		["map"] = "AszunaDungeon",
+		["threat"] = 0,
+		["powermax"] = 1100000,
+		["threatPerc"] = 0,
+		["isPet"] = false,
+		["name"] = "守墓人丶沧水",
+		["number"] = 2,
+		["isVehicle"] = false,
+		["group"] = 1,
+		["classId"] = 30,
+		["range"] = true,
+		["unit"] = "party2",
+		["powertype"] = 0,
+		["healthmax"] = 5479200,
+		["dead"] = false,
+		["charmed"] = false,
+		["fullName"] = "守墓人丶沧水-菲拉斯",
+		["power"] = 977072,
+		["aggro"] = false,
+		["visible"] = true,
+		["targetUnit"] = "party2target",
+		["health"] = 5479200,
+		["className"] = "武僧",
+		["afk"] = false,
+		["debuff"] = 0,
+		["connected"] = true,
+		["petUnit"] = "partypet2",
+	},
+	["party1"] = {
+		["zone"] = "艾萨拉之眼",
+		["baseRange"] = true,
+		["class"] = "HUNTER",
+		["role"] = 62,
+		["sortMaxHp"] = 6097020,
+		["map"] = "AszunaDungeon",
+		["threat"] = 0,
+		["powermax"] = 126,
+		["threatPerc"] = 0,
+		["isPet"] = false,
+		["name"] = "欧萨蕾哟哈",
+		["number"] = 1,
+		["isVehicle"] = false,
+		["group"] = 1,
+		["classId"] = 22,
+		["range"] = true,
+		["unit"] = "party1",
+		["powertype"] = 2,
+		["healthmax"] = 6097020,
+		["dead"] = false,
+		["charmed"] = false,
+		["fullName"] = "欧萨蕾哟哈",
+		["power"] = 46,
+		["aggro"] = false,
+		["visible"] = true,
+		["targetUnit"] = "party1target",
+		["health"] = 6097020,
+		["className"] = "猎人",
+		["afk"] = false,
+		["debuff"] = 0,
+		["connected"] = true,
+		["petUnit"] = "partypet1",
 	},
 }
 VUHDO_INDICATOR_CONFIG = {
@@ -7575,9 +7744,9 @@ VUHDO_INDICATOR_CONFIG = {
 		},
 		["DAMAGE_FLASH_BAR"] = "",
 		["THREAT_MARK"] = "",
+		["MANA_BAR"] = "Manabars: Mana (Healer Only)",
 		["BAR_BORDER"] = "Threat: Marks",
 		["SIDE_RIGHT"] = "",
-		["MANA_BAR"] = "Manabars: Mana (Healer Only)",
 		["HEALTH_BAR"] = "Health (generic, class col)",
 		["SIDE_LEFT"] = "",
 		["CLUSTER_BORDER"] = "Target",

@@ -22,8 +22,8 @@ MasterPlanAG = {
 				},
 			},
 			["curOil"] = 605,
-			["lastCacheTime"] = 1507995106,
 			["class"] = "DEATHKNIGHT",
+			["lastCacheTime"] = 1507995106,
 			["curRes"] = 9978,
 			["faction"] = "Horde",
 		},
@@ -62,8 +62,6 @@ MasterPlanAG = {
 			["faction"] = "Horde",
 		},
 	},
-	["IgnoreRewards"] = {
-	},
 	["主宰之剑"] = {
 		["龙轻雪"] = {
 			["class"] = "DRUID",
@@ -93,10 +91,13 @@ MasterPlanAG = {
 	},
 	["巨龙之吼"] = {
 		["龙听雨"] = {
-			["faction"] = "Horde",
-			["lastCacheTime"] = 1507398521,
-			["curRes"] = 1906,
 			["class"] = "MONK",
+			["lastCacheTime"] = 1507398521,
+			["faction"] = "Horde",
+		},
+		["Qweqeqw"] = {
+			["class"] = "DEATHKNIGHT",
+			["faction"] = "Alliance",
 		},
 	},
 }

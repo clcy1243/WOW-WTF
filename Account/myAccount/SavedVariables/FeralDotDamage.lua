@@ -2,12 +2,17 @@
 FeralDotDamageDB = {
 	["AleaGUI_enablePerSpecProfile"] = false,
 	["profileKeys"] = {
-		["龙听雨 - 主宰之剑"] = {
+		["锦在天堂 - 太阳之井"] = {
 			"Default", -- [1]
 			"Default", -- [2]
 			"Default", -- [3]
 		},
-		["锦在天堂 - 太阳之井"] = {
+		["Qweqeqw - 巨龙之吼"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
+		["龙听雨 - 主宰之剑"] = {
 			"Default", -- [1]
 			"Default", -- [2]
 			"Default", -- [3]
@@ -19,6 +24,8 @@ FeralDotDamageDB = {
 		},
 	},
 	["profiles"] = {
+		["龙听雨 - 主宰之剑"] = {
+		},
 		["Default"] = {
 			["anonse"] = {
 				["spells"] = {
@@ -41,16 +48,13 @@ FeralDotDamageDB = {
 			["cooldowns"] = {
 				["ordering_spells"] = {
 					["spellList"] = {
-						[102280] = {
-							["on"] = false,
-						},
-						[135700] = {
+						[102401] = {
 							["on"] = false,
 						},
 						[1850] = {
 							["on"] = false,
 						},
-						[52610] = {
+						[77764] = {
 							["on"] = false,
 						},
 						[106839] = {
@@ -59,14 +63,14 @@ FeralDotDamageDB = {
 						[61336] = {
 							["on"] = false,
 						},
-						[77764] = {
+						[52610] = {
 							["on"] = false,
 						},
-						[102401] = {
+						[135700] = {
 							["on"] = false,
 						},
 					},
-					["initialReset"] = 3,
+					["initialReset"] = 5,
 				},
 			},
 			["Frames"] = {
@@ -79,7 +83,7 @@ FeralDotDamageDB = {
 				["hide"] = false,
 			},
 		},
-		["龙听雨 - 主宰之剑"] = {
+		["Qweqeqw - 巨龙之吼"] = {
 		},
 		["锦在天堂 - 太阳之井"] = {
 		},

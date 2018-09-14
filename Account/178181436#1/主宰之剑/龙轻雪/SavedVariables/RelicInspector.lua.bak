@@ -202,7 +202,7 @@ RelicInspectorCharDB = {
 					}, -- [3]
 					["crucibled"] = true,
 					["level"] = 61,
-					["timestamp"] = 645100.743,
+					["timestamp"] = 523332.053,
 				},
 				[128821] = {
 					{
@@ -398,8 +398,8 @@ RelicInspectorCharDB = {
 						},
 					}, -- [3]
 					["crucibled"] = true,
-					["level"] = 67,
-					["timestamp"] = 645178.337,
+					["level"] = 69,
+					["timestamp"] = 523800.256,
 				},
 				[128858] = {
 					{
@@ -596,7 +596,7 @@ RelicInspectorCharDB = {
 					}, -- [3]
 					["crucibled"] = true,
 					["level"] = 61,
-					["timestamp"] = 645100.743,
+					["timestamp"] = 523332.053,
 				},
 				[128306] = {
 					{
@@ -793,7 +793,7 @@ RelicInspectorCharDB = {
 					}, -- [3]
 					["crucibled"] = true,
 					["level"] = 73,
-					["timestamp"] = 645236.649,
+					["timestamp"] = 523332.053,
 				},
 			},
 		},

@@ -2,19 +2,22 @@
 WQTrackerDB = {
 	["profileKeys"] = {
 		["霸拿拿 - 巨龙之吼"] = "Default",
+		["猎手阿炳 - 太阳之井"] = "Default",
 		["芒丶果 - 巨龙之吼"] = "Default",
 		["橘丶子 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["TutorialTaxyMap"] = true,
 			["groupfinder"] = {
 				["tracker_buttons"] = false,
-				["tutorial"] = 1,
 				["enabled"] = false,
+				["tutorial"] = 1,
 			},
 			["AlertTutorialStep"] = 5,
-			["GotTutorial"] = true,
 			["quests_tracked"] = {
+				["Player-1514-03D42E0B"] = {
+				},
 				["Player-861-04BF171E"] = {
 				},
 				["Player-861-04CAB5CD"] = {
@@ -184,15 +187,15 @@ WQTrackerDB = {
 						["rewardAmount"] = "17",
 						["rewardTexture"] = 413584,
 					},
-					[42781] = {
-						["expireAt"] = 1502319681,
-						["rewardAmount"] = "|cffc557FF865",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
-					},
 					[43600] = {
 						["expireAt"] = 1502319661,
 						["rewardAmount"] = 10000000,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42781] = {
+						["expireAt"] = 1502319681,
+						["rewardAmount"] = "|cffc557FF865",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
 					},
 					[44185] = {
 						["expireAt"] = 1502341294,
@@ -236,8 +239,12 @@ WQTrackerDB = {
 					},
 				},
 			},
-			["TutorialTaxyMap"] = true,
 			["player_names"] = {
+				["Player-1514-03D42E0B"] = {
+					["class"] = "DEMONHUNTER",
+					["name"] = "猎手阿炳",
+					["realm"] = "太阳之井",
+				},
 				["Player-861-04BF171E"] = {
 					["class"] = "WARLOCK",
 					["name"] = "橘丶子",
@@ -259,16 +266,16 @@ WQTrackerDB = {
 					["global"] = {
 						[42269] = 1,
 						[41662] = 1,
-						[43193] = 1,
+						[43193] = 2,
 						[41896] = 1,
 						[45069] = 1,
 						[41552] = 1,
 						[44193] = 1,
-						["total"] = 15,
+						["total"] = 17,
 						[43327] = 1,
 						[41692] = 1,
 						[41420] = 1,
-						[46948] = 3,
+						[46948] = 4,
 						[41691] = 1,
 						[44746] = 1,
 					},
@@ -293,8 +300,9 @@ WQTrackerDB = {
 							[46948] = 2,
 						},
 						["Player-861-04C028CE"] = {
-							[46948] = 1,
-							["total"] = 1,
+							[43193] = 1,
+							["total"] = 3,
+							[46948] = 2,
 						},
 					},
 				},
@@ -302,8 +310,8 @@ WQTrackerDB = {
 					["global"] = {
 						["170810"] = {
 							["artifact"] = 30000000,
-							["quest"] = 2,
-							["resource"] = 1025,
+							["quest"] = 4,
+							["resource"] = 2025,
 						},
 						["170809"] = {
 							["quest"] = 2,
@@ -346,13 +354,17 @@ WQTrackerDB = {
 							["170809"] = {
 								["quest"] = 1,
 							},
+							["170810"] = {
+								["quest"] = 2,
+								["resource"] = 1000,
+							},
 						},
 					},
 				},
 				["reward"] = {
 					["global"] = {
 						["artifact"] = 38000000,
-						["resource"] = 1450,
+						["resource"] = 2450,
 						["gold"] = 1524600,
 						["profession"] = {
 							[124124] = 1,
@@ -374,10 +386,12 @@ WQTrackerDB = {
 							["resource"] = 1025,
 						},
 						["Player-861-04C028CE"] = {
+							["resource"] = 1000,
 						},
 					},
 				},
 			},
+			["GotTutorial"] = true,
 		},
 	},
 }

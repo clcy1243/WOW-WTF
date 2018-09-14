@@ -1,70 +1,17 @@
 
-CappingDB = {
-	["avquest"] = true,
-	["iconpos"] = "<-",
-	["world3"] = true,
-	["mapscale"] = 1.3,
-	["inset"] = 0,
-	["worldname2"] = "托尔巴拉德",
-	["wsg"] = true,
-	["ab"] = true,
-	["fontsize"] = 10,
-	["eots"] = true,
-	["colors"] = {
-		["info2"] = {
-			["a"] = 1,
-			["r"] = 1,
-			["g"] = 1,
-			["b"] = 0,
-		},
-		["alliance"] = {
-			["a"] = 1,
-			["r"] = 0,
-			["g"] = 0,
-			["b"] = 1,
-		},
-		["info1"] = {
-			["a"] = 1,
-			["r"] = 0.6,
-			["g"] = 0.6,
-			["b"] = 0.6,
-		},
-		["horde"] = {
-			["a"] = 1,
-			["r"] = 1,
-			["g"] = 0,
-			["b"] = 0,
-		},
-		["font"] = {
-			["a"] = 1,
-			["r"] = 1,
-			["g"] = 1,
-			["b"] = 1,
-		},
-		["spark"] = {
-			["a"] = 1,
-			["r"] = 1,
-			["g"] = 1,
-			["b"] = 1,
+CappingSettings = {
+	["profileKeys"] = {
+		["Qweqeqw - 巨龙之吼"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["position"] = {
+				"TOP", -- [1]
+				"TOP", -- [2]
+				672.001220703125, -- [3]
+				-182.499954223633, -- [4]
+			},
 		},
 	},
-	["world2"] = true,
-	["timepos"] = "<-",
-	["fill"] = false,
-	["dbinit"] = 7,
-	["worldname1"] = "冬拥湖",
-	["mainup"] = false,
-	["hidemapborder"] = false,
-	["width"] = 200,
-	["spacing"] = 1,
-	["port"] = true,
-	["wait"] = true,
-	["texture"] = "BantoBarReverse",
-	["font"] = "Friz Quadrata TT",
-	["av"] = true,
-	["reverse"] = false,
-	["height"] = 15,
-	["arena"] = true,
-	["narrow"] = true,
-	["ioc"] = true,
 }

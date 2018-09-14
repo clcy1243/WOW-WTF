@@ -1,13 +1,13 @@
 
 MSBTProfiles_SavedVars = {
+	["userDisabled"] = true,
 	["profiles"] = {
 		["Default"] = {
 			["enableBlizzardHealing"] = true,
-			["creationVersion"] = "5.7.147",
 			["enableBlizzardDamage"] = true,
+			["creationVersion"] = "5.7.147",
 		},
 	},
-	["userDisabled"] = true,
 }
 MSBT_SavedMedia = {
 	["fonts"] = {

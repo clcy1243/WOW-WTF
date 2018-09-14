@@ -23,9 +23,9 @@ MasterPlanAG = {
 			},
 			["curOil"] = 605,
 			["faction"] = "Horde",
-			["lastCacheTime"] = 1507995106,
-			["curRes"] = 9978,
 			["class"] = "DEATHKNIGHT",
+			["curRes"] = 9978,
+			["lastCacheTime"] = 1507995106,
 		},
 	},
 	["破碎岭"] = {
@@ -92,11 +92,15 @@ MasterPlanAG = {
 		},
 	},
 	["巨龙之吼"] = {
+		["Qweqeqw"] = {
+			["faction"] = "Alliance",
+			["class"] = "DEATHKNIGHT",
+		},
 		["龙听雨"] = {
-			["faction"] = "Horde",
 			["lastCacheTime"] = 1507398521,
-			["curRes"] = 1906,
 			["class"] = "MONK",
+			["curRes"] = 1906,
+			["faction"] = "Horde",
 		},
 	},
 }

@@ -361,3 +361,4 @@ UnitFramesPlus: enabled
 UnitFramesPlus_Options: enabled
 BigWigs_Antorus: enabled
 Gnosis: disabled
+!!!PlaySoundFixer: disabled

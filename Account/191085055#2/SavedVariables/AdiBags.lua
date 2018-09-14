@@ -1,7 +1,7 @@
 
 AdiBagsDB = {
 	["namespaces"] = {
-		["军团再临"] = {
+		["Hearthstones"] = {
 		},
 		["ItemLevel"] = {
 		},
@@ -14,29 +14,15 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["Garrison"] = {
-		},
 		["NewItem"] = {
 		},
-		["ItemSets"] = {
-			["profiles"] = {
-				["Default"] = {
-					["oneSectionPerSet"] = false,
-				},
-			},
+		["Garrison"] = {
+		},
+		["DataSource"] = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
 		["Legion"] = {
-		},
-		["Equipment"] = {
-			["profiles"] = {
-				["Default"] = {
-					["dispatchRule"] = "slot",
-				},
-			},
-		},
-		["MoneyFrame"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -57,33 +43,45 @@ AdiBagsDB = {
 						["徘徊之魂碎片"] = false,
 						["魔古命运符文"] = false,
 						["美食家奖章"] = false,
-						["永恒铸币"] = false,
-						["死亡之翼的堕落精华"] = false,
-						["沸腾的精华"] = false,
-						["铁掌徽记"] = false,
 						["要塞物资"] = false,
+						["死亡之翼的堕落精华"] = false,
+						["铁掌徽记"] = false,
+						["沸腾的精华"] = false,
+						["永恒铸币"] = false,
 					},
 				},
 			},
 		},
-		["DataSource"] = {
+		["MoneyFrame"] = {
+		},
+		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dispatchRule"] = "slot",
+				},
+			},
+		},
+		["ItemSets"] = {
+			["profiles"] = {
+				["Default"] = {
+					["oneSectionPerSet"] = false,
+				},
+			},
 		},
 		["Junk"] = {
 		},
-		["Hearthstones"] = {
+		["军团再临"] = {
 		},
 	},
 	["profileKeys"] = {
 		["霸拿拿 - 巨龙之吼"] = "Default",
+		["猎手阿炳 - 太阳之井"] = "Default",
 		["芒丶果 - 巨龙之吼"] = "Default",
 		["橘丶子 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["columnWidth"] = {
-				["Bank"] = 13,
-				["Backpack"] = 12,
-			},
+			["scale"] = 0.9,
 			["maxHeight"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
@@ -94,9 +92,12 @@ AdiBagsDB = {
 			["filters"] = {
 				["ItemSets"] = false,
 			},
-			["scale"] = 0.9,
-			["hideAnchor"] = true,
+			["columnWidth"] = {
+				["Backpack"] = 12,
+				["Bank"] = 13,
+			},
 			["rightClickConfig"] = false,
+			["hideAnchor"] = true,
 		},
 	},
 }

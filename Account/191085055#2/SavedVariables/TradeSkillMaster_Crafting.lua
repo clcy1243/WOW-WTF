@@ -1,0 +1,166 @@
+
+TradeSkillMaster_CraftingDB = {
+	["g@ @helpPlatesShown"] = {
+		["gatheringFrame"] = true,
+	},
+	["g@ @ignoreCharacters"] = {
+	},
+	["_hash"] = 15983053,
+	["f@Horde - 太阳之井@ignoreDECheckBox"] = false,
+	["f@Horde - 太阳之井@playerProfessions"] = {
+		["猎手阿炳"] = {
+			["烹饪"] = {
+				["isSecondary"] = true,
+				["level"] = 6,
+				["maxLevel"] = 75,
+			},
+			["草药学"] = {
+				["isSecondary"] = false,
+				["level"] = 196,
+				["maxLevel"] = 800,
+			},
+			["急救"] = {
+				["isSecondary"] = true,
+				["level"] = 32,
+				["maxLevel"] = 75,
+			},
+			["采矿"] = {
+				["isSecondary"] = false,
+				["level"] = 132,
+				["maxLevel"] = 800,
+			},
+		},
+	},
+	["f@Horde - 巨龙之吼@crafts"] = {
+	},
+	["f@Horde - 巨龙之吼@mats"] = {
+	},
+	["f@Horde - 太阳之井@inkTrade"] = false,
+	["f@Horde - 巨龙之吼@ignoreAlts"] = false,
+	["f@Horde - 巨龙之吼@gathering"] = {
+		["selectedSources"] = {
+		},
+		["availableMats"] = {
+		},
+		["shortItems"] = {
+		},
+		["sessionOptions"] = {
+		},
+		["selectedSourceStatus"] = {
+		},
+		["destroyingMats"] = {
+		},
+		["professions"] = {
+		},
+		["neededMats"] = {
+		},
+		["gatheredMats"] = false,
+		["extraMats"] = {
+		},
+	},
+	["f@Horde - 太阳之井@ignoreIntermediate"] = false,
+	["g@ @defaultMatCostMethod"] = "min(dbmarket, crafting, vendorbuy, convert(dbmarket))",
+	["_version"] = 7,
+	["f@Horde - 巨龙之吼@playerProfessions"] = {
+		["橘丶子"] = {
+			["工程学"] = {
+				["isSecondary"] = false,
+				["level"] = 766,
+				["maxLevel"] = 800,
+			},
+			["炼金术"] = {
+				["isSecondary"] = false,
+				["level"] = 800,
+				["maxLevel"] = 800,
+			},
+			["急救"] = {
+				["isSecondary"] = true,
+				["level"] = 36,
+				["maxLevel"] = 800,
+			},
+			["烹饪"] = {
+				["isSecondary"] = true,
+				["level"] = 732,
+				["maxLevel"] = 800,
+			},
+		},
+	},
+	["f@Horde - 巨龙之吼@buyAH"] = false,
+	["f@Horde - 巨龙之吼@inkTrade"] = false,
+	["_scopeKeys"] = {
+		["char"] = {
+			"橘丶子 - 巨龙之吼", -- [1]
+			"猎手阿炳 - 太阳之井", -- [2]
+		},
+		["realm"] = {
+			"巨龙之吼", -- [1]
+			"太阳之井", -- [2]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - 巨龙之吼", -- [1]
+			"Horde - 太阳之井", -- [2]
+		},
+	},
+	["f@Horde - 太阳之井@ignoreAlts"] = false,
+	["g@ @ignoreGuilds"] = {
+	},
+	["f@Horde - 太阳之井@professionScanCache"] = {
+	},
+	["g@ @frameQueueOpen"] = false,
+	["f@Horde - 太阳之井@evenStacks"] = false,
+	["f@Horde - 太阳之井@crafts"] = {
+	},
+	["f@Horde - 巨龙之吼@evenStacks"] = false,
+	["g@ @ignoreCDCraftCost"] = true,
+	["_currentProfile"] = {
+		["橘丶子 - 巨龙之吼"] = "Default",
+		["猎手阿炳 - 太阳之井"] = "Default",
+	},
+	["f@Horde - 太阳之井@gathering"] = {
+		["destroyingMats"] = {
+		},
+		["extraMats"] = {
+		},
+		["shortItems"] = {
+		},
+		["sessionOptions"] = {
+		},
+		["selectedSourceStatus"] = {
+		},
+		["selectedSources"] = {
+		},
+		["professions"] = {
+		},
+		["neededMats"] = {
+		},
+		["gatheredMats"] = false,
+		["availableMats"] = {
+		},
+	},
+	["f@Horde - 太阳之井@disableCheckBox"] = false,
+	["f@Horde - 太阳之井@mats"] = {
+	},
+	["g@ @queueSort"] = 1,
+	["f@Horde - 太阳之井@buyAH"] = false,
+	["g@ @priceColumn"] = 1,
+	["f@Horde - 太阳之井@queueStatus"] = {
+		["collapsed"] = {
+		},
+	},
+	["f@Horde - 巨龙之吼@professionScanCache"] = {
+	},
+	["f@Horde - 巨龙之吼@ignoreDECheckBox"] = false,
+	["g@ @questSmartCrafting"] = true,
+	["f@Horde - 巨龙之吼@ignoreIntermediate"] = false,
+	["f@Horde - 巨龙之吼@queueStatus"] = {
+		["collapsed"] = {
+		},
+	},
+	["g@ @defaultCraftPriceMethod"] = "first(dbminbuyout, dbmarket)",
+	["f@Horde - 巨龙之吼@disableCheckBox"] = false,
+	["g@ @showingDefaultFrame"] = false,
+	["g@ @profitPercent"] = 0,
+}

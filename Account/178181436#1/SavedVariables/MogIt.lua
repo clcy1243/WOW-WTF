@@ -17,7 +17,7 @@ MogItDB = {
 		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["global"] = {
-		["version"] = "3.8.2",
+		["version"] = "3.8.4",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -83,7 +83,7 @@ MogItDB = {
 			},
 			["gridWidth"] = 1028.99938964844,
 			["tooltip"] = false,
-			["y"] = 93.7501449584961,
+			["y"] = 93.7501602172852,
 		},
 	},
 }

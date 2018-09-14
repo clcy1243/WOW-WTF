@@ -1,0 +1,38 @@
+
+TotalArtifactPowerSettings = {
+	["profileKeys"] = {
+		["橘丶子 - 巨龙之吼"] = "Default",
+		["猎手阿炳 - 太阳之井"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TotalArtifactPowerCache = {
+	["橘丶子 - 巨龙之吼"] = {
+		{
+			["thisLevelUnspentAP"] = 100387032300,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 79,
+			["artifactTier"] = 2,
+		}, -- [1]
+		{
+			["isIgnored"] = false,
+		}, -- [2]
+		{
+			["isIgnored"] = false,
+		}, -- [3]
+	},
+	["猎手阿炳 - 太阳之井"] = {
+		{
+			["isIgnored"] = false,
+		}, -- [1]
+		{
+			["thisLevelUnspentAP"] = 70284296370,
+			["isIgnored"] = false,
+			["numTraitsPurchased"] = 71,
+			["artifactTier"] = 2,
+		}, -- [2]
+	},
+}

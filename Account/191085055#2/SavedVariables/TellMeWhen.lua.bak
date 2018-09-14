@@ -2,6 +2,7 @@
 TellMeWhenDB = {
 	["profileKeys"] = {
 		["霸拿拿 - 巨龙之吼"] = "霸拿拿 - 巨龙之吼",
+		["猎手阿炳 - 太阳之井"] = "猎手阿炳 - 太阳之井",
 		["芒丶果 - 巨龙之吼"] = "芒丶果 - 巨龙之吼",
 		["橘丶子 - 巨龙之吼"] = "橘丶子 - 巨龙之吼",
 	},
@@ -21,12 +22,12 @@ TellMeWhenDB = {
 			},
 		},
 		["HelpSettings"] = {
-			["SCROLLBAR_DROPDOWN"] = false,
 			["SUG_FIRSTHELP"] = true,
+			["SCROLLBAR_DROPDOWN"] = false,
 		},
 		["AllowCombatConfig"] = true,
 	},
-	["Version"] = 84002,
+	["Version"] = 84305,
 	["profiles"] = {
 		["霸拿拿 - 巨龙之吼"] = {
 			["Locked"] = true,
@@ -80,6 +81,60 @@ TellMeWhenDB = {
 						}, -- [4]
 					},
 					["GUID"] = "TMW:group:1PYnqRj_64em",
+				}, -- [1]
+			},
+		},
+		["猎手阿炳 - 太阳之井"] = {
+			["Version"] = 84305,
+			["Groups"] = {
+				{
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+					},
+					["GUID"] = "TMW:group:1QujDyV4FEi4",
 				}, -- [1]
 			},
 		},
@@ -139,65 +194,160 @@ TellMeWhenDB = {
 			},
 		},
 		["橘丶子 - 巨龙之吼"] = {
-			["Locked"] = true,
-			["NumGroups"] = 3,
 			["Groups"] = {
 				{
+					["EnabledSpecs"] = {
+						[266] = false,
+						[267] = false,
+					},
+					["OnlyInCombat"] = true,
 					["Enabled"] = false,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Unit"] = "target",
+							["OnlyMine"] = true,
+							["Type"] = "buff",
+							["Name"] = "172",
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["Events"] = {
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["CndtJustPassed"] = true,
+									["Value"] = 3,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnDuration",
+									["Operator"] = "<=",
+									["Infinite"] = true,
+								}, -- [1]
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["CndtJustPassed"] = true,
+									["Value"] = 3,
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "OnDuration",
+									["Operator"] = ">",
+								}, -- [2]
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "绝对腐蚀",
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [3]
+								["n"] = 3,
+							},
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Unit"] = "target",
+							["OnlyMine"] = true,
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["Name"] = "980",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["Events"] = {
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["CndtJustPassed"] = true,
+									["Value"] = 3,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnDuration",
+									["Operator"] = "<=",
+									["Infinite"] = true,
+								}, -- [1]
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["CndtJustPassed"] = true,
+									["Value"] = 3,
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "OnDuration",
+									["Operator"] = ">",
+								}, -- [2]
+								["n"] = 2,
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+					},
 					["Name"] = "目标DOT",
+					["GUID"] = "TMW:group:1PUTWf5TskBv",
 					["Point"] = {
 						["y"] = -42.7499847412109,
 						["x"] = 130.500061035156,
 					},
+				}, -- [1]
+				{
 					["EnabledSpecs"] = {
 						[266] = false,
 						[267] = false,
 					},
-					["GUID"] = "TMW:group:1PUTWf5TskBv",
+					["OnlyInCombat"] = true,
+					["Enabled"] = false,
 					["Icons"] = {
 						{
-							["Enabled"] = true,
 							["ShowTimer"] = true,
 							["BuffOrDebuff"] = "HARMFUL",
-							["Unit"] = "target",
+							["Unit"] = "focus",
 							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "buff",
+							["ShowTimerText"] = true,
 							["Name"] = "172",
-							["Events"] = {
-								{
-									["PassingCndt"] = true,
-									["Type"] = "Animations",
-									["Infinite"] = true,
-									["CndtJustPassed"] = true,
-									["Value"] = 3,
-									["Animation"] = "ACTVTNGLOW",
-									["Event"] = "OnDuration",
-									["Operator"] = "<=",
-								}, -- [1]
-								{
-									["Type"] = "Animations",
-									["PassingCndt"] = true,
-									["CndtJustPassed"] = true,
-									["Value"] = 3,
-									["Animation"] = "ICONCLEAR",
-									["Event"] = "OnDuration",
-									["Operator"] = ">",
-								}, -- [2]
-								{
-									["Type"] = "Animations",
-									["OnConditionConditions"] = {
-										{
-											["Name"] = "绝对腐蚀",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Event"] = "WCSP",
-									["Animation"] = "ICONCLEAR",
-								}, -- [3]
-								["n"] = 3,
-							},
+							["HideIfNoUnits"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -209,30 +359,77 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-						}, -- [1]
-						{
 							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["BuffOrDebuff"] = "HARMFUL",
-							["Unit"] = "target",
-							["OnlyMine"] = true,
-							["Name"] = "980",
-							["Type"] = "buff",
-							["ShowTimerText"] = true,
 							["Events"] = {
 								{
 									["PassingCndt"] = true,
 									["Type"] = "Animations",
-									["Infinite"] = true,
 									["CndtJustPassed"] = true,
 									["Value"] = 3,
 									["Animation"] = "ACTVTNGLOW",
 									["Event"] = "OnDuration",
 									["Operator"] = "<=",
+									["Infinite"] = true,
 								}, -- [1]
 								{
-									["Type"] = "Animations",
 									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["CndtJustPassed"] = true,
+									["Value"] = 3,
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "OnDuration",
+									["Operator"] = ">",
+								}, -- [2]
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "绝对腐蚀",
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [3]
+								["n"] = 3,
+							},
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Unit"] = "focus",
+							["OnlyMine"] = true,
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["Name"] = "980",
+							["HideIfNoUnits"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["Events"] = {
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["CndtJustPassed"] = true,
+									["Value"] = 3,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnDuration",
+									["Operator"] = "<=",
+									["Infinite"] = true,
+								}, -- [1]
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
 									["CndtJustPassed"] = true,
 									["Value"] = 3,
 									["Animation"] = "ICONCLEAR",
@@ -240,17 +437,6 @@ TellMeWhenDB = {
 									["Operator"] = ">",
 								}, -- [2]
 								["n"] = 2,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
 							},
 						}, -- [2]
 						{
@@ -276,161 +462,27 @@ TellMeWhenDB = {
 							},
 						}, -- [4]
 					},
-					["OnlyInCombat"] = true,
-				}, -- [1]
-				{
-					["Enabled"] = false,
 					["Name"] = "焦点DOT",
+					["GUID"] = "TMW:group:1PXnaisbVBCc",
 					["Point"] = {
 						["y"] = 35.6250610351563,
 						["x"] = -136.874938964844,
 					},
-					["EnabledSpecs"] = {
-						[266] = false,
-						[267] = false,
-					},
-					["GUID"] = "TMW:group:1PXnaisbVBCc",
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["BuffOrDebuff"] = "HARMFUL",
-							["Unit"] = "focus",
-							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
-							["Events"] = {
-								{
-									["PassingCndt"] = true,
-									["Type"] = "Animations",
-									["Infinite"] = true,
-									["CndtJustPassed"] = true,
-									["Value"] = 3,
-									["Animation"] = "ACTVTNGLOW",
-									["Event"] = "OnDuration",
-									["Operator"] = "<=",
-								}, -- [1]
-								{
-									["Type"] = "Animations",
-									["PassingCndt"] = true,
-									["CndtJustPassed"] = true,
-									["Value"] = 3,
-									["Animation"] = "ICONCLEAR",
-									["Event"] = "OnDuration",
-									["Operator"] = ">",
-								}, -- [2]
-								{
-									["Type"] = "Animations",
-									["OnConditionConditions"] = {
-										{
-											["Name"] = "绝对腐蚀",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Event"] = "WCSP",
-									["Animation"] = "ICONCLEAR",
-								}, -- [3]
-								["n"] = 3,
-							},
-							["Name"] = "172",
-							["HideIfNoUnits"] = true,
-							["Type"] = "buff",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["BuffOrDebuff"] = "HARMFUL",
-							["Unit"] = "focus",
-							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
-							["Events"] = {
-								{
-									["PassingCndt"] = true,
-									["Type"] = "Animations",
-									["Infinite"] = true,
-									["CndtJustPassed"] = true,
-									["Value"] = 3,
-									["Animation"] = "ACTVTNGLOW",
-									["Event"] = "OnDuration",
-									["Operator"] = "<=",
-								}, -- [1]
-								{
-									["Type"] = "Animations",
-									["PassingCndt"] = true,
-									["CndtJustPassed"] = true,
-									["Value"] = 3,
-									["Animation"] = "ICONCLEAR",
-									["Event"] = "OnDuration",
-									["Operator"] = ">",
-								}, -- [2]
-								["n"] = 2,
-							},
-							["Name"] = "980",
-							["HideIfNoUnits"] = true,
-							["Type"] = "buff",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-					},
-					["OnlyInCombat"] = true,
 				}, -- [2]
 				{
-					["Enabled"] = false,
-					["Name"] = "BUFF",
-					["GUID"] = "TMW:group:1PXnyWP=ql1P",
 					["EnabledSpecs"] = {
 						[266] = false,
 						[267] = false,
 					},
+					["OnlyInCombat"] = true,
+					["Enabled"] = false,
 					["Icons"] = {
 						{
-							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "buff",
+							["ShowTimerText"] = true,
 							["Name"] = "216708",
+							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -442,11 +494,11 @@ TellMeWhenDB = {
 							},
 						}, -- [1]
 						{
-							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["Name"] = "216698",
+							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -482,10 +534,13 @@ TellMeWhenDB = {
 							},
 						}, -- [4]
 					},
-					["OnlyInCombat"] = true,
+					["Name"] = "BUFF",
+					["GUID"] = "TMW:group:1PXnyWP=ql1P",
 				}, -- [3]
 			},
-			["Version"] = 84002,
+			["NumGroups"] = 3,
+			["Version"] = 84305,
+			["Locked"] = true,
 		},
 	},
 }

@@ -1,8 +1,12 @@
 
 TradeSkillMaster_ShoppingDB = {
-	["g@ @sniperCustomPrice"] = "0c",
-	["g@ @maxDeSearchPercent"] = 1,
-	["g@ @postUndercut"] = "1c",
+	["_currentProfile"] = {
+		["锦在天堂 - 太阳之井"] = "Default",
+		["龙听雨 - 主宰之剑"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
+	},
+	["_version"] = 3,
+	["g@ @sniperVendorPrice"] = true,
 	["g@ @postBidPercent"] = 0.95,
 	["_scopeKeys"] = {
 		["char"] = {
@@ -10,25 +14,28 @@ TradeSkillMaster_ShoppingDB = {
 			"锦在天堂 - 太阳之井", -- [2]
 			"龙听雨 - 主宰之剑", -- [3]
 		},
-		["realm"] = {
-			"巨龙之吼", -- [1]
-			"太阳之井", -- [2]
-			"主宰之剑", -- [3]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
 		["factionrealm"] = {
 			"Horde - 巨龙之吼", -- [1]
 			"Horde - 太阳之井", -- [2]
 			"Alliance - 主宰之剑", -- [3]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"巨龙之吼", -- [1]
+			"太阳之井", -- [2]
+			"主宰之剑", -- [3]
+		},
 	},
 	["g@ @helpPlatesShown"] = {
 		["auction"] = true,
 	},
-	["g@ @sniperVendorPrice"] = true,
-	["_hash"] = 1861581,
+	["g@ @postUndercut"] = "1c",
+	["g@ @minDeSearchLvl"] = 1,
+	["g@ @maxDeSearchLvl"] = 735,
+	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["g@ @marketValueSource"] = "dbmarket",
 	["g@ @savedSearches"] = {
 		{
 			["searchMode"] = "normal",
@@ -37,15 +44,8 @@ TradeSkillMaster_ShoppingDB = {
 			["filter"] = "第七恶魔",
 		}, -- [1]
 	},
-	["g@ @sniperSound"] = "TSM_NO_SOUND",
-	["g@ @marketValueSource"] = "dbmarket",
-	["g@ @maxDeSearchLvl"] = 735,
-	["g@ @minDeSearchLvl"] = 1,
+	["_hash"] = 1861581,
 	["g@ @normalPostPrice"] = "150% dbmarket",
-	["_version"] = 3,
-	["_currentProfile"] = {
-		["龙听雨 - 主宰之剑"] = "Default",
-		["锦在天堂 - 太阳之井"] = "Default",
-		["龙听雨 - 巨龙之吼"] = "Default",
-	},
+	["g@ @maxDeSearchPercent"] = 1,
+	["g@ @sniperCustomPrice"] = "0c",
 }

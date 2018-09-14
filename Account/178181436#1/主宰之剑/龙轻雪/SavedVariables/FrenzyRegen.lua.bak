@@ -14,7 +14,7 @@ settingsFR = {
 	["ignoreMouseFlag"] = false,
 	["announceChannel"] = "SAY",
 	["announceFlag"] = false,
-	["YPos"] = 325.999877929688,
-	["XPos"] = 692.000122070313,
+	["YPos"] = 321.000030517578,
+	["XPos"] = 1643.99987792969,
 	["hideOutOfBearFlag"] = false,
 }

@@ -1,0 +1,17 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["橘丶子 - 巨龙之吼"] = "橘丶子 - 巨龙之吼",
+	},
+	["char"] = {
+		["橘丶子 - 巨龙之吼"] = {
+			["artifactCache"] = {
+				[128942] = {
+					["timestamp"] = 236475.463,
+					["level"] = 79,
+					["crucibled"] = false,
+				},
+			},
+		},
+	},
+}

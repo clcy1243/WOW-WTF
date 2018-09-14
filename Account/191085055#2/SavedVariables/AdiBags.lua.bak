@@ -1,7 +1,7 @@
 
 AdiBagsDB = {
 	["namespaces"] = {
-		["Hearthstones"] = {
+		["军团再临"] = {
 		},
 		["ItemLevel"] = {
 		},
@@ -14,15 +14,29 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["NewItem"] = {
-		},
 		["Garrison"] = {
 		},
-		["DataSource"] = {
+		["NewItem"] = {
+		},
+		["ItemSets"] = {
+			["profiles"] = {
+				["Default"] = {
+					["oneSectionPerSet"] = false,
+				},
+			},
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
 		["Legion"] = {
+		},
+		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dispatchRule"] = "slot",
+				},
+			},
+		},
+		["MoneyFrame"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -43,44 +57,34 @@ AdiBagsDB = {
 						["徘徊之魂碎片"] = false,
 						["魔古命运符文"] = false,
 						["美食家奖章"] = false,
-						["要塞物资"] = false,
-						["死亡之翼的堕落精华"] = false,
-						["铁掌徽记"] = false,
-						["沸腾的精华"] = false,
 						["永恒铸币"] = false,
+						["死亡之翼的堕落精华"] = false,
+						["沸腾的精华"] = false,
+						["铁掌徽记"] = false,
+						["要塞物资"] = false,
 					},
 				},
 			},
 		},
-		["MoneyFrame"] = {
-		},
-		["Equipment"] = {
-			["profiles"] = {
-				["Default"] = {
-					["dispatchRule"] = "slot",
-				},
-			},
-		},
-		["ItemSets"] = {
-			["profiles"] = {
-				["Default"] = {
-					["oneSectionPerSet"] = false,
-				},
-			},
+		["DataSource"] = {
 		},
 		["Junk"] = {
 		},
-		["军团再临"] = {
+		["Hearthstones"] = {
 		},
 	},
 	["profileKeys"] = {
 		["霸拿拿 - 巨龙之吼"] = "Default",
+		["猎手阿炳 - 太阳之井"] = "Default",
 		["芒丶果 - 巨龙之吼"] = "Default",
 		["橘丶子 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["scale"] = 0.9,
+			["columnWidth"] = {
+				["Bank"] = 13,
+				["Backpack"] = 12,
+			},
 			["maxHeight"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
@@ -91,12 +95,9 @@ AdiBagsDB = {
 			["filters"] = {
 				["ItemSets"] = false,
 			},
-			["columnWidth"] = {
-				["Backpack"] = 12,
-				["Bank"] = 13,
-			},
-			["rightClickConfig"] = false,
+			["scale"] = 0.9,
 			["hideAnchor"] = true,
+			["rightClickConfig"] = false,
 		},
 	},
 }

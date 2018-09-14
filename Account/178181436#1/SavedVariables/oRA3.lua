@@ -18,8 +18,11 @@ oRA3DB = {
 		["Cooldowns"] = {
 			["global"] = {
 				["spellsOnCooldown"] = {
+					[186265] = {
+						["Player-1955-00F84E73"] = 528728.576,
+					},
 				},
-				["lastTime"] = 317057.933,
+				["lastTime"] = 528669.177,
 				["chargeSpellsOnCooldown"] = {
 				},
 			},
@@ -54,8 +57,8 @@ oRA3DB = {
 					},
 					["filters"] = {
 						["Default"] = {
-							["hideOffline"] = true,
 							["hideOutOfRange"] = true,
+							["hideOffline"] = true,
 							["hideDead"] = true,
 						},
 					},
@@ -85,10 +88,10 @@ oRA3DB = {
 					["Width"] = 140.000122070313,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
-					["Height"] = 213.523864746094,
+					["Height"] = 213.523849487305,
 					["Width"] = 335.428588867188,
-					["PosY"] = 565.933413213774,
-					["PosX"] = 248.399977459227,
+					["PosY"] = 565.933347037062,
+					["PosX"] = 248.399984313464,
 				},
 			},
 			["lastSelectedPanel"] = "冷却",

@@ -18,19 +18,19 @@ TotalArtifactPowerCache = {
 			["artifactTier"] = 2,
 		}, -- [1]
 		{
-			["thisLevelUnspentAP"] = 534554420,
+			["thisLevelUnspentAP"] = 755054420,
 			["isIgnored"] = false,
 			["numTraitsPurchased"] = 61,
 			["artifactTier"] = 2,
 		}, -- [2]
 		{
-			["thisLevelUnspentAP"] = 7391214918,
+			["thisLevelUnspentAP"] = 34692231918,
 			["isIgnored"] = false,
-			["numTraitsPurchased"] = 67,
+			["numTraitsPurchased"] = 69,
 			["artifactTier"] = 2,
 		}, -- [3]
 		{
-			["thisLevelUnspentAP"] = 60888383315,
+			["thisLevelUnspentAP"] = 97428389065,
 			["isIgnored"] = false,
 			["numTraitsPurchased"] = 73,
 			["artifactTier"] = 2,

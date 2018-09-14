@@ -2,6 +2,7 @@
 BloodShieldTrackerDB = {
 	["profileKeys"] = {
 		["锦在天堂 - 太阳之井"] = "Default",
+		["Qweqeqw - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -17,13 +18,13 @@ BloodShieldTrackerDB = {
 				},
 				["BoneShieldBar"] = {
 				},
-				["PWSBar"] = {
-				},
 				["EstimateBar"] = {
 					["y"] = -279.000183105469,
 					["x"] = -283.500122070313,
 				},
 				["TargetSwingTimerBar"] = {
+				},
+				["PWSBar"] = {
 				},
 			},
 			["precision"] = "One",
