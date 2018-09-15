@@ -318,17 +318,6 @@ MADB = {
 					},
 				},
 				["ChallengesKeystoneFrame"] = {
-					["UIPanelWindows"] = {
-						["pushable"] = 0,
-						["area"] = "center",
-					},
-					["orgPos"] = {
-						"CENTER", -- [1]
-						"UIParent", -- [2]
-						"CENTER", -- [3]
-						0, -- [4]
-						40, -- [5]
-					},
 					["name"] = "ChallengesKeystoneFrame",
 					["pos"] = {
 						"BOTTOMLEFT", -- [1]
@@ -449,38 +438,38 @@ MADB = {
 						-1.525878906250e-005, -- [5]
 					},
 				},
-				["ModelPreviewFrame"] = {
+				["MainMenuBarArtFrameRightEndCapMover"] = {
 					["orgPos"] = {
-						"CENTER", -- [1]
-						"UIParent", -- [2]
-						"CENTER", -- [3]
-						0, -- [4]
-						40, -- [5]
+						"BOTTOMRIGHT", -- [1]
+						"MainMenuBar", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						98, -- [4]
+						0, -- [5]
 					},
-					["name"] = "ModelPreviewFrame",
+					["name"] = "MainMenuBarArtFrameRightEndCapMover",
 					["pos"] = {
-						"CENTER", -- [1]
-						"UIParent", -- [2]
-						"CENTER", -- [3]
-						0.0001220703125, -- [4]
-						40.0000305175781, -- [5]
+						"BOTTOMRIGHT", -- [1]
+						"MainMenuBar", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						95, -- [4]
+						-15.9999580383301, -- [5]
 					},
 				},
-				["MultiBarRightMover"] = {
+				["PlayerDebuffsMover"] = {
 					["orgPos"] = {
-						"BOTTOMRIGHT", -- [1]
-						"UIParent", -- [2]
+						"TOPRIGHT", -- [1]
+						"BuffFrame", -- [2]
 						"BOTTOMRIGHT", -- [3]
 						0, -- [4]
-						98, -- [5]
+						-60, -- [5]
 					},
-					["name"] = "MultiBarRightMover",
+					["name"] = "PlayerDebuffsMover",
 					["pos"] = {
-						"BOTTOMRIGHT", -- [1]
+						"BOTTOMLEFT", -- [1]
 						"UIParent", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-1307.99853515625, -- [4]
-						231.999862670898, -- [5]
+						"BOTTOMLEFT", -- [3]
+						2587.00219726563, -- [4]
+						875.999694824219, -- [5]
 					},
 				},
 				["ExtraActionBarFrame"] = {
@@ -517,21 +506,30 @@ MADB = {
 						-30.5880192536889, -- [5]
 					},
 				},
-				["PlayerPowerBarAltMover"] = {
+				["ArenaEnemyFrame1"] = {
 					["orgPos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						0, -- [4]
-						155, -- [5]
+						{
+							"TOP", -- [1]
+							"ArenaEnemyFrames", -- [2]
+							"TOP", -- [3]
+							0, -- [4]
+							0, -- [5]
+						}, -- [1]
+						{
+							"RIGHT", -- [1]
+							"ArenaEnemyFrames", -- [2]
+							"RIGHT", -- [3]
+							-2, -- [4]
+							0, -- [5]
+						}, -- [2]
 					},
-					["name"] = "PlayerPowerBarAltMover",
+					["name"] = "ArenaEnemyFrame1",
 					["pos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						-487.000793457031, -- [4]
-						461.999176025391, -- [5]
+						"TOP", -- [1]
+						"ArenaEnemyFrames", -- [2]
+						"TOP", -- [3]
+						604.501708984375, -- [4]
+						26.0003662109375, -- [5]
 					},
 				},
 				["BossBanner"] = {
@@ -557,11 +555,11 @@ MADB = {
 						["area"] = "left",
 					},
 					["orgPos"] = {
-						"TOP", -- [1]
+						"CENTER", -- [1]
 						"UIParent", -- [2]
-						"TOP", -- [3]
-						0, -- [4]
-						-135, -- [5]
+						"CENTER", -- [3]
+						21.0000019073486, -- [4]
+						-14, -- [5]
 					},
 					["name"] = "LootFrame",
 					["pos"] = {
@@ -647,30 +645,21 @@ MADB = {
 						-718.000030517578, -- [5]
 					},
 				},
-				["ArenaEnemyFrame1"] = {
+				["PlayerPowerBarAltMover"] = {
 					["orgPos"] = {
-						{
-							"TOP", -- [1]
-							"ArenaEnemyFrames", -- [2]
-							"TOP", -- [3]
-							0, -- [4]
-							0, -- [5]
-						}, -- [1]
-						{
-							"RIGHT", -- [1]
-							"ArenaEnemyFrames", -- [2]
-							"RIGHT", -- [3]
-							-2, -- [4]
-							0, -- [5]
-						}, -- [2]
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						0, -- [4]
+						155, -- [5]
 					},
-					["name"] = "ArenaEnemyFrame1",
+					["name"] = "PlayerPowerBarAltMover",
 					["pos"] = {
-						"TOP", -- [1]
-						"ArenaEnemyFrames", -- [2]
-						"TOP", -- [3]
-						604.501708984375, -- [4]
-						26.0003662109375, -- [5]
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						-487.000793457031, -- [4]
+						461.999176025391, -- [5]
 					},
 				},
 				["MainMenuBarArtFrameLeftEndCapMover"] = {
@@ -690,45 +679,45 @@ MADB = {
 						-17.9997744560242, -- [5]
 					},
 				},
-				["PlayerDebuffsMover"] = {
+				["MultiBarRightMover"] = {
 					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"BuffFrame", -- [2]
+						"BOTTOMRIGHT", -- [1]
+						"UIParent", -- [2]
 						"BOTTOMRIGHT", -- [3]
 						0, -- [4]
-						-60, -- [5]
+						98, -- [5]
 					},
-					["name"] = "PlayerDebuffsMover",
+					["name"] = "MultiBarRightMover",
 					["pos"] = {
-						"BOTTOMLEFT", -- [1]
+						"BOTTOMRIGHT", -- [1]
 						"UIParent", -- [2]
-						"BOTTOMLEFT", -- [3]
-						2587.00219726563, -- [4]
-						875.999694824219, -- [5]
+						"BOTTOMRIGHT", -- [3]
+						-1307.99853515625, -- [4]
+						231.999862670898, -- [5]
 					},
 				},
-				["MainMenuBarArtFrameRightEndCapMover"] = {
+				["ModelPreviewFrame"] = {
 					["orgPos"] = {
-						"BOTTOMRIGHT", -- [1]
-						"MainMenuBar", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						98, -- [4]
-						0, -- [5]
+						"CENTER", -- [1]
+						"UIParent", -- [2]
+						"CENTER", -- [3]
+						0, -- [4]
+						40, -- [5]
 					},
-					["name"] = "MainMenuBarArtFrameRightEndCapMover",
+					["name"] = "ModelPreviewFrame",
 					["pos"] = {
-						"BOTTOMRIGHT", -- [1]
-						"MainMenuBar", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						95, -- [4]
-						-15.9999580383301, -- [5]
+						"CENTER", -- [1]
+						"UIParent", -- [2]
+						"CENTER", -- [3]
+						0.0001220703125, -- [4]
+						40.0000305175781, -- [5]
 					},
 				},
 			},
 		},
 	},
-	["frameListRows"] = 18,
-	["noBags"] = false,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = false,
+	["frameListRows"] = 18,
 }

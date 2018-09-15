@@ -8,16 +8,16 @@ dbBFA = {
 			["firstun"] = false,
 		},
 	},
-	["profileKeys"] = {
-		["Qweqeqw - 巨龙之吼"] = "Default",
-		["龙听雨 - 巨龙之吼"] = "Default",
-	},
 	["global"] = {
 		["warn01_seen"] = 0,
 		["firstrun"] = false,
 		["news"] = {
 		},
 		["warn02_seen"] = 0,
+	},
+	["profileKeys"] = {
+		["Qweqeqw - 巨龙之吼"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -41,15 +41,15 @@ dbBFA = {
 				["PREFERHIGH"] = false,
 				["NOTROOPS"] = false,
 				["MAKEITQUICK"] = false,
-				["TROOPALERT"] = true,
 				["MAXCHAMP"] = 3,
+				["TROOPALERT"] = true,
 				["IGNOREBUSY"] = true,
 				["BASECHANCE"] = 0,
 			},
+			["showmenu"] = true,
 			["blacklist"] = {
 				[2084] = false,
 			},
-			["showmenu"] = true,
 		},
 	},
 }

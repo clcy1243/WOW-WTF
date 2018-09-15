@@ -4,26 +4,27 @@ RSADB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["global"] = {
+		["ID"] = "3576422851677",
+		["revision"] = "496",
+		["version"] = 4,
+	},
 	["profileKeys"] = {
 		["龙剑曦 - 主宰之剑"] = "龙剑曦 - 主宰之剑",
 		["信仰丶圣光 - 摩摩尔"] = "信仰丶圣光 - 摩摩尔",
-		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
+		["倾城丨烟雨 - 摩摩尔"] = "倾城丨烟雨 - 摩摩尔",
 		["龙轻雪 - 主宰之剑"] = "龙轻雪 - 主宰之剑",
 		["斯特莱夫 - 瓦拉斯塔兹"] = "斯特莱夫 - 瓦拉斯塔兹",
-		["Qweqeqw - 巨龙之吼"] = "DEATHKNIGHT",
+		["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
 		["龙听雨 - 主宰之剑"] = "龙听雨 - 主宰之剑",
 		["星界旅行者 - 瓦拉斯塔兹"] = "星界旅行者 - 瓦拉斯塔兹",
 		["看你洗澡 - 瓦拉斯塔兹"] = "看你洗澡 - 瓦拉斯塔兹",
-		["倾城丨猫爷 - 太阳之井"] = "倾城丨猫爷 - 太阳之井",
 		["蓝箭 - 卡拉赞"] = "蓝箭 - 卡拉赞",
+		["倾城丨猫爷 - 太阳之井"] = "倾城丨猫爷 - 太阳之井",
 		["徳馨 - 破碎岭"] = "徳馨 - 破碎岭",
 		["地狱丨灬繁花 - 摩摩尔"] = "地狱丨灬繁花 - 摩摩尔",
-		["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
-		["倾城丨烟雨 - 摩摩尔"] = "倾城丨烟雨 - 摩摩尔",
-	},
-	["global"] = {
-		["version"] = 4,
-		["revision"] = "492",
+		["Qweqeqw - 巨龙之吼"] = "DEATHKNIGHT",
+		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
 	},
 	["profiles"] = {
 		["DEATHKNIGHT"] = {
@@ -37,8 +38,8 @@ RSADB = {
 		},
 		["龙剑曦 - 主宰之剑"] = {
 			["Modules"] = {
-				["DemonHunter"] = true,
 				["Druid"] = true,
+				["DemonHunter"] = true,
 			},
 			["Druid"] = {
 				["Spells"] = {
@@ -63,14 +64,14 @@ RSADB = {
 				},
 			},
 			["General"] = {
-				["Class"] = "DEMONHUNTER",
 				["Race"] = "NightElf",
+				["Class"] = "DEMONHUNTER",
 			},
 		},
 		["信仰丶圣光 - 摩摩尔"] = {
 			["General"] = {
-				["Class"] = "PALADIN",
 				["Race"] = "BloodElf",
+				["Class"] = "PALADIN",
 			},
 			["Modules"] = {
 				["Paladin"] = true,
@@ -88,13 +89,13 @@ RSADB = {
 					["FrenziedRegeneration"] = {
 						["SmartGroup"] = true,
 					},
-					["Rebirth"] = {
+					["Revive"] = {
 						["Whisper"] = false,
 					},
 					["RageOfTheSleeper"] = {
 						["SmartGroup"] = true,
 					},
-					["Revive"] = {
+					["Rebirth"] = {
 						["Whisper"] = false,
 					},
 					["Barkskin"] = {
@@ -103,34 +104,26 @@ RSADB = {
 				},
 			},
 			["General"] = {
-				["Class"] = "DRUID",
 				["Race"] = "NightElf",
+				["Class"] = "DRUID",
 			},
 		},
 		["斯特莱夫 - 瓦拉斯塔兹"] = {
 			["General"] = {
-				["Race"] = "Orc",
 				["Class"] = "WARRIOR",
+				["Race"] = "Orc",
 			},
 			["Modules"] = {
 				["Warrior"] = true,
 			},
 		},
-		["龙听雨 - 巨龙之吼"] = {
+		["倾城丨烟雨 - 摩摩尔"] = {
 			["General"] = {
-				["Race"] = "Pandaren",
-				["Class"] = "MONK",
+				["Race"] = "Troll",
+				["Class"] = "DRUID",
 			},
 			["Modules"] = {
-				["Monk"] = true,
-			},
-			["Fixed"] = true,
-			["Monk"] = {
-				["Spells"] = {
-					["Resuscitate"] = {
-						["Whisper"] = false,
-					},
-				},
+				["Druid"] = true,
 			},
 		},
 		["龙听雨 - 主宰之剑"] = {
@@ -138,8 +131,8 @@ RSADB = {
 				["Monk"] = true,
 			},
 			["General"] = {
-				["Class"] = "MONK",
 				["Race"] = "Pandaren",
+				["Class"] = "MONK",
 			},
 			["Monk"] = {
 				["Spells"] = {
@@ -151,8 +144,8 @@ RSADB = {
 		},
 		["星界旅行者 - 瓦拉斯塔兹"] = {
 			["General"] = {
-				["Class"] = "SHAMAN",
 				["Race"] = "Tauren",
+				["Class"] = "SHAMAN",
 			},
 			["Modules"] = {
 				["Shaman"] = true,
@@ -160,8 +153,8 @@ RSADB = {
 		},
 		["看你洗澡 - 瓦拉斯塔兹"] = {
 			["General"] = {
-				["Race"] = "BloodElf",
 				["Class"] = "ROGUE",
+				["Race"] = "BloodElf",
 			},
 			["Modules"] = {
 				["Rogue"] = true,
@@ -169,8 +162,8 @@ RSADB = {
 		},
 		["倾城丨猫爷 - 太阳之井"] = {
 			["General"] = {
-				["Race"] = "BloodElf",
 				["Class"] = "PALADIN",
+				["Race"] = "BloodElf",
 			},
 			["Modules"] = {
 				["Paladin"] = true,
@@ -178,8 +171,8 @@ RSADB = {
 		},
 		["蓝箭 - 卡拉赞"] = {
 			["General"] = {
-				["Race"] = "Troll",
 				["Class"] = "HUNTER",
+				["Race"] = "Troll",
 			},
 			["Modules"] = {
 				["Hunter"] = true,
@@ -187,8 +180,8 @@ RSADB = {
 		},
 		["徳馨 - 破碎岭"] = {
 			["General"] = {
-				["Race"] = "NightElf",
 				["Class"] = "DRUID",
+				["Race"] = "NightElf",
 			},
 			["Modules"] = {
 				["Druid"] = true,
@@ -196,8 +189,8 @@ RSADB = {
 		},
 		["地狱丨灬繁花 - 摩摩尔"] = {
 			["General"] = {
-				["Race"] = "Tauren",
 				["Class"] = "DEATHKNIGHT",
+				["Race"] = "Tauren",
 			},
 			["Modules"] = {
 				["DeathKnight"] = true,
@@ -205,20 +198,29 @@ RSADB = {
 		},
 		["锦在天堂 - 太阳之井"] = {
 			["General"] = {
-				["Race"] = "BloodElf",
 				["Class"] = "DEATHKNIGHT",
+				["Race"] = "BloodElf",
 			},
 			["Modules"] = {
 				["DeathKnight"] = true,
 			},
 		},
-		["倾城丨烟雨 - 摩摩尔"] = {
+		["龙听雨 - 巨龙之吼"] = {
 			["General"] = {
-				["Class"] = "DRUID",
-				["Race"] = "Troll",
+				["Race"] = "Pandaren",
+				["Class"] = "MONK",
 			},
 			["Modules"] = {
-				["Druid"] = true,
+				["Utilities"] = true,
+				["Monk"] = true,
+			},
+			["Fixed"] = true,
+			["Monk"] = {
+				["Spells"] = {
+					["Resuscitate"] = {
+						["Whisper"] = false,
+					},
+				},
 			},
 		},
 	},

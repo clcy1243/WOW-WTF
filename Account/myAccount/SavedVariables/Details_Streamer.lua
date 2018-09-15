@@ -5,14 +5,14 @@ Details_StreamerDB = {
 		["龙听雨 - 主宰之剑"] = "龙剑曦 - 主宰之剑",
 		["龙轻雪 - 主宰之剑"] = "龙剑曦 - 主宰之剑",
 		["斯特莱夫 - 瓦拉斯塔兹"] = "龙剑曦 - 主宰之剑",
-		["龙听雨 - 巨龙之吼"] = "龙剑曦 - 主宰之剑",
+		["倾城丨烟雨 - 摩摩尔"] = "龙剑曦 - 主宰之剑",
 		["看你洗澡 - 瓦拉斯塔兹"] = "龙剑曦 - 主宰之剑",
-		["Qweqeqw - 巨龙之吼"] = "龙剑曦 - 主宰之剑",
+		["锦在天堂 - 太阳之井"] = "龙剑曦 - 主宰之剑",
 		["倾城丨猫爷 - 太阳之井"] = "龙剑曦 - 主宰之剑",
 		["星界旅行者 - 瓦拉斯塔兹"] = "龙剑曦 - 主宰之剑",
 		["地狱丨灬繁花 - 摩摩尔"] = "龙剑曦 - 主宰之剑",
-		["锦在天堂 - 太阳之井"] = "龙剑曦 - 主宰之剑",
-		["倾城丨烟雨 - 摩摩尔"] = "龙剑曦 - 主宰之剑",
+		["Qweqeqw - 巨龙之吼"] = "龙剑曦 - 主宰之剑",
+		["龙听雨 - 巨龙之吼"] = "龙剑曦 - 主宰之剑",
 	},
 	["profiles"] = {
 		["龙剑曦 - 主宰之剑"] = {
@@ -40,12 +40,17 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["scale"] = 1,
-			["row_height"] = 20,
-			["point"] = "BOTTOMRIGHT",
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["use_spark"] = true,
+			["author"] = "Details! Team",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -55,10 +60,6 @@ Details_StreamerDB = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 83.6074676513672,
-			["font_size"] = 10,
-			["x"] = -96.68994140625,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -66,19 +67,18 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 0.000152587890625,
 				["x"] = -3.05175781250e-005,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
-			["author"] = "Details! Team",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["use_spark"] = true,
+			["x"] = -96.68994140625,
+			["font_face"] = "Friz Quadrata TT",
+			["font_size"] = 10,
+			["y"] = 83.6074676513672,
+			["point"] = "BOTTOMRIGHT",
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
 }

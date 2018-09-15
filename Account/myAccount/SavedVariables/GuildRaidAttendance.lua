@@ -7,11 +7,11 @@ GRA_A_Config = {
 }
 GRA_A_Variables = {
 	["helpViewed"] = false,
-	["scaleFactor"] = 1,
-	["size"] = "normal",
-	["aboutViewed"] = "",
 	["minimap"] = {
 		["minimapPos"] = 305.777552442574,
 		["hide"] = false,
 	},
+	["aboutViewed"] = "",
+	["size"] = "normal",
+	["scaleFactor"] = 1,
 }

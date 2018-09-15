@@ -4,6 +4,7 @@ PawnOptions = {
 	["LastPlayerFullName"] = "龙听雨-巨龙之吼",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128940] = {
 			["Relics"] = {
@@ -57,7 +58,6 @@ PawnOptions = {
 			["Name"] = "神龙，迷雾之杖",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "MONK",
