@@ -1,2 +1,0 @@
-
-EBC_Cfg = nil
