@@ -4,6 +4,9 @@ dbBFA = {
 		["Qweqeqw - 巨龙之吼"] = {
 			["firstun"] = false,
 		},
+		["锦在天堂 - 太阳之井"] = {
+			["firstun"] = false,
+		},
 		["龙听雨 - 巨龙之吼"] = {
 			["firstun"] = false,
 		},
@@ -17,6 +20,7 @@ dbBFA = {
 	},
 	["profileKeys"] = {
 		["Qweqeqw - 巨龙之吼"] = "Default",
+		["锦在天堂 - 太阳之井"] = "Default",
 		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {

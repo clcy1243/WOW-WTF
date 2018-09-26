@@ -13,14 +13,7 @@ MEETINGSTONE_CHARACTER_DB = {
 				["hd"] = 879712527,
 				["dt"] = 1360248359,
 			},
-			["settings"] = {
-				["storage"] = {
-					["y"] = -20.2371826171875,
-					["x"] = 339.000244140625,
-					["point"] = "TOPLEFT",
-					["scale"] = 1,
-				},
-			},
+			["appShine"] = "70300.07",
 			["lastSearchValue"] = "3-132-483-0",
 			["createHistoryList"] = {
 				"3-131-478-0", -- [1]
@@ -62,124 +55,124 @@ MEETINGSTONE_CHARACTER_DB = {
 						["time"] = 1512190948,
 					}, -- [1]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄一-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [2]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄二-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [3]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄三-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [4]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄四-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [5]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄五-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [6]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄六-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [7]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄七-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [8]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄吧-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [9]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄就-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [10]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄十-神圣之歌",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [11]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄十-国王之谷",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [12]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄九-国王之谷",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [13]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄八-国王之谷",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [14]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄七-国王之谷",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [15]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄六-国王之谷",
 						["role"] = "DAMAGER",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [16]
 					{
+						["time"] = 1512190948,
+						["class"] = 6,
 						["name"] = "英雄五-国王之谷",
 						["role"] = "TANK",
-						["time"] = 1512190948,
-						["class"] = 6,
 					}, -- [17]
 					{
-						["name"] = "英雄一-国王之谷",
-						["role"] = "TANK",
 						["time"] = 1512190948,
 						["class"] = 6,
+						["name"] = "英雄一-国王之谷",
+						["role"] = "TANK",
 					}, -- [18]
 					{
+						["time"] = 1512190948,
+						["class"] = 5,
 						["name"] = "英雄四-国王之谷",
 						["role"] = "HEALER",
-						["time"] = 1512190948,
-						["class"] = 5,
 					}, -- [19]
 					{
+						["time"] = 1512190948,
+						["class"] = 5,
 						["name"] = "英雄三-国王之谷",
 						["role"] = "HEALER",
-						["time"] = 1512190948,
-						["class"] = 5,
 					}, -- [20]
 					{
-						["name"] = "英雄二-国王之谷",
-						["role"] = "HEALER",
 						["time"] = 1512190948,
 						["class"] = 5,
+						["name"] = "英雄二-国王之谷",
+						["role"] = "HEALER",
 					}, -- [21]
 					{
 						["role"] = "DAMAGER",
@@ -215,10 +208,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "呵呵#5885",
 					}, -- [25]
 					{
-						["name"] = "弗瑞斯特怒爪-奥达曼",
-						["role"] = "DAMAGER",
 						["time"] = 1512292146,
 						["class"] = 11,
+						["name"] = "弗瑞斯特怒爪-奥达曼",
+						["role"] = "DAMAGER",
 					}, -- [26]
 					{
 						["role"] = "DAMAGER",
@@ -301,10 +294,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "老滑头#51978",
 					}, -- [36]
 					{
-						["name"] = "尘封丶爱恋-罗宁",
-						["role"] = "DAMAGER",
 						["time"] = 1512292146,
 						["class"] = 9,
+						["name"] = "尘封丶爱恋-罗宁",
+						["role"] = "DAMAGER",
 					}, -- [37]
 					{
 						["role"] = "DAMAGER",
@@ -556,10 +549,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "村委会团长#5312",
 					}, -- [68]
 					{
-						["name"] = "德纲-德拉诺",
-						["role"] = "TANK",
 						["time"] = 1512303498,
 						["class"] = 11,
+						["name"] = "德纲-德拉诺",
+						["role"] = "TANK",
 					}, -- [69]
 					{
 						["role"] = "HEALER",
@@ -803,10 +796,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "亲爱的小蓝#5450",
 					}, -- [99]
 					{
-						["name"] = "加拉克苏斯大王-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1512312816,
 						["class"] = 3,
+						["name"] = "加拉克苏斯大王-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [100]
 					{
 						["role"] = "DAMAGER",
@@ -817,10 +810,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "慵懒之龟#55931",
 					}, -- [101]
 					{
-						["name"] = "再看我偷你-蜘蛛王国",
-						["role"] = "DAMAGER",
 						["time"] = 1512316841,
 						["class"] = 4,
+						["name"] = "再看我偷你-蜘蛛王国",
+						["role"] = "DAMAGER",
 					}, -- [102]
 					{
 						["role"] = "DAMAGER",
@@ -889,10 +882,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "霍桑#5945",
 					}, -- [110]
 					{
-						["name"] = "Troopers-梦境之树",
-						["role"] = "DAMAGER",
 						["time"] = 1512402301,
 						["class"] = 1,
+						["name"] = "Troopers-梦境之树",
+						["role"] = "DAMAGER",
 					}, -- [111]
 					{
 						["role"] = "DAMAGER",
@@ -911,10 +904,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "小虎君#5120",
 					}, -- [113]
 					{
-						["name"] = "汐灬冰樱-罗宁",
-						["role"] = "HEALER",
 						["time"] = 1512398101,
 						["class"] = 7,
+						["name"] = "汐灬冰樱-罗宁",
+						["role"] = "HEALER",
 					}, -- [114]
 					{
 						["role"] = "HEALER",
@@ -965,10 +958,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "炮狗灬射天又射地#5893",
 					}, -- [120]
 					{
-						["name"] = "信仰戰灬-壁炉谷",
-						["role"] = "TANK",
 						["time"] = 1512398101,
 						["class"] = 1,
+						["name"] = "信仰戰灬-壁炉谷",
+						["role"] = "TANK",
 					}, -- [121]
 					{
 						["role"] = "DAMAGER",
@@ -1181,10 +1174,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "僅片刻安逸#5789",
 					}, -- [147]
 					{
-						["name"] = "岁月模糊-永恒之井",
-						["role"] = "TANK",
 						["time"] = 1512828025,
 						["class"] = 6,
+						["name"] = "岁月模糊-永恒之井",
+						["role"] = "TANK",
 					}, -- [148]
 					{
 						["role"] = "DAMAGER",
@@ -1235,10 +1228,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "小脚丫#5639",
 					}, -- [154]
 					{
-						["name"] = "为你勇敢-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1512828025,
 						["class"] = 3,
+						["name"] = "为你勇敢-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [155]
 					{
 						["role"] = "DAMAGER",
@@ -1273,10 +1266,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "一梦千年#5992",
 					}, -- [159]
 					{
-						["name"] = "风殇影-巴尔古恩",
-						["role"] = "DAMAGER",
 						["time"] = 1512828025,
 						["class"] = 4,
+						["name"] = "风殇影-巴尔古恩",
+						["role"] = "DAMAGER",
 					}, -- [160]
 					{
 						["role"] = "HEALER",
@@ -1375,10 +1368,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "小饼饼#51245",
 					}, -- [172]
 					{
-						["name"] = "Alborn-暗影之月",
-						["role"] = "DAMAGER",
 						["time"] = 1512828025,
 						["class"] = 9,
+						["name"] = "Alborn-暗影之月",
+						["role"] = "DAMAGER",
 					}, -- [173]
 					{
 						["role"] = "DAMAGER",
@@ -1414,16 +1407,16 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "Yhhhhh#5155",
 					}, -- [177]
 					{
-						["name"] = "可爱牛香-安苏",
-						["role"] = "HEALER",
 						["time"] = 1512838171,
 						["class"] = 7,
+						["name"] = "可爱牛香-安苏",
+						["role"] = "HEALER",
 					}, -- [178]
 					{
-						["name"] = "Serenao-羽月",
-						["role"] = "DAMAGER",
 						["time"] = 1512844592,
 						["class"] = 4,
+						["name"] = "Serenao-羽月",
+						["role"] = "DAMAGER",
 					}, -- [179]
 					{
 						["role"] = "HEALER",
@@ -1756,10 +1749,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "天赐苒宝#5839",
 					}, -- [8]
 					{
-						["name"] = "天屠妖-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1510584615,
 						["class"] = 12,
+						["name"] = "天屠妖-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [9]
 					{
 						["role"] = "DAMAGER",
@@ -1770,10 +1763,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "磊哥#51634",
 					}, -- [10]
 					{
-						["name"] = "丛林大猛兽-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1510586498,
 						["class"] = 9,
+						["name"] = "丛林大猛兽-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [11]
 					{
 						["role"] = "HEALER",
@@ -2018,10 +2011,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "幸运之翼#515441",
 					}, -- [41]
 					{
-						["name"] = "紫丨莘-主宰之剑",
-						["role"] = "HEALER",
 						["time"] = 1510922838,
 						["class"] = 7,
+						["name"] = "紫丨莘-主宰之剑",
+						["role"] = "HEALER",
 					}, -- [42]
 					{
 						["role"] = "HEALER",
@@ -2128,16 +2121,16 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "石头啊#5312",
 					}, -- [55]
 					{
-						["name"] = "红花籽-扎拉赞恩",
-						["role"] = "HEALER",
 						["time"] = 1511095577,
 						["class"] = 11,
+						["name"] = "红花籽-扎拉赞恩",
+						["role"] = "HEALER",
 					}, -- [56]
 					{
-						["name"] = "绝对残暴-永恒之井",
-						["role"] = "DAMAGER",
 						["time"] = 1511099516,
 						["class"] = 2,
+						["name"] = "绝对残暴-永恒之井",
+						["role"] = "DAMAGER",
 					}, -- [57]
 					{
 						["role"] = "HEALER",
@@ -2364,10 +2357,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "Diabolic#5584",
 					}, -- [85]
 					{
-						["name"] = "纳兹夏尔荣誉守卫-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1511099172,
 						["class"] = 11,
+						["name"] = "纳兹夏尔荣誉守卫-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [86]
 					{
 						["role"] = "DAMAGER",
@@ -2378,16 +2371,16 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "很远很远#5961",
 					}, -- [87]
 					{
-						["name"] = "记梦忆梦失梦-阿古斯",
-						["role"] = "HEALER",
 						["time"] = 1511100961,
 						["class"] = 11,
+						["name"] = "记梦忆梦失梦-阿古斯",
+						["role"] = "HEALER",
 					}, -- [88]
 					{
-						["name"] = "光头小法-国王之谷",
-						["role"] = "DAMAGER",
 						["time"] = 1511100912,
 						["class"] = 8,
+						["name"] = "光头小法-国王之谷",
+						["role"] = "DAMAGER",
 					}, -- [89]
 					{
 						["role"] = "TANK",
@@ -2470,10 +2463,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "浆果#51845",
 					}, -- [99]
 					{
-						["name"] = "大兄第-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1511445581,
 						["class"] = 1,
+						["name"] = "大兄第-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [100]
 					{
 						["role"] = "HEALER",
@@ -2669,10 +2662,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "请叫我青春蜜糖#5767",
 					}, -- [124]
 					{
-						["name"] = "奥丝卡影后-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1511527087,
 						["class"] = 2,
+						["name"] = "奥丝卡影后-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [125]
 					{
 						["role"] = "DAMAGER",
@@ -2683,10 +2676,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "梦残阳#5333",
 					}, -- [126]
 					{
-						["name"] = "魅惑猫-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1511527087,
 						["class"] = 5,
+						["name"] = "魅惑猫-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [127]
 					{
 						["role"] = "DAMAGER",
@@ -2697,10 +2690,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "星空律#5389",
 					}, -- [128]
 					{
-						["name"] = "咆哮丶狩猎者-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1511527087,
 						["class"] = 3,
+						["name"] = "咆哮丶狩猎者-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [129]
 					{
 						["role"] = "HEALER",
@@ -2759,10 +2752,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "一刀捅死大萌德#5677",
 					}, -- [136]
 					{
-						["name"] = "离线些许年-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1511529970,
 						["class"] = 3,
+						["name"] = "离线些许年-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [137]
 					{
 						["role"] = "HEALER",
@@ -2949,10 +2942,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "张艳#51676",
 					}, -- [160]
 					{
-						["name"] = "灵魂收割-主宰之剑",
-						["role"] = "TANK",
 						["time"] = 1512483649,
 						["class"] = 6,
+						["name"] = "灵魂收割-主宰之剑",
+						["role"] = "TANK",
 					}, -- [161]
 					{
 						["role"] = "HEALER",
@@ -3066,10 +3059,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "耿直的俊宝#5106",
 					}, -- [7]
 					{
-						["name"] = "摸鱼-伊萨里奥斯",
-						["role"] = "DAMAGER",
 						["time"] = 1511619380,
 						["class"] = 6,
+						["name"] = "摸鱼-伊萨里奥斯",
+						["role"] = "DAMAGER",
 					}, -- [8]
 					{
 						["role"] = "DAMAGER",
@@ -3173,16 +3166,16 @@ MEETINGSTONE_CHARACTER_DB = {
 				},
 				["1-134-489-0"] = {
 					{
-						["name"] = "长衫赵子龙-玛里苟斯",
-						["role"] = "DAMAGER",
 						["time"] = 1511583934,
 						["class"] = 2,
+						["name"] = "长衫赵子龙-玛里苟斯",
+						["role"] = "DAMAGER",
 					}, -- [1]
 					{
-						["name"] = "遛玖-白银之手",
-						["role"] = "DAMAGER",
 						["time"] = 1511583934,
 						["class"] = 12,
+						["name"] = "遛玖-白银之手",
+						["role"] = "DAMAGER",
 					}, -- [2]
 					{
 						["role"] = "DAMAGER",
@@ -3193,10 +3186,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "DemonHunter#5922",
 					}, -- [3]
 					{
-						["name"] = "尖锐-加尔",
-						["role"] = "DAMAGER",
 						["time"] = 1511583934,
 						["class"] = 3,
+						["name"] = "尖锐-加尔",
+						["role"] = "DAMAGER",
 					}, -- [4]
 					{
 						["role"] = "DAMAGER",
@@ -3216,10 +3209,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "拉皮#5566",
 					}, -- [6]
 					{
-						["name"] = "Tlitch-迦拉克隆",
-						["role"] = "DAMAGER",
 						["time"] = 1511584118,
 						["class"] = 8,
+						["name"] = "Tlitch-迦拉克隆",
+						["role"] = "DAMAGER",
 					}, -- [7]
 					{
 						["role"] = "DAMAGER",
@@ -3319,10 +3312,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "死枪#51825",
 					}, -- [1]
 					{
-						["name"] = "花绮罗-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1512124375,
 						["class"] = 2,
+						["name"] = "花绮罗-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [2]
 					{
 						["role"] = "DAMAGER",
@@ -3333,10 +3326,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "竹林里的大灰狼#5566",
 					}, -- [3]
 					{
-						["name"] = "失败者之歌-玛多兰",
-						["role"] = "HEALER",
 						["time"] = 1512124375,
 						["class"] = 2,
+						["name"] = "失败者之歌-玛多兰",
+						["role"] = "HEALER",
 					}, -- [4]
 				},
 				["1-134-488-0"] = {
@@ -3445,10 +3438,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "堕落的魂魄#5867",
 					}, -- [8]
 					{
-						["name"] = "囿话匕回-雷斧堡垒",
-						["role"] = "DAMAGER",
 						["time"] = 1511399706,
 						["class"] = 4,
+						["name"] = "囿话匕回-雷斧堡垒",
+						["role"] = "DAMAGER",
 					}, -- [9]
 					{
 						["role"] = "TANK",
@@ -3539,10 +3532,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "xmans9030#5630",
 					}, -- [20]
 					{
-						["name"] = "一大波菠萝-罗宁",
-						["role"] = "DAMAGER",
 						["time"] = 1511399807,
 						["class"] = 1,
+						["name"] = "一大波菠萝-罗宁",
+						["role"] = "DAMAGER",
 					}, -- [21]
 					{
 						["role"] = "HEALER",
@@ -3553,10 +3546,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "闪亮之翼#525788",
 					}, -- [22]
 					{
-						["name"] = "Frodez-金色平原",
-						["role"] = "DAMAGER",
 						["time"] = 1511399717,
 						["class"] = 8,
+						["name"] = "Frodez-金色平原",
+						["role"] = "DAMAGER",
 					}, -- [23]
 					{
 						["role"] = "DAMAGER",
@@ -3583,10 +3576,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "幸运530#5327",
 					}, -- [26]
 					{
-						["name"] = "玩命小妹妹-末日行者",
-						["role"] = "DAMAGER",
 						["time"] = 1511399700,
 						["class"] = 8,
+						["name"] = "玩命小妹妹-末日行者",
+						["role"] = "DAMAGER",
 					}, -- [27]
 					{
 						["role"] = "TANK",
@@ -3783,10 +3776,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "小铁锅#5177",
 					}, -- [51]
 					{
-						["name"] = "阿尔薩斯灬-荆棘谷",
-						["role"] = "TANK",
 						["time"] = 1512217454,
 						["class"] = 6,
+						["name"] = "阿尔薩斯灬-荆棘谷",
+						["role"] = "TANK",
 					}, -- [52]
 					{
 						["role"] = "DAMAGER",
@@ -4072,16 +4065,16 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "紫色忧郁#5711",
 					}, -- [2]
 					{
-						["name"] = "彤云密布劣莫-迅捷微风",
-						["role"] = "DAMAGER",
 						["time"] = 1511607677,
 						["class"] = 12,
+						["name"] = "彤云密布劣莫-迅捷微风",
+						["role"] = "DAMAGER",
 					}, -- [3]
 					{
-						["name"] = "诳丨屠-白银之手",
-						["role"] = "TANK",
 						["time"] = 1511607677,
 						["class"] = 2,
+						["name"] = "诳丨屠-白银之手",
+						["role"] = "TANK",
 					}, -- [4]
 					{
 						["role"] = "DAMAGER",
@@ -4160,10 +4153,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "阿修修#5107",
 					}, -- [5]
 					{
-						["name"] = "飞颠猫-伊萨里奥斯",
-						["role"] = "TANK",
 						["time"] = 1510410131,
 						["class"] = 11,
+						["name"] = "飞颠猫-伊萨里奥斯",
+						["role"] = "TANK",
 					}, -- [6]
 					{
 						["role"] = "DAMAGER",
@@ -4174,10 +4167,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "疯狂之法师#55679",
 					}, -- [7]
 					{
-						["name"] = "天庭-伊萨里奥斯",
-						["role"] = "DAMAGER",
 						["time"] = 1510410131,
 						["class"] = 11,
+						["name"] = "天庭-伊萨里奥斯",
+						["role"] = "DAMAGER",
 					}, -- [8]
 					{
 						["role"] = "TANK",
@@ -4275,10 +4268,10 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "死枪#51825",
 					}, -- [1]
 					{
-						["name"] = "花绮罗-主宰之剑",
-						["role"] = "DAMAGER",
 						["time"] = 1512126744,
 						["class"] = 2,
+						["name"] = "花绮罗-主宰之剑",
+						["role"] = "DAMAGER",
 					}, -- [2]
 					{
 						["role"] = "DAMAGER",
@@ -4298,8 +4291,15 @@ MEETINGSTONE_CHARACTER_DB = {
 					}, -- [4]
 				},
 			},
+			["settings"] = {
+				["storage"] = {
+					["y"] = -20.2371826171875,
+					["x"] = 339.000244140625,
+					["point"] = "TOPLEFT",
+					["scale"] = 1,
+				},
+			},
 			["version"] = "70300.07",
-			["appShine"] = "70300.07",
 			["advShine"] = "70100.02",
 			["searchHistoryList"] = {
 				"3-132-483-0", -- [1]
@@ -4394,6 +4394,34 @@ MEETINGSTONE_CHARACTER_DB = {
 			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
+			["settings"] = {
+				["storage"] = {
+					["y"] = -31.4874267578125,
+					["x"] = 405.048217773438,
+					["point"] = "TOPLEFT",
+					["scale"] = 1,
+				},
+			},
+			["lastSearchCode"] = "2-0-0-0",
+			["createHistoryList"] = {
+				"3-132-482-0", -- [1]
+				"2-121-467-0", -- [2]
+				"8-0-15-999", -- [3]
+				"2-117-464-0", -- [4]
+				"2-129-476-0", -- [5]
+				"3-0-458-0", -- [6]
+				"1-124-469-0", -- [7]
+				"3-131-479-0", -- [8]
+				"2-118-463-0", -- [9]
+				"6-0-17-0", -- [10]
+				"1-71-280-998", -- [11]
+				"2-115-462-0", -- [12]
+				"3-126-457-0", -- [13]
+			},
+			["minimap"] = {
+				["minimapPos"] = 204.504833100854,
+				["hide"] = true,
+			},
 			["appShine"] = "70300.07",
 			["recent"] = {
 				["1-247-648-0"] = {
@@ -4703,6 +4731,39 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "Pinkpussy#5592",
 					}, -- [39]
 				},
+				["2-145-529-0"] = {
+					{
+						["role"] = "TANK",
+						["name"] = "梦梦酱丶-贫瘠之地",
+						["time"] = 1535289427,
+						["class"] = 6,
+						["leader"] = true,
+					}, -- [1]
+					{
+						["role"] = "TANK",
+						["name"] = "划船不拿桨-巨龙之吼",
+						["iLvl"] = 339,
+						["time"] = 1535289427,
+						["class"] = 12,
+						["bTag"] = "丨丶辰#5210",
+					}, -- [2]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "灬夜舞灬-巨龙之吼",
+						["iLvl"] = 317,
+						["time"] = 1535289427,
+						["class"] = 9,
+						["bTag"] = "Pinkpussy#5592",
+					}, -- [3]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "芯芯緗茚-冰风岗",
+						["iLvl"] = 332,
+						["time"] = 1535289427,
+						["class"] = 2,
+						["bTag"] = "雪露儿#5740",
+					}, -- [4]
+				},
 				["2-139-503-0"] = {
 					{
 						["role"] = "TANK",
@@ -4770,6 +4831,188 @@ MEETINGSTONE_CHARACTER_DB = {
 						["class"] = 12,
 						["bTag"] = "大狗孙儿#5505",
 					}, -- [4]
+					{
+						["role"] = "TANK",
+						["name"] = "牛哥爱你哟-燃烧之刃",
+						["iLvl"] = 347,
+						["time"] = 1537369335,
+						["class"] = 1,
+						["leader"] = true,
+						["bTag"] = "小悦悦的二汪#5254",
+					}, -- [5]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "绿皮爸爸丶-埃德萨拉",
+						["iLvl"] = 357,
+						["time"] = 1537369335,
+						["class"] = 8,
+						["bTag"] = "化作千风#5727",
+					}, -- [6]
+					{
+						["role"] = "HEALER",
+						["name"] = "奶茶猫咪丶-伊森利恩",
+						["iLvl"] = 342,
+						["time"] = 1537369396,
+						["class"] = 5,
+						["leader"] = true,
+						["bTag"] = "snail#52515",
+					}, -- [7]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "又缺爱又缺钙-海克泰尔",
+						["time"] = 1537369335,
+						["class"] = 1,
+					}, -- [8]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "靶场机器人-阿纳克洛斯",
+						["iLvl"] = 312,
+						["time"] = 1537369403,
+						["class"] = 12,
+						["bTag"] = "misskin#5619",
+					}, -- [9]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "保钓使者-白骨荒野",
+						["iLvl"] = 341,
+						["time"] = 1537369335,
+						["class"] = 9,
+						["bTag"] = "一梦千年丶风#5139",
+					}, -- [10]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "風羽涟漪-战歌",
+						["iLvl"] = 306,
+						["time"] = 1537369163,
+						["class"] = 3,
+						["bTag"] = "华丽之花#5322",
+					}, -- [11]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "疯丶先生-卡德加",
+						["iLvl"] = 355,
+						["time"] = 1537369335,
+						["class"] = 8,
+						["bTag"] = "风殇#5894",
+					}, -- [12]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "性感的犄角丶-卡拉赞",
+						["iLvl"] = 340,
+						["time"] = 1537369391,
+						["class"] = 12,
+						["bTag"] = "爱彬宝丶#5442",
+					}, -- [13]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "洛克姗-罗曼斯",
+						["iLvl"] = 292,
+						["time"] = 1537369407,
+						["class"] = 1,
+						["bTag"] = "力道十足#5826",
+					}, -- [14]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "初邪-罗宁",
+						["iLvl"] = 359,
+						["time"] = 1537369391,
+						["class"] = 1,
+						["bTag"] = "初邪#51160",
+					}, -- [15]
+					{
+						["role"] = "HEALER",
+						["name"] = "梦一夕如环-奥斯里安",
+						["iLvl"] = 350,
+						["time"] = 1537369403,
+						["class"] = 5,
+						["bTag"] = "跳跃之狮#57822",
+					}, -- [16]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "痛彻心扉-安戈洛",
+						["iLvl"] = 288,
+						["time"] = 1537369403,
+						["class"] = 4,
+						["bTag"] = "重拳先生#5526",
+					}, -- [17]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "丨萧炎丨-盖斯",
+						["iLvl"] = 323,
+						["time"] = 1537369335,
+						["class"] = 11,
+						["bTag"] = "素衣洋丶#5970",
+					}, -- [18]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "Virgonono-通灵学院",
+						["iLvl"] = 342,
+						["time"] = 1537369265,
+						["class"] = 8,
+						["bTag"] = "Lolipopp#5636",
+					}, -- [19]
+					{
+						["role"] = "HEALER",
+						["name"] = "凉葵-格瑞姆巴托",
+						["iLvl"] = 365,
+						["time"] = 1537369315,
+						["class"] = 10,
+						["bTag"] = "老嘤捉小稽#5557",
+					}, -- [20]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "旗木卡卡嘻-熔火之心",
+						["iLvl"] = 295,
+						["time"] = 1537369398,
+						["class"] = 3,
+						["bTag"] = "杀手九十九#5727",
+					}, -- [21]
+					{
+						["role"] = "HEALER",
+						["name"] = "血色何以救赎-伊森利恩",
+						["iLvl"] = 286,
+						["time"] = 1537369403,
+						["class"] = 5,
+						["bTag"] = "爱吃虾的猫#5475",
+					}, -- [22]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "大不了灬挺尸-冬拥湖",
+						["iLvl"] = 349,
+						["time"] = 1537369335,
+						["class"] = 1,
+						["bTag"] = "潜行之鲷#54118",
+					}, -- [23]
+					{
+						["role"] = "HEALER",
+						["name"] = "名三-凤凰之神",
+						["iLvl"] = 350,
+						["time"] = 1537369389,
+						["class"] = 11,
+						["bTag"] = "名三#5626",
+					}, -- [24]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "左边的风-罗宁",
+						["time"] = 1537369335,
+						["class"] = 1,
+					}, -- [25]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "Aorrw-格瑞姆巴托",
+						["iLvl"] = 343,
+						["time"] = 1537369398,
+						["class"] = 8,
+						["bTag"] = "潘建波#5205",
+					}, -- [26]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "灵魂角斗士-格瑞姆巴托",
+						["iLvl"] = 356,
+						["time"] = 1537369403,
+						["class"] = 9,
+						["bTag"] = "寂寞的豆角#5319",
+					}, -- [27]
 				},
 				["2-138-644-0"] = {
 					{
@@ -4838,39 +5081,6 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "会灰的马桶君#5871",
 					}, -- [4]
 				},
-				["2-145-529-0"] = {
-					{
-						["role"] = "TANK",
-						["name"] = "梦梦酱丶-贫瘠之地",
-						["time"] = 1535289427,
-						["class"] = 6,
-						["leader"] = true,
-					}, -- [1]
-					{
-						["role"] = "TANK",
-						["name"] = "划船不拿桨-巨龙之吼",
-						["iLvl"] = 339,
-						["time"] = 1535289427,
-						["class"] = 12,
-						["bTag"] = "丨丶辰#5210",
-					}, -- [2]
-					{
-						["role"] = "DAMAGER",
-						["name"] = "灬夜舞灬-巨龙之吼",
-						["iLvl"] = 317,
-						["time"] = 1535289427,
-						["class"] = 9,
-						["bTag"] = "Pinkpussy#5592",
-					}, -- [3]
-					{
-						["role"] = "DAMAGER",
-						["name"] = "芯芯緗茚-冰风岗",
-						["iLvl"] = 332,
-						["time"] = 1535289427,
-						["class"] = 2,
-						["bTag"] = "雪露儿#5740",
-					}, -- [4]
-				},
 				["2-142-518-0"] = {
 					{
 						["role"] = "HEALER",
@@ -4906,41 +5116,54 @@ MEETINGSTONE_CHARACTER_DB = {
 						["bTag"] = "会灰的马桶君#5871",
 					}, -- [4]
 				},
-			},
-			["createHistoryList"] = {
-				"3-132-482-0", -- [1]
-				"2-121-467-0", -- [2]
-				"8-0-15-999", -- [3]
-				"2-117-464-0", -- [4]
-				"2-129-476-0", -- [5]
-				"3-0-458-0", -- [6]
-				"1-124-469-0", -- [7]
-				"3-131-479-0", -- [8]
-				"2-118-463-0", -- [9]
-				"6-0-17-0", -- [10]
-				"1-71-280-998", -- [11]
-				"2-115-462-0", -- [12]
-				"3-126-457-0", -- [13]
-			},
-			["minimap"] = {
-				["minimapPos"] = 204.504833100854,
-				["hide"] = true,
+				["1-2-206-0"] = {
+					{
+						["role"] = "DAMAGER",
+						["name"] = "牛哥爱你哟-燃烧之刃",
+						["iLvl"] = 347,
+						["time"] = 1537369014,
+						["class"] = 1,
+						["leader"] = true,
+						["bTag"] = "小悦悦的二汪#5254",
+					}, -- [1]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "绿皮爸爸丶-埃德萨拉",
+						["iLvl"] = 357,
+						["time"] = 1537369014,
+						["class"] = 8,
+						["bTag"] = "化作千风#5727",
+					}, -- [2]
+					{
+						["role"] = "HEALER",
+						["name"] = "奶茶猫咪丶-伊森利恩",
+						["iLvl"] = 342,
+						["time"] = 1537369014,
+						["class"] = 5,
+						["bTag"] = "snail#52515",
+					}, -- [3]
+					{
+						["role"] = "HEALER",
+						["name"] = "龙小米-戈提克",
+						["iLvl"] = 351,
+						["time"] = 1537368979,
+						["class"] = 2,
+						["bTag"] = "龙大米#5682",
+					}, -- [4]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "又缺爱又缺钙-海克泰尔",
+						["time"] = 1537369014,
+						["class"] = 1,
+					}, -- [5]
+				},
 			},
 			["version"] = "80000.04",
+			["advShine"] = "70100.03",
 			["searchHistoryList"] = {
 				"2-0-0-0", -- [1]
 				"3-0-0-0", -- [2]
 			},
-			["settings"] = {
-				["storage"] = {
-					["y"] = -31.4874267578125,
-					["x"] = 405.048217773438,
-					["point"] = "TOPLEFT",
-					["scale"] = 1,
-				},
-			},
-			["advShine"] = "70100.03",
-			["lastSearchCode"] = "2-0-0-0",
 			["searchInputHistory"] = {
 				["3-131-478-0"] = {
 					"侍女", -- [1]

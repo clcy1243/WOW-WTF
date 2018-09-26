@@ -7,27 +7,27 @@ BloodShieldTrackerDB = {
 	["profiles"] = {
 		["Default"] = {
 			["profile_version"] = 4,
+			["precision"] = "One",
 			["bars"] = {
-				["AMSBar"] = {
-				},
-				["ShieldBar"] = {
-					["y"] = -259.499908447266,
-					["x"] = -286.500183105469,
+				["PWSBar"] = {
 				},
 				["HealthBar"] = {
 				},
 				["BoneShieldBar"] = {
 				},
-				["PWSBar"] = {
+				["TargetSwingTimerBar"] = {
+				},
+				["ShieldBar"] = {
+					["y"] = -259.499908447266,
+					["x"] = -286.500183105469,
+				},
+				["AMSBar"] = {
 				},
 				["EstimateBar"] = {
 					["y"] = -279.000183105469,
 					["x"] = -283.500122070313,
 				},
-				["TargetSwingTimerBar"] = {
-				},
 			},
-			["precision"] = "One",
 		},
 	},
 }

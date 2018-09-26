@@ -1,17 +1,17 @@
 
 FeralDotDamageDB = {
 	["profileKeys"] = {
-		["Qweqeqw - 巨龙之吼"] = {
-			"Default", -- [1]
-			"Default", -- [2]
-			"Default", -- [3]
-		},
 		["龙听雨 - 主宰之剑"] = {
 			"Default", -- [1]
 			"Default", -- [2]
 			"Default", -- [3]
 		},
 		["锦在天堂 - 太阳之井"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
+		["Qweqeqw - 巨龙之吼"] = {
 			"Default", -- [1]
 			"Default", -- [2]
 			"Default", -- [3]

@@ -28,10 +28,13 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
+		["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
 		["Qweqeqw - 巨龙之吼"] = "Qweqeqw - 巨龙之吼",
 		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
 	},
 	["profiles"] = {
+		["锦在天堂 - 太阳之井"] = {
+		},
 		["Qweqeqw - 巨龙之吼"] = {
 		},
 		["龙听雨 - 巨龙之吼"] = {

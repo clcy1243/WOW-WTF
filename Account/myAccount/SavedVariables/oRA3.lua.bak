@@ -21,13 +21,6 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
-			["global"] = {
-				["spellsOnCooldown"] = {
-				},
-				["lastTime"] = 7234.203,
-				["chargeSpellsOnCooldown"] = {
-				},
-			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -82,9 +75,9 @@ oRA3DB = {
 		},
 	},
 	["profileKeys"] = {
-		["锦在天堂 - 太阳之井"] = "Default",
 		["Qweqeqw - 巨龙之吼"] = "Default",
 		["龙听雨 - 主宰之剑"] = "Default",
+		["锦在天堂 - 太阳之井"] = "Default",
 		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {

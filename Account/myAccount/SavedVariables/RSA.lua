@@ -6,7 +6,7 @@ RSADB = {
 	},
 	["global"] = {
 		["ID"] = "3576422851677",
-		["revision"] = "496",
+		["revision"] = "453",
 		["version"] = 4,
 	},
 	["profileKeys"] = {
@@ -198,23 +198,27 @@ RSADB = {
 		},
 		["锦在天堂 - 太阳之井"] = {
 			["General"] = {
-				["Class"] = "DEATHKNIGHT",
 				["Race"] = "BloodElf",
+				["Class"] = "DEATHKNIGHT",
 			},
 			["Modules"] = {
 				["DeathKnight"] = true,
+				["Utilities"] = true,
+				["Racials"] = true,
 			},
+			["Fixed"] = true,
 		},
 		["龙听雨 - 巨龙之吼"] = {
-			["General"] = {
-				["Race"] = "Pandaren",
-				["Class"] = "MONK",
-			},
 			["Modules"] = {
+				["Racials"] = true,
 				["Utilities"] = true,
 				["Monk"] = true,
 			},
 			["Fixed"] = true,
+			["General"] = {
+				["Class"] = "MONK",
+				["Race"] = "Pandaren",
+			},
 			["Monk"] = {
 				["Spells"] = {
 					["Resuscitate"] = {

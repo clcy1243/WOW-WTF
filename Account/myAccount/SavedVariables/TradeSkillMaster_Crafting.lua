@@ -5,8 +5,8 @@ TradeSkillMaster_CraftingDB = {
 		},
 	},
 	["g@ @helpPlatesShown"] = {
-		["gatheringFrame"] = true,
 		["profession"] = true,
+		["gatheringFrame"] = true,
 	},
 	["f@Alliance - 主宰之剑@buyAH"] = false,
 	["g@ @ignoreCharacters"] = {
@@ -55,12 +55,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132488",
+			["name"] = "轻鳞长靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "轻鳞长靴",
+			["itemString"] = "i:132488",
 		},
 		[84950] = {
 			["mats"] = {
@@ -68,12 +68,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:52976",
+			["name"] = "蛮皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛮皮",
+			["itemString"] = "i:52976",
 		},
 		[226110] = {
 			["mats"] = {
@@ -82,12 +82,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132548",
+			["name"] = "萨满便鞋",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "萨满便鞋",
+			["itemString"] = "i:132548",
 		},
 		[19058] = {
 			["mats"] = {
@@ -95,12 +95,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:15564",
+			["name"] = "毛皮护甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "毛皮护甲片",
+			["itemString"] = "i:15564",
 		},
 		[124585] = {
 			["mats"] = {
@@ -108,27 +108,27 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:85842",
+			["name"] = "风鳞靴子",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "风鳞靴子",
+			["itemString"] = "i:85842",
 		},
 		[19082] = {
 			["mats"] = {
-				["i:14341"] = 1,
 				["i:8170"] = 14,
+				["i:14341"] = 1,
 				["i:14047"] = 10,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:15094",
+			["name"] = "符文皮甲头环",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "符文皮甲头环",
+			["itemString"] = "i:15094",
 		},
 		[60600] = {
 			["mats"] = {
@@ -136,12 +136,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38440",
+			["name"] = "霜鳞头盔",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "霜鳞头盔",
+			["itemString"] = "i:38440",
 		},
 		[226111] = {
 			["mats"] = {
@@ -151,12 +151,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132492",
+			["name"] = "轻鳞长裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "轻鳞长裤",
+			["itemString"] = "i:132492",
 		},
 		[9058] = {
 			["mats"] = {
@@ -165,12 +165,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:7276",
+			["name"] = "手工皮披风",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "手工皮披风",
+			["itemString"] = "i:7276",
 		},
 		[50939] = {
 			["mats"] = {
@@ -178,12 +178,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38410",
+			["name"] = "凝冰护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "凝冰护腿",
+			["itemString"] = "i:38410",
 		},
 		[50955] = {
 			["mats"] = {
@@ -191,12 +191,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38412",
+			["name"] = "霜鳞腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "霜鳞腰带",
+			["itemString"] = "i:38412",
 		},
 		[9074] = {
 			["mats"] = {
@@ -206,12 +206,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:7285",
+			["name"] = "轻巧的皮手套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "轻巧的皮手套",
+			["itemString"] = "i:7285",
 		},
 		[226112] = {
 			["mats"] = {
@@ -221,12 +221,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132493",
+			["name"] = "锁链胸甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "锁链胸甲",
+			["itemString"] = "i:132493",
 		},
 		[32456] = {
 			["mats"] = {
@@ -234,27 +234,27 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25650",
+			["name"] = "结缔皮护甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "结缔皮护甲片",
+			["itemString"] = "i:25650",
 		},
 		[32464] = {
 			["mats"] = {
-				["i:21887"] = 10,
-				["i:14341"] = 3,
 				["i:25700"] = 3,
+				["i:14341"] = 3,
+				["i:21887"] = 10,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25656",
+			["name"] = "魔鳞短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "魔鳞短裤",
+			["itemString"] = "i:25656",
 		},
 		[32472] = {
 			["mats"] = {
@@ -263,12 +263,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25668",
+			["name"] = "厚重德莱尼长靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "厚重德莱尼长靴",
+			["itemString"] = "i:25668",
 		},
 		[32480] = {
 			["mats"] = {
@@ -277,12 +277,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25675",
+			["name"] = "野性德莱尼护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "野性德莱尼护腿",
+			["itemString"] = "i:25675",
 		},
 		[124586] = {
 			["mats"] = {
@@ -290,29 +290,29 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:85841",
+			["name"] = "风鳞腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "风鳞腰带",
+			["itemString"] = "i:85841",
 		},
 		[10647] = {
 			["mats"] = {
 				["i:8172"] = 4,
 				["i:8343"] = 4,
 				["i:17056"] = 20,
-				["i:4304"] = 25,
 				["i:7971"] = 2,
+				["i:4304"] = 25,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:8349",
+			["name"] = "羽饰胸甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "羽饰胸甲",
+			["itemString"] = "i:8349",
 		},
 		[226113] = {
 			["mats"] = {
@@ -322,12 +322,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132494",
+			["name"] = "锁链长靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "锁链长靴",
+			["itemString"] = "i:132494",
 		},
 		[7126] = {
 			["mats"] = {
@@ -336,12 +336,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:5957",
+			["name"] = "手工皮外衣",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "手工皮外衣",
+			["itemString"] = "i:5957",
 		},
 		[194751] = {
 			["mats"] = {
@@ -349,41 +349,41 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128899",
+			["name"] = "战缚臂甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战缚臂甲",
+			["itemString"] = "i:128899",
 		},
 		[78405] = {
 			["mats"] = {
-				["i:52976"] = 2,
 				["i:52982"] = 8,
+				["i:52976"] = 2,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56489",
+			["name"] = "硬化鳞片斗篷",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "硬化鳞片斗篷",
+			["itemString"] = "i:56489",
 		},
 		[226114] = {
 			["mats"] = {
-				["i:2320"] = 2,
 				["i:4231"] = 2,
+				["i:2320"] = 2,
 				["i:4243"] = 1,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132545",
+			["name"] = "电鳞胸甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "电鳞胸甲",
+			["itemString"] = "i:132545",
 		},
 		[194752] = {
 			["mats"] = {
@@ -391,12 +391,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128896",
+			["name"] = "战缚绑腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战缚绑腿",
+			["itemString"] = "i:128896",
 		},
 		[60601] = {
 			["mats"] = {
@@ -405,12 +405,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:44436",
+			["name"] = "黑暗霜鳞护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑暗霜鳞护腿",
+			["itemString"] = "i:44436",
 		},
 		[226115] = {
 			["mats"] = {
@@ -420,12 +420,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132547",
+			["name"] = "蓝色链甲护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蓝色链甲护腿",
+			["itemString"] = "i:132547",
 		},
 		[7156] = {
 			["mats"] = {
@@ -435,12 +435,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:5966",
+			["name"] = "守护手套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "守护手套",
+			["itemString"] = "i:5966",
 		},
 		[50940] = {
 			["mats"] = {
@@ -448,12 +448,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38411",
+			["name"] = "凝冰护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "凝冰护肩",
+			["itemString"] = "i:38411",
 		},
 		[60665] = {
 			["mats"] = {
@@ -462,28 +462,28 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:43255",
+			["name"] = "海洋泡沫护手",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "海洋泡沫护手",
+			["itemString"] = "i:43255",
 		},
 		[9198] = {
 			["mats"] = {
 				["i:2321"] = 2,
+				["i:7070"] = 2,
 				["i:7067"] = 2,
 				["i:4234"] = 6,
-				["i:7070"] = 2,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:7377",
+			["name"] = "冰霜皮质披风",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "冰霜皮质披风",
+			["itemString"] = "i:7377",
 		},
 		[194753] = {
 			["mats"] = {
@@ -491,12 +491,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128895",
+			["name"] = "战缚头盔",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战缚头盔",
+			["itemString"] = "i:128895",
 		},
 		[9206] = {
 			["mats"] = {
@@ -507,26 +507,26 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:7387",
+			["name"] = "暗色皮带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "暗色皮带",
+			["itemString"] = "i:7387",
 		},
 		[78406] = {
 			["mats"] = {
-				["i:52976"] = 12,
 				["i:38426"] = 1,
+				["i:52976"] = 12,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56490",
+			["name"] = "海啸护手",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "海啸护手",
+			["itemString"] = "i:56490",
 		},
 		[78438] = {
 			["mats"] = {
@@ -538,12 +538,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56518",
+			["name"] = "凶兽披风",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "凶兽披风",
+			["itemString"] = "i:56518",
 		},
 		[6661] = {
 			["mats"] = {
@@ -553,12 +553,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:5739",
+			["name"] = "野人背心",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "野人背心",
+			["itemString"] = "i:5739",
 		},
 		[194754] = {
 			["mats"] = {
@@ -566,12 +566,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128894",
+			["name"] = "战缚护手",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战缚护手",
+			["itemString"] = "i:128894",
 		},
 		[226117] = {
 			["mats"] = {
@@ -581,12 +581,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132497",
+			["name"] = "锁链护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "锁链护腿",
+			["itemString"] = "i:132497",
 		},
 		[194755] = {
 			["mats"] = {
@@ -594,26 +594,26 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128893",
+			["name"] = "战缚软鞋",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战缚软鞋",
+			["itemString"] = "i:128893",
 		},
 		[78407] = {
 			["mats"] = {
-				["i:52976"] = 10,
 				["i:38426"] = 1,
+				["i:52976"] = 10,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56491",
+			["name"] = "暗黑铭牌之靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "暗黑铭牌之靴",
+			["itemString"] = "i:56491",
 		},
 		[78439] = {
 			["mats"] = {
@@ -621,12 +621,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56519",
+			["name"] = "激战披风",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "激战披风",
+			["itemString"] = "i:56519",
 		},
 		[142953] = {
 			["mats"] = {
@@ -634,44 +634,44 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:98601",
+			["name"] = "卡桑利徘徊者马裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "卡桑利徘徊者马裤",
+			["itemString"] = "i:98601",
 		},
 		[19083] = {
 			["mats"] = {
-				["i:15407"] = 1,
-				["i:2325"] = 3,
-				["i:8170"] = 12,
 				["i:14341"] = 1,
+				["i:15407"] = 1,
+				["i:8170"] = 12,
+				["i:2325"] = 3,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:15087",
+			["name"] = "邪恶皮甲短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "邪恶皮甲短裤",
+			["itemString"] = "i:15087",
 		},
 		[19091] = {
 			["mats"] = {
 				["i:12810"] = 2,
-				["i:8170"] = 18,
 				["i:14341"] = 1,
+				["i:8170"] = 18,
 				["i:14047"] = 12,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:15095",
+			["name"] = "符文皮甲短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "符文皮甲短裤",
+			["itemString"] = "i:15095",
 		},
 		[226119] = {
 			["mats"] = {
@@ -682,12 +682,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132495",
+			["name"] = "锁链腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "锁链腰带",
+			["itemString"] = "i:132495",
 		},
 		[50941] = {
 			["mats"] = {
@@ -695,12 +695,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38409",
+			["name"] = "凝冰手套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "凝冰手套",
+			["itemString"] = "i:38409",
 		},
 		[50957] = {
 			["mats"] = {
@@ -708,12 +708,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38422",
+			["name"] = "蛛魔护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛛魔护腿",
+			["itemString"] = "i:38422",
 		},
 		[194757] = {
 			["mats"] = {
@@ -721,12 +721,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128897",
+			["name"] = "战缚肩甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战缚肩甲",
+			["itemString"] = "i:128897",
 		},
 		[226120] = {
 			["mats"] = {
@@ -736,12 +736,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132543",
+			["name"] = "鬼鳞肩甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "鬼鳞肩甲",
+			["itemString"] = "i:132543",
 		},
 		[32465] = {
 			["mats"] = {
@@ -751,12 +751,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25657",
+			["name"] = "魔鳞胸甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "魔鳞胸甲",
+			["itemString"] = "i:25657",
 		},
 		[32473] = {
 			["mats"] = {
@@ -765,12 +765,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25671",
+			["name"] = "厚重德莱尼外套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "厚重德莱尼外套",
+			["itemString"] = "i:25671",
 		},
 		[32481] = {
 			["mats"] = {
@@ -779,12 +779,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25676",
+			["name"] = "野性德莱尼外套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "野性德莱尼外套",
+			["itemString"] = "i:25676",
 		},
 		[194758] = {
 			["mats"] = {
@@ -792,61 +792,61 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128892",
+			["name"] = "战缚胸甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战缚胸甲",
+			["itemString"] = "i:128892",
 		},
 		[226121] = {
 			["mats"] = {
 				["i:2321"] = 2,
+				["i:4340"] = 1,
 				["i:3390"] = 1,
 				["i:2319"] = 12,
-				["i:4340"] = 1,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132498",
+			["name"] = "锁链护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "锁链护肩",
+			["itemString"] = "i:132498",
 		},
 		[226122] = {
 			["mats"] = {
 				["i:2321"] = 2,
+				["i:2997"] = 2,
 				["i:7067"] = 2,
 				["i:2319"] = 12,
-				["i:2997"] = 2,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132546",
+			["name"] = "元素之握",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "元素之握",
+			["itemString"] = "i:132546",
 		},
 		[36075] = {
 			["mats"] = {
 				["i:8172"] = 2,
-				["i:14341"] = 1,
-				["i:17056"] = 5,
-				["i:8170"] = 10,
 				["i:8153"] = 4,
+				["i:17056"] = 5,
+				["i:14341"] = 1,
+				["i:8170"] = 10,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:29970",
+			["name"] = "野羽护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "野羽护腿",
+			["itemString"] = "i:29970",
 		},
 		[226123] = {
 			["mats"] = {
@@ -856,12 +856,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132533",
+			["name"] = "重鳞手甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "重鳞手甲",
+			["itemString"] = "i:132533",
 		},
 		[60651] = {
 			["mats"] = {
@@ -870,12 +870,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:43130",
+			["name"] = "恶毒肩甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "恶毒肩甲",
+			["itemString"] = "i:43130",
 		},
 		[50958] = {
 			["mats"] = {
@@ -883,12 +883,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38417",
+			["name"] = "蛛魔护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛛魔护肩",
+			["itemString"] = "i:38417",
 		},
 		[67136] = {
 			["mats"] = {
@@ -900,26 +900,26 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:47598",
+			["name"] = "诱魔胸铠",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "诱魔胸铠",
+			["itemString"] = "i:47598",
 		},
 		[78410] = {
 			["mats"] = {
-				["i:52976"] = 7,
 				["i:38426"] = 1,
+				["i:52976"] = 7,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56494",
+			["name"] = "海啸之靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "海啸之靴",
+			["itemString"] = "i:56494",
 		},
 		[226124] = {
 			["mats"] = {
@@ -931,12 +931,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132534",
+			["name"] = "重鳞裹手",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "重鳞裹手",
+			["itemString"] = "i:132534",
 		},
 		[44970] = {
 			["mats"] = {
@@ -944,12 +944,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:34330",
+			["name"] = "厚重结缔皮护甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "厚重结缔皮护甲片",
+			["itemString"] = "i:34330",
 		},
 		[226125] = {
 			["mats"] = {
@@ -959,26 +959,26 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132542",
+			["name"] = "鬼鳞马裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "鬼鳞马裤",
+			["itemString"] = "i:132542",
 		},
 		[10548] = {
 			["mats"] = {
-				["i:4304"] = 14,
 				["i:4291"] = 4,
+				["i:4304"] = 14,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:8193",
+			["name"] = "夜色短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "夜色短裤",
+			["itemString"] = "i:8193",
 		},
 		[10552] = {
 			["mats"] = {
@@ -988,12 +988,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:8191",
+			["name"] = "龟壳头盔",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "龟壳头盔",
+			["itemString"] = "i:8191",
 		},
 		[10556] = {
 			["mats"] = {
@@ -1003,12 +1003,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:8185",
+			["name"] = "龟壳护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "龟壳护腿",
+			["itemString"] = "i:8185",
 		},
 		[19052] = {
 			["mats"] = {
@@ -1018,12 +1018,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:15084",
+			["name"] = "邪恶皮甲护腕",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "邪恶皮甲护腕",
+			["itemString"] = "i:15084",
 		},
 		[19092] = {
 			["mats"] = {
@@ -1033,12 +1033,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:15088",
+			["name"] = "邪恶皮甲腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "邪恶皮甲腰带",
+			["itemString"] = "i:15088",
 		},
 		[226127] = {
 			["mats"] = {
@@ -1049,12 +1049,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132539",
+			["name"] = "鬼鳞腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "鬼鳞腰带",
+			["itemString"] = "i:132539",
 		},
 		[9059] = {
 			["mats"] = {
@@ -1063,12 +1063,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:7277",
+			["name"] = "手工皮护腕",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "手工皮护腕",
+			["itemString"] = "i:7277",
 		},
 		[50943] = {
 			["mats"] = {
@@ -1076,12 +1076,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38406",
+			["name"] = "凝冰腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "凝冰腰带",
+			["itemString"] = "i:38406",
 		},
 		[50959] = {
 			["mats"] = {
@@ -1089,12 +1089,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38421",
+			["name"] = "蛛魔手套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛛魔手套",
+			["itemString"] = "i:38421",
 		},
 		[2149] = {
 			["mats"] = {
@@ -1103,26 +1103,26 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2302",
+			["name"] = "手工皮靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "手工皮靴",
+			["itemString"] = "i:2302",
 		},
 		[78380] = {
 			["mats"] = {
-				["i:52976"] = 7,
 				["i:38426"] = 1,
+				["i:52976"] = 7,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56480",
+			["name"] = "野人斗篷",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "野人斗篷",
+			["itemString"] = "i:56480",
 		},
 		[2152] = {
 			["mats"] = {
@@ -1130,12 +1130,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2304",
+			["name"] = "轻型护甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "轻型护甲片",
+			["itemString"] = "i:2304",
 		},
 		[2153] = {
 			["mats"] = {
@@ -1144,27 +1144,27 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2303",
+			["name"] = "手工皮短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "手工皮短裤",
+			["itemString"] = "i:2303",
 		},
 		[32466] = {
 			["mats"] = {
-				["i:21887"] = 6,
-				["i:14341"] = 2,
 				["i:25700"] = 3,
+				["i:14341"] = 2,
+				["i:21887"] = 6,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25662",
+			["name"] = "缀鳞德莱尼短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "缀鳞德莱尼短裤",
+			["itemString"] = "i:25662",
 		},
 		[10632] = {
 			["mats"] = {
@@ -1175,12 +1175,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:8348",
+			["name"] = "火焰头盔",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "火焰头盔",
+			["itemString"] = "i:8348",
 		},
 		[2159] = {
 			["mats"] = {
@@ -1189,12 +1189,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2308",
+			["name"] = "优质皮披风",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "优质皮披风",
+			["itemString"] = "i:2308",
 		},
 		[226129] = {
 			["mats"] = {
@@ -1204,12 +1204,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132535",
+			["name"] = "重鳞护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "重鳞护肩",
+			["itemString"] = "i:132535",
 		},
 		[2161] = {
 			["mats"] = {
@@ -1218,12 +1218,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2309",
+			["name"] = "雕花皮靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "雕花皮靴",
+			["itemString"] = "i:2309",
 		},
 		[2162] = {
 			["mats"] = {
@@ -1232,12 +1232,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2310",
+			["name"] = "雕花皮质披风",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "雕花皮质披风",
+			["itemString"] = "i:2310",
 		},
 		[2165] = {
 			["mats"] = {
@@ -1246,12 +1246,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2313",
+			["name"] = "中型护甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "中型护甲片",
+			["itemString"] = "i:2313",
 		},
 		[2166] = {
 			["mats"] = {
@@ -1261,12 +1261,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2314",
+			["name"] = "韧化皮甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "韧化皮甲",
+			["itemString"] = "i:2314",
 		},
 		[2167] = {
 			["mats"] = {
@@ -1276,12 +1276,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2315",
+			["name"] = "黑皮战靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑皮战靴",
+			["itemString"] = "i:2315",
 		},
 		[2168] = {
 			["mats"] = {
@@ -1291,12 +1291,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:2316",
+			["name"] = "黑皮披风",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑皮披风",
+			["itemString"] = "i:2316",
 		},
 		[194704] = {
 			["mats"] = {
@@ -1305,12 +1305,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128882",
+			["name"] = "战甲腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战甲腰带",
+			["itemString"] = "i:128882",
 		},
 		[64661] = {
 			["mats"] = {
@@ -1318,12 +1318,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:33568",
+			["name"] = "北地皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "北地皮",
+			["itemString"] = "i:33568",
 		},
 		[124627] = {
 			["mats"] = {
@@ -1331,12 +1331,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:72120",
+			["name"] = "异域皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "异域皮",
+			["itemString"] = "i:72120",
 		},
 		[60605] = {
 			["mats"] = {
@@ -1344,12 +1344,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:44438",
+			["name"] = "巨龙践踏者",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "巨龙践踏者",
+			["itemString"] = "i:44438",
 		},
 		[226131] = {
 			["mats"] = {
@@ -1359,12 +1359,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132540",
+			["name"] = "鬼鳞手套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "鬼鳞手套",
+			["itemString"] = "i:132540",
 		},
 		[60637] = {
 			["mats"] = {
@@ -1375,12 +1375,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:43566",
+			["name"] = "冰冷突袭披风",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "冰冷突袭披风",
+			["itemString"] = "i:43566",
 		},
 		[50944] = {
 			["mats"] = {
@@ -1388,12 +1388,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38400",
+			["name"] = "极地胸甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "极地胸甲",
+			["itemString"] = "i:38400",
 		},
 		[60669] = {
 			["mats"] = {
@@ -1401,12 +1401,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:43257",
+			["name"] = "蛮鳞胸甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛮鳞胸甲",
+			["itemString"] = "i:43257",
 		},
 		[226132] = {
 			["mats"] = {
@@ -1417,12 +1417,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132522",
+			["name"] = "重鳞腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "重鳞腰带",
+			["itemString"] = "i:132522",
 		},
 		[124628] = {
 			["mats"] = {
@@ -1430,12 +1430,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:85559",
+			["name"] = "邪煞护甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "邪煞护甲片",
+			["itemString"] = "i:85559",
 		},
 		[163216] = {
 			["mats"] = {
@@ -1443,12 +1443,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:52979",
+			["name"] = "暗色龙鳞",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "暗色龙鳞",
+			["itemString"] = "i:52979",
 		},
 		[226133] = {
 			["mats"] = {
@@ -1458,28 +1458,28 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132541",
+			["name"] = "鬼鳞裹腕",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "鬼鳞裹腕",
+			["itemString"] = "i:132541",
 		},
 		[45100] = {
 			["mats"] = {
-				["i:21887"] = 20,
+				["i:25700"] = 4,
 				["i:25707"] = 4,
 				["i:14341"] = 3,
-				["i:25700"] = 4,
+				["i:21887"] = 20,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:34482",
+			["name"] = "制皮匠的背包",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "制皮匠的背包",
+			["itemString"] = "i:34482",
 		},
 		[67141] = {
 			["mats"] = {
@@ -1490,12 +1490,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:47584",
+			["name"] = "月影臂甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "月影臂甲",
+			["itemString"] = "i:47584",
 		},
 		[78415] = {
 			["mats"] = {
@@ -1503,12 +1503,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56498",
+			["name"] = "海啸护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "海啸护肩",
+			["itemString"] = "i:56498",
 		},
 		[226134] = {
 			["mats"] = {
@@ -1518,12 +1518,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132521",
+			["name"] = "重鳞长靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "重鳞长靴",
+			["itemString"] = "i:132521",
 		},
 		[163218] = {
 			["mats"] = {
@@ -1531,12 +1531,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:52982",
+			["name"] = "深海鳞片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "深海鳞片",
+			["itemString"] = "i:52982",
 		},
 		[60622] = {
 			["mats"] = {
@@ -1544,12 +1544,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38435",
+			["name"] = "蛛魔护腕",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛛魔护腕",
+			["itemString"] = "i:38435",
 		},
 		[20650] = {
 			["mats"] = {
@@ -1557,12 +1557,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4304",
+			["name"] = "厚皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "厚皮",
+			["itemString"] = "i:4304",
 		},
 		[50961] = {
 			["mats"] = {
@@ -1570,26 +1570,26 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38418",
+			["name"] = "蛛魔腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛛魔腰带",
+			["itemString"] = "i:38418",
 		},
 		[78416] = {
 			["mats"] = {
-				["i:52976"] = 7,
 				["i:38426"] = 1,
+				["i:52976"] = 7,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56499",
+			["name"] = "暗黑铭牌腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "暗黑铭牌腰带",
+			["itemString"] = "i:56499",
 		},
 		[226136] = {
 			["mats"] = {
@@ -1599,12 +1599,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132537",
+			["name"] = "鬼鳞头盔",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "鬼鳞头盔",
+			["itemString"] = "i:132537",
 		},
 		[51568] = {
 			["mats"] = {
@@ -1613,27 +1613,27 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38590",
+			["name"] = "黑色几丁战靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑色几丁战靴",
+			["itemString"] = "i:38590",
 		},
 		[32467] = {
 			["mats"] = {
-				["i:21887"] = 8,
-				["i:14341"] = 2,
 				["i:25700"] = 1,
+				["i:14341"] = 2,
+				["i:21887"] = 8,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25661",
+			["name"] = "缀鳞德莱尼手套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "缀鳞德莱尼手套",
+			["itemString"] = "i:25661",
 		},
 		[194710] = {
 			["mats"] = {
@@ -1641,12 +1641,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128876",
+			["name"] = "战甲卫衣",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战甲卫衣",
+			["itemString"] = "i:128876",
 		},
 		[163220] = {
 			["mats"] = {
@@ -1654,12 +1654,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:79101",
+			["name"] = "棱彩鳞片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "棱彩鳞片",
+			["itemString"] = "i:79101",
 		},
 		[226137] = {
 			["mats"] = {
@@ -1670,27 +1670,27 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:132544",
+			["name"] = "鬼鳞长靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "鬼鳞长靴",
+			["itemString"] = "i:132544",
 		},
 		[3759] = {
 			["mats"] = {
+				["i:2318"] = 6,
 				["i:2320"] = 2,
 				["i:4231"] = 1,
-				["i:2318"] = 6,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4242",
+			["name"] = "雕花皮短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "雕花皮短裤",
+			["itemString"] = "i:4242",
 		},
 		[146613] = {
 			["mats"] = {
@@ -1698,12 +1698,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 20,
 			["profession"] = "制皮",
-			["itemString"] = "i:102351",
+			["name"] = "暴怒之鼓",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "暴怒之鼓",
+			["itemString"] = "i:102351",
 		},
 		[194711] = {
 			["mats"] = {
@@ -1711,12 +1711,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128883",
+			["name"] = "战甲裹腕",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战甲裹腕",
+			["itemString"] = "i:128883",
 		},
 		[3763] = {
 			["mats"] = {
@@ -1725,12 +1725,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4246",
+			["name"] = "优质皮带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "优质皮带",
+			["itemString"] = "i:4246",
 		},
 		[3764] = {
 			["mats"] = {
@@ -1739,12 +1739,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4247",
+			["name"] = "山地皮手套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "山地皮手套",
+			["itemString"] = "i:4247",
 		},
 		[3766] = {
 			["mats"] = {
@@ -1755,12 +1755,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4249",
+			["name"] = "黑皮腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑皮腰带",
+			["itemString"] = "i:4249",
 		},
 		[3768] = {
 			["mats"] = {
@@ -1770,12 +1770,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4251",
+			["name"] = "山地护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "山地护肩",
+			["itemString"] = "i:4251",
 		},
 		[194712] = {
 			["mats"] = {
@@ -1783,12 +1783,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128880",
+			["name"] = "战甲长裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战甲长裤",
+			["itemString"] = "i:128880",
 		},
 		[194776] = {
 			["mats"] = {
@@ -1797,12 +1797,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:129960",
+			["name"] = "皮质宠物床",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "皮质宠物床",
+			["itemString"] = "i:129960",
 		},
 		[163222] = {
 			["mats"] = {
@@ -1810,12 +1810,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38557",
+			["name"] = "冰冷的龙鳞",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "冰冷的龙鳞",
+			["itemString"] = "i:38557",
 		},
 		[3774] = {
 			["mats"] = {
@@ -1827,12 +1827,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4257",
+			["name"] = "绿色皮带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "绿色皮带",
+			["itemString"] = "i:4257",
 		},
 		[60655] = {
 			["mats"] = {
@@ -1841,12 +1841,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:43132",
+			["name"] = "夜震兜帽",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "夜震兜帽",
+			["itemString"] = "i:43132",
 		},
 		[60671] = {
 			["mats"] = {
@@ -1854,12 +1854,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:43258",
+			["name"] = "纯净号角护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "纯净号角护肩",
+			["itemString"] = "i:43258",
 		},
 		[194713] = {
 			["mats"] = {
@@ -1867,12 +1867,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128879",
+			["name"] = "战甲面具",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战甲面具",
+			["itemString"] = "i:128879",
 		},
 		[163223] = {
 			["mats"] = {
@@ -1880,12 +1880,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38558",
+			["name"] = "蛛魔几丁质",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛛魔几丁质",
+			["itemString"] = "i:38558",
 		},
 		[51569] = {
 			["mats"] = {
@@ -1894,12 +1894,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38591",
+			["name"] = "黑暗极地护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑暗极地护腿",
+			["itemString"] = "i:38591",
 		},
 		[194714] = {
 			["mats"] = {
@@ -1907,12 +1907,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128878",
+			["name"] = "战甲手套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战甲手套",
+			["itemString"] = "i:128878",
 		},
 		[163224] = {
 			["mats"] = {
@@ -1920,12 +1920,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38561",
+			["name"] = "冰虫鳞片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "冰虫鳞片",
+			["itemString"] = "i:38561",
 		},
 		[142976] = {
 			["players"] = {
@@ -1952,12 +1952,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128877",
+			["name"] = "战甲薄靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战甲薄靴",
+			["itemString"] = "i:128877",
 		},
 		[163225] = {
 			["mats"] = {
@@ -1965,12 +1965,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25708",
+			["name"] = "厚裂蹄牛皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "厚裂蹄牛皮",
+			["itemString"] = "i:25708",
 		},
 		[60608] = {
 			["mats"] = {
@@ -1978,12 +1978,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38438",
+			["name"] = "凝冰头盔",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "凝冰头盔",
+			["itemString"] = "i:38438",
 		},
 		[60624] = {
 			["mats"] = {
@@ -1991,12 +1991,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38439",
+			["name"] = "蛛魔头盔",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛛魔头盔",
+			["itemString"] = "i:38439",
 		},
 		[60640] = {
 			["mats"] = {
@@ -2006,12 +2006,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:43565",
+			["name"] = "强化蛛魔外皮斗篷",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "强化蛛魔外皮斗篷",
+			["itemString"] = "i:43565",
 		},
 		[50947] = {
 			["mats"] = {
@@ -2019,12 +2019,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38403",
+			["name"] = "极地手套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "极地手套",
+			["itemString"] = "i:38403",
 		},
 		[9068] = {
 			["mats"] = {
@@ -2034,12 +2034,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:7282",
+			["name"] = "轻皮短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "轻皮短裤",
+			["itemString"] = "i:7282",
 		},
 		[194717] = {
 			["mats"] = {
@@ -2047,26 +2047,26 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128881",
+			["name"] = "战甲护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战甲护肩",
+			["itemString"] = "i:128881",
 		},
 		[78388] = {
 			["mats"] = {
-				["i:52976"] = 10,
 				["i:38426"] = 1,
+				["i:52976"] = 10,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56481",
+			["name"] = "海啸护腕",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "海啸护腕",
+			["itemString"] = "i:56481",
 		},
 		[78420] = {
 			["mats"] = {
@@ -2075,12 +2075,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56503",
+			["name"] = "暮光腿甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "暮光腿甲片",
+			["itemString"] = "i:56503",
 		},
 		[51570] = {
 			["mats"] = {
@@ -2089,12 +2089,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38592",
+			["name"] = "黑暗极地胸甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑暗极地胸甲",
+			["itemString"] = "i:38592",
 		},
 		[32468] = {
 			["mats"] = {
@@ -2104,12 +2104,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25660",
+			["name"] = "缀鳞德莱尼外套",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "缀鳞德莱尼外套",
+			["itemString"] = "i:25660",
 		},
 		[3816] = {
 			["mats"] = {
@@ -2118,12 +2118,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4231",
+			["name"] = "熟化轻毛皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "熟化轻毛皮",
+			["itemString"] = "i:4231",
 		},
 		[3817] = {
 			["mats"] = {
@@ -2132,12 +2132,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4233",
+			["name"] = "熟化中毛皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "熟化中毛皮",
+			["itemString"] = "i:4233",
 		},
 		[3818] = {
 			["mats"] = {
@@ -2146,12 +2146,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:4236",
+			["name"] = "熟化重毛皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "熟化重毛皮",
+			["itemString"] = "i:4236",
 		},
 		[163228] = {
 			["mats"] = {
@@ -2159,12 +2159,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25700",
+			["name"] = "魔鳞",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "魔鳞",
+			["itemString"] = "i:25700",
 		},
 		[7135] = {
 			["mats"] = {
@@ -2174,12 +2174,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:5961",
+			["name"] = "黑皮短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑皮短裤",
+			["itemString"] = "i:5961",
 		},
 		[163229] = {
 			["mats"] = {
@@ -2187,28 +2187,28 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25707",
+			["name"] = "魔皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "魔皮",
+			["itemString"] = "i:25707",
 		},
 		[247800] = {
 			["mats"] = {
 				["i:151568"] = 5,
-				["i:151567"] = 20,
 				["i:124438"] = 8,
+				["i:151567"] = 20,
 				["i:151566"] = 36,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:151577",
+			["name"] = "魔化护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "魔化护肩",
+			["itemString"] = "i:151577",
 		},
 		[7147] = {
 			["mats"] = {
@@ -2218,12 +2218,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:5962",
+			["name"] = "守护短裤",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "守护短裤",
+			["itemString"] = "i:5962",
 		},
 		[124635] = {
 			["mats"] = {
@@ -2232,12 +2232,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:85851",
+			["name"] = "雾皮斗篷",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "雾皮斗篷",
+			["itemString"] = "i:85851",
 		},
 		[163230] = {
 			["mats"] = {
@@ -2245,12 +2245,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:29548",
+			["name"] = "虚空龙鳞",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "虚空龙鳞",
+			["itemString"] = "i:29548",
 		},
 		[50948] = {
 			["mats"] = {
@@ -2258,12 +2258,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38404",
+			["name"] = "极地长靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "极地长靴",
+			["itemString"] = "i:38404",
 		},
 		[50964] = {
 			["mats"] = {
@@ -2272,12 +2272,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38371",
+			["name"] = "冰虫腿甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "冰虫腿甲片",
+			["itemString"] = "i:38371",
 		},
 		[163231] = {
 			["mats"] = {
@@ -2285,12 +2285,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:29539",
+			["name"] = "眼镜蛇鳞片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "眼镜蛇鳞片",
+			["itemString"] = "i:29539",
 		},
 		[51571] = {
 			["mats"] = {
@@ -2298,12 +2298,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38433",
+			["name"] = "极地护腕",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "极地护腕",
+			["itemString"] = "i:38433",
 		},
 		[124572] = {
 			["mats"] = {
@@ -2311,12 +2311,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:85839",
+			["name"] = "雾皮护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "雾皮护肩",
+			["itemString"] = "i:85839",
 		},
 		[124125] = {
 			["mats"] = {
@@ -2324,12 +2324,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:85570",
+			["name"] = "韧化腿甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "韧化腿甲片",
+			["itemString"] = "i:85570",
 		},
 		[163232] = {
 			["mats"] = {
@@ -2337,12 +2337,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:29547",
+			["name"] = "风鳞",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "风鳞",
+			["itemString"] = "i:29547",
 		},
 		[247803] = {
 			["mats"] = {
@@ -2353,12 +2353,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:151578",
+			["name"] = "魔化肩胄",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "魔化肩胄",
+			["itemString"] = "i:151578",
 		},
 		[194787] = {
 			["mats"] = {
@@ -2367,12 +2367,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:128891",
+			["name"] = "恐皮裹腕",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "恐皮裹腕",
+			["itemString"] = "i:128891",
 		},
 		[78423] = {
 			["mats"] = {
@@ -2380,41 +2380,41 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56504",
+			["name"] = "海啸胸甲",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "海啸胸甲",
+			["itemString"] = "i:56504",
 		},
 		[19047] = {
 			["mats"] = {
-				["i:8171"] = 1,
 				["i:8150"] = 1,
+				["i:8171"] = 1,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:15407",
+			["name"] = "熟化毛皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "熟化毛皮",
+			["itemString"] = "i:15407",
 		},
 		[19055] = {
 			["mats"] = {
-				["i:14341"] = 1,
 				["i:8170"] = 10,
+				["i:14341"] = 1,
 				["i:14047"] = 6,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:15091",
+			["name"] = "符文皮甲护手",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "符文皮甲护手",
+			["itemString"] = "i:15091",
 		},
 		[124573] = {
 			["mats"] = {
@@ -2422,12 +2422,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:85835",
+			["name"] = "雾皮护胸",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "雾皮护胸",
+			["itemString"] = "i:85835",
 		},
 		[124126] = {
 			["mats"] = {
@@ -2435,29 +2435,29 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:85568",
+			["name"] = "残暴腿甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "残暴腿甲片",
+			["itemString"] = "i:85568",
 		},
 		[19103] = {
 			["mats"] = {
 				["i:15407"] = 1,
 				["i:12810"] = 4,
-				["i:14341"] = 2,
 				["i:8170"] = 16,
+				["i:14341"] = 2,
 				["i:14047"] = 18,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:15096",
+			["name"] = "符文皮甲护肩",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "符文皮甲护肩",
+			["itemString"] = "i:15096",
 		},
 		[50949] = {
 			["mats"] = {
@@ -2465,12 +2465,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38405",
+			["name"] = "极地腰带",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "极地腰带",
+			["itemString"] = "i:38405",
 		},
 		[50965] = {
 			["mats"] = {
@@ -2480,12 +2480,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38373",
+			["name"] = "霜皮腿甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "霜皮腿甲片",
+			["itemString"] = "i:38373",
 		},
 		[78424] = {
 			["mats"] = {
@@ -2493,12 +2493,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:56505",
+			["name"] = "暗黑铭牌之盔",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "暗黑铭牌之盔",
+			["itemString"] = "i:56505",
 		},
 		[51572] = {
 			["mats"] = {
@@ -2506,12 +2506,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38437",
+			["name"] = "极地头盔",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "极地头盔",
+			["itemString"] = "i:38437",
 		},
 		[32469] = {
 			["mats"] = {
@@ -2521,12 +2521,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:25659",
+			["name"] = "缀鳞德莱尼长靴",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "缀鳞德莱尼长靴",
+			["itemString"] = "i:25659",
 		},
 		[69386] = {
 			["mats"] = {
@@ -2535,12 +2535,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:49633",
+			["name"] = "遗忘王者战鼓",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "遗忘王者战鼓",
+			["itemString"] = "i:49633",
 		},
 		[124575] = {
 			["mats"] = {
@@ -2548,12 +2548,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:85838",
+			["name"] = "雾皮护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "雾皮护腿",
+			["itemString"] = "i:85838",
 		},
 		[35540] = {
 			["mats"] = {
@@ -2562,12 +2562,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:29528",
+			["name"] = "战争之鼓",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "战争之鼓",
+			["itemString"] = "i:29528",
 		},
 		[60611] = {
 			["mats"] = {
@@ -2576,12 +2576,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:44440",
+			["name"] = "黑暗冰魂护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑暗冰魂护腿",
+			["itemString"] = "i:44440",
 		},
 		[60627] = {
 			["mats"] = {
@@ -2590,12 +2590,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:44443",
+			["name"] = "黑暗蛛魔护腿",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "黑暗蛛魔护腿",
+			["itemString"] = "i:44443",
 		},
 		[60643] = {
 			["mats"] = {
@@ -2603,12 +2603,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:44446",
+			["name"] = "无尽口袋",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "无尽口袋",
+			["itemString"] = "i:44446",
 		},
 		[50950] = {
 			["mats"] = {
@@ -2616,12 +2616,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38414",
+			["name"] = "霜鳞护胸",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "霜鳞护胸",
+			["itemString"] = "i:38414",
 		},
 		[50966] = {
 			["mats"] = {
@@ -2630,26 +2630,26 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:38372",
+			["name"] = "蛛魔腿甲片",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "蛛魔腿甲片",
+			["itemString"] = "i:38372",
 		},
 		[10482] = {
 			["mats"] = {
-				["i:8169"] = 1,
 				["i:8150"] = 1,
+				["i:8169"] = 1,
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:8172",
+			["name"] = "熟化厚毛皮",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "熟化厚毛皮",
+			["itemString"] = "i:8172",
 		},
 		[69388] = {
 			["mats"] = {
@@ -2658,12 +2658,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:49634",
+			["name"] = "狂野战鼓",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "狂野战鼓",
+			["itemString"] = "i:49634",
 		},
 		[10518] = {
 			["mats"] = {
@@ -2673,12 +2673,12 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:8198",
+			["name"] = "龟壳护腕",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "龟壳护腕",
+			["itemString"] = "i:8198",
 		},
 		[62448] = {
 			["mats"] = {
@@ -2688,1734 +2688,31 @@ TradeSkillMaster_CraftingDB = {
 			},
 			["numResult"] = 1,
 			["profession"] = "制皮",
-			["itemString"] = "i:44963",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
 			["name"] = "土灵腿甲片",
-		},
-		[60607] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38434",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰护腕",
-		},
-		[36079] = {
-			["mats"] = {
-				["i:23793"] = 4,
-				["i:21884"] = 3,
-				["i:14341"] = 2,
-				["i:15416"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29975",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "金色龙击胸甲",
-		},
-		[78436] = {
-			["mats"] = {
-				["i:52976"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56516",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重蛮皮",
-		},
-		[78427] = {
-			["mats"] = {
-				["i:52976"] = 12,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56508",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸护腿",
-		},
-		[10558] = {
-			["mats"] = {
-				["i:4304"] = 16,
-				["i:8343"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8197",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜色长靴",
-		},
-		[124584] = {
-			["mats"] = {
-				["i:79101"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85843",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞护腕",
-		},
-		[196648] = {
-			["mats"] = {
-				["i:124113"] = 25,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:131746",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "石皮皮革骑甲",
-		},
-		[124576] = {
-			["mats"] = {
-				["i:72120"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85834",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮护腕",
-		},
-		[124577] = {
-			["mats"] = {
-				["i:72120"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85833",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮靴子",
-		},
-		[194796] = {
-			["mats"] = {
-				["i:124115"] = 250,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128907",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "刻鳞臂甲",
-		},
-		[36078] = {
-			["mats"] = {
-				["i:23793"] = 4,
-				["i:25699"] = 12,
-				["i:14341"] = 2,
-				["i:21886"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29974",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "生命水晶胸甲",
-		},
-		[124637] = {
-			["mats"] = {
-				["i:72120"] = 20,
-				["i:76061"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85852",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "迅击斗篷",
-		},
-		[50956] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38420",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔胸甲",
-		},
-		[19071] = {
-			["mats"] = {
-				["i:2325"] = 1,
-				["i:8170"] = 12,
-				["i:14341"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15086",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "邪恶皮甲头环",
-		},
-		[50951] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38416",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞护腿",
-		},
-		[50967] = {
-			["mats"] = {
-				["i:44128"] = 2,
-				["i:38557"] = 2,
-				["i:43102"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38374",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "冰鳞腿甲片",
-		},
-		[78437] = {
-			["mats"] = {
-				["i:56516"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56517",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重蛮皮护甲片",
-		},
-		[50963] = {
-			["mats"] = {
-				["i:38425"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38376",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚北地护甲片",
-		},
-		[78396] = {
-			["mats"] = {
-				["i:52976"] = 12,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56482",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸束带",
-		},
-		[78428] = {
-			["mats"] = {
-				["i:52976"] = 12,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56509",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌胸甲",
-		},
-		[32454] = {
-			["mats"] = {
-				["i:25649"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:21887",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "结缔皮",
-		},
-		[32462] = {
-			["mats"] = {
-				["i:21887"] = 5,
-				["i:14341"] = 2,
-				["i:25700"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25654",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔鳞手套",
-		},
-		[32470] = {
-			["mats"] = {
-				["i:14341"] = 2,
-				["i:21887"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25669",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚重德莱尼手套",
-		},
-		[32478] = {
-			["mats"] = {
-				["i:14341"] = 3,
-				["i:21887"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25673",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野性德莱尼长靴",
-		},
-		[124578] = {
-			["mats"] = {
-				["i:72120"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85832",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮腰带",
-		},
-		[44953] = {
-			["mats"] = {
-				["i:2997"] = 1,
-				["i:2840"] = 1,
-				["i:8170"] = 4,
-				["i:14341"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:151791",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "寒冬长靴",
-		},
-		[3770] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:3389"] = 2,
-				["i:3182"] = 2,
-				["i:2319"] = 4,
-				["i:4233"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4253",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "韧化皮手套",
-		},
-		[10650] = {
-			["mats"] = {
-				["i:8172"] = 4,
-				["i:8165"] = 30,
-				["i:8343"] = 4,
-				["i:4304"] = 40,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8367",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "龙鳞胸甲",
-		},
-		[36077] = {
-			["mats"] = {
-				["i:23793"] = 4,
-				["i:22451"] = 2,
-				["i:14341"] = 2,
-				["i:22452"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29973",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "原始风暴胸甲",
-		},
-		[226126] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:2325"] = 1,
-				["i:4234"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132532",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞长裤",
-		},
-		[124124] = {
-			["mats"] = {
-				["i:72120"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85569",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "萦煞腿甲片",
-		},
-		[60620] = {
-			["mats"] = {
-				["i:38558"] = 35,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44442",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "碾虫靴",
-		},
-		[60604] = {
-			["mats"] = {
-				["i:38425"] = 6,
-				["i:37705"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44437",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗霜鳞胸甲",
-		},
-		[124571] = {
-			["mats"] = {
-				["i:72120"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85837",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮头盔",
-		},
-		[9145] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:2319"] = 8,
-				["i:4233"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7348",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "造弓师手套",
-		},
-		[194744] = {
-			["mats"] = {
-				["i:124115"] = 12,
-				["i:124439"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128898",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战缚腰带",
-		},
-		[226118] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:2319"] = 6,
-				["i:2457"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132499",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "锁链护手",
-		},
-		[2881] = {
-			["mats"] = {
-				["i:2934"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2318",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻皮",
-		},
-		[3753] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4237",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "手工皮带",
-		},
-		[44770] = {
-			["mats"] = {
-				["i:23793"] = 4,
-				["i:22452"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:34207",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "手套强化护甲片",
-		},
-		[124579] = {
-			["mats"] = {
-				["i:79101"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85846",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞头盔",
-		},
-		[226106] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132491",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞护腕",
-		},
-		[19072] = {
-			["mats"] = {
-				["i:14341"] = 1,
-				["i:8170"] = 10,
-				["i:14047"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15093",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲腰带",
-		},
-		[60613] = {
-			["mats"] = {
-				["i:38425"] = 6,
-				["i:37703"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44441",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗冰魂胸甲",
-		},
-		[60629] = {
-			["mats"] = {
-				["i:38425"] = 6,
-				["i:37705"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44444",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗蛛魔胸甲",
-		},
-		[50936] = {
-			["mats"] = {
-				["i:33568"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38425",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚北地皮",
-		},
-		[50952] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38424",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞护肩",
-		},
-		[20649] = {
-			["mats"] = {
-				["i:2319"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4234",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重皮",
-		},
-		[9201] = {
-			["mats"] = {
-				["i:2325"] = 1,
-				["i:4234"] = 16,
-				["i:4291"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7378",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗色护腕",
-		},
-		[131865] = {
-			["mats"] = {
-				["i:72120"] = 50,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:72163",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "华丽毛皮",
-		},
-		[78398] = {
-			["mats"] = {
-				["i:52976"] = 7,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56483",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌护腕",
-		},
-		[78411] = {
-			["mats"] = {
-				["i:52976"] = 12,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56495",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌护肩",
-		},
-		[3780] = {
-			["mats"] = {
-				["i:4234"] = 5,
-				["i:2321"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4265",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重型护甲片",
-		},
-		[226135] = {
-			["mats"] = {
-				["i:4291"] = 2,
-				["i:4234"] = 12,
-				["i:4236"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132536",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞兜帽",
-		},
-		[10630] = {
-			["mats"] = {
-				["i:8172"] = 1,
-				["i:8343"] = 4,
-				["i:7079"] = 4,
-				["i:4304"] = 20,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8346",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "深海护手",
-		},
-		[230955] = {
-			["mats"] = {
-				["i:124439"] = 2,
-				["i:124438"] = 2,
-				["i:124113"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:142406",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "高山战鼓",
-		},
-		[124580] = {
-			["mats"] = {
-				["i:79101"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85848",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞护肩",
-		},
-		[60652] = {
-			["mats"] = {
-				["i:38557"] = 40,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43131",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "射雕护腕",
-		},
-		[124574] = {
-			["mats"] = {
-				["i:72120"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85836",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮手套",
-		},
-		[60666] = {
-			["mats"] = {
-				["i:38561"] = 40,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43256",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "虫鳞足垫",
-		},
-		[60658] = {
-			["mats"] = {
-				["i:38425"] = 10,
-				["i:35627"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43133",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜震束带",
-		},
-		[50960] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38419",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔长靴",
-		},
-		[226128] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:3824"] = 1,
-				["i:4234"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132520",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞上衣",
-		},
-		[67143] = {
-			["mats"] = {
-				["i:35622"] = 8,
-				["i:44128"] = 6,
-				["i:47556"] = 4,
-				["i:38557"] = 40,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:47577",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "十字军的龙鳞护腕",
-		},
-		[9196] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:3824"] = 1,
-				["i:4234"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7374",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗色皮甲",
-		},
-		[55199] = {
-			["mats"] = {
-				["i:37700"] = 5,
-				["i:38425"] = 6,
-				["i:37705"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:41238",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "痛苦苍穹斗篷",
-		},
-		[78399] = {
-			["mats"] = {
-				["i:52976"] = 20,
-				["i:52325"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56484",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌护手",
-		},
-		[24654] = {
-			["mats"] = {
-				["i:8170"] = 28,
-				["i:15407"] = 2,
-				["i:14341"] = 2,
-				["i:15415"] = 36,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:20295",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蓝龙鳞片护腿",
-		},
-		[50962] = {
-			["mats"] = {
-				["i:33568"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38375",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "北地护甲片",
-		},
-		[78419] = {
-			["mats"] = {
-				["i:52976"] = 6,
-				["i:52325"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56502",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "焦毁腿甲片",
-		},
-		[50946] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38402",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地肩垫",
-		},
-		[19065] = {
-			["mats"] = {
-				["i:14341"] = 1,
-				["i:8170"] = 6,
-				["i:7971"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15092",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲护腕",
-		},
-		[124581] = {
-			["mats"] = {
-				["i:79101"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85844",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞护胸",
-		},
-		[50945] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38401",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地护腿",
-		},
-		[36076] = {
-			["mats"] = {
-				["i:8172"] = 2,
-				["i:8165"] = 10,
-				["i:8170"] = 10,
-				["i:14341"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29971",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "龙击护腿",
-		},
-		[3761] = {
-			["mats"] = {
-				["i:2320"] = 4,
-				["i:4231"] = 3,
-				["i:2318"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4243",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "优质皮外套",
-		},
-		[60630] = {
-			["mats"] = {
-				["i:37703"] = 2,
-				["i:38557"] = 30,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44445",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鳞片冰靴",
-		},
-		[19102] = {
-			["mats"] = {
-				["i:15407"] = 1,
-				["i:12810"] = 4,
-				["i:14341"] = 2,
-				["i:8170"] = 22,
-				["i:14047"] = 16,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15090",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲",
-		},
-		[50953] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38415",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞手套",
-		},
-		[19098] = {
-			["mats"] = {
-				["i:15407"] = 2,
-				["i:2325"] = 4,
-				["i:14256"] = 2,
-				["i:8170"] = 20,
-				["i:14341"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15085",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "邪恶皮甲",
-		},
-		[60649] = {
-			["mats"] = {
-				["i:38425"] = 15,
-				["i:35623"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43129",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "刺击胸甲",
-		},
-		[7151] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:4234"] = 8,
-				["i:4236"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:5964",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野人护肩",
-		},
-		[163226] = {
-			["mats"] = {
-				["i:112180"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25699",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "水晶能量皮革",
-		},
-		[78432] = {
-			["mats"] = {
-				["i:56516"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56512",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸之盔",
-		},
-		[32455] = {
-			["mats"] = {
-				["i:21887"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:23793",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重结缔皮",
-		},
-		[32463] = {
-			["mats"] = {
-				["i:21887"] = 8,
-				["i:14341"] = 2,
-				["i:25700"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25655",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔鳞长靴",
-		},
-		[32471] = {
-			["mats"] = {
-				["i:14341"] = 2,
-				["i:21887"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25670",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚重德莱尼长裤",
-		},
-		[32479] = {
-			["mats"] = {
-				["i:14341"] = 3,
-				["i:21887"] = 9,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25674",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野性德莱尼手套",
-		},
-		[124582] = {
-			["mats"] = {
-				["i:79101"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85845",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞手套",
-		},
-		[50942] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38407",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰长靴",
-		},
-		[20648] = {
-			["mats"] = {
-				["i:2318"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2319",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "中皮",
-		},
-		[226105] = {
-			["mats"] = {
-				["i:2318"] = 3,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132490",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞手套",
-		},
-		[2160] = {
-			["mats"] = {
-				["i:2318"] = 8,
-				["i:2320"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2300",
 			["players"] = {
 				["龙听雨"] = true,
 			},
 			["queued"] = 0,
-			["name"] = "雕花皮外衣",
+			["itemString"] = "i:44963",
 		},
-		[32489] = {
-			["mats"] = {
-				["i:22452"] = 8,
-				["i:23793"] = 6,
-				["i:14341"] = 3,
-				["i:29539"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25682",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "斯蒂林的丛林帽",
-		},
-		[99535] = {
-			["mats"] = {
-				["i:52980"] = 1,
-				["i:52325"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:75077",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "恶毒兽皮斗篷",
-		},
-		[146923] = {
-			["mats"] = {
-				["i:72163"] = 2,
-				["i:102218"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:98617",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "强化华丽毛皮",
-		},
-		[22331] = {
-			["mats"] = {
-				["i:4304"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8170",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "硬甲皮",
-		},
-		[67139] = {
-			["mats"] = {
-				["i:47556"] = 4,
-				["i:44128"] = 6,
-				["i:35627"] = 12,
-				["i:38425"] = 20,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:47582",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "迅杀护腕",
-		},
-		[3776] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:4234"] = 6,
-				["i:2605"] = 1,
-				["i:4236"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4259",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "绿色皮护腕",
-		},
-		[78433] = {
-			["mats"] = {
-				["i:56516"] = 4,
-				["i:52327"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56513",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌护腿",
-		},
-		[78379] = {
-			["mats"] = {
-				["i:52976"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56477",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛮皮护甲片",
-		},
-		[226116] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:2319"] = 8,
-				["i:4340"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132496",
+		[140041] = {
 			["players"] = {
 				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "锁链护腕",
-		},
-		[9065] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 4,
 			},
 			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7281",
-			["players"] = {
-				["龙听雨"] = true,
+			["cooldownTimes"] = {
+				["龙听雨"] = {
+					["endTime"] = 0,
+				},
 			},
-			["queued"] = 0,
-			["name"] = "轻皮护腕",
-		},
-		[124636] = {
+			["hasCD"] = true,
 			["mats"] = {
 				["i:79101"] = 20,
-				["i:76061"] = 1,
 			},
-			["numResult"] = 1,
+			["itemString"] = "i:72163",
 			["profession"] = "制皮",
-			["itemString"] = "i:85853",
-			["players"] = {
-				["龙听雨"] = true,
-			},
 			["queued"] = 0,
-			["name"] = "风鳞披风",
-		},
-		[124583] = {
-			["mats"] = {
-				["i:79101"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85847",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞护腿",
-		},
-		[24655] = {
-			["mats"] = {
-				["i:8170"] = 20,
-				["i:15407"] = 1,
-				["i:14341"] = 2,
-				["i:15412"] = 30,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:20296",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "绿色龙鳞护手",
-		},
-		[60599] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38436",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞护腕",
-		},
-		[226107] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132489",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞腰带",
-		},
-		[60631] = {
-			["mats"] = {
-				["i:33568"] = 16,
-				["i:37700"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38441",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "刺骨寒风斗篷",
-		},
-		[50938] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38408",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰胸甲",
-		},
-		[50954] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38413",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞战靴",
-		},
-		[3756] = {
-			["mats"] = {
-				["i:2318"] = 3,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4239",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雕花皮手套",
-		},
-		[60660] = {
-			["mats"] = {
-				["i:38425"] = 12,
-				["i:35623"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:42731",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "致命打击护腿",
-		},
-		[3760] = {
-			["mats"] = {
-				["i:4234"] = 5,
-				["i:2321"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:3719",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "山地披风",
-		},
-		[10487] = {
-			["mats"] = {
-				["i:4304"] = 5,
-				["i:4291"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8173",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚重护甲片",
-		},
-		[226108] = {
-			["mats"] = {
-				["i:2320"] = 4,
-				["i:4231"] = 3,
-				["i:2318"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132487",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞卫衣",
-		},
-		[36074] = {
-			["mats"] = {
-				["i:8172"] = 2,
-				["i:7081"] = 8,
-				["i:8170"] = 10,
-				["i:14341"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29964",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑色风暴护腿",
-		},
-		[10499] = {
-			["mats"] = {
-				["i:4304"] = 7,
-				["i:4291"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8175",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜色外套",
-		},
-		[226130] = {
-			["mats"] = {
-				["i:7392"] = 4,
-				["i:4234"] = 10,
-				["i:2321"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132538",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鬼鳞卫衣",
-		},
-		[10507] = {
-			["mats"] = {
-				["i:4304"] = 5,
-				["i:4291"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8176",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜色头带",
-		},
-		[10511] = {
-			["mats"] = {
-				["i:8343"] = 1,
-				["i:8167"] = 12,
-				["i:4304"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8189",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "龟壳胸甲",
-		},
-		[99536] = {
-			["mats"] = {
-				["i:52980"] = 1,
-				["i:52327"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:75076",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "恶毒毛皮斗篷",
+			["name"] = "华丽毛皮",
 		},
 		[140040] = {
 			["players"] = {
@@ -4436,24 +2733,1727 @@ TradeSkillMaster_CraftingDB = {
 			["queued"] = 0,
 			["name"] = "华丽毛皮",
 		},
-		[140041] = {
+		[99536] = {
+			["mats"] = {
+				["i:52327"] = 4,
+				["i:52980"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "恶毒毛皮斗篷",
 			["players"] = {
 				["龙听雨"] = true,
 			},
-			["numResult"] = 1,
-			["cooldownTimes"] = {
-				["龙听雨"] = {
-					["endTime"] = 0,
-				},
+			["queued"] = 0,
+			["itemString"] = "i:75076",
+		},
+		[78427] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 12,
 			},
-			["hasCD"] = true,
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56508",
+		},
+		[10558] = {
+			["mats"] = {
+				["i:8343"] = 2,
+				["i:4304"] = 16,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜色长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8197",
+		},
+		[10511] = {
+			["mats"] = {
+				["i:8343"] = 1,
+				["i:8167"] = 12,
+				["i:4304"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "龟壳胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8189",
+		},
+		[196648] = {
+			["mats"] = {
+				["i:124113"] = 25,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "石皮皮革骑甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:131746",
+		},
+		[124576] = {
+			["mats"] = {
+				["i:72120"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85834",
+		},
+		[124577] = {
+			["mats"] = {
+				["i:72120"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮靴子",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85833",
+		},
+		[194796] = {
+			["mats"] = {
+				["i:124115"] = 250,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "刻鳞臂甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128907",
+		},
+		[226130] = {
+			["mats"] = {
+				["i:7392"] = 4,
+				["i:4234"] = 10,
+				["i:2321"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鬼鳞卫衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132538",
+		},
+		[124637] = {
+			["mats"] = {
+				["i:76061"] = 1,
+				["i:72120"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "迅击斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85852",
+		},
+		[36074] = {
+			["mats"] = {
+				["i:8172"] = 2,
+				["i:7081"] = 8,
+				["i:8170"] = 10,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑色风暴护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29964",
+		},
+		[19071] = {
+			["mats"] = {
+				["i:2325"] = 1,
+				["i:8170"] = 12,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "邪恶皮甲头环",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15086",
+		},
+		[50951] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38416",
+		},
+		[50967] = {
+			["mats"] = {
+				["i:44128"] = 2,
+				["i:43102"] = 1,
+				["i:38557"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "冰鳞腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38374",
+		},
+		[78437] = {
+			["mats"] = {
+				["i:56516"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重蛮皮护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56517",
+		},
+		[3760] = {
+			["mats"] = {
+				["i:4234"] = 5,
+				["i:2321"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "山地披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:3719",
+		},
+		[78396] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸束带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56482",
+		},
+		[78428] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56509",
+		},
+		[32454] = {
+			["mats"] = {
+				["i:25649"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "结缔皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:21887",
+		},
+		[32462] = {
+			["mats"] = {
+				["i:25700"] = 1,
+				["i:14341"] = 2,
+				["i:21887"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔鳞手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25654",
+		},
+		[32470] = {
+			["mats"] = {
+				["i:14341"] = 2,
+				["i:21887"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚重德莱尼手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25669",
+		},
+		[32478] = {
+			["mats"] = {
+				["i:14341"] = 3,
+				["i:21887"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野性德莱尼长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25673",
+		},
+		[124578] = {
+			["mats"] = {
+				["i:72120"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85832",
+		},
+		[60660] = {
+			["mats"] = {
+				["i:38425"] = 12,
+				["i:35623"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "致命打击护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:42731",
+		},
+		[3756] = {
+			["mats"] = {
+				["i:2318"] = 3,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雕花皮手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4239",
+		},
+		[10650] = {
+			["mats"] = {
+				["i:8172"] = 4,
+				["i:8165"] = 30,
+				["i:8343"] = 4,
+				["i:4304"] = 40,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "龙鳞胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8367",
+		},
+		[36077] = {
+			["mats"] = {
+				["i:23793"] = 4,
+				["i:22451"] = 2,
+				["i:14341"] = 2,
+				["i:22452"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "原始风暴胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29973",
+		},
+		[226126] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:2325"] = 1,
+				["i:4234"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞长裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132532",
+		},
+		[124124] = {
+			["mats"] = {
+				["i:72120"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "萦煞腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85569",
+		},
+		[60620] = {
+			["mats"] = {
+				["i:38558"] = 35,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "碾虫靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44442",
+		},
+		[60604] = {
+			["mats"] = {
+				["i:38425"] = 6,
+				["i:37705"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗霜鳞胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44437",
+		},
+		[24655] = {
+			["mats"] = {
+				["i:14341"] = 2,
+				["i:15407"] = 1,
+				["i:8170"] = 20,
+				["i:15412"] = 30,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "绿色龙鳞护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:20296",
+		},
+		[9145] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:2319"] = 8,
+				["i:4233"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "造弓师手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7348",
+		},
+		[124583] = {
+			["mats"] = {
+				["i:79101"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85847",
+		},
+		[124636] = {
 			["mats"] = {
 				["i:79101"] = 20,
+				["i:76061"] = 1,
 			},
-			["itemString"] = "i:72163",
+			["numResult"] = 1,
 			["profession"] = "制皮",
+			["name"] = "风鳞披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
 			["queued"] = 0,
+			["itemString"] = "i:85853",
+		},
+		[9065] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻皮护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7281",
+		},
+		[226116] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2319"] = 8,
+				["i:4340"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "锁链护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132496",
+		},
+		[78379] = {
+			["mats"] = {
+				["i:52976"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛮皮护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56477",
+		},
+		[124579] = {
+			["mats"] = {
+				["i:79101"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85846",
+		},
+		[78433] = {
+			["mats"] = {
+				["i:56516"] = 4,
+				["i:52327"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56513",
+		},
+		[3776] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2605"] = 1,
+				["i:4234"] = 6,
+				["i:4236"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "绿色皮护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4259",
+		},
+		[60613] = {
+			["mats"] = {
+				["i:38425"] = 6,
+				["i:37703"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗冰魂胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44441",
+		},
+		[60629] = {
+			["mats"] = {
+				["i:38425"] = 6,
+				["i:37705"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗蛛魔胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44444",
+		},
+		[50936] = {
+			["mats"] = {
+				["i:33568"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚北地皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38425",
+		},
+		[50952] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38424",
+		},
+		[67139] = {
+			["mats"] = {
+				["i:47556"] = 4,
+				["i:44128"] = 6,
+				["i:35627"] = 12,
+				["i:38425"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "迅杀护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:47582",
+		},
+		[9201] = {
+			["mats"] = {
+				["i:2325"] = 1,
+				["i:4234"] = 16,
+				["i:4291"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗色护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7378",
+		},
+		[131865] = {
+			["mats"] = {
+				["i:72120"] = 50,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
 			["name"] = "华丽毛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:72163",
+		},
+		[78398] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 7,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56483",
+		},
+		[146923] = {
+			["mats"] = {
+				["i:72163"] = 2,
+				["i:102218"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "强化华丽毛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:98617",
+		},
+		[99535] = {
+			["mats"] = {
+				["i:52325"] = 4,
+				["i:52980"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "恶毒兽皮斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:75077",
+		},
+		[32489] = {
+			["mats"] = {
+				["i:22452"] = 8,
+				["i:23793"] = 6,
+				["i:14341"] = 3,
+				["i:29539"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "斯蒂林的丛林帽",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25682",
+		},
+		[2160] = {
+			["mats"] = {
+				["i:2318"] = 8,
+				["i:2320"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雕花皮外衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2300",
+		},
+		[230955] = {
+			["mats"] = {
+				["i:124439"] = 2,
+				["i:124438"] = 2,
+				["i:124113"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "高山战鼓",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:142406",
+		},
+		[124580] = {
+			["mats"] = {
+				["i:79101"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85848",
+		},
+		[60652] = {
+			["mats"] = {
+				["i:38557"] = 40,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "射雕护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43131",
+		},
+		[20648] = {
+			["mats"] = {
+				["i:2318"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "中皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2319",
+		},
+		[50942] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38407",
+		},
+		[60658] = {
+			["mats"] = {
+				["i:38425"] = 10,
+				["i:35627"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜震束带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43133",
+		},
+		[50960] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38419",
+		},
+		[226128] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:3824"] = 1,
+				["i:4234"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞上衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132520",
+		},
+		[67143] = {
+			["mats"] = {
+				["i:35622"] = 8,
+				["i:44128"] = 6,
+				["i:47556"] = 4,
+				["i:38557"] = 40,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "十字军的龙鳞护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:47577",
+		},
+		[9196] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:3824"] = 1,
+				["i:4234"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗色皮甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7374",
+		},
+		[55199] = {
+			["mats"] = {
+				["i:37700"] = 5,
+				["i:38425"] = 6,
+				["i:37705"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "痛苦苍穹斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:41238",
+		},
+		[78399] = {
+			["mats"] = {
+				["i:52325"] = 8,
+				["i:52976"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56484",
+		},
+		[24654] = {
+			["mats"] = {
+				["i:14341"] = 2,
+				["i:15407"] = 2,
+				["i:8170"] = 28,
+				["i:15415"] = 36,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蓝龙鳞片护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:20295",
+		},
+		[163226] = {
+			["mats"] = {
+				["i:112180"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "水晶能量皮革",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25699",
+		},
+		[7151] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:4234"] = 8,
+				["i:4236"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野人护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:5964",
+		},
+		[60649] = {
+			["mats"] = {
+				["i:38425"] = 15,
+				["i:35623"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "刺击胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43129",
+		},
+		[19065] = {
+			["mats"] = {
+				["i:8170"] = 6,
+				["i:14341"] = 1,
+				["i:7971"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15092",
+		},
+		[124581] = {
+			["mats"] = {
+				["i:79101"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞护胸",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85844",
+		},
+		[19098] = {
+			["mats"] = {
+				["i:15407"] = 2,
+				["i:14341"] = 2,
+				["i:14256"] = 2,
+				["i:8170"] = 20,
+				["i:2325"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "邪恶皮甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15085",
+		},
+		[36076] = {
+			["mats"] = {
+				["i:8172"] = 2,
+				["i:8165"] = 10,
+				["i:8170"] = 10,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "龙击护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29971",
+		},
+		[19102] = {
+			["mats"] = {
+				["i:15407"] = 1,
+				["i:12810"] = 4,
+				["i:8170"] = 22,
+				["i:14341"] = 2,
+				["i:14047"] = 16,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15090",
+		},
+		[60630] = {
+			["mats"] = {
+				["i:37703"] = 2,
+				["i:38557"] = 30,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鳞片冰靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44445",
+		},
+		[3761] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 4,
+				["i:4231"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "优质皮外套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4243",
+		},
+		[50953] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38415",
+		},
+		[50945] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38401",
+		},
+		[50946] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地肩垫",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38402",
+		},
+		[78419] = {
+			["mats"] = {
+				["i:52325"] = 4,
+				["i:52976"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "焦毁腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56502",
+		},
+		[50962] = {
+			["mats"] = {
+				["i:33568"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "北地护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38375",
+		},
+		[78432] = {
+			["mats"] = {
+				["i:56516"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸之盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56512",
+		},
+		[32455] = {
+			["mats"] = {
+				["i:21887"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重结缔皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:23793",
+		},
+		[32463] = {
+			["mats"] = {
+				["i:25700"] = 1,
+				["i:14341"] = 2,
+				["i:21887"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔鳞长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25655",
+		},
+		[32471] = {
+			["mats"] = {
+				["i:14341"] = 2,
+				["i:21887"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚重德莱尼长裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25670",
+		},
+		[32479] = {
+			["mats"] = {
+				["i:14341"] = 3,
+				["i:21887"] = 9,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野性德莱尼手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25674",
+		},
+		[124582] = {
+			["mats"] = {
+				["i:79101"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85845",
+		},
+		[60666] = {
+			["mats"] = {
+				["i:38561"] = 40,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "虫鳞足垫",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43256",
+		},
+		[124574] = {
+			["mats"] = {
+				["i:72120"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85836",
+		},
+		[226105] = {
+			["mats"] = {
+				["i:2318"] = 3,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132490",
+		},
+		[10630] = {
+			["mats"] = {
+				["i:8172"] = 1,
+				["i:8343"] = 4,
+				["i:7079"] = 4,
+				["i:4304"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "深海护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8346",
+		},
+		[226135] = {
+			["mats"] = {
+				["i:4291"] = 2,
+				["i:4234"] = 12,
+				["i:4236"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞兜帽",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132536",
+		},
+		[3780] = {
+			["mats"] = {
+				["i:4234"] = 5,
+				["i:2321"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重型护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4265",
+		},
+		[78411] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56495",
+		},
+		[22331] = {
+			["mats"] = {
+				["i:4304"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "硬甲皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8170",
+		},
+		[20649] = {
+			["mats"] = {
+				["i:2319"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4234",
+		},
+		[19072] = {
+			["mats"] = {
+				["i:8170"] = 10,
+				["i:14341"] = 1,
+				["i:14047"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15093",
+		},
+		[226106] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132491",
+		},
+		[44770] = {
+			["mats"] = {
+				["i:23793"] = 4,
+				["i:22452"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "手套强化护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:34207",
+		},
+		[3753] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "手工皮带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4237",
+		},
+		[2881] = {
+			["mats"] = {
+				["i:2934"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2318",
+		},
+		[226118] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2319"] = 6,
+				["i:2457"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "锁链护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132499",
+		},
+		[194744] = {
+			["mats"] = {
+				["i:124115"] = 12,
+				["i:124439"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战缚腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128898",
+		},
+		[124571] = {
+			["mats"] = {
+				["i:72120"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85837",
+		},
+		[60599] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38436",
+		},
+		[226107] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132489",
+		},
+		[60631] = {
+			["mats"] = {
+				["i:33568"] = 16,
+				["i:37700"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "刺骨寒风斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38441",
+		},
+		[50938] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38408",
+		},
+		[50954] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞战靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38413",
+		},
+		[3770] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:3389"] = 2,
+				["i:3182"] = 2,
+				["i:2319"] = 4,
+				["i:4233"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "韧化皮手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4253",
+		},
+		[44953] = {
+			["mats"] = {
+				["i:2997"] = 1,
+				["i:2840"] = 1,
+				["i:8170"] = 4,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "寒冬长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:151791",
+		},
+		[50963] = {
+			["mats"] = {
+				["i:38425"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚北地护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38376",
+		},
+		[10487] = {
+			["mats"] = {
+				["i:4291"] = 1,
+				["i:4304"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚重护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8173",
+		},
+		[226108] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 4,
+				["i:4231"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞卫衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132487",
+		},
+		[50956] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38420",
+		},
+		[10499] = {
+			["mats"] = {
+				["i:4291"] = 2,
+				["i:4304"] = 7,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜色外套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8175",
+		},
+		[36078] = {
+			["mats"] = {
+				["i:23793"] = 4,
+				["i:25699"] = 12,
+				["i:14341"] = 2,
+				["i:21886"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "生命水晶胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29974",
+		},
+		[10507] = {
+			["mats"] = {
+				["i:4291"] = 2,
+				["i:4304"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜色头带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8176",
+		},
+		[124584] = {
+			["mats"] = {
+				["i:79101"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85843",
+		},
+		[78436] = {
+			["mats"] = {
+				["i:52976"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重蛮皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56516",
+		},
+		[36079] = {
+			["mats"] = {
+				["i:23793"] = 4,
+				["i:14341"] = 2,
+				["i:21884"] = 3,
+				["i:15416"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "金色龙击胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29975",
+		},
+		[60607] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38434",
 		},
 	},
 	["f@Horde - 巨龙之吼@mats"] = {
@@ -4691,8 +4691,8 @@ TradeSkillMaster_CraftingDB = {
 		["i:43102"] = {
 			["name"] = "冰冻宝珠",
 		},
-		["i:112177"] = {
-			["name"] = "蛛魔几丁质碎片",
+		["i:4246"] = {
+			["name"] = "优质皮带",
 		},
 		["i:72163"] = {
 			["name"] = "华丽毛皮",
@@ -4718,11 +4718,11 @@ TradeSkillMaster_CraftingDB = {
 		["i:21887"] = {
 			["name"] = "结缔皮",
 		},
-		["i:124439"] = {
-			["name"] = "坚固利齿",
+		["i:112178"] = {
+			["name"] = "冰虫鳞片碎片",
 		},
-		["i:38557"] = {
-			["name"] = "冰冷的龙鳞",
+		["i:3824"] = {
+			["name"] = "暗影之油",
 		},
 		["i:7392"] = {
 			["name"] = "绿色幼龙鳞片",
@@ -4730,11 +4730,11 @@ TradeSkillMaster_CraftingDB = {
 		["i:15407"] = {
 			["name"] = "熟化毛皮",
 		},
-		["i:7070"] = {
-			["name"] = "元素之水",
+		["i:34055"] = {
+			["name"] = "强效宇宙精华",
 		},
-		["i:52328"] = {
-			["name"] = "动燃空气",
+		["i:8171"] = {
+			["name"] = "硬甲毛皮",
 		},
 		["i:35622"] = {
 			["name"] = "永恒之水",
@@ -4748,20 +4748,20 @@ TradeSkillMaster_CraftingDB = {
 		["i:2459"] = {
 			["name"] = "迅捷药水",
 		},
-		["i:2605"] = {
-			["name"] = "绿色染料",
+		["i:98617"] = {
+			["name"] = "强化华丽毛皮",
 		},
-		["i:35624"] = {
-			["name"] = "永恒之土",
+		["i:52976"] = {
+			["name"] = "蛮皮",
 		},
 		["i:56516"] = {
 			["name"] = "重蛮皮",
 		},
-		["i:124438"] = {
-			["name"] = "坚固利爪",
+		["i:4289"] = {
+			["name"] = "盐",
 		},
-		["i:8167"] = {
-			["name"] = "龟壳",
+		["i:8165"] = {
+			["name"] = "破碎的龙鳞",
 		},
 		["i:7077"] = {
 			["name"] = "火焰之心",
@@ -4769,59 +4769,59 @@ TradeSkillMaster_CraftingDB = {
 		["i:7079"] = {
 			["name"] = "纯水之球",
 		},
-		["i:2319"] = {
-			["name"] = "中皮",
-		},
-		["i:79101"] = {
-			["name"] = "棱彩鳞片",
-		},
-		["i:4235"] = {
-			["name"] = "重毛皮",
-		},
-		["i:21886"] = {
-			["name"] = "源生生命",
-		},
-		["i:25649"] = {
-			["name"] = "结缔皮碎片",
-		},
-		["i:2457"] = {
-			["name"] = "初级敏捷药剂",
+		["i:38558"] = {
+			["name"] = "蛛魔几丁质",
 		},
 		["i:22452"] = {
 			["name"] = "源生之土",
 		},
-		["i:38558"] = {
-			["name"] = "蛛魔几丁质",
+		["i:2457"] = {
+			["name"] = "初级敏捷药剂",
 		},
-		["i:8165"] = {
-			["name"] = "破碎的龙鳞",
+		["i:25649"] = {
+			["name"] = "结缔皮碎片",
 		},
-		["i:4289"] = {
-			["name"] = "盐",
+		["i:21886"] = {
+			["name"] = "源生生命",
+		},
+		["i:4235"] = {
+			["name"] = "重毛皮",
+		},
+		["i:79101"] = {
+			["name"] = "棱彩鳞片",
+		},
+		["i:2319"] = {
+			["name"] = "中皮",
+		},
+		["i:8167"] = {
+			["name"] = "龟壳",
+		},
+		["i:124438"] = {
+			["name"] = "坚固利爪",
 		},
 		["i:52327"] = {
 			["name"] = "动燃之土",
 		},
-		["i:52976"] = {
-			["name"] = "蛮皮",
+		["i:35624"] = {
+			["name"] = "永恒之土",
 		},
-		["i:98617"] = {
-			["name"] = "强化华丽毛皮",
+		["i:2605"] = {
+			["name"] = "绿色染料",
 		},
 		["i:52977"] = {
 			["name"] = "蛮皮碎片",
 		},
-		["i:8171"] = {
-			["name"] = "硬甲毛皮",
+		["i:52328"] = {
+			["name"] = "动燃空气",
 		},
-		["i:34055"] = {
-			["name"] = "强效宇宙精华",
+		["i:7070"] = {
+			["name"] = "元素之水",
 		},
-		["i:3824"] = {
-			["name"] = "暗影之油",
+		["i:38557"] = {
+			["name"] = "冰冷的龙鳞",
 		},
-		["i:112178"] = {
-			["name"] = "冰虫鳞片碎片",
+		["i:124439"] = {
+			["name"] = "坚固利齿",
 		},
 		["i:8169"] = {
 			["name"] = "厚毛皮",
@@ -4838,8 +4838,8 @@ TradeSkillMaster_CraftingDB = {
 		["i:2840"] = {
 			["name"] = "铜锭",
 		},
-		["i:4246"] = {
-			["name"] = "优质皮带",
+		["i:112177"] = {
+			["name"] = "蛛魔几丁质碎片",
 		},
 		["i:112157"] = {
 			["name"] = "棱彩鳞片碎片",
@@ -4848,38 +4848,78 @@ TradeSkillMaster_CraftingDB = {
 	["f@Horde - 太阳之井@inkTrade"] = false,
 	["f@Horde - 巨龙之吼@ignoreAlts"] = false,
 	["f@Horde - 巨龙之吼@gathering"] = {
-		["availableMats"] = {
+		["selectedSources"] = {
 		},
-		["extraMats"] = {
+		["availableMats"] = {
 		},
 		["shortItems"] = {
 		},
-		["gatheredMats"] = false,
-		["neededMats"] = {
+		["sessionOptions"] = {
+		},
+		["selectedSourceStatus"] = {
 		},
 		["destroyingMats"] = {
 		},
 		["professions"] = {
 		},
-		["selectedSourceStatus"] = {
+		["neededMats"] = {
 		},
-		["sessionOptions"] = {
-		},
-		["selectedSources"] = {
+		["gatheredMats"] = false,
+		["extraMats"] = {
 		},
 	},
 	["f@Horde - 太阳之井@ignoreIntermediate"] = false,
 	["f@Alliance - 主宰之剑@inkTrade"] = false,
-	["g@ @profitPercent"] = 0,
-	["f@Horde - 太阳之井@professionScanCache"] = {
+	["g@ @ignoreGuilds"] = {
 	},
-	["f@Horde - 太阳之井@evenStacks"] = false,
-	["f@Horde - 太阳之井@queueStatus"] = {
-		["collapsed"] = {
+	["f@Alliance - 主宰之剑@gathering"] = {
+		["selectedSources"] = {
+		},
+		["availableMats"] = {
+		},
+		["shortItems"] = {
+		},
+		["sessionOptions"] = {
+		},
+		["selectedSourceStatus"] = {
+		},
+		["destroyingMats"] = {
+		},
+		["professions"] = {
+		},
+		["neededMats"] = {
+		},
+		["gatheredMats"] = false,
+		["extraMats"] = {
 		},
 	},
-	["f@Horde - 巨龙之吼@queueStatus"] = {
-		["collapsed"] = {
+	["g@ @defaultMatCostMethod"] = "min(dbmarket, crafting, vendorbuy, convert(dbmarket))",
+	["f@Alliance - 主宰之剑@ignoreAlts"] = false,
+	["f@Alliance - 主宰之剑@playerProfessions"] = {
+		["龙听雨"] = {
+			["烹饪"] = {
+				["isSecondary"] = true,
+				["level"] = 570,
+				["maxLevel"] = 715,
+			},
+			["剥皮"] = {
+				["isSecondary"] = false,
+				["level"] = 800,
+				["prompted"] = true,
+				["maxLevel"] = 800,
+			},
+			["制皮"] = {
+				["prompted"] = true,
+				["link"] = "|cffffd000|Htrade:Player-1955-01D3904C:195119:165|h[制皮]|h|r",
+				["isSecondary"] = false,
+				["level"] = 781,
+				["maxLevel"] = 800,
+			},
+			["急救"] = {
+				["isSecondary"] = true,
+				["level"] = 730,
+				["maxLevel"] = 800,
+			},
 		},
 	},
 	["f@Horde - 巨龙之吼@ignoreDECheckBox"] = false,
@@ -4904,4490 +4944,6 @@ TradeSkillMaster_CraftingDB = {
 			},
 		},
 	},
-	["_version"] = 7,
-	["g@ @questSmartCrafting"] = true,
-	["f@Horde - 巨龙之吼@buyAH"] = false,
-	["f@Horde - 巨龙之吼@inkTrade"] = false,
-	["f@Alliance - 主宰之剑@ignoreIntermediate"] = false,
-	["f@Horde - 太阳之井@ignoreAlts"] = false,
-	["f@Alliance - 主宰之剑@evenStacks"] = false,
-	["f@Horde - 巨龙之吼@disableCheckBox"] = false,
-	["f@Alliance - 主宰之剑@ignoreDECheckBox"] = false,
-	["f@Horde - 太阳之井@buyAH"] = false,
-	["f@Horde - 太阳之井@crafts"] = {
-	},
-	["g@ @frameQueueOpen"] = false,
-	["f@Horde - 巨龙之吼@evenStacks"] = false,
-	["f@Alliance - 主宰之剑@crafts"] = {
-		[226109] = {
-			["mats"] = {
-				["i:2318"] = 7,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132488",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞长靴",
-		},
-		[84950] = {
-			["mats"] = {
-				["i:52977"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:52976",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛮皮",
-		},
-		[226110] = {
-			["mats"] = {
-				["i:2318"] = 7,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132548",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "萨满便鞋",
-		},
-		[19058] = {
-			["mats"] = {
-				["i:8170"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15564",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "毛皮护甲片",
-		},
-		[124585] = {
-			["mats"] = {
-				["i:79101"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85842",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞靴子",
-		},
-		[19082] = {
-			["mats"] = {
-				["i:14341"] = 1,
-				["i:8170"] = 14,
-				["i:14047"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15094",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲头环",
-		},
-		[60600] = {
-			["mats"] = {
-				["i:33568"] = 14,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38440",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞头盔",
-		},
-		[226111] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:4231"] = 1,
-				["i:2318"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132492",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞长裤",
-		},
-		[9058] = {
-			["mats"] = {
-				["i:2318"] = 2,
-				["i:2320"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7276",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "手工皮披风",
-		},
-		[50939] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38410",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰护腿",
-		},
-		[50955] = {
-			["mats"] = {
-				["i:33568"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38412",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞腰带",
-		},
-		[9074] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:2319"] = 6,
-				["i:2457"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7285",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻巧的皮手套",
-		},
-		[226112] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:2319"] = 6,
-				["i:4340"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132493",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "锁链胸甲",
-		},
-		[32456] = {
-			["mats"] = {
-				["i:21887"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25650",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "结缔皮护甲片",
-		},
-		[32464] = {
-			["mats"] = {
-				["i:21887"] = 10,
-				["i:14341"] = 3,
-				["i:25700"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25656",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔鳞短裤",
-		},
-		[32472] = {
-			["mats"] = {
-				["i:14341"] = 3,
-				["i:21887"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25668",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚重德莱尼长靴",
-		},
-		[32480] = {
-			["mats"] = {
-				["i:14341"] = 3,
-				["i:21887"] = 13,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25675",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野性德莱尼护腿",
-		},
-		[124586] = {
-			["mats"] = {
-				["i:79101"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85841",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞腰带",
-		},
-		[10647] = {
-			["mats"] = {
-				["i:8172"] = 4,
-				["i:8343"] = 4,
-				["i:17056"] = 20,
-				["i:4304"] = 25,
-				["i:7971"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8349",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "羽饰胸甲",
-		},
-		[226113] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:2319"] = 4,
-				["i:4340"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132494",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "锁链长靴",
-		},
-		[7126] = {
-			["mats"] = {
-				["i:2318"] = 3,
-				["i:2320"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:5957",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "手工皮外衣",
-		},
-		[194751] = {
-			["mats"] = {
-				["i:124115"] = 9,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128899",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战缚臂甲",
-		},
-		[78405] = {
-			["mats"] = {
-				["i:52976"] = 2,
-				["i:52982"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56489",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "硬化鳞片斗篷",
-		},
-		[226114] = {
-			["mats"] = {
-				["i:2320"] = 2,
-				["i:4231"] = 2,
-				["i:4243"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132545",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "电鳞胸甲",
-		},
-		[194752] = {
-			["mats"] = {
-				["i:124115"] = 16,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128896",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战缚绑腿",
-		},
-		[60601] = {
-			["mats"] = {
-				["i:38425"] = 4,
-				["i:37705"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44436",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗霜鳞护腿",
-		},
-		[226115] = {
-			["mats"] = {
-				["i:2997"] = 1,
-				["i:2319"] = 8,
-				["i:2321"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132547",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蓝色链甲护腿",
-		},
-		[7156] = {
-			["mats"] = {
-				["i:4291"] = 1,
-				["i:4234"] = 4,
-				["i:4236"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:5966",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "守护手套",
-		},
-		[50940] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38411",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰护肩",
-		},
-		[60665] = {
-			["mats"] = {
-				["i:38425"] = 10,
-				["i:35622"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43255",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海洋泡沫护手",
-		},
-		[9198] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:7070"] = 2,
-				["i:7067"] = 2,
-				["i:4234"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7377",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "冰霜皮质披风",
-		},
-		[194753] = {
-			["mats"] = {
-				["i:124115"] = 16,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128895",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战缚头盔",
-		},
-		[9206] = {
-			["mats"] = {
-				["i:4305"] = 2,
-				["i:2325"] = 2,
-				["i:4234"] = 10,
-				["i:7071"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7387",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗色皮带",
-		},
-		[78406] = {
-			["mats"] = {
-				["i:52976"] = 12,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56490",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸护手",
-		},
-		[78438] = {
-			["mats"] = {
-				["i:56516"] = 8,
-				["i:52327"] = 2,
-				["i:52326"] = 2,
-				["i:52325"] = 2,
-				["i:52328"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56518",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凶兽披风",
-		},
-		[6661] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:7071"] = 1,
-				["i:4234"] = 14,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:5739",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野人背心",
-		},
-		[194754] = {
-			["mats"] = {
-				["i:124115"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128894",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战缚护手",
-		},
-		[226117] = {
-			["mats"] = {
-				["i:4340"] = 1,
-				["i:2319"] = 12,
-				["i:2321"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132497",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "锁链护腿",
-		},
-		[194755] = {
-			["mats"] = {
-				["i:124115"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128893",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战缚软鞋",
-		},
-		[78407] = {
-			["mats"] = {
-				["i:52976"] = 10,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56491",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌之靴",
-		},
-		[78439] = {
-			["mats"] = {
-				["i:52979"] = 60,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56519",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "激战披风",
-		},
-		[142953] = {
-			["mats"] = {
-				["i:98617"] = 28,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:98601",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "卡桑利徘徊者马裤",
-		},
-		[19083] = {
-			["mats"] = {
-				["i:2325"] = 3,
-				["i:15407"] = 1,
-				["i:14341"] = 1,
-				["i:8170"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15087",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "邪恶皮甲短裤",
-		},
-		[19091] = {
-			["mats"] = {
-				["i:12810"] = 2,
-				["i:8170"] = 18,
-				["i:14341"] = 1,
-				["i:14047"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15095",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲短裤",
-		},
-		[226119] = {
-			["mats"] = {
-				["i:4340"] = 1,
-				["i:2321"] = 2,
-				["i:4246"] = 1,
-				["i:4233"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132495",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "锁链腰带",
-		},
-		[20648] = {
-			["mats"] = {
-				["i:2318"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2319",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "中皮",
-		},
-		[50957] = {
-			["mats"] = {
-				["i:33568"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38422",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔护腿",
-		},
-		[194757] = {
-			["mats"] = {
-				["i:124115"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128897",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战缚肩甲",
-		},
-		[226120] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:2319"] = 4,
-				["i:4233"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132543",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鬼鳞肩甲",
-		},
-		[32465] = {
-			["mats"] = {
-				["i:23793"] = 2,
-				["i:14341"] = 3,
-				["i:25700"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25657",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔鳞胸甲",
-		},
-		[32473] = {
-			["mats"] = {
-				["i:23793"] = 3,
-				["i:14341"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25671",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚重德莱尼外套",
-		},
-		[32481] = {
-			["mats"] = {
-				["i:23793"] = 3,
-				["i:14341"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25676",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野性德莱尼外套",
-		},
-		[194758] = {
-			["mats"] = {
-				["i:124115"] = 16,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128892",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战缚胸甲",
-		},
-		[226121] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:2319"] = 12,
-				["i:3390"] = 1,
-				["i:4340"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132498",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "锁链护肩",
-		},
-		[226122] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:2319"] = 12,
-				["i:7067"] = 2,
-				["i:2997"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132546",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "元素之握",
-		},
-		[36075] = {
-			["mats"] = {
-				["i:8172"] = 2,
-				["i:8153"] = 4,
-				["i:17056"] = 5,
-				["i:14341"] = 1,
-				["i:8170"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29970",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野羽护腿",
-		},
-		[226123] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:5637"] = 2,
-				["i:4234"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132533",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞手甲",
-		},
-		[60651] = {
-			["mats"] = {
-				["i:38425"] = 12,
-				["i:36860"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43130",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "恶毒肩甲",
-		},
-		[50958] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38417",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔护肩",
-		},
-		[78410] = {
-			["mats"] = {
-				["i:52976"] = 7,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56494",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸之靴",
-		},
-		[226124] = {
-			["mats"] = {
-				["i:5498"] = 4,
-				["i:4234"] = 8,
-				["i:4461"] = 1,
-				["i:5637"] = 4,
-				["i:4236"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132534",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞裹手",
-		},
-		[44970] = {
-			["mats"] = {
-				["i:23793"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:34330",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚重结缔皮护甲片",
-		},
-		[226125] = {
-			["mats"] = {
-				["i:4305"] = 2,
-				["i:4234"] = 12,
-				["i:2321"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132542",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鬼鳞马裤",
-		},
-		[10548] = {
-			["mats"] = {
-				["i:4304"] = 14,
-				["i:4291"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8193",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜色短裤",
-		},
-		[10552] = {
-			["mats"] = {
-				["i:8343"] = 1,
-				["i:8167"] = 24,
-				["i:4304"] = 14,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8191",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "龟壳头盔",
-		},
-		[10556] = {
-			["mats"] = {
-				["i:8343"] = 1,
-				["i:8167"] = 28,
-				["i:4304"] = 14,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8185",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "龟壳护腿",
-		},
-		[19052] = {
-			["mats"] = {
-				["i:2325"] = 1,
-				["i:8170"] = 8,
-				["i:14341"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15084",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "邪恶皮甲护腕",
-		},
-		[60604] = {
-			["mats"] = {
-				["i:38425"] = 6,
-				["i:37705"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44437",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗霜鳞胸甲",
-		},
-		[226127] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:7071"] = 1,
-				["i:4234"] = 4,
-				["i:4236"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132539",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鬼鳞腰带",
-		},
-		[9059] = {
-			["mats"] = {
-				["i:2318"] = 2,
-				["i:2320"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7277",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "手工皮护腕",
-		},
-		[50943] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38406",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰腰带",
-		},
-		[50959] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38421",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔手套",
-		},
-		[2149] = {
-			["mats"] = {
-				["i:2318"] = 2,
-				["i:2320"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2302",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "手工皮靴",
-		},
-		[78380] = {
-			["mats"] = {
-				["i:52976"] = 7,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56480",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野人斗篷",
-		},
-		[2152] = {
-			["mats"] = {
-				["i:2318"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2304",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻型护甲片",
-		},
-		[2153] = {
-			["mats"] = {
-				["i:2318"] = 4,
-				["i:2320"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2303",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "手工皮短裤",
-		},
-		[32466] = {
-			["mats"] = {
-				["i:21887"] = 6,
-				["i:14341"] = 2,
-				["i:25700"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25662",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "缀鳞德莱尼短裤",
-		},
-		[10632] = {
-			["mats"] = {
-				["i:8172"] = 2,
-				["i:7077"] = 8,
-				["i:8343"] = 4,
-				["i:4304"] = 30,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8348",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "火焰头盔",
-		},
-		[2159] = {
-			["mats"] = {
-				["i:2318"] = 10,
-				["i:2321"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2308",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "优质皮披风",
-		},
-		[226129] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:4234"] = 8,
-				["i:4236"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132535",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞护肩",
-		},
-		[2161] = {
-			["mats"] = {
-				["i:2318"] = 8,
-				["i:2320"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2309",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雕花皮靴",
-		},
-		[2162] = {
-			["mats"] = {
-				["i:2318"] = 5,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2310",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雕花皮质披风",
-		},
-		[2165] = {
-			["mats"] = {
-				["i:2319"] = 4,
-				["i:2320"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2313",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "中型护甲片",
-		},
-		[2166] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:4231"] = 6,
-				["i:2319"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2314",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "韧化皮甲",
-		},
-		[2167] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:2319"] = 4,
-				["i:4340"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2315",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑皮战靴",
-		},
-		[2168] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:2319"] = 8,
-				["i:4340"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2316",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑皮披风",
-		},
-		[194704] = {
-			["mats"] = {
-				["i:124113"] = 12,
-				["i:124439"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128882",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战甲腰带",
-		},
-		[64661] = {
-			["mats"] = {
-				["i:33567"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:33568",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "北地皮",
-		},
-		[124627] = {
-			["mats"] = {
-				["i:72162"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:72120",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "异域皮",
-		},
-		[60605] = {
-			["mats"] = {
-				["i:38557"] = 35,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44438",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "巨龙践踏者",
-		},
-		[226131] = {
-			["mats"] = {
-				["i:7392"] = 6,
-				["i:4291"] = 2,
-				["i:4234"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132540",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鬼鳞手套",
-		},
-		[60637] = {
-			["mats"] = {
-				["i:36860"] = 6,
-				["i:44128"] = 2,
-				["i:35627"] = 4,
-				["i:43102"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43566",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "冰冷突袭披风",
-		},
-		[50944] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38400",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地胸甲",
-		},
-		[60669] = {
-			["mats"] = {
-				["i:38425"] = 25,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43257",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛮鳞胸甲",
-		},
-		[226132] = {
-			["mats"] = {
-				["i:4305"] = 2,
-				["i:2325"] = 2,
-				["i:4234"] = 10,
-				["i:7071"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132522",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞腰带",
-		},
-		[124628] = {
-			["mats"] = {
-				["i:72120"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85559",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "邪煞护甲片",
-		},
-		[163216] = {
-			["mats"] = {
-				["i:112156"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:52979",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗色龙鳞",
-		},
-		[226133] = {
-			["mats"] = {
-				["i:4291"] = 1,
-				["i:4234"] = 6,
-				["i:4236"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132541",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鬼鳞裹腕",
-		},
-		[45100] = {
-			["mats"] = {
-				["i:21887"] = 20,
-				["i:25707"] = 4,
-				["i:14341"] = 3,
-				["i:25700"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:34482",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "制皮匠的背包",
-		},
-		[78415] = {
-			["mats"] = {
-				["i:52982"] = 20,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56498",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸护肩",
-		},
-		[226134] = {
-			["mats"] = {
-				["i:4291"] = 2,
-				["i:4234"] = 8,
-				["i:10285"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132521",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞长靴",
-		},
-		[163218] = {
-			["mats"] = {
-				["i:112155"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:52982",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "深海鳞片",
-		},
-		[60622] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38435",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔护腕",
-		},
-		[20650] = {
-			["mats"] = {
-				["i:4234"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4304",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚皮",
-		},
-		[50961] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38418",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔腰带",
-		},
-		[78416] = {
-			["mats"] = {
-				["i:52976"] = 7,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56499",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌腰带",
-		},
-		[226136] = {
-			["mats"] = {
-				["i:4291"] = 2,
-				["i:4234"] = 12,
-				["i:4236"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132537",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鬼鳞头盔",
-		},
-		[51568] = {
-			["mats"] = {
-				["i:38558"] = 25,
-				["i:37705"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38590",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑色几丁战靴",
-		},
-		[32467] = {
-			["mats"] = {
-				["i:21887"] = 8,
-				["i:14341"] = 2,
-				["i:25700"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25661",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "缀鳞德莱尼手套",
-		},
-		[194710] = {
-			["mats"] = {
-				["i:124113"] = 24,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128876",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战甲卫衣",
-		},
-		[163220] = {
-			["mats"] = {
-				["i:112157"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:79101",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "棱彩鳞片",
-		},
-		[226137] = {
-			["mats"] = {
-				["i:4337"] = 2,
-				["i:4291"] = 1,
-				["i:4234"] = 10,
-				["i:2459"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132544",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鬼鳞长靴",
-		},
-		[3759] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 2,
-				["i:4231"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4242",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雕花皮短裤",
-		},
-		[146613] = {
-			["mats"] = {
-				["i:72163"] = 1,
-			},
-			["numResult"] = 20,
-			["profession"] = "制皮",
-			["itemString"] = "i:102351",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暴怒之鼓",
-		},
-		[3761] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 4,
-				["i:4231"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4243",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "优质皮外套",
-		},
-		[3763] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4246",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "优质皮带",
-		},
-		[3764] = {
-			["mats"] = {
-				["i:2319"] = 14,
-				["i:2321"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4247",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "山地皮手套",
-		},
-		[3766] = {
-			["mats"] = {
-				["i:4340"] = 1,
-				["i:2321"] = 2,
-				["i:4246"] = 1,
-				["i:4233"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4249",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑皮腰带",
-		},
-		[3768] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:2319"] = 4,
-				["i:4233"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4251",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "山地护肩",
-		},
-		[194712] = {
-			["mats"] = {
-				["i:124113"] = 16,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128880",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战甲长裤",
-		},
-		[194776] = {
-			["mats"] = {
-				["i:124113"] = 50,
-				["i:124116"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:129960",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "皮质宠物床",
-		},
-		[163222] = {
-			["mats"] = {
-				["i:112158"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38557",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "冰冷的龙鳞",
-		},
-		[3774] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:7071"] = 1,
-				["i:4234"] = 5,
-				["i:2605"] = 1,
-				["i:4236"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4257",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "绿色皮带",
-		},
-		[60655] = {
-			["mats"] = {
-				["i:38425"] = 14,
-				["i:35627"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43132",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜震兜帽",
-		},
-		[60671] = {
-			["mats"] = {
-				["i:38558"] = 30,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43258",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "纯净号角护肩",
-		},
-		[194713] = {
-			["mats"] = {
-				["i:124113"] = 16,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128879",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战甲面具",
-		},
-		[163223] = {
-			["mats"] = {
-				["i:112177"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38558",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔几丁质",
-		},
-		[51569] = {
-			["mats"] = {
-				["i:38425"] = 6,
-				["i:37703"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38591",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗极地护腿",
-		},
-		[194714] = {
-			["mats"] = {
-				["i:124113"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128878",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战甲手套",
-		},
-		[163224] = {
-			["mats"] = {
-				["i:112178"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38561",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "冰虫鳞片",
-		},
-		[142976] = {
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["numResult"] = 1,
-			["cooldownTimes"] = {
-				["龙听雨"] = {
-					["endTime"] = 0,
-				},
-			},
-			["hasCD"] = true,
-			["mats"] = {
-				["i:72163"] = 2,
-			},
-			["itemString"] = "i:98617",
-			["profession"] = "制皮",
-			["queued"] = 0,
-			["name"] = "强化华丽毛皮",
-		},
-		[194715] = {
-			["mats"] = {
-				["i:124113"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128877",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战甲薄靴",
-		},
-		[163225] = {
-			["mats"] = {
-				["i:112179"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25708",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚裂蹄牛皮",
-		},
-		[60608] = {
-			["mats"] = {
-				["i:33568"] = 14,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38438",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰头盔",
-		},
-		[60624] = {
-			["mats"] = {
-				["i:33568"] = 14,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38439",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔头盔",
-		},
-		[60640] = {
-			["mats"] = {
-				["i:44128"] = 2,
-				["i:38558"] = 40,
-				["i:43102"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43565",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "强化蛛魔外皮斗篷",
-		},
-		[50947] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38403",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地手套",
-		},
-		[9068] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:4231"] = 1,
-				["i:2318"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7282",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻皮短裤",
-		},
-		[194717] = {
-			["mats"] = {
-				["i:124113"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128881",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战甲护肩",
-		},
-		[78388] = {
-			["mats"] = {
-				["i:52976"] = 10,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56481",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸护腕",
-		},
-		[78420] = {
-			["mats"] = {
-				["i:52326"] = 4,
-				["i:52976"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56503",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暮光腿甲片",
-		},
-		[51570] = {
-			["mats"] = {
-				["i:38425"] = 5,
-				["i:37703"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38592",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗极地胸甲",
-		},
-		[32468] = {
-			["mats"] = {
-				["i:23793"] = 2,
-				["i:14341"] = 3,
-				["i:25700"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25660",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "缀鳞德莱尼外套",
-		},
-		[3816] = {
-			["mats"] = {
-				["i:4289"] = 1,
-				["i:783"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4231",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "熟化轻毛皮",
-		},
-		[3817] = {
-			["mats"] = {
-				["i:4289"] = 1,
-				["i:4232"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4233",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "熟化中毛皮",
-		},
-		[3818] = {
-			["mats"] = {
-				["i:4235"] = 1,
-				["i:4289"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4236",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "熟化重毛皮",
-		},
-		[163228] = {
-			["mats"] = {
-				["i:112181"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25700",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔鳞",
-		},
-		[67083] = {
-			["mats"] = {
-				["i:35622"] = 8,
-				["i:44128"] = 6,
-				["i:47556"] = 4,
-				["i:38557"] = 40,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:47576",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "十字军的龙鳞护腕",
-		},
-		[7135] = {
-			["mats"] = {
-				["i:4340"] = 1,
-				["i:2319"] = 12,
-				["i:2321"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:5961",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑皮短裤",
-		},
-		[163229] = {
-			["mats"] = {
-				["i:112182"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25707",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔皮",
-		},
-		[247800] = {
-			["mats"] = {
-				["i:151568"] = 5,
-				["i:151567"] = 20,
-				["i:124438"] = 8,
-				["i:151566"] = 36,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:151577",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔化护肩",
-		},
-		[7147] = {
-			["mats"] = {
-				["i:4305"] = 2,
-				["i:4234"] = 12,
-				["i:2321"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:5962",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "守护短裤",
-		},
-		[124635] = {
-			["mats"] = {
-				["i:79101"] = 5,
-				["i:72120"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85851",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮斗篷",
-		},
-		[163230] = {
-			["mats"] = {
-				["i:112183"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29548",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "虚空龙鳞",
-		},
-		[50948] = {
-			["mats"] = {
-				["i:33568"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38404",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地长靴",
-		},
-		[50964] = {
-			["mats"] = {
-				["i:38425"] = 3,
-				["i:38561"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38371",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "冰虫腿甲片",
-		},
-		[163231] = {
-			["mats"] = {
-				["i:112184"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29539",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "眼镜蛇鳞片",
-		},
-		[51571] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38433",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地护腕",
-		},
-		[124572] = {
-			["mats"] = {
-				["i:72120"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85839",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮护肩",
-		},
-		[124125] = {
-			["mats"] = {
-				["i:79101"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85570",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "韧化腿甲片",
-		},
-		[163232] = {
-			["mats"] = {
-				["i:112185"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29547",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞",
-		},
-		[247803] = {
-			["mats"] = {
-				["i:151568"] = 5,
-				["i:124439"] = 8,
-				["i:151567"] = 20,
-				["i:151566"] = 36,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:151578",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔化肩胄",
-		},
-		[67085] = {
-			["mats"] = {
-				["i:47556"] = 4,
-				["i:35625"] = 12,
-				["i:38425"] = 20,
-				["i:44128"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:47583",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "月影臂甲",
-		},
-		[194787] = {
-			["mats"] = {
-				["i:124113"] = 165,
-				["i:124115"] = 80,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128891",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "恐皮裹腕",
-		},
-		[78423] = {
-			["mats"] = {
-				["i:52982"] = 60,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56504",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸胸甲",
-		},
-		[19047] = {
-			["mats"] = {
-				["i:8171"] = 1,
-				["i:8150"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15407",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "熟化毛皮",
-		},
-		[19055] = {
-			["mats"] = {
-				["i:14341"] = 1,
-				["i:8170"] = 10,
-				["i:14047"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15091",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲护手",
-		},
-		[124573] = {
-			["mats"] = {
-				["i:72120"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85835",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮护胸",
-		},
-		[124126] = {
-			["mats"] = {
-				["i:72120"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85568",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "残暴腿甲片",
-		},
-		[19103] = {
-			["mats"] = {
-				["i:15407"] = 1,
-				["i:12810"] = 4,
-				["i:14341"] = 2,
-				["i:8170"] = 16,
-				["i:14047"] = 18,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15096",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲护肩",
-		},
-		[50949] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38405",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地腰带",
-		},
-		[50965] = {
-			["mats"] = {
-				["i:44128"] = 2,
-				["i:38558"] = 2,
-				["i:43102"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38373",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜皮腿甲片",
-		},
-		[78424] = {
-			["mats"] = {
-				["i:56516"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56505",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌之盔",
-		},
-		[51572] = {
-			["mats"] = {
-				["i:33568"] = 14,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38437",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地头盔",
-		},
-		[32469] = {
-			["mats"] = {
-				["i:23793"] = 2,
-				["i:14341"] = 3,
-				["i:25700"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25659",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "缀鳞德莱尼长靴",
-		},
-		[124574] = {
-			["mats"] = {
-				["i:72120"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85836",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮手套",
-		},
-		[67087] = {
-			["mats"] = {
-				["i:47556"] = 4,
-				["i:44128"] = 6,
-				["i:35627"] = 12,
-				["i:38425"] = 20,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:47581",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "迅杀护腕",
-		},
-		[124575] = {
-			["mats"] = {
-				["i:72120"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85838",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮护腿",
-		},
-		[35540] = {
-			["mats"] = {
-				["i:23793"] = 3,
-				["i:25700"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29528",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战争之鼓",
-		},
-		[44770] = {
-			["mats"] = {
-				["i:23793"] = 4,
-				["i:22452"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:34207",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "手套强化护甲片",
-		},
-		[60627] = {
-			["mats"] = {
-				["i:38425"] = 4,
-				["i:37705"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44443",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗蛛魔护腿",
-		},
-		[60643] = {
-			["mats"] = {
-				["i:38425"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44446",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "无尽口袋",
-		},
-		[2881] = {
-			["mats"] = {
-				["i:2934"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2318",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻皮",
-		},
-		[50966] = {
-			["mats"] = {
-				["i:38425"] = 4,
-				["i:38558"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38372",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔腿甲片",
-		},
-		[10482] = {
-			["mats"] = {
-				["i:8169"] = 1,
-				["i:8150"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8172",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "熟化厚毛皮",
-		},
-		[69388] = {
-			["mats"] = {
-				["i:38425"] = 8,
-				["i:38561"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:49634",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "狂野战鼓",
-		},
-		[10518] = {
-			["mats"] = {
-				["i:8343"] = 1,
-				["i:8167"] = 12,
-				["i:4304"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8198",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "龟壳护腕",
-		},
-		[62448] = {
-			["mats"] = {
-				["i:44128"] = 2,
-				["i:35624"] = 4,
-				["i:43102"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44963",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "土灵腿甲片",
-		},
-		[124576] = {
-			["mats"] = {
-				["i:72120"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85834",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮护腕",
-		},
-		[140041] = {
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["numResult"] = 1,
-			["cooldownTimes"] = {
-				["龙听雨"] = {
-					["endTime"] = 0,
-				},
-			},
-			["hasCD"] = true,
-			["mats"] = {
-				["i:79101"] = 20,
-			},
-			["itemString"] = "i:72163",
-			["profession"] = "制皮",
-			["queued"] = 0,
-			["name"] = "华丽毛皮",
-		},
-		[78427] = {
-			["mats"] = {
-				["i:52976"] = 12,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56508",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸护腿",
-		},
-		[10558] = {
-			["mats"] = {
-				["i:4304"] = 16,
-				["i:8343"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8197",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜色长靴",
-		},
-		[140040] = {
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["numResult"] = 1,
-			["cooldownTimes"] = {
-				["龙听雨"] = {
-					["endTime"] = 0,
-				},
-			},
-			["hasCD"] = true,
-			["mats"] = {
-				["i:72120"] = 20,
-			},
-			["itemString"] = "i:72163",
-			["profession"] = "制皮",
-			["queued"] = 0,
-			["name"] = "华丽毛皮",
-		},
-		[196648] = {
-			["mats"] = {
-				["i:124113"] = 25,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:131746",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "石皮皮革骑甲",
-		},
-		[124584] = {
-			["mats"] = {
-				["i:79101"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85843",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞护腕",
-		},
-		[124577] = {
-			["mats"] = {
-				["i:72120"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85833",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮靴子",
-		},
-		[194796] = {
-			["mats"] = {
-				["i:124115"] = 250,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128907",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "刻鳞臂甲",
-		},
-		[69386] = {
-			["mats"] = {
-				["i:38425"] = 8,
-				["i:38557"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:49633",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "遗忘王者战鼓",
-		},
-		[36078] = {
-			["mats"] = {
-				["i:23793"] = 4,
-				["i:25699"] = 12,
-				["i:14341"] = 2,
-				["i:21886"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29974",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "生命水晶胸甲",
-		},
-		[99536] = {
-			["mats"] = {
-				["i:52980"] = 1,
-				["i:52327"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:75076",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "恶毒毛皮斗篷",
-		},
-		[226130] = {
-			["mats"] = {
-				["i:7392"] = 4,
-				["i:4234"] = 10,
-				["i:2321"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132538",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鬼鳞卫衣",
-		},
-		[50951] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38416",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞护腿",
-		},
-		[50967] = {
-			["mats"] = {
-				["i:44128"] = 2,
-				["i:38557"] = 2,
-				["i:43102"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38374",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "冰鳞腿甲片",
-		},
-		[99535] = {
-			["mats"] = {
-				["i:52980"] = 1,
-				["i:52325"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:75077",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "恶毒兽皮斗篷",
-		},
-		[19071] = {
-			["mats"] = {
-				["i:2325"] = 1,
-				["i:8170"] = 12,
-				["i:14341"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15086",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "邪恶皮甲头环",
-		},
-		[78396] = {
-			["mats"] = {
-				["i:52976"] = 12,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56482",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸束带",
-		},
-		[78428] = {
-			["mats"] = {
-				["i:52976"] = 12,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56509",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌胸甲",
-		},
-		[32454] = {
-			["mats"] = {
-				["i:25649"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:21887",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "结缔皮",
-		},
-		[32462] = {
-			["mats"] = {
-				["i:21887"] = 5,
-				["i:14341"] = 2,
-				["i:25700"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25654",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔鳞手套",
-		},
-		[32470] = {
-			["mats"] = {
-				["i:14341"] = 2,
-				["i:21887"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25669",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚重德莱尼手套",
-		},
-		[32478] = {
-			["mats"] = {
-				["i:14341"] = 3,
-				["i:21887"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25673",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野性德莱尼长靴",
-		},
-		[55199] = {
-			["mats"] = {
-				["i:37700"] = 5,
-				["i:38425"] = 6,
-				["i:37705"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:41238",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "痛苦苍穹斗篷",
-		},
-		[50963] = {
-			["mats"] = {
-				["i:38425"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38376",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚北地护甲片",
-		},
-		[44953] = {
-			["mats"] = {
-				["i:2997"] = 1,
-				["i:2840"] = 1,
-				["i:8170"] = 4,
-				["i:14341"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:151791",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "寒冬长靴",
-		},
-		[10650] = {
-			["mats"] = {
-				["i:8172"] = 4,
-				["i:8165"] = 30,
-				["i:8343"] = 4,
-				["i:4304"] = 40,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8367",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "龙鳞胸甲",
-		},
-		[36077] = {
-			["mats"] = {
-				["i:23793"] = 4,
-				["i:22451"] = 2,
-				["i:14341"] = 2,
-				["i:22452"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29973",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "原始风暴胸甲",
-		},
-		[226126] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:2325"] = 1,
-				["i:4234"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132532",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞长裤",
-		},
-		[3760] = {
-			["mats"] = {
-				["i:4234"] = 5,
-				["i:2321"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:3719",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "山地披风",
-		},
-		[60660] = {
-			["mats"] = {
-				["i:38425"] = 12,
-				["i:35623"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:42731",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "致命打击护腿",
-		},
-		[50962] = {
-			["mats"] = {
-				["i:33568"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38375",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "北地护甲片",
-		},
-		[3756] = {
-			["mats"] = {
-				["i:2318"] = 3,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4239",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雕花皮手套",
-		},
-		[9145] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:2319"] = 8,
-				["i:4233"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7348",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "造弓师手套",
-		},
-		[226118] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:2319"] = 6,
-				["i:2457"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132499",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "锁链护手",
-		},
-		[194744] = {
-			["mats"] = {
-				["i:124115"] = 12,
-				["i:124439"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128898",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战缚腰带",
-		},
-		[10630] = {
-			["mats"] = {
-				["i:8172"] = 1,
-				["i:8343"] = 4,
-				["i:7079"] = 4,
-				["i:4304"] = 20,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8346",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "深海护手",
-		},
-		[3753] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4237",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "手工皮带",
-		},
-		[131865] = {
-			["mats"] = {
-				["i:72120"] = 50,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:72163",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "华丽毛皮",
-		},
-		[124579] = {
-			["mats"] = {
-				["i:79101"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85846",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞头盔",
-		},
-		[50950] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38414",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞护胸",
-		},
-		[226106] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132491",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞护腕",
-		},
-		[60613] = {
-			["mats"] = {
-				["i:38425"] = 6,
-				["i:37703"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44441",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗冰魂胸甲",
-		},
-		[60629] = {
-			["mats"] = {
-				["i:38425"] = 6,
-				["i:37705"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44444",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗蛛魔胸甲",
-		},
-		[50936] = {
-			["mats"] = {
-				["i:33568"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38425",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚北地皮",
-		},
-		[50952] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38424",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞护肩",
-		},
-		[124636] = {
-			["mats"] = {
-				["i:79101"] = 20,
-				["i:76061"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85853",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞披风",
-		},
-		[9201] = {
-			["mats"] = {
-				["i:2325"] = 1,
-				["i:4234"] = 16,
-				["i:4291"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7378",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗色护腕",
-		},
-		[20649] = {
-			["mats"] = {
-				["i:2319"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4234",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重皮",
-		},
-		[78398] = {
-			["mats"] = {
-				["i:52976"] = 7,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56483",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌护腕",
-		},
-		[146923] = {
-			["mats"] = {
-				["i:72163"] = 2,
-				["i:102218"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:98617",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "强化华丽毛皮",
-		},
-		[24655] = {
-			["mats"] = {
-				["i:8170"] = 20,
-				["i:15407"] = 1,
-				["i:14341"] = 2,
-				["i:15412"] = 30,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:20296",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "绿色龙鳞护手",
-		},
-		[226135] = {
-			["mats"] = {
-				["i:4291"] = 2,
-				["i:4234"] = 12,
-				["i:4236"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132536",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞兜帽",
-		},
-		[78436] = {
-			["mats"] = {
-				["i:52976"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56516",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重蛮皮",
-		},
-		[230955] = {
-			["mats"] = {
-				["i:124439"] = 2,
-				["i:124438"] = 2,
-				["i:124113"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:142406",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "高山战鼓",
-		},
-		[124580] = {
-			["mats"] = {
-				["i:79101"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85848",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞护肩",
-		},
-		[78437] = {
-			["mats"] = {
-				["i:56516"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56517",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重蛮皮护甲片",
-		},
-		[124124] = {
-			["mats"] = {
-				["i:72120"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85569",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "萦煞腿甲片",
-		},
-		[60658] = {
-			["mats"] = {
-				["i:38425"] = 10,
-				["i:35627"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43133",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜震束带",
-		},
-		[50960] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38419",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔长靴",
-		},
-		[194711] = {
-			["mats"] = {
-				["i:124113"] = 9,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:128883",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "战甲裹腕",
-		},
-		[124571] = {
-			["mats"] = {
-				["i:72120"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85837",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮头盔",
-		},
-		[226128] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:3824"] = 1,
-				["i:4234"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132520",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重鳞上衣",
-		},
-		[19092] = {
-			["mats"] = {
-				["i:2325"] = 2,
-				["i:8170"] = 14,
-				["i:14341"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15088",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "邪恶皮甲腰带",
-		},
-		[19072] = {
-			["mats"] = {
-				["i:14341"] = 1,
-				["i:8170"] = 10,
-				["i:14047"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15093",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲腰带",
-		},
-		[78399] = {
-			["mats"] = {
-				["i:52976"] = 20,
-				["i:52325"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56484",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌护手",
-		},
-		[24654] = {
-			["mats"] = {
-				["i:8170"] = 28,
-				["i:15407"] = 2,
-				["i:14341"] = 2,
-				["i:15415"] = 36,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:20295",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蓝龙鳞片护腿",
-		},
-		[78419] = {
-			["mats"] = {
-				["i:52976"] = 6,
-				["i:52325"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56502",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "焦毁腿甲片",
-		},
-		[60620] = {
-			["mats"] = {
-				["i:38558"] = 35,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44442",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "碾虫靴",
-		},
-		[7151] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:4234"] = 8,
-				["i:4236"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:5964",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野人护肩",
-		},
-		[19065] = {
-			["mats"] = {
-				["i:14341"] = 1,
-				["i:8170"] = 6,
-				["i:7971"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15092",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲护腕",
-		},
-		[124581] = {
-			["mats"] = {
-				["i:79101"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85844",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞护胸",
-		},
-		[36076] = {
-			["mats"] = {
-				["i:8172"] = 2,
-				["i:8165"] = 10,
-				["i:8170"] = 10,
-				["i:14341"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29971",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "龙击护腿",
-		},
-		[19102] = {
-			["mats"] = {
-				["i:15407"] = 1,
-				["i:12810"] = 4,
-				["i:14341"] = 2,
-				["i:8170"] = 22,
-				["i:14047"] = 16,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15090",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "符文皮甲",
-		},
-		[60649] = {
-			["mats"] = {
-				["i:38425"] = 15,
-				["i:35623"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43129",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "刺击胸甲",
-		},
-		[60630] = {
-			["mats"] = {
-				["i:37703"] = 2,
-				["i:38557"] = 30,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44445",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "鳞片冰靴",
-		},
-		[50942] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38407",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰长靴",
-		},
-		[50953] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38415",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞手套",
-		},
-		[50945] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38401",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地护腿",
-		},
-		[67080] = {
-			["mats"] = {
-				["i:44128"] = 8,
-				["i:38558"] = 40,
-				["i:47556"] = 8,
-				["i:35623"] = 8,
-				["i:34055"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:47597",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "诱魔胸铠",
-		},
-		[19098] = {
-			["mats"] = {
-				["i:15407"] = 2,
-				["i:2325"] = 4,
-				["i:14256"] = 2,
-				["i:14341"] = 2,
-				["i:8170"] = 20,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:15085",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "邪恶皮甲",
-		},
-		[163226] = {
-			["mats"] = {
-				["i:112180"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25699",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "水晶能量皮革",
-		},
-		[78432] = {
-			["mats"] = {
-				["i:56516"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56512",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "海啸之盔",
-		},
-		[32455] = {
-			["mats"] = {
-				["i:21887"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:23793",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重结缔皮",
-		},
-		[32463] = {
-			["mats"] = {
-				["i:21887"] = 8,
-				["i:14341"] = 2,
-				["i:25700"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25655",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "魔鳞长靴",
-		},
-		[32471] = {
-			["mats"] = {
-				["i:14341"] = 2,
-				["i:21887"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25670",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚重德莱尼长裤",
-		},
-		[32479] = {
-			["mats"] = {
-				["i:14341"] = 3,
-				["i:21887"] = 9,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25674",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "野性德莱尼手套",
-		},
-		[124582] = {
-			["mats"] = {
-				["i:79101"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85845",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞手套",
-		},
-		[60666] = {
-			["mats"] = {
-				["i:38561"] = 40,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43256",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "虫鳞足垫",
-		},
-		[50956] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38420",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛛魔胸甲",
-		},
-		[226105] = {
-			["mats"] = {
-				["i:2318"] = 3,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132490",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞手套",
-		},
-		[78411] = {
-			["mats"] = {
-				["i:52976"] = 12,
-				["i:38426"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56495",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌护肩",
-		},
-		[32489] = {
-			["mats"] = {
-				["i:22452"] = 8,
-				["i:23793"] = 6,
-				["i:14341"] = 3,
-				["i:29539"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:25682",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "斯蒂林的丛林帽",
-		},
-		[2160] = {
-			["mats"] = {
-				["i:2318"] = 8,
-				["i:2320"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:2300",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雕花皮外衣",
-		},
-		[78379] = {
-			["mats"] = {
-				["i:52976"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56477",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "蛮皮护甲片",
-		},
-		[22331] = {
-			["mats"] = {
-				["i:4304"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8170",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "硬甲皮",
-		},
-		[60611] = {
-			["mats"] = {
-				["i:38425"] = 4,
-				["i:37703"] = 5,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:44440",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑暗冰魂护腿",
-		},
-		[3776] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:4234"] = 6,
-				["i:2605"] = 1,
-				["i:4236"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4259",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "绿色皮护腕",
-		},
-		[78433] = {
-			["mats"] = {
-				["i:56516"] = 4,
-				["i:52327"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:56513",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗黑铭牌护腿",
-		},
-		[226116] = {
-			["mats"] = {
-				["i:2321"] = 1,
-				["i:2319"] = 8,
-				["i:4340"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132496",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "锁链护腕",
-		},
-		[9065] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7281",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻皮护腕",
-		},
-		[3780] = {
-			["mats"] = {
-				["i:4234"] = 5,
-				["i:2321"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4265",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "重型护甲片",
-		},
-		[50946] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38402",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "极地肩垫",
-		},
-		[124583] = {
-			["mats"] = {
-				["i:79101"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85847",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "风鳞护腿",
-		},
-		[3770] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:3389"] = 2,
-				["i:3182"] = 2,
-				["i:2319"] = 4,
-				["i:4233"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:4253",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "韧化皮手套",
-		},
-		[60599] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38436",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞护腕",
-		},
-		[226107] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132489",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞腰带",
-		},
-		[60631] = {
-			["mats"] = {
-				["i:33568"] = 16,
-				["i:37700"] = 4,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38441",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "刺骨寒风斗篷",
-		},
-		[50938] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38408",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰胸甲",
-		},
-		[50954] = {
-			["mats"] = {
-				["i:33568"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38413",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "霜鳞战靴",
-		},
-		[124578] = {
-			["mats"] = {
-				["i:72120"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85832",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "雾皮腰带",
-		},
-		[9196] = {
-			["mats"] = {
-				["i:2321"] = 2,
-				["i:3824"] = 1,
-				["i:4234"] = 10,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:7374",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "暗色皮甲",
-		},
-		[36074] = {
-			["mats"] = {
-				["i:8172"] = 2,
-				["i:7081"] = 8,
-				["i:8170"] = 10,
-				["i:14341"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29964",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "黑色风暴护腿",
-		},
-		[10487] = {
-			["mats"] = {
-				["i:4304"] = 5,
-				["i:4291"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8173",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "厚重护甲片",
-		},
-		[226108] = {
-			["mats"] = {
-				["i:2318"] = 6,
-				["i:2320"] = 4,
-				["i:4231"] = 3,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:132487",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "轻鳞卫衣",
-		},
-		[124637] = {
-			["mats"] = {
-				["i:72120"] = 20,
-				["i:76061"] = 1,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:85852",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "迅击斗篷",
-		},
-		[10499] = {
-			["mats"] = {
-				["i:4304"] = 7,
-				["i:4291"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8175",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜色外套",
-		},
-		[60652] = {
-			["mats"] = {
-				["i:38557"] = 40,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:43131",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "射雕护腕",
-		},
-		[10507] = {
-			["mats"] = {
-				["i:4304"] = 5,
-				["i:4291"] = 2,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8176",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "夜色头带",
-		},
-		[10511] = {
-			["mats"] = {
-				["i:8343"] = 1,
-				["i:8167"] = 12,
-				["i:4304"] = 6,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:8189",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "龟壳胸甲",
-		},
-		[36079] = {
-			["mats"] = {
-				["i:23793"] = 4,
-				["i:21884"] = 3,
-				["i:14341"] = 2,
-				["i:15416"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:29975",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "金色龙击胸甲",
-		},
-		[60607] = {
-			["mats"] = {
-				["i:33568"] = 12,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38434",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰护腕",
-		},
-		[50941] = {
-			["mats"] = {
-				["i:33568"] = 8,
-			},
-			["numResult"] = 1,
-			["profession"] = "制皮",
-			["itemString"] = "i:38409",
-			["players"] = {
-				["龙听雨"] = true,
-			},
-			["queued"] = 0,
-			["name"] = "凝冰手套",
-		},
-	},
-	["g@ @ignoreCDCraftCost"] = true,
-	["g@ @defaultCraftPriceMethod"] = "first(dbminbuyout, dbmarket)",
-	["f@Horde - 太阳之井@gathering"] = {
-		["destroyingMats"] = {
-		},
-		["extraMats"] = {
-		},
-		["shortItems"] = {
-		},
-		["sessionOptions"] = {
-		},
-		["selectedSourceStatus"] = {
-		},
-		["selectedSources"] = {
-		},
-		["professions"] = {
-		},
-		["neededMats"] = {
-		},
-		["gatheredMats"] = false,
-		["availableMats"] = {
-		},
-	},
-	["f@Horde - 巨龙之吼@ignoreIntermediate"] = false,
-	["f@Horde - 太阳之井@mats"] = {
-	},
-	["f@Horde - 太阳之井@disableCheckBox"] = false,
-	["f@Alliance - 主宰之剑@disableCheckBox"] = false,
-	["g@ @priceColumn"] = 1,
-	["_currentProfile"] = {
-		["锦在天堂 - 太阳之井"] = "Default",
-		["龙听雨 - 主宰之剑"] = "Default",
-		["龙听雨 - 巨龙之吼"] = "Default",
-	},
-	["f@Horde - 巨龙之吼@professionScanCache"] = {
-		["龙听雨制皮"] = {
-			["hash"] = 5998237,
-			["scanTime"] = 1523628545,
-		},
-	},
-	["_scopeKeys"] = {
-		["char"] = {
-			"龙听雨 - 巨龙之吼", -- [1]
-			"锦在天堂 - 太阳之井", -- [2]
-			"龙听雨 - 主宰之剑", -- [3]
-		},
-		["factionrealm"] = {
-			"Horde - 巨龙之吼", -- [1]
-			"Horde - 太阳之井", -- [2]
-			"Alliance - 主宰之剑", -- [3]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
-		["realm"] = {
-			"巨龙之吼", -- [1]
-			"太阳之井", -- [2]
-			"主宰之剑", -- [3]
-		},
-	},
-	["g@ @queueSort"] = 1,
 	["f@Alliance - 主宰之剑@mats"] = {
 		["i:35625"] = {
 			["name"] = "永恒生命",
@@ -9623,8 +5179,8 @@ TradeSkillMaster_CraftingDB = {
 		["i:52976"] = {
 			["name"] = "蛮皮",
 		},
-		["i:4246"] = {
-			["name"] = "优质皮带",
+		["i:35624"] = {
+			["name"] = "永恒之土",
 		},
 		["i:2457"] = {
 			["name"] = "初级敏捷药剂",
@@ -9650,11 +5206,11 @@ TradeSkillMaster_CraftingDB = {
 		["i:52980"] = {
 			["name"] = "原始皮革",
 		},
-		["i:112178"] = {
-			["name"] = "冰虫鳞片碎片",
+		["i:124439"] = {
+			["name"] = "坚固利齿",
 		},
-		["i:25707"] = {
-			["name"] = "魔皮",
+		["i:35627"] = {
+			["name"] = "永恒暗影",
 		},
 		["i:7392"] = {
 			["name"] = "绿色幼龙鳞片",
@@ -9662,11 +5218,11 @@ TradeSkillMaster_CraftingDB = {
 		["i:15407"] = {
 			["name"] = "熟化毛皮",
 		},
-		["i:7070"] = {
-			["name"] = "元素之水",
+		["i:34055"] = {
+			["name"] = "强效宇宙精华",
 		},
-		["i:8171"] = {
-			["name"] = "硬甲毛皮",
+		["i:4289"] = {
+			["name"] = "盐",
 		},
 		["i:4235"] = {
 			["name"] = "重毛皮",
@@ -9680,20 +5236,20 @@ TradeSkillMaster_CraftingDB = {
 		["i:2459"] = {
 			["name"] = "迅捷药水",
 		},
-		["i:38557"] = {
-			["name"] = "冰冷的龙鳞",
+		["i:3182"] = {
+			["name"] = "蜘蛛丝",
 		},
-		["i:2605"] = {
-			["name"] = "绿色染料",
+		["i:72163"] = {
+			["name"] = "华丽毛皮",
 		},
 		["i:52328"] = {
 			["name"] = "动燃空气",
 		},
-		["i:3390"] = {
-			["name"] = "次级敏捷药剂",
+		["i:112177"] = {
+			["name"] = "蛛魔几丁质碎片",
 		},
-		["i:8165"] = {
-			["name"] = "破碎的龙鳞",
+		["i:2320"] = {
+			["name"] = "粗线",
 		},
 		["i:7077"] = {
 			["name"] = "火焰之心",
@@ -9701,59 +5257,59 @@ TradeSkillMaster_CraftingDB = {
 		["i:7079"] = {
 			["name"] = "纯水之球",
 		},
-		["i:102218"] = {
-			["name"] = "战争之灵",
-		},
-		["i:37700"] = {
-			["name"] = "空气结晶",
-		},
-		["i:98617"] = {
-			["name"] = "强化华丽毛皮",
-		},
-		["i:151566"] = {
-			["name"] = "恶魔皮革",
-		},
-		["i:21886"] = {
-			["name"] = "源生生命",
-		},
-		["i:56516"] = {
-			["name"] = "重蛮皮",
+		["i:35622"] = {
+			["name"] = "永恒之水",
 		},
 		["i:38561"] = {
 			["name"] = "冰虫鳞片",
 		},
-		["i:35622"] = {
-			["name"] = "永恒之水",
+		["i:56516"] = {
+			["name"] = "重蛮皮",
 		},
-		["i:2320"] = {
-			["name"] = "粗线",
+		["i:21886"] = {
+			["name"] = "源生生命",
 		},
-		["i:112177"] = {
-			["name"] = "蛛魔几丁质碎片",
+		["i:151566"] = {
+			["name"] = "恶魔皮革",
+		},
+		["i:98617"] = {
+			["name"] = "强化华丽毛皮",
+		},
+		["i:37700"] = {
+			["name"] = "空气结晶",
+		},
+		["i:102218"] = {
+			["name"] = "战争之灵",
+		},
+		["i:8165"] = {
+			["name"] = "破碎的龙鳞",
+		},
+		["i:3390"] = {
+			["name"] = "次级敏捷药剂",
 		},
 		["i:52327"] = {
 			["name"] = "动燃之土",
 		},
-		["i:72163"] = {
-			["name"] = "华丽毛皮",
+		["i:2605"] = {
+			["name"] = "绿色染料",
 		},
-		["i:3182"] = {
-			["name"] = "蜘蛛丝",
+		["i:38557"] = {
+			["name"] = "冰冷的龙鳞",
 		},
 		["i:52977"] = {
 			["name"] = "蛮皮碎片",
 		},
-		["i:4289"] = {
-			["name"] = "盐",
+		["i:8171"] = {
+			["name"] = "硬甲毛皮",
 		},
-		["i:34055"] = {
-			["name"] = "强效宇宙精华",
+		["i:7070"] = {
+			["name"] = "元素之水",
 		},
-		["i:35627"] = {
-			["name"] = "永恒暗影",
+		["i:25707"] = {
+			["name"] = "魔皮",
 		},
-		["i:124439"] = {
-			["name"] = "坚固利齿",
+		["i:112178"] = {
+			["name"] = "冰虫鳞片碎片",
 		},
 		["i:8169"] = {
 			["name"] = "厚毛皮",
@@ -9770,43 +5326,49 @@ TradeSkillMaster_CraftingDB = {
 		["i:2840"] = {
 			["name"] = "铜锭",
 		},
-		["i:35624"] = {
-			["name"] = "永恒之土",
+		["i:4246"] = {
+			["name"] = "优质皮带",
 		},
 		["i:112157"] = {
 			["name"] = "棱彩鳞片碎片",
 		},
 	},
-	["f@Alliance - 主宰之剑@playerProfessions"] = {
-		["龙听雨"] = {
-			["烹饪"] = {
-				["isSecondary"] = true,
-				["level"] = 570,
-				["maxLevel"] = 715,
-			},
-			["剥皮"] = {
-				["isSecondary"] = false,
-				["level"] = 800,
-				["prompted"] = true,
-				["maxLevel"] = 800,
-			},
-			["制皮"] = {
-				["prompted"] = true,
-				["link"] = "|cffffd000|Htrade:Player-1955-01D3904C:195119:165|h[制皮]|h|r",
-				["isSecondary"] = false,
-				["level"] = 781,
-				["maxLevel"] = 800,
-			},
-			["急救"] = {
-				["isSecondary"] = true,
-				["level"] = 730,
-				["maxLevel"] = 800,
-			},
+	["g@ @queueSort"] = 1,
+	["f@Horde - 巨龙之吼@buyAH"] = false,
+	["f@Horde - 巨龙之吼@inkTrade"] = false,
+	["f@Alliance - 主宰之剑@ignoreIntermediate"] = false,
+	["f@Horde - 太阳之井@ignoreAlts"] = false,
+	["f@Alliance - 主宰之剑@evenStacks"] = false,
+	["_scopeKeys"] = {
+		["char"] = {
+			"龙听雨 - 巨龙之吼", -- [1]
+			"锦在天堂 - 太阳之井", -- [2]
+			"龙听雨 - 主宰之剑", -- [3]
+		},
+		["realm"] = {
+			"巨龙之吼", -- [1]
+			"太阳之井", -- [2]
+			"主宰之剑", -- [3]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - 巨龙之吼", -- [1]
+			"Horde - 太阳之井", -- [2]
+			"Alliance - 主宰之剑", -- [3]
 		},
 	},
-	["f@Alliance - 主宰之剑@ignoreAlts"] = false,
-	["g@ @defaultMatCostMethod"] = "min(dbmarket, crafting, vendorbuy, convert(dbmarket))",
-	["f@Alliance - 主宰之剑@gathering"] = {
+	["f@Alliance - 主宰之剑@ignoreDECheckBox"] = false,
+	["f@Horde - 太阳之井@crafts"] = {
+	},
+	["f@Horde - 太阳之井@buyAH"] = false,
+	["_currentProfile"] = {
+		["龙听雨 - 主宰之剑"] = "Default",
+		["锦在天堂 - 太阳之井"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
+	},
+	["f@Horde - 太阳之井@gathering"] = {
 		["availableMats"] = {
 		},
 		["extraMats"] = {
@@ -9827,6 +5389,4444 @@ TradeSkillMaster_CraftingDB = {
 		["selectedSources"] = {
 		},
 	},
-	["g@ @ignoreGuilds"] = {
+	["f@Alliance - 主宰之剑@crafts"] = {
+		[226109] = {
+			["mats"] = {
+				["i:2318"] = 7,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132488",
+		},
+		[84950] = {
+			["mats"] = {
+				["i:52977"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛮皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:52976",
+		},
+		[226110] = {
+			["mats"] = {
+				["i:2318"] = 7,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "萨满便鞋",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132548",
+		},
+		[19058] = {
+			["mats"] = {
+				["i:8170"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "毛皮护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15564",
+		},
+		[124585] = {
+			["mats"] = {
+				["i:79101"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞靴子",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85842",
+		},
+		[19082] = {
+			["mats"] = {
+				["i:8170"] = 14,
+				["i:14341"] = 1,
+				["i:14047"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲头环",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15094",
+		},
+		[60600] = {
+			["mats"] = {
+				["i:33568"] = 14,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38440",
+		},
+		[226111] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:4231"] = 1,
+				["i:2318"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞长裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132492",
+		},
+		[9058] = {
+			["mats"] = {
+				["i:2318"] = 2,
+				["i:2320"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "手工皮披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7276",
+		},
+		[50939] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38410",
+		},
+		[50955] = {
+			["mats"] = {
+				["i:33568"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38412",
+		},
+		[9074] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2319"] = 6,
+				["i:2457"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻巧的皮手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7285",
+		},
+		[226112] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2319"] = 6,
+				["i:4340"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "锁链胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132493",
+		},
+		[32456] = {
+			["mats"] = {
+				["i:21887"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "结缔皮护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25650",
+		},
+		[32464] = {
+			["mats"] = {
+				["i:25700"] = 3,
+				["i:14341"] = 3,
+				["i:21887"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔鳞短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25656",
+		},
+		[32472] = {
+			["mats"] = {
+				["i:14341"] = 3,
+				["i:21887"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚重德莱尼长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25668",
+		},
+		[32480] = {
+			["mats"] = {
+				["i:14341"] = 3,
+				["i:21887"] = 13,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野性德莱尼护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25675",
+		},
+		[124586] = {
+			["mats"] = {
+				["i:79101"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85841",
+		},
+		[10647] = {
+			["mats"] = {
+				["i:8172"] = 4,
+				["i:8343"] = 4,
+				["i:17056"] = 20,
+				["i:7971"] = 2,
+				["i:4304"] = 25,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "羽饰胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8349",
+		},
+		[226113] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:2319"] = 4,
+				["i:4340"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "锁链长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132494",
+		},
+		[7126] = {
+			["mats"] = {
+				["i:2318"] = 3,
+				["i:2320"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "手工皮外衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:5957",
+		},
+		[194751] = {
+			["mats"] = {
+				["i:124115"] = 9,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战缚臂甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128899",
+		},
+		[78405] = {
+			["mats"] = {
+				["i:52982"] = 8,
+				["i:52976"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "硬化鳞片斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56489",
+		},
+		[226114] = {
+			["mats"] = {
+				["i:4231"] = 2,
+				["i:2320"] = 2,
+				["i:4243"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "电鳞胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132545",
+		},
+		[194752] = {
+			["mats"] = {
+				["i:124115"] = 16,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战缚绑腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128896",
+		},
+		[60601] = {
+			["mats"] = {
+				["i:38425"] = 4,
+				["i:37705"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗霜鳞护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44436",
+		},
+		[226115] = {
+			["mats"] = {
+				["i:2997"] = 1,
+				["i:2319"] = 8,
+				["i:2321"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蓝色链甲护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132547",
+		},
+		[7156] = {
+			["mats"] = {
+				["i:4291"] = 1,
+				["i:4234"] = 4,
+				["i:4236"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "守护手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:5966",
+		},
+		[50940] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38411",
+		},
+		[60665] = {
+			["mats"] = {
+				["i:38425"] = 10,
+				["i:35622"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海洋泡沫护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43255",
+		},
+		[9198] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:4234"] = 6,
+				["i:7070"] = 2,
+				["i:7067"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "冰霜皮质披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7377",
+		},
+		[194753] = {
+			["mats"] = {
+				["i:124115"] = 16,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战缚头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128895",
+		},
+		[9206] = {
+			["mats"] = {
+				["i:4305"] = 2,
+				["i:2325"] = 2,
+				["i:4234"] = 10,
+				["i:7071"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗色皮带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7387",
+		},
+		[78406] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56490",
+		},
+		[78438] = {
+			["mats"] = {
+				["i:56516"] = 8,
+				["i:52327"] = 2,
+				["i:52326"] = 2,
+				["i:52325"] = 2,
+				["i:52328"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凶兽披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56518",
+		},
+		[6661] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:7071"] = 1,
+				["i:4234"] = 14,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野人背心",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:5739",
+		},
+		[194754] = {
+			["mats"] = {
+				["i:124115"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战缚护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128894",
+		},
+		[226117] = {
+			["mats"] = {
+				["i:4340"] = 1,
+				["i:2319"] = 12,
+				["i:2321"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "锁链护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132497",
+		},
+		[194755] = {
+			["mats"] = {
+				["i:124115"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战缚软鞋",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128893",
+		},
+		[78407] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌之靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56491",
+		},
+		[78439] = {
+			["mats"] = {
+				["i:52979"] = 60,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "激战披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56519",
+		},
+		[142953] = {
+			["mats"] = {
+				["i:98617"] = 28,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "卡桑利徘徊者马裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:98601",
+		},
+		[19083] = {
+			["mats"] = {
+				["i:8170"] = 12,
+				["i:2325"] = 3,
+				["i:14341"] = 1,
+				["i:15407"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "邪恶皮甲短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15087",
+		},
+		[19091] = {
+			["mats"] = {
+				["i:12810"] = 2,
+				["i:14341"] = 1,
+				["i:8170"] = 18,
+				["i:14047"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15095",
+		},
+		[226119] = {
+			["mats"] = {
+				["i:4340"] = 1,
+				["i:2321"] = 2,
+				["i:4246"] = 1,
+				["i:4233"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "锁链腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132495",
+		},
+		[20648] = {
+			["mats"] = {
+				["i:2318"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "中皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2319",
+		},
+		[50957] = {
+			["mats"] = {
+				["i:33568"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38422",
+		},
+		[194757] = {
+			["mats"] = {
+				["i:124115"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战缚肩甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128897",
+		},
+		[226120] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2319"] = 4,
+				["i:4233"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鬼鳞肩甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132543",
+		},
+		[32465] = {
+			["mats"] = {
+				["i:23793"] = 2,
+				["i:14341"] = 3,
+				["i:25700"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔鳞胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25657",
+		},
+		[32473] = {
+			["mats"] = {
+				["i:23793"] = 3,
+				["i:14341"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚重德莱尼外套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25671",
+		},
+		[32481] = {
+			["mats"] = {
+				["i:23793"] = 3,
+				["i:14341"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野性德莱尼外套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25676",
+		},
+		[194758] = {
+			["mats"] = {
+				["i:124115"] = 16,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战缚胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128892",
+		},
+		[226121] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:4340"] = 1,
+				["i:2319"] = 12,
+				["i:3390"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "锁链护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132498",
+		},
+		[226122] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:2997"] = 2,
+				["i:2319"] = 12,
+				["i:7067"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "元素之握",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132546",
+		},
+		[36075] = {
+			["mats"] = {
+				["i:8172"] = 2,
+				["i:8170"] = 10,
+				["i:17056"] = 5,
+				["i:8153"] = 4,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野羽护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29970",
+		},
+		[226123] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:5637"] = 2,
+				["i:4234"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞手甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132533",
+		},
+		[60651] = {
+			["mats"] = {
+				["i:38425"] = 12,
+				["i:36860"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "恶毒肩甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43130",
+		},
+		[50958] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38417",
+		},
+		[78410] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 7,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸之靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56494",
+		},
+		[226124] = {
+			["mats"] = {
+				["i:5498"] = 4,
+				["i:4234"] = 8,
+				["i:4461"] = 1,
+				["i:5637"] = 4,
+				["i:4236"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞裹手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132534",
+		},
+		[44970] = {
+			["mats"] = {
+				["i:23793"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚重结缔皮护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:34330",
+		},
+		[226125] = {
+			["mats"] = {
+				["i:4305"] = 2,
+				["i:4234"] = 12,
+				["i:2321"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鬼鳞马裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132542",
+		},
+		[10548] = {
+			["mats"] = {
+				["i:4291"] = 4,
+				["i:4304"] = 14,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜色短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8193",
+		},
+		[10552] = {
+			["mats"] = {
+				["i:8343"] = 1,
+				["i:8167"] = 24,
+				["i:4304"] = 14,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "龟壳头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8191",
+		},
+		[10556] = {
+			["mats"] = {
+				["i:8343"] = 1,
+				["i:8167"] = 28,
+				["i:4304"] = 14,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "龟壳护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8185",
+		},
+		[19052] = {
+			["mats"] = {
+				["i:2325"] = 1,
+				["i:8170"] = 8,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "邪恶皮甲护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15084",
+		},
+		[60604] = {
+			["mats"] = {
+				["i:38425"] = 6,
+				["i:37705"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗霜鳞胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44437",
+		},
+		[226127] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:7071"] = 1,
+				["i:4234"] = 4,
+				["i:4236"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鬼鳞腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132539",
+		},
+		[9059] = {
+			["mats"] = {
+				["i:2318"] = 2,
+				["i:2320"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "手工皮护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7277",
+		},
+		[50943] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38406",
+		},
+		[50959] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38421",
+		},
+		[2149] = {
+			["mats"] = {
+				["i:2318"] = 2,
+				["i:2320"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "手工皮靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2302",
+		},
+		[78380] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 7,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野人斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56480",
+		},
+		[2152] = {
+			["mats"] = {
+				["i:2318"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻型护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2304",
+		},
+		[2153] = {
+			["mats"] = {
+				["i:2318"] = 4,
+				["i:2320"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "手工皮短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2303",
+		},
+		[32466] = {
+			["mats"] = {
+				["i:25700"] = 3,
+				["i:14341"] = 2,
+				["i:21887"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "缀鳞德莱尼短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25662",
+		},
+		[10632] = {
+			["mats"] = {
+				["i:8172"] = 2,
+				["i:7077"] = 8,
+				["i:8343"] = 4,
+				["i:4304"] = 30,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "火焰头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8348",
+		},
+		[2159] = {
+			["mats"] = {
+				["i:2318"] = 10,
+				["i:2321"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "优质皮披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2308",
+		},
+		[226129] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:4234"] = 8,
+				["i:4236"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132535",
+		},
+		[2161] = {
+			["mats"] = {
+				["i:2318"] = 8,
+				["i:2320"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雕花皮靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2309",
+		},
+		[2162] = {
+			["mats"] = {
+				["i:2318"] = 5,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雕花皮质披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2310",
+		},
+		[2165] = {
+			["mats"] = {
+				["i:2319"] = 4,
+				["i:2320"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "中型护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2313",
+		},
+		[2166] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:4231"] = 6,
+				["i:2319"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "韧化皮甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2314",
+		},
+		[2167] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:2319"] = 4,
+				["i:4340"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑皮战靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2315",
+		},
+		[2168] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2319"] = 8,
+				["i:4340"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑皮披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2316",
+		},
+		[194704] = {
+			["mats"] = {
+				["i:124113"] = 12,
+				["i:124439"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战甲腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128882",
+		},
+		[64661] = {
+			["mats"] = {
+				["i:33567"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "北地皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:33568",
+		},
+		[124627] = {
+			["mats"] = {
+				["i:72162"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "异域皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:72120",
+		},
+		[60605] = {
+			["mats"] = {
+				["i:38557"] = 35,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "巨龙践踏者",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44438",
+		},
+		[226131] = {
+			["mats"] = {
+				["i:7392"] = 6,
+				["i:4291"] = 2,
+				["i:4234"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鬼鳞手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132540",
+		},
+		[60637] = {
+			["mats"] = {
+				["i:36860"] = 6,
+				["i:44128"] = 2,
+				["i:35627"] = 4,
+				["i:43102"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "冰冷突袭披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43566",
+		},
+		[50944] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38400",
+		},
+		[60669] = {
+			["mats"] = {
+				["i:38425"] = 25,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛮鳞胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43257",
+		},
+		[226132] = {
+			["mats"] = {
+				["i:4305"] = 2,
+				["i:2325"] = 2,
+				["i:4234"] = 10,
+				["i:7071"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132522",
+		},
+		[124628] = {
+			["mats"] = {
+				["i:72120"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "邪煞护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85559",
+		},
+		[163216] = {
+			["mats"] = {
+				["i:112156"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗色龙鳞",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:52979",
+		},
+		[226133] = {
+			["mats"] = {
+				["i:4291"] = 1,
+				["i:4234"] = 6,
+				["i:4236"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鬼鳞裹腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132541",
+		},
+		[45100] = {
+			["mats"] = {
+				["i:25700"] = 4,
+				["i:25707"] = 4,
+				["i:14341"] = 3,
+				["i:21887"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "制皮匠的背包",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:34482",
+		},
+		[78415] = {
+			["mats"] = {
+				["i:52982"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56498",
+		},
+		[226134] = {
+			["mats"] = {
+				["i:4291"] = 2,
+				["i:4234"] = 8,
+				["i:10285"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132521",
+		},
+		[163218] = {
+			["mats"] = {
+				["i:112155"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "深海鳞片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:52982",
+		},
+		[60622] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38435",
+		},
+		[20650] = {
+			["mats"] = {
+				["i:4234"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4304",
+		},
+		[50961] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38418",
+		},
+		[78416] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 7,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56499",
+		},
+		[226136] = {
+			["mats"] = {
+				["i:4291"] = 2,
+				["i:4234"] = 12,
+				["i:4236"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鬼鳞头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132537",
+		},
+		[51568] = {
+			["mats"] = {
+				["i:38558"] = 25,
+				["i:37705"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑色几丁战靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38590",
+		},
+		[32467] = {
+			["mats"] = {
+				["i:25700"] = 1,
+				["i:14341"] = 2,
+				["i:21887"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "缀鳞德莱尼手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25661",
+		},
+		[194710] = {
+			["mats"] = {
+				["i:124113"] = 24,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战甲卫衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128876",
+		},
+		[163220] = {
+			["mats"] = {
+				["i:112157"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "棱彩鳞片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:79101",
+		},
+		[226137] = {
+			["mats"] = {
+				["i:4337"] = 2,
+				["i:4291"] = 1,
+				["i:4234"] = 10,
+				["i:2459"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鬼鳞长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132544",
+		},
+		[3759] = {
+			["mats"] = {
+				["i:4231"] = 1,
+				["i:2318"] = 6,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雕花皮短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4242",
+		},
+		[146613] = {
+			["mats"] = {
+				["i:72163"] = 1,
+			},
+			["numResult"] = 20,
+			["profession"] = "制皮",
+			["name"] = "暴怒之鼓",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:102351",
+		},
+		[3761] = {
+			["mats"] = {
+				["i:4231"] = 3,
+				["i:2318"] = 6,
+				["i:2320"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "优质皮外套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4243",
+		},
+		[3763] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "优质皮带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4246",
+		},
+		[3764] = {
+			["mats"] = {
+				["i:2319"] = 14,
+				["i:2321"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "山地皮手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4247",
+		},
+		[3766] = {
+			["mats"] = {
+				["i:4340"] = 1,
+				["i:2321"] = 2,
+				["i:4246"] = 1,
+				["i:4233"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑皮腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4249",
+		},
+		[3768] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2319"] = 4,
+				["i:4233"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "山地护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4251",
+		},
+		[194712] = {
+			["mats"] = {
+				["i:124113"] = 16,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战甲长裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128880",
+		},
+		[194776] = {
+			["mats"] = {
+				["i:124113"] = 50,
+				["i:124116"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "皮质宠物床",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:129960",
+		},
+		[163222] = {
+			["mats"] = {
+				["i:112158"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "冰冷的龙鳞",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38557",
+		},
+		[3774] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:7071"] = 1,
+				["i:4234"] = 5,
+				["i:2605"] = 1,
+				["i:4236"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "绿色皮带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4257",
+		},
+		[60655] = {
+			["mats"] = {
+				["i:38425"] = 14,
+				["i:35627"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜震兜帽",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43132",
+		},
+		[60671] = {
+			["mats"] = {
+				["i:38558"] = 30,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "纯净号角护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43258",
+		},
+		[194713] = {
+			["mats"] = {
+				["i:124113"] = 16,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战甲面具",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128879",
+		},
+		[163223] = {
+			["mats"] = {
+				["i:112177"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔几丁质",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38558",
+		},
+		[51569] = {
+			["mats"] = {
+				["i:38425"] = 6,
+				["i:37703"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗极地护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38591",
+		},
+		[194714] = {
+			["mats"] = {
+				["i:124113"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战甲手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128878",
+		},
+		[163224] = {
+			["mats"] = {
+				["i:112178"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "冰虫鳞片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38561",
+		},
+		[142976] = {
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["numResult"] = 1,
+			["cooldownTimes"] = {
+				["龙听雨"] = {
+					["endTime"] = 0,
+				},
+			},
+			["hasCD"] = true,
+			["mats"] = {
+				["i:72163"] = 2,
+			},
+			["itemString"] = "i:98617",
+			["profession"] = "制皮",
+			["queued"] = 0,
+			["name"] = "强化华丽毛皮",
+		},
+		[194715] = {
+			["mats"] = {
+				["i:124113"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战甲薄靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128877",
+		},
+		[163225] = {
+			["mats"] = {
+				["i:112179"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚裂蹄牛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25708",
+		},
+		[60608] = {
+			["mats"] = {
+				["i:33568"] = 14,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38438",
+		},
+		[60624] = {
+			["mats"] = {
+				["i:33568"] = 14,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38439",
+		},
+		[60640] = {
+			["mats"] = {
+				["i:44128"] = 2,
+				["i:38558"] = 40,
+				["i:43102"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "强化蛛魔外皮斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43565",
+		},
+		[50947] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38403",
+		},
+		[9068] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:4231"] = 1,
+				["i:2318"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻皮短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7282",
+		},
+		[194717] = {
+			["mats"] = {
+				["i:124113"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战甲护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128881",
+		},
+		[78388] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56481",
+		},
+		[78420] = {
+			["mats"] = {
+				["i:52326"] = 4,
+				["i:52976"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暮光腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56503",
+		},
+		[51570] = {
+			["mats"] = {
+				["i:38425"] = 5,
+				["i:37703"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗极地胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38592",
+		},
+		[32468] = {
+			["mats"] = {
+				["i:23793"] = 2,
+				["i:14341"] = 3,
+				["i:25700"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "缀鳞德莱尼外套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25660",
+		},
+		[3816] = {
+			["mats"] = {
+				["i:4289"] = 1,
+				["i:783"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "熟化轻毛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4231",
+		},
+		[3817] = {
+			["mats"] = {
+				["i:4289"] = 1,
+				["i:4232"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "熟化中毛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4233",
+		},
+		[3818] = {
+			["mats"] = {
+				["i:4235"] = 1,
+				["i:4289"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "熟化重毛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4236",
+		},
+		[163228] = {
+			["mats"] = {
+				["i:112181"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔鳞",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25700",
+		},
+		[67083] = {
+			["mats"] = {
+				["i:35622"] = 8,
+				["i:44128"] = 6,
+				["i:47556"] = 4,
+				["i:38557"] = 40,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "十字军的龙鳞护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:47576",
+		},
+		[7135] = {
+			["mats"] = {
+				["i:4340"] = 1,
+				["i:2319"] = 12,
+				["i:2321"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑皮短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:5961",
+		},
+		[163229] = {
+			["mats"] = {
+				["i:112182"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25707",
+		},
+		[247800] = {
+			["mats"] = {
+				["i:151568"] = 5,
+				["i:124438"] = 8,
+				["i:151567"] = 20,
+				["i:151566"] = 36,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔化护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:151577",
+		},
+		[7147] = {
+			["mats"] = {
+				["i:4305"] = 2,
+				["i:4234"] = 12,
+				["i:2321"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "守护短裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:5962",
+		},
+		[124635] = {
+			["mats"] = {
+				["i:79101"] = 5,
+				["i:72120"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85851",
+		},
+		[163230] = {
+			["mats"] = {
+				["i:112183"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "虚空龙鳞",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29548",
+		},
+		[50948] = {
+			["mats"] = {
+				["i:33568"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38404",
+		},
+		[50964] = {
+			["mats"] = {
+				["i:38425"] = 3,
+				["i:38561"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "冰虫腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38371",
+		},
+		[163231] = {
+			["mats"] = {
+				["i:112184"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "眼镜蛇鳞片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29539",
+		},
+		[51571] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38433",
+		},
+		[124572] = {
+			["mats"] = {
+				["i:72120"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85839",
+		},
+		[124125] = {
+			["mats"] = {
+				["i:79101"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "韧化腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85570",
+		},
+		[163232] = {
+			["mats"] = {
+				["i:112185"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29547",
+		},
+		[247803] = {
+			["mats"] = {
+				["i:151568"] = 5,
+				["i:124439"] = 8,
+				["i:151567"] = 20,
+				["i:151566"] = 36,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔化肩胄",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:151578",
+		},
+		[67085] = {
+			["mats"] = {
+				["i:47556"] = 4,
+				["i:35625"] = 12,
+				["i:38425"] = 20,
+				["i:44128"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "月影臂甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:47583",
+		},
+		[194787] = {
+			["mats"] = {
+				["i:124113"] = 165,
+				["i:124115"] = 80,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "恐皮裹腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128891",
+		},
+		[78423] = {
+			["mats"] = {
+				["i:52982"] = 60,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56504",
+		},
+		[19047] = {
+			["mats"] = {
+				["i:8150"] = 1,
+				["i:8171"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "熟化毛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15407",
+		},
+		[19055] = {
+			["mats"] = {
+				["i:8170"] = 10,
+				["i:14341"] = 1,
+				["i:14047"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15091",
+		},
+		[124573] = {
+			["mats"] = {
+				["i:72120"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮护胸",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85835",
+		},
+		[124126] = {
+			["mats"] = {
+				["i:72120"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "残暴腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85568",
+		},
+		[19103] = {
+			["mats"] = {
+				["i:15407"] = 1,
+				["i:12810"] = 4,
+				["i:8170"] = 16,
+				["i:14341"] = 2,
+				["i:14047"] = 18,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15096",
+		},
+		[50949] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38405",
+		},
+		[50965] = {
+			["mats"] = {
+				["i:44128"] = 2,
+				["i:38558"] = 2,
+				["i:43102"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜皮腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38373",
+		},
+		[78424] = {
+			["mats"] = {
+				["i:56516"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌之盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56505",
+		},
+		[51572] = {
+			["mats"] = {
+				["i:33568"] = 14,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38437",
+		},
+		[32469] = {
+			["mats"] = {
+				["i:23793"] = 2,
+				["i:14341"] = 3,
+				["i:25700"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "缀鳞德莱尼长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25659",
+		},
+		[124574] = {
+			["mats"] = {
+				["i:72120"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85836",
+		},
+		[67087] = {
+			["mats"] = {
+				["i:47556"] = 4,
+				["i:44128"] = 6,
+				["i:35627"] = 12,
+				["i:38425"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "迅杀护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:47581",
+		},
+		[124575] = {
+			["mats"] = {
+				["i:72120"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85838",
+		},
+		[35540] = {
+			["mats"] = {
+				["i:23793"] = 3,
+				["i:25700"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战争之鼓",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29528",
+		},
+		[44770] = {
+			["mats"] = {
+				["i:23793"] = 4,
+				["i:22452"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "手套强化护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:34207",
+		},
+		[60627] = {
+			["mats"] = {
+				["i:38425"] = 4,
+				["i:37705"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗蛛魔护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44443",
+		},
+		[60643] = {
+			["mats"] = {
+				["i:38425"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "无尽口袋",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44446",
+		},
+		[2881] = {
+			["mats"] = {
+				["i:2934"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2318",
+		},
+		[50966] = {
+			["mats"] = {
+				["i:38425"] = 4,
+				["i:38558"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38372",
+		},
+		[10482] = {
+			["mats"] = {
+				["i:8150"] = 1,
+				["i:8169"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "熟化厚毛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8172",
+		},
+		[69388] = {
+			["mats"] = {
+				["i:38425"] = 8,
+				["i:38561"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "狂野战鼓",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:49634",
+		},
+		[10518] = {
+			["mats"] = {
+				["i:8343"] = 1,
+				["i:8167"] = 12,
+				["i:4304"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "龟壳护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8198",
+		},
+		[62448] = {
+			["mats"] = {
+				["i:44128"] = 2,
+				["i:35624"] = 4,
+				["i:43102"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "土灵腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44963",
+		},
+		[50941] = {
+			["mats"] = {
+				["i:33568"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38409",
+		},
+		[60607] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38434",
+		},
+		[78427] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56508",
+		},
+		[10558] = {
+			["mats"] = {
+				["i:8343"] = 2,
+				["i:4304"] = 16,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜色长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8197",
+		},
+		[36079] = {
+			["mats"] = {
+				["i:23793"] = 4,
+				["i:14341"] = 2,
+				["i:21884"] = 3,
+				["i:15416"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "金色龙击胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29975",
+		},
+		[196648] = {
+			["mats"] = {
+				["i:124113"] = 25,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "石皮皮革骑甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:131746",
+		},
+		[10511] = {
+			["mats"] = {
+				["i:8343"] = 1,
+				["i:8167"] = 12,
+				["i:4304"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "龟壳胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8189",
+		},
+		[124577] = {
+			["mats"] = {
+				["i:72120"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮靴子",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85833",
+		},
+		[194796] = {
+			["mats"] = {
+				["i:124115"] = 250,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "刻鳞臂甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128907",
+		},
+		[69386] = {
+			["mats"] = {
+				["i:38425"] = 8,
+				["i:38557"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "遗忘王者战鼓",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:49633",
+		},
+		[60652] = {
+			["mats"] = {
+				["i:38557"] = 40,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "射雕护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43131",
+		},
+		[99536] = {
+			["mats"] = {
+				["i:52327"] = 4,
+				["i:52980"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "恶毒毛皮斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:75076",
+		},
+		[124637] = {
+			["mats"] = {
+				["i:76061"] = 1,
+				["i:72120"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "迅击斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85852",
+		},
+		[50951] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38416",
+		},
+		[50967] = {
+			["mats"] = {
+				["i:44128"] = 2,
+				["i:43102"] = 1,
+				["i:38557"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "冰鳞腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38374",
+		},
+		[99535] = {
+			["mats"] = {
+				["i:52325"] = 4,
+				["i:52980"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "恶毒兽皮斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:75077",
+		},
+		[19071] = {
+			["mats"] = {
+				["i:2325"] = 1,
+				["i:8170"] = 12,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "邪恶皮甲头环",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15086",
+		},
+		[78396] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸束带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56482",
+		},
+		[78428] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56509",
+		},
+		[32454] = {
+			["mats"] = {
+				["i:25649"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "结缔皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:21887",
+		},
+		[32462] = {
+			["mats"] = {
+				["i:25700"] = 1,
+				["i:14341"] = 2,
+				["i:21887"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔鳞手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25654",
+		},
+		[32470] = {
+			["mats"] = {
+				["i:14341"] = 2,
+				["i:21887"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚重德莱尼手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25669",
+		},
+		[32478] = {
+			["mats"] = {
+				["i:14341"] = 3,
+				["i:21887"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野性德莱尼长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25673",
+		},
+		[55199] = {
+			["mats"] = {
+				["i:37700"] = 5,
+				["i:38425"] = 6,
+				["i:37705"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "痛苦苍穹斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:41238",
+		},
+		[36074] = {
+			["mats"] = {
+				["i:8172"] = 2,
+				["i:7081"] = 8,
+				["i:8170"] = 10,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑色风暴护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29964",
+		},
+		[9196] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:3824"] = 1,
+				["i:4234"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗色皮甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7374",
+		},
+		[10650] = {
+			["mats"] = {
+				["i:8172"] = 4,
+				["i:8165"] = 30,
+				["i:8343"] = 4,
+				["i:4304"] = 40,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "龙鳞胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8367",
+		},
+		[124578] = {
+			["mats"] = {
+				["i:72120"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85832",
+		},
+		[226126] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:2325"] = 1,
+				["i:4234"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞长裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132532",
+		},
+		[3760] = {
+			["mats"] = {
+				["i:4234"] = 5,
+				["i:2321"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "山地披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:3719",
+		},
+		[60660] = {
+			["mats"] = {
+				["i:38425"] = 12,
+				["i:35623"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "致命打击护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:42731",
+		},
+		[50962] = {
+			["mats"] = {
+				["i:33568"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "北地护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38375",
+		},
+		[3756] = {
+			["mats"] = {
+				["i:2318"] = 3,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雕花皮手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4239",
+		},
+		[9145] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:2319"] = 8,
+				["i:4233"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "造弓师手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7348",
+		},
+		[3770] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:3389"] = 2,
+				["i:3182"] = 2,
+				["i:2319"] = 4,
+				["i:4233"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "韧化皮手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4253",
+		},
+		[124583] = {
+			["mats"] = {
+				["i:79101"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85847",
+		},
+		[50946] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地肩垫",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38402",
+		},
+		[3780] = {
+			["mats"] = {
+				["i:4234"] = 5,
+				["i:2321"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重型护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4265",
+		},
+		[9065] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻皮护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7281",
+		},
+		[124579] = {
+			["mats"] = {
+				["i:79101"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85846",
+		},
+		[226116] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2319"] = 8,
+				["i:4340"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "锁链护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132496",
+		},
+		[78433] = {
+			["mats"] = {
+				["i:56516"] = 4,
+				["i:52327"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56513",
+		},
+		[60613] = {
+			["mats"] = {
+				["i:38425"] = 6,
+				["i:37703"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗冰魂胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44441",
+		},
+		[60629] = {
+			["mats"] = {
+				["i:38425"] = 6,
+				["i:37705"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗蛛魔胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44444",
+		},
+		[50936] = {
+			["mats"] = {
+				["i:33568"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚北地皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38425",
+		},
+		[50952] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38424",
+		},
+		[3776] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2605"] = 1,
+				["i:4234"] = 6,
+				["i:4236"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "绿色皮护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4259",
+		},
+		[9201] = {
+			["mats"] = {
+				["i:2325"] = 1,
+				["i:4234"] = 16,
+				["i:4291"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗色护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:7378",
+		},
+		[60611] = {
+			["mats"] = {
+				["i:38425"] = 4,
+				["i:37703"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "黑暗冰魂护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44440",
+		},
+		[78398] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 7,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56483",
+		},
+		[146923] = {
+			["mats"] = {
+				["i:72163"] = 2,
+				["i:102218"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "强化华丽毛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:98617",
+		},
+		[78379] = {
+			["mats"] = {
+				["i:52976"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛮皮护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56477",
+		},
+		[2160] = {
+			["mats"] = {
+				["i:2318"] = 8,
+				["i:2320"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雕花皮外衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:2300",
+		},
+		[32489] = {
+			["mats"] = {
+				["i:22452"] = 8,
+				["i:23793"] = 6,
+				["i:14341"] = 3,
+				["i:29539"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "斯蒂林的丛林帽",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25682",
+		},
+		[230955] = {
+			["mats"] = {
+				["i:124439"] = 2,
+				["i:124438"] = 2,
+				["i:124113"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "高山战鼓",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:142406",
+		},
+		[124580] = {
+			["mats"] = {
+				["i:79101"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85848",
+		},
+		[78411] = {
+			["mats"] = {
+				["i:38426"] = 1,
+				["i:52976"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56495",
+		},
+		[124124] = {
+			["mats"] = {
+				["i:72120"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "萦煞腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85569",
+		},
+		[50956] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38420",
+		},
+		[60666] = {
+			["mats"] = {
+				["i:38561"] = 40,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "虫鳞足垫",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43256",
+		},
+		[194711] = {
+			["mats"] = {
+				["i:124113"] = 9,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战甲裹腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128883",
+		},
+		[124571] = {
+			["mats"] = {
+				["i:72120"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮头盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85837",
+		},
+		[226128] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:3824"] = 1,
+				["i:4234"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞上衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132520",
+		},
+		[19092] = {
+			["mats"] = {
+				["i:2325"] = 2,
+				["i:8170"] = 14,
+				["i:14341"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "邪恶皮甲腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15088",
+		},
+		[19072] = {
+			["mats"] = {
+				["i:8170"] = 10,
+				["i:14341"] = 1,
+				["i:14047"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15093",
+		},
+		[78399] = {
+			["mats"] = {
+				["i:52325"] = 8,
+				["i:52976"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "暗黑铭牌护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56484",
+		},
+		[24654] = {
+			["mats"] = {
+				["i:14341"] = 2,
+				["i:15407"] = 2,
+				["i:8170"] = 28,
+				["i:15415"] = 36,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蓝龙鳞片护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:20295",
+		},
+		[78419] = {
+			["mats"] = {
+				["i:52325"] = 4,
+				["i:52976"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "焦毁腿甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56502",
+		},
+		[163226] = {
+			["mats"] = {
+				["i:112180"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "水晶能量皮革",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25699",
+		},
+		[19098] = {
+			["mats"] = {
+				["i:15407"] = 2,
+				["i:8170"] = 20,
+				["i:14256"] = 2,
+				["i:14341"] = 2,
+				["i:2325"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "邪恶皮甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15085",
+		},
+		[19065] = {
+			["mats"] = {
+				["i:8170"] = 6,
+				["i:14341"] = 1,
+				["i:7971"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15092",
+		},
+		[124581] = {
+			["mats"] = {
+				["i:79101"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞护胸",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85844",
+		},
+		[67080] = {
+			["mats"] = {
+				["i:44128"] = 8,
+				["i:38558"] = 40,
+				["i:47556"] = 8,
+				["i:35623"] = 8,
+				["i:34055"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "诱魔胸铠",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:47597",
+		},
+		[50945] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "极地护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38401",
+		},
+		[60649] = {
+			["mats"] = {
+				["i:38425"] = 15,
+				["i:35623"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "刺击胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43129",
+		},
+		[60630] = {
+			["mats"] = {
+				["i:37703"] = 2,
+				["i:38557"] = 30,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鳞片冰靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44445",
+		},
+		[50942] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38407",
+		},
+		[50953] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38415",
+		},
+		[19102] = {
+			["mats"] = {
+				["i:15407"] = 1,
+				["i:12810"] = 4,
+				["i:8170"] = 22,
+				["i:14341"] = 2,
+				["i:14047"] = 16,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "符文皮甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:15090",
+		},
+		[36076] = {
+			["mats"] = {
+				["i:8172"] = 2,
+				["i:8165"] = 10,
+				["i:8170"] = 10,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "龙击护腿",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29971",
+		},
+		[7151] = {
+			["mats"] = {
+				["i:2321"] = 2,
+				["i:4234"] = 8,
+				["i:4236"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野人护肩",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:5964",
+		},
+		[60620] = {
+			["mats"] = {
+				["i:38558"] = 35,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "碾虫靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:44442",
+		},
+		[78432] = {
+			["mats"] = {
+				["i:56516"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "海啸之盔",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56512",
+		},
+		[32455] = {
+			["mats"] = {
+				["i:21887"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重结缔皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:23793",
+		},
+		[32463] = {
+			["mats"] = {
+				["i:25700"] = 1,
+				["i:14341"] = 2,
+				["i:21887"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "魔鳞长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25655",
+		},
+		[32471] = {
+			["mats"] = {
+				["i:14341"] = 2,
+				["i:21887"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚重德莱尼长裤",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25670",
+		},
+		[32479] = {
+			["mats"] = {
+				["i:14341"] = 3,
+				["i:21887"] = 9,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "野性德莱尼手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:25674",
+		},
+		[124582] = {
+			["mats"] = {
+				["i:79101"] = 8,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85845",
+		},
+		[50960] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "蛛魔长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38419",
+		},
+		[60658] = {
+			["mats"] = {
+				["i:38425"] = 10,
+				["i:35627"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜震束带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:43133",
+		},
+		[226105] = {
+			["mats"] = {
+				["i:2318"] = 3,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞手套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132490",
+		},
+		[78437] = {
+			["mats"] = {
+				["i:56516"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重蛮皮护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56517",
+		},
+		[78436] = {
+			["mats"] = {
+				["i:52976"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重蛮皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:56516",
+		},
+		[226135] = {
+			["mats"] = {
+				["i:4291"] = 2,
+				["i:4234"] = 12,
+				["i:4236"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重鳞兜帽",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132536",
+		},
+		[24655] = {
+			["mats"] = {
+				["i:14341"] = 2,
+				["i:15407"] = 1,
+				["i:8170"] = 20,
+				["i:15412"] = 30,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "绿色龙鳞护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:20296",
+		},
+		[22331] = {
+			["mats"] = {
+				["i:4304"] = 6,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "硬甲皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8170",
+		},
+		[20649] = {
+			["mats"] = {
+				["i:2319"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "重皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4234",
+		},
+		[124636] = {
+			["mats"] = {
+				["i:79101"] = 20,
+				["i:76061"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞披风",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85853",
+		},
+		[226106] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132491",
+		},
+		[50950] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞护胸",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38414",
+		},
+		[131865] = {
+			["mats"] = {
+				["i:72120"] = 50,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "华丽毛皮",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:72163",
+		},
+		[3753] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "手工皮带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:4237",
+		},
+		[10630] = {
+			["mats"] = {
+				["i:8172"] = 1,
+				["i:8343"] = 4,
+				["i:7079"] = 4,
+				["i:4304"] = 20,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "深海护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8346",
+		},
+		[194744] = {
+			["mats"] = {
+				["i:124115"] = 12,
+				["i:124439"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "战缚腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:128898",
+		},
+		[226118] = {
+			["mats"] = {
+				["i:2321"] = 1,
+				["i:2319"] = 6,
+				["i:2457"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "锁链护手",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132499",
+		},
+		[60599] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38436",
+		},
+		[226107] = {
+			["mats"] = {
+				["i:2318"] = 6,
+				["i:2320"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞腰带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132489",
+		},
+		[60631] = {
+			["mats"] = {
+				["i:33568"] = 16,
+				["i:37700"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "刺骨寒风斗篷",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38441",
+		},
+		[50938] = {
+			["mats"] = {
+				["i:33568"] = 12,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "凝冰胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38408",
+		},
+		[50954] = {
+			["mats"] = {
+				["i:33568"] = 10,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "霜鳞战靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38413",
+		},
+		[36077] = {
+			["mats"] = {
+				["i:23793"] = 4,
+				["i:22451"] = 2,
+				["i:14341"] = 2,
+				["i:22452"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "原始风暴胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29973",
+		},
+		[44953] = {
+			["mats"] = {
+				["i:2997"] = 1,
+				["i:2840"] = 1,
+				["i:8170"] = 4,
+				["i:14341"] = 1,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "寒冬长靴",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:151791",
+		},
+		[50963] = {
+			["mats"] = {
+				["i:38425"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚北地护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:38376",
+		},
+		[10487] = {
+			["mats"] = {
+				["i:4291"] = 1,
+				["i:4304"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "厚重护甲片",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8173",
+		},
+		[226108] = {
+			["mats"] = {
+				["i:4231"] = 3,
+				["i:2318"] = 6,
+				["i:2320"] = 4,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "轻鳞卫衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132487",
+		},
+		[226130] = {
+			["mats"] = {
+				["i:7392"] = 4,
+				["i:4234"] = 10,
+				["i:2321"] = 2,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "鬼鳞卫衣",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:132538",
+		},
+		[10499] = {
+			["mats"] = {
+				["i:4291"] = 2,
+				["i:4304"] = 7,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜色外套",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8175",
+		},
+		[36078] = {
+			["mats"] = {
+				["i:23793"] = 4,
+				["i:25699"] = 12,
+				["i:14341"] = 2,
+				["i:21886"] = 3,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "生命水晶胸甲",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:29974",
+		},
+		[10507] = {
+			["mats"] = {
+				["i:4291"] = 2,
+				["i:4304"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "夜色头带",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:8176",
+		},
+		[124584] = {
+			["mats"] = {
+				["i:79101"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "风鳞护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85843",
+		},
+		[140040] = {
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["numResult"] = 1,
+			["cooldownTimes"] = {
+				["龙听雨"] = {
+					["endTime"] = 0,
+				},
+			},
+			["hasCD"] = true,
+			["mats"] = {
+				["i:72120"] = 20,
+			},
+			["itemString"] = "i:72163",
+			["profession"] = "制皮",
+			["queued"] = 0,
+			["name"] = "华丽毛皮",
+		},
+		[140041] = {
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["numResult"] = 1,
+			["cooldownTimes"] = {
+				["龙听雨"] = {
+					["endTime"] = 0,
+				},
+			},
+			["hasCD"] = true,
+			["mats"] = {
+				["i:79101"] = 20,
+			},
+			["itemString"] = "i:72163",
+			["profession"] = "制皮",
+			["queued"] = 0,
+			["name"] = "华丽毛皮",
+		},
+		[124576] = {
+			["mats"] = {
+				["i:72120"] = 5,
+			},
+			["numResult"] = 1,
+			["profession"] = "制皮",
+			["name"] = "雾皮护腕",
+			["players"] = {
+				["龙听雨"] = true,
+			},
+			["queued"] = 0,
+			["itemString"] = "i:85834",
+		},
 	},
+	["f@Horde - 巨龙之吼@ignoreIntermediate"] = false,
+	["g@ @defaultCraftPriceMethod"] = "first(dbminbuyout, dbmarket)",
+	["f@Horde - 巨龙之吼@evenStacks"] = false,
+	["g@ @ignoreCDCraftCost"] = true,
+	["f@Horde - 太阳之井@mats"] = {
+	},
+	["f@Horde - 太阳之井@disableCheckBox"] = false,
+	["f@Alliance - 主宰之剑@disableCheckBox"] = false,
+	["g@ @priceColumn"] = 1,
+	["g@ @frameQueueOpen"] = false,
+	["f@Horde - 巨龙之吼@professionScanCache"] = {
+		["龙听雨制皮"] = {
+			["hash"] = 5998237,
+			["scanTime"] = 1523628545,
+		},
+	},
+	["f@Horde - 巨龙之吼@disableCheckBox"] = false,
+	["g@ @questSmartCrafting"] = true,
+	["_version"] = 7,
+	["f@Horde - 巨龙之吼@queueStatus"] = {
+		["collapsed"] = {
+		},
+	},
+	["f@Horde - 太阳之井@queueStatus"] = {
+		["collapsed"] = {
+		},
+	},
+	["f@Horde - 太阳之井@evenStacks"] = false,
+	["f@Horde - 太阳之井@professionScanCache"] = {
+	},
+	["g@ @profitPercent"] = 0,
 }

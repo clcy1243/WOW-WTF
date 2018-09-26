@@ -11,7 +11,7 @@ GRA_A_Variables = {
 		["minimapPos"] = 305.777552442574,
 		["hide"] = false,
 	},
-	["aboutViewed"] = "",
+	["aboutViewed"] = "r83-release",
 	["size"] = "normal",
 	["scaleFactor"] = 1,
 }

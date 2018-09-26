@@ -195,7 +195,7 @@ MADB = {
 						"UIParent", -- [2]
 						"BOTTOMLEFT", -- [3]
 						2074, -- [4]
-						29.0000057220459, -- [5]
+						25.9999980926514, -- [5]
 					},
 					["name"] = "MicroButtonsMover",
 					["pos"] = {
@@ -318,17 +318,6 @@ MADB = {
 					},
 				},
 				["ChallengesKeystoneFrame"] = {
-					["UIPanelWindows"] = {
-						["pushable"] = 0,
-						["area"] = "center",
-					},
-					["orgPos"] = {
-						"CENTER", -- [1]
-						"UIParent", -- [2]
-						"CENTER", -- [3]
-						0, -- [4]
-						40, -- [5]
-					},
 					["name"] = "ChallengesKeystoneFrame",
 					["pos"] = {
 						"BOTTOMLEFT", -- [1]
@@ -513,8 +502,8 @@ MADB = {
 						"TOPRIGHT", -- [1]
 						"UIParent", -- [2]
 						"TOPRIGHT", -- [3]
-						-1209.40844345756, -- [4]
-						-30.5880192536889, -- [5]
+						-1020.38696289063, -- [4]
+						-30.5880126953125, -- [5]
 					},
 				},
 				["PlayerPowerBarAltMover"] = {
@@ -557,11 +546,11 @@ MADB = {
 						["area"] = "left",
 					},
 					["orgPos"] = {
-						"TOP", -- [1]
+						"CENTER", -- [1]
 						"UIParent", -- [2]
-						"TOP", -- [3]
-						0, -- [4]
-						-135, -- [5]
+						"CENTER", -- [3]
+						21.0000019073486, -- [4]
+						-14, -- [5]
 					},
 					["name"] = "LootFrame",
 					["pos"] = {
@@ -579,7 +568,7 @@ MADB = {
 							"UIParent", -- [2]
 							"BOTTOMLEFT", -- [3]
 							2160, -- [4]
-							33, -- [5]
+							30.0000019073486, -- [5]
 						}, -- [1]
 						{
 							"BOTTOMRIGHT", -- [1]
@@ -704,7 +693,7 @@ MADB = {
 						"UIParent", -- [2]
 						"BOTTOMLEFT", -- [3]
 						2587.00219726563, -- [4]
-						875.999694824219, -- [5]
+						912.999816894531, -- [5]
 					},
 				},
 				["MainMenuBarArtFrameRightEndCapMover"] = {

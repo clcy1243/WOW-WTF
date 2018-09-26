@@ -22,8 +22,9 @@ RSADB = {
 		["倾城丨烟雨 - 摩摩尔"] = "倾城丨烟雨 - 摩摩尔",
 	},
 	["global"] = {
+		["ID"] = "3576422851677",
+		["revision"] = "453",
 		["version"] = 4,
-		["revision"] = "492",
 	},
 	["profiles"] = {
 		["DEATHKNIGHT"] = {
@@ -117,14 +118,16 @@ RSADB = {
 			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Utilities"] = true,
+				["Monk"] = true,
+			},
+			["Fixed"] = true,
 			["General"] = {
 				["Race"] = "Pandaren",
 				["Class"] = "MONK",
 			},
-			["Modules"] = {
-				["Monk"] = true,
-			},
-			["Fixed"] = true,
 			["Monk"] = {
 				["Spells"] = {
 					["Resuscitate"] = {
@@ -210,7 +213,10 @@ RSADB = {
 			},
 			["Modules"] = {
 				["DeathKnight"] = true,
+				["Utilities"] = true,
+				["Racials"] = true,
 			},
+			["Fixed"] = true,
 		},
 		["倾城丨烟雨 - 摩摩尔"] = {
 			["General"] = {

@@ -89,7 +89,7 @@ TipTacOptions: enabled
 TipTacTalents: enabled
 WorldQuestTracker: enabled
 Altoholic: enabled
-MeetingStone: enabled
+MeetingStone: disabled
 DBM-Core: enabled
 DBM-LDB: enabled
 DBM-SpellTimers: enabled
@@ -432,7 +432,7 @@ WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 Wholly: disabled
-WorldQuestGroupFinder: enabled
+WorldQuestGroupFinder: disabled
 WowLua: enabled
 DBM-AntorusBurningThrone: enabled
 DBM-Argus: enabled
@@ -536,3 +536,4 @@ GSE_GUI: disabled
 GSE_LDB: disabled
 Capping_Options: enabled
 BigWigs_Uldir: enabled
+BigWigs_Azeroth: enabled

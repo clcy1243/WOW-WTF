@@ -6,6 +6,7 @@ MasterPlanAG = {
 			["class"] = "PALADIN",
 		},
 		["锦在天堂"] = {
+			["class"] = "DEATHKNIGHT",
 			["summary"] = {
 				["inProgress"] = {
 					[118] = 1504696697,
@@ -21,11 +22,10 @@ MasterPlanAG = {
 					[737] = 1504668905,
 				},
 			},
-			["curOil"] = 605,
-			["lastCacheTime"] = 1507995106,
-			["class"] = "DEATHKNIGHT",
-			["curRes"] = 9978,
 			["faction"] = "Horde",
+			["lastCacheTime"] = 1537952240,
+			["curRes"] = 10000,
+			["curOil"] = 430,
 		},
 	},
 	["破碎岭"] = {
@@ -93,10 +93,10 @@ MasterPlanAG = {
 	},
 	["巨龙之吼"] = {
 		["龙听雨"] = {
-			["faction"] = "Horde",
+			["class"] = "MONK",
 			["lastCacheTime"] = 1507398521,
 			["curRes"] = 1906,
-			["class"] = "MONK",
+			["faction"] = "Horde",
 		},
 		["Qweqeqw"] = {
 			["class"] = "DEATHKNIGHT",

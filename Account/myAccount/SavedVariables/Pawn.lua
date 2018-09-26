@@ -6,9 +6,9 @@ PawnCommon = {
 	["ShowItemID"] = false,
 	["ShowRelicUpgrades"] = false,
 	["ShowValuesForUpgradesOnly"] = false,
-	["Digits"] = 1,
 	["ShowLootUpgradeAdvisor"] = true,
-	["ShowEnchanted"] = true,
+	["Digits"] = 1,
+	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = false,
 	["LastVersion"] = 2.0228,
@@ -245,7 +245,7 @@ PawnCommon = {
 				["IsStaff"] = -1000000,
 				["HasteRating"] = 8.56,
 				["MasteryRating"] = 5.09,
-				["Versatility"] = 8.44,
+				["IsCrossbow"] = -1000000,
 				["IsGun"] = -1000000,
 				["IsFrill"] = -1000000,
 				["Stamina"] = 3.02,
@@ -255,10 +255,10 @@ PawnCommon = {
 				["Leech"] = 7.35,
 				["CritRating"] = 5.19,
 				["MinDamage"] = 0.235,
-				["Armor"] = 9.46,
+				["Versatility"] = 8.44,
 				["IsDagger"] = -1000000,
 				["Avoidance"] = 0.67,
-				["IsCrossbow"] = -1000000,
+				["Armor"] = 9.46,
 				["IsShield"] = -1000000,
 			},
 		},
@@ -307,21 +307,6 @@ PawnCommon = {
 			["SpecID"] = 2,
 			["UnenchantedColor"] = "bfbfbf",
 		},
-		["\"MrRobot\":WARRIOR1"] = {
-			["IconTexturePath"] = 132355,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "c79c6e",
-			["ClassID"] = 1,
-			["LocalizedName"] = "战士: 武器",
-			["DoNotShow1HUpgrades"] = true,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["SpecID"] = 1,
-			["UnenchantedColor"] = "957552",
-		},
 		["\"MrRobot\":PALADIN3"] = {
 			["IconTexturePath"] = 135873,
 			["PerCharacterOptions"] = {
@@ -340,6 +325,21 @@ PawnCommon = {
 			["SpecID"] = 3,
 			["UnenchantedColor"] = "b7698b",
 		},
+		["\"MrRobot\":WARRIOR1"] = {
+			["IconTexturePath"] = 132355,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "c79c6e",
+			["ClassID"] = 1,
+			["LocalizedName"] = "战士: 武器",
+			["DoNotShow1HUpgrades"] = true,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["SpecID"] = 1,
+			["UnenchantedColor"] = "957552",
+		},
 		["\"MrRobot\":WARLOCK2"] = {
 			["IconTexturePath"] = 136172,
 			["PerCharacterOptions"] = {
@@ -355,21 +355,6 @@ PawnCommon = {
 			["SpecID"] = 2,
 			["UnenchantedColor"] = "6566b2",
 		},
-		["\"MrRobot\":MAGE1"] = {
-			["IconTexturePath"] = 135932,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "3fc7eb",
-			["ClassID"] = 8,
-			["LocalizedName"] = "法师: 奥术",
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["SpecID"] = 1,
-			["UnenchantedColor"] = "2f95b0",
-		},
 		["\"MrRobot\":DEMONHUNTER2"] = {
 			["IconTexturePath"] = 1247265,
 			["PerCharacterOptions"] = {
@@ -384,6 +369,21 @@ PawnCommon = {
 			["Provider"] = "MrRobot",
 			["UnenchantedColor"] = "7a2496",
 			["SpecID"] = 2,
+		},
+		["\"MrRobot\":MAGE1"] = {
+			["IconTexturePath"] = 135932,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "3fc7eb",
+			["ClassID"] = 8,
+			["LocalizedName"] = "法师: 奥术",
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["SpecID"] = 1,
+			["UnenchantedColor"] = "2f95b0",
 		},
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = 132115,
@@ -499,6 +499,9 @@ PawnCommon = {
 		["\"MrRobot\":DEATHKNIGHT2"] = {
 			["IconTexturePath"] = 135773,
 			["PerCharacterOptions"] = {
+				["锦在天堂-太阳之井"] = {
+					["Visible"] = true,
+				},
 				["地狱丨灬繁花-摩摩尔"] = {
 					["Visible"] = true,
 				},
@@ -532,9 +535,6 @@ PawnCommon = {
 		["\"MrRobot\":DEATHKNIGHT1"] = {
 			["IconTexturePath"] = 135770,
 			["PerCharacterOptions"] = {
-				["锦在天堂-太阳之井"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ff4d6b",
 			["ClassID"] = 6,
@@ -630,6 +630,6 @@ PawnCommon = {
 	["ButtonPosition"] = 1,
 	["IgnoreGemsWhileLeveling"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,
-	["Debug"] = false,
+	["ShowEnchanted"] = true,
 	["ShownGettingStarted"] = true,
 }
