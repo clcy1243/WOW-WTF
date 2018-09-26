@@ -1023,7 +1023,7 @@ TinyCharacterStatsDB = {
 		}, -- [32]
 		["uniqueKey"] = "龙轻雪:主宰之剑:4",
 	},
-	["倾城丨猫爷:太阳之井:3"] = {
+	["倾城丨猫爷:太阳之井:2"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -1121,7 +1121,7 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "倾城丨猫爷:太阳之井:3",
+		["uniqueKey"] = "倾城丨猫爷:太阳之井:2",
 	},
 	["蓝箭:卡拉赞:1"] = {
 		{
@@ -1636,7 +1636,7 @@ TinyCharacterStatsDB = {
 		}, -- [34]
 		["uniqueKey"] = "锦在天堂:太阳之井:2",
 	},
-	["倾城丨猫爷:太阳之井:2"] = {
+	["倾城丨猫爷:太阳之井:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -1734,14 +1734,15 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "倾城丨猫爷:太阳之井:2",
+		["uniqueKey"] = "倾城丨猫爷:太阳之井:3",
 	},
-	["龙轻雪:主宰之剑:1"] = {
+	["龙剑曦:主宰之剑:2"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
 		{
 			["statKey"] = "AttributesCategory",
+			["hidden"] = true,
 		}, -- [2]
 		{
 			["statKey"] = "HEALTH",
@@ -1792,6 +1793,7 @@ TinyCharacterStatsDB = {
 		}, -- [17]
 		{
 			["statKey"] = "EnhancementsCategory",
+			["hidden"] = false,
 		}, -- [18]
 		{
 			["statKey"] = "CRITCHANCE",
@@ -1835,7 +1837,7 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "龙轻雪:主宰之剑:1",
+		["uniqueKey"] = "龙剑曦:主宰之剑:2",
 	},
 	["斯特莱夫:瓦拉斯塔兹:3"] = {
 		{
@@ -2040,7 +2042,7 @@ TinyCharacterStatsDB = {
 		}, -- [32]
 		["uniqueKey"] = "龙剑曦:主宰之剑:3",
 	},
-	["信仰丶圣光:摩摩尔:1"] = {
+	["龙听雨:主宰之剑:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -2138,7 +2140,7 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "信仰丶圣光:摩摩尔:1",
+		["uniqueKey"] = "龙听雨:主宰之剑:3",
 	},
 	["龙剑曦:主宰之剑:4"] = {
 		{
@@ -2550,7 +2552,7 @@ TinyCharacterStatsDB = {
 		}, -- [34]
 		["uniqueKey"] = "龙听雨:巨龙之吼:3",
 	},
-	["龙听雨:主宰之剑:3"] = {
+	["信仰丶圣光:摩摩尔:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -2648,7 +2650,7 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "龙听雨:主宰之剑:3",
+		["uniqueKey"] = "信仰丶圣光:摩摩尔:1",
 	},
 	["龙听雨:巨龙之吼:2"] = {
 		{
@@ -2756,13 +2758,12 @@ TinyCharacterStatsDB = {
 		}, -- [34]
 		["uniqueKey"] = "龙听雨:巨龙之吼:2",
 	},
-	["龙剑曦:主宰之剑:2"] = {
+	["龙轻雪:主宰之剑:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
 		{
 			["statKey"] = "AttributesCategory",
-			["hidden"] = true,
 		}, -- [2]
 		{
 			["statKey"] = "HEALTH",
@@ -2813,7 +2814,6 @@ TinyCharacterStatsDB = {
 		}, -- [17]
 		{
 			["statKey"] = "EnhancementsCategory",
-			["hidden"] = false,
 		}, -- [18]
 		{
 			["statKey"] = "CRITCHANCE",
@@ -2857,7 +2857,7 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "龙剑曦:主宰之剑:2",
+		["uniqueKey"] = "龙轻雪:主宰之剑:1",
 	},
 	["龙听雨:主宰之剑:2"] = {
 		{

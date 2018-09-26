@@ -490,7 +490,6 @@ ACP_Data = {
 		["RSA"] = true,
 		["GladiatorlosSA"] = true,
 		["GatherMate"] = true,
-		["Blizzard Addons"] = true,
 		["DBM"] = true,
 		["LookingForGroup"] = true,
 		["LegionInvasionTimer"] = true,

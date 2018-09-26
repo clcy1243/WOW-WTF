@@ -197,28 +197,28 @@ RSADB = {
 			},
 		},
 		["锦在天堂 - 太阳之井"] = {
-			["General"] = {
-				["Race"] = "BloodElf",
-				["Class"] = "DEATHKNIGHT",
-			},
 			["Modules"] = {
 				["DeathKnight"] = true,
 				["Utilities"] = true,
 				["Racials"] = true,
 			},
 			["Fixed"] = true,
+			["General"] = {
+				["Race"] = "BloodElf",
+				["Class"] = "DEATHKNIGHT",
+			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
+			["General"] = {
+				["Race"] = "Pandaren",
+				["Class"] = "MONK",
+			},
 			["Modules"] = {
 				["Racials"] = true,
 				["Utilities"] = true,
 				["Monk"] = true,
 			},
 			["Fixed"] = true,
-			["General"] = {
-				["Class"] = "MONK",
-				["Race"] = "Pandaren",
-			},
 			["Monk"] = {
 				["Spells"] = {
 					["Resuscitate"] = {

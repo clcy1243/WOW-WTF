@@ -118,16 +118,16 @@ RSADB = {
 			},
 		},
 		["龙听雨 - 巨龙之吼"] = {
+			["General"] = {
+				["Race"] = "Pandaren",
+				["Class"] = "MONK",
+			},
 			["Modules"] = {
 				["Racials"] = true,
 				["Utilities"] = true,
 				["Monk"] = true,
 			},
 			["Fixed"] = true,
-			["General"] = {
-				["Race"] = "Pandaren",
-				["Class"] = "MONK",
-			},
 			["Monk"] = {
 				["Spells"] = {
 					["Resuscitate"] = {
@@ -207,16 +207,16 @@ RSADB = {
 			},
 		},
 		["锦在天堂 - 太阳之井"] = {
-			["General"] = {
-				["Race"] = "BloodElf",
-				["Class"] = "DEATHKNIGHT",
-			},
 			["Modules"] = {
 				["DeathKnight"] = true,
 				["Utilities"] = true,
 				["Racials"] = true,
 			},
 			["Fixed"] = true,
+			["General"] = {
+				["Class"] = "DEATHKNIGHT",
+				["Race"] = "BloodElf",
+			},
 		},
 		["倾城丨烟雨 - 摩摩尔"] = {
 			["General"] = {

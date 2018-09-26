@@ -1,6 +1,13 @@
 
 ThreatPlatesDB = {
 	["char"] = {
+		["Qweqeqw - 巨龙之吼"] = {
+			["welcome"] = true,
+			["spec"] = {
+				true, -- [1]
+				[3] = false,
+			},
+		},
 		["龙听雨 - 主宰之剑"] = {
 			["welcome"] = true,
 			["spec"] = {
@@ -9,13 +16,6 @@ ThreatPlatesDB = {
 			},
 		},
 		["锦在天堂 - 太阳之井"] = {
-			["welcome"] = true,
-			["spec"] = {
-				true, -- [1]
-				[3] = false,
-			},
-		},
-		["Qweqeqw - 巨龙之吼"] = {
 			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
@@ -31,9 +31,9 @@ ThreatPlatesDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Qweqeqw - 巨龙之吼"] = "Default",
 		["龙听雨 - 主宰之剑"] = "Default",
 		["锦在天堂 - 太阳之井"] = "Default",
-		["Qweqeqw - 巨龙之吼"] = "Default",
 		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["global"] = {

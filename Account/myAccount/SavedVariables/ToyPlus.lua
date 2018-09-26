@@ -328,15 +328,15 @@ ToyPlusDB = {
 		["信仰丶圣光 - 摩摩尔"] = {
 		},
 		["龙听雨 - 巨龙之吼"] = {
-			["anchorPoint"] = "CENTER",
-			["relativePoint"] = "CENTER",
 			["shown"] = false,
-			["anchorY"] = 0,
 			["anchorX"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 242.973632823312,
 				["hide"] = true,
 			},
+			["anchorPoint"] = "CENTER",
+			["relativePoint"] = "CENTER",
+			["anchorY"] = 0,
 		},
 		["龙轻雪 - 主宰之剑"] = {
 			["anchorPoint"] = "CENTER",
@@ -355,13 +355,13 @@ ToyPlusDB = {
 			},
 		},
 		["锦在天堂 - 太阳之井"] = {
+			["anchorPoint"] = "CENTER",
+			["relativePoint"] = "CENTER",
 			["shown"] = false,
-			["anchorX"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 195.960353855057,
 			},
-			["anchorPoint"] = "CENTER",
-			["relativePoint"] = "CENTER",
+			["anchorX"] = 0,
 			["anchorY"] = 0,
 		},
 		["倾城丨猫爷 - 太阳之井"] = {

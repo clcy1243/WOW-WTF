@@ -6,7 +6,6 @@ MasterPlanAG = {
 			["faction"] = "Horde",
 		},
 		["锦在天堂"] = {
-			["faction"] = "Horde",
 			["summary"] = {
 				["inProgress"] = {
 					[118] = 1504696697,
@@ -22,10 +21,11 @@ MasterPlanAG = {
 					[527] = 1504682409,
 				},
 			},
-			["curOil"] = 605,
-			["lastCacheTime"] = 1537952240,
-			["curRes"] = 10000,
+			["faction"] = "Horde",
+			["curOil"] = 430,
 			["class"] = "DEATHKNIGHT",
+			["curRes"] = 10000,
+			["lastCacheTime"] = 1537952240,
 		},
 	},
 	["破碎岭"] = {
@@ -97,10 +97,10 @@ MasterPlanAG = {
 			["class"] = "DEATHKNIGHT",
 		},
 		["龙听雨"] = {
-			["lastCacheTime"] = 1507398521,
+			["faction"] = "Horde",
 			["class"] = "MONK",
 			["curRes"] = 1906,
-			["faction"] = "Horde",
+			["lastCacheTime"] = 1507398521,
 		},
 	},
 }
