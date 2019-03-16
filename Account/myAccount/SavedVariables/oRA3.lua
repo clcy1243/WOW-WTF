@@ -36,18 +36,18 @@ oRA3DB = {
 							[196718] = true,
 							[119381] = true,
 							[46968] = true,
-							[6552] = true,
+							[196555] = true,
 							[1122] = true,
 							[15487] = true,
 							[113724] = true,
 							[179057] = true,
-							[102793] = true,
-							[116705] = true,
-							[192058] = true,
-							[187650] = true,
 							[78675] = true,
+							[187650] = true,
+							[192058] = true,
+							[116705] = true,
+							[102793] = true,
 							[19647] = true,
-							[196555] = true,
+							[6552] = true,
 						},
 					},
 					["displays"] = {
@@ -67,11 +67,11 @@ oRA3DB = {
 				},
 			},
 		},
-		["Tanks"] = {
+		["Difficulty"] = {
 		},
 		["Consumables"] = {
 		},
-		["Difficulty"] = {
+		["Tanks"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -86,21 +86,21 @@ oRA3DB = {
 			["positions"] = {
 				["oRA3ReadyCheck"] = {
 					["Height"] = 169,
-					["Width"] = 320,
-					["PosY"] = 586.800069352557,
 					["PosX"] = 267.199958828518,
+					["PosY"] = 586.800069352557,
+					["Width"] = 320,
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 30.0000267028809,
-					["Width"] = 140.000015258789,
-					["PosY"] = 461.700022654873,
 					["PosX"] = 249.133324004355,
+					["PosY"] = 461.700022654873,
+					["Width"] = 140.000015258789,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 147.999969482422,
-					["Width"] = 199.999954223633,
-					["PosY"] = 651.926057452656,
 					["PosX"] = 264.148335389245,
+					["PosY"] = 651.926057452656,
+					["Width"] = 199.999954223633,
 				},
 			},
 			["lastSelectedPanel"] = "冷却",

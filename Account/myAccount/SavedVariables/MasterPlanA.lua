@@ -2,8 +2,8 @@
 MasterPlanAG = {
 	["太阳之井"] = {
 		["倾城丨猫爷"] = {
-			["faction"] = "Horde",
 			["class"] = "PALADIN",
+			["faction"] = "Horde",
 		},
 		["锦在天堂"] = {
 			["summary"] = {
@@ -17,63 +17,63 @@ MasterPlanAG = {
 					[271] = 1504689508,
 					[272] = 1504689494,
 					[125] = 1504682288,
-					[527] = 1504682409,
 					[737] = 1504668905,
+					[527] = 1504682409,
 				},
 			},
 			["faction"] = "Horde",
-			["lastCacheTime"] = 1537952240,
+			["curOil"] = 430,
 			["class"] = "DEATHKNIGHT",
 			["curRes"] = 10000,
-			["curOil"] = 430,
+			["lastCacheTime"] = 1537952240,
 		},
 	},
 	["破碎岭"] = {
 		["徳馨"] = {
-			["faction"] = "Alliance",
 			["class"] = "DRUID",
+			["faction"] = "Alliance",
 		},
 	},
 	["摩摩尔"] = {
 		["地狱丨灬繁花"] = {
-			["faction"] = "Horde",
 			["class"] = "DEATHKNIGHT",
+			["faction"] = "Horde",
 		},
 		["倾城丨烟雨"] = {
-			["class"] = "DRUID",
 			["faction"] = "Horde",
+			["class"] = "DRUID",
 		},
 		["信仰丶圣光"] = {
-			["class"] = "PALADIN",
 			["faction"] = "Horde",
+			["class"] = "PALADIN",
 		},
 	},
 	["瓦拉斯塔兹"] = {
 		["斯特莱夫"] = {
-			["faction"] = "Horde",
 			["class"] = "WARRIOR",
+			["faction"] = "Horde",
 		},
 		["看你洗澡"] = {
-			["faction"] = "Horde",
 			["class"] = "ROGUE",
+			["faction"] = "Horde",
 		},
 		["星界旅行者"] = {
-			["class"] = "SHAMAN",
 			["faction"] = "Horde",
+			["class"] = "SHAMAN",
 		},
 	},
 	["IgnoreRewards"] = {
 	},
 	["主宰之剑"] = {
 		["龙轻雪"] = {
-			["class"] = "DRUID",
 			["lastCacheTime"] = 1483728307,
+			["class"] = "DRUID",
 			["curRes"] = 1813,
 			["faction"] = "Alliance",
 		},
 		["龙听雨"] = {
-			["lastCacheTime"] = 1479635313,
 			["class"] = "MONK",
+			["lastCacheTime"] = 1479635313,
 			["curRes"] = 1906,
 			["faction"] = "Alliance",
 		},
@@ -87,20 +87,20 @@ MasterPlanAG = {
 	},
 	["卡拉赞"] = {
 		["蓝箭"] = {
-			["faction"] = "Horde",
 			["class"] = "HUNTER",
+			["faction"] = "Horde",
 		},
 	},
 	["巨龙之吼"] = {
+		["Qweqeqw"] = {
+			["faction"] = "Alliance",
+			["class"] = "DEATHKNIGHT",
+		},
 		["龙听雨"] = {
 			["faction"] = "Horde",
 			["class"] = "MONK",
 			["curRes"] = 1906,
 			["lastCacheTime"] = 1507398521,
-		},
-		["Qweqeqw"] = {
-			["class"] = "DEATHKNIGHT",
-			["faction"] = "Alliance",
 		},
 	},
 }

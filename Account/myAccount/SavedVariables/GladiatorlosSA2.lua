@@ -9,9 +9,9 @@ GladiatorlosSADB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["all"] = true,
 			["path_menu"] = "GladiatorlosSA_zhCN\\Voice_zhCN",
 			["field"] = true,
-			["all"] = true,
 		},
 	},
 }

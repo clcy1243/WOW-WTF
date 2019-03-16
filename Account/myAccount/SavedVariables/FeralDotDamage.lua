@@ -1,5 +1,6 @@
 
 FeralDotDamageDB = {
+	["AleaGUI_enablePerSpecProfile"] = false,
 	["profileKeys"] = {
 		["Qweqeqw - 巨龙之吼"] = {
 			"Default", -- [1]
@@ -22,7 +23,6 @@ FeralDotDamageDB = {
 			"Default", -- [3]
 		},
 	},
-	["AleaGUI_enablePerSpecProfile"] = false,
 	["profiles"] = {
 		["龙听雨 - 主宰之剑"] = {
 		},
@@ -83,9 +83,9 @@ FeralDotDamageDB = {
 				["hide"] = false,
 			},
 		},
-		["锦在天堂 - 太阳之井"] = {
-		},
 		["Qweqeqw - 巨龙之吼"] = {
+		},
+		["锦在天堂 - 太阳之井"] = {
 		},
 		["龙听雨 - 巨龙之吼"] = {
 		},

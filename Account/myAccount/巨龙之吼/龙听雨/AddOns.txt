@@ -511,7 +511,7 @@ TidyPlates_BlizzardPlates: disabled
 TidyPlates_ThreatPlates: enabled
 LgTiger: disabled
 TotalAP: disabled
-MoveAnything: enabled
+MoveAnything: disabled
 TradeSkillMaster_Accounting: disabled
 TradeSkillMaster_AuctionDB: disabled
 TradeSkillMaster_Auctioning: disabled
@@ -536,4 +536,11 @@ GSE_GUI: disabled
 GSE_LDB: disabled
 Capping_Options: enabled
 BigWigs_Uldir: enabled
-BigWigs_Azeroth: enabled
+RaiderIO_DB_US_H_R: disabled
+RaiderIO_DB_US_A_R: disabled
+RaiderIO_DB_TW_H_R: disabled
+RaiderIO_DB_TW_A_R: disabled
+RaiderIO_DB_KR_H_R: disabled
+RaiderIO_DB_KR_A_R: disabled
+RaiderIO_DB_EU_H_R: disabled
+RaiderIO_DB_EU_A_R: disabled

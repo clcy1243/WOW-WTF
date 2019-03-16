@@ -19,13 +19,13 @@ BloodShieldTrackerDB = {
 				},
 				["BoneShieldBar"] = {
 				},
-				["AMSBar"] = {
-				},
 				["EstimateBar"] = {
 					["y"] = -279.000183105469,
 					["x"] = -283.500122070313,
 				},
 				["TargetSwingTimerBar"] = {
+				},
+				["AMSBar"] = {
 				},
 			},
 		},
