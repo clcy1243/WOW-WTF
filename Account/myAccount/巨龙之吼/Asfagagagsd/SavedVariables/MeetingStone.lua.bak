@@ -1,0 +1,11 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["Asfagagagsd - 巨龙之吼"] = "Asfagagagsd - 巨龙之吼",
+	},
+	["profiles"] = {
+		["Asfagagagsd - 巨龙之吼"] = {
+			["version"] = "80300.01",
+		},
+	},
+}

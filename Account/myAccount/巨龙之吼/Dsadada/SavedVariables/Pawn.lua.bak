@@ -1,0 +1,49 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0323,
+	["LastPlayerFullName"] = "Dsadada-巨龙之吼",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		[6] = {
+			["ID"] = 157704,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157704::::::::20:70::::::|h[光魂腰带]|h|r",
+		},
+		[7] = {
+			["ID"] = 157702,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157702::::::::20:70::::::|h[光魂腿铠]|h|r",
+		},
+		[8] = {
+			["ID"] = 157699,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157699::::::::20:70::::::|h[光魂战靴]|h|r",
+		},
+		[10] = {
+			["ID"] = 157700,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157700::::::::20:70::::::|h[光魂手甲]|h|r",
+		},
+		[9] = {
+			["ID"] = 157705,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157705::::::::20:70::::::|h[光魂臂甲]|h|r",
+		},
+		[16] = {
+			["ID"] = 157631,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157631::::::::20:70::::::|h[神罚大锤]|h|r",
+		},
+		[5] = {
+			["ID"] = 157698,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157698::::::::20:70::::::|h[光魂战甲]|h|r",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

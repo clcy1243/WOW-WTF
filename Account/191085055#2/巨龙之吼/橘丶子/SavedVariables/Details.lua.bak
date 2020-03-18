@@ -1,0 +1,6576 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 37,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008436,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 31452,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 31452.008436,
+							["colocacao"] = 1,
+							["timeMachine"] = 29,
+							["dps_started"] = true,
+							["total"] = 31452.008436,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 15726,
+										["g_amt"] = 0,
+										["n_max"] = 2621,
+										["targets"] = {
+											["训练假人"] = 31452,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 15726,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 31452,
+										["c_max"] = 5242,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 265,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 31233.37481232599,
+							["custom"] = 0,
+							["last_event"] = 1583849188,
+							["damage_taken"] = 0.008436,
+							["start_time"] = 1583849187,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.00293,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00293,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.00293,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-0000E1D415",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849188,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 31452.00293,
+							["start_time"] = 1583849188,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 37,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 37,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 37,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849188,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 37,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849187,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 66,
+				["overall_added"] = true,
+				["totals"] = {
+					31452, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:06:27",
+				["end_time"] = 7286.576,
+				["combat_id"] = 37,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					31452, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 18347.008436,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:06:28",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7285.569,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [1]
+			{
+				{
+					["combatId"] = 36,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002856,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 115329,
+							},
+							["total"] = 115329.002856,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 115329.002856,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1583849187,
+							["friendlyfire_total"] = 0,
+							["spec"] = 265,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 41938,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 115329,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 73391,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 36,
+										["total"] = 115329,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 28,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 114300.3001546069,
+							["custom"] = 0,
+							["last_event"] = 1583849186,
+							["damage_taken"] = 0.002856,
+							["start_time"] = 1583849175,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.004294,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004294,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004294,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000161D416",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849176,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 115329.004294,
+							["start_time"] = 1583849176,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 36,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 36,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 36,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849176,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 36,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849175,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 65,
+				["overall_added"] = true,
+				["totals"] = {
+					115329, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:06:15",
+				["end_time"] = 7274.843,
+				["combat_id"] = 36,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					115329, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 15726.002856,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:06:16",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7273.834,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [2]
+			{
+				{
+					["combatId"] = 35,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005657,
+							["spec"] = 265,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 133678,
+							},
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1583849175,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 133678.005657,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 133678.005657,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 11,
+										["b_amt"] = 0,
+										["c_dmg"] = 57664,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 133678,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 76014,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 40,
+										["total"] = 133678,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 29,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 132617.0691041916,
+							["custom"] = 0,
+							["last_event"] = 1583849174,
+							["damage_taken"] = 0.005657,
+							["start_time"] = 1583849163,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.003868,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003868,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.003868,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000161D416",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849164,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 133678.003868,
+							["start_time"] = 1583849164,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 35,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 35,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 35,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849164,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297168] = {
+										["activedamt"] = 1,
+										["id"] = 297168,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 35,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849163,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 64,
+				["overall_added"] = true,
+				["totals"] = {
+					133678, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:06:03",
+				["end_time"] = 7262.657,
+				["combat_id"] = 35,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					133678, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 13106.005657,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:06:04",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7261.649,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [3]
+			{
+				{
+					["combatId"] = 34,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001578,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 138924,
+							},
+							["total"] = 138924.001578,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 138924.001578,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1583849163,
+							["friendlyfire_total"] = 0,
+							["spec"] = 265,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 14,
+										["b_amt"] = 0,
+										["c_dmg"] = 73395,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 138924,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 65529,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 39,
+										["total"] = 138924,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 25,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 137821.4301369306,
+							["custom"] = 0,
+							["last_event"] = 1583849162,
+							["damage_taken"] = 0.001578,
+							["start_time"] = 1583849151,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.004548,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004548,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004548,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-0000E1D415",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849152,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 138924.004548,
+							["start_time"] = 1583849152,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 34,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 34,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 34,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849152,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 34,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849151,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 63,
+				["overall_added"] = true,
+				["totals"] = {
+					138924, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:05:51",
+				["end_time"] = 7250.666,
+				["combat_id"] = 34,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					138924, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 20970.001578,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:05:52",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7249.658,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [4]
+			{
+				{
+					["combatId"] = 33,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002834,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 125815,
+							},
+							["total"] = 125815.002834,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 125815.002834,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1583849151,
+							["friendlyfire_total"] = 0,
+							["spec"] = 265,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 12,
+										["b_amt"] = 0,
+										["c_dmg"] = 62909,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 125815,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 62906,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 36,
+										["total"] = 125815,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 24,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 125189.0575462551,
+							["custom"] = 0,
+							["last_event"] = 1583849150,
+							["damage_taken"] = 0.002834,
+							["start_time"] = 1583849139,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.007257,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007257,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.007257,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000161D416",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849140,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 125815.007257,
+							["start_time"] = 1583849140,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 33,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 33,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 33,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849140,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 33,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849139,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 62,
+				["overall_added"] = true,
+				["totals"] = {
+					125815, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:05:39",
+				["end_time"] = 7239.031,
+				["combat_id"] = 33,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					125815, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 23591.002834,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:05:40",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7238.026,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [5]
+			{
+				{
+					["combatId"] = 32,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007933,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 131055,
+							},
+							["total"] = 131055.007933,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 131055.007933,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1583849139,
+							["friendlyfire_total"] = 0,
+							["spec"] = 265,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 10,
+										["b_amt"] = 0,
+										["c_dmg"] = 52422,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 131055,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 78633,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 40,
+										["total"] = 131055,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 30,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 130663.0188764098,
+							["custom"] = 0,
+							["last_event"] = 1583849138,
+							["damage_taken"] = 0.007933,
+							["start_time"] = 1583849127,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.008366,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008366,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.008366,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000161D416",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849128,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 131055.008366,
+							["start_time"] = 1583849128,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 32,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 32,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 32,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849128,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 32,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849127,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 61,
+				["overall_added"] = true,
+				["totals"] = {
+					131055, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:05:27",
+				["end_time"] = 7226.447,
+				["combat_id"] = 32,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					131055, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 15727.007933,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:05:28",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7225.444,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [6]
+			{
+				{
+					["combatId"] = 31,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00447,
+							["spec"] = 265,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 123194,
+							},
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1583849127,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 123194.00447,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 123194.00447,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 41939,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 123194,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 81255,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 39,
+										["total"] = 123194,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 31,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 122095.1481367673,
+							["custom"] = 0,
+							["last_event"] = 1583849126,
+							["damage_taken"] = 0.00447,
+							["start_time"] = 1583849115,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.006151,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006151,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.006151,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-0000E1D415",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849116,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 123194.006151,
+							["start_time"] = 1583849116,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 31,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 31,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 31,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849116,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297168] = {
+										["activedamt"] = 1,
+										["id"] = 297168,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 31,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849115,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 60,
+				["overall_added"] = true,
+				["totals"] = {
+					123194, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:05:15",
+				["end_time"] = 7214.787,
+				["combat_id"] = 31,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					123194, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 15727.00447,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:05:16",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7213.778,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [7]
+			{
+				{
+					["combatId"] = 30,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007829,
+							["spec"] = 265,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 136299,
+							},
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1583849115,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 136299.007829,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 136299.007829,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 16,
+										["b_amt"] = 0,
+										["c_dmg"] = 83878,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 136299,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 52421,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 36,
+										["total"] = 136299,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 20,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 134816.0314827554,
+							["custom"] = 0,
+							["last_event"] = 1583849114,
+							["damage_taken"] = 0.007829,
+							["start_time"] = 1583849103,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.004521,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004521,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004521,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000161D416",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849104,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 136299.004521,
+							["start_time"] = 1583849104,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 30,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 30,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 30,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849104,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 30,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849103,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 59,
+				["overall_added"] = true,
+				["totals"] = {
+					136299, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:05:03",
+				["end_time"] = 7203.17,
+				["combat_id"] = 30,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					136299, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 18349.007829,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:05:05",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7202.159000000001,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [8]
+			{
+				{
+					["combatId"] = 29,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008943,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 138923,
+							},
+							["total"] = 138923.008943,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 138923.008943,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1583849103,
+							["friendlyfire_total"] = 0,
+							["spec"] = 265,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 13,
+										["b_amt"] = 0,
+										["c_dmg"] = 68153,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 138923,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 70770,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 40,
+										["total"] = 138923,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 27,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 137683.8542547056,
+							["custom"] = 0,
+							["last_event"] = 1583849102,
+							["damage_taken"] = 0.008943,
+							["start_time"] = 1583849091,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.007693,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007693,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.007693,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000161D416",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849092,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 138923.007693,
+							["start_time"] = 1583849092,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 29,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 29,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 29,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849092,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 29,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849091,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 58,
+				["overall_added"] = true,
+				["totals"] = {
+					138923, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:04:51",
+				["end_time"] = 7190.581,
+				["combat_id"] = 29,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					138923, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 15727.008943,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:04:52",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7189.572,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [9]
+			{
+				{
+					["combatId"] = 28,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001785,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 117949,
+							},
+							["total"] = 117949.001785,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 117949.001785,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1583849091,
+							["friendlyfire_total"] = 0,
+							["spec"] = 265,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 31452,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 117949,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 86497,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 39,
+										["total"] = 117949,
+										["c_max"] = 5242,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 33,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 116896.9294202164,
+							["custom"] = 0,
+							["last_event"] = 1583849090,
+							["damage_taken"] = 0.001785,
+							["start_time"] = 1583849079,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.00363,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00363,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.00363,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000061D416",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849080,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 117949.00363,
+							["start_time"] = 1583849080,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 28,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 28,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 28,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849080,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 28,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849079,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 57,
+				["overall_added"] = true,
+				["totals"] = {
+					117949, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:04:39",
+				["end_time"] = 7178.63,
+				["combat_id"] = 28,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					117949, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 15727.001785,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:04:40",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7177.621,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [10]
+			{
+				{
+					["combatId"] = 27,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006063,
+							["spec"] = 265,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 115328,
+							},
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1583849079,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 115328.006063,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 115328.006063,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 41937,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 115328,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 73391,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 36,
+										["total"] = 115328,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 28,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 114640.165072529,
+							["custom"] = 0,
+							["last_event"] = 1583849078,
+							["damage_taken"] = 0.006063,
+							["start_time"] = 1583849067,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.008203,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["end_time"] = 1583849068,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008203,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.008203,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000161D416",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 115328.008203,
+							["start_time"] = 1583849068,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 27,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 27,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 27,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 5,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849068,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 27,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849067,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 56,
+				["overall_added"] = true,
+				["totals"] = {
+					115328, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:04:27",
+				["end_time"] = 7166.841,
+				["combat_id"] = 27,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					115328, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 18347.006063,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:04:28",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7165.835,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [11]
+			{
+				{
+					["combatId"] = 26,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006239,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 133678,
+							},
+							["total"] = 133678.006239,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 133678.006239,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1583849067,
+							["friendlyfire_total"] = 0,
+							["spec"] = 265,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 11,
+										["b_amt"] = 0,
+										["c_dmg"] = 57665,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 133678,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 76013,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 40,
+										["total"] = 133678,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 29,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 133411.1838713244,
+							["custom"] = 0,
+							["last_event"] = 1583849066,
+							["damage_taken"] = 0.006239,
+							["start_time"] = 1583849055,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.005882,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005882,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.005882,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000161D416",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849056,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 133678.005882,
+							["start_time"] = 1583849056,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 26,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 26,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 26,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849056,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 26,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849055,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 55,
+				["overall_added"] = true,
+				["totals"] = {
+					133678, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:04:15",
+				["end_time"] = 7154.794,
+				["combat_id"] = 26,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					133678, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 18349.006239,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:04:16",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7153.792,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [12]
+			{
+				{
+					["combatId"] = 25,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001483,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 128437,
+							},
+							["total"] = 128437.001483,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 128437.001483,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1583849055,
+							["friendlyfire_total"] = 0,
+							["spec"] = 265,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 10,
+										["b_amt"] = 0,
+										["c_dmg"] = 52422,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 128437,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 76015,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 39,
+										["total"] = 128437,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 29,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 127925.3002818846,
+							["custom"] = 0,
+							["last_event"] = 1583849054,
+							["damage_taken"] = 0.001483,
+							["start_time"] = 1583849043,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.003941,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003941,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.003941,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-000061D40E",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849044,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 128437.003941,
+							["start_time"] = 1583849044,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 25,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 25,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 25,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 6,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849044,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 25,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849043,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 54,
+				["overall_added"] = true,
+				["totals"] = {
+					128437, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:04:03",
+				["end_time"] = 7142.794,
+				["combat_id"] = 25,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					128437, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 18348.001483,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:04:04",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7141.79,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [13]
+			{
+				{
+					["combatId"] = 24,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002424,
+							["spec"] = 265,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 162514,
+							},
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1583849043,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 162514.002424,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 162514.002424,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 17,
+										["b_amt"] = 0,
+										["c_dmg"] = 89119,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 162514,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 73395,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 45,
+										["total"] = 162514,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 28,
+										["r_amt"] = 0,
+										["c_min"] = 5242,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-861-04BF171E",
+							["last_dps"] = 160745.7986389042,
+							["custom"] = 0,
+							["last_event"] = 1583849042,
+							["damage_taken"] = 0.002424,
+							["start_time"] = 1583849030,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.006612,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006612,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.006612,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3193-1-9307-153285-0002E1D412",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1583849032,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 162514.006612,
+							["start_time"] = 1583849032,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 24,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 24,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 24,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 265,
+							["grupo"] = true,
+							["buff_uptime"] = 12,
+							["nome"] = "橘丶子",
+							["pets"] = {
+							},
+							["last_event"] = 1583849032,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[225787] = {
+										["activedamt"] = 1,
+										["id"] = 225787,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 5,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-861-04BF171E",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 24,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 7126.875,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 53,
+				["overall_added"] = true,
+				["totals"] = {
+					162514, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:03:52",
+				["end_time"] = 7131.323,
+				["combat_id"] = 24,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					162514, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["橘丶子"] = 49803.002424,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "22:03:53",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 7130.312,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [14]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 23,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001238,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 13106,
+							},
+							["damage_taken"] = 0.001238,
+							["pets"] = {
+							},
+							["end_time"] = 1583849030,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 13106.001238,
+							["delay"] = 0,
+							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 13106.001238,
+							["tipo"] = 1,
+							["classe"] = "WARLOCK",
+							["nome"] = "橘丶子",
+							["spells"] = {
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 13106,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 13106,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 13106,
+										["c_max"] = 0,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["a_dmg"] = 0,
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["spec"] = 265,
+							["last_dps"] = 12925.05053058201,
+							["colocacao"] = 1,
+							["last_event"] = 1583849028,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1583849027,
+							["serial"] = "Player-861-04BF171E",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.005277,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005277,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.005277,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 13106.005277,
+							["end_time"] = 1583849028,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1583849028,
+							["serial"] = "Creature-0-3193-1-9307-153285-000061D40E",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 23,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 23,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 23,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "橘丶子",
+							["spec"] = 265,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 6,
+							["classe"] = "WARLOCK",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[297162] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 297162,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[227723] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[282559] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 282559,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[108366] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 108366,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269279,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-861-04BF171E",
+							["last_event"] = 1583849028,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 23,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["悦乐疯越悦"] = true,
+					["橘丶子"] = true,
+					["欧气满满"] = true,
+				},
+				["tempo_start"] = 1583849027,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 51,
+				["spells_cast_timeline"] = {
+				},
+				["totals"] = {
+					13106, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["橘丶子"] = 10485.001238,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:03:47",
+				["end_time"] = 7126.807,
+				["overall_added"] = true,
+				["instance_type"] = "none",
+				["combat_id"] = 23,
+				["cleu_timeline"] = {
+				},
+				["hasSaved"] = true,
+				["frags"] = {
+				},
+				["data_fim"] = "22:03:48",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					13106, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 7125.793000000001,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [15]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 22,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001592,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 136298,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 136298.001592,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 136298.001592,
+							["damage_taken"] = 0.001592,
+							["spells"] = {
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 12,
+										["b_amt"] = 0,
+										["c_dmg"] = 62907,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 136298,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 73391,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 40,
+										["total"] = 136298,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["c_min"] = 5242,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 28,
+										["a_dmg"] = 0,
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "橘丶子",
+							["spec"] = 265,
+							["grupo"] = true,
+							["last_dps"] = 135754.9816653515,
+							["end_time"] = 1583849027,
+							["colocacao"] = 1,
+							["last_event"] = 1583849026,
+							["on_hold"] = false,
+							["start_time"] = 1583849015,
+							["serial"] = "Player-861-04BF171E",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.004713,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004713,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.004713,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 136298.004713,
+							["end_time"] = 1583849016,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1583849016,
+							["serial"] = "Creature-0-3193-1-9307-153285-000061D40E",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 22,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 22,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 22,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "橘丶子",
+							["spec"] = 265,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 6,
+							["classe"] = "WARLOCK",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[282559] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 282559,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[297168] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 297168,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269279,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[108366] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 108366,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[227723] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-861-04BF171E",
+							["last_event"] = 1583849016,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 22,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849015,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 50,
+				["spells_cast_timeline"] = {
+				},
+				["totals"] = {
+					136298, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["橘丶子"] = 15727.001592,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:03:35",
+				["end_time"] = 7114.513,
+				["overall_added"] = true,
+				["instance_type"] = "none",
+				["combat_id"] = 22,
+				["cleu_timeline"] = {
+				},
+				["hasSaved"] = true,
+				["frags"] = {
+				},
+				["data_fim"] = "22:03:36",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					136298, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 7113.509,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [16]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008861,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 125813,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 125813.008861,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1583849015,
+							["damage_taken"] = 0.008861,
+							["spells"] = {
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 12,
+										["b_amt"] = 0,
+										["c_dmg"] = 62907,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 125813,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 62906,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 36,
+										["total"] = 125813,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["c_min"] = 5242,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 24,
+										["a_dmg"] = 0,
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "橘丶子",
+							["spec"] = 265,
+							["grupo"] = true,
+							["last_dps"] = 124814.4929176822,
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["last_event"] = 1583849014,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1583849003,
+							["serial"] = "Player-861-04BF171E",
+							["total"] = 125813.008861,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.007303,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007303,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.007303,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 125813.007303,
+							["end_time"] = 1583849004,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1583849004,
+							["serial"] = "Creature-0-3193-1-9307-153285-000161D416",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "橘丶子",
+							["spec"] = 265,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 6,
+							["classe"] = "WARLOCK",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[297162] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 297162,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[227723] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[282559] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 282559,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[108366] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 108366,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269279,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-861-04BF171E",
+							["last_event"] = 1583849004,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583849003,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 49,
+				["spells_cast_timeline"] = {
+				},
+				["totals"] = {
+					125813, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["橘丶子"] = 15728.008861,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:03:23",
+				["end_time"] = 7103.157,
+				["overall_added"] = true,
+				["instance_type"] = "none",
+				["combat_id"] = 21,
+				["cleu_timeline"] = {
+				},
+				["hasSaved"] = true,
+				["frags"] = {
+				},
+				["data_fim"] = "22:03:24",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					125813, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 7102.149,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [17]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008894,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["训练假人"] = 136299,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 1,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 136299.008894,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["total"] = 136299.008894,
+							["damage_taken"] = 0.008894,
+							["spells"] = {
+								["_ActorTable"] = {
+									[146739] = {
+										["c_amt"] = 13,
+										["b_amt"] = 0,
+										["c_dmg"] = 68149,
+										["g_amt"] = 0,
+										["n_max"] = 2622,
+										["targets"] = {
+											["训练假人"] = 136299,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 68150,
+										["n_min"] = 2621,
+										["g_dmg"] = 0,
+										["counter"] = 39,
+										["total"] = 136299,
+										["c_max"] = 5243,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["c_min"] = 5242,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 26,
+										["a_dmg"] = 0,
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "橘丶子",
+							["spec"] = 265,
+							["grupo"] = true,
+							["last_dps"] = 136299.008894,
+							["end_time"] = 1583849003,
+							["colocacao"] = 1,
+							["last_event"] = 1583849002,
+							["on_hold"] = false,
+							["start_time"] = 1583848991,
+							["serial"] = "Player-861-04BF171E",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.005815,
+							["damage_from"] = {
+								["橘丶子"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005815,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.005815,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "训练假人",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 136299.005815,
+							["end_time"] = 1583848992,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1583848992,
+							["serial"] = "Creature-0-3193-1-9307-153285-000061D416",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "橘丶子",
+							["spec"] = 265,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 6,
+							["classe"] = "WARLOCK",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[297162] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 297162,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[227723] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[282559] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 282559,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[108366] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 108366,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269279,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-861-04BF171E",
+							["last_event"] = 1583848992,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["一群小灰灰丷"] = true,
+					["橘丶子"] = true,
+					["悦乐疯越悦"] = true,
+				},
+				["tempo_start"] = 1583848991,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "训练假人",
+				["combat_counter"] = 48,
+				["spells_cast_timeline"] = {
+				},
+				["totals"] = {
+					136299, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["橘丶子"] = 10485.008894,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:03:11",
+				["end_time"] = 7090.994000000001,
+				["overall_added"] = true,
+				["instance_type"] = "none",
+				["combat_id"] = 20,
+				["cleu_timeline"] = {
+				},
+				["hasSaved"] = true,
+				["frags"] = {
+				},
+				["data_fim"] = "22:03:12",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					136299, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 7089.994000000001,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [18]
+		},
+	},
+	["last_version"] = "v8.3.0.7281",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["on_death_menu"] = true,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1585144729,
+		["last_version"] = 11,
+	},
+	["last_instance_id"] = 0,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 0,
+	["active_profile"] = "橘丶子-巨龙之吼",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_CHART_VIEWER"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["tabs"] = {
+				{
+					["name"] = "Your Damage",
+					["segment_type"] = 2,
+					["version"] = "v2.0",
+					["data"] = "Player Damage Done",
+					["texture"] = "line",
+				}, -- [1]
+				{
+					["name"] = "Class Damage",
+					["iType"] = "raid-DAMAGER",
+					["segment_type"] = 1,
+					["version"] = "v2.0",
+					["data"] = "PRESET_DAMAGE_SAME_CLASS",
+					["texture"] = "line",
+				}, -- [2]
+				{
+					["name"] = "Raid Damage",
+					["segment_type"] = 2,
+					["version"] = "v2.0",
+					["data"] = "Raid Damage Done",
+					["texture"] = "line",
+				}, -- [3]
+				["last_selected"] = 1,
+			},
+			["options"] = {
+				["show_method"] = 4,
+				["auto_create"] = true,
+				["window_scale"] = 1,
+			},
+		},
+	},
+	["cached_talents"] = {
+		["Player-861-054F7E4E"] = {
+			22119, -- [1]
+			19236, -- [2]
+			19239, -- [3]
+			22122, -- [4]
+			22115, -- [5]
+			23128, -- [6]
+			22125, -- [7]
+		},
+		["Player-861-04BF171E"] = {
+			23141, -- [1]
+			21180, -- [2]
+			19285, -- [3]
+			19292, -- [4]
+			19288, -- [5]
+			23159, -- [6]
+			19293, -- [7]
+		},
+		["Player-861-05471E9D"] = {
+			22502, -- [1]
+			22507, -- [2]
+			22324, -- [3]
+			22770, -- [4]
+			22511, -- [5]
+			22512, -- [6]
+			22543, -- [7]
+		},
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["last_day"] = "10",
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["character_data"] = {
+		["logons"] = 4,
+	},
+	["combat_id"] = 37,
+	["savedStyles"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -40.79998779296875,
+					["x"] = -853.7998352050781,
+					["w"] = 310.0001525878906,
+					["h"] = 157.9999847412109,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["force_font_outline"] = "",
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.210672,
+					["end_time"] = 1583848772,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["训练假人"] = 692512,
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["classe"] = "WARLOCK",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 692512.2106720001,
+					["tipo"] = 1,
+					["dps_started"] = false,
+					["total"] = 692512.2106720001,
+					["friendlyfire_total"] = 0,
+					["delay"] = 0,
+					["nome"] = "橘丶子",
+					["spells"] = {
+						["_ActorTable"] = {
+							[146739] = {
+								["c_amt"] = 57,
+								["b_amt"] = 0,
+								["c_dmg"] = 304316,
+								["g_amt"] = 0,
+								["n_max"] = 2753,
+								["targets"] = {
+									["训练假人"] = 692512,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 388196,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 202,
+								["total"] = 692512,
+								["c_max"] = 5505,
+								["id"] = 146739,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 145,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["spec"] = 265,
+					["damage_taken"] = 0.210672,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1583848730,
+					["serial"] = "Player-861-04BF171E",
+					["on_hold"] = false,
+				}, -- [1]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 0.195355,
+					["damage_from"] = {
+						["橘丶子"] = true,
+						["解乏-伊利丹"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.195355,
+					["damage_taken"] = 2226881.195355,
+					["fight_component"] = true,
+					["end_time"] = 1583848772,
+					["tipo"] = 1,
+					["friendlyfire_total"] = 0,
+					["nome"] = "训练假人",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["dps_started"] = false,
+					["total"] = 0.195355,
+					["delay"] = 0,
+					["last_dps"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1583848769,
+					["serial"] = "Creature-0-3193-1-9307-153285-0000E1D415",
+					["friendlyfire"] = {
+					},
+				}, -- [2]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 265,
+					["grupo"] = true,
+					["buff_uptime"] = 239,
+					["nome"] = "橘丶子",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["classe"] = "WARLOCK",
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[269279] = {
+								["counter"] = 0,
+								["activedamt"] = 37,
+								["appliedamt"] = 37,
+								["id"] = 269279,
+								["uptime"] = 40,
+								["targets"] = {
+								},
+								["refreshamt"] = 1,
+							},
+							[297162] = {
+								["counter"] = 0,
+								["activedamt"] = 32,
+								["appliedamt"] = 32,
+								["id"] = 297162,
+								["uptime"] = 32,
+								["targets"] = {
+								},
+								["refreshamt"] = 47,
+							},
+							[225787] = {
+								["counter"] = 0,
+								["activedamt"] = 37,
+								["appliedamt"] = 37,
+								["id"] = 225787,
+								["uptime"] = 40,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[227723] = {
+								["counter"] = 0,
+								["activedamt"] = 37,
+								["appliedamt"] = 37,
+								["id"] = 227723,
+								["uptime"] = 40,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[282559] = {
+								["counter"] = 0,
+								["activedamt"] = 37,
+								["appliedamt"] = 37,
+								["id"] = 282559,
+								["uptime"] = 40,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[108366] = {
+								["counter"] = 0,
+								["activedamt"] = 37,
+								["appliedamt"] = 37,
+								["id"] = 108366,
+								["uptime"] = 40,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[297168] = {
+								["counter"] = 0,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 297168,
+								["uptime"] = 7,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["serial"] = "Player-861-04BF171E",
+					["last_event"] = 0,
+				}, -- [1]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1583848771,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 1.006999999999607,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:06:27",
+			}, -- [1]
+			{
+				["elapsed"] = 1.009000000000015,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:06:15",
+			}, -- [2]
+			{
+				["elapsed"] = 1.007999999999811,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:06:03",
+			}, -- [3]
+			{
+				["elapsed"] = 1.007999999999811,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:05:51",
+			}, -- [4]
+			{
+				["elapsed"] = 1.005000000000109,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:05:39",
+			}, -- [5]
+			{
+				["elapsed"] = 1.002999999999702,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:05:27",
+			}, -- [6]
+			{
+				["elapsed"] = 1.009000000000015,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:05:15",
+			}, -- [7]
+			{
+				["elapsed"] = 1.010999999999513,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:05:03",
+			}, -- [8]
+			{
+				["elapsed"] = 1.009000000000015,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:04:51",
+			}, -- [9]
+			{
+				["elapsed"] = 1.009000000000015,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:04:39",
+			}, -- [10]
+			{
+				["elapsed"] = 1.006000000000313,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:04:27",
+			}, -- [11]
+			{
+				["elapsed"] = 1.001999999999498,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:04:15",
+			}, -- [12]
+			{
+				["elapsed"] = 1.003999999999905,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:04:03",
+			}, -- [13]
+			{
+				["elapsed"] = 1.011000000000422,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:03:52",
+			}, -- [14]
+			{
+				["elapsed"] = 1.013999999999214,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:03:47",
+			}, -- [15]
+			{
+				["elapsed"] = 1.003999999999905,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:03:35",
+			}, -- [16]
+			{
+				["elapsed"] = 1.007999999999811,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:03:23",
+			}, -- [17]
+			{
+				["elapsed"] = 1,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:03:11",
+			}, -- [18]
+			{
+				["elapsed"] = 1.002999999999702,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:02:59",
+			}, -- [19]
+			{
+				["elapsed"] = 1.006000000000313,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:02:48",
+			}, -- [20]
+			{
+				["elapsed"] = 1.000999999999294,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:02:36",
+			}, -- [21]
+			{
+				["elapsed"] = 1.006000000000313,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:02:25",
+			}, -- [22]
+			{
+				["elapsed"] = 1.007999999999811,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:02:12",
+			}, -- [23]
+			{
+				["elapsed"] = 1.007999999999811,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:02:00",
+			}, -- [24]
+			{
+				["elapsed"] = 1.006999999999607,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:01:48",
+			}, -- [25]
+			{
+				["elapsed"] = 1.007000000000517,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:01:36",
+			}, -- [26]
+			{
+				["elapsed"] = 1.007999999999811,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:01:24",
+			}, -- [27]
+			{
+				["elapsed"] = 1,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:01:12",
+			}, -- [28]
+			{
+				["elapsed"] = 1.013999999999214,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:01:01",
+			}, -- [29]
+			{
+				["elapsed"] = 1.010000000000218,
+				["type"] = 0,
+				["name"] = "训练假人",
+				["clock"] = "22:00:55",
+			}, -- [30]
+		},
+		["combat_counter"] = 26,
+		["totals"] = {
+			2247736.452823001, -- [1]
+			26998.029094, -- [2]
+			{
+				0.035904, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "21:59:31",
+		["end_time"] = 7286.576,
+		["cleu_timeline"] = {
+		},
+		["totals_grupo"] = {
+			692512.2058160001, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+		},
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = "22:06:28",
+		["overall_enemy_name"] = "训练假人",
+		["CombatSkillCache"] = {
+		},
+		["frags"] = {
+		},
+		["start_time"] = 7249.310000000004,
+		["TimeData"] = {
+			["Player Damage Done"] = {
+			},
+		},
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+	},
+	["combat_counter"] = 66,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_realversion"] = 140,
+	["announce_cooldowns"] = {
+		["ignored_cooldowns"] = {
+		},
+		["enabled"] = false,
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-861-054F7E4E"] = 260,
+		["Player-861-04BF171E"] = 265,
+		["Player-861-05471E9D"] = 581,
+		["Player-710-04ED8326"] = 577,
+	},
+}

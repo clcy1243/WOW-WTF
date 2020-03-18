@@ -1,0 +1,15 @@
+
+AdvancedInterfaceOptionsSaved = {
+	["CustomVars"] = {
+	},
+	["DBVersion"] = 3,
+	["ModifiedCVars"] = {
+	},
+	["CharVars"] = {
+	},
+	["AccountVars"] = {
+		["floatingCombatTextCombatHealing"] = "1",
+		["floatingCombatTextCombatDamage"] = "1",
+	},
+	["EnforceSettings"] = false,
+}

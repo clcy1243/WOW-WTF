@@ -1,0 +1,59 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemCategory"] = {
+		},
+		["Artifact Power Currency"] = {
+			["profiles"] = {
+				["Default"] = {
+					["AbbreviateCurrency"] = false,
+				},
+			},
+		},
+		["NewItem"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["MoneyFrame"] = {
+		},
+		["Equipment"] = {
+		},
+		["DataSource"] = {
+		},
+		["CurrencyFrame"] = {
+		},
+		["ItemSets"] = {
+		},
+		["Junk"] = {
+		},
+		["军团再临"] = {
+		},
+	},
+	["profileKeys"] = {
+		["龙曦君 - 主宰之剑"] = "Default",
+		["星界旅行者 - 瓦拉斯塔兹"] = "Default",
+		["Safasfafsfa - 主宰之剑"] = "Default",
+		["龙博宇 - 主宰之剑"] = "Default",
+		["龙轻雪 - 主宰之剑"] = "Default",
+		["龙馨夜 - 主宰之剑"] = "Default",
+		["倾城丨猫爷 - 太阳之井"] = "Default",
+		["龙剑曦 - 主宰之剑"] = "Default",
+		["倾城丨烟雨 - 摩摩尔"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["virtualStacks"] = {
+				["freeSpace"] = false,
+			},
+		},
+	},
+}

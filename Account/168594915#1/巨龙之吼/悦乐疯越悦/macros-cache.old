@@ -1,0 +1,51 @@
+VER 3 0100000000000014 "123" "136048"
+#showtooltip
+/castsequence reset=9 阳炎之怒,明月打击,星涌术
+END
+VER 3 0100000000000013 "o" "135730"
+#showtooltip
+/castsequence reset=9 阳炎之怒,明月打击
+END
+VER 3 010000000000000D "Restoration_Tank" "INV_MISC_QUESTIONMARK"
+#showtooltips 愈合
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 愈合
+/run SetCVar("Sound_EnableSFX","1")
+END
+VER 3 0100000000000012 "VuhDoDCShieldData" "Ability_Repair"
+R1PT1PT1NM1PT1NM2PM2EM2EM3HR3PH3MR3MR[x]4SH4HR4IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]4DH[x][x][x][x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000015 "回春" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [@mouseover] 回春术
+END
+VER 3 0100000000000016 "愈合" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [@mouseover] 愈合
+END
+VER 3 010000000000001B "树皮" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [@mouseover] 铁木树皮
+END
+VER 3 0100000000000017 "绽放" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [@mouseover] 生命绽放
+END
+VER 3 0100000000000019 "迅捷" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [@mouseover] 迅捷治愈
+END
+VER 3 0100000000000009 "迅捷治愈" "134914"
+#showtooltips 迅捷治愈
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 迅捷治愈
+/run SetCVar("Sound_EnableSFX","1")
+END
+VER 3 0100000000000018 "野性" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [@mouseover] 野性成长
+END
+VER 3 010000000000001A "驱散" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [@mouseover] 自然之愈
+END

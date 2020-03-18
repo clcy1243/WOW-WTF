@@ -1,0 +1,13 @@
+
+AzeriteTooltipDB = {
+	["profileKeys"] = {
+		["龙轻雪 - 主宰之剑"] = "Default",
+		["龙剑曦 - 主宰之剑"] = "Default",
+		["倾城丨猫爷 - 太阳之井"] = "Default",
+		["倾城丨烟雨 - 摩摩尔"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

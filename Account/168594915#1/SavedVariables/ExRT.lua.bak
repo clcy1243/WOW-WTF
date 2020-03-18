@@ -1,0 +1,452 @@
+
+VExRT = {
+	["BattleRes"] = {
+	},
+	["ProfileKeys"] = {
+		["悦乐疯越悦-巨龙之吼"] = "default",
+	},
+	["Encounter"] = {
+		["list"] = {
+			["悦乐疯越悦"] = {
+				"^2334^15^1583047676^346^1^21^465.63^地狱咆硣-伊森利恩", -- [1]
+				"^2327^15^1583048478^10^0^23^465.35^", -- [2]
+				"^2327^15^1583048554^203^1^23^465.35^长腿宇叔-伊森利恩", -- [3]
+				"^2328^15^1583050245^89^0^21^465.33^卡丽熙-黑暗魅影", -- [4]
+				"^2328^15^1583050463^187^0^21^465.33^悦乐疯越悦", -- [5]
+				"^2328^15^1583050916^331^1^16^464.44^菱羽曲丶", -- [6]
+				"^2336^15^1583051735^321^0^16^464.48^辰丁丁丶-影之哀伤", -- [7]
+				"^2336^15^1583052850^432^0^20^465.73^落雪依浮萍-暗影之月", -- [8]
+				"^2336^15^1583053647^415^1^20^465.92^干柿鬼鲛-迦拉克隆", -- [9]
+			},
+		},
+		["names"] = {
+			[2336] = "维克修娜",
+			[2334] = "先知斯基特拉",
+			[2327] = "玛乌特",
+			[2328] = "黑暗审判官夏奈什",
+		},
+	},
+	["Marks"] = {
+		["list"] = {
+		},
+	},
+	["Coins"] = {
+		["list"] = {
+			"!3172193辰丁丁丶-影之哀伤1583048051:6:4823:6568:6578:6579:1502:4786", -- [1]
+			"!A172196Quandajiaoti-亚雷戈斯1583051255:7:4823:1808:6541:6578:6579:1502:4786", -- [2]
+		},
+	},
+	["ExCD2"] = {
+		["default_userDuration"] = {
+		},
+		["gnGUIDs"] = {
+			["本为浮华生-凤凰之神"] = 65,
+			["辰丁丁丶-影之哀伤"] = 253,
+			["落雪依浮萍-暗影之月"] = 577,
+			["爱你就好-日落沼泽"] = 264,
+			["地狱咆硣-伊森利恩"] = 73,
+			["玩具酱-海克泰尔"] = 577,
+			["亚当丶小德-血色十字军"] = 105,
+			["依然潇颯-安苏"] = 71,
+			["瑶玑-凤凰之神"] = 254,
+			["天灬啟-格瑞姆巴托"] = 252,
+			["艾瑞斯晨曦-死亡之翼"] = 63,
+			["Shabinga-试炼之环"] = 257,
+			["丷田丨七丷"] = 260,
+			["黑色孢子蝠"] = 63,
+			["长腿宇叔-伊森利恩"] = 577,
+			["丶沐颜花泪-丽丽（四川）"] = 257,
+			["故渊思池鱼-凤凰之神"] = 260,
+			["妙手仁心-影之哀伤"] = 105,
+			["卡丽熙-黑暗魅影"] = 65,
+			["佚名翼-织亡者"] = 260,
+			["一只小灰灰"] = 267,
+			["对子哈特-亚雷戈斯"] = 253,
+			["群体驱散"] = 73,
+			["捣蛋鬼乖乖-冰霜之刃"] = 264,
+			["干柿鬼鲛-迦拉克隆"] = 252,
+			["冬天食雪糕-寒冰皇冠"] = 259,
+			["菱羽曲丶"] = 577,
+			["倾国星辰-亚雷戈斯"] = 253,
+			["滅世丶萨-伊森利恩"] = 263,
+			["橘丶子"] = 265,
+			["楓镰丶-伊森利恩"] = 577,
+			["团长标记我-克尔苏加德"] = 253,
+			["悦乐疯越悦"] = 104,
+			["Quandajiaoti-亚雷戈斯"] = 270,
+		},
+		["NoRaid"] = true,
+		["CDECol"] = {
+		},
+		["default_userCD"] = {
+		},
+		["userDB"] = {
+		},
+		["colSet"] = {
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [1]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [2]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [3]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [4]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [5]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [6]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [7]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [8]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [9]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [10]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["fontShadow"] = false,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["textureGeneral"] = true,
+			}, -- [11]
+		},
+		["Priority"] = {
+		},
+		["CDE"] = {
+		},
+		["Save"] = {
+		},
+	},
+	["Attendance"] = {
+		["enabled"] = 2,
+		["data"] = {
+			{
+				"K悦乐疯越悦", -- [1]
+				"L落雪依浮萍-暗影之月", -- [2]
+				"A地狱咆硣-伊森利恩", -- [3]
+				"A依然潇颯-安苏", -- [4]
+				"D故渊思池鱼-凤凰之神", -- [5]
+				"E丶沐颜花泪-丽丽（四川）", -- [6]
+				"B卡丽熙-黑暗魅影", -- [7]
+				"G捣蛋鬼乖乖-冰霜之刃", -- [8]
+				"F干柿鬼鲛-迦拉克隆", -- [9]
+				"JQuandajiaoti-亚雷戈斯", -- [10]
+				"L楓镰丶-伊森利恩", -- [11]
+				"L长腿宇叔-伊森利恩", -- [12]
+				"D丷田丨七丷", -- [13]
+				"D冬天食雪糕-寒冰皇冠", -- [14]
+				"L玩具酱-海克泰尔", -- [15]
+				"I橘丶子", -- [16]
+				"C倾国星辰-亚雷戈斯", -- [17]
+				"H黑色孢子蝠", -- [18]
+				"C辰丁丁丶-影之哀伤", -- [19]
+				"C对子哈特-亚雷戈斯", -- [20]
+				"G滅世丶萨-伊森利恩", -- [21]
+				["eI"] = 2334,
+				["k"] = true,
+				["t"] = 1583048022,
+				["eN"] = "先知斯基特拉",
+				["d"] = 15,
+				["g"] = 21,
+				["c"] = "悦乐疯越悦-巨龙之吼",
+			}, -- [1]
+			{
+				"L菱羽曲丶", -- [1]
+				"L落雪依浮萍-暗影之月", -- [2]
+				"A地狱咆硣-伊森利恩", -- [3]
+				"A群体驱散", -- [4]
+				nil, -- [5]
+				"K悦乐疯越悦", -- [6]
+				"B卡丽熙-黑暗魅影", -- [7]
+				"F干柿鬼鲛-迦拉克隆", -- [8]
+				"JQuandajiaoti-亚雷戈斯", -- [9]
+				nil, -- [10]
+				"L楓镰丶-伊森利恩", -- [11]
+				"L长腿宇叔-伊森利恩", -- [12]
+				"D丷田丨七丷", -- [13]
+				"L玩具酱-海克泰尔", -- [14]
+				nil, -- [15]
+				"I橘丶子", -- [16]
+				"C倾国星辰-亚雷戈斯", -- [17]
+				"H黑色孢子蝠", -- [18]
+				"C辰丁丁丶-影之哀伤", -- [19]
+				["c"] = "悦乐疯越悦-巨龙之吼",
+				["eN"] = "黑暗审判官夏奈什",
+				["t"] = 1583051247,
+				["g"] = 16,
+				["k"] = true,
+				["eI"] = 2328,
+				["d"] = 15,
+			}, -- [2]
+		},
+		["alts"] = {
+		},
+	},
+	["InspectViewer"] = {
+		["ColorizeLowIlvl685"] = false,
+		["ColorizeNoEnch"] = true,
+		["ColorizeNoGems"] = true,
+		["ColorizeLowIlvl"] = true,
+		["ColorizeNoTopEnchGems"] = false,
+		["ColorizeNoValorUpgrade"] = false,
+	},
+	["Timers"] = {
+		["specTimes"] = {
+			[62] = 10,
+			[63] = 10,
+			[250] = 10,
+			[251] = 10,
+			[64] = 10,
+			[253] = 10,
+			[65] = 10,
+			[255] = 10,
+			[66] = 10,
+			[257] = 10,
+			[258] = 10,
+			[259] = 10,
+			[260] = 10,
+			[261] = 25,
+			[262] = 16,
+			[263] = 10,
+			[264] = 10,
+			[265] = 22,
+			[266] = 10,
+			[267] = 10,
+			[268] = 10,
+			[269] = 10,
+			[270] = 10,
+			[70] = 10,
+			[102] = 10,
+			[71] = 10,
+			[103] = 10,
+			[72] = 10,
+			[104] = 10,
+			[73] = 10,
+			[581] = 10,
+			[105] = 10,
+			[577] = 10,
+			[256] = 10,
+			[254] = 10,
+			[252] = 10,
+		},
+		["Type"] = 2,
+		["Strata"] = "HIGH",
+		["timeToKillAnalyze"] = 15,
+	},
+	["Addon"] = {
+		["Timer"] = 0.1,
+		["Version"] = 4130,
+		["PreVersion"] = 4130,
+	},
+	["WhoPulled"] = {
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
+		},
+	},
+	["Profiles"] = {
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["FontSize"] = 12,
+		["AutoLoad"] = {
+		},
+		["Width"] = 200.0000762939453,
+		["BlackLastUpdateName"] = {
+		},
+		["OnlyPromoted"] = true,
+		["Strata"] = "HIGH",
+		["Height"] = 100.0000762939453,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["BlackLastUpdateTime"] = {
+		},
+		["OptionsFormatting"] = true,
+	},
+	["RaidCheck"] = {
+		["ReadyCheckFrameOnlyRL"] = true,
+		["BuffsCheck"] = true,
+		["ReadyCheckFrame"] = true,
+		["ReadyCheckFrameTimerFade"] = 4,
+		["ReadyCheckTop"] = 822.4999389648438,
+		["ReadyCheckLeft"] = 358.6001586914063,
+		["FlaskExp"] = 1,
+	},
+	["Logging"] = {
+	},
+	["MarksBar"] = {
+		["pulltimer"] = 10,
+		["pulltimer_right"] = 10,
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+		},
+		["Strata"] = "HIGH",
+	},
+	["VisNote"] = {
+		["data"] = {
+		},
+		["sync_data"] = {
+		},
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 2,
+		["Ranks"] = {
+			true, -- [1]
+		},
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
+	},
+}

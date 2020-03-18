@@ -1,0 +1,406 @@
+VER 3 0000000000000037 " " "644389"
+/TAR 萨格雷统御者
+/tar 上古先驱
+/TAR 炎狱召亡者
+END
+VER 3 0000000000000038 " " "INV_Misc_QuestionMark"
+#showtooltip 冲动
+/施放 血性狂怒(种族特长)
+/use 13
+/use 14
+/施放 冲动
+END
+VER 3 0000000000000039 " " "INV_Misc_QuestionMark"
+#showtooltip 
+/cancelaura 疾跑
+/cancelaura 狂奔怒吼
+/cancelaura 身心合一
+/cancelaura 保护之手
+/use 6
+END
+VER 3 000000000000003A " " "INV_Misc_QuestionMark"
+#showtooltip
+/cast 暗影反射
+/use 13
+/cast 狂暴
+/cast 血性狂怒
+/cast 宿敌
+END
+VER 3 000000000000003B " " "132177"
+/script T,F=T or 0,F or CreateFrame("frame")if X then print("off") X=nil else print("on") X=function()local t=GetTime()if t-T>15 then SendChatMessage(ps,"channel",nil,4)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 000000000000003C " " "134400"
+/script T,F=T or 0,F or CreateFrame("frame")if  X then X=nil else X=function()local t=GetTime ()if t-T>1 then StaticPopup1Button1:Click()T=t  end end end F:SetScript ("OnUpdate",X)
+END
+VER 3 000000000000003D " " "134400"
+/script SetRaidTarget("target",8)
+END
+VER 3 000000000000003E " " "INV_Misc_QuestionMark"
+#showtooltip 伏击
+/cast 预谋
+/cast 伏击
+END
+VER 3 000000000000003F " " "INV_Misc_QuestionMark"
+#showtooltip 守护者之手
+/cast 守护者之手
+/cast 正义盾击 
+END
+VER 3 0000000000000040 "  " "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=focus,exists]嫁祸诀窍;[target=targettarget]嫁祸诀窍
+/stopmacro [target=focus,exists]
+/focus [target=targettarget]
+END
+VER 3 0000000000000041 " gensui" "136103"
+#showtooltip
+/castsequence reset=6 痛击,横扫,横扫,横扫,痛击,横扫,横扫,横扫
+/cast 狂暴回复
+/施放 乌索尔的印记
+/施放 沉睡者之怒(神器)
+/施放 明月普照
+/施放 树皮术
+/use 虚空晶体
+/cancelaura 森提纳克斯毁灭区域
+/cancelaura 守望者
+END
+VER 3 0000000000000042 " 死亡标记" "INV_Misc_QuestionMark"
+#showtooltip
+/tar 兽群
+/tar 长矛钉刺
+/cast 死亡标记
+/tar 兽王达玛克
+END
+VER 3 0000000000000043 " 跟随" "134400"
+/跟随 亡者珪来
+/目标 
+END
+VER 3 0000000000000044 "/tanget 上古先驱" "134400"
+/tanget 上古先驱
+END
+VER 3 0000000000000018 "1" "134400"
+/target 邪能涌动图腾
+/cast 真气波
+END
+VER 3 0000000000000045 "1" "134400"
+/script T,F=T or 0,F or CreateFrame("frame")if X then print("off") X=nil else print("on") X=function()local t=GetTime()if t-T>10 then SendChatMessage(ps,"channel",nil,5)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 0000000000000017 "1" "616692"
+/g 大量收各种合剂，500g/瓶，支持邮寄
+/1 大量收各种合剂，500g/瓶，支持邮寄
+/施放 雄壮远足牦牛
+END
+VER 3 0000000000000047 "11" "136206"
+/cast 冲动
+/use 跳动的山脉之心
+END
+VER 3 0000000000000046 "11" "413587"
+/script ps="{胜利}《名人堂》H地狱火1-13全通品牌G团 效率速推   阿克面前 来全程消费和预约消费！YY312958";sc=SendChatMessage
+END
+VER 3 0000000000000048 "11" "236303"
+/script ps="{胜利} 《名人堂》新CD 史诗地狱火堡垒1-13M全通团 考莫克 血魔面前  品牌团队 效率速推  欢迎躺尸（布皮锁板）！";sc=SendChatMessage
+END
+VER 3 0000000000000049 "12" "413587"
+/script ps="{胜利}《名人堂》H地狱火1-13全通品牌G团 效率速推   玛胖面前 来全程消费和预约消费！YY312958";sc=SendChatMessage
+END
+VER 3 000000000000008A "123" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noharm]
+/castsequence reset=6 痛击,横扫,横扫,横扫,横扫
+/施放 生存本能
+/施放 沉睡者之怒
+/施放 树皮术
+/施放 狂暴回复
+END
+VER 3 000000000000008C "1234" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nostance:1]熊形态
+/castsequence reset=6 痛击,横扫,横扫,横扫,痛击,横扫,横扫,横扫
+/cast 狂暴回复
+/施放 乌索尔的印记
+/use 勇气号角
+/施放 沉睡者之怒(神器)
+/施放 明月普照
+/施放 树皮术
+END
+VER 3 000000000000008B "123456" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nostance:1]熊形态
+/castsequence reset=6 痛击,横扫,横扫,横扫,痛击,横扫,横扫,横扫
+/cast 狂暴回复
+/施放 乌索尔的印记
+/use 勇气号角
+/施放 沉睡者之怒(神器)
+/施放 明月普照
+/施放 树皮术
+END
+VER 3 000000000000004A "13" "413587"
+/script ps="{胜利}《名人堂》H地狱火1-13全通品牌G团 效率速推   最终BOSS阿克面前 来武器和职业饰品老板！YY312958";sc=SendChatMessage
+END
+VER 3 000000000000004B "2" "134400"
+/script ps="{rt6} {rt6}《名人堂》地狱火堡垒1-13M团，价格实惠效率高，来消费武器饰品套装散件的。来预定5T18套装和MAK职业饰品)"sc=SendChatMessage;
+END
+VER 3 000000000000004C "2" "134400"
+/script ps="{rt6} {rt6}《名人堂》地狱火堡垒1-13HG团，价格实惠效率高，H老5死眼面前来消费武器饰品套装散件的老板。来预定5T18套装和HAK职业饰品消费)"sc=SendChatMessage;
+END
+VER 3 0000000000000019 "2" "616692"
+/g 大量收各种草药，支持邮寄
+/g 伊瑟拉莱之种  800/组
+/g 安瑟瑞尔花  3000/组
+/g 入梦叶  3000/组
+/g 狐尾花  6000/组
+/g 夏斯卡格草  6000/组
+/g 星光玫瑰  12000/组
+/施放 雄壮远足牦牛
+END
+VER 3 000000000000004D "21" "INV_Misc_QuestionMark"
+#showtooltip 宿敌
+/CAST 暗影反射
+/CAST 宿敌
+END
+VER 3 000000000000004E "22" "132320"
+/cast 潜行
+/cast 消失
+END
+VER 3 000000000000004F "2222222" "132287"
+/cast [nocombat] 潜行
+/cast 毒伤
+END
+VER 3 000000000000001A "3" "134400"
+/1 大量收各种草药，支持邮寄.[伊瑟拉莱之种]  800/组,[安瑟瑞尔花] 3000/组, [入梦叶]  3000/组, [狐尾花] 5000/组,[夏斯卡格草]  5000/组, [星光玫瑰] 13000/组
+END
+VER 3 000000000000001B "4" "134400"
+/1 大量收草药，支持邮寄.[伊瑟拉莱之种]  800/组,[安瑟瑞尔花] 3000/组, [入梦叶]  3000/组, [星光玫瑰] 13000/组
+END
+VER 3 0000000000000012 "a1" "INV_MISC_QUESTIONMARK"
+/click PVPReadyDialogEnterBattleButton
+END
+VER 3 0000000000000050 "BF_Mount" "132226"
+/bfmount
+/施放 圣光道标
+/施放 圣光闪现
+END
+VER 3 0000000000000013 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000051 "BF_Pet" "236701"
+/BFPET
+END
+VER 3 0000000000000014 "BF_Pet" "achievement_worldevent_brewmaster"
+/cancelform
+/BFPET
+END
+VER 3 0000000000000052 "D " "INV_Misc_QuestionMark"
+#showtooltip 愤怒(日光)
+/cast [@target,harm,exists][@targettarget,harm,exists][@focus,harm,exists] 愤怒(日光)
+END
+VER 3 0000000000000053 "d3" "132219"
+/cast 脚踢
+/s 33333333
+END
+VER 3 0000000000000054 "daguai" "135328"
+/startattack
+/cast 嗜血
+END
+VER 3 0000000000000015 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 自然之愈;  [@mouseover,exists,mod:ctrl] 自然之愈; [@mouseover,exists,mod:shift] 自然之愈
+END
+VER 3 0000000000000055 "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 解除诅咒;  [@mouseover,exists,mod:ctrl] 变形术; [@mouseover,exists,mod:shift] 解除诅咒
+END
+VER 3 0000000000000056 "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 清毒术;  [@mouseover,exists,mod:ctrl] 清毒术; [@mouseover,exists,mod:shift] 清毒术
+END
+VER 3 000000000000001C "DS" "136120"
+/click ExtraActionButton1
+END
+VER 3 0000000000000057 "FD" "INV_Misc_QuestionMark"
+#showtooltip
+/startattack
+/cast 刀扇
+END
+VER 3 0000000000000058 "love" "644389"
+/Y 我去接BUFF，下一个是Zerodruids
+END
+VER 3 0000000000000059 "MillHelper" "INV_Misc_QuestionMark"
+#showtooltip  研磨
+/click MillHelperButton
+END
+VER 3 0000000000000036 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000025 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000026 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]悦乐疯[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000000005B "x2" "132331"
+/cast 消失
+/cast 预谋
+/cast 伏击
+END
+VER 3 000000000000005C "yyy" "INV_Misc_QuestionMark"
+#showtooltip 仇杀
+/施放 仇杀
+/施放 狂暴(种族特长)
+/use [combat] 13
+END
+VER 3 000000000000005D "zzz1" "134400"
+/cast 暗影反射
+/cast 暗影之舞
+/use 13
+/cast 伏击
+END
+VER 3 000000000000005E "zzz2" "134400"
+/cast 暗影之舞
+/cast 伏击
+END
+VER 3 000000000000005F "交易" "134123"
+/交易
+END
+VER 3 0000000000000060 "伏击" "132282"
+/cast 伏击
+/use 10
+END
+VER 3 0000000000000062 "伏击+背刺" "135781"
+/cast 预谋
+/cast [stance:1] 伏击
+/cast [stance:0] 背刺
+/cast [stance:2] 伏击
+/use [combat] 13
+/use [combat] 14
+END
+VER 3 0000000000000063 "你疯了吗？" "134400"
+/script print(GetAchievementLink(2336)); 
+END
+VER 3 000000000000001D "取消保护" "135964"
+/cancelaura 保护祝福
+END
+VER 3 0000000000000075 "取消炸弹" "136242"
+/cancelaura 魂飞魄散
+END
+VER 3 0000000000000076 "吐痰" "311430"
+/E 一口粘痰吐进了%T嘴里，%T幸福的吞了下去
+END
+VER 3 0000000000000079 "喊话" "134400"
+/script T,F=T or 0,F or CreateFrame("frame")if X then print("off") X=nil else print("on") X=function()local t=GetTime()if t-T>10 then SendChatMessage(ps,"channel",nil,4)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 0000000000000027 "回春" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [mod:alt,@focus,harm][@mouseover,exists,harm][harm]月火术;[@mouseover,exists,help][]回春术
+END
+VER 3 000000000000001E "回春术" "136081"
+#showtooltips 回春术
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 回春术
+/run SetCVar("Sound_EnableSFX","1")
+END
+VER 3 0000000000000028 "愈合" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists,help][]愈合
+END
+VER 3 0000000000000029 "愈合不变形" "INV_Misc_QuestionMark"
+#showtooltips 愈合
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 愈合
+/run SetCVar("Sound_EnableSFX","1")
+END
+VER 3 000000000000002A "成长" "INV_Misc_QuestionMark"
+#showtooltips 野性成长
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 野性成长
+/run SetCVar("Sound_EnableSFX","1")
+END
+VER 3 000000000000002B "振翅666" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 振翅
+/p 666
+END
+VER 3 000000000000002C "斜掠不出潜" "INV_Misc_QuestionMark"
+#showtooltip 斜掠
+/stopattack [stealth] 
+/cast [stance:2] 斜掠
+/stopattack [stealth]
+END
+VER 3 000000000000008E "标记1" "INV_MISC_QUESTIONMARK"
+/wm 1
+END
+VER 3 000000000000008F "标记2" "INV_MISC_QUESTIONMARK"
+/wm 2
+END
+VER 3 0000000000000090 "标记3" "INV_MISC_QUESTIONMARK"
+/wm 3
+END
+VER 3 000000000000008D "标记8" "INV_MISC_QUESTIONMARK"
+/wm 8
+END
+VER 3 0000000000000085 "树皮术" "572025"
+#showtooltips 铁木树皮
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 铁木树皮
+/run SetCVar("Sound_EnableSFX","1")
+END
+VER 3 0000000000000032 "树皮术" "136097"
+#showtooltips 树皮术
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 树皮术
+/run SetCVar("Sound_EnableSFX","1")
+END
+VER 3 000000000000002D "滋养" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [mod:alt,@focus,harm][@mouseover,exists,harm][harm]阳炎之怒;[@mouseover,exists,help][]治疗之触
+END
+VER 3 000000000000002E "潜行" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nocombat]潜行; [combat,nostance:3]猎豹形态
+END
+VER 3 000000000000002F "激活" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@player] 激活
+END
+VER 3 0000000000000023 "火箭靴" "INV_Misc_QuestionMark"
+#showtooltip 6
+/use 6
+END
+VER 3 0000000000000030 "狂暴回复" "INV_Misc_QuestionMark"
+#showtooltip 狂暴回复
+/cast [stance:1] 狂暴回复
+/cast [nostance:1] 熊形态
+END
+VER 3 0000000000000031 "猫闪猫跳" "INV_Misc_QuestionMark"
+#showtooltip [talent:2/2] 野性位移;[talent:2/3] 野性冲锋
+/cast [talent:2/2] 野性位移
+/cast [talent:2/3] 野性冲锋
+END
+VER 3 0000000000000078 "生命绽放" "134206"
+#showtooltips 生命绽放
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 生命绽放
+/run SetCVar("Sound_EnableSFX","1")
+END
+VER 3 0000000000000020 "自然之愈" "236288"
+#showtooltips 自然之愈
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 自然之愈
+/run SetCVar("Sound_EnableSFX","1")
+END
+VER 3 0000000000000034 "迅捷" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nostance:1]熊形态
+/castsequence reset=6 痛击,横扫,横扫,横扫,痛击,横扫,横扫,横扫
+/cast 狂暴回复
+/施放 乌索尔的印记
+/use 勇气号角
+/施放 沉睡者之怒(神器)
+/施放 明月普照
+/施放 树皮术
+END
+VER 3 0000000000000021 "驱散" "135952"
+#showtooltips 清除腐蚀
+/run SetCVar("Sound_EnableSFX","0") 
+/cast [target=mouseover, help] [ ] 清除腐蚀
+/run SetCVar("Sound_EnableSFX","1")
+END

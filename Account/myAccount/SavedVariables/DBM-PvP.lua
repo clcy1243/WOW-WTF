@@ -1,0 +1,223 @@
+
+DBMPvP_AllSavedVars = {
+	["龙听雨-巨龙之吼"] = {
+		["z2107"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["talent2"] = "织雾",
+		["z2106"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z727"] = {
+			{
+				["TimerCartCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerCart"] = true,
+				["TimerCartTColor"] = 0,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerCartTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerCartCVoice"] = 0,
+			}, -- [2]
+			{
+				["TimerCartCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerCart"] = true,
+				["TimerCartTColor"] = 0,
+			}, -- [3]
+		},
+		["z998"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z30"] = {
+			{
+				["Enabled"] = true,
+				["TimerCapCVoice"] = 0,
+				["TimerCapTColor"] = 0,
+				["AutoTurnIn"] = true,
+				["TimerCap"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerCapCVoice"] = 0,
+				["TimerCapTColor"] = 0,
+				["AutoTurnIn"] = true,
+				["TimerCap"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+				["TimerCapCVoice"] = 0,
+				["TimerCapTColor"] = 0,
+				["AutoTurnIn"] = true,
+				["TimerCap"] = true,
+			}, -- [3]
+		},
+		["z726"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z628"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["talent3"] = "踏风",
+		["talent1"] = "酒仙",
+		["PvPGeneral"] = {
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerRemainingTColor"] = 0,
+				["Timer110310castTColor"] = 0,
+				["ShowBasesToWin"] = false,
+				["Timer110310castCVoice"] = 0,
+				["TimerCap"] = true,
+				["TimerFlagTColor"] = 0,
+				["TimerWin"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerWinCVoice"] = 0,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerFlag"] = true,
+				["ShowEstimatedPoints"] = true,
+				["Enabled"] = true,
+				["Timer34709nextCVoice"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310cast"] = true,
+				["AutoSpirit"] = false,
+				["Timer34709next"] = true,
+			}, -- [1]
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerRemainingTColor"] = 0,
+				["AutoSpirit"] = false,
+				["ShowBasesToWin"] = false,
+				["Timer110310cast"] = true,
+				["TimerWinCVoice"] = 0,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerFlag"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerWin"] = true,
+				["Timer46392next"] = true,
+				["Enabled"] = true,
+				["HideBossEmoteFrame"] = false,
+				["Timer46392nextCVoice"] = 0,
+				["Timer34709nextCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["ShowEstimatedPoints"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer34709next"] = true,
+			}, -- [2]
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerRemainingTColor"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["TimerCap"] = true,
+				["TimerFlagTColor"] = 0,
+				["TimerWin"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerWinCVoice"] = 0,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerFlag"] = true,
+				["Enabled"] = true,
+				["Timer34709nextCVoice"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310cast"] = true,
+				["AutoSpirit"] = false,
+				["Timer34709next"] = true,
+			}, -- [3]
+		},
+		["z761"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z566"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z2245"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+	},
+}

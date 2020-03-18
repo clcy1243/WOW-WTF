@@ -2,3 +2,7 @@
 RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "cn-龙听雨-dragonmaw"
+RaiderIO_MissingCharacters = {
+	["cn-媚媚牛-eldrethalas"] = true,
+	["cn-龙听雨-dragonmaw"] = true,
+}

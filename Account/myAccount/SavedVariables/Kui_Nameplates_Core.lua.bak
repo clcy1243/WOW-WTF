@@ -1,0 +1,12 @@
+
+KuiNameplatesCoreSaved = {
+	["profiles"] = {
+		["default"] = {
+			["execute_enabled"] = false,
+			["cvar_enable"] = true,
+			["auras_show_all_self"] = true,
+			["bar_texture"] = "DGround",
+			["cvar_personal_show_combat"] = false,
+		},
+	},
+}

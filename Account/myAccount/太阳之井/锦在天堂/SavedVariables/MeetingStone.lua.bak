@@ -1,0 +1,11 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
+	},
+	["profiles"] = {
+		["锦在天堂 - 太阳之井"] = {
+			["version"] = "80300.01",
+		},
+	},
+}

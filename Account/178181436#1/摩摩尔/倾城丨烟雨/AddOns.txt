@@ -1,0 +1,6 @@
+BigWigs_Plugins: enabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+OPie_Classic: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled

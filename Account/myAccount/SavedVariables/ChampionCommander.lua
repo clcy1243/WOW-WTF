@@ -1,20 +1,18 @@
 
 dbBFA = {
 	["char"] = {
-		["锦在天堂 - 太阳之井"] = {
+		["龙若山 - 巨龙之吼"] = {
 			["firstun"] = false,
 		},
 		["Qweqeqw - 巨龙之吼"] = {
 			["firstun"] = false,
 		},
+		["锦在天堂 - 太阳之井"] = {
+			["firstun"] = false,
+		},
 		["龙听雨 - 巨龙之吼"] = {
 			["firstun"] = false,
 		},
-	},
-	["profileKeys"] = {
-		["锦在天堂 - 太阳之井"] = "Default",
-		["Qweqeqw - 巨龙之吼"] = "Default",
-		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["global"] = {
 		["warn01_seen"] = 0,
@@ -22,6 +20,12 @@ dbBFA = {
 		["news"] = {
 		},
 		["warn02_seen"] = 0,
+	},
+	["profileKeys"] = {
+		["龙若山 - 巨龙之吼"] = "Default",
+		["Qweqeqw - 巨龙之吼"] = "Default",
+		["锦在天堂 - 太阳之井"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -34,7 +38,7 @@ dbBFA = {
 				["NOBLACKLIST"] = false,
 				["MOVEPANEL"] = true,
 				["MAXIMIZEXP"] = false,
-				["USEALLY"] = false,
+				["USEALLY"] = true,
 				["SAVETROOPS"] = false,
 				["IGNOREINACTIVE"] = true,
 				["BONUS"] = false,
@@ -45,15 +49,19 @@ dbBFA = {
 				["PREFERHIGH"] = false,
 				["NOTROOPS"] = false,
 				["MAKEITQUICK"] = false,
-				["TROOPALERT"] = true,
 				["MAXCHAMP"] = 3,
+				["TROOPALERT"] = true,
 				["IGNOREBUSY"] = true,
 				["BASECHANCE"] = 0,
 			},
+			["showmenu"] = true,
 			["blacklist"] = {
 				[2084] = false,
+				[2107] = false,
+				[2095] = false,
+				[1936] = false,
+				[1922] = false,
 			},
-			["showmenu"] = true,
 		},
 	},
 }

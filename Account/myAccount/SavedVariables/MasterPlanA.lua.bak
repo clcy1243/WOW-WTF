@@ -21,11 +21,11 @@ MasterPlanAG = {
 					[737] = 1504668905,
 				},
 			},
-			["faction"] = "Horde",
-			["class"] = "DEATHKNIGHT",
-			["lastCacheTime"] = 1537952240,
-			["curRes"] = 10000,
 			["curOil"] = 430,
+			["lastCacheTime"] = 1583115622,
+			["class"] = "DEATHKNIGHT",
+			["curRes"] = 10000,
+			["faction"] = "Horde",
 		},
 	},
 	["破碎岭"] = {
@@ -35,6 +35,10 @@ MasterPlanAG = {
 		},
 	},
 	["摩摩尔"] = {
+		["倾城丨奶僧"] = {
+			["class"] = "MONK",
+			["faction"] = "Horde",
+		},
 		["地狱丨灬繁花"] = {
 			["faction"] = "Horde",
 			["class"] = "DEATHKNIGHT",
@@ -92,11 +96,39 @@ MasterPlanAG = {
 		},
 	},
 	["巨龙之吼"] = {
+		["Dsadada"] = {
+			["faction"] = "Horde",
+			["class"] = "PALADIN",
+		},
+		["Wafasdffa"] = {
+			["faction"] = "Horde",
+			["class"] = "PALADIN",
+		},
+		["Asfagagagsd"] = {
+			["faction"] = "Horde",
+			["class"] = "WARRIOR",
+		},
+		["Safafafafsaf"] = {
+			["faction"] = "Horde",
+			["class"] = "WARRIOR",
+		},
+		["龙若山"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Horde",
+		},
+		["Wetaetasgdgw"] = {
+			["class"] = "PALADIN",
+			["faction"] = "Horde",
+		},
 		["龙听雨"] = {
 			["faction"] = "Horde",
 			["class"] = "MONK",
 			["curRes"] = 1906,
 			["lastCacheTime"] = 1507398521,
+		},
+		["Adegsagsgsd"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Horde",
 		},
 		["Qweqeqw"] = {
 			["class"] = "DEATHKNIGHT",

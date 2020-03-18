@@ -1,10 +1,11 @@
-VER 3 0000000000000007 " " "INV_MISC_QUESTIONMARK"
-/tar 邪能喷涌图腾
-/cast 真气波
+VER 3 000000000000000B " " "INV_MISC_QUESTIONMARK"
+/wm 2
 END
-VER 3 0000000000000005 "1" "INV_MISC_QUESTIONMARK"
-/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
-/click DropDownList1Button1
+VER 3 000000000000000A " " "INV_MISC_QUESTIONMARK"
+/wm 1
+END
+VER 3 000000000000000C " " "INV_MISC_QUESTIONMARK"
+/wm 3
 END
 VER 3 0000000000000002 "DS" "136120"
 /click ExtraActionButton1
@@ -12,21 +13,18 @@ END
 VER 3 0000000000000003 "取消保护" "135964"
 /cancelaura 保护祝福
 END
-VER 3 0000000000000008 "找伊利丹" "INV_MISC_QUESTIONMARK"
-#showtooltip 棱柱焦镜
-/cleartarget
-/targetexact 伊利丹·怒风
-/focus
-/target 伊利丹·怒风
-/stopmacro [target=focus,noexists]
-/cast [target=focus] 棱柱焦镜
-END
-VER 3 0000000000000004 "换T" "INV_MISC_QUESTIONMARK"
-/s 换T
-END
 VER 3 0000000000000001 "虚弱宏" "INV_MISC_QUESTIONMARK"
 /run RepopMe() RetrieveCorpse() 
 /run RepopMe() AcceptResurrect() AcceptXPLoss()
+END
+VER 3 000000000000000D "进场宏" "INV_Ammo_Snowball"
+/click PVPReadyDialogEnterBattleButton 
+/tar 山德·希尔伯曼 
+/tar 加布里埃尔元帅
+END
+VER 3 000000000000000E "项链" "INV_MISC_QUESTIONMARK"
+#showtooltip 艾泽拉斯之心精华
+/cast 艾泽拉斯之心精华
 END
 VER 3 0000000000000006 "饰品1" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -35,4 +33,7 @@ END
 VER 3 0000000000000009 "饰品2" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
+END
+VER 3 0000000000000005 "骷髅光柱" "INV_MISC_BONE_HUMANSKULL_02."
+/wm 8
 END

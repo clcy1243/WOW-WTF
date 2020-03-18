@@ -1,0 +1,43 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemCategory"] = {
+		},
+		["Artifact Power Currency"] = {
+		},
+		["NewItem"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["MoneyFrame"] = {
+		},
+		["Equipment"] = {
+		},
+		["ItemSets"] = {
+		},
+		["CurrencyFrame"] = {
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
+		},
+		["军团再临"] = {
+		},
+	},
+	["profileKeys"] = {
+		["橘丶子 - 巨龙之吼"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

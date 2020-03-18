@@ -16,6 +16,7 @@ BigTipDB = {
 		},
 	},
 	["general"] = {
+		["SavedVariablesPerCharacter"] = false,
 		["statusbarFontSize"] = 10,
 		["scale"] = 1,
 		["mask"] = true,
@@ -31,6 +32,7 @@ BigTipDB = {
 		["anchor"] = {
 			["returnOnUnitFrame"] = false,
 			["position"] = "cursorRight",
+			["hiddenInCombat"] = true,
 			["cp"] = "BOTTOM",
 			["p"] = "BOTTOMRIGHT",
 			["returnInCombat"] = false,
@@ -43,21 +45,24 @@ BigTipDB = {
 		},
 		["statusbarPosition"] = "bottom",
 		["statusbarOffsetX"] = 0,
+		["statusbarHeight"] = 4,
 		["bodyFontSize"] = "default",
-		["skinMoreFrames"] = true,
+		["bodyFontFlag"] = "default",
+		["bodyFont"] = "default",
 		["borderCorner"] = "default",
+		["statusbarTexture"] = "Interface\\AddOns\\TinyTooltip\\texture\\StatusBar",
+		["alwaysShowIdInfo"] = true,
+		["headerFontSize"] = "default",
+		["skinMoreFrames"] = true,
+		["headerFontFlag"] = "default",
+		["statusbarText"] = false,
+		["statusbarColor"] = "auto",
 		["statusbarOffsetY"] = 0,
 		["statusbarFontFlag"] = "THINOUTLINE",
-		["alwaysShowIdInfo"] = true,
-		["statusbarText"] = false,
-		["statusbarHeight"] = 4,
-		["headerFontFlag"] = "default",
-		["headerFontSize"] = "default",
-		["statusbarColor"] = "auto",
-		["bodyFont"] = "default",
-		["bodyFontFlag"] = "default",
 	},
-	["version"] = 2,
+	["version"] = 2.6,
+	["variables"] = {
+	},
 	["item"] = {
 		["coloredItemBorder"] = true,
 		["showItemIcon"] = false,
@@ -205,8 +210,10 @@ BigTipDB = {
 					["wildcard"] = "<%s>",
 					["filter"] = "none",
 				},
-				["factionIcon"] = {
+				["className"] = {
 					["enable"] = true,
+					["color"] = "ffffff",
+					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
 				["name"] = {
@@ -215,10 +222,8 @@ BigTipDB = {
 					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
-				["className"] = {
+				["factionIcon"] = {
 					["enable"] = true,
-					["color"] = "ffffff",
-					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
 				["classIcon"] = {
@@ -237,6 +242,7 @@ BigTipDB = {
 			["anchor"] = {
 				["returnOnUnitFrame"] = false,
 				["position"] = "inherit",
+				["hiddenInCombat"] = false,
 				["cp"] = "BOTTOM",
 				["p"] = "BOTTOMRIGHT",
 				["returnInCombat"] = true,
@@ -244,7 +250,6 @@ BigTipDB = {
 			["grayForDead"] = false,
 		},
 		["npc"] = {
-			["coloredBorder"] = "reaction",
 			["elements"] = {
 				{
 					"raidIcon", -- [1]
@@ -328,14 +333,16 @@ BigTipDB = {
 					["filter"] = "none",
 				},
 			},
-			["showTarget"] = true,
+			["coloredBorder"] = "reaction",
 			["anchor"] = {
 				["returnOnUnitFrame"] = false,
 				["position"] = "inherit",
+				["hiddenInCombat"] = false,
 				["cp"] = "BOTTOM",
 				["p"] = "BOTTOMRIGHT",
 				["returnInCombat"] = true,
 			},
+			["showTarget"] = true,
 			["background"] = {
 				["colorfunc"] = "default",
 				["alpha"] = 0.9,

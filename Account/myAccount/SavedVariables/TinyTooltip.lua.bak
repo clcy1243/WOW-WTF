@@ -16,6 +16,7 @@ BigTipDB = {
 		},
 	},
 	["general"] = {
+		["SavedVariablesPerCharacter"] = false,
 		["statusbarFontSize"] = 10,
 		["scale"] = 1,
 		["mask"] = true,
@@ -31,6 +32,7 @@ BigTipDB = {
 		["anchor"] = {
 			["returnOnUnitFrame"] = false,
 			["position"] = "cursorRight",
+			["hiddenInCombat"] = true,
 			["cp"] = "BOTTOM",
 			["p"] = "BOTTOMRIGHT",
 			["returnInCombat"] = false,
@@ -43,21 +45,24 @@ BigTipDB = {
 		},
 		["statusbarPosition"] = "bottom",
 		["statusbarOffsetX"] = 0,
-		["bodyFontSize"] = "default",
-		["statusbarHeight"] = 4,
-		["bodyFontFlag"] = "default",
-		["statusbarOffsetY"] = 0,
-		["bodyFont"] = "default",
-		["alwaysShowIdInfo"] = true,
-		["headerFontSize"] = "default",
 		["skinMoreFrames"] = true,
-		["headerFontFlag"] = "default",
-		["statusbarText"] = false,
-		["statusbarColor"] = "auto",
+		["bodyFontSize"] = "default",
 		["statusbarFontFlag"] = "THINOUTLINE",
 		["borderCorner"] = "default",
+		["statusbarOffsetY"] = 0,
+		["statusbarColor"] = "auto",
+		["statusbarText"] = false,
+		["headerFontSize"] = "default",
+		["statusbarHeight"] = 4,
+		["headerFontFlag"] = "default",
+		["alwaysShowIdInfo"] = true,
+		["statusbarTexture"] = "Interface\\AddOns\\TinyTooltip\\texture\\StatusBar",
+		["bodyFont"] = "default",
+		["bodyFontFlag"] = "default",
 	},
-	["version"] = 2,
+	["version"] = 2.6,
+	["variables"] = {
+	},
 	["item"] = {
 		["coloredItemBorder"] = true,
 		["showItemIcon"] = false,
@@ -205,10 +210,8 @@ BigTipDB = {
 					["wildcard"] = "<%s>",
 					["filter"] = "none",
 				},
-				["className"] = {
+				["factionIcon"] = {
 					["enable"] = true,
-					["color"] = "ffffff",
-					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
 				["name"] = {
@@ -217,8 +220,10 @@ BigTipDB = {
 					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
-				["factionIcon"] = {
+				["className"] = {
 					["enable"] = true,
+					["color"] = "ffffff",
+					["wildcard"] = "%s",
 					["filter"] = "none",
 				},
 				["classIcon"] = {
@@ -237,6 +242,7 @@ BigTipDB = {
 			["anchor"] = {
 				["returnOnUnitFrame"] = false,
 				["position"] = "inherit",
+				["hiddenInCombat"] = false,
 				["cp"] = "BOTTOM",
 				["p"] = "BOTTOMRIGHT",
 				["returnInCombat"] = true,
@@ -244,6 +250,7 @@ BigTipDB = {
 			["grayForDead"] = false,
 		},
 		["npc"] = {
+			["coloredBorder"] = "reaction",
 			["elements"] = {
 				{
 					"raidIcon", -- [1]
@@ -327,15 +334,15 @@ BigTipDB = {
 					["filter"] = "none",
 				},
 			},
-			["coloredBorder"] = "reaction",
+			["showTarget"] = true,
 			["anchor"] = {
 				["returnOnUnitFrame"] = false,
 				["position"] = "inherit",
+				["hiddenInCombat"] = false,
 				["cp"] = "BOTTOM",
 				["p"] = "BOTTOMRIGHT",
 				["returnInCombat"] = true,
 			},
-			["showTarget"] = true,
 			["background"] = {
 				["colorfunc"] = "default",
 				["alpha"] = 0.9,

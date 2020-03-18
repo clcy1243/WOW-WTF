@@ -1,53 +1,53 @@
 
 DBM_SpellTimers_Settings = {
 	["enabled"] = false,
-	["active_in_pvp"] = true,
-	["showlocal"] = true,
+	["active_in_pvp"] = false,
+	["showlocal"] = false,
 	["spells"] = {
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 48792,
 			["cooldown"] = 8,
 			["bartext"] = "冰封之韧 on %player",
 		}, -- [1]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 61336,
 			["cooldown"] = 6,
 			["bartext"] = "生存本能 on %player",
 		}, -- [2]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 6940,
 			["cooldown"] = 12,
 			["bartext"] = "牺牲祝福 on %target",
 		}, -- [3]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 498,
 			["cooldown"] = 8,
 			["bartext"] = "圣佑术 on %player",
 		}, -- [4]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 31850,
 			["cooldown"] = 10,
 			["bartext"] = "炽热防御者 on %player",
 		}, -- [5]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 86659,
 			["cooldown"] = 8,
 			["bartext"] = "远古列王守卫 on %player",
 		}, -- [6]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 31821,
 			["cooldown"] = 180,
 			["bartext"] = "光环掌握: %player",
 		}, -- [7]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 6346,
 			["cooldown"] = 180,
 			["bartext"] = "",
@@ -65,73 +65,73 @@ DBM_SpellTimers_Settings = {
 			["bartext"] = "痛苦压制 on %target",
 		}, -- [10]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 47788,
 			["cooldown"] = 10,
 			["bartext"] = "守护之魂 on %target",
 		}, -- [11]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 62618,
 			["cooldown"] = 180,
 			["bartext"] = "真言术：障: %player",
 		}, -- [12]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 98008,
 			["cooldown"] = 180,
 			["bartext"] = "灵魂链接图腾: %player",
 		}, -- [13]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 20608,
 			["cooldown"] = 1800,
 			["bartext"] = "复生: %player",
 		}, -- [14]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 871,
 			["cooldown"] = 8,
 			["bartext"] = "盾墙 on %player",
 		}, -- [15]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 12975,
 			["cooldown"] = 15,
 			["bartext"] = "破釜沉舟 on %player",
 		}, -- [16]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 97462,
 			["cooldown"] = 180,
 			["bartext"] = "命令怒吼: %player",
 		}, -- [17]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 22700,
 			["cooldown"] = 600,
 			["bartext"] = "修理机器人74A型: %player",
 		}, -- [18]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 44389,
 			["cooldown"] = 600,
 			["bartext"] = "战地修理机器人110G: %player",
 		}, -- [19]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 54711,
 			["cooldown"] = 300,
 			["bartext"] = "废物贩卖机器人: %player",
 		}, -- [20]
 		{
-			["enabled"] = true,
+			["enabled"] = false,
 			["spell"] = 67826,
 			["cooldown"] = 600,
 			["bartext"] = "基维斯: %player",
 		}, -- [21]
 	},
-	["only_from_raid"] = true,
+	["only_from_raid"] = false,
 	["own_bargroup"] = false,
 	["portal_alliance"] = {
 		{
@@ -190,7 +190,7 @@ DBM_SpellTimers_Settings = {
 			["bartext"] = "%spell: %player",
 		}, -- [11]
 	},
-	["show_portal"] = true,
+	["show_portal"] = false,
 	["portal_horde"] = {
 		{
 			["spell"] = 11417,

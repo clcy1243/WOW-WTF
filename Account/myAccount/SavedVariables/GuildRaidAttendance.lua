@@ -1,6 +1,8 @@
 
 GRA_A_RaidLogs = {
 }
+GRA_A_Archived = {
+}
 GRA_A_Roster = {
 }
 GRA_A_Config = {
@@ -14,4 +16,5 @@ GRA_A_Variables = {
 		["minimapPos"] = 305.777552442574,
 		["hide"] = false,
 	},
+	["whatsNewViewed"] = "r91-release",
 }

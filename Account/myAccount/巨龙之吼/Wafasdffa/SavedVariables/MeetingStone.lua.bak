@@ -1,0 +1,11 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["Wafasdffa - 巨龙之吼"] = "Wafasdffa - 巨龙之吼",
+	},
+	["profiles"] = {
+		["Wafasdffa - 巨龙之吼"] = {
+			["version"] = "80300.01",
+		},
+	},
+}

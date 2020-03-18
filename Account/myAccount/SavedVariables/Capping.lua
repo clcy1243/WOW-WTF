@@ -1,15 +1,23 @@
 
 CappingSettings = {
 	["profileKeys"] = {
+		["Safafafafsaf - 巨龙之吼"] = "Default",
+		["Asfagagagsd - 巨龙之吼"] = "Default",
+		["Adegsagsgsd - 巨龙之吼"] = "Default",
+		["Dsadada - 巨龙之吼"] = "Default",
+		["龙若山 - 巨龙之吼"] = "Default",
+		["锦在天堂 - 太阳之井"] = "Default",
 		["龙听雨 - 巨龙之吼"] = "Default",
+		["倾城丨奶僧 - 摩摩尔"] = "Default",
+		["Wafasdffa - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["position"] = {
 				"TOP", -- [1]
 				"TOP", -- [2]
-				-356.399078369141, -- [3]
-				-25.4999103546143, -- [4]
+				-379.9999694824219, -- [3]
+				-18.59992790222168, -- [4]
 			},
 		},
 	},

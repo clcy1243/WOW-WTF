@@ -1,0 +1,11 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["倾城丨猫爷 - 太阳之井"] = "倾城丨猫爷 - 太阳之井",
+	},
+	["profiles"] = {
+		["倾城丨猫爷 - 太阳之井"] = {
+			["version"] = "80300.01",
+		},
+	},
+}
