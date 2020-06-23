@@ -7,8 +7,9 @@ WQTrackerDB = {
 		["龙博宇 - 主宰之剑"] = "Default",
 		["龙轻雪 - 主宰之剑"] = "Default",
 		["龙馨夜 - 主宰之剑"] = "Default",
-		["倾城丨猫爷 - 太阳之井"] = "Default",
 		["龙剑曦 - 主宰之剑"] = "Default",
+		["倾城丨猫爷 - 太阳之井"] = "Default",
+		["Jyfhfkf - 死亡之翼"] = "Default",
 		["倾城丨烟雨 - 摩摩尔"] = "Default",
 	},
 	["profiles"] = {
@@ -30,21 +31,21 @@ WQTrackerDB = {
 					["卡扎杜姆"] = 125824,
 					["牧羊人卡沃斯"] = 126852,
 					["监视者伊索纳"] = 125497,
-					["指挥官萨森纳尔"] = 122912,
+					["萨卡尔中尉"] = 126254,
 					["先知雷兹拉"] = 127706,
 					["疱喉"] = 122958,
-					["监视者伊比达"] = 124440,
-					["萨卡尔中尉"] = 126254,
-					["背弃者瓦加斯"] = 125388,
 					["加尔佐斯"] = 122999,
+					["指挥官萨森纳尔"] = 122912,
 					["暗影法师沃伦"] = 122838,
-					["妖女伊森黛拉"] = 122947,
-					["普希拉"] = 126040,
 					["雷尔瓦将军"] = 127090,
+					["妖女伊森黛拉"] = 122947,
+					["背弃者瓦加斯"] = 125388,
+					["普希拉"] = 126040,
+					["监视者伊比达"] = 124440,
 					["驯犬大师克拉克斯"] = 127288,
 					["弗拉克苏尔"] = 126199,
-					["焦油喷吐者"] = 125479,
 					["纳罗瓦"] = 126419,
+					["焦油喷吐者"] = 125479,
 					["法鲁克队长"] = 126869,
 				},
 				["search_group"] = false,
@@ -194,7 +195,7 @@ WQTrackerDB = {
 						0.854, -- [4]
 					},
 				},
-				[863] = {
+				[862] = {
 					["Enabled"] = true,
 					["YOffset"] = 0,
 					["Alpha"] = 1,
@@ -230,7 +231,7 @@ WQTrackerDB = {
 						0.854, -- [4]
 					},
 				},
-				[1165] = {
+				[863] = {
 					["Enabled"] = true,
 					["YOffset"] = 0,
 					["Alpha"] = 1,
@@ -242,7 +243,7 @@ WQTrackerDB = {
 						0.854, -- [4]
 					},
 				},
-				[862] = {
+				[1165] = {
 					["Enabled"] = true,
 					["YOffset"] = 0,
 					["Alpha"] = 1,
@@ -307,25 +308,12 @@ WQTrackerDB = {
 				["Player-1955-020B1C15"] = {
 				},
 				["Player-1955-01B843ED"] = {
-					{
-						["mapID"] = 630,
-						["index"] = 0,
-						["timeFraction"] = 386074.523,
-						["questID"] = 45069,
-						["mapIDSynthetic"] = 0,
-						["questType"] = 2,
-						["expireAt"] = 1583341308,
-						["timeAdded"] = 1583240088,
-						["rewardTexture"] = 1397630,
-						["numObjectives"] = 1,
-						["rewardAmount"] = 355,
-						["timeLeft"] = 1687,
-						["LastDistance"] = 0.8758878128553585,
-					}, -- [1]
 				},
 				["Player-1955-01C5F28F"] = {
 				},
 				["Player-1955-020B10D8"] = {
+				},
+				["Player-741-0533F1BF"] = {
 				},
 				["Player-708-028E46D1"] = {
 				},
@@ -340,138 +328,148 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-1955-020B20FC"] = {
-					[55340] = {
-						["expireAt"] = 1583881258,
-						["rewardAmount"] = 174,
+					[52159] = {
+						["expireAt"] = 1587855635,
+						["rewardAmount"] = 171,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[53773] = {
-						["expireAt"] = 1583881258,
-						["rewardAmount"] = 330,
+					[52935] = {
+						["expireAt"] = 1587855635,
+						["rewardAmount"] = "|cff2292FF420",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[52316] = {
+						["expireAt"] = 1587855695,
+						["rewardAmount"] = "19",
+						["rewardTexture"] = 133675,
+					},
+					[50861] = {
+						["expireAt"] = 1587855636,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
+					},
+					[52878] = {
+						["expireAt"] = 1587855696,
+						["rewardAmount"] = "15",
+						["rewardTexture"] = 133675,
+					},
+					[54243] = {
+						["expireAt"] = 1587855635,
+						["rewardAmount"] = 253,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[52452] = {
-						["expireAt"] = 1583924458,
+					[54060] = {
+						["expireAt"] = 1587855636,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 237368,
+					},
+					[51891] = {
+						["expireAt"] = 1587898835,
+						["rewardAmount"] = 189,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[52047] = {
+						["expireAt"] = 1587898895,
+						["rewardAmount"] = "|cff2292FF420",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[51185] = {
+						["expireAt"] = 1587855696,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = 2201832,
+					},
+					[52297] = {
+						["expireAt"] = 1587898895,
+						["rewardAmount"] = "17",
+						["rewardTexture"] = 2004597,
+					},
+					[51119] = {
+						["expireAt"] = 1587898836,
+						["rewardAmount"] = "|cff2292FF410",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[56393] = {
+						["expireAt"] = 1587855665,
+						["rewardAmount"] = "17",
+						["rewardTexture"] = 2004597,
+					},
+					[50936] = {
+						["expireAt"] = 1587898836,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
+					},
+					[51681] = {
+						["expireAt"] = 1587884435,
 						["rewardAmount"] = 161,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[53025] = {
-						["expireAt"] = 1583924458,
-						["rewardAmount"] = 191,
+					[51527] = {
+						["expireAt"] = 1587898835,
+						["rewardAmount"] = 197,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[51972] = {
-						["expireAt"] = 1583881258,
-						["rewardAmount"] = "|cff2292FF410",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
-					},
-					[51581] = {
-						["expireAt"] = 1583881258,
-						["rewardAmount"] = 240,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[52316] = {
-						["expireAt"] = 1583881258,
-						["rewardAmount"] = "4",
-						["rewardTexture"] = 1045114,
-					},
-					[51686] = {
-						["expireAt"] = 1583881258,
-						["rewardAmount"] = "|cff2292FF415",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
-					},
-					[51693] = {
-						["expireAt"] = 1583910058,
+					[51156] = {
+						["expireAt"] = 1587855636,
 						["rewardAmount"] = "|cff2292FF415",
 						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
 					},
-					[52471] = {
-						["expireAt"] = 1583924458,
-						["rewardAmount"] = "16",
-						["rewardTexture"] = 2004597,
+					[50874] = {
+						["expireAt"] = 1587898836,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
 					},
-					[50792] = {
-						["expireAt"] = 1583881258,
-						["rewardAmount"] = "|cff2292FF410",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					[51406] = {
+						["expireAt"] = 1587884435,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
 					},
-					[51615] = {
-						["expireAt"] = 1583881258,
-						["rewardAmount"] = 272,
+					[52295] = {
+						["expireAt"] = 1587942096,
+						["rewardAmount"] = "|cffc557FF430",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[51687] = {
+						["expireAt"] = 1587855635,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[55304] = {
+						["expireAt"] = 1587855695,
+						["rewardAmount"] = 195,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51782] = {
+						["expireAt"] = 1587855635,
+						["rewardAmount"] = 192,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[55215] = {
+						["expireAt"] = 1587855695,
+						["rewardAmount"] = "|cff2292FF410",
+						["rewardTexture"] = 2565093,
+					},
+					[52869] = {
+						["expireAt"] = 1587855695,
+						["rewardAmount"] = 252,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51661] = {
+						["expireAt"] = 1587855635,
+						["rewardAmount"] = 188,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50776] = {
+						["expireAt"] = 1587913235,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[51415] = {
+						["expireAt"] = 1587855696,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = 2201832,
 					},
 				},
 				["Player-1955-01B843ED"] = {
-					[42239] = {
-						["expireAt"] = 1583449250,
-						["rewardAmount"] = "|cffc557FF182",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
-					},
-					[48637] = {
-						["expireAt"] = 1583319648,
-						["rewardAmount"] = "2",
-						["rewardTexture"] = 1686582,
-					},
-					[48323] = {
-						["expireAt"] = 1583362908,
-						["rewardAmount"] = "10",
-						["rewardTexture"] = 1686582,
-					},
-					[46066] = {
-						["expireAt"] = 1583293730,
-						["rewardAmount"] = "|cffc557FF182",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
-					},
-					[42062] = {
-						["expireAt"] = 1583362905,
-						["rewardAmount"] = "16",
-						["rewardTexture"] = 413584,
-					},
-					[44290] = {
-						["expireAt"] = 1583298110,
-						["rewardAmount"] = "|cffc557FF182",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
-					},
-					[41207] = {
-						["expireAt"] = 1583319650,
-						["rewardAmount"] = "3",
-						["rewardTexture"] = 1417744,
-					},
-					[44291] = {
-						["expireAt"] = 1583319710,
-						["rewardAmount"] = "2",
-						["rewardTexture"] = 1417744,
-					},
-					[43798] = {
-						["expireAt"] = 1583967710,
-						["rewardAmount"] = "|cff2292FF110",
-						["rewardTexture"] = 537022,
-					},
-					[43513] = {
-						["expireAt"] = 1583362850,
-						["rewardAmount"] = "110",
-						["rewardTexture"] = 840008,
-					},
-					[41660] = {
-						["expireAt"] = 1583298050,
-						["rewardAmount"] = "2",
-						["rewardTexture"] = 1417744,
-					},
-					[43753] = {
-						["expireAt"] = 1583406087,
-						["rewardAmount"] = "|cffc557FF182",
-						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
-					},
-					[48959] = {
-						["expireAt"] = 1583362852,
-						["rewardAmount"] = "|cffc557FF182",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Helmet_29",
-					},
-					[49057] = {
-						["expireAt"] = 1583362848,
-						["rewardAmount"] = "1",
-						["rewardTexture"] = 667492,
-					},
 				},
 				["Player-1955-01C5F28F"] = {
 					[43709] = {
@@ -489,10 +487,10 @@ WQTrackerDB = {
 						["rewardAmount"] = "|cffc557FF182",
 						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
 					},
-					[46112] = {
-						["expireAt"] = 1583276441,
-						["rewardAmount"] = "16",
-						["rewardTexture"] = 133675,
+					[41327] = {
+						["expireAt"] = 1583233301,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
 					},
 					[46066] = {
 						["expireAt"] = 1583293721,
@@ -504,15 +502,15 @@ WQTrackerDB = {
 						["rewardAmount"] = "110",
 						["rewardTexture"] = 840008,
 					},
-					[41327] = {
-						["expireAt"] = 1583233301,
-						["rewardAmount"] = "3",
-						["rewardTexture"] = 1417744,
-					},
-					[44815] = {
+					[46112] = {
 						["expireAt"] = 1583276441,
-						["rewardAmount"] = "|cffc557FF176",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+						["rewardAmount"] = "16",
+						["rewardTexture"] = 133675,
+					},
+					[42190] = {
+						["expireAt"] = 1583276501,
+						["rewardAmount"] = "15",
+						["rewardTexture"] = 413584,
 					},
 					[46195] = {
 						["expireAt"] = 1583229641,
@@ -539,20 +537,20 @@ WQTrackerDB = {
 						["rewardAmount"] = "|cffc557FF182",
 						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
 					},
-					[43753] = {
-						["expireAt"] = 1583406101,
-						["rewardAmount"] = "|cffc557FF182",
-						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
-					},
-					[42190] = {
-						["expireAt"] = 1583276501,
-						["rewardAmount"] = "15",
-						["rewardTexture"] = 413584,
-					},
 					[43738] = {
 						["expireAt"] = 1583254841,
 						["rewardAmount"] = "2",
 						["rewardTexture"] = 1417744,
+					},
+					[44815] = {
+						["expireAt"] = 1583276441,
+						["rewardAmount"] = "|cffc557FF176",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[43753] = {
+						["expireAt"] = 1583406101,
+						["rewardAmount"] = "|cffc557FF182",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
 					},
 				},
 			},
@@ -576,6 +574,11 @@ WQTrackerDB = {
 					["class"] = "PALADIN",
 					["name"] = "龙曦君",
 					["realm"] = "主宰之剑",
+				},
+				["Player-741-0533F1BF"] = {
+					["class"] = "WARRIOR",
+					["name"] = "Jyfhfkf",
+					["realm"] = "死亡之翼",
 				},
 				["Player-708-028E46D1"] = {
 					["class"] = "DRUID",

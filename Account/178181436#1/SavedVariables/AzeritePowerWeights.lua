@@ -4,8 +4,8 @@ AzeritePowerWeightsDB = {
 	},
 	["dbVersion"] = 3,
 	["char"] = {
-		["摩摩尔"] = {
-			["倾城丨烟雨"] = {
+		["主宰之剑"] = {
+			["龙轻雪"] = {
 				["specScales"] = {
 					[103] = {
 						["scaleName"] = "Default",
@@ -36,6 +36,38 @@ AzeritePowerWeightsDB = {
 				},
 				["rolePowers"] = true,
 				["defensivePowers"] = true,
+				["onlyOwnClassDefaults"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["onlyOwnClassCustoms"] = false,
+				["professionPowers"] = false,
+				["outlineScores"] = true,
+				["showOnlyUpgrades"] = false,
+				["debug"] = false,
+				["preferBiSMarjor"] = true,
+			},
+			["龙剑曦"] = {
+				["specScales"] = {
+					[577] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/12/1/Default",
+					},
+					[581] = {
+						["scaleName"] = "Defensive",
+						["scaleID"] = "D/12/2/Defensive",
+					},
+				},
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
+				["zonePowers"] = true,
+				["pvpPowers"] = false,
+				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
 				["preferBiSMarjor"] = true,
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassCustoms"] = false,
@@ -46,20 +78,24 @@ AzeritePowerWeightsDB = {
 				["onlyOwnClassDefaults"] = true,
 			},
 		},
-		["太阳之井"] = {
-			["倾城丨猫爷"] = {
+		["摩摩尔"] = {
+			["倾城丨烟雨"] = {
 				["specScales"] = {
-					[70] = {
+					[103] = {
 						["scaleName"] = "Default",
-						["scaleID"] = "D/2/3/Default",
+						["scaleID"] = "D/11/2/Default",
 					},
-					[65] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/2/1/Default",
-					},
-					[66] = {
+					[104] = {
 						["scaleName"] = "Defensive",
-						["scaleID"] = "D/2/2/Defensive",
+						["scaleID"] = "D/11/3/Defensive",
+					},
+					[102] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/11/1/Default",
+					},
+					[105] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/11/4/Default",
 					},
 				},
 				["addPrimaryStatToScore"] = false,
@@ -112,34 +148,70 @@ AzeritePowerWeightsDB = {
 				},
 				["rolePowers"] = true,
 				["defensivePowers"] = true,
-				["onlyOwnClassCustoms"] = false,
+				["preferBiSMarjor"] = true,
 				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassDefaults"] = true,
-				["professionPowers"] = false,
+				["onlyOwnClassCustoms"] = false,
+				["debug"] = false,
 				["outlineScores"] = true,
+				["showOnlyUpgrades"] = false,
+				["professionPowers"] = false,
+				["onlyOwnClassDefaults"] = true,
+			},
+		},
+		["死亡之翼"] = {
+			["Jyfhfkf"] = {
+				["specScales"] = {
+					[73] = {
+						["scaleName"] = "Defensive",
+						["scaleID"] = "D/1/3/Defensive",
+					},
+					[71] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/1/1/Default",
+					},
+					[72] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/1/2/Default",
+					},
+				},
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
+				["zonePowers"] = true,
+				["pvpPowers"] = false,
+				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["onlyOwnClassDefaults"] = true,
+				["onlyOwnClassCustoms"] = false,
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
+				["enableTraits"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["enableEssences"] = true,
+				["outlineScores"] = true,
+				["professionPowers"] = false,
 				["showOnlyUpgrades"] = false,
 				["debug"] = false,
 				["preferBiSMarjor"] = true,
 			},
 		},
-		["主宰之剑"] = {
-			["龙轻雪"] = {
+		["太阳之井"] = {
+			["倾城丨猫爷"] = {
 				["specScales"] = {
-					[103] = {
+					[70] = {
 						["scaleName"] = "Default",
-						["scaleID"] = "D/11/2/Default",
+						["scaleID"] = "D/2/3/Default",
 					},
-					[104] = {
+					[65] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/2/1/Default",
+					},
+					[66] = {
 						["scaleName"] = "Defensive",
-						["scaleID"] = "D/11/3/Defensive",
-					},
-					[102] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/11/1/Default",
-					},
-					[105] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/11/4/Default",
+						["scaleID"] = "D/2/2/Defensive",
 					},
 				},
 				["addPrimaryStatToScore"] = false,
@@ -156,44 +228,12 @@ AzeritePowerWeightsDB = {
 				["defensivePowers"] = true,
 				["preferBiSMarjor"] = true,
 				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassCustoms"] = false,
+				["onlyOwnClassDefaults"] = true,
 				["debug"] = false,
 				["outlineScores"] = true,
 				["showOnlyUpgrades"] = false,
 				["professionPowers"] = false,
-				["onlyOwnClassDefaults"] = true,
-			},
-			["龙剑曦"] = {
-				["specScales"] = {
-					[577] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/12/1/Default",
-					},
-					[581] = {
-						["scaleName"] = "Defensive",
-						["scaleID"] = "D/12/2/Defensive",
-					},
-				},
-				["addPrimaryStatToScore"] = false,
-				["showTooltipLegend"] = true,
-				["zonePowers"] = true,
-				["pvpPowers"] = false,
-				["addILvlToScore"] = false,
-				["relativeScore"] = false,
-				["rolePowersNoOffRolePowers"] = false,
-				["importingCanUpdate"] = true,
-				["tooltipScales"] = {
-				},
-				["rolePowers"] = true,
-				["defensivePowers"] = true,
 				["onlyOwnClassCustoms"] = false,
-				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassDefaults"] = true,
-				["professionPowers"] = false,
-				["outlineScores"] = true,
-				["showOnlyUpgrades"] = false,
-				["debug"] = false,
-				["preferBiSMarjor"] = true,
 			},
 		},
 	},

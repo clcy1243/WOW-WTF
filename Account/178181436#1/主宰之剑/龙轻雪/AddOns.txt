@@ -75,3 +75,15 @@ AdvancedInterfaceOptions: enabled
 AngryKeystones: enabled
 ChampionCommander: disabled
 LibInit: enabled
+WeakAuras: enabled
+LibCompress: enabled
+LibButtonGlow-1.0: enabled
+LibSpellRange-1.0: enabled
+LibRangeCheck-2.0: enabled
+LibDBIcon-1.0: enabled
+LibClassicDurations: enabled
+LibClassicCasterino: enabled
+LibGetFrame-1.0: enabled
+WeakAurasModelPaths: enabled
+WeakAurasOptions: enabled
+WeakAurasTemplates: enabled

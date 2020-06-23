@@ -1,8 +1,5 @@
 
 AdiBagsDB = {
-	["profileKeys"] = {
-		["橘丶子 - 巨龙之吼"] = "Default",
-	},
 	["namespaces"] = {
 		["ItemLevel"] = {
 		},
@@ -25,16 +22,19 @@ AdiBagsDB = {
 		},
 		["Equipment"] = {
 		},
-		["DataSource"] = {
+		["ItemSets"] = {
 		},
 		["CurrencyFrame"] = {
 		},
-		["ItemSets"] = {
+		["DataSource"] = {
 		},
 		["Junk"] = {
 		},
 		["军团再临"] = {
 		},
+	},
+	["profileKeys"] = {
+		["橘丶子 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

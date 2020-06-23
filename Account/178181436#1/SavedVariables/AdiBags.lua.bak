@@ -54,6 +54,10 @@ AdiBagsDB = {
 			["virtualStacks"] = {
 				["freeSpace"] = false,
 			},
+			["columnWidth"] = {
+				["Bank"] = 10,
+				["Backpack"] = 13,
+			},
 		},
 	},
 }

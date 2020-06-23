@@ -1,6 +1,12 @@
 
 FeralDotDamageDB = {
+	["AleaGUI_enablePerSpecProfile"] = false,
 	["profileKeys"] = {
+		["星界旅行者 - 巨龙之吼"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
 		["龙听雨 - 主宰之剑"] = {
 			"Default", -- [1]
 			"Default", -- [2]
@@ -11,42 +17,17 @@ FeralDotDamageDB = {
 			"Default", -- [2]
 			"Default", -- [3]
 		},
+		["募落葒顔 - 巨龙之吼"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
 		["Asfagagagsd - 巨龙之吼"] = {
 			"Default", -- [1]
 			"Default", -- [2]
 			"Default", -- [3]
 		},
 		["Adegsagsgsd - 巨龙之吼"] = {
-			"Default", -- [1]
-			"Default", -- [2]
-			"Default", -- [3]
-		},
-		["龙若山 - 巨龙之吼"] = {
-			"Default", -- [1]
-			"Default", -- [2]
-			"Default", -- [3]
-		},
-		["Dsadada - 巨龙之吼"] = {
-			"Default", -- [1]
-			"Default", -- [2]
-			"Default", -- [3]
-		},
-		["倾城丨奶僧 - 摩摩尔"] = {
-			"Default", -- [1]
-			"Default", -- [2]
-			"Default", -- [3]
-		},
-		["龙听雨 - 巨龙之吼"] = {
-			"Default", -- [1]
-			"Default", -- [2]
-			"Default", -- [3]
-		},
-		["锦在天堂 - 太阳之井"] = {
-			"Default", -- [1]
-			"Default", -- [2]
-			"Default", -- [3]
-		},
-		["Qweqeqw - 巨龙之吼"] = {
 			"Default", -- [1]
 			"Default", -- [2]
 			"Default", -- [3]
@@ -56,20 +37,53 @@ FeralDotDamageDB = {
 			"Default", -- [2]
 			"Default", -- [3]
 		},
+		["Dsadada - 巨龙之吼"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
+		["Qweqeqw - 巨龙之吼"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
+		["锦在天堂 - 太阳之井"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
+		["龙听雨 - 巨龙之吼"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
+		["倾城丨奶僧 - 摩摩尔"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
+		["龙若山 - 巨龙之吼"] = {
+			"Default", -- [1]
+			"Default", -- [2]
+			"Default", -- [3]
+		},
 	},
-	["AleaGUI_enablePerSpecProfile"] = false,
 	["profiles"] = {
+		["星界旅行者 - 巨龙之吼"] = {
+		},
 		["龙听雨 - 主宰之剑"] = {
 		},
 		["Safafafafsaf - 巨龙之吼"] = {
 		},
-		["龙若山 - 巨龙之吼"] = {
+		["Wafasdffa - 巨龙之吼"] = {
+		},
+		["募落葒顔 - 巨龙之吼"] = {
 		},
 		["Asfagagagsd - 巨龙之吼"] = {
 		},
 		["Adegsagsgsd - 巨龙之吼"] = {
 		},
-		["Qweqeqw - 巨龙之吼"] = {
+		["倾城丨奶僧 - 摩摩尔"] = {
 		},
 		["Default"] = {
 			["anonse"] = {
@@ -128,15 +142,15 @@ FeralDotDamageDB = {
 				["hide"] = false,
 			},
 		},
-		["龙听雨 - 巨龙之吼"] = {
+		["Dsadada - 巨龙之吼"] = {
 		},
 		["锦在天堂 - 太阳之井"] = {
 		},
-		["Dsadada - 巨龙之吼"] = {
+		["龙听雨 - 巨龙之吼"] = {
 		},
-		["倾城丨奶僧 - 摩摩尔"] = {
+		["Qweqeqw - 巨龙之吼"] = {
 		},
-		["Wafasdffa - 巨龙之吼"] = {
+		["龙若山 - 巨龙之吼"] = {
 		},
 	},
 }

@@ -1,0 +1,90 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0325,
+	["LastPlayerFullName"] = "募落葒顔-巨龙之吼",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 122250,
+			["Level"] = 16,
+			["Link"] = "|cff00ccff|Hitem:122250::::::::12:258::::::|h[破烂的鬼雾面罩]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 153130,
+			["Level"] = 16,
+			["Link"] = "|cff00ccff|Hitem:153130::::::::12:258::::::|h[堕落者的训练护符]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 122378,
+			["Level"] = 16,
+			["Link"] = "|cff00ccff|Hitem:122378::::::::12:258::::::|h[精致的碎裂先知衬肩]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 23367,
+			["Level"] = 9,
+			["Link"] = "|cffffffff|Hitem:23367::::::::10:258:512:11:1:3800:9:::|h[轻丝长袍]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 20998,
+			["Level"] = 5,
+			["Link"] = "|cffffffff|Hitem:20998::::::::4:256::11::::|h[浮龙腰带]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 122256,
+			["Level"] = 16,
+			["Link"] = "|cff00ccff|Hitem:122256::::::::12:258::::::|h[破烂的鬼雾护腿]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 51,
+			["Level"] = 1,
+			["Link"] = "|cffffffff|Hitem:51::::::::1:256::::::|h[见习牧师之靴]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 20992,
+			["Level"] = 5,
+			["Link"] = "|cffffffff|Hitem:20992::::::::4:256::11::::|h[旭日护腕]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 20995,
+			["Level"] = 5,
+			["Link"] = "|cffffffff|Hitem:20995::::::::7:256::11::::|h[护井者手套]|h|r",
+		}, -- [10]
+		nil, -- [11]
+		nil, -- [12]
+		{
+			["ID"] = 122361,
+			["Level"] = 16,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122361::::::::12:258::::::|h[迅捷的正义之手]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 122362,
+			["Level"] = 16,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff00ccff|Hitem:122362::::::::12:258:::1:582:::|h[敏锐的比斯巨兽之眼]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 122262,
+			["Level"] = 16,
+			["Link"] = "|cff00ccff|Hitem:122262::::::::12:258:::1:582:::|h[上古血月披风]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 122367,
+			["Level"] = 16,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cff00ccff|Hitem:122367::::::::12:258::::::|h[神圣的恩赐之锤]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 122390,
+			["Level"] = 16,
+			["Link"] = "|cff00ccff|Hitem:122390::::::::12:258::::::|h[发霉的失落之书]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PRIEST",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

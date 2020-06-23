@@ -2,14 +2,6 @@ VER 3 0100000000000014 "123" "136048"
 #showtooltip
 /castsequence reset=9 阳炎之怒,明月打击,星涌术
 END
-VER 3 0100000000000020 "DB_bear2" "INV_Misc_QuestionMark"
-#showtooltip
-/click DB_bear2
-END
-VER 3 0100000000000021 "DB_druid_bala_st" "INV_Misc_QuestionMark"
-#showtooltip
-/click DB_druid_bala_st
-END
 VER 3 0100000000000013 "o" "135730"
 #showtooltip
 /castsequence reset=9 阳炎之怒,明月打击
@@ -27,22 +19,9 @@ VER 3 0100000000000015 "回春" "INV_MISC_QUESTIONMARK"
 #showtooltips
 /cast [@mouseover] 回春术
 END
-VER 3 010000000000001C "开怪" "457636"
-/PS PULL 10
-END
-VER 3 010000000000001D "开怪倒数" "413590"
-/dbm pull 5
-END
-VER 3 010000000000001E "开怪宏" "134400"
-/pull 10
-END
 VER 3 0100000000000016 "愈合" "INV_MISC_QUESTIONMARK"
 #showtooltips
 /cast [@mouseover] 愈合
-END
-VER 3 010000000000001F "标记宏" "134400"
-/script SetRaidTarget("mouseover",2)
-/click ExtraActionButton1
 END
 VER 3 010000000000001B "树皮" "INV_MISC_QUESTIONMARK"
 #showtooltips

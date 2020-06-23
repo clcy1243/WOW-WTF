@@ -12,7 +12,7 @@ AdvancedInterfaceOptions: enabled
 AllTheIDs: enabled
 AngryKeystones: enabled
 AzeritePowerWeights: enabled
-AzeriteTooltip: disabled
+AzeriteTooltip: enabled
 BattlePetBreedID: enabled
 BattleGroundEnemies: enabled
 BattlegroundSpiritReleaser: enabled
@@ -253,3 +253,5 @@ LibButtonGlow-1.0: enabled
 LibClassicDurations: enabled
 LibClassicCasterino: enabled
 LibGetFrame-1.0: enabled
+ToggleLootSpeciazation: enabled
+AskMrRobot: enabled

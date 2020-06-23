@@ -23,6 +23,53 @@ TalentSetManager_CharacterSaves = {
 		["talents"] = {
 			[3] = {
 			},
+			[2] = {
+			},
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Jyfhfkf-死亡之翼"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["龙剑曦-主宰之剑"] = {
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["talents_pvp"] = {
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["龙轻雪-主宰之剑"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			[3] = {
+			},
 		},
 		["version"] = 0,
 		["interface"] = {

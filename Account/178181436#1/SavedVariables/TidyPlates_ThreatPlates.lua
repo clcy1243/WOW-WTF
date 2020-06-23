@@ -28,19 +28,26 @@ ThreatPlatesDB = {
 			},
 		},
 		["龙轻雪 - 主宰之剑"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
+			["welcome"] = true,
 		},
 		["龙馨夜 - 主宰之剑"] = {
 			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+		},
+		["龙剑曦 - 主宰之剑"] = {
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+			},
+			["welcome"] = true,
 		},
 		["倾城丨猫爷 - 太阳之井"] = {
 			["welcome"] = true,
@@ -50,12 +57,11 @@ ThreatPlatesDB = {
 				false, -- [3]
 			},
 		},
-		["龙剑曦 - 主宰之剑"] = {
-			["spec"] = {
-				nil, -- [1]
-				true, -- [2]
-			},
+		["Jyfhfkf - 死亡之翼"] = {
 			["welcome"] = true,
+			["spec"] = {
+				[3] = true,
+			},
 		},
 		["倾城丨烟雨 - 摩摩尔"] = {
 			["spec"] = {
@@ -74,12 +80,13 @@ ThreatPlatesDB = {
 		["龙博宇 - 主宰之剑"] = "Default",
 		["龙轻雪 - 主宰之剑"] = "Default",
 		["龙馨夜 - 主宰之剑"] = "Default",
-		["倾城丨猫爷 - 太阳之井"] = "Default",
 		["龙剑曦 - 主宰之剑"] = "Default",
+		["倾城丨猫爷 - 太阳之井"] = "Default",
+		["Jyfhfkf - 死亡之翼"] = "Default",
 		["倾城丨烟雨 - 摩摩尔"] = "Default",
 	},
 	["global"] = {
-		["version"] = "9.1.19",
+		["version"] = "9.1.20",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -150,6 +157,9 @@ ThreatPlatesDB = {
 					["黑锋石像鬼"] = {
 					},
 				},
+			},
+			["CVarsBackup"] = {
+				["showQuestTrackingTooltips"] = "0",
 			},
 			["cache"] = {
 			},

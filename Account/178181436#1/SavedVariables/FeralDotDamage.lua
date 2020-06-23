@@ -1,11 +1,14 @@
 
 FeralDotDamageDB = {
-	["AleaGUI_enablePerSpecProfile"] = false,
 	["profileKeys"] = {
 		["倾城丨猫爷 - 太阳之井"] = {
 			"Default", -- [1]
 			"Default", -- [2]
 			"Default", -- [3]
+		},
+		["龙剑曦 - 主宰之剑"] = {
+			"Default", -- [1]
+			"Default", -- [2]
 		},
 		["龙轻雪 - 主宰之剑"] = {
 			"Default", -- [1]
@@ -18,9 +21,10 @@ FeralDotDamageDB = {
 			"Default", -- [2]
 			"Default", -- [3]
 		},
-		["龙剑曦 - 主宰之剑"] = {
+		["Jyfhfkf - 死亡之翼"] = {
 			"Default", -- [1]
 			"Default", -- [2]
+			"Default", -- [3]
 		},
 		["倾城丨烟雨 - 摩摩尔"] = {
 			"Default", -- [1]
@@ -29,6 +33,7 @@ FeralDotDamageDB = {
 			"Default", -- [4]
 		},
 	},
+	["AleaGUI_enablePerSpecProfile"] = false,
 	["profiles"] = {
 		["倾城丨猫爷 - 太阳之井"] = {
 		},
@@ -68,11 +73,13 @@ FeralDotDamageDB = {
 				},
 			},
 		},
+		["龙剑曦 - 主宰之剑"] = {
+		},
 		["龙轻雪 - 主宰之剑"] = {
 		},
 		["星界旅行者 - 瓦拉斯塔兹"] = {
 		},
-		["龙剑曦 - 主宰之剑"] = {
+		["Jyfhfkf - 死亡之翼"] = {
 		},
 		["倾城丨烟雨 - 摩摩尔"] = {
 		},

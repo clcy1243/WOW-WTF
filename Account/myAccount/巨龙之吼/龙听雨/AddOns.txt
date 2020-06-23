@@ -554,7 +554,7 @@ BigWigs_BattleOfDazaralor: enabled
 BigWigs_Azeroth: enabled
 RaiderIO: enabled
 BigWigs_CrucibleOfStorms: enabled
-AzeriteTooltip: disabled
+AzeriteTooltip: enabled
 AzeritePowerWeights: enabled
 AllTheIDs: enabled
 BattleGroundEnemies: enabled
@@ -605,3 +605,4 @@ LibClassicCasterino: enabled
 LibGetFrame-1.0: enabled
 CorruptionTooltips: enabled
 TalentSetManager: enabled
+Clique: disabled

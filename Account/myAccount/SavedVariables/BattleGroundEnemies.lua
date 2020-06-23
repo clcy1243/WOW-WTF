@@ -1,14 +1,16 @@
 
 BattleGroundEnemiesDB = {
 	["profileKeys"] = {
+		["星界旅行者 - 巨龙之吼"] = "Default",
+		["募落葒顔 - 巨龙之吼"] = "Default",
+		["Asfagagagsd - 巨龙之吼"] = "Default",
 		["Adegsagsgsd - 巨龙之吼"] = "Default",
-		["龙若山 - 巨龙之吼"] = "Default",
 		["Dsadada - 巨龙之吼"] = "Default",
-		["锦在天堂 - 太阳之井"] = "Default",
-		["Wafasdffa - 巨龙之吼"] = "Default",
 		["龙听雨 - 巨龙之吼"] = "Default",
 		["倾城丨奶僧 - 摩摩尔"] = "Default",
-		["Asfagagagsd - 巨龙之吼"] = "Default",
+		["Wafasdffa - 巨龙之吼"] = "Default",
+		["锦在天堂 - 太阳之井"] = "Default",
+		["龙若山 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -23,14 +25,14 @@ BattleGroundEnemiesDB = {
 				},
 				["ShowRealmnames"] = false,
 				["RangeIndicator_Frames"] = {
-					["BuffContainer"] = true,
+					["Power"] = true,
 					["DebuffContainer"] = true,
 					["Racial"] = true,
-					["ObjectiveAndRespawn"] = true,
-					["Spec"] = true,
+					["BuffContainer"] = true,
 					["Trinket"] = true,
+					["Spec"] = true,
 					["DRContainer"] = true,
-					["Power"] = true,
+					["ObjectiveAndRespawn"] = true,
 				},
 				["15"] = {
 					["Position_Y"] = 694.7999067743585,

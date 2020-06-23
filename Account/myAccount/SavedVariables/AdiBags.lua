@@ -36,8 +36,8 @@ AdiBagsDB = {
 						["宝石"] = true,
 						["杂项"] = true,
 						["商业技能"] = true,
-						["消耗品"] = true,
 						["配方"] = true,
+						["消耗品"] = true,
 					},
 				},
 			},
@@ -54,6 +54,14 @@ AdiBagsDB = {
 			},
 		},
 		["Legion"] = {
+		},
+		["ItemSets"] = {
+		},
+		["NewItem"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Bound"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -81,32 +89,24 @@ AdiBagsDB = {
 						["染血铸币"] = false,
 						["古怪硬币"] = false,
 						["原油"] = false,
-						["黯淡的阿古尼特水晶"] = false,
-						["铁掌徽记"] = false,
-						["虚空碎片"] = false,
+						["Essence of Corrupted Deathwing"] = false,
+						["黑暗之尘"] = false,
+						["冠军的徽记"] = false,
 						["抗魔联军战争物资"] = false,
-						["战斗的回响"] = false,
-						["上古神器"] = false,
+						["勇气点数"] = false,
+						["时空扭曲徽章"] = false,
 						["战痕命运印记"] = false,
 						["埃匹希斯水晶"] = false,
 						["Apexis Crystal"] = false,
-						["时空扭曲徽章"] = false,
-						["勇气点数"] = false,
+						["上古神器"] = false,
+						["战斗的回响"] = false,
 						["觉醒精华"] = false,
-						["冠军的徽记"] = false,
-						["黑暗之尘"] = false,
-						["Essence of Corrupted Deathwing"] = false,
+						["虚空碎片"] = false,
+						["铁掌徽记"] = false,
+						["黯淡的阿古尼特水晶"] = false,
 					},
 				},
 			},
-		},
-		["NewItem"] = {
-		},
-		["AdiBags_TooltipInfo"] = {
-		},
-		["Bound"] = {
-		},
-		["ItemSets"] = {
 		},
 		["Hearthstones"] = {
 		},
@@ -114,37 +114,36 @@ AdiBagsDB = {
 	["profileKeys"] = {
 		["蓝箭 - 卡拉赞"] = "Default",
 		["Safafafafsaf - 巨龙之吼"] = "Default",
+		["募落葒顔 - 巨龙之吼"] = "Default",
 		["Adegsagsgsd - 巨龙之吼"] = "Default",
 		["看你洗澡 - 瓦拉斯塔兹"] = "Default",
 		["Dsadada - 巨龙之吼"] = "Default",
 		["徳馨 - 破碎岭"] = "Default",
 		["锦在天堂 - 太阳之井"] = "Default",
-		["龙若山 - 巨龙之吼"] = "Default",
+		["Wafasdffa - 巨龙之吼"] = "Default",
+		["星界旅行者 - 巨龙之吼"] = "Default",
 		["星界旅行者 - 瓦拉斯塔兹"] = "Default",
 		["龙听雨 - 主宰之剑"] = "Default",
-		["倾城丨烟雨 - 摩摩尔"] = "Default",
+		["龙听雨 - 巨龙之吼"] = "Default",
 		["龙轻雪 - 主宰之剑"] = "Default",
 		["斯特莱夫 - 瓦拉斯塔兹"] = "Default",
 		["Wetaetasgdgw - 巨龙之吼"] = "Default",
 		["Asfagagagsd - 巨龙之吼"] = "Default",
-		["倾城丨奶僧 - 摩摩尔"] = "Default",
-		["信仰丶圣光 - 摩摩尔"] = "Default",
-		["Qweqeqw - 巨龙之吼"] = "Default",
-		["龙剑曦 - 主宰之剑"] = "Default",
 		["倾城丨猫爷 - 太阳之井"] = "Default",
+		["龙剑曦 - 主宰之剑"] = "Default",
+		["Qweqeqw - 巨龙之吼"] = "Default",
+		["信仰丶圣光 - 摩摩尔"] = "Default",
+		["倾城丨奶僧 - 摩摩尔"] = "Default",
 		["地狱丨灬繁花 - 摩摩尔"] = "Default",
-		["龙听雨 - 巨龙之吼"] = "Default",
-		["Wafasdffa - 巨龙之吼"] = "Default",
+		["倾城丨烟雨 - 摩摩尔"] = "Default",
+		["龙若山 - 巨龙之吼"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["virtualStacks"] = {
 				["freeSpace"] = false,
 			},
-			["columnWidth"] = {
-				["Bank"] = 20,
-				["Backpack"] = 18,
-			},
+			["scale"] = 1,
 			["maxHeight"] = 0.8999999999999999,
 			["positions"] = {
 				["anchor"] = {
@@ -153,12 +152,16 @@ AdiBagsDB = {
 				},
 			},
 			["filters"] = {
+				["军团再临"] = false,
 				["ItemSets"] = false,
 			},
-			["scale"] = 1,
-			["hideAnchor"] = true,
-			["autoDeposit"] = true,
+			["columnWidth"] = {
+				["Backpack"] = 18,
+				["Bank"] = 20,
+			},
 			["rightClickConfig"] = false,
+			["autoDeposit"] = true,
+			["hideAnchor"] = true,
 		},
 	},
 }

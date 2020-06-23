@@ -1,4 +1,4 @@
-ACP: disabled
+ACP: enabled
 AdiBags: enabled
 AdiBags_Config: enabled
 AdiBags_Legion_Filters: enabled
@@ -63,7 +63,7 @@ HereBeDragons: enabled
 HereBeDragons-1.0: enabled
 LibSink-2.0: enabled
 LibTextDump-1.0: enabled
-LittleWigs: disabled
+LittleWigs: enabled
 Mapster: disabled
 MasterPlan: disabled
 MasterPlanA: disabled
@@ -73,7 +73,7 @@ MoveAnything: disabled
 MSBTOptions: disabled
 !MyConsoleVariables: disabled
 Myslot: enabled
-Omen: disabled
+Omen: enabled
 OPie: disabled
 oRA3: disabled
 Pawn: disabled

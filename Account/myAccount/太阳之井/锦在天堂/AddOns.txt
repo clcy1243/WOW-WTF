@@ -20,7 +20,7 @@ RaiderIO_DB_EU_H_R: disabled
 RaiderIO_DB_EU_H: disabled
 RaiderIO_DB_EU_A_R: disabled
 RaiderIO_DB_EU_A: disabled
-VuhDo: disabled
+VuhDo: enabled
 RaidAchievement: disabled
 RaidAchievement_CataHeroics: disabled
 RaidAchievement_CataRaids: disabled
@@ -39,7 +39,7 @@ RaidAchievement_WotlkHeroics: disabled
 RaiderIO: disabled
 GladiatorlosSA: disabled
 GladiatorlosSA_zhCN: disabled
-GladiatorlosSA2: disabled
+GladiatorlosSA2: enabled
 Gladius: disabled
 Grail: disabled
 Grail-Achievements: disabled
@@ -48,7 +48,7 @@ AdiBags: enabled
 BattlePetBreedID: disabled
 Bartender4: disabled
 FeralDotDamage: enabled
-ExRT: disabled
+ExRT: enabled
 LibSharedMedia-3.0: enabled
 TrufiGCD: disabled
 TradeSkillMaster: disabled
@@ -65,3 +65,8 @@ SyLevel: enabled
 BattlegroundSpiritReleaser: disabled
 BattleGroundEnemies: disabled
 Wholly: disabled
+LittleWigs: enabled
+BigWigs_Azeroth: enabled
+ElitismHelper: enabled
+BigWigs_Nyalotha: enabled
+BigWigs_Legion: enabled

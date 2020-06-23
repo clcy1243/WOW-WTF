@@ -2,6 +2,8 @@
 ACP_Data = {
 	["sorter"] = "按名称分组",
 	["NoRecurse"] = false,
+	["NoChildren"] = true,
+	["scale"] = 0.688744521389045,
 	["AddonSet"] = {
 		{
 			"AdiBags", -- [1]
@@ -538,9 +540,8 @@ ACP_Data = {
 			["name"] = "小号",
 		}, -- [3]
 	},
-	["scale"] = 0.688744521389045,
-	["NoChildren"] = true,
 	["collapsed"] = {
+		["BigWigs"] = true,
 	},
 	["ProtectedAddons"] = {
 		["ACP"] = true,

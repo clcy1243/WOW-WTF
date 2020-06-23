@@ -1,4 +1,4 @@
 
 MSBTProfiles_SavedVarsPerChar = {
-	["currentProfileName"] = "Default",
+	["currentProfileName"] = "通用",
 }

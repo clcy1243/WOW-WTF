@@ -3,12 +3,14 @@ Omen3DB = {
 	["profileKeys"] = {
 		["蓝箭 - 卡拉赞"] = "蓝箭 - 卡拉赞",
 		["Safafafafsaf - 巨龙之吼"] = "Safafafafsaf - 巨龙之吼",
+		["募落葒顔 - 巨龙之吼"] = "募落葒顔 - 巨龙之吼",
 		["Adegsagsgsd - 巨龙之吼"] = "Adegsagsgsd - 巨龙之吼",
 		["看你洗澡 - 瓦拉斯塔兹"] = "看你洗澡 - 瓦拉斯塔兹",
 		["Dsadada - 巨龙之吼"] = "Dsadada - 巨龙之吼",
 		["徳馨 - 破碎岭"] = "徳馨 - 破碎岭",
 		["Qweqeqw - 巨龙之吼"] = "Qweqeqw - 巨龙之吼",
 		["龙若山 - 巨龙之吼"] = "龙若山 - 巨龙之吼",
+		["星界旅行者 - 巨龙之吼"] = "星界旅行者 - 巨龙之吼",
 		["星界旅行者 - 瓦拉斯塔兹"] = "星界旅行者 - 瓦拉斯塔兹",
 		["龙听雨 - 主宰之剑"] = "龙听雨 - 主宰之剑",
 		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
@@ -34,6 +36,11 @@ Omen3DB = {
 			["PositionH"] = 82.0000152587891,
 		},
 		["Safafafafsaf - 巨龙之吼"] = {
+			["Shown"] = false,
+			["PositionY"] = 650.9999389648438,
+			["PositionX"] = 911.5,
+		},
+		["募落葒顔 - 巨龙之吼"] = {
 			["Shown"] = false,
 			["PositionY"] = 650.9999389648438,
 			["PositionX"] = 911.5,
@@ -68,11 +75,18 @@ Omen3DB = {
 			["PositionH"] = 81.9999618530274,
 		},
 		["龙若山 - 巨龙之吼"] = {
-			["PositionW"] = 199.9999847412109,
+			["PositionY"] = 1094.999755859375,
+			["PositionW"] = 200.0000915527344,
 			["Shown"] = false,
+			["PositionX"] = 558.7003784179688,
 			["PositionH"] = 81.99998474121094,
-			["PositionY"] = 1072.599853515625,
-			["PositionX"] = 504.3002319335938,
+		},
+		["星界旅行者 - 巨龙之吼"] = {
+			["PositionY"] = 1086.999755859375,
+			["PositionW"] = 200.0000152587891,
+			["Shown"] = false,
+			["PositionX"] = 216.2997589111328,
+			["PositionH"] = 81.99998474121094,
 		},
 		["星界旅行者 - 瓦拉斯塔兹"] = {
 			["Shown"] = false,
@@ -94,11 +108,11 @@ Omen3DB = {
 		},
 		["龙听雨 - 巨龙之吼"] = {
 			["VGrip2"] = 127.0750387802243,
-			["PositionY"] = 1145.266357421875,
-			["PositionW"] = 221,
-			["PositionX"] = 379.0155334472656,
-			["Shown"] = false,
+			["PositionY"] = 1111.999877929688,
+			["PositionW"] = 220.9999694824219,
 			["VGrip1"] = 104.4226563254283,
+			["Shown"] = false,
+			["PositionX"] = 520.6151123046875,
 			["MinimapIcon"] = {
 				["minimapPos"] = 330.403349647651,
 			},
@@ -120,8 +134,8 @@ Omen3DB = {
 			["PositionW"] = 199.999984741211,
 			["PositionY"] = 507.750122070313,
 			["PositionX"] = 274.499938964844,
-			["Shown"] = false,
 			["IgnorePlayerPets"] = false,
+			["Shown"] = false,
 			["ClampToScreen"] = false,
 			["MinimapIcon"] = {
 				["minimapPos"] = 231.614614842906,
@@ -145,14 +159,14 @@ Omen3DB = {
 			["PositionX"] = 911.5,
 		},
 		["锦在天堂 - 太阳之井"] = {
-			["PositionY"] = 434.130401611328,
-			["PositionW"] = 200.000015258789,
+			["PositionW"] = 200.0000610351563,
+			["PositionH"] = 81.99998474121094,
+			["PositionY"] = 1101.330322265625,
 			["Shown"] = false,
-			["PositionX"] = 449.915893554688,
 			["MinimapIcon"] = {
 				["minimapPos"] = 345.223773866997,
 			},
-			["PositionH"] = 82.0000152587891,
+			["PositionX"] = 538.7156372070312,
 		},
 		["信仰丶圣光 - 摩摩尔"] = {
 			["Shown"] = false,

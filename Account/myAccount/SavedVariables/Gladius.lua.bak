@@ -1,7 +1,9 @@
 
 Gladius2DB = {
 	["profileKeys"] = {
+		["星界旅行者 - 巨龙之吼"] = "星界旅行者 - 巨龙之吼",
 		["Wetaetasgdgw - 巨龙之吼"] = "Wetaetasgdgw - 巨龙之吼",
+		["募落葒顔 - 巨龙之吼"] = "募落葒顔 - 巨龙之吼",
 		["Asfagagagsd - 巨龙之吼"] = "Asfagagagsd - 巨龙之吼",
 		["Adegsagsgsd - 巨龙之吼"] = "Adegsagsgsd - 巨龙之吼",
 		["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
@@ -13,7 +15,21 @@ Gladius2DB = {
 		["龙若山 - 巨龙之吼"] = "龙若山 - 巨龙之吼",
 	},
 	["profiles"] = {
+		["星界旅行者 - 巨龙之吼"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 670.1334428230948,
+			},
+			["x"] = {
+				["arena1"] = 1002.66653378804,
+			},
+		},
 		["Wetaetasgdgw - 巨龙之吼"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
+		["募落葒顔 - 巨龙之吼"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 		},

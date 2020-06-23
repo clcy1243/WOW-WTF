@@ -15,7 +15,7 @@ ThreatPlatesDB = {
 		["悦乐疯越悦 - 巨龙之吼"] = "Default",
 	},
 	["global"] = {
-		["version"] = "9.1.18",
+		["version"] = "9.1.20",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -88,6 +88,12 @@ ThreatPlatesDB = {
 				},
 			},
 			["cache"] = {
+			},
+			["settings"] = {
+				["frame"] = {
+					["height"] = 64.12500053644162,
+					["width"] = 153.999997377391,
+				},
 			},
 		},
 	},

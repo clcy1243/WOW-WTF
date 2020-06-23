@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0323,
+	["LastVersion"] = 2.0325,
 	["LastPlayerFullName"] = "倾城丨奶僧-摩摩尔",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {

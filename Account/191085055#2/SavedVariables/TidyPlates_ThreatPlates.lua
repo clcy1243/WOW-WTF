@@ -8,11 +8,11 @@ ThreatPlatesDB = {
 			},
 		},
 	},
-	["global"] = {
-		["version"] = "9.1.19",
-	},
 	["profileKeys"] = {
 		["橘丶子 - 巨龙之吼"] = "Default",
+	},
+	["global"] = {
+		["version"] = "9.1.20",
 	},
 	["profiles"] = {
 		["Default"] = {

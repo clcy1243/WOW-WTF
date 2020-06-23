@@ -2,80 +2,83 @@
 MasterPlanAG = {
 	["太阳之井"] = {
 		["倾城丨猫爷"] = {
-			["class"] = "PALADIN",
 			["faction"] = "Horde",
+			["class"] = "PALADIN",
 		},
 		["锦在天堂"] = {
+			["lastCacheTime"] = 1589393446,
 			["summary"] = {
+				["ti3"] = 128391,
+				["tt3"] = true,
 				["inProgress"] = {
-					[118] = 1504696697,
-					[169] = 1504673313,
-					[554] = 1504696816,
-					[245] = 1504671511,
-					[663] = 1504682292,
-					[267] = 1504682290,
-					[271] = 1504689508,
-					[272] = 1504689494,
-					[125] = 1504682288,
-					[737] = 1504668905,
-					[527] = 1504682409,
+					[275] = 1589407975,
+					[191] = 1589397232,
+					[169] = 1589398989,
+					[132] = 1589415224,
+					[264] = 1589422349,
+					[725] = 1589395805,
+					[116] = 1589422380,
+					[273] = 1589422373,
+					[282] = 1589400976,
+					[245] = 1589397210,
 				},
 			},
-			["curOil"] = 430,
-			["faction"] = "Horde",
-			["lastCacheTime"] = 1583115622,
-			["curRes"] = 10000,
+			["curOil"] = 30,
 			["class"] = "DEATHKNIGHT",
+			["curRes"] = 9088,
+			["faction"] = "Horde",
 		},
 	},
 	["破碎岭"] = {
 		["徳馨"] = {
-			["class"] = "DRUID",
 			["faction"] = "Alliance",
+			["class"] = "DRUID",
 		},
 	},
 	["摩摩尔"] = {
-		["信仰丶圣光"] = {
+		["倾城丨奶僧"] = {
+			["class"] = "MONK",
 			["faction"] = "Horde",
-			["class"] = "PALADIN",
 		},
 		["地狱丨灬繁花"] = {
-			["class"] = "DEATHKNIGHT",
 			["faction"] = "Horde",
+			["class"] = "DEATHKNIGHT",
 		},
 		["倾城丨烟雨"] = {
-			["faction"] = "Horde",
 			["class"] = "DRUID",
-		},
-		["倾城丨奶僧"] = {
 			["faction"] = "Horde",
-			["class"] = "MONK",
+		},
+		["信仰丶圣光"] = {
+			["class"] = "PALADIN",
+			["faction"] = "Horde",
 		},
 	},
 	["瓦拉斯塔兹"] = {
 		["斯特莱夫"] = {
-			["class"] = "WARRIOR",
 			["faction"] = "Horde",
+			["class"] = "WARRIOR",
 		},
 		["看你洗澡"] = {
-			["class"] = "ROGUE",
 			["faction"] = "Horde",
+			["class"] = "ROGUE",
 		},
 		["星界旅行者"] = {
-			["faction"] = "Horde",
 			["class"] = "SHAMAN",
+			["faction"] = "Horde",
 		},
+	},
+	["IgnoreRewards"] = {
 	},
 	["主宰之剑"] = {
 		["龙轻雪"] = {
-			["lastCacheTime"] = 1483728307,
 			["class"] = "DRUID",
+			["lastCacheTime"] = 1483728307,
 			["curRes"] = 1813,
 			["faction"] = "Alliance",
 		},
 		["龙听雨"] = {
-			["class"] = "MONK",
 			["lastCacheTime"] = 1479635313,
+			["class"] = "MONK",
 			["curRes"] = 1906,
 			["faction"] = "Alliance",
 		},
@@ -89,34 +92,42 @@ MasterPlanAG = {
 	},
 	["卡拉赞"] = {
 		["蓝箭"] = {
-			["class"] = "HUNTER",
 			["faction"] = "Horde",
+			["class"] = "HUNTER",
 		},
 	},
 	["巨龙之吼"] = {
-		["Asfagagagsd"] = {
-			["class"] = "WARRIOR",
+		["星界旅行者"] = {
 			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+		},
+		["Dsadada"] = {
+			["faction"] = "Horde",
+			["class"] = "PALADIN",
+		},
+		["募落葒顔"] = {
+			["faction"] = "Horde",
+			["class"] = "PRIEST",
 		},
 		["Wafasdffa"] = {
-			["class"] = "PALADIN",
 			["faction"] = "Horde",
+			["class"] = "PALADIN",
 		},
-		["Adegsagsgsd"] = {
+		["Asfagagagsd"] = {
 			["faction"] = "Horde",
 			["class"] = "WARRIOR",
 		},
 		["Safafafafsaf"] = {
+			["faction"] = "Horde",
+			["class"] = "WARRIOR",
+		},
+		["龙若山"] = {
 			["class"] = "WARRIOR",
 			["faction"] = "Horde",
 		},
-		["Dsadada"] = {
-			["class"] = "PALADIN",
-			["faction"] = "Horde",
-		},
 		["Wetaetasgdgw"] = {
-			["faction"] = "Horde",
 			["class"] = "PALADIN",
+			["faction"] = "Horde",
 		},
 		["龙听雨"] = {
 			["lastCacheTime"] = 1507398521,
@@ -124,13 +135,13 @@ MasterPlanAG = {
 			["curRes"] = 1906,
 			["faction"] = "Horde",
 		},
-		["龙若山"] = {
+		["Adegsagsgsd"] = {
 			["class"] = "WARRIOR",
 			["faction"] = "Horde",
 		},
 		["Qweqeqw"] = {
-			["faction"] = "Alliance",
 			["class"] = "DEATHKNIGHT",
+			["faction"] = "Alliance",
 		},
 	},
 }

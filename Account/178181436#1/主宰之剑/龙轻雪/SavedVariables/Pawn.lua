@@ -1,6 +1,8 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0323,
+	["LastVersion"] = 2.0324,
+	["LastPlayerFullName"] = "龙轻雪-主宰之剑",
+	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 134240,
@@ -88,9 +90,25 @@ PawnOptions = {
 			["Link"] = "|cffe6cc80|Hitem:128859::::::::110:103:256:::435:::|h[阿莎曼之牙]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["LastPlayerFullName"] = "龙轻雪-主宰之剑",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
+		[128306] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 30,
+					["Type"] = "Life",
+				}, -- [1]
+				{
+					["ItemLevel"] = 29,
+					["Type"] = "Frost",
+				}, -- [2]
+				{
+					["ItemLevel"] = 28,
+					["Type"] = "Life",
+				}, -- [3]
+			},
+			["Name"] = "加尼尔，母亲之树",
+		},
 		[128860] = {
 			["Relics"] = {
 				{
@@ -107,23 +125,6 @@ PawnOptions = {
 				}, -- [3]
 			},
 			["Name"] = "阿莎曼之牙",
-		},
-		[128821] = {
-			["Relics"] = {
-				{
-					["ItemLevel"] = 18,
-					["Type"] = "Fire",
-				}, -- [1]
-				{
-					["ItemLevel"] = 18,
-					["Type"] = "Blood",
-				}, -- [2]
-				{
-					["ItemLevel"] = 22,
-					["Type"] = "Life",
-				}, -- [3]
-			},
-			["Name"] = "乌索克之爪",
 		},
 		[128858] = {
 			["Relics"] = {
@@ -142,25 +143,24 @@ PawnOptions = {
 			},
 			["Name"] = "月神镰刀",
 		},
-		[128306] = {
+		[128821] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 30,
-					["Type"] = "Life",
+					["ItemLevel"] = 18,
+					["Type"] = "Fire",
 				}, -- [1]
 				{
-					["ItemLevel"] = 29,
-					["Type"] = "Frost",
+					["ItemLevel"] = 18,
+					["Type"] = "Blood",
 				}, -- [2]
 				{
-					["ItemLevel"] = 28,
+					["ItemLevel"] = 22,
 					["Type"] = "Life",
 				}, -- [3]
 			},
-			["Name"] = "加尼尔，母亲之树",
+			["Name"] = "乌索克之爪",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

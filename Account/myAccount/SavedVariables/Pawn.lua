@@ -6,13 +6,13 @@ PawnCommon = {
 	["ShowItemID"] = false,
 	["ShowRelicUpgrades"] = false,
 	["ShowValuesForUpgradesOnly"] = false,
-	["Debug"] = false,
+	["ShowEnchanted"] = true,
 	["ShowItemLevelUpgrades"] = true,
 	["ShownGettingStarted"] = true,
-	["ShowEnchanted"] = true,
+	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = false,
-	["LastVersion"] = 2.0323,
+	["LastVersion"] = 2.0328,
 	["ShowSocketingAdvisor"] = true,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
@@ -81,6 +81,9 @@ PawnCommon = {
 		["\"MrRobot\":PRIEST3"] = {
 			["IconTexturePath"] = 136207,
 			["PerCharacterOptions"] = {
+				["募落葒顔-巨龙之吼"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ffffff",
 			["LocalizedName"] = "牧师: 暗影",
@@ -228,41 +231,6 @@ PawnCommon = {
 			["UnenchantedColor"] = "bfb74e",
 			["SpecID"] = 3,
 		},
-		["血DK"] = {
-			["IconTexturePath"] = 135770,
-			["Values"] = {
-				["IsWand"] = -1000000,
-				["IsFist"] = -1000000,
-				["Indestructible"] = 0.01,
-				["MinDamage"] = 0.235,
-				["MovementSpeed"] = 0.01,
-				["IsStaff"] = -1000000,
-				["HasteRating"] = 8.56,
-				["MasteryRating"] = 5.09,
-				["Armor"] = 9.46,
-				["IsGun"] = -1000000,
-				["IsWarglaive"] = -1000000,
-				["IsFrill"] = -1000000,
-				["Avoidance"] = 0.67,
-				["MaxDamage"] = 0.235,
-				["IsDagger"] = -1000000,
-				["IsBow"] = -1000000,
-				["Strength"] = 3.21,
-				["Leech"] = 7.35,
-				["CritRating"] = 5.19,
-				["IsCrossbow"] = -1000000,
-				["Stamina"] = 3.02,
-				["IsShield"] = -1000000,
-				["Versatility"] = 8.44,
-			},
-			["Color"] = "ff4d6b",
-			["ClassID"] = 6,
-			["Role"] = "TANK",
-			["UpgradesFollowSpecialization"] = true,
-			["SpecID"] = 1,
-			["PerCharacterOptions"] = {
-			},
-		},
 		["\"MrRobot\":HUNTER2"] = {
 			["IconTexturePath"] = 236179,
 			["PerCharacterOptions"] = {
@@ -323,29 +291,32 @@ PawnCommon = {
 			["UnenchantedColor"] = "b7698b",
 			["SpecID"] = 1,
 		},
-		["\"MrRobot\":WARRIOR1"] = {
-			["IconTexturePath"] = 132355,
+		["\"MrRobot\":PALADIN3"] = {
+			["IconTexturePath"] = 135873,
 			["PerCharacterOptions"] = {
-				["Adegsagsgsd-巨龙之吼"] = {
+				["Wafasdffa-巨龙之吼"] = {
 					["Visible"] = true,
 				},
-				["Asfagagagsd-巨龙之吼"] = {
+				["倾城丨猫爷-太阳之井"] = {
 					["Visible"] = true,
 				},
-				["Safafafafsaf-巨龙之吼"] = {
+				["Dsadada-巨龙之吼"] = {
+					["Visible"] = true,
+				},
+				["Wetaetasgdgw-巨龙之吼"] = {
 					["Visible"] = true,
 				},
 			},
-			["Color"] = "c79c6e",
-			["LocalizedName"] = "战士: 武器",
-			["ClassID"] = 1,
+			["Color"] = "f58cba",
+			["LocalizedName"] = "圣骑士: 惩戒",
+			["ClassID"] = 2,
 			["DoNotShow1HUpgrades"] = true,
 			["Role"] = "DAMAGER",
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "957552",
-			["SpecID"] = 1,
+			["UnenchantedColor"] = "b7698b",
+			["SpecID"] = 3,
 		},
 		["\"MrRobot\":WARLOCK2"] = {
 			["IconTexturePath"] = 136172,
@@ -377,20 +348,20 @@ PawnCommon = {
 			["UnenchantedColor"] = "bf3950",
 			["SpecID"] = 1,
 		},
-		["\"MrRobot\":MAGE1"] = {
-			["IconTexturePath"] = 135932,
+		["\"MrRobot\":DEMONHUNTER2"] = {
+			["IconTexturePath"] = 1247265,
 			["PerCharacterOptions"] = {
 			},
-			["Color"] = "3fc7eb",
-			["LocalizedName"] = "法师: 奥术",
-			["ClassID"] = 8,
+			["Color"] = "a330c9",
+			["ClassID"] = 12,
+			["LocalizedName"] = "恶魔猎手: 复仇",
 			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "2f95b0",
-			["SpecID"] = 1,
+			["SpecID"] = 2,
+			["UnenchantedColor"] = "7a2496",
 		},
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = 132115,
@@ -440,9 +411,6 @@ PawnCommon = {
 		["\"MrRobot\":DEATHKNIGHT3"] = {
 			["IconTexturePath"] = 135775,
 			["PerCharacterOptions"] = {
-				["锦在天堂-太阳之井"] = {
-					["Visible"] = true,
-				},
 				["Qweqeqw-巨龙之吼"] = {
 					["Visible"] = true,
 				},
@@ -476,9 +444,6 @@ PawnCommon = {
 		["\"MrRobot\":WARRIOR2"] = {
 			["IconTexturePath"] = 132347,
 			["PerCharacterOptions"] = {
-				["龙若山-巨龙之吼"] = {
-					["Visible"] = true,
-				},
 				["斯特莱夫-瓦拉斯塔兹"] = {
 					["Visible"] = true,
 				},
@@ -497,6 +462,9 @@ PawnCommon = {
 		["\"MrRobot\":MONK2"] = {
 			["IconTexturePath"] = 608952,
 			["PerCharacterOptions"] = {
+				["龙听雨-巨龙之吼"] = {
+					["Visible"] = true,
+				},
 				["倾城丨奶僧-摩摩尔"] = {
 					["Visible"] = true,
 				},
@@ -515,6 +483,9 @@ PawnCommon = {
 		["\"MrRobot\":DEATHKNIGHT2"] = {
 			["IconTexturePath"] = 135773,
 			["PerCharacterOptions"] = {
+				["锦在天堂-太阳之井"] = {
+					["Visible"] = true,
+				},
 				["地狱丨灬繁花-摩摩尔"] = {
 					["Visible"] = true,
 				},
@@ -545,47 +516,47 @@ PawnCommon = {
 			["UnenchantedColor"] = "b7698b",
 			["SpecID"] = 2,
 		},
-		["\"MrRobot\":DEMONHUNTER2"] = {
-			["IconTexturePath"] = 1247265,
+		["\"MrRobot\":MAGE1"] = {
+			["IconTexturePath"] = 135932,
 			["PerCharacterOptions"] = {
 			},
-			["Color"] = "a330c9",
-			["ClassID"] = 12,
-			["LocalizedName"] = "恶魔猎手: 复仇",
+			["Color"] = "3fc7eb",
+			["LocalizedName"] = "法师: 奥术",
+			["ClassID"] = 8,
 			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["SpecID"] = 2,
-			["UnenchantedColor"] = "7a2496",
+			["UnenchantedColor"] = "2f95b0",
+			["SpecID"] = 1,
 		},
-		["\"MrRobot\":PALADIN3"] = {
-			["IconTexturePath"] = 135873,
+		["\"MrRobot\":WARRIOR1"] = {
+			["IconTexturePath"] = 132355,
 			["PerCharacterOptions"] = {
-				["Wafasdffa-巨龙之吼"] = {
+				["龙若山-巨龙之吼"] = {
 					["Visible"] = true,
 				},
-				["倾城丨猫爷-太阳之井"] = {
+				["Safafafafsaf-巨龙之吼"] = {
 					["Visible"] = true,
 				},
-				["Dsadada-巨龙之吼"] = {
+				["Asfagagagsd-巨龙之吼"] = {
 					["Visible"] = true,
 				},
-				["Wetaetasgdgw-巨龙之吼"] = {
+				["Adegsagsgsd-巨龙之吼"] = {
 					["Visible"] = true,
 				},
 			},
-			["Color"] = "f58cba",
-			["LocalizedName"] = "圣骑士: 惩戒",
-			["ClassID"] = 2,
+			["Color"] = "c79c6e",
+			["LocalizedName"] = "战士: 武器",
+			["ClassID"] = 1,
 			["DoNotShow1HUpgrades"] = true,
 			["Role"] = "DAMAGER",
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "b7698b",
-			["SpecID"] = 3,
+			["UnenchantedColor"] = "957552",
+			["SpecID"] = 1,
 		},
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
@@ -620,6 +591,9 @@ PawnCommon = {
 		["\"MrRobot\":SHAMAN2"] = {
 			["IconTexturePath"] = 237581,
 			["PerCharacterOptions"] = {
+				["星界旅行者-巨龙之吼"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "0070de",
 			["LocalizedName"] = "萨满祭司: 增强",
@@ -635,9 +609,6 @@ PawnCommon = {
 		["\"MrRobot\":MONK3"] = {
 			["IconTexturePath"] = 608953,
 			["PerCharacterOptions"] = {
-				["龙听雨-巨龙之吼"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "00ff96",
 			["LocalizedName"] = "武僧: 踏风",
@@ -655,6 +626,6 @@ PawnCommon = {
 	["ButtonPosition"] = 1,
 	["ShowSpecIcons"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,
-	["ShowLootUpgradeAdvisor"] = true,
 	["Digits"] = 1,
+	["ShowLootUpgradeAdvisor"] = true,
 }

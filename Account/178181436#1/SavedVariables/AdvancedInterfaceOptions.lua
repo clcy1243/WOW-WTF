@@ -9,6 +9,7 @@ AdvancedInterfaceOptionsSaved = {
 	},
 	["AccountVars"] = {
 		["floatingCombatTextCombatDamage"] = "1",
+		["floatingCombatTextCombatLogPeriodicSpells"] = "1",
 		["floatingCombatTextCombatHealing"] = "1",
 	},
 	["EnforceSettings"] = false,

@@ -17,10 +17,9 @@ VER 3 0000000000000001 "虚弱宏" "INV_MISC_QUESTIONMARK"
 /run RepopMe() RetrieveCorpse() 
 /run RepopMe() AcceptResurrect() AcceptXPLoss()
 END
-VER 3 000000000000000D "进场宏" "INV_Ammo_Snowball"
-/click PVPReadyDialogEnterBattleButton 
-/tar 山德·希尔伯曼 
-/tar 加布里埃尔元帅
+VER 3 000000000000000F "语言" "INV_MISC_QUESTIONMARK"
+/console SET portal "TW"
+/console SET profanityFilter "0"
 END
 VER 3 000000000000000E "项链" "INV_MISC_QUESTIONMARK"
 #showtooltip 艾泽拉斯之心精华

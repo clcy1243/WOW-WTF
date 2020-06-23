@@ -22,19 +22,19 @@ ThreatPlatesDB = {
 			},
 		},
 		["龙博宇 - 主宰之剑"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["龙轻雪 - 主宰之剑"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["龙馨夜 - 主宰之剑"] = {
 			["spec"] = {
@@ -68,7 +68,7 @@ ThreatPlatesDB = {
 		},
 	},
 	["global"] = {
-		["version"] = "9.1.19",
+		["version"] = "9.1.20",
 	},
 	["profileKeys"] = {
 		["龙曦君 - 主宰之剑"] = "Default",
@@ -150,6 +150,9 @@ ThreatPlatesDB = {
 					["黑锋石像鬼"] = {
 					},
 				},
+			},
+			["CVarsBackup"] = {
+				["showQuestTrackingTooltips"] = "0",
 			},
 			["cache"] = {
 			},

@@ -500,6 +500,112 @@ TinyCharacterStatsDB = {
 		}, -- [32]
 		["uniqueKey"] = "龙轻雪:主宰之剑:2",
 	},
+	["星界旅行者:巨龙之吼:2"] = {
+		{
+			["statKey"] = "ItemLevelFrame",
+		}, -- [1]
+		{
+			["statKey"] = "AttributesCategory",
+		}, -- [2]
+		{
+			["statKey"] = "HEALTH",
+		}, -- [3]
+		{
+			["statKey"] = "POWER",
+		}, -- [4]
+		{
+			["statKey"] = "ALTERNATEMANA",
+		}, -- [5]
+		{
+			["statKey"] = "STRENGTH",
+		}, -- [6]
+		{
+			["statKey"] = "AGILITY",
+		}, -- [7]
+		{
+			["statKey"] = "INTELLECT",
+		}, -- [8]
+		{
+			["statKey"] = "STAMINA",
+		}, -- [9]
+		{
+			["statKey"] = "ARMOR",
+		}, -- [10]
+		{
+			["statKey"] = "DODGE",
+		}, -- [11]
+		{
+			["statKey"] = "PARRY",
+		}, -- [12]
+		{
+			["statKey"] = "BLOCK",
+		}, -- [13]
+		{
+			["statKey"] = "MOVESPEED",
+		}, -- [14]
+		{
+			["statKey"] = "ITEMLEVEL",
+			["hidden"] = true,
+		}, -- [15]
+		{
+			["statKey"] = "GCD",
+		}, -- [16]
+		{
+			["statKey"] = "REPAIR_COST",
+		}, -- [17]
+		{
+			["statKey"] = "EnhancementsCategory",
+		}, -- [18]
+		{
+			["statKey"] = "CRITCHANCE",
+		}, -- [19]
+		{
+			["statKey"] = "HASTE",
+		}, -- [20]
+		{
+			["statKey"] = "MASTERY",
+		}, -- [21]
+		{
+			["statKey"] = "VERSATILITY",
+		}, -- [22]
+		{
+			["statKey"] = "LIFESTEAL",
+		}, -- [23]
+		{
+			["statKey"] = "AVOIDANCE",
+		}, -- [24]
+		{
+			["statKey"] = "ATTACK_DAMAGE",
+		}, -- [25]
+		{
+			["statKey"] = "ATTACK_AP",
+		}, -- [26]
+		{
+			["statKey"] = "ENERGY_REGEN",
+		}, -- [27]
+		{
+			["statKey"] = "RUNE_REGEN",
+		}, -- [28]
+		{
+			["statKey"] = "FOCUS_REGEN",
+		}, -- [29]
+		{
+			["statKey"] = "ATTACK_ATTACKSPEED",
+		}, -- [30]
+		{
+			["statKey"] = "SPELLPOWER",
+		}, -- [31]
+		{
+			["statKey"] = "MANAREGEN",
+		}, -- [32]
+		{
+			["statKey"] = "STAGGER",
+		}, -- [33]
+		{
+			["statKey"] = "SPEED",
+		}, -- [34]
+		["uniqueKey"] = "星界旅行者:巨龙之吼:2",
+	},
 	["蓝箭:卡拉赞:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
@@ -2346,6 +2452,212 @@ TinyCharacterStatsDB = {
 		}, -- [32]
 		["uniqueKey"] = "星界旅行者:瓦拉斯塔兹:3",
 	},
+	["星界旅行者:瓦拉斯塔兹:2"] = {
+		{
+			["statKey"] = "ItemLevelFrame",
+		}, -- [1]
+		{
+			["statKey"] = "AttributesCategory",
+		}, -- [2]
+		{
+			["statKey"] = "HEALTH",
+		}, -- [3]
+		{
+			["statKey"] = "POWER",
+		}, -- [4]
+		{
+			["statKey"] = "ALTERNATEMANA",
+		}, -- [5]
+		{
+			["statKey"] = "STRENGTH",
+		}, -- [6]
+		{
+			["statKey"] = "AGILITY",
+		}, -- [7]
+		{
+			["statKey"] = "INTELLECT",
+		}, -- [8]
+		{
+			["statKey"] = "STAMINA",
+		}, -- [9]
+		{
+			["statKey"] = "ARMOR",
+		}, -- [10]
+		{
+			["statKey"] = "DODGE",
+		}, -- [11]
+		{
+			["statKey"] = "PARRY",
+		}, -- [12]
+		{
+			["statKey"] = "BLOCK",
+		}, -- [13]
+		{
+			["statKey"] = "MOVESPEED",
+		}, -- [14]
+		{
+			["statKey"] = "ITEMLEVEL",
+			["hidden"] = true,
+		}, -- [15]
+		{
+			["statKey"] = "GCD",
+		}, -- [16]
+		{
+			["statKey"] = "REPAIR_COST",
+		}, -- [17]
+		{
+			["statKey"] = "EnhancementsCategory",
+		}, -- [18]
+		{
+			["statKey"] = "CRITCHANCE",
+		}, -- [19]
+		{
+			["statKey"] = "HASTE",
+		}, -- [20]
+		{
+			["statKey"] = "MASTERY",
+		}, -- [21]
+		{
+			["statKey"] = "VERSATILITY",
+		}, -- [22]
+		{
+			["statKey"] = "LIFESTEAL",
+		}, -- [23]
+		{
+			["statKey"] = "AVOIDANCE",
+		}, -- [24]
+		{
+			["statKey"] = "ATTACK_DAMAGE",
+		}, -- [25]
+		{
+			["statKey"] = "ATTACK_AP",
+		}, -- [26]
+		{
+			["statKey"] = "ENERGY_REGEN",
+		}, -- [27]
+		{
+			["statKey"] = "RUNE_REGEN",
+		}, -- [28]
+		{
+			["statKey"] = "FOCUS_REGEN",
+		}, -- [29]
+		{
+			["statKey"] = "ATTACK_ATTACKSPEED",
+		}, -- [30]
+		{
+			["statKey"] = "SPELLPOWER",
+		}, -- [31]
+		{
+			["statKey"] = "MANAREGEN",
+		}, -- [32]
+		["uniqueKey"] = "星界旅行者:瓦拉斯塔兹:2",
+	},
+	["募落葒顔:巨龙之吼:3"] = {
+		{
+			["statKey"] = "ItemLevelFrame",
+		}, -- [1]
+		{
+			["statKey"] = "AttributesCategory",
+		}, -- [2]
+		{
+			["statKey"] = "HEALTH",
+		}, -- [3]
+		{
+			["statKey"] = "POWER",
+		}, -- [4]
+		{
+			["statKey"] = "ALTERNATEMANA",
+		}, -- [5]
+		{
+			["statKey"] = "STRENGTH",
+		}, -- [6]
+		{
+			["statKey"] = "AGILITY",
+		}, -- [7]
+		{
+			["statKey"] = "INTELLECT",
+		}, -- [8]
+		{
+			["statKey"] = "STAMINA",
+		}, -- [9]
+		{
+			["statKey"] = "ARMOR",
+		}, -- [10]
+		{
+			["statKey"] = "DODGE",
+		}, -- [11]
+		{
+			["statKey"] = "PARRY",
+		}, -- [12]
+		{
+			["statKey"] = "BLOCK",
+		}, -- [13]
+		{
+			["statKey"] = "MOVESPEED",
+		}, -- [14]
+		{
+			["statKey"] = "ITEMLEVEL",
+			["hidden"] = true,
+		}, -- [15]
+		{
+			["statKey"] = "GCD",
+		}, -- [16]
+		{
+			["statKey"] = "REPAIR_COST",
+		}, -- [17]
+		{
+			["statKey"] = "EnhancementsCategory",
+		}, -- [18]
+		{
+			["statKey"] = "CRITCHANCE",
+		}, -- [19]
+		{
+			["statKey"] = "HASTE",
+		}, -- [20]
+		{
+			["statKey"] = "MASTERY",
+		}, -- [21]
+		{
+			["statKey"] = "VERSATILITY",
+		}, -- [22]
+		{
+			["statKey"] = "LIFESTEAL",
+		}, -- [23]
+		{
+			["statKey"] = "AVOIDANCE",
+		}, -- [24]
+		{
+			["statKey"] = "ATTACK_DAMAGE",
+		}, -- [25]
+		{
+			["statKey"] = "ATTACK_AP",
+		}, -- [26]
+		{
+			["statKey"] = "ENERGY_REGEN",
+		}, -- [27]
+		{
+			["statKey"] = "RUNE_REGEN",
+		}, -- [28]
+		{
+			["statKey"] = "FOCUS_REGEN",
+		}, -- [29]
+		{
+			["statKey"] = "ATTACK_ATTACKSPEED",
+		}, -- [30]
+		{
+			["statKey"] = "SPELLPOWER",
+		}, -- [31]
+		{
+			["statKey"] = "MANAREGEN",
+		}, -- [32]
+		{
+			["statKey"] = "STAGGER",
+		}, -- [33]
+		{
+			["statKey"] = "SPEED",
+		}, -- [34]
+		["uniqueKey"] = "募落葒顔:巨龙之吼:3",
+	},
 	["Asfagagagsd:巨龙之吼:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
@@ -2451,6 +2763,112 @@ TinyCharacterStatsDB = {
 			["statKey"] = "SPEED",
 		}, -- [34]
 		["uniqueKey"] = "Asfagagagsd:巨龙之吼:1",
+	},
+	["Wetaetasgdgw:巨龙之吼:3"] = {
+		{
+			["statKey"] = "ItemLevelFrame",
+		}, -- [1]
+		{
+			["statKey"] = "AttributesCategory",
+		}, -- [2]
+		{
+			["statKey"] = "HEALTH",
+		}, -- [3]
+		{
+			["statKey"] = "POWER",
+		}, -- [4]
+		{
+			["statKey"] = "ALTERNATEMANA",
+		}, -- [5]
+		{
+			["statKey"] = "STRENGTH",
+		}, -- [6]
+		{
+			["statKey"] = "AGILITY",
+		}, -- [7]
+		{
+			["statKey"] = "INTELLECT",
+		}, -- [8]
+		{
+			["statKey"] = "STAMINA",
+		}, -- [9]
+		{
+			["statKey"] = "ARMOR",
+		}, -- [10]
+		{
+			["statKey"] = "DODGE",
+		}, -- [11]
+		{
+			["statKey"] = "PARRY",
+		}, -- [12]
+		{
+			["statKey"] = "BLOCK",
+		}, -- [13]
+		{
+			["statKey"] = "MOVESPEED",
+		}, -- [14]
+		{
+			["statKey"] = "ITEMLEVEL",
+			["hidden"] = true,
+		}, -- [15]
+		{
+			["statKey"] = "GCD",
+		}, -- [16]
+		{
+			["statKey"] = "REPAIR_COST",
+		}, -- [17]
+		{
+			["statKey"] = "EnhancementsCategory",
+		}, -- [18]
+		{
+			["statKey"] = "CRITCHANCE",
+		}, -- [19]
+		{
+			["statKey"] = "HASTE",
+		}, -- [20]
+		{
+			["statKey"] = "MASTERY",
+		}, -- [21]
+		{
+			["statKey"] = "VERSATILITY",
+		}, -- [22]
+		{
+			["statKey"] = "LIFESTEAL",
+		}, -- [23]
+		{
+			["statKey"] = "AVOIDANCE",
+		}, -- [24]
+		{
+			["statKey"] = "ATTACK_DAMAGE",
+		}, -- [25]
+		{
+			["statKey"] = "ATTACK_AP",
+		}, -- [26]
+		{
+			["statKey"] = "ENERGY_REGEN",
+		}, -- [27]
+		{
+			["statKey"] = "RUNE_REGEN",
+		}, -- [28]
+		{
+			["statKey"] = "FOCUS_REGEN",
+		}, -- [29]
+		{
+			["statKey"] = "ATTACK_ATTACKSPEED",
+		}, -- [30]
+		{
+			["statKey"] = "SPELLPOWER",
+		}, -- [31]
+		{
+			["statKey"] = "MANAREGEN",
+		}, -- [32]
+		{
+			["statKey"] = "STAGGER",
+		}, -- [33]
+		{
+			["statKey"] = "SPEED",
+		}, -- [34]
+		["uniqueKey"] = "Wetaetasgdgw:巨龙之吼:3",
 	},
 	["锦在天堂:太阳之井:3"] = {
 		{
@@ -2558,7 +2976,7 @@ TinyCharacterStatsDB = {
 		}, -- [34]
 		["uniqueKey"] = "锦在天堂:太阳之井:3",
 	},
-	["龙若山:巨龙之吼:2"] = {
+	["星界旅行者:巨龙之吼:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -2662,7 +3080,113 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "SPEED",
 		}, -- [34]
-		["uniqueKey"] = "龙若山:巨龙之吼:2",
+		["uniqueKey"] = "星界旅行者:巨龙之吼:3",
+	},
+	["倾城丨奶僧:摩摩尔:2"] = {
+		{
+			["statKey"] = "ItemLevelFrame",
+		}, -- [1]
+		{
+			["statKey"] = "AttributesCategory",
+		}, -- [2]
+		{
+			["statKey"] = "HEALTH",
+		}, -- [3]
+		{
+			["statKey"] = "POWER",
+		}, -- [4]
+		{
+			["statKey"] = "ALTERNATEMANA",
+		}, -- [5]
+		{
+			["statKey"] = "STRENGTH",
+		}, -- [6]
+		{
+			["statKey"] = "AGILITY",
+		}, -- [7]
+		{
+			["statKey"] = "INTELLECT",
+		}, -- [8]
+		{
+			["statKey"] = "STAMINA",
+		}, -- [9]
+		{
+			["statKey"] = "ARMOR",
+		}, -- [10]
+		{
+			["statKey"] = "DODGE",
+		}, -- [11]
+		{
+			["statKey"] = "PARRY",
+		}, -- [12]
+		{
+			["statKey"] = "BLOCK",
+		}, -- [13]
+		{
+			["statKey"] = "MOVESPEED",
+		}, -- [14]
+		{
+			["statKey"] = "ITEMLEVEL",
+			["hidden"] = true,
+		}, -- [15]
+		{
+			["statKey"] = "GCD",
+		}, -- [16]
+		{
+			["statKey"] = "REPAIR_COST",
+		}, -- [17]
+		{
+			["statKey"] = "EnhancementsCategory",
+		}, -- [18]
+		{
+			["statKey"] = "CRITCHANCE",
+		}, -- [19]
+		{
+			["statKey"] = "HASTE",
+		}, -- [20]
+		{
+			["statKey"] = "MASTERY",
+		}, -- [21]
+		{
+			["statKey"] = "VERSATILITY",
+		}, -- [22]
+		{
+			["statKey"] = "LIFESTEAL",
+		}, -- [23]
+		{
+			["statKey"] = "AVOIDANCE",
+		}, -- [24]
+		{
+			["statKey"] = "ATTACK_DAMAGE",
+		}, -- [25]
+		{
+			["statKey"] = "ATTACK_AP",
+		}, -- [26]
+		{
+			["statKey"] = "ENERGY_REGEN",
+		}, -- [27]
+		{
+			["statKey"] = "RUNE_REGEN",
+		}, -- [28]
+		{
+			["statKey"] = "FOCUS_REGEN",
+		}, -- [29]
+		{
+			["statKey"] = "ATTACK_ATTACKSPEED",
+		}, -- [30]
+		{
+			["statKey"] = "SPELLPOWER",
+		}, -- [31]
+		{
+			["statKey"] = "MANAREGEN",
+		}, -- [32]
+		{
+			["statKey"] = "STAGGER",
+		}, -- [33]
+		{
+			["statKey"] = "SPEED",
+		}, -- [34]
+		["uniqueKey"] = "倾城丨奶僧:摩摩尔:2",
 	},
 	["倾城丨猫爷:太阳之井:3"] = {
 		{
@@ -2764,13 +3288,12 @@ TinyCharacterStatsDB = {
 		}, -- [32]
 		["uniqueKey"] = "倾城丨猫爷:太阳之井:3",
 	},
-	["龙剑曦:主宰之剑:3"] = {
+	["龙轻雪:主宰之剑:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
 		{
 			["statKey"] = "AttributesCategory",
-			["hidden"] = true,
 		}, -- [2]
 		{
 			["statKey"] = "HEALTH",
@@ -2821,7 +3344,6 @@ TinyCharacterStatsDB = {
 		}, -- [17]
 		{
 			["statKey"] = "EnhancementsCategory",
-			["hidden"] = false,
 		}, -- [18]
 		{
 			["statKey"] = "CRITCHANCE",
@@ -2865,9 +3387,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "龙剑曦:主宰之剑:3",
+		["uniqueKey"] = "龙轻雪:主宰之剑:1",
 	},
-	["Qweqeqw:巨龙之吼:3"] = {
+	["Dsadada:巨龙之吼:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -2971,9 +3493,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "SPEED",
 		}, -- [34]
-		["uniqueKey"] = "Qweqeqw:巨龙之吼:3",
+		["uniqueKey"] = "Dsadada:巨龙之吼:3",
 	},
-	["Wafasdffa:巨龙之吼:3"] = {
+	["星界旅行者:巨龙之吼:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -3077,7 +3599,7 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "SPEED",
 		}, -- [34]
-		["uniqueKey"] = "Wafasdffa:巨龙之吼:3",
+		["uniqueKey"] = "星界旅行者:巨龙之吼:1",
 	},
 	["信仰丶圣光:摩摩尔:1"] = {
 		{
@@ -3179,7 +3701,7 @@ TinyCharacterStatsDB = {
 		}, -- [32]
 		["uniqueKey"] = "信仰丶圣光:摩摩尔:1",
 	},
-	["龙轻雪:主宰之剑:1"] = {
+	["Safafafafsaf:巨龙之吼:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -3231,7 +3753,6 @@ TinyCharacterStatsDB = {
 		}, -- [16]
 		{
 			["statKey"] = "REPAIR_COST",
-			["hidden"] = true,
 		}, -- [17]
 		{
 			["statKey"] = "EnhancementsCategory",
@@ -3278,7 +3799,13 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "龙轻雪:主宰之剑:1",
+		{
+			["statKey"] = "STAGGER",
+		}, -- [33]
+		{
+			["statKey"] = "SPEED",
+		}, -- [34]
+		["uniqueKey"] = "Safafafafsaf:巨龙之吼:1",
 	},
 	["龙听雨:主宰之剑:1"] = {
 		{
@@ -3487,6 +4014,109 @@ TinyCharacterStatsDB = {
 		}, -- [34]
 		["uniqueKey"] = "龙若山:巨龙之吼:1",
 	},
+	["龙剑曦:主宰之剑:2"] = {
+		{
+			["statKey"] = "ItemLevelFrame",
+		}, -- [1]
+		{
+			["statKey"] = "AttributesCategory",
+			["hidden"] = true,
+		}, -- [2]
+		{
+			["statKey"] = "HEALTH",
+		}, -- [3]
+		{
+			["statKey"] = "POWER",
+		}, -- [4]
+		{
+			["statKey"] = "ALTERNATEMANA",
+		}, -- [5]
+		{
+			["statKey"] = "STRENGTH",
+		}, -- [6]
+		{
+			["statKey"] = "AGILITY",
+		}, -- [7]
+		{
+			["statKey"] = "INTELLECT",
+		}, -- [8]
+		{
+			["statKey"] = "STAMINA",
+		}, -- [9]
+		{
+			["statKey"] = "ARMOR",
+		}, -- [10]
+		{
+			["statKey"] = "DODGE",
+		}, -- [11]
+		{
+			["statKey"] = "PARRY",
+		}, -- [12]
+		{
+			["statKey"] = "BLOCK",
+		}, -- [13]
+		{
+			["statKey"] = "MOVESPEED",
+		}, -- [14]
+		{
+			["statKey"] = "ITEMLEVEL",
+			["hidden"] = true,
+		}, -- [15]
+		{
+			["statKey"] = "GCD",
+		}, -- [16]
+		{
+			["statKey"] = "REPAIR_COST",
+			["hidden"] = true,
+		}, -- [17]
+		{
+			["statKey"] = "EnhancementsCategory",
+			["hidden"] = false,
+		}, -- [18]
+		{
+			["statKey"] = "CRITCHANCE",
+		}, -- [19]
+		{
+			["statKey"] = "HASTE",
+		}, -- [20]
+		{
+			["statKey"] = "MASTERY",
+		}, -- [21]
+		{
+			["statKey"] = "VERSATILITY",
+		}, -- [22]
+		{
+			["statKey"] = "LIFESTEAL",
+		}, -- [23]
+		{
+			["statKey"] = "AVOIDANCE",
+		}, -- [24]
+		{
+			["statKey"] = "ATTACK_DAMAGE",
+		}, -- [25]
+		{
+			["statKey"] = "ATTACK_AP",
+		}, -- [26]
+		{
+			["statKey"] = "ENERGY_REGEN",
+		}, -- [27]
+		{
+			["statKey"] = "RUNE_REGEN",
+		}, -- [28]
+		{
+			["statKey"] = "FOCUS_REGEN",
+		}, -- [29]
+		{
+			["statKey"] = "ATTACK_ATTACKSPEED",
+		}, -- [30]
+		{
+			["statKey"] = "SPELLPOWER",
+		}, -- [31]
+		{
+			["statKey"] = "MANAREGEN",
+		}, -- [32]
+		["uniqueKey"] = "龙剑曦:主宰之剑:2",
+	},
 	["倾城丨烟雨:摩摩尔:4"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
@@ -3693,7 +4323,7 @@ TinyCharacterStatsDB = {
 		}, -- [34]
 		["uniqueKey"] = "龙听雨:巨龙之吼:2",
 	},
-	["Dsadada:巨龙之吼:3"] = {
+	["募落葒顔:巨龙之吼:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -3797,9 +4427,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "SPEED",
 		}, -- [34]
-		["uniqueKey"] = "Dsadada:巨龙之吼:3",
+		["uniqueKey"] = "募落葒顔:巨龙之吼:1",
 	},
-	["龙剑曦:主宰之剑:2"] = {
+	["龙剑曦:主宰之剑:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -3900,9 +4530,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "MANAREGEN",
 		}, -- [32]
-		["uniqueKey"] = "龙剑曦:主宰之剑:2",
+		["uniqueKey"] = "龙剑曦:主宰之剑:3",
 	},
-	["Safafafafsaf:巨龙之吼:1"] = {
+	["Wafasdffa:巨龙之吼:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -4006,9 +4636,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "SPEED",
 		}, -- [34]
-		["uniqueKey"] = "Safafafafsaf:巨龙之吼:1",
+		["uniqueKey"] = "Wafasdffa:巨龙之吼:3",
 	},
-	["Wetaetasgdgw:巨龙之吼:3"] = {
+	["Qweqeqw:巨龙之吼:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -4112,9 +4742,9 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "SPEED",
 		}, -- [34]
-		["uniqueKey"] = "Wetaetasgdgw:巨龙之吼:3",
+		["uniqueKey"] = "Qweqeqw:巨龙之吼:3",
 	},
-	["倾城丨奶僧:摩摩尔:2"] = {
+	["龙若山:巨龙之吼:2"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -4218,106 +4848,6 @@ TinyCharacterStatsDB = {
 		{
 			["statKey"] = "SPEED",
 		}, -- [34]
-		["uniqueKey"] = "倾城丨奶僧:摩摩尔:2",
-	},
-	["星界旅行者:瓦拉斯塔兹:2"] = {
-		{
-			["statKey"] = "ItemLevelFrame",
-		}, -- [1]
-		{
-			["statKey"] = "AttributesCategory",
-		}, -- [2]
-		{
-			["statKey"] = "HEALTH",
-		}, -- [3]
-		{
-			["statKey"] = "POWER",
-		}, -- [4]
-		{
-			["statKey"] = "ALTERNATEMANA",
-		}, -- [5]
-		{
-			["statKey"] = "STRENGTH",
-		}, -- [6]
-		{
-			["statKey"] = "AGILITY",
-		}, -- [7]
-		{
-			["statKey"] = "INTELLECT",
-		}, -- [8]
-		{
-			["statKey"] = "STAMINA",
-		}, -- [9]
-		{
-			["statKey"] = "ARMOR",
-		}, -- [10]
-		{
-			["statKey"] = "DODGE",
-		}, -- [11]
-		{
-			["statKey"] = "PARRY",
-		}, -- [12]
-		{
-			["statKey"] = "BLOCK",
-		}, -- [13]
-		{
-			["statKey"] = "MOVESPEED",
-		}, -- [14]
-		{
-			["statKey"] = "ITEMLEVEL",
-			["hidden"] = true,
-		}, -- [15]
-		{
-			["statKey"] = "GCD",
-		}, -- [16]
-		{
-			["statKey"] = "REPAIR_COST",
-		}, -- [17]
-		{
-			["statKey"] = "EnhancementsCategory",
-		}, -- [18]
-		{
-			["statKey"] = "CRITCHANCE",
-		}, -- [19]
-		{
-			["statKey"] = "HASTE",
-		}, -- [20]
-		{
-			["statKey"] = "MASTERY",
-		}, -- [21]
-		{
-			["statKey"] = "VERSATILITY",
-		}, -- [22]
-		{
-			["statKey"] = "LIFESTEAL",
-		}, -- [23]
-		{
-			["statKey"] = "AVOIDANCE",
-		}, -- [24]
-		{
-			["statKey"] = "ATTACK_DAMAGE",
-		}, -- [25]
-		{
-			["statKey"] = "ATTACK_AP",
-		}, -- [26]
-		{
-			["statKey"] = "ENERGY_REGEN",
-		}, -- [27]
-		{
-			["statKey"] = "RUNE_REGEN",
-		}, -- [28]
-		{
-			["statKey"] = "FOCUS_REGEN",
-		}, -- [29]
-		{
-			["statKey"] = "ATTACK_ATTACKSPEED",
-		}, -- [30]
-		{
-			["statKey"] = "SPELLPOWER",
-		}, -- [31]
-		{
-			["statKey"] = "MANAREGEN",
-		}, -- [32]
-		["uniqueKey"] = "星界旅行者:瓦拉斯塔兹:2",
+		["uniqueKey"] = "龙若山:巨龙之吼:2",
 	},
 }
