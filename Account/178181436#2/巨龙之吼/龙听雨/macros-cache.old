@@ -1,0 +1,69 @@
+VER 3 0100000000000007 " 罩子" "INV_MISC_QUESTIONMARK"
+#showtooltip 作茧缚命
+/cast [@target] 作茧缚命
+END
+VER 3 0100000000000016 "1" "134400"
+#showtooltip 嚎镇八方
+/tar 玄牛雕像
+/cast 嚎镇八方
+END
+VER 3 010000000000000D "1 " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus,harm,exists] 切喉手
+END
+VER 3 0100000000000005 "3+1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/targetenemy[nodead]
+/startattack
+/castsequence reset=10/combat 猛虎掌,猛虎掌,幻灭踢
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N下一任[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙听雨[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000014 "分身" "134400"
+#showtooltip
+/cast [known:风火雷电]风火雷电;屏气凝神
+/use 14
+END
+VER 3 010000000000000F "天神" "134400"
+#showtooltip
+/cast [known:青龙下凡]青龙下凡;朱鹤下凡
+END
+VER 3 0100000000000012 "幻灭毛线" "134400"
+#showtooltip
+/cast [@target,help]抚慰之雾;[@target,harm]幻灭踢;幻灭踢
+END
+VER 3 0100000000000013 "旭日活血" "134400"
+#showtooltip
+/cast [@target,help]活血术;[@target,harm]旭日东升踢;旭日东升踢
+END
+VER 3 010000000000000B "法杖宏" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 雷光聚神茶
+/use 16
+END
+VER 3 0100000000000015 "爆炸酒桶" "134400"
+#showtooltip
+/cast [@cursor] 爆炸酒桶
+END
+VER 3 0100000000000011 "白虎氤氲" "134400"
+#showtooltip
+/cast [@target,help]氤氲之雾;[@target,harm]猛虎掌;猛虎掌
+END
+VER 3 0100000000000008 "群嘲" "INV_MISC_QUESTIONMARK"
+#showtooltip 嚎镇八方
+/tar [mod:shift] 玄牛雕像
+/cast 嚎镇八方
+/targetlasttarget [mod:shift]
+END
+VER 3 010000000000000E "还魂" "134400"
+#showtooltip
+/cast [known:还魂术]还魂术;还阳术
+END
+VER 3 0100000000000010 "雕像" "134400"
+#showtooltip
+/cast [known:召唤青龙雕像]召唤青龙雕像;[known:召唤白虎雕像]召唤白虎雕像;召唤玄牛雕像
+END

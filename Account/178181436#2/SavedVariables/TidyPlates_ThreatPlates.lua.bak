@@ -1,0 +1,99 @@
+
+ThreatPlatesDB = {
+["char"] = {
+["星界旅行者 - 巨龙之吼"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["龙天星 - 巨龙之吼"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["龙若山 - 巨龙之吼"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = true,
+},
+},
+["龙轻雪 - 主宰之剑"] = {
+["welcome"] = true,
+["spec"] = {
+nil,
+nil,
+true,
+false,
+},
+},
+["脆皮骑士 - 巨龙之吼"] = {
+["welcome"] = true,
+["spec"] = {
+nil,
+true,
+false,
+},
+},
+["锦在天堂 - 太阳之井"] = {
+["welcome"] = true,
+["spec"] = {
+true,
+[3] = false,
+},
+},
+["龙听雨 - 巨龙之吼"] = {
+["welcome"] = true,
+["spec"] = {
+true,
+[3] = false,
+},
+},
+},
+["profileKeys"] = {
+["星界旅行者 - 巨龙之吼"] = "Default",
+["龙天星 - 巨龙之吼"] = "Default",
+["龙若山 - 巨龙之吼"] = "Default",
+["龙轻雪 - 主宰之剑"] = "Default",
+["脆皮骑士 - 巨龙之吼"] = "Default",
+["锦在天堂 - 太阳之井"] = "Default",
+["龙听雨 - 巨龙之吼"] = "Default",
+},
+["namespaces"] = {
+["LibDualSpec-1.0"] = {
+},
+},
+["global"] = {
+["version"] = "12.0.9",
+},
+["profiles"] = {
+["Default"] = {
+["nameplate"] = {
+["toggle"] = {
+["CastingEnemyUnitAlpha"] = true,
+},
+["alpha"] = {
+["NonTarget"] = 0.5499999999999998,
+},
+},
+["AuraWidget"] = {
+["SortOrder"] = "None",
+["Debuffs"] = {
+["ShowEnemy"] = false,
+},
+["Buffs"] = {
+["ShowOnEnemyNPCs"] = false,
+},
+},
+["settings"] = {
+["frame"] = {
+["heightFriend"] = 61.6817726964263,
+["widthFriend"] = 144.5,
+["height"] = 61.6817726964263,
+["width"] = 144.5,
+},
+},
+},
+},
+}

@@ -1,0 +1,63 @@
+VER 3 0000000000000014 "ConsolePort_Menu" "136243"
+/click CPMa
+/click CPMb
+/click CPMc
+/click CPMd
+/click CPMe
+/click CPMf
+/click CPMg
+/click CPMh
+/click CPMi
+/click CPMj
+/click CPMk
+/click CPMl
+/click CPMm
+/click CPMn
+/click CPMo
+/click CPMp
+/click CPMq
+END
+VER 3 0000000000000013 "ConsolePort_Menu" "136243"
+/click CPMa
+/click CPMb
+/click CPMc
+/click CPMd
+/click CPMe
+/click CPMf
+/click CPMg
+/click CPMh
+/click CPMi
+/click CPMj
+/click CPMk
+/click CPMl
+/click CPMm
+/click CPMn
+/click CPMo
+/click CPMp
+/click CPMq
+END
+VER 3 0000000000000002 "DS" "136120"
+/click ExtraActionButton1
+END
+VER 3 0000000000000011 "tsm" "134400"
+/tsm destroy
+END
+VER 3 0000000000000003 "取消保护" "135964"
+/cancelaura 保护祝福
+END
+VER 3 0000000000000001 "虚弱宏" "INV_MISC_QUESTIONMARK"
+/run RepopMe() RetrieveCorpse() 
+/run RepopMe() AcceptResurrect() AcceptXPLoss()
+END
+VER 3 000000000000000F "语言" "INV_MISC_QUESTIONMARK"
+/console SET portal "TW"
+/console SET profanityFilter "0"
+END
+VER 3 0000000000000006 "饰品1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 0000000000000009 "饰品2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END

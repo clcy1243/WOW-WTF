@@ -1,0 +1,2078 @@
+
+DetailsDataStorage = {
+["normal"] = {
+[2917] = {
+{
+["time"] = 1726229348,
+["guild"] = "Starry Night",
+["elapsed"] = 208.8260000000009,
+["date"] = "20:09 13/09/24",
+["servertime"] = 1726229347,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 99686800,
+["itemLevel"] = 598.625,
+["classId"] = 13,
+},
+["指尖璇沙"] = {
+["total"] = 146054645,
+["itemLevel"] = 590.625,
+["classId"] = 7,
+},
+["蹲下不起立"] = {
+["total"] = 124230042,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["煤球啊"] = {
+["total"] = 112506532,
+["itemLevel"] = 584.6875,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["幸福只是传说"] = {
+["total"] = 113148568,
+["itemLevel"] = 594.5,
+["classId"] = 2,
+},
+["陈巨龙的撞击"] = {
+["total"] = 142697285,
+["itemLevel"] = 593.875,
+["classId"] = 1,
+},
+["龙听雨"] = {
+["total"] = 65956034,
+["itemLevel"] = 574.6875,
+["classId"] = 10,
+},
+["坎德拉丶血誓"] = {
+["total"] = 118231819,
+["itemLevel"] = 598.1875,
+["classId"] = 6,
+},
+["琉璃染星"] = {
+["total"] = 92651665,
+["itemLevel"] = 576.2666666666667,
+["classId"] = 1,
+},
+["烧卑-白银之手"] = {
+["total"] = 140770160,
+["itemLevel"] = 591.6,
+["classId"] = 1,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 126139129,
+["itemLevel"] = 588.875,
+["classId"] = 6,
+},
+["小绵羊呀"] = {
+["total"] = 151399584,
+["itemLevel"] = 591.2666666666667,
+["classId"] = 8,
+},
+["风吹罩罩香哟"] = {
+["total"] = 43765374,
+["itemLevel"] = 583.6875,
+["classId"] = 8,
+},
+["快活嘚地沟油"] = {
+["total"] = 111828453,
+["itemLevel"] = 602.75,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 147557091,
+["itemLevel"] = 596.5625,
+["classId"] = 3,
+},
+["田一是条狗"] = {
+["total"] = 103448017,
+["itemLevel"] = 595.875,
+["classId"] = 2,
+},
+["凉了么"] = {
+["total"] = 106357036,
+["itemLevel"] = 583.75,
+["classId"] = 9,
+},
+["我酷我酷我酷"] = {
+["total"] = 157290540,
+["itemLevel"] = 596.375,
+["classId"] = 1,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 39848053,
+["itemLevel"] = 584.875,
+["classId"] = 10,
+},
+["快逃"] = {
+["total"] = 61429991,
+["itemLevel"] = 582.25,
+["classId"] = 6,
+},
+},
+},
+},
+[2918] = {
+{
+["time"] = 1726230439,
+["guild"] = "Starry Night",
+["elapsed"] = 240.2020000000193,
+["date"] = "20:27 13/09/24",
+["servertime"] = 1726230438,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 166512840,
+["itemLevel"] = 598.625,
+["classId"] = 13,
+},
+["指尖璇沙"] = {
+["total"] = 130739649,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["蹲下不起立"] = {
+["total"] = 99267955,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["煤球啊"] = {
+["total"] = 139728786,
+["itemLevel"] = 584.6875,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["幸福只是传说"] = {
+["total"] = 129173591,
+["itemLevel"] = 594.5,
+["classId"] = 2,
+},
+["凉了么"] = {
+["total"] = 109564677,
+["itemLevel"] = 582.9375,
+["classId"] = 9,
+},
+["我酷我酷我酷"] = {
+["total"] = 180592860,
+["itemLevel"] = 596.375,
+["classId"] = 1,
+},
+["琉璃染星"] = {
+["total"] = 115136983,
+["itemLevel"] = 584.875,
+["classId"] = 1,
+},
+["烧卑-白银之手"] = {
+["total"] = 177525868,
+["itemLevel"] = 591.5,
+["classId"] = 1,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 157426586,
+["itemLevel"] = 588.875,
+["classId"] = 6,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 153712139,
+["itemLevel"] = 597.375,
+["classId"] = 3,
+},
+["坎德拉丶血誓"] = {
+["total"] = 100434499,
+["itemLevel"] = 598.1875,
+["classId"] = 6,
+},
+["快活嘚地沟油"] = {
+["total"] = 125517541,
+["itemLevel"] = 602.75,
+["classId"] = 3,
+},
+["小绵羊呀"] = {
+["total"] = 156507301,
+["itemLevel"] = 590.5625,
+["classId"] = 8,
+},
+["田一是条狗"] = {
+["total"] = 140835605,
+["itemLevel"] = 595.875,
+["classId"] = 2,
+},
+["风吹罩罩香哟"] = {
+["total"] = 83524267,
+["itemLevel"] = 585.3125,
+["classId"] = 8,
+},
+["龙听雨"] = {
+["total"] = 97916484,
+["itemLevel"] = 576.3125,
+["classId"] = 10,
+},
+["陈巨龙的撞击"] = {
+["total"] = 162804599,
+["itemLevel"] = 593.875,
+["classId"] = 1,
+},
+["快逃"] = {
+["total"] = 55154295,
+["itemLevel"] = 582.25,
+["classId"] = 6,
+},
+},
+},
+},
+[2898] = {
+{
+["time"] = 1726229981,
+["guild"] = "Starry Night",
+["elapsed"] = 201.9539999999979,
+["date"] = "20:19 13/09/24",
+["servertime"] = 1726229980,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 146431932,
+["itemLevel"] = 598.625,
+["classId"] = 13,
+},
+["指尖璇沙"] = {
+["total"] = 162281357,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["蹲下不起立"] = {
+["total"] = 115055511,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["煤球啊"] = {
+["total"] = 126543965,
+["itemLevel"] = 584.6875,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["幸福只是传说"] = {
+["total"] = 103863202,
+["itemLevel"] = 594.5,
+["classId"] = 2,
+},
+["陈巨龙的撞击"] = {
+["total"] = 133117087,
+["itemLevel"] = 594.5333333333333,
+["classId"] = 1,
+},
+["龙听雨"] = {
+["total"] = 77421370,
+["itemLevel"] = 574.6875,
+["classId"] = 10,
+},
+["坎德拉丶血誓"] = {
+["total"] = 122282243,
+["itemLevel"] = 598.1875,
+["classId"] = 6,
+},
+["琉璃染星"] = {
+["total"] = 97414138,
+["itemLevel"] = 584.875,
+["classId"] = 1,
+},
+["烧卑-白银之手"] = {
+["total"] = 89326986,
+["itemLevel"] = 591.5,
+["classId"] = 1,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 136445876,
+["itemLevel"] = 588.875,
+["classId"] = 6,
+},
+["小绵羊呀"] = {
+["total"] = 142669384,
+["itemLevel"] = 590.5625,
+["classId"] = 8,
+},
+["风吹罩罩香哟"] = {
+["total"] = 51100551,
+["itemLevel"] = 585.3125,
+["classId"] = 8,
+},
+["快活嘚地沟油"] = {
+["total"] = 106695612,
+["itemLevel"] = 602.75,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 129976050,
+["itemLevel"] = 596.5625,
+["classId"] = 3,
+},
+["田一是条狗"] = {
+["total"] = 115965474,
+["itemLevel"] = 595.2,
+["classId"] = 2,
+},
+["凉了么"] = {
+["total"] = 90066357,
+["itemLevel"] = 583.75,
+["classId"] = 9,
+},
+["我酷我酷我酷"] = {
+["total"] = 122156195,
+["itemLevel"] = 596.375,
+["classId"] = 1,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 42641591,
+["itemLevel"] = 584.875,
+["classId"] = 10,
+},
+["快逃"] = {
+["total"] = 42653923,
+["itemLevel"] = 582.25,
+["classId"] = 6,
+},
+},
+},
+},
+[2920] = {
+{
+["time"] = 1726232109,
+["guild"] = "Starry Night",
+["elapsed"] = 236.627999999997,
+["date"] = "20:55 13/09/24",
+["servertime"] = 1726232108,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 139133311,
+["itemLevel"] = 598.625,
+["classId"] = 13,
+},
+["指尖璇沙"] = {
+["total"] = 157389264,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["蹲下不起立"] = {
+["total"] = 117266144,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["煤球啊"] = {
+["total"] = 143290614,
+["itemLevel"] = 585.125,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["幸福只是传说"] = {
+["total"] = 128216775,
+["itemLevel"] = 594.5,
+["classId"] = 2,
+},
+["陈巨龙的撞击"] = {
+["total"] = 127170490,
+["itemLevel"] = 593.875,
+["classId"] = 1,
+},
+["龙听雨"] = {
+["total"] = 96811835,
+["itemLevel"] = 576.3125,
+["classId"] = 10,
+},
+["坎德拉丶血誓"] = {
+["total"] = 114252328,
+["itemLevel"] = 598.1875,
+["classId"] = 6,
+},
+["琉璃染星"] = {
+["total"] = 99193766,
+["itemLevel"] = 584.875,
+["classId"] = 1,
+},
+["烧卑-白银之手"] = {
+["total"] = 124434179,
+["itemLevel"] = 591.5,
+["classId"] = 1,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 156016433,
+["itemLevel"] = 588.875,
+["classId"] = 6,
+},
+["小绵羊呀"] = {
+["total"] = 161839780,
+["itemLevel"] = 591.9333333333333,
+["classId"] = 8,
+},
+["风吹罩罩香哟"] = {
+["total"] = 79385701,
+["itemLevel"] = 585.75,
+["classId"] = 8,
+},
+["快活嘚地沟油"] = {
+["total"] = 106890035,
+["itemLevel"] = 604.1875,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 139716616,
+["itemLevel"] = 597.375,
+["classId"] = 3,
+},
+["田一是条狗"] = {
+["total"] = 132170403,
+["itemLevel"] = 595.875,
+["classId"] = 2,
+},
+["凉了么"] = {
+["total"] = 102737668,
+["itemLevel"] = 582.9375,
+["classId"] = 9,
+},
+["我酷我酷我酷"] = {
+["total"] = 141103630,
+["itemLevel"] = 596.375,
+["classId"] = 1,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 40955046,
+["itemLevel"] = 586.125,
+["classId"] = 10,
+},
+["快逃"] = {
+["total"] = 59304806,
+["itemLevel"] = 582.25,
+["classId"] = 6,
+},
+},
+},
+},
+[2921] = {
+{
+["time"] = 1726234854,
+["guild"] = "Starry Night",
+["elapsed"] = 427.7860000000219,
+["date"] = "21:40 13/09/24",
+["servertime"] = 1726234853,
+["HEALER"] = {
+["指尖璇沙"] = {
+["total"] = 288386127,
+["itemLevel"] = 594.1875,
+["classId"] = 7,
+},
+["煤球啊"] = {
+["total"] = 231148888,
+["itemLevel"] = 585.125,
+["classId"] = 2,
+},
+["龙听雨"] = {
+["total"] = 96920531,
+["itemLevel"] = 574,
+["classId"] = 10,
+},
+["蹲下不起立"] = {
+["total"] = 201200175,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["吃掉小绵羊"] = {
+["total"] = 308570157,
+["itemLevel"] = 598.625,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["幸福只是传说"] = {
+["total"] = 351166337,
+["itemLevel"] = 594.5,
+["classId"] = 2,
+},
+["Deimos"] = {
+["total"] = 248985482,
+["itemLevel"] = 587.9375,
+["classId"] = 12,
+},
+["凉了么"] = {
+["total"] = 204153542,
+["itemLevel"] = 582.4666666666667,
+["classId"] = 9,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 354295275,
+["itemLevel"] = 588.875,
+["classId"] = 6,
+},
+["琉璃染星"] = {
+["total"] = 112993675,
+["itemLevel"] = 584.875,
+["classId"] = 1,
+},
+["烧卑-白银之手"] = {
+["total"] = 316335018,
+["itemLevel"] = 591.5,
+["classId"] = 1,
+},
+["陈巨龙的撞击"] = {
+["total"] = 363161389,
+["itemLevel"] = 593.875,
+["classId"] = 1,
+},
+["小绵羊呀"] = {
+["total"] = 359973110,
+["itemLevel"] = 591.1875,
+["classId"] = 8,
+},
+["风吹罩罩香哟"] = {
+["total"] = 106910657,
+["itemLevel"] = 585.75,
+["classId"] = 8,
+},
+["快活嘚地沟油"] = {
+["total"] = 181710978,
+["itemLevel"] = 604.1875,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 293230561,
+["itemLevel"] = 596.8,
+["classId"] = 3,
+},
+["田一是条狗"] = {
+["total"] = 339652508,
+["itemLevel"] = 595.875,
+["classId"] = 2,
+},
+["坎德拉丶血誓"] = {
+["total"] = 232563558,
+["itemLevel"] = 598.1875,
+["classId"] = 6,
+},
+["我酷我酷我酷"] = {
+["total"] = 335693731,
+["itemLevel"] = 595.7333333333333,
+["classId"] = 1,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 116874033,
+["itemLevel"] = 588.5625,
+["classId"] = 10,
+},
+["快逃"] = {
+["total"] = 112528691,
+["itemLevel"] = 581.5333333333333,
+["classId"] = 6,
+},
+},
+},
+},
+[2922] = {
+{
+["time"] = 1726237205,
+["guild"] = "Starry Night",
+["elapsed"] = 422.877999999997,
+["date"] = "22:20 13/09/24",
+["servertime"] = 1726237204,
+["HEALER"] = {
+["蹲下不起立"] = {
+["total"] = 214183419,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["指尖璇沙"] = {
+["total"] = 303714719,
+["itemLevel"] = 594.1875,
+["classId"] = 7,
+},
+["煤球啊"] = {
+["total"] = 124990396,
+["itemLevel"] = 584.125,
+["classId"] = 2,
+},
+["吃掉小绵羊"] = {
+["total"] = 291506965,
+["itemLevel"] = 599.4375,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["琉璃染星"] = {
+["total"] = 107701308,
+["itemLevel"] = 584.875,
+["classId"] = 1,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 127434652,
+["itemLevel"] = 590.5,
+["classId"] = 6,
+},
+["坎德拉丶血誓"] = {
+["total"] = 177365502,
+["itemLevel"] = 598.1875,
+["classId"] = 6,
+},
+["快活嘚地沟油"] = {
+["total"] = 195120991,
+["itemLevel"] = 604.1875,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 198146840,
+["itemLevel"] = 597.375,
+["classId"] = 3,
+},
+["龙听雨"] = {
+["total"] = 113391118,
+["itemLevel"] = 578.125,
+["classId"] = 10,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 74813209,
+["itemLevel"] = 588.5625,
+["classId"] = 10,
+},
+["快逃"] = {
+["total"] = 95370715,
+["itemLevel"] = 582.25,
+["classId"] = 6,
+},
+["陈巨龙的撞击"] = {
+["total"] = 246510328,
+["itemLevel"] = 593.875,
+["classId"] = 1,
+},
+["风吹罩罩香哟"] = {
+["total"] = 105801757,
+["itemLevel"] = 585.75,
+["classId"] = 8,
+},
+["烧卑-白银之手"] = {
+["total"] = 207790184,
+["itemLevel"] = 591.5,
+["classId"] = 1,
+},
+["小绵羊呀"] = {
+["total"] = 239997141,
+["itemLevel"] = 591.1875,
+["classId"] = 8,
+},
+["田一是条狗"] = {
+["total"] = 196074084,
+["itemLevel"] = 595.875,
+["classId"] = 2,
+},
+["凉了么"] = {
+["total"] = 95645284,
+["itemLevel"] = 582.4666666666667,
+["classId"] = 9,
+},
+["我酷我酷我酷"] = {
+["total"] = 143013834,
+["itemLevel"] = 596.375,
+["classId"] = 1,
+},
+["Deimos"] = {
+["total"] = 165968520,
+["itemLevel"] = 589.5625,
+["classId"] = 12,
+},
+["幸福只是传说"] = {
+["total"] = 201724321,
+["itemLevel"] = 594.5,
+["classId"] = 2,
+},
+},
+},
+},
+[2902] = {
+{
+["time"] = 1726228413,
+["guild"] = "Starry Night",
+["elapsed"] = 245.6259999999893,
+["date"] = "19:53 13/09/24",
+["servertime"] = 1726228412,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 114593360,
+["itemLevel"] = 598.625,
+["classId"] = 13,
+},
+["指尖璇沙"] = {
+["total"] = 76413473,
+["itemLevel"] = 590.625,
+["classId"] = 7,
+},
+["蹲下不起立"] = {
+["total"] = 94794703,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["煤球啊"] = {
+["total"] = 42515555,
+["itemLevel"] = 584.6875,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["幸福只是传说"] = {
+["total"] = 106176881,
+["itemLevel"] = 594.5,
+["classId"] = 2,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 104692532,
+["itemLevel"] = 588.875,
+["classId"] = 6,
+},
+["龙听雨"] = {
+["total"] = 77876109,
+["itemLevel"] = 574.6875,
+["classId"] = 10,
+},
+["琉璃染星"] = {
+["total"] = 57013803,
+["itemLevel"] = 584.875,
+["classId"] = 1,
+},
+["烧卑-白银之手"] = {
+["total"] = 146670163,
+["itemLevel"] = 591.5,
+["classId"] = 1,
+},
+["陈巨龙的撞击"] = {
+["total"] = 147376666,
+["itemLevel"] = 592.8125,
+["classId"] = 1,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 129416002,
+["itemLevel"] = 596.5625,
+["classId"] = 3,
+},
+["坎德拉丶血誓"] = {
+["total"] = 116069801,
+["itemLevel"] = 598.1875,
+["classId"] = 6,
+},
+["快活嘚地沟油"] = {
+["total"] = 105120260,
+["itemLevel"] = 602.75,
+["classId"] = 3,
+},
+["小绵羊呀"] = {
+["total"] = 118627370,
+["itemLevel"] = 591.5625,
+["classId"] = 8,
+},
+["田一是条狗"] = {
+["total"] = 104841657,
+["itemLevel"] = 595.875,
+["classId"] = 2,
+},
+["风吹罩罩香哟"] = {
+["total"] = 80592822,
+["itemLevel"] = 582.625,
+["classId"] = 8,
+},
+["我酷我酷我酷"] = {
+["total"] = 135479849,
+["itemLevel"] = 596.375,
+["classId"] = 1,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 43813420,
+["itemLevel"] = 582.8125,
+["classId"] = 10,
+},
+["快逃"] = {
+["total"] = 58603315,
+["itemLevel"] = 582.25,
+["classId"] = 6,
+},
+},
+},
+},
+[2919] = {
+{
+["time"] = 1726231562,
+["guild"] = "Starry Night",
+["elapsed"] = 247.3340000000026,
+["date"] = "20:46 13/09/24",
+["servertime"] = 1726231561,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 150262002,
+["itemLevel"] = 598.625,
+["classId"] = 13,
+},
+["指尖璇沙"] = {
+["total"] = 174863245,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["蹲下不起立"] = {
+["total"] = 124144172,
+["itemLevel"] = 591.6875,
+["classId"] = 7,
+},
+["煤球啊"] = {
+["total"] = 129071662,
+["itemLevel"] = 585.125,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["幸福只是传说"] = {
+["total"] = 169407741,
+["itemLevel"] = 594.5,
+["classId"] = 2,
+},
+["陈巨龙的撞击"] = {
+["total"] = 220604352,
+["itemLevel"] = 593.875,
+["classId"] = 1,
+},
+["龙听雨"] = {
+["total"] = 111654379,
+["itemLevel"] = 576.3125,
+["classId"] = 10,
+},
+["坎德拉丶血誓"] = {
+["total"] = 147308117,
+["itemLevel"] = 598.1875,
+["classId"] = 6,
+},
+["琉璃染星"] = {
+["total"] = 135037361,
+["itemLevel"] = 584.875,
+["classId"] = 1,
+},
+["烧卑-白银之手"] = {
+["total"] = 172446040,
+["itemLevel"] = 591.5,
+["classId"] = 1,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 170864414,
+["itemLevel"] = 588.875,
+["classId"] = 6,
+},
+["小绵羊呀"] = {
+["total"] = 181457375,
+["itemLevel"] = 591.2666666666667,
+["classId"] = 8,
+},
+["风吹罩罩香哟"] = {
+["total"] = 79460173,
+["itemLevel"] = 585.75,
+["classId"] = 8,
+},
+["快活嘚地沟油"] = {
+["total"] = 135116660,
+["itemLevel"] = 602.75,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 164791070,
+["itemLevel"] = 597.375,
+["classId"] = 3,
+},
+["田一是条狗"] = {
+["total"] = 169051649,
+["itemLevel"] = 595.875,
+["classId"] = 2,
+},
+["凉了么"] = {
+["total"] = 118339190,
+["itemLevel"] = 582.9375,
+["classId"] = 9,
+},
+["我酷我酷我酷"] = {
+["total"] = 206674814,
+["itemLevel"] = 596.375,
+["classId"] = 1,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 53502971,
+["itemLevel"] = 584.875,
+["classId"] = 10,
+},
+["快逃"] = {
+["total"] = 56159380,
+["itemLevel"] = 582.25,
+["classId"] = 6,
+},
+},
+},
+},
+},
+["mythic"] = {
+},
+["saved_encounters"] = {
+},
+["totalkills"] = {
+["normal"] = {
+[2917] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2919] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2921] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 6,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2922] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 5,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+},
+[2919] = {
+["normal"] = {
+["time_incombat"] = 485.179999999993,
+["time_fasterkill"] = 237.8459999999905,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 451431.5824096115,
+["dps_best_when"] = 1726231562,
+["time_fasterkill_when"] = 1726835416,
+["dps_best_raid_when"] = 1726835416,
+["dps_best_raid"] = 13028327.57330426,
+},
+["heroic"] = {
+["time_incombat"] = 471.359999999986,
+["time_fasterkill"] = 471.359999999986,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 34508.17847727741,
+["dps_best_when"] = 1726929090,
+["time_fasterkill_when"] = 1726929090,
+["dps_best_raid_when"] = 1726929090,
+["dps_best_raid"] = 14895588.04735278,
+},
+["raidfinder"] = {
+["time_incombat"] = 284.8980000000011,
+["time_fasterkill"] = 284.8980000000011,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 151328.1314907084,
+["dps_best_raid_when"] = 1726766603,
+["time_fasterkill_when"] = 1726766603,
+["dps_best_when"] = 1726766603,
+["dps_best_raid"] = 9359863.172082605,
+},
+},
+[2920] = {
+["normal"] = {
+["time_incombat"] = 434.737999999983,
+["time_fasterkill"] = 198.109999999986,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 409130.9354978119,
+["dps_best_when"] = 1726232109,
+["time_fasterkill_when"] = 1726835888,
+["dps_best_raid_when"] = 1726835888,
+["dps_best_raid"] = 11557438.02433073,
+},
+["heroic"] = {
+["time_incombat"] = 362.2960000000312,
+["time_fasterkill"] = 362.2960000000312,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 27257.42764654081,
+["dps_best_raid"] = 9513651.505950116,
+["time_fasterkill_when"] = 1727182324,
+["dps_best_raid_when"] = 1727182324,
+["dps_best_when"] = 1727182324,
+},
+["raidfinder"] = {
+["time_incombat"] = 270.198000000004,
+["time_fasterkill"] = 270.198000000004,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 49402.74911132504,
+["dps_best_raid_when"] = 1726767140,
+["time_fasterkill_when"] = 1726767140,
+["dps_best_when"] = 1726767140,
+["dps_best_raid"] = 5529724.812914892,
+},
+},
+[2898] = {
+["normal"] = {
+["time_incombat"] = 363.3469999999797,
+["time_fasterkill"] = 161.3929999999818,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 383361.4090655437,
+["dps_best_when"] = 1726229981,
+["time_fasterkill_when"] = 1726834380,
+["dps_best_raid_when"] = 1726834380,
+["dps_best_raid"] = 12790810.74148341,
+},
+["heroic"] = {
+["time_incombat"] = 264.5799999999872,
+["time_fasterkill"] = 264.5799999999872,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 48879.71882902572,
+["dps_best_when"] = 1726923037,
+["time_fasterkill_when"] = 1726923037,
+["dps_best_raid_when"] = 1726923037,
+["dps_best_raid"] = 12771109.48673431,
+},
+["raidfinder"] = {
+["time_incombat"] = 403.3440000000119,
+["time_fasterkill"] = 181.5580000000045,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 108424.5310346364,
+["dps_best_raid_when"] = 1726160898,
+["time_fasterkill_when"] = 1726160898,
+["dps_best_when"] = 1726160898,
+["dps_best_raid"] = 8140447.047224375,
+},
+},
+[2921] = {
+["normal"] = {
+["time_incombat"] = 767.2580000000016,
+["time_fasterkill"] = 339.4719999999797,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 28115.10523404454,
+["dps_best_when"] = 1726836616,
+["time_fasterkill_when"] = 1726836616,
+["dps_best_raid_when"] = 1726836616,
+["dps_best_raid"] = 14592221.20823012,
+},
+["heroic"] = {
+["time_incombat"] = 495.5200000000186,
+["time_fasterkill"] = 495.5200000000186,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 42600.79512922225,
+["dps_best_raid"] = 13895834.3780266,
+["time_fasterkill_when"] = 1727186794,
+["dps_best_raid_when"] = 1727186794,
+["dps_best_when"] = 1727186794,
+},
+},
+["raidfinder"] = {
+[2917] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+},
+["heroic"] = {
+[2917] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2918] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2919] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 10,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2920] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 22,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2921] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 8,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[2898] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+},
+[2917] = {
+["normal"] = {
+["time_incombat"] = 425.6659999999974,
+["time_fasterkill"] = 208.8260000000009,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 315842.0599099332,
+["dps_best_when"] = 1726229348,
+["time_fasterkill_when"] = 1726229348,
+["dps_best_raid_when"] = 1726833823,
+["dps_best_raid"] = 10476644.6227635,
+},
+["heroic"] = {
+["time_incombat"] = 312.8179999999993,
+["time_fasterkill"] = 312.8179999999993,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 27461.354540749,
+["dps_best_when"] = 1726922007,
+["time_fasterkill_when"] = 1726922007,
+["dps_best_raid_when"] = 1726922007,
+["dps_best_raid"] = 11894593.20115853,
+},
+["raidfinder"] = {
+["time_incombat"] = 476.9060000000027,
+["time_fasterkill"] = 215.2309999999998,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 93591.89895028142,
+["dps_best_raid_when"] = 1726160310,
+["time_fasterkill_when"] = 1726160310,
+["dps_best_when"] = 1726160310,
+["dps_best_raid"] = 7784992.951758817,
+},
+},
+[2922] = {
+["normal"] = {
+["time_incombat"] = 790.2930000000051,
+["time_fasterkill"] = 367.4150000000082,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 268141.4450657017,
+["dps_best_when"] = 1726237205,
+["time_fasterkill_when"] = 1726837179,
+["dps_best_raid_when"] = 1726837179,
+["dps_best_raid"] = 8922421.67848326,
+},
+},
+[2918] = {
+["normal"] = {
+["time_incombat"] = 437.0139999999956,
+["time_fasterkill"] = 196.8119999999763,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 407642.2511102369,
+["dps_best_when"] = 1726230439,
+["time_fasterkill_when"] = 1726834778,
+["dps_best_raid_when"] = 1726834778,
+["dps_best_raid"] = 12140476.92722135,
+},
+["heroic"] = {
+["time_incombat"] = 350.4049999999988,
+["time_fasterkill"] = 350.4049999999988,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 32542.70345205416,
+["dps_best_when"] = 1726923975,
+["time_fasterkill_when"] = 1726923975,
+["dps_best_raid_when"] = 1726923975,
+["dps_best_raid"] = 12695374.5380346,
+},
+["raidfinder"] = {
+["time_incombat"] = 259.9350000000122,
+["time_fasterkill"] = 259.9350000000122,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 94090.88427551062,
+["dps_best_raid_when"] = 1726765846,
+["time_fasterkill_when"] = 1726765846,
+["dps_best_when"] = 1726765846,
+["dps_best_raid"] = 7150641.671956115,
+},
+},
+[2902] = {
+["normal"] = {
+["time_incombat"] = 434.5579999999609,
+["time_fasterkill"] = 188.9319999999716,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 317051.5703091423,
+["dps_best_when"] = 1726228413,
+["time_fasterkill_when"] = 1726833202,
+["dps_best_raid_when"] = 1726833202,
+["dps_best_raid"] = 10970181.1286617,
+},
+["heroic"] = {
+["time_incombat"] = 394.1669999999867,
+["time_fasterkill"] = 394.1669999999867,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 18645.95971169643,
+["dps_best_when"] = 1726920299,
+["time_fasterkill_when"] = 1726920299,
+["dps_best_raid_when"] = 1726920299,
+["dps_best_raid"] = 9076356.2271832,
+},
+["raidfinder"] = {
+["time_incombat"] = 931.5540000000765,
+["time_fasterkill"] = 224.7090000000026,
+["wipes"] = 0,
+["kills"] = 3,
+["dps_best"] = 51175.87150422767,
+["dps_best_raid_when"] = 1726165025,
+["time_fasterkill_when"] = 1726165025,
+["dps_best_when"] = 1726161966,
+["dps_best_raid"] = 6799978.94610355,
+},
+},
+},
+["25player"] = {
+[731] = {
+},
+[730] = {
+},
+[733] = {
+},
+},
+["raidfinder"] = {
+[2917] = {
+},
+[2918] = {
+},
+[2898] = {
+},
+[2920] = {
+},
+[2902] = {
+},
+[2919] = {
+},
+},
+["VERSION"] = 7,
+["25playerheroic"] = {
+[1576] = {
+},
+[1559] = {
+},
+[1577] = {
+},
+[1578] = {
+},
+[1579] = {
+},
+[1570] = {
+},
+},
+["Data"] = {
+},
+["heroic"] = {
+[2917] = {
+{
+["time"] = 1726922007,
+["guild"] = "Starry Night",
+["elapsed"] = 312.8179999999993,
+["date"] = "20:33 21/09/24",
+["servertime"] = 1726922005,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 194588355,
+["itemLevel"] = 609.4375,
+["classId"] = 13,
+},
+["龙听雨"] = {
+["total"] = 191721492,
+["itemLevel"] = 606.8125,
+["classId"] = 10,
+},
+["煤球啊"] = {
+["total"] = 223377413,
+["itemLevel"] = 609.75,
+["classId"] = 2,
+},
+["指尖璇沙"] = {
+["total"] = 166978573,
+["itemLevel"] = 606,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["只吃一碗饭"] = {
+["total"] = 214560634,
+["itemLevel"] = 610.3125,
+["classId"] = 12,
+},
+["双蛋瓦斯"] = {
+["total"] = 219160475,
+["itemLevel"] = 608.125,
+["classId"] = 7,
+},
+["灬夜幠灬"] = {
+["total"] = 198348015,
+["itemLevel"] = 601.25,
+["classId"] = 9,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 235941678,
+["itemLevel"] = 610.0625,
+["classId"] = 6,
+},
+["陈巨龙的撞击"] = {
+["total"] = 263912117,
+["itemLevel"] = 611.1875,
+["classId"] = 1,
+},
+["呆呆鸟"] = {
+["total"] = 94783453,
+["itemLevel"] = 605.6875,
+["classId"] = 11,
+},
+["田一是条狗"] = {
+["total"] = 215126233,
+["itemLevel"] = 609.4375,
+["classId"] = 2,
+},
+["快活嘚地沟油"] = {
+["total"] = 225250917,
+["itemLevel"] = 612.1875,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 268392660,
+["itemLevel"] = 609.8125,
+["classId"] = 3,
+},
+["凉了么"] = {
+["total"] = 212821439,
+["itemLevel"] = 602.8,
+["classId"] = 9,
+},
+["皮娃子-洛萨"] = {
+["total"] = 193169222,
+["itemLevel"] = 606.2,
+["classId"] = 9,
+},
+["我酷我酷我酷"] = {
+["total"] = 244857585,
+["itemLevel"] = 607.5625,
+["classId"] = 1,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 97421216,
+["itemLevel"] = 612.1875,
+["classId"] = 10,
+},
+["幸福只是传说"] = {
+["total"] = 239002829,
+["itemLevel"] = 609.1875,
+["classId"] = 2,
+},
+},
+},
+},
+[2918] = {
+{
+["time"] = 1726923975,
+["guild"] = "Starry Night",
+["elapsed"] = 350.4049999999988,
+["date"] = "21:06 21/09/24",
+["servertime"] = 1726923973,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 332352058,
+["itemLevel"] = 609.875,
+["classId"] = 13,
+},
+["龙听雨"] = {
+["total"] = 218364386,
+["itemLevel"] = 606.8125,
+["classId"] = 10,
+},
+["煤球啊"] = {
+["total"] = 264959316,
+["itemLevel"] = 609.75,
+["classId"] = 2,
+},
+["指尖璇沙"] = {
+["total"] = 290842366,
+["itemLevel"] = 606,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["老三丨灬灬冫-鬼雾峰"] = {
+["total"] = 222171921,
+["itemLevel"] = 607.8125,
+["classId"] = 8,
+},
+["灬夜幠灬"] = {
+["total"] = 237757863,
+["itemLevel"] = 601.25,
+["classId"] = 9,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 253393827,
+["itemLevel"] = 610.5,
+["classId"] = 6,
+},
+["双蛋瓦斯"] = {
+["total"] = 244858353,
+["itemLevel"] = 608.125,
+["classId"] = 7,
+},
+["只吃一碗饭"] = {
+["total"] = 254364570,
+["itemLevel"] = 610.3125,
+["classId"] = 12,
+},
+["陈巨龙的撞击"] = {
+["total"] = 319013075,
+["itemLevel"] = 611.1875,
+["classId"] = 1,
+},
+["凉了么"] = {
+["total"] = 218713134,
+["itemLevel"] = 602.8,
+["classId"] = 9,
+},
+["皮娃子-洛萨"] = {
+["total"] = 45281058,
+["itemLevel"] = 606.1875,
+["classId"] = 9,
+},
+["英勇工具人-白银之手"] = {
+["total"] = 204753205,
+["itemLevel"] = 609.5,
+["classId"] = 8,
+},
+["快活嘚地沟油"] = {
+["total"] = 243319704,
+["itemLevel"] = 611.7333333333333,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 278777914,
+["itemLevel"] = 609.8125,
+["classId"] = 3,
+},
+["田一是条狗"] = {
+["total"] = 235393969,
+["itemLevel"] = 609.4375,
+["classId"] = 2,
+},
+["呆呆鸟"] = {
+["total"] = 121720552,
+["itemLevel"] = 605.4,
+["classId"] = 11,
+},
+["我酷我酷我酷"] = {
+["total"] = 309140090,
+["itemLevel"] = 607.5625,
+["classId"] = 1,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 120806360,
+["itemLevel"] = 612.1875,
+["classId"] = 10,
+},
+["幸福只是传说"] = {
+["total"] = 237781585,
+["itemLevel"] = 609.1875,
+["classId"] = 2,
+},
+},
+},
+},
+[2898] = {
+{
+["time"] = 1726923037,
+["guild"] = "Starry Night",
+["elapsed"] = 264.5799999999872,
+["date"] = "20:50 21/09/24",
+["servertime"] = 1726923035,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 296110101,
+["itemLevel"] = 609.4375,
+["classId"] = 13,
+},
+["龙听雨"] = {
+["total"] = 134432385,
+["itemLevel"] = 606.8125,
+["classId"] = 10,
+},
+["煤球啊"] = {
+["total"] = 183190687,
+["itemLevel"] = 609.75,
+["classId"] = 2,
+},
+["指尖璇沙"] = {
+["total"] = 144512100,
+["itemLevel"] = 606,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["老三丨灬灬冫-鬼雾峰"] = {
+["total"] = 182562009,
+["itemLevel"] = 607.8125,
+["classId"] = 8,
+},
+["灬夜幠灬"] = {
+["total"] = 142447121,
+["itemLevel"] = 601.25,
+["classId"] = 9,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 238091678,
+["itemLevel"] = 610.0625,
+["classId"] = 6,
+},
+["双蛋瓦斯"] = {
+["total"] = 205103661,
+["itemLevel"] = 608.125,
+["classId"] = 7,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 99251589,
+["itemLevel"] = 612.1875,
+["classId"] = 10,
+},
+["陈巨龙的撞击"] = {
+["total"] = 204551172,
+["itemLevel"] = 611.1875,
+["classId"] = 1,
+},
+["凉了么"] = {
+["total"] = 173651749,
+["itemLevel"] = 602.8,
+["classId"] = 9,
+},
+["皮娃子-洛萨"] = {
+["total"] = 84208134,
+["itemLevel"] = 606.1875,
+["classId"] = 9,
+},
+["英勇工具人-白银之手"] = {
+["total"] = 162838488,
+["itemLevel"] = 609.5,
+["classId"] = 8,
+},
+["快活嘚地沟油"] = {
+["total"] = 189966127,
+["itemLevel"] = 612.1875,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 233220970,
+["itemLevel"] = 609.8125,
+["classId"] = 3,
+},
+["田一是条狗"] = {
+["total"] = 179696583,
+["itemLevel"] = 609.4375,
+["classId"] = 2,
+},
+["呆呆鸟"] = {
+["total"] = 86231005,
+["itemLevel"] = 605.6875,
+["classId"] = 11,
+},
+["我酷我酷我酷"] = {
+["total"] = 134424039,
+["itemLevel"] = 607.5625,
+["classId"] = 1,
+},
+["只吃一碗饭"] = {
+["total"] = 169577951,
+["itemLevel"] = 610.3125,
+["classId"] = 12,
+},
+["幸福只是传说"] = {
+["total"] = 193292732,
+["itemLevel"] = 609.1875,
+["classId"] = 2,
+},
+},
+},
+},
+[2920] = {
+{
+["date"] = "20:52 24/09/24",
+["guild"] = "Starry Night",
+["DAMAGER"] = {
+["跳舞的蛋糕"] = {
+["total"] = 78487612,
+["itemLevel"] = 606.1333333333333,
+["classId"] = 9,
+},
+["快逃"] = {
+["total"] = 115104722,
+["itemLevel"] = 599.3125,
+["classId"] = 6,
+},
+["双蛋瓦斯"] = {
+["total"] = 218088716,
+["itemLevel"] = 608.125,
+["classId"] = 7,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 294549782,
+["itemLevel"] = 611.125,
+["classId"] = 6,
+},
+["皮娃子-洛萨"] = {
+["total"] = 231929304,
+["itemLevel"] = 608,
+["classId"] = 9,
+},
+["凉了么"] = {
+["total"] = 232427595,
+["itemLevel"] = 603.9333333333333,
+["classId"] = 9,
+},
+["呆呆鸟"] = {
+["total"] = 112781385,
+["itemLevel"] = 609.375,
+["classId"] = 11,
+},
+["快活嘚地沟油"] = {
+["total"] = 241230752,
+["itemLevel"] = 612.4375,
+["classId"] = 3,
+},
+["烧卑-白银之手"] = {
+["total"] = 274072101,
+["itemLevel"] = 602.4,
+["classId"] = 1,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 279060947,
+["itemLevel"] = 609.4,
+["classId"] = 3,
+},
+["田一是条狗"] = {
+["total"] = 300914966,
+["itemLevel"] = 609.6875,
+["classId"] = 2,
+},
+["云月缭绕-白银之手"] = {
+["total"] = 259328349,
+["itemLevel"] = 613.9375,
+["classId"] = 12,
+},
+["我酷我酷我酷"] = {
+["total"] = 210276757,
+["itemLevel"] = 609.375,
+["classId"] = 1,
+},
+["灬夜幠灬"] = {
+["total"] = 242243651,
+["itemLevel"] = 601.25,
+["classId"] = 9,
+},
+["幸福只是传说"] = {
+["total"] = 269885219,
+["itemLevel"] = 612,
+["classId"] = 2,
+},
+},
+["elapsed"] = 362.2960000000312,
+["servertime"] = 1727182321,
+["HEALER"] = {
+["龙听雨"] = {
+["total"] = 353944749,
+["itemLevel"] = 609.875,
+["classId"] = 10,
+},
+["煤球啊"] = {
+["total"] = 390655888,
+["itemLevel"] = 611.1875,
+["classId"] = 2,
+},
+["指尖璇沙"] = {
+["total"] = 316708883,
+["itemLevel"] = 606.25,
+["classId"] = 7,
+},
+},
+["time"] = 1727182324,
+},
+},
+[2921] = {
+{
+["date"] = "22:06 24/09/24",
+["guild"] = "Starry Night",
+["DAMAGER"] = {
+["幸福只是传说"] = {
+["total"] = 492651322,
+["itemLevel"] = 611.5333333333333,
+["classId"] = 2,
+},
+["双蛋瓦斯"] = {
+["total"] = 444542023,
+["itemLevel"] = 608.75,
+["classId"] = 7,
+},
+["凉了么"] = {
+["total"] = 511019109,
+["itemLevel"] = 603.9333333333333,
+["classId"] = 9,
+},
+["皮娃子-洛萨"] = {
+["total"] = 467343811,
+["itemLevel"] = 608.125,
+["classId"] = 9,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 532190726,
+["itemLevel"] = 611.5,
+["classId"] = 6,
+},
+["呆呆鸟"] = {
+["total"] = 240850913,
+["itemLevel"] = 609.3333333333334,
+["classId"] = 11,
+},
+["田一是条狗"] = {
+["total"] = 473901224,
+["itemLevel"] = 609.6875,
+["classId"] = 2,
+},
+["烧卑-白银之手"] = {
+["total"] = 404551475,
+["itemLevel"] = 602.4,
+["classId"] = 1,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 438788573,
+["itemLevel"] = 609.4,
+["classId"] = 3,
+},
+["快活嘚地沟油"] = {
+["total"] = 443091553,
+["itemLevel"] = 612.4375,
+["classId"] = 3,
+},
+["云月缭绕-白银之手"] = {
+["total"] = 490344689,
+["itemLevel"] = 613.9375,
+["classId"] = 12,
+},
+["我酷我酷我酷"] = {
+["total"] = 463615256,
+["itemLevel"] = 609.375,
+["classId"] = 1,
+},
+["灬夜幠灬"] = {
+["total"] = 408658796,
+["itemLevel"] = 601.25,
+["classId"] = 9,
+},
+["快逃"] = {
+["total"] = 202290088,
+["itemLevel"] = 599.3125,
+["classId"] = 6,
+},
+},
+["elapsed"] = 495.5200000000186,
+["servertime"] = 1727186791,
+["HEALER"] = {
+["龙听雨"] = {
+["total"] = 433059245,
+["itemLevel"] = 609.875,
+["classId"] = 10,
+},
+["煤球啊"] = {
+["total"] = 423134701,
+["itemLevel"] = 611.1875,
+["classId"] = 2,
+},
+["指尖璇沙"] = {
+["total"] = 418199690,
+["itemLevel"] = 606.875,
+["classId"] = 7,
+},
+},
+["time"] = 1727186794,
+},
+},
+[2902] = {
+{
+["time"] = 1726920299,
+["guild"] = "Starry Night",
+["elapsed"] = 394.1669999999867,
+["date"] = "20:04 21/09/24",
+["servertime"] = 1726920297,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 205301192,
+["itemLevel"] = 609.4375,
+["classId"] = 13,
+},
+["龙听雨"] = {
+["total"] = 158777531,
+["itemLevel"] = 606.8125,
+["classId"] = 10,
+},
+["煤球啊"] = {
+["total"] = 166520146,
+["itemLevel"] = 609.75,
+["classId"] = 2,
+},
+["指尖璇沙"] = {
+["total"] = 223017903,
+["itemLevel"] = 606,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["只吃一碗饭"] = {
+["total"] = 282011313,
+["itemLevel"] = 610.3125,
+["classId"] = 12,
+},
+["双蛋瓦斯"] = {
+["total"] = 264713920,
+["itemLevel"] = 608.125,
+["classId"] = 7,
+},
+["灬夜幠灬"] = {
+["total"] = 55203840,
+["itemLevel"] = 601.25,
+["classId"] = 9,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 300250877,
+["itemLevel"] = 610.0625,
+["classId"] = 6,
+},
+["陈巨龙的撞击"] = {
+["total"] = 265696858,
+["itemLevel"] = 611.1875,
+["classId"] = 1,
+},
+["呆呆鸟"] = {
+["total"] = 211945995,
+["itemLevel"] = 605.6875,
+["classId"] = 11,
+},
+["田一是条狗"] = {
+["total"] = 246610647,
+["itemLevel"] = 609.4375,
+["classId"] = 2,
+},
+["快活嘚地沟油"] = {
+["total"] = 254673711,
+["itemLevel"] = 612.1875,
+["classId"] = 3,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 104805849,
+["itemLevel"] = 609.8125,
+["classId"] = 3,
+},
+["凉了么"] = {
+["total"] = 215785117,
+["itemLevel"] = 602.8,
+["classId"] = 9,
+},
+["皮娃子-洛萨"] = {
+["total"] = 237091420,
+["itemLevel"] = 606.1875,
+["classId"] = 9,
+},
+["我酷我酷我酷"] = {
+["total"] = 221711155,
+["itemLevel"] = 607.5625,
+["classId"] = 1,
+},
+["黄油麺包-白银之手"] = {
+["total"] = 126500631,
+["itemLevel"] = 612.1875,
+["classId"] = 10,
+},
+["幸福只是传说"] = {
+["total"] = 266972069,
+["itemLevel"] = 608.5333333333333,
+["classId"] = 2,
+},
+},
+},
+},
+[2919] = {
+{
+["time"] = 1726929090,
+["guild"] = "Starry Night",
+["elapsed"] = 471.359999999986,
+["date"] = "22:31 21/09/24",
+["servertime"] = 1726929088,
+["HEALER"] = {
+["吃掉小绵羊"] = {
+["total"] = 490728155,
+["itemLevel"] = 610.3125,
+["classId"] = 13,
+},
+["龙听雨"] = {
+["total"] = 411814962,
+["itemLevel"] = 606.8125,
+["classId"] = 10,
+},
+["煤球啊"] = {
+["total"] = 378983989,
+["itemLevel"] = 610.1875,
+["classId"] = 2,
+},
+["指尖璇沙"] = {
+["total"] = 420334508,
+["itemLevel"] = 606.25,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["老三丨灬灬冫-鬼雾峰"] = {
+["total"] = 350565478,
+["itemLevel"] = 607.8666666666667,
+["classId"] = 8,
+},
+["皮娃子-洛萨"] = {
+["total"] = 304690781,
+["itemLevel"] = 606.1875,
+["classId"] = 9,
+},
+["凉了么"] = {
+["total"] = 329836736,
+["itemLevel"] = 602.8,
+["classId"] = 9,
+},
+["双蛋瓦斯"] = {
+["total"] = 358301519,
+["itemLevel"] = 608.125,
+["classId"] = 7,
+},
+["琉璃染星"] = {
+["total"] = 411584515,
+["itemLevel"] = 592.5625,
+["classId"] = 1,
+},
+["宽以待人-白银之手"] = {
+["total"] = 212473136,
+["itemLevel"] = 607.6,
+["classId"] = 6,
+},
+["涼介-鬼雾峰"] = {
+["total"] = 499134490,
+["itemLevel"] = 610.75,
+["classId"] = 6,
+},
+["呆呆鸟"] = {
+["total"] = 181537341,
+["itemLevel"] = 605.1333333333333,
+["classId"] = 11,
+},
+["蒋滴滴-影之哀伤"] = {
+["total"] = 350434370,
+["itemLevel"] = 609.8125,
+["classId"] = 3,
+},
+["田一是条狗"] = {
+["total"] = 476823457,
+["itemLevel"] = 609.4375,
+["classId"] = 2,
+},
+["小绵羊呀"] = {
+["total"] = 407706411,
+["itemLevel"] = 606.9375,
+["classId"] = 8,
+},
+["陈巨龙的撞击"] = {
+["total"] = 467633115,
+["itemLevel"] = 610.6666666666666,
+["classId"] = 1,
+},
+["快活嘚地沟油"] = {
+["total"] = 377754853,
+["itemLevel"] = 612.1875,
+["classId"] = 3,
+},
+["我酷我酷我酷"] = {
+["total"] = 470377822,
+["itemLevel"] = 607.5625,
+["classId"] = 1,
+},
+["灬夜幠灬"] = {
+["total"] = 316384902,
+["itemLevel"] = 601.25,
+["classId"] = 9,
+},
+["幸福只是传说"] = {
+["total"] = 445250903,
+["itemLevel"] = 609.625,
+["classId"] = 2,
+},
+},
+},
+},
+},
+["mythic_plus"] = {
+},
+}

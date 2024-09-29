@@ -1,0 +1,30 @@
+
+Scrap_CharSets = {
+	["consumable"] = true,
+	["auto"] = {
+	},
+	["list"] = {
+		[170200] = true,
+		[170177] = true,
+		[173816] = false,
+		[138728] = true,
+		[166973] = false,
+		[174138] = false,
+		[170178] = true,
+		[170182] = true,
+		[154167] = false,
+		[169159] = false,
+		[159301] = false,
+		[138729] = true,
+		[138488] = true,
+		[138478] = true,
+		[172795] = false,
+		[170194] = true,
+		[172772] = false,
+		[170172] = true,
+		[168161] = true,
+		[170193] = true,
+		[159458] = false,
+		[173363] = false,
+	},
+}

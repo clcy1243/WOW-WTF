@@ -1,0 +1,13 @@
+
+Scrap_Sets = {
+	["destroy"] = false,
+	["glow"] = true,
+	["learn"] = false,
+	["icons"] = true,
+	["safe"] = true,
+	["list"] = {
+	},
+	["sell"] = true,
+	["repair"] = true,
+	["tutorial"] = 5,
+}

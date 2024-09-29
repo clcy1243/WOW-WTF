@@ -1,0 +1,5 @@
+
+GrailDatabase = {
+	["_retail_"] = {
+	},
+}

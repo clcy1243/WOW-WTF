@@ -1,0 +1,76 @@
+VER 3 0100000000000016 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000017 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙轻雪[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000005 "回春" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,exists,help][]回春术;[mod:alt,@focus,harm][@mouseover,exists,harm][]月火术
+END
+VER 3 010000000000000E "愈合" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,exists,help][]愈合
+END
+VER 3 0100000000000009 "愈合不变形" "INV_MISC_QUESTIONMARK"
+#showtooltip 愈合
+/console autounshift 0 
+/cast 愈合
+/console autounshift 1
+END
+VER 3 010000000000000D "成长" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,exists,help][]野性成长;[mod:alt,@focus,harm][@mouseover,exists,harm][]阳炎术
+END
+VER 3 010000000000000A "斜掠不出潜" "INV_MISC_QUESTIONMARK"
+#showtooltip 斜掠
+/stopattack [stealth] 
+/cast [stance:2] 斜掠
+/stopattack [stealth]
+END
+VER 3 0100000000000012 "滋养" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [mod:alt,@focus,harm][@mouseover,exists,harm][harm]愤怒;[@mouseover,exists,help][]滋养
+END
+VER 3 010000000000000C "潜行" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [nocombat]潜行;[nostance:2]猎豹形态;猎豹形态
+END
+VER 3 0100000000000002 "激活" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] 激活
+END
+VER 3 0100000000000015 "焦点嘲讽" "INV_MISC_QUESTIONMARK"
+#shoowtooltip
+/cast [@focus] 低吼
+END
+VER 3 0100000000000014 "焱" "134400"
+/目标 祖霍拉克
+/cast 血魔之握
+END
+VER 3 0100000000000004 "狂暴回复" "INV_MISC_QUESTIONMARK"
+#showtooltip 狂暴回复
+/cast [stance:1] 狂暴回复
+/cast [nostance:1] 熊形态
+END
+VER 3 010000000000000B "猫闪猫跳" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:2/2] 野性位移;[talent:2/3] 野性冲锋
+/cast [talent:2/2] 野性位移
+/cast [talent:2/3] 野性冲锋
+END
+VER 3 0100000000000010 "结界" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,exists,help][]塞纳里奥结界
+END
+VER 3 0100000000000011 "绽放" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,exists,help][]生命绽放
+END
+VER 3 010000000000000F "迅捷" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover,exists,help][]迅捷治愈
+END
+VER 3 0100000000000003 "野性蘑菇" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] 百花齐放
+END
