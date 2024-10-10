@@ -1,6 +1,6 @@
 
 PawnOptions = {
-["LastVersion"] = 2.1001,
+["LastVersion"] = 2.1002,
 ["LastPlayerFullName"] = "脆皮骑士-巨龙之吼",
 ["AutoSelectScales"] = true,
 ["ItemLevels"] = {

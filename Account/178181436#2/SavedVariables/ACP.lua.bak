@@ -2,8 +2,6 @@
 ACP_Data = {
 ["sorter"] = "按名称分组",
 ["NoRecurse"] = false,
-["NoChildren"] = true,
-["scale"] = 0.688744521389045,
 ["AddonSet"] = {
 {
 "AdiBags",
@@ -957,6 +955,8 @@ ACP_Data = {
 "BagBrother",
 },
 },
+["scale"] = 0.688744521389045,
+["NoChildren"] = true,
 ["collapsed"] = {
 ["DBM"] = true,
 },

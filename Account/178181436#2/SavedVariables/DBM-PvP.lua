@@ -1,16 +1,6 @@
 
 DBMPvP_AllSavedVars = {
 ["龙听雨-巨龙之吼"] = {
-["z1191"] = {
-{
-["Enabled"] = true,
-["AutoTurnIn"] = true,
-},
-{
-["Enabled"] = true,
-["AutoTurnIn"] = true,
-},
-},
 ["z2107"] = {
 {
 ["Enabled"] = true,
@@ -23,17 +13,6 @@ DBMPvP_AllSavedVars = {
 },
 },
 ["talent2"] = "织雾",
-["z998"] = {
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-},
 ["z2106"] = {
 {
 ["Enabled"] = true,
@@ -43,6 +22,31 @@ DBMPvP_AllSavedVars = {
 },
 {
 ["Enabled"] = true,
+},
+},
+["z566"] = {
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+},
+["z1191"] = {
+{
+["Enabled"] = true,
+["AutoTurnIn"] = true,
+},
+{
+["Enabled"] = true,
+["AutoTurnIn"] = true,
+},
+{
+["Enabled"] = true,
+["AutoTurnIn"] = true,
 },
 },
 ["z727"] = {
@@ -139,24 +143,14 @@ DBMPvP_AllSavedVars = {
 ["Enabled"] = true,
 },
 },
-["z566"] = {
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-},
+["talent3"] = "踏风",
 ["talent1"] = "酒仙",
 ["PvPGeneral"] = {
 {
 ["TimerFlagCVoice"] = 0,
 ["TimerStartTColor"] = 0,
-["Timer110310castTColor"] = 0,
 ["TimerStart"] = true,
+["Timer110310castTColor"] = 0,
 ["ShowBasesToWin"] = true,
 ["Timer110310castCVoice"] = 0,
 ["ShowRelativeGameTime"] = true,
@@ -183,8 +177,8 @@ DBMPvP_AllSavedVars = {
 {
 ["TimerFlagCVoice"] = 0,
 ["TimerStartTColor"] = 0,
-["AutoSpirit"] = false,
 ["TimerStart"] = true,
+["AutoSpirit"] = false,
 ["ShowBasesToWin"] = true,
 ["Timer110310cast"] = true,
 ["ShowRelativeGameTime"] = true,
@@ -211,8 +205,9 @@ DBMPvP_AllSavedVars = {
 {
 ["TimerFlagCVoice"] = 0,
 ["ShowRelativeGameTime"] = true,
-["TimerStart"] = true,
 ["Timer110310castTColor"] = 0,
+["TimerStart"] = true,
+["ShowBasesToWin"] = true,
 ["Timer110310castCVoice"] = 0,
 ["TimerStartTColor"] = 0,
 ["TimerFlagTColor"] = 0,
@@ -247,7 +242,17 @@ DBMPvP_AllSavedVars = {
 ["Enabled"] = true,
 },
 },
-["talent3"] = "踏风",
+["z998"] = {
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+},
 ["z2245"] = {
 {
 ["Enabled"] = true,
@@ -273,28 +278,6 @@ DBMPvP_AllSavedVars = {
 },
 },
 ["talent2"] = "狂怒",
-["z998"] = {
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-},
-["z2106"] = {
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-},
 ["z727"] = {
 {
 ["Enabled"] = true,
@@ -321,6 +304,28 @@ DBMPvP_AllSavedVars = {
 ["TimerRespawn"] = true,
 },
 },
+["z2106"] = {
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+},
+["z998"] = {
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+},
 ["PvPGeneral"] = {
 {
 ["TimerRemaining"] = true,
@@ -340,8 +345,8 @@ DBMPvP_AllSavedVars = {
 ["TimerWin"] = true,
 ["ShowEstimatedPoints"] = true,
 ["HideBossEmoteFrame"] = false,
-["Timer34709nextCVoice"] = 0,
 ["Timer46392nextCVoice"] = 0,
+["Timer34709nextCVoice"] = 0,
 ["TimerFlag"] = true,
 ["TimerRemainingCVoice"] = 0,
 ["Timer46392next"] = true,
@@ -448,7 +453,17 @@ DBMPvP_AllSavedVars = {
 ["Enabled"] = true,
 },
 },
-["talent3"] = "防护",
+["z566"] = {
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+},
 ["talent1"] = "武器",
 ["z1803"] = {
 [2] = {
@@ -475,17 +490,7 @@ DBMPvP_AllSavedVars = {
 ["Enabled"] = true,
 },
 },
-["z566"] = {
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-},
+["talent3"] = "防护",
 ["z2245"] = {
 {
 ["Enabled"] = true,
@@ -543,6 +548,61 @@ DBMPvP_AllSavedVars = {
 ["Enabled"] = true,
 },
 },
+["z1803"] = {
+{
+["TimerSpawnCVoice"] = 0,
+["TimerSpawn"] = true,
+["TimerSpawnTColor"] = 0,
+["Enabled"] = true,
+},
+{
+["TimerSpawn"] = true,
+["Enabled"] = true,
+["TimerSpawnTColor"] = 0,
+["TimerSpawnCVoice"] = 0,
+},
+},
+["z30"] = {
+{
+["Enabled"] = true,
+["TimerBossTColor"] = 0,
+["TimerBoss"] = true,
+["AutoTurnIn"] = true,
+["TimerBossCVoice"] = 0,
+},
+{
+["Enabled"] = true,
+["TimerBossTColor"] = 0,
+["TimerBoss"] = true,
+["AutoTurnIn"] = true,
+["TimerBossCVoice"] = 0,
+},
+},
+["z726"] = {
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+},
+["z628"] = {
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+},
+["z566"] = {
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+},
+["talent1"] = "鲜血",
 ["PvPGeneral"] = {
 {
 ["TimerFlagCVoice"] = 0,
@@ -599,61 +659,6 @@ DBMPvP_AllSavedVars = {
 ["Timer34709next"] = true,
 },
 },
-["z30"] = {
-{
-["Enabled"] = true,
-["TimerBossTColor"] = 0,
-["TimerBoss"] = true,
-["AutoTurnIn"] = true,
-["TimerBossCVoice"] = 0,
-},
-{
-["Enabled"] = true,
-["TimerBossTColor"] = 0,
-["TimerBoss"] = true,
-["AutoTurnIn"] = true,
-["TimerBossCVoice"] = 0,
-},
-},
-["z726"] = {
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-},
-["z628"] = {
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-},
-["z566"] = {
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-},
-["talent1"] = "鲜血",
-["z1803"] = {
-{
-["TimerSpawnCVoice"] = 0,
-["TimerSpawn"] = true,
-["TimerSpawnTColor"] = 0,
-["Enabled"] = true,
-},
-{
-["TimerSpawn"] = true,
-["Enabled"] = true,
-["TimerSpawnTColor"] = 0,
-["TimerSpawnCVoice"] = 0,
-},
-},
 ["z761"] = {
 {
 ["Enabled"] = true,
@@ -685,7 +690,17 @@ DBMPvP_AllSavedVars = {
 },
 },
 ["talent2"] = "增强",
-["talent3"] = "恢复",
+["z566"] = {
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+{
+["Enabled"] = true,
+},
+},
 ["z2106"] = {
 {
 ["Enabled"] = true,
@@ -697,33 +712,15 @@ DBMPvP_AllSavedVars = {
 ["Enabled"] = true,
 },
 },
-["z727"] = {
+["z998"] = {
 {
-["TimerRespawnCVoice"] = 0,
-["TimerCartTColor"] = 0,
 ["Enabled"] = true,
-["TimerCartCVoice"] = 0,
-["TimerRespawnTColor"] = 0,
-["TimerCart"] = true,
-["TimerRespawn"] = true,
 },
 {
 ["Enabled"] = true,
-["TimerCartTColor"] = 0,
-["TimerCartCVoice"] = 0,
-["TimerRespawnCVoice"] = 0,
-["TimerRespawnTColor"] = 0,
-["TimerCart"] = true,
-["TimerRespawn"] = true,
 },
 {
-["TimerCartTColor"] = 0,
-["TimerCartCVoice"] = 0,
 ["Enabled"] = true,
-["TimerRespawnCVoice"] = 0,
-["TimerRespawnTColor"] = 0,
-["TimerCart"] = true,
-["TimerRespawn"] = true,
 },
 },
 ["z1803"] = {
@@ -791,17 +788,7 @@ DBMPvP_AllSavedVars = {
 ["Enabled"] = true,
 },
 },
-["z566"] = {
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-{
-["Enabled"] = true,
-},
-},
+["talent3"] = "恢复",
 ["talent1"] = "元素",
 ["PvPGeneral"] = {
 {
@@ -897,15 +884,33 @@ DBMPvP_AllSavedVars = {
 ["Enabled"] = true,
 },
 },
-["z998"] = {
+["z727"] = {
 {
+["TimerRespawnCVoice"] = 0,
+["TimerCartTColor"] = 0,
 ["Enabled"] = true,
+["TimerCartCVoice"] = 0,
+["TimerRespawnTColor"] = 0,
+["TimerCart"] = true,
+["TimerRespawn"] = true,
 },
 {
 ["Enabled"] = true,
+["TimerCartTColor"] = 0,
+["TimerCartCVoice"] = 0,
+["TimerRespawnCVoice"] = 0,
+["TimerRespawnTColor"] = 0,
+["TimerCart"] = true,
+["TimerRespawn"] = true,
 },
 {
+["TimerCartTColor"] = 0,
+["TimerCartCVoice"] = 0,
 ["Enabled"] = true,
+["TimerRespawnCVoice"] = 0,
+["TimerRespawnTColor"] = 0,
+["TimerCart"] = true,
+["TimerRespawn"] = true,
 },
 },
 ["z2245"] = {

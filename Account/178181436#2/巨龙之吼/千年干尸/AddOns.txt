@@ -157,3 +157,4 @@ RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 OPie_Classic: disabled
 BigWigs_Voice: enabled
+BigWigs_KhazAlgar: enabled

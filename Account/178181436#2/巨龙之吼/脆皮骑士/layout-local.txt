@@ -58,7 +58,7 @@ H: 455
 Frame: Vd1
 FrameLevel: 2
 Anchor: CENTER
-X: 364
-Y: -95
+X: 326
+Y: -114
 W: 74
-H: 154
+H: 64

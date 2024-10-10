@@ -6,18 +6,81 @@ MythicDungeonToolsDB = {
 ["千年干尸 - 巨龙之吼"] = "千年干尸 - 巨龙之吼",
 ["龙轻雪 - 主宰之剑"] = "龙轻雪 - 主宰之剑",
 ["募落葒顔 - 巨龙之吼"] = "募落葒顔 - 巨龙之吼",
-["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
-["龙天星 - 巨龙之吼"] = "龙天星 - 巨龙之吼",
-["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
-["龙破云 - 巨龙之吼"] = "龙破云 - 巨龙之吼",
-["星界旅行者 - 巨龙之吼"] = "星界旅行者 - 巨龙之吼",
-["晶化之刺 - 巨龙之吼"] = "晶化之刺 - 巨龙之吼",
-["倾城丨奶僧 - 摩摩尔"] = "倾城丨奶僧 - 摩摩尔",
 ["龙若山 - 巨龙之吼"] = "龙若山 - 巨龙之吼",
+["龙天星 - 巨龙之吼"] = "龙天星 - 巨龙之吼",
+["倾城丨奶僧 - 摩摩尔"] = "倾城丨奶僧 - 摩摩尔",
+["龙破云 - 巨龙之吼"] = "龙破云 - 巨龙之吼",
+["晶化之刺 - 巨龙之吼"] = "晶化之刺 - 巨龙之吼",
+["星界旅行者 - 巨龙之吼"] = "星界旅行者 - 巨龙之吼",
+["锦在天堂 - 太阳之井"] = "锦在天堂 - 太阳之井",
+["龙听雨 - 巨龙之吼"] = "龙听雨 - 巨龙之吼",
 },
 ["global"] = {
 ["anchorTo"] = "CENTER",
-["currentDungeonIdx"] = 35,
+["colorPaletteInfo"] = {
+["customPaletteValues"] = {
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+},
+},
 ["anchorFrom"] = "CENTER",
 ["minimap"] = {
 ["minimapPos"] = 161.1102655051378,
@@ -25,7 +88,7 @@ MythicDungeonToolsDB = {
 },
 ["MDI"] = {
 },
-["latestSeenDungeonList"] = 9,
+["maximized"] = false,
 ["presets"] = {
 [3] = {
 {
@@ -34,9 +97,8 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 3,
@@ -44,17 +106,18 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 },
-["difficulty"] = 10,
 ["mdi"] = {
 ["freeholdJoined"] = false,
-["freehold"] = 1,
 ["beguiling"] = 1,
+["freehold"] = 1,
 },
+["difficulty"] = 10,
 },
 },
 [19] = {
@@ -65,9 +128,8 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 19,
@@ -75,8 +137,9 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 },
@@ -89,8 +152,9 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 31,
@@ -98,9 +162,8 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 },
@@ -109,19 +172,10 @@ MythicDungeonToolsDB = {
 [35] = {
 {
 ["difficulty"] = 10,
-["week"] = 1,
+["uid"] = "jZ(J3bjeQPU",
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 35,
-["teeming"] = false,
-["selection"] = {
-1,
-},
 ["pulls"] = {
 {
 {
@@ -229,15 +283,15 @@ MythicDungeonToolsDB = {
 },
 {
 ["color"] = "3effff",
-[8] = {
-4,
-3,
-},
 [15] = {
 1,
 },
 [9] = {
 2,
+},
+[8] = {
+4,
+3,
 },
 },
 {
@@ -373,9 +427,10 @@ MythicDungeonToolsDB = {
 [31] = {
 1,
 },
-[6] = {
-3,
+[28] = {
+1,
 2,
+3,
 },
 [20] = {
 4,
@@ -402,15 +457,23 @@ MythicDungeonToolsDB = {
 2,
 1,
 },
-[28] = {
-1,
-2,
+[6] = {
 3,
+2,
 },
 },
 },
+["currentDungeonIdx"] = 35,
+["teeming"] = false,
+["selection"] = {
+1,
 },
-["uid"] = "jZ(J3bjeQPU",
+["riftOffsets"] = {
+{
+},
+},
+},
+["week"] = 1,
 },
 },
 [42] = {
@@ -420,9 +483,8 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 42,
@@ -430,17 +492,18 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 },
-["difficulty"] = 10,
 ["mdi"] = {
 ["freeholdJoined"] = false,
-["freehold"] = 1,
 ["beguiling"] = 1,
+["freehold"] = 1,
 },
+["difficulty"] = 10,
 },
 },
 [110] = {
@@ -450,9 +513,8 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 110,
@@ -460,8 +522,9 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 },
@@ -474,12 +537,8 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
-[14] = {
-1,
-},
 },
 },
 ["currentDungeonIdx"] = 111,
@@ -487,8 +546,12 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
+[14] = {
+1,
+},
 },
 },
 },
@@ -501,9 +564,8 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 112,
@@ -511,8 +573,9 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 },
@@ -525,8 +588,9 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 113,
@@ -534,9 +598,8 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 },
@@ -549,9 +612,9 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-nil,
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 114,
@@ -559,9 +622,9 @@ nil,
 ["selection"] = {
 1,
 },
-["pulls"] = {
+["riftOffsets"] = {
+nil,
 {
-["color"] = "ff3eff",
 },
 },
 },
@@ -569,73 +632,10 @@ nil,
 },
 },
 ["scale"] = 1.4,
-["maximized"] = false,
-["version"] = 5013,
+["latestSeenDungeonList"] = 9,
+["version"] = 5014,
 ["xoffset"] = -6.70068883895874,
-["colorPaletteInfo"] = {
-["customPaletteValues"] = {
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-},
-},
+["currentDungeonIdx"] = 35,
 ["yoffset"] = 36.62848281860352,
 },
 }

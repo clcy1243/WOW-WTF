@@ -1,4 +1,4 @@
 
 MSBTProfiles_SavedVarsPerChar = {
-["currentProfileName"] = "通用",
+["currentProfileName"] = "受到伤害",
 }

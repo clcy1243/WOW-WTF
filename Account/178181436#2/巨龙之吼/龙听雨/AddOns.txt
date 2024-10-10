@@ -698,3 +698,4 @@ RaiderIO_DB_EU_F: disabled
 TaintLess: enabled
 Plater: enabled
 CanIMogIt: enabled
+BigWigs_KhazAlgar: enabled

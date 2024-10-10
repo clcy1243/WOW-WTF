@@ -1,18 +1,18 @@
 
 GTFOData = {
-["TrivialDamagePercent"] = 2,
+["IgnoreSpellList"] = {
+},
 ["Active"] = true,
 ["EnableVibration"] = false,
 ["UnmuteMode"] = false,
-["IgnoreSpellList"] = {
-},
-["TestMode"] = false,
+["TrivialDamagePercent"] = 2,
 ["Sounds"] = {
 true,
 true,
 true,
 true,
 },
+["TestMode"] = false,
 ["DataCode"] = "4",
 ["SoundChannel"] = "Master",
 ["Volume"] = 3,

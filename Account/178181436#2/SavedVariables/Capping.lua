@@ -13,12 +13,12 @@ CappingSettings = {
 ["千年干尸 - 巨龙之吼"] = "Default",
 ["龙轻雪 - 主宰之剑"] = "Default",
 ["Asfagagagsd - 巨龙之吼"] = "Default",
-["Wafasdffa - 巨龙之吼"] = "Default",
-["星界旅行者 - 巨龙之吼"] = "Default",
-["倾城丨奶僧 - 摩摩尔"] = "Default",
-["晶化之刺 - 巨龙之吼"] = "Default",
-["龙听雨 - 巨龙之吼"] = "Default",
 ["龙若山 - 巨龙之吼"] = "Default",
+["龙听雨 - 巨龙之吼"] = "Default",
+["晶化之刺 - 巨龙之吼"] = "Default",
+["倾城丨奶僧 - 摩摩尔"] = "Default",
+["星界旅行者 - 巨龙之吼"] = "Default",
+["Wafasdffa - 巨龙之吼"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
