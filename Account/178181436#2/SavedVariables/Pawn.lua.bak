@@ -7,12 +7,12 @@ PawnCommon = {
 ["ShowRelicUpgrades"] = false,
 ["ShowValuesForUpgradesOnly"] = false,
 ["ShowItemLevelUpgrades"] = true,
-["Digits"] = 1,
-["Debug"] = false,
 ["ShowLootUpgradeAdvisor"] = true,
+["Debug"] = false,
+["Digits"] = 1,
 ["ColorTooltipBorder"] = true,
 ["ShowTooltipIcons"] = false,
-["LastVersion"] = 2.1002,
+["LastVersion"] = 2.1003,
 ["ShowSocketingAdvisor"] = true,
 ["Scales"] = {
 ["\"MrRobot\":HUNTER3"] = {
@@ -280,6 +280,9 @@ PawnCommon = {
 ["\"MrRobot\":DRUID1"] = {
 ["IconTexturePath"] = 136096,
 ["PerCharacterOptions"] = {
+["龙轻雪-主宰之剑"] = {
+["Visible"] = true,
+},
 },
 ["Color"] = "ff7d0a",
 ["ClassID"] = 11,
@@ -304,6 +307,32 @@ PawnCommon = {
 ["Provider"] = "MrRobot",
 ["UnenchantedColor"] = "699189",
 ["SpecID"] = 3,
+},
+["\"MrRobot\":WARRIOR1"] = {
+["IconTexturePath"] = 132355,
+["PerCharacterOptions"] = {
+["龙若山-巨龙之吼"] = {
+["Visible"] = true,
+},
+["Safafafafsaf-巨龙之吼"] = {
+["Visible"] = true,
+},
+["Adegsagsgsd-巨龙之吼"] = {
+["Visible"] = true,
+},
+["Asfagagagsd-巨龙之吼"] = {
+["Visible"] = true,
+},
+},
+["Color"] = "c79c6e",
+["ClassID"] = 1,
+["LocalizedName"] = "战士: 武器",
+["DoNotShow1HUpgrades"] = true,
+["Role"] = "DAMAGER",
+["DoNotShow2HUpgrades"] = false,
+["Provider"] = "MrRobot",
+["SpecID"] = 1,
+["UnenchantedColor"] = "957552",
 },
 ["\"MrRobot\":PALADIN3"] = {
 ["IconTexturePath"] = 135873,
@@ -331,32 +360,6 @@ PawnCommon = {
 ["SpecID"] = 3,
 ["UnenchantedColor"] = "b7698b",
 },
-["\"MrRobot\":WARRIOR1"] = {
-["IconTexturePath"] = 132355,
-["PerCharacterOptions"] = {
-["龙若山-巨龙之吼"] = {
-["Visible"] = true,
-},
-["Safafafafsaf-巨龙之吼"] = {
-["Visible"] = true,
-},
-["Asfagagagsd-巨龙之吼"] = {
-["Visible"] = true,
-},
-["Adegsagsgsd-巨龙之吼"] = {
-["Visible"] = true,
-},
-},
-["Color"] = "c79c6e",
-["ClassID"] = 1,
-["LocalizedName"] = "战士: 武器",
-["DoNotShow1HUpgrades"] = true,
-["Role"] = "DAMAGER",
-["DoNotShow2HUpgrades"] = false,
-["Provider"] = "MrRobot",
-["SpecID"] = 1,
-["UnenchantedColor"] = "957552",
-},
 ["\"MrRobot\":WARLOCK2"] = {
 ["IconTexturePath"] = 136172,
 ["PerCharacterOptions"] = {
@@ -374,20 +377,6 @@ PawnCommon = {
 ["SpecID"] = 2,
 ["UnenchantedColor"] = "6566b2",
 },
-["\"MrRobot\":DEMONHUNTER2"] = {
-["IconTexturePath"] = 1247265,
-["PerCharacterOptions"] = {
-},
-["Color"] = "a330c9",
-["LocalizedName"] = "恶魔猎手: 复仇",
-["ClassID"] = 12,
-["DoNotShow1HUpgrades"] = false,
-["Role"] = "TANK",
-["DoNotShow2HUpgrades"] = true,
-["Provider"] = "MrRobot",
-["UnenchantedColor"] = "7a2496",
-["SpecID"] = 2,
-},
 ["\"MrRobot\":MAGE1"] = {
 ["IconTexturePath"] = 135932,
 ["PerCharacterOptions"] = {
@@ -402,12 +391,23 @@ PawnCommon = {
 ["SpecID"] = 1,
 ["UnenchantedColor"] = "2f95b0",
 },
+["\"MrRobot\":DEMONHUNTER2"] = {
+["IconTexturePath"] = 1247265,
+["PerCharacterOptions"] = {
+},
+["Color"] = "a330c9",
+["LocalizedName"] = "恶魔猎手: 复仇",
+["ClassID"] = 12,
+["DoNotShow1HUpgrades"] = false,
+["Role"] = "TANK",
+["DoNotShow2HUpgrades"] = true,
+["Provider"] = "MrRobot",
+["UnenchantedColor"] = "7a2496",
+["SpecID"] = 2,
+},
 ["\"MrRobot\":DRUID2"] = {
 ["IconTexturePath"] = 132115,
 ["PerCharacterOptions"] = {
-["龙轻雪-主宰之剑"] = {
-["Visible"] = true,
-},
 },
 ["Color"] = "ff7d0a",
 ["ClassID"] = 11,
@@ -422,6 +422,9 @@ PawnCommon = {
 ["\"MrRobot\":PALADIN2"] = {
 ["IconTexturePath"] = 236264,
 ["PerCharacterOptions"] = {
+["脆皮骑士-巨龙之吼"] = {
+["Visible"] = true,
+},
 },
 ["Color"] = "f58cba",
 ["ClassID"] = 2,
@@ -501,6 +504,9 @@ PawnCommon = {
 ["\"MrRobot\":MONK2"] = {
 ["IconTexturePath"] = 608952,
 ["PerCharacterOptions"] = {
+["龙听雨-巨龙之吼"] = {
+["Visible"] = true,
+},
 ["倾城丨奶僧-摩摩尔"] = {
 ["Visible"] = true,
 },
@@ -569,9 +575,6 @@ PawnCommon = {
 ["\"MrRobot\":PALADIN1"] = {
 ["IconTexturePath"] = 135920,
 ["PerCharacterOptions"] = {
-["脆皮骑士-巨龙之吼"] = {
-["Visible"] = true,
-},
 },
 ["Color"] = "f58cba",
 ["ClassID"] = 2,
@@ -628,9 +631,6 @@ PawnCommon = {
 ["\"MrRobot\":MONK3"] = {
 ["IconTexturePath"] = 608953,
 ["PerCharacterOptions"] = {
-["龙听雨-巨龙之吼"] = {
-["Visible"] = true,
-},
 },
 ["Color"] = "00ff96",
 ["ClassID"] = 10,
@@ -647,6 +647,6 @@ PawnCommon = {
 ["ButtonPosition"] = 1,
 ["IgnoreGemsWhileLeveling"] = true,
 ["ShowQuestUpgradeAdvisor"] = true,
-["ShowEnchanted"] = true,
 ["ShownGettingStarted"] = true,
+["ShowEnchanted"] = true,
 }

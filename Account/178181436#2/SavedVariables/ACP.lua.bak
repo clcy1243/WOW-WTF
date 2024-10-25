@@ -958,6 +958,10 @@ ACP_Data = {
 ["scale"] = 0.688744521389045,
 ["NoChildren"] = true,
 ["collapsed"] = {
+["BigWigs"] = true,
+["Details"] = true,
+["Capping"] = true,
+["BtWQuests"] = true,
 ["DBM"] = true,
 },
 ["ProtectedAddons"] = {

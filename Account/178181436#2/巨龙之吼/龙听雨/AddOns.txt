@@ -318,11 +318,11 @@ BigWigs_Options: enabled
 BigWigs_ThogarLaneColors: enabled
 BigWigs_Transcriptor: enabled
 BigWigs_Voice: enabled
-BigWigs_CommonAuras: disabled
+BigWigs_CommonAuras: enabled
 BigWigs_YorsahjPriority: enabled
 BigWigs_Countdown_Overwatch: disabled
 BigWigs_Voice_Quake3: enabled
-BigWigs_Countdown_HeroesOfTheStorm: disabled
+BigWigs_Countdown_HeroesOfTheStorm: enabled
 Details_DmgRank: enabled
 Details_DeathGraphs: enabled
 Details_DpsTuning: enabled
@@ -425,7 +425,7 @@ TinyParty: enabled
 TinyRoster: enabled
 TomTom: disabled
 ToyPlus: enabled
-Transcriptor: enabled
+Transcriptor: disabled
 VuhDoOptions: enabled
 WeakAuras: enabled
 WeakAurasModelPaths: enabled
@@ -508,7 +508,7 @@ ButtonFacade: enabled
 BrewmasterTools: enabled
 !!!PlaySoundFixer: disabled
 TidyPlates_BlizzardPlates: disabled
-TidyPlates_ThreatPlates: enabled
+TidyPlates_ThreatPlates: disabled
 LgTiger: disabled
 TotalAP: disabled
 MoveAnything: disabled
@@ -699,3 +699,4 @@ TaintLess: enabled
 Plater: enabled
 CanIMogIt: enabled
 BigWigs_KhazAlgar: enabled
+OmniCD: enabled

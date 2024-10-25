@@ -5,8 +5,8 @@ OPie_Classic: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
 BigWigs_Transcriptor: enabled
-BigWigs_CommonAuras: disabled
-BigWigs_Countdown_HeroesOfTheStorm: disabled
+BigWigs_CommonAuras: enabled
+BigWigs_Countdown_HeroesOfTheStorm: enabled
 LittleWigs: enabled
 BigWigs_Nyalotha: enabled
 AdiBags: enabled
@@ -125,7 +125,7 @@ TellMeWhen: enabled
 TellMeWhen_Options: enabled
 TidyPlates_ThreatPlates: enabled
 TomTom: enabled
-Transcriptor: enabled
+Transcriptor: disabled
 VuhDo: enabled
 VuhDoOptions: enabled
 WeakAuras: enabled
@@ -306,3 +306,5 @@ RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 BigWigs_KhazAlgar: enabled
+BigWigs_BattleForAzeroth: enabled
+GladiatorlosSA2_zhCN_VV: disabled

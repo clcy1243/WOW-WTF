@@ -8,6 +8,7 @@ CHANNELS
 2 0 3 1
 22 0 4 1
 27 1 5 1
+FindCrafter 0 6 3
 END
 
 ZONECHANNELS 0

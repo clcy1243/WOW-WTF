@@ -1,4 +1,4 @@
-VER 3 0000000000000014 "ConsolePort_Menu" "136243"
+VER 3 0000000000000013 "ConsolePort_Menu" "136243"
 /click CPMa
 /click CPMb
 /click CPMc
@@ -17,7 +17,7 @@ VER 3 0000000000000014 "ConsolePort_Menu" "136243"
 /click CPMp
 /click CPMq
 END
-VER 3 0000000000000013 "ConsolePort_Menu" "136243"
+VER 3 0000000000000014 "ConsolePort_Menu" "136243"
 /click CPMa
 /click CPMb
 /click CPMc

@@ -2,8 +2,8 @@ VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 #showtooltip 复生
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+R1HR1RM1RM1PM1ET2PM2HR2LR[x]2LR3VR3DT3DT3NM4EM4LR4IH4SH5EM5VR5WM5HM5EM6LR6NT6MR6EM6IR[x][x][x][x][x][x][x][x][x][x][x][x]2SR[x][x][x][x][x][x][x]0__[x]0__[x][x][x][x]0__0__[x][x][x][x][x][x][x]0__[x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]星界旅[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N快活嘚五湖烟折原幸福只向胃猛血小贱以梦为凉了么[x]狐头狐暖水日带鱼的蓝猫或你好氼Bab橘丶子余生丶玖尾果敢的疯子的憨憨战二费射香山夜佳佳西Dhm野生的一女高Hol[x][x][x][x][x][x][x][x][x][x][x][x]星界旅[x][x][x][x][x][x][x]格里祖[x]拉兹阿[x][x][x][x]白骨抢弗格里[x][x][x][x][x][x][x]苏昆[x][x]利齿撕[x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

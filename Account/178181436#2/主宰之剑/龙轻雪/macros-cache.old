@@ -1,8 +1,8 @@
 VER 3 0100000000000016 "VuhDoDCShieldData" "Ability_Repair"
-P1LR1NT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DR0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1SH1RM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000017 "VuhDoDCShieldNames" "Ability_Repair"
-N狐头狐云月缭[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙轻雪拉兹阿[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N轻声低小圆丶[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]龙轻雪[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000005 "回春" "INV_MISC_QUESTIONMARK"
 #showtooltip 
@@ -34,7 +34,7 @@ VER 3 0100000000000012 "滋养" "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000C "潜行" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast  [nocombat]潜行;[nostance:2]猎豹形态;猎豹形态
+/cast  [nocombat]潜行;[nostance:2]猎豹形态;猛虎之怒
 END
 VER 3 0100000000000002 "激活" "INV_MISC_QUESTIONMARK"
 #showtooltip

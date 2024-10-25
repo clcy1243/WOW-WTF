@@ -5,13 +5,10 @@ OPie_SavedData = {
 },
 ["_OPieVersion"] = "Ørred 1a (4.131)",
 ["_StoreVersion"] = 122,
-["_GameVersion"] = "11.0.2",
+["_GameVersion"] = "11.0.5",
 ["_StoreVersion2"] = 122,
 ["ProfileStorage"] = {
 ["default"] = {
-["RotationTokens"] = {
-["OPCTAt"] = "OPCHSdd",
-},
 ["Bindings"] = {
 ["RaidSymbols"] = false,
 ["x"] = "SHIFT-Q",
@@ -333,9 +330,9 @@ OPie_SavedData = {
 224572,
 ["sliceToken"] = "ABueQKbC5ae",
 },
-["limit"] = "龙听雨-巨龙之吼",
-["save"] = true,
 ["name"] = "消耗品",
+["save"] = true,
+["limit"] = "龙听雨-巨龙之吼",
 },
 ["OPieAutoQuest"] = {
 {

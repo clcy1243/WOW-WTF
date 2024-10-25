@@ -255,12 +255,12 @@ VUHDO_CONFIG = {
 ["SCALE"] = 70,
 ["COLOR"] = {
 ["TG"] = 1,
-["B"] = 0,
+["R"] = 0,
 ["TB"] = 0,
 ["G"] = 0,
 ["TR"] = 0,
 ["TO"] = 1,
-["R"] = 0,
+["B"] = 0,
 ["useBackground"] = true,
 ["useText"] = true,
 ["O"] = 1,
@@ -279,12 +279,12 @@ VUHDO_CONFIG = {
 ["SCALE"] = 85,
 ["COLOR"] = {
 ["TG"] = 1,
-["B"] = 0,
+["R"] = 0,
 ["TB"] = 1,
 ["G"] = 0,
 ["TR"] = 1,
 ["TO"] = 1,
-["R"] = 0,
+["B"] = 0,
 ["useBackground"] = true,
 ["useText"] = true,
 ["O"] = 1,
@@ -337,7 +337,7 @@ VUHDO_CONFIG = {
 ["isBarGlow"] = false,
 ["isIconGlow"] = false,
 },
-["371976"] = {
+["373027"] = {
 ["animate"] = true,
 ["isColor"] = false,
 ["isOthers"] = true,
@@ -425,7 +425,7 @@ VUHDO_CONFIG = {
 ["isBarGlow"] = false,
 ["isIconGlow"] = false,
 },
-["373048"] = {
+["375575"] = {
 ["animate"] = true,
 ["isColor"] = false,
 ["isOthers"] = true,
@@ -535,7 +535,7 @@ VUHDO_CONFIG = {
 ["isBarGlow"] = false,
 ["isIconGlow"] = false,
 },
-["375575"] = {
+["381595"] = {
 ["animate"] = true,
 ["isColor"] = false,
 ["isOthers"] = true,
@@ -557,7 +557,7 @@ VUHDO_CONFIG = {
 ["isBarGlow"] = false,
 ["isIconGlow"] = false,
 },
-["396106"] = {
+["371976"] = {
 ["animate"] = true,
 ["isColor"] = false,
 ["isOthers"] = true,
@@ -579,7 +579,7 @@ VUHDO_CONFIG = {
 ["isBarGlow"] = false,
 ["isIconGlow"] = false,
 },
-["381595"] = {
+["388717"] = {
 ["animate"] = true,
 ["isColor"] = false,
 ["isOthers"] = true,
@@ -634,7 +634,7 @@ VUHDO_CONFIG = {
 ["isBarGlow"] = false,
 ["isIconGlow"] = false,
 },
-["373027"] = {
+["396106"] = {
 ["animate"] = true,
 ["isColor"] = false,
 ["isOthers"] = true,
@@ -667,7 +667,7 @@ VUHDO_CONFIG = {
 ["isBarGlow"] = false,
 ["isIconGlow"] = false,
 },
-["388717"] = {
+["373048"] = {
 ["animate"] = true,
 ["isColor"] = false,
 ["isOthers"] = true,
@@ -703,8 +703,8 @@ VUHDO_PANEL_SETUP = {
 ["xAdjust"] = 0,
 },
 ["POSITION"] = {
-["y"] = -113.7570343017578,
-["x"] = 326.4661254882813,
+["y"] = -123.1908264160156,
+["x"] = 350.3506469726563,
 ["scale"] = 1,
 ["relativePoint"] = "CENTER",
 ["orientation"] = "CENTER",
@@ -3676,9 +3676,9 @@ VUHDO_SPELLS_KEYBOARD = {
 "-w10",
 "",
 },
-["ctrl2"] = {
-"CTRL-",
-"-w6",
+["shift1"] = {
+"SHIFT-",
+"-w7",
 "",
 },
 ["2"] = {
@@ -3686,9 +3686,9 @@ VUHDO_SPELLS_KEYBOARD = {
 "-w2",
 "",
 },
-["ctrlshift2"] = {
-"CTRL-SHIFT-",
-"-w14",
+["ctrl2"] = {
+"CTRL-",
+"-w6",
 "",
 },
 ["shift2"] = {
@@ -3741,9 +3741,9 @@ VUHDO_SPELLS_KEYBOARD = {
 "-w3",
 "",
 },
-["shift1"] = {
-"SHIFT-",
-"-w7",
+["ctrlshift2"] = {
+"CTRL-SHIFT-",
+"-w14",
 "",
 },
 },
@@ -3773,9 +3773,9 @@ VUHDO_SPELLS_KEYBOARD = {
 "-w10",
 "",
 },
-["ctrl2"] = {
-"CTRL-",
-"-w6",
+["shift1"] = {
+"SHIFT-",
+"-w7",
 "",
 },
 ["2"] = {
@@ -3783,9 +3783,9 @@ VUHDO_SPELLS_KEYBOARD = {
 "-w2",
 "",
 },
-["ctrlshift2"] = {
-"CTRL-SHIFT-",
-"-w14",
+["ctrl2"] = {
+"CTRL-",
+"-w6",
 "",
 },
 ["shift2"] = {
@@ -3838,9 +3838,9 @@ VUHDO_SPELLS_KEYBOARD = {
 "-w3",
 "",
 },
-["shift1"] = {
-"SHIFT-",
-"-w7",
+["ctrlshift2"] = {
+"CTRL-SHIFT-",
+"-w14",
 "",
 },
 },
@@ -3884,8 +3884,8 @@ VUHDO_RAID = {
 ["zone"] = "多恩诺嘉尔",
 ["baseRange"] = true,
 ["class"] = "PALADIN",
-["role"] = 63,
-["sortMaxHp"] = 3980460,
+["role"] = 60,
+["sortMaxHp"] = 5659300,
 ["map"] = "多恩诺嘉尔",
 ["threat"] = 0,
 ["powermax"] = 2500000,
@@ -3899,7 +3899,7 @@ VUHDO_RAID = {
 ["range"] = true,
 ["unit"] = "player",
 ["powertype"] = 0,
-["healthmax"] = 3980460,
+["healthmax"] = 5659300,
 ["dead"] = false,
 ["charmed"] = false,
 ["fullName"] = "脆皮骑士",
@@ -3908,7 +3908,7 @@ VUHDO_RAID = {
 ["targetUnit"] = "target",
 ["visible"] = true,
 ["isAltPower"] = false,
-["health"] = 3980460,
+["health"] = 5659300,
 ["className"] = "圣骑士",
 ["afk"] = false,
 ["debuff"] = 0,
@@ -3923,16 +3923,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 法力 (治疗者专用)",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 固定颜色)",
 ["SWIFTMEND_INDICATOR"] = "",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {
@@ -4112,16 +4112,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 只有法力值",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 职业颜色)",
 ["SWIFTMEND_INDICATOR"] = "角色 & 召唤状态图标",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {
@@ -4301,16 +4301,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 只有法力值",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 职业颜色)",
 ["SWIFTMEND_INDICATOR"] = "角色 & 召唤状态图标",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {
@@ -4490,16 +4490,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 只有法力值",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 职业颜色)",
 ["SWIFTMEND_INDICATOR"] = "角色 & 召唤状态图标",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {
@@ -4679,16 +4679,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 只有法力值",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 职业颜色)",
 ["SWIFTMEND_INDICATOR"] = "角色 & 召唤状态图标",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {
@@ -4868,16 +4868,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 只有法力值",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 职业颜色)",
 ["SWIFTMEND_INDICATOR"] = "角色 & 召唤状态图标",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {
@@ -5057,16 +5057,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 只有法力值",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 职业颜色)",
 ["SWIFTMEND_INDICATOR"] = "角色 & 召唤状态图标",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {
@@ -5246,16 +5246,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 只有法力值",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 职业颜色)",
 ["SWIFTMEND_INDICATOR"] = "角色 & 召唤状态图标",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {
@@ -5435,16 +5435,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 只有法力值",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 职业颜色)",
 ["SWIFTMEND_INDICATOR"] = "角色 & 召唤状态图标",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {
@@ -5624,16 +5624,16 @@ VUHDO_INDICATOR_CONFIG = {
 ["MOUSEOVER_HIGHLIGHT"] = "",
 ["AGGRO_BAR"] = "",
 ["BACKGROUND_BAR"] = "背景: 固定颜色",
-["DAMAGE_FLASH_BAR"] = "",
+["SIDE_LEFT"] = "",
 ["INCOMING_BAR"] = "",
-["CLUSTER_BORDER"] = "",
+["DAMAGE_FLASH_BAR"] = "",
 ["THREAT_MARK"] = "",
 ["MANA_BAR"] = "法力条: 只有法力值",
 ["BAR_BORDER"] = "边框: 多边 + 仇恨",
 ["SIDE_RIGHT"] = "",
 ["HEALTH_BAR"] = "血量: (通用, 职业颜色)",
 ["SWIFTMEND_INDICATOR"] = "角色 & 召唤状态图标",
-["SIDE_LEFT"] = "",
+["CLUSTER_BORDER"] = "",
 },
 ["CUSTOM"] = {
 ["THREAT_BAR"] = {

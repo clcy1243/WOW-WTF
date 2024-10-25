@@ -57,8 +57,8 @@ BattleGroundEnemies: disabled
 BattlegroundSpiritReleaser: disabled
 BigWigs_CrowdControl: disabled
 BigWigs: enabled
-BigWigs_Countdown_HeroesOfTheStorm: disabled
-BigWigs_CommonAuras: disabled
+BigWigs_Countdown_HeroesOfTheStorm: enabled
+BigWigs_CommonAuras: enabled
 BigWigs_Transcriptor: enabled
 BigWigs_Voice_VV: enabled
 BigWigs_BattleForAzeroth: enabled

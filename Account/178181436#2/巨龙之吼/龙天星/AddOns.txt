@@ -35,8 +35,8 @@ BigWigs_Classic: enabled
 BigWigs_SanctumOfDomination: enabled
 BigWigs_Transcriptor: enabled
 BigWigs_Voice: enabled
-BigWigs_CommonAuras: disabled
-BigWigs_Countdown_HeroesOfTheStorm: disabled
+BigWigs_CommonAuras: enabled
+BigWigs_Countdown_HeroesOfTheStorm: enabled
 BloodShieldTracker: disabled
 Capping: enabled
 Capping_Options: enabled
@@ -264,3 +264,4 @@ RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 BigWigs_KhazAlgar: enabled
+BigWigs_BattleForAzeroth: enabled

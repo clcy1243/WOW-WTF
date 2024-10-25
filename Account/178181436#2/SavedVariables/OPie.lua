@@ -9,9 +9,6 @@ OPie_SavedData = {
 ["_StoreVersion2"] = 122,
 ["ProfileStorage"] = {
 ["default"] = {
-["RotationTokens"] = {
-["OPCTAt"] = "OPCHSdd",
-},
 ["Bindings"] = {
 ["RaidSymbols"] = false,
 ["x"] = "SHIFT-Q",
@@ -333,9 +330,9 @@ OPie_SavedData = {
 224572,
 ["sliceToken"] = "ABueQKbC5ae",
 },
-["name"] = "消耗品",
-["save"] = true,
 ["limit"] = "龙听雨-巨龙之吼",
+["save"] = true,
+["name"] = "消耗品",
 },
 ["OPieAutoQuest"] = {
 {
@@ -366,5 +363,5 @@ OPie_SavedData = {
 },
 },
 },
-["_GameVersion"] = "11.0.2",
+["_GameVersion"] = "11.0.5",
 }

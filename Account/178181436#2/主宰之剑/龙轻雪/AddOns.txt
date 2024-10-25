@@ -27,7 +27,7 @@ DBM-Test-WarWithin: enabled
 DBM-Interrupts: enabled
 DBM-VPVV: enabled
 ACP: enabled
-AdvancedInterfaceOptions: enabled
+AdvancedInterfaceOptions: disabled
 AngryKeystones: enabled
 AskMrRobot: enabled
 Auctionator: disabled
@@ -69,15 +69,15 @@ Details_Streamer: enabled
 Details_TinyThreat: enabled
 Details_Vanguard: enabled
 Details_ChartViewer: enabled
-ElitismHelper: enabled
-GatherMate2: enabled
-GatherMate2_Data: enabled
-GladiatorlosSA2: enabled
-GladiatorlosSA2_zhCN_VV: enabled
+ElitismHelper: disabled
+GatherMate2: disabled
+GatherMate2_Data: disabled
+GladiatorlosSA2: disabled
+GladiatorlosSA2_zhCN_VV: disabled
 GTFO: enabled
-HandyNotes: enabled
-HandyNotes_Dragonflight: enabled
-HideTalkingHead: enabled
+HandyNotes: disabled
+HandyNotes_Dragonflight: disabled
+HideTalkingHead: disabled
 ImprovedStableFrame: enabled
 InstancePortals: enabled
 HereBeDragons: enabled
@@ -101,7 +101,7 @@ MSBTOptions: enabled
 !MyConsoleVariables: enabled
 Myslot: enabled
 MythicDungeonTools: enabled
-Pawn: enabled
+Pawn: disabled
 Quartz: disabled
 RareScanner: enabled
 SharedMedia: enabled
@@ -155,3 +155,5 @@ RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 BigWigs_Voice: enabled
+OmniCD: enabled
+OPie: disabled
